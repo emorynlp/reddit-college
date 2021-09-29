@@ -50,7 +50,7 @@ def subreddit_scrapper(scrapper: Reddit, cname: str, outdir: str):
                     'upvotes': cmt.score,
                 }
 
-            filename = '{}-{}-{}.json'.format(cname, sm.created_utc, sm.id)
+            filename = '{}-{}-{}.json'.format(cname, submission['created'], submission['sid'])
             with open(os.path.join(outdir, filename), 'w') as fout:
                 json.dump(submission, fout)
 
