@@ -42,6 +42,7 @@ def subreddit_scrapper(scrapper: Reddit, cname: str, outdir: str):
 
             for cmt in sm.comments:
                 if isinstance(cmt, MoreComments) or (not cmt.body): continue
+                if cmt.author and cmt.author.name == 'AutoModerator': continue
                 comments[cmt.id] = {
                     'link': cmt.permalink,
                     'text': cmt.body,
@@ -74,3 +75,4 @@ if __name__ == '__main__':
 
     scrapper = praw_scrapper(CREDENTIAL_FILE)
     for cname in CNAMES: subreddit_scrapper(scrapper, cname, os.path.join(OUTPUT_DIR, cname))
+
