@@ -66,13 +66,17 @@ def subreddit_scrapper(scrapper: Reddit, cname: str, outdir: str):
     new  = aux(scrapper.subreddit(cname).hot(limit=limit))
     new += aux(scrapper.subreddit(cname).top(limit=limit))
     print('{:<15} -> Total: {:>5}, New: {:>3}'.format(cname, len(submissions), new))
+    return len(submissions)
 
 
 if __name__ == '__main__':
-    CNAMES = ['College', 'CollegeRant', 'GradSchool', 'CollegeMajors', 'CollegeAdvice']
+    CNAMES = ['College', 'CollegeAdvice', 'CollegeMajors', 'CollegeRant', 'GradSchool']
     CREDENTIAL_FILE = sys.argv[1]
     OUTPUT_DIR = sys.argv[2]
 
     scrapper = praw_scrapper(CREDENTIAL_FILE)
-    for cname in CNAMES: subreddit_scrapper(scrapper, cname, os.path.join(OUTPUT_DIR, cname))
+    total = 0
+    for cname in CNAMES:
+        total += subreddit_scrapper(scrapper, cname, os.path.join(OUTPUT_DIR, cname))
+    print(total)
 
