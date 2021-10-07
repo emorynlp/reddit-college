@@ -70,7 +70,7 @@ def subreddit_scrapper(scrapper: Reddit, cname: str, outdir: str):
 
 
 if __name__ == '__main__':
-    CNAMES = ['College', 'CollegeAdvice', 'CollegeMajors', 'CollegeRant', 'GradSchool']
+    CNAMES = ['AskAcademia', 'College', 'CollegeAdvice', 'CollegeMajors', 'CollegeRant', 'Emory', 'GradSchool']
     CREDENTIAL_FILE = sys.argv[1]
     OUTPUT_DIR = sys.argv[2]
 
