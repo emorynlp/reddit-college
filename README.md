@@ -1,6 +1,31 @@
 # Reddit Data
 
-## Subreddits
+## Format
+
+A subreddit is represented by a dictionary whose key-value pairs are as follows:
+
+* `sid`: the subreddit ID (`str`).
+* `link`: the relative URL to the subreddit (`str`).
+* `title`: the title (`str`).
+* `text`: the content (`str`).
+* `author`: the author ID (`str`).
+* `created`: the time that the subreddit was created in milliseconds (`int`).
+* `updated`: the last time that the subreddit was updated in milliseconds (`int`).
+* `over_18`: `true` if this subreddit is marked as NSFW; otherwise, `false` (`bool`).
+* `upvotes`: the number of upvotes (`int`).
+* `upvote_ratio`: the percentage of upvotes from all votes (`float`).
+* `comments`: a dictionary where each pair of the key is a comment ID and the value is its corresponding comment.
+
+A comment is represented by a dictionary whose key-value pairs are as follows:
+
+* `link`: the relative URL to the comment (`str`).
+* `text`: the content (`str`).
+* `author`: the author ID (`str`).
+* `created`: the time that the subreddit was created in milliseconds (`int`).
+* `upvotes`: the number of upvotes (`int`).
+* `replies`: a dictionary where each pair of the key is a comment ID and the value is its corresponding comment.
+
+## Statistics
 
 | Date       | College | CollegeAdvice | CollegeMajors | CollegeRant | GradSchool | Total |
 |:----------:|--------:|--------------:|--------------:|------------:|-----------:|------:|
