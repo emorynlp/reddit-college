@@ -1,1 +1,329 @@
-{"sid": "lyhgv9", "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/", "title:": "My experience transitioning from Biology grad student to Data Scientist", "text": "Hey r/gradschool! I\u2019ve been getting asked a lot about my career transition lately so I thought I\u2019d put together a post because it might be of interest to others on this sub.\n\n**TL;DR** Did BSc, MSc, and PhD in Biology, realized academia was not for me, and figured pivoting to data science would be a good move considering lack of job prospects I was interested in. Had minimal prior coding experience, learned Python on my own, and am now working as a data scientist for a healthcare tech company (and loving it).\n\n---\n\nSo first I just want to say that I consider myself to have been a very average grad student. I was never the kind of person to read papers in my spare time, and I felt somewhat lazy/unmotivated compared to my peers. I always knew I wasn\u2019t interested in academia as a career path after grad school, but I really enjoyed my time in grad school and have no regrets. \n\nAfter my PhD I didn\u2019t really know what I wanted to do, but my boyfriend (now husband) had a year left in his PhD, so I wanted to stay in the same city. I started a post-doc with a PI in a medical field at the same school, and I ended up applying some of the very specific skills I\u2019d developed during my PhD (methods in mitochondrial bioenergetics, proteomics, and animal surgery) to his lab\u2019s medical model. I got on a bunch of papers and presented at conferences in that field which I think was really beneficial.  \n\nAfter about 1.5 years in the post-doc, I came across a really interesting opportunity \u2013 a PI in the biostatistics department at my school had grant money for an \u201cindustrial partnership\u201d and was looking for someone to work on a project involved machine learning and healthcare data. I will admit that I was VERY lucky here -- I met this PI and found out about this opportunity through my husband (a computer scientist), and circumstances around it were all a bit flukey and very lucky on my part. PI knew that I had little coding background (hadn\u2019t done real programming since high school), but he thought I asked good questions, had a solid stats background, and would be able to learn to code quickly, so he took a gamble on me.  \n  \nIt was pretty overwhelming to dive straight into coding, but it actually came pretty quickly. I went through a bunch of online courses (DataCamp, Coursera, Udemy) to learn the fundamentals, but I learned the most working with actual data. \u201cMachine learning\u201d had always sounded really intimidating but it\u2019s really just stats and was no more difficult to pick up than any other stats techniques. I worked on some basic stats/ML modelling problems for the healthcare company and they were really happy with the output. They also got a lot of value in the way that I approached problems, asked questions, and connected dots. After the funding the period ran out, I was hired onto the same team as contractor, and after a few months they made a full-time position for me. I\u2019ve been working on the same team for about 1.5 years now and absolutely love my job, and am so happy with the direction that I\u2019ve gone.\n\n**Things I work on now:**\n\n-\tSome basic data analysis (e.g. COVID impacts on patient outcomes)\n-\tNatural language processing (e.g. sentiment trends from patient surveys)\n-\tRecommender systems\n-\tPredictive analytics (e.g. projecting COVID outcomes)\n-\tBusiness analytics (e.g. how sales line up with targets)\n-\tBuilding data reporting tools (e.g. filterable reports that show health and business trends)\n-\tResearch collaborations with external partners\n\n**Skills that many people develop during grad school that are useful for this kind of work:**\n\n-\tCommunication. More specifically, communication of scientific/technical concepts to non-technical people. This is something that not all technical people are good at, and is something you develop in grad school as you teach and present work to different audiences. Very useful in industry/business!!\n-\tUsing data to build a story. I think this is also something big that non-scientists can lack. People don\u2019t always know what to ask for and what is possible, so it is really important to be able to take something broad and figure out how to use data to \u201ctell a story\u201d or frame it in a way that will have impact.\n-\tBeing able to quickly develop new skills. This is probably the most important thing I developed during grad school. I think most grad students develop this \u2013 like, you have to be able to read a new method and replicate it, or learn how to run new enzyme assay. The more you do this, the faster it gets to learn new things, even in a completely different field. \n-\t\u201cScientific thinking\u201d in general. What I mean by this is how to approach a new problem or troubleshoot something that\u2019s not working. I think the approach of hypothesis testing is extremely useful in industry/business, but not a lot of people think like this.\n\nTo be clear, I am not trying to convince anyone to leave academia for industry/data science. I just know there is a lot of interest (especially on this sub) in this kind of transition, and I figured my story might be useful to some people here. I'm happy to answer any questions!!", "author": "-kate-", "created": 1614966308, "retrieved": 1632954412, "over_18": false, "upvotes": 297, "upvote_ratio": 0.98, "comments": {"gpzd5ra": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpzd5ra/", "text": "Verily?", "author": "VolvoKoloradikal", "created": 1615049548, "upvotes": 1}, "gpymfph": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpymfph/", "text": "How is your work-life balance? What are the hours like?", "author": "fr4ctalica", "created": 1615042510, "upvotes": 3}, "gpyhbsl": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpyhbsl/", "text": "Well, as someone who is in an MS for Informatics program and has a biology undergraduate background, I regret moving over because I hate it so much. You don\u2019t even know lol.\n\nSo it doesn\u2019t work out for everyone... ML and NLP are things I have zero interest in. Most of the time the results are just pure bs. With that said I already made exit plans for my future that have nothing to do with informatics.", "author": "Thecatofirvine", "created": 1615041251, "upvotes": 2}, "gpuxdb1": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpuxdb1/", "text": "Thank you for this! Undergrad engineering student here. Hate engineering with a burning passion. Interested in climate/atmospheric science but have my reservations- I\u2019ve been thinking a lot about data science and honestly it\u2019s something I could go for. I love using MATLAB and python to analyze atmospheric data for my undergrad research and I used to think I hated programming. I would hate pure CS, but something like GIS i could get behind. So thank you for providing more insight into this field and I\u2019ll think about this as I figure out my future career!", "author": "AStruggling8", "created": 1615001255, "upvotes": 2}, "gpur6n0": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpur6n0/", "text": "How would I know if I have enough stats knowledge to do become a data scientist?", "author": "Jenna_bird", "created": 1614998987, "upvotes": 4}, "gpukyt9": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpukyt9/", "text": "There are a few paid data science camps that only accept people with PhDs, I wonder if they are scams or legit.", "author": "Ut_Prosim", "created": 1614996801, "upvotes": 3}, "gpufaut": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpufaut/", "text": "Great post. I'm in 3/4 of my neuroscience phd working with Bayesian models and control theory. Honestly don't like the prospect of doing a post doc and hoping with a slim chance to land an academic position. I'm working on some data science projects on the side to build a portfolio. Good to know that this transition can happen just worry I won't get an opportunity without a formal Data science background.", "author": "avandee1", "created": 1614994806, "upvotes": 7}, "gpudh4p": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpudh4p/", "text": "This is actually something I\u2019m trying to do. I may DM you some questions if that is ok with you. Thanks for this post too btw.", "author": "smashvillian35", "created": 1614994153, "upvotes": 3}, "gpu0ixx": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpu0ixx/", "text": "Going off tales I've heard from friends, the interview process for roles like software engineering and data science can be extremely tough. Did you have to do any specific preparation for your data science interviews?", "author": "shrekbehindu", "created": 1614989228, "upvotes": 9}, "gptz0hp": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gptz0hp/", "text": "If you remember them would you mind telling what online courses you took?", "author": "ghewer", "created": 1614988408, "upvotes": 3}, "gptywxo": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gptywxo/", "text": "Thank you for this post. I am currently at the stage of my PhD studies (analytical chemistry) where I'll be defining my thesis. I've been thinking hard as to what I want to do and picked up a small bit of coding in Matlab and python and come to enjoy it. I almost find it therapeutic.\n\nI want to blend my experience in chemistry/instrumentation and my background in laboratory medicine with machine learning and deep learning but want to know of your experience in a bit more detail.\n\nCould I DM you a few questions?", "author": "Chemie_ed", "created": 1614988356, "upvotes": 10}, "gpty8z3": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpty8z3/", "text": "You admit you were really lucky in getting that partnership, so how would someone without that luck transfer from Biology to Data Science?", "author": "ginohino", "created": 1614988002, "upvotes": 15}, "gptu86k": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gptu86k/", "text": "If it isn\u2019t too personal, would you share your starting/current salary in this role?", "author": "AlzScience", "created": 1614985866, "upvotes": 33}, "gpt9xyj": {"link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpt9xyj/", "text": "Besides the initial effort you put in to learn coding, how much time do you spend acquiring new skills? Is it something you have to do fairly regularly (eg, learn a new method, coding language, etc) or is it more like after you acquire a decently large toolbox of skills you're pretty much set?", "author": "seikuu", "created": 1614975974, "upvotes": 19}}}
+{
+  "sid": "lyhgv9",
+  "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/",
+  "title:": "My experience transitioning from Biology grad student to Data Scientist",
+  "text": "Hey r/gradschool! I\u2019ve been getting asked a lot about my career transition lately so I thought I\u2019d put together a post because it might be of interest to others on this sub.\n\n**TL;DR** Did BSc, MSc, and PhD in Biology, realized academia was not for me, and figured pivoting to data science would be a good move considering lack of job prospects I was interested in. Had minimal prior coding experience, learned Python on my own, and am now working as a data scientist for a healthcare tech company (and loving it).\n\n---\n\nSo first I just want to say that I consider myself to have been a very average grad student. I was never the kind of person to read papers in my spare time, and I felt somewhat lazy/unmotivated compared to my peers. I always knew I wasn\u2019t interested in academia as a career path after grad school, but I really enjoyed my time in grad school and have no regrets. \n\nAfter my PhD I didn\u2019t really know what I wanted to do, but my boyfriend (now husband) had a year left in his PhD, so I wanted to stay in the same city. I started a post-doc with a PI in a medical field at the same school, and I ended up applying some of the very specific skills I\u2019d developed during my PhD (methods in mitochondrial bioenergetics, proteomics, and animal surgery) to his lab\u2019s medical model. I got on a bunch of papers and presented at conferences in that field which I think was really beneficial.  \n\nAfter about 1.5 years in the post-doc, I came across a really interesting opportunity \u2013 a PI in the biostatistics department at my school had grant money for an \u201cindustrial partnership\u201d and was looking for someone to work on a project involved machine learning and healthcare data. I will admit that I was VERY lucky here -- I met this PI and found out about this opportunity through my husband (a computer scientist), and circumstances around it were all a bit flukey and very lucky on my part. PI knew that I had little coding background (hadn\u2019t done real programming since high school), but he thought I asked good questions, had a solid stats background, and would be able to learn to code quickly, so he took a gamble on me.  \n  \nIt was pretty overwhelming to dive straight into coding, but it actually came pretty quickly. I went through a bunch of online courses (DataCamp, Coursera, Udemy) to learn the fundamentals, but I learned the most working with actual data. \u201cMachine learning\u201d had always sounded really intimidating but it\u2019s really just stats and was no more difficult to pick up than any other stats techniques. I worked on some basic stats/ML modelling problems for the healthcare company and they were really happy with the output. They also got a lot of value in the way that I approached problems, asked questions, and connected dots. After the funding the period ran out, I was hired onto the same team as contractor, and after a few months they made a full-time position for me. I\u2019ve been working on the same team for about 1.5 years now and absolutely love my job, and am so happy with the direction that I\u2019ve gone.\n\n**Things I work on now:**\n\n-\tSome basic data analysis (e.g. COVID impacts on patient outcomes)\n-\tNatural language processing (e.g. sentiment trends from patient surveys)\n-\tRecommender systems\n-\tPredictive analytics (e.g. projecting COVID outcomes)\n-\tBusiness analytics (e.g. how sales line up with targets)\n-\tBuilding data reporting tools (e.g. filterable reports that show health and business trends)\n-\tResearch collaborations with external partners\n\n**Skills that many people develop during grad school that are useful for this kind of work:**\n\n-\tCommunication. More specifically, communication of scientific/technical concepts to non-technical people. This is something that not all technical people are good at, and is something you develop in grad school as you teach and present work to different audiences. Very useful in industry/business!!\n-\tUsing data to build a story. I think this is also something big that non-scientists can lack. People don\u2019t always know what to ask for and what is possible, so it is really important to be able to take something broad and figure out how to use data to \u201ctell a story\u201d or frame it in a way that will have impact.\n-\tBeing able to quickly develop new skills. This is probably the most important thing I developed during grad school. I think most grad students develop this \u2013 like, you have to be able to read a new method and replicate it, or learn how to run new enzyme assay. The more you do this, the faster it gets to learn new things, even in a completely different field. \n-\t\u201cScientific thinking\u201d in general. What I mean by this is how to approach a new problem or troubleshoot something that\u2019s not working. I think the approach of hypothesis testing is extremely useful in industry/business, but not a lot of people think like this.\n\nTo be clear, I am not trying to convince anyone to leave academia for industry/data science. I just know there is a lot of interest (especially on this sub) in this kind of transition, and I figured my story might be useful to some people here. I'm happy to answer any questions!!",
+  "author": "-kate-",
+  "created": 1614966308,
+  "over_18": false,
+  "upvotes": 297,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "gpzd5ra": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpzd5ra/",
+      "text": "Verily?",
+      "author": "VolvoKoloradikal",
+      "created": 1615049548,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gpymfph": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpymfph/",
+      "text": "How is your work-life balance? What are the hours like?",
+      "author": "fr4ctalica",
+      "created": 1615042510,
+      "upvotes": 3,
+      "replies": {
+        "gq02tqc": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gq02tqc/",
+          "text": "I think my work-life balance is good! I am fully remote right now (I was like 95% remote before COVID, and my company is super flexible with remote work). I generally am at my computer 9-5 but others on my team work different hours (we have people in different time zones). No one keeps track of hours, and work is measured more by output. I take very generous breaks through the day. Sometimes things get crazy and I work late hours/weekends, but I generally only do that when I\u2019m really engaged with my work and want to be doing it. It just gets difficult sometimes when finding enough continuous time to do work when my calendar is full of meetings. I also think with COVID, me and my husband have both been a little hyper focused on work lately because we don\u2019t have much else to be doing, but we have a baby on the way so I know that will change. Most others at my company do not work at all after 5 so that\u2019s good.",
+          "author": "-kate-",
+          "created": 1615058926,
+          "upvotes": 3,
+          "replies": {
+            "gq085uk": {
+              "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gq085uk/",
+              "text": "That's great to hear, I finished my PhD and have been applying to data science jobs. I have heard things about long hours when working in startups and such but it seems like in more established companies things are good. Thanks for this post and your answer!",
+              "author": "fr4ctalica",
+              "created": 1615060667,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gpyhbsl": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpyhbsl/",
+      "text": "Well, as someone who is in an MS for Informatics program and has a biology undergraduate background, I regret moving over because I hate it so much. You don\u2019t even know lol.\n\nSo it doesn\u2019t work out for everyone... ML and NLP are things I have zero interest in. Most of the time the results are just pure bs. With that said I already made exit plans for my future that have nothing to do with informatics.",
+      "author": "Thecatofirvine",
+      "created": 1615041251,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gpuxdb1": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpuxdb1/",
+      "text": "Thank you for this! Undergrad engineering student here. Hate engineering with a burning passion. Interested in climate/atmospheric science but have my reservations- I\u2019ve been thinking a lot about data science and honestly it\u2019s something I could go for. I love using MATLAB and python to analyze atmospheric data for my undergrad research and I used to think I hated programming. I would hate pure CS, but something like GIS i could get behind. So thank you for providing more insight into this field and I\u2019ll think about this as I figure out my future career!",
+      "author": "AStruggling8",
+      "created": 1615001255,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gpur6n0": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpur6n0/",
+      "text": "How would I know if I have enough stats knowledge to do become a data scientist?",
+      "author": "Jenna_bird",
+      "created": 1614998987,
+      "upvotes": 4,
+      "replies": {
+        "gpvadaw": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpvadaw/",
+          "text": "If you understand at a theoretical level multiple regression, maximum likelihood, hierarchical models, and/or block designs (pretty standard PhD-level applied stats) you would be ahead of a lot of professional data scientists, in my experience.",
+          "author": "bvdzag",
+          "created": 1615006714,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "gpukyt9": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpukyt9/",
+      "text": "There are a few paid data science camps that only accept people with PhDs, I wonder if they are scams or legit.",
+      "author": "Ut_Prosim",
+      "created": 1614996801,
+      "upvotes": 3,
+      "replies": {
+        "gpvcn3e": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpvcn3e/",
+          "text": "Insight has been one I've seen people use a lot and is very legit.",
+          "author": "Stereoisomer",
+          "created": 1615007815,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "gpvr1sc": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpvr1sc/",
+          "text": "Do you have any examples you can share?",
+          "author": "fellowbruin000",
+          "created": 1615014915,
+          "upvotes": 3,
+          "replies": {
+            "gpyvv7n": {
+              "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpyvv7n/",
+              "text": "These guys claim to be postdoctoral applicants only:\n\nhttps://insightfellows.com/data-science",
+              "author": "Ut_Prosim",
+              "created": 1615045344,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gpufaut": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpufaut/",
+      "text": "Great post. I'm in 3/4 of my neuroscience phd working with Bayesian models and control theory. Honestly don't like the prospect of doing a post doc and hoping with a slim chance to land an academic position. I'm working on some data science projects on the side to build a portfolio. Good to know that this transition can happen just worry I won't get an opportunity without a formal Data science background.",
+      "author": "avandee1",
+      "created": 1614994806,
+      "upvotes": 7,
+      "replies": {
+        "gpujfjs": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpujfjs/",
+          "text": "Yeah the hardest part is getting the opportunity in the first place - you just need someone to give you the chance to show yourself. It\u2019s hard to get a foot in the door without formal data science training, but interdisciplinary collaborations are a good place to start. It sucks to say but it really all is about your network.",
+          "author": "-kate-",
+          "created": 1614996257,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "gpudh4p": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpudh4p/",
+      "text": "This is actually something I\u2019m trying to do. I may DM you some questions if that is ok with you. Thanks for this post too btw.",
+      "author": "smashvillian35",
+      "created": 1614994153,
+      "upvotes": 3,
+      "replies": {
+        "gpuiyi8": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpuiyi8/",
+          "text": "Absolutely, I\u2019m happy to chat!",
+          "author": "-kate-",
+          "created": 1614996090,
+          "upvotes": 3,
+          "replies": {
+            "gpumv6w": {
+              "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpumv6w/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1614997461,
+              "upvotes": 3,
+              "replies": {
+                "gpun1cq": {
+                  "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpun1cq/",
+                  "text": "Hey absolutely! I\u2019m happy to chat and answer any other questions :)",
+                  "author": "-kate-",
+                  "created": 1614997521,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gpu0ixx": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpu0ixx/",
+      "text": "Going off tales I've heard from friends, the interview process for roles like software engineering and data science can be extremely tough. Did you have to do any specific preparation for your data science interviews?",
+      "author": "shrekbehindu",
+      "created": 1614989228,
+      "upvotes": 9,
+      "replies": {
+        "gpu0txg": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpu0txg/",
+          "text": "I actually didn\u2019t go through any official interviews. I got involved with my company through my postdoc, and they saw enough value in me that they hired me directly when the postdoc was done.",
+          "author": "-kate-",
+          "created": 1614989397,
+          "upvotes": 10,
+          "replies": {}
+        }
+      }
+    },
+    "gptz0hp": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gptz0hp/",
+      "text": "If you remember them would you mind telling what online courses you took?",
+      "author": "ghewer",
+      "created": 1614988408,
+      "upvotes": 3,
+      "replies": {
+        "gpu15jc": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpu15jc/",
+          "text": "I did the \u201cData Scientist with Python\u201d career track with Python in DataCamp, and a course on Udemy called \u201cData Science & Deep Learning for Business: 20 case studies\u201d. Can\u2019t remember the exact coursera course but there are a bunch of good ones on there!",
+          "author": "-kate-",
+          "created": 1614989573,
+          "upvotes": 13,
+          "replies": {}
+        }
+      }
+    },
+    "gptywxo": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gptywxo/",
+      "text": "Thank you for this post. I am currently at the stage of my PhD studies (analytical chemistry) where I'll be defining my thesis. I've been thinking hard as to what I want to do and picked up a small bit of coding in Matlab and python and come to enjoy it. I almost find it therapeutic.\n\nI want to blend my experience in chemistry/instrumentation and my background in laboratory medicine with machine learning and deep learning but want to know of your experience in a bit more detail.\n\nCould I DM you a few questions?",
+      "author": "Chemie_ed",
+      "created": 1614988356,
+      "upvotes": 10,
+      "replies": {
+        "gpu0owe": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpu0owe/",
+          "text": "Absolutely!",
+          "author": "-kate-",
+          "created": 1614989320,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "gpty8z3": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpty8z3/",
+      "text": "You admit you were really lucky in getting that partnership, so how would someone without that luck transfer from Biology to Data Science?",
+      "author": "ginohino",
+      "created": 1614988002,
+      "upvotes": 15,
+      "replies": {
+        "gpu0me9": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpu0me9/",
+          "text": "Well so a part of it was luck. I think a big part is being open to branching outside your field. I would recommend trying to collaborate with people in different fields, especially those with industry connections. There are lots of grants available for academic/industry partnerships, so if you can find a prof and a company and get funded for a project, it\u2019s a great way to get a foot in the door with that company.",
+          "author": "-kate-",
+          "created": 1614989282,
+          "upvotes": 20,
+          "replies": {
+            "gpu1ntg": {
+              "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpu1ntg/",
+              "text": "Ah okay, with COVID and being in a department that is wet bench heavy, its been difficult to find people into programming and data science. Thanks for the post though, I myself am trying to branch out.",
+              "author": "ginohino",
+              "created": 1614989853,
+              "upvotes": 6,
+              "replies": {
+                "gpu1z2p": {
+                  "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpu1z2p/",
+                  "text": "COVID makes that really difficult for sure. My \u201cnetworking\u201d and setting up collaborations was mostly done at my university\u2019s grad bar on Friday afternoons... definitely way more difficult to meet and connect with people these days.",
+                  "author": "-kate-",
+                  "created": 1614990011,
+                  "upvotes": 6,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gpvcgae": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpvcgae/",
+          "text": "You can look into the Insight Data Fellowship",
+          "author": "Stereoisomer",
+          "created": 1615007730,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "gptu86k": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gptu86k/",
+      "text": "If it isn\u2019t too personal, would you share your starting/current salary in this role?",
+      "author": "AlzScience",
+      "created": 1614985866,
+      "upvotes": 33,
+      "replies": {
+        "gptxswr": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gptxswr/",
+          "text": "Sure thing. The computer science post doc was ~65k. When I started working directly for the company I was at 80k. I\u2019ve since gotten two raises and am now >100k.",
+          "author": "-kate-",
+          "created": 1614987763,
+          "upvotes": 92,
+          "replies": {
+            "gptydj9": {
+              "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gptydj9/",
+              "text": "congrats, that's awesome. This is what sells stem to people. It doesn't matter you don't do biology, you're still a scientists",
+              "author": "ChemDogPaltz",
+              "created": 1614988070,
+              "upvotes": 44,
+              "replies": {}
+            },
+            "gpva5j9": {
+              "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpva5j9/",
+              "text": "Holy moly. It makes me so happy to know that people at the top of the academic ladder CAN get paid what they truly deserve. Congrats on doing so well!",
+              "author": "ughthisguyagain1111",
+              "created": 1615006628,
+              "upvotes": 9,
+              "replies": {}
+            },
+            "gpux94j": {
+              "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpux94j/",
+              "text": "Color me sold. I'm really hoping to somehow break into big data where I work and this kind of wage structure really is a big incentive.",
+              "author": "alvarkresh",
+              "created": 1615001212,
+              "upvotes": 4,
+              "replies": {
+                "gqav5ge": {
+                  "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gqav5ge/",
+                  "text": "At my workplace I'm the only one with a MS, because everyone has at least a PhD (and more commonly PhD with years of experience). It pays a lot because there's a lot of competition for those high end positions.",
+                  "author": "mizmato",
+                  "created": 1615270713,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gpt9xyj": {
+      "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gpt9xyj/",
+      "text": "Besides the initial effort you put in to learn coding, how much time do you spend acquiring new skills? Is it something you have to do fairly regularly (eg, learn a new method, coding language, etc) or is it more like after you acquire a decently large toolbox of skills you're pretty much set?",
+      "author": "seikuu",
+      "created": 1614975974,
+      "upvotes": 19,
+      "replies": {
+        "gptgeea": {
+          "link": "/r/GradSchool/comments/lyhgv9/my_experience_transitioning_from_biology_grad/gptgeea/",
+          "text": "The effort/time investing in learning coding was definitely really heavy upfront. The stuff I'm learning these days is definitely at a much slower and more relaxed pace, and really only as it comes up and is relevant.\n\nI think that there's a lot that you can do with a large toolbox of skills, but in data science there will always be new things to learn. There will be methods/solutions to problems that you won't know about until they're directly applicable to something you're working on, and I think learning these things continuously as you go is a better approach than trying to develop a \"skill toolbox\" ahead of time before knowing what you'll really be using.",
+          "author": "-kate-",
+          "created": 1614978924,
+          "upvotes": 22,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634065664
+}

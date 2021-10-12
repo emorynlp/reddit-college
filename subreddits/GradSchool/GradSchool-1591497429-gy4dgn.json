@@ -1,1 +1,285 @@
-{"sid": "gy4dgn", "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/", "title:": "This is your regular reminder that you should be backing up your important files using the 3-2-1 rule", "text": "(At least) three different saves on (at least) two different devices/forms of media with (at least) one in a different physical location.\n\nBecause files can become corrupted, hard drives can fail, and buildings can be destroyed.", "author": "ATIsPublicHealth", "created": 1591497429, "retrieved": 1632953722, "over_18": false, "upvotes": 479, "upvote_ratio": 0.99, "comments": {"ftb4ka5": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ftb4ka5/", "text": "I have my important stuff on dropbox which is regularly synced over three different laptops (although all are generally stored in one place), and also on github.\n\nFortunately my important files are only about 800 mb total since it's almost all just source code and pdfs. I feel bad for people whose work is video editing or something who end up with tons of huge files...", "author": "iammaxhailme", "created": 1591567186, "upvotes": 0}, "ftb4fxn": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ftb4fxn/", "text": "Thanks for this reminder, updating my backup now", "author": "MyToenailsAreThicc", "created": 1591567118, "upvotes": 2}, "ftaslb8": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ftaslb8/", "text": "Might have been overkill but I always emailed a copy of my manuscript to myself (from one email address to another) at the end of each day as well.  Just helped me sleep better knowing it was in two email accounts.", "author": "purplecowgirlnerves", "created": 1591560685, "upvotes": 1}, "ft9ohof": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft9ohof/", "text": "I just use google drive", "author": "AvidInspiration", "created": 1591538458, "upvotes": 1}, "ft9hqc8": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft9hqc8/", "text": "The building my department is housed in flooded from top to bottom earlier this year. Following this advice may have helped some people", "author": "saadinameh", "created": 1591533657, "upvotes": 2}, "ft9f0fk": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft9f0fk/", "text": "My way:\n\n1. Local file\n2. An external drive\n3. Cloud", "author": "furrble9", "created": 1591531405, "upvotes": 4}, "ft9e5ai": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft9e5ai/", "text": "I learned this the hard way. I had five weeks of papers destroyed when my flash drive failed.", "author": "Psyche81", "created": 1591530641, "upvotes": 2}, "ft8qudp": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8qudp/", "text": "And don\u2019t exclusively trust cloud services. You need multiple copies in different physical locations that you have access to.\n\nLearned that one the hard way after cloud-based services failed me, destroying all copies both on the cloud *and on my computer*.\n\nFor the more technologically savvy, it\u2019s always good to use a versioning tool like git too.", "author": null, "created": 1591508046, "upvotes": 11}, "ft8ibcx": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8ibcx/", "text": "Also remember that your work is valuable and that there are people who would love to see what you're working on before it gets published. So the security of your backups is an important factor as well.", "author": "ATIsPublicHealth", "created": 1591501891, "upvotes": 16}, "ft8fn72": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8fn72/", "text": "Stupid question, but if I back up exclusively to the cloud, does this mean using two different cloud servers (e.g. dropbox, google drive) will work? Can\u2019t afford to get an external hard drive at the moment so it\u2019s the best I can do", "author": "lightschangecolour", "created": 1591500139, "upvotes": 2}, "ft8es6j": {"link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8es6j/", "text": "Any advice for backing up a machine we don't have physical access to but use remotely?", "author": "astroblade", "created": 1591499582, "upvotes": 51}}}
+{
+  "sid": "gy4dgn",
+  "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/",
+  "title:": "This is your regular reminder that you should be backing up your important files using the 3-2-1 rule",
+  "text": "(At least) three different saves on (at least) two different devices/forms of media with (at least) one in a different physical location.\n\nBecause files can become corrupted, hard drives can fail, and buildings can be destroyed.",
+  "author": "ATIsPublicHealth",
+  "created": 1591497429,
+  "over_18": false,
+  "upvotes": 479,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "ftb4ka5": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ftb4ka5/",
+      "text": "I have my important stuff on dropbox which is regularly synced over three different laptops (although all are generally stored in one place), and also on github.\n\nFortunately my important files are only about 800 mb total since it's almost all just source code and pdfs. I feel bad for people whose work is video editing or something who end up with tons of huge files...",
+      "author": "iammaxhailme",
+      "created": 1591567186,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "ftb4fxn": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ftb4fxn/",
+      "text": "Thanks for this reminder, updating my backup now",
+      "author": "MyToenailsAreThicc",
+      "created": 1591567118,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ftaslb8": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ftaslb8/",
+      "text": "Might have been overkill but I always emailed a copy of my manuscript to myself (from one email address to another) at the end of each day as well.  Just helped me sleep better knowing it was in two email accounts.",
+      "author": "purplecowgirlnerves",
+      "created": 1591560685,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ft9ohof": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft9ohof/",
+      "text": "I just use google drive",
+      "author": "AvidInspiration",
+      "created": 1591538458,
+      "upvotes": 1,
+      "replies": {
+        "ftathyt": {
+          "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ftathyt/",
+          "text": "Yeah, this is what I recommend now. It\u2019s so simple. Just keep your documents in the cloud. Most major providers like Google, Dropbox, and Microsoft have great backup features like version history and recovery if something should ever go wrong. Don\u2019t bother relying on your own computer.",
+          "author": "jekshmeck",
+          "created": 1591561180,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "ft9hqc8": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft9hqc8/",
+      "text": "The building my department is housed in flooded from top to bottom earlier this year. Following this advice may have helped some people",
+      "author": "saadinameh",
+      "created": 1591533657,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ft9f0fk": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft9f0fk/",
+      "text": "My way:\n\n1. Local file\n2. An external drive\n3. Cloud",
+      "author": "furrble9",
+      "created": 1591531405,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "ft9e5ai": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft9e5ai/",
+      "text": "I learned this the hard way. I had five weeks of papers destroyed when my flash drive failed.",
+      "author": "Psyche81",
+      "created": 1591530641,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ft8qudp": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8qudp/",
+      "text": "And don\u2019t exclusively trust cloud services. You need multiple copies in different physical locations that you have access to.\n\nLearned that one the hard way after cloud-based services failed me, destroying all copies both on the cloud *and on my computer*.\n\nFor the more technologically savvy, it\u2019s always good to use a versioning tool like git too.",
+      "author": null,
+      "created": 1591508046,
+      "upvotes": 11,
+      "replies": {
+        "ft8y6go": {
+          "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8y6go/",
+          "text": "if you have all your stuff on a cloud and computer (ex.icloud) and do backups on time machine, would that count as 3 you think?",
+          "author": "kwee00",
+          "created": 1591514588,
+          "upvotes": 1,
+          "replies": {
+            "ft917sw": {
+              "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft917sw/",
+              "text": "No, at least one of those needs to be non cloud-based and not your laptop, in the case that your time-machine copies are held on the same computer. A physical copy on a separate hard drive, USB, or computer.\n\nI don't know about everyone else, but I don't copy *all* things across all of my different cloud-based storage, email, github, and hard drives. I copy all progress across a couple of servers, but only significant milestones go on the others. If I completely lost access to my computer and the internet today, I'd lose a couple of days of work at most but I would still lose something.",
+              "author": null,
+              "created": 1591517594,
+              "upvotes": 4,
+              "replies": {}
+            },
+            "ft97av1": {
+              "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft97av1/",
+              "text": "So let's say you have your files on your notebook synced to nextCloud.\n\nNow you delete all files on your laptop and then sync them with nextCould.\n\nWell the deletion of the files got pushed to the nextCloud Server which then in return deletes all the files in the cloud storage.\n\nWell now you are left without any backup to restore from.\n\n(NextCloud has the possibility to restore deleted files for some time though).\n\n\nAnd now that I am on it:\n\nAlways test if you can restore data from your backups!",
+              "author": "pag07",
+              "created": 1591523923,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ft8ibcx": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8ibcx/",
+      "text": "Also remember that your work is valuable and that there are people who would love to see what you're working on before it gets published. So the security of your backups is an important factor as well.",
+      "author": "ATIsPublicHealth",
+      "created": 1591501891,
+      "upvotes": 16,
+      "replies": {
+        "ft9zdzs": {
+          "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft9zdzs/",
+          "text": "Especially if you work with PHI or other protected information-in that case you have a duty to keep it secure.",
+          "author": null,
+          "created": 1591544923,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ft8fn72": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8fn72/",
+      "text": "Stupid question, but if I back up exclusively to the cloud, does this mean using two different cloud servers (e.g. dropbox, google drive) will work? Can\u2019t afford to get an external hard drive at the moment so it\u2019s the best I can do",
+      "author": "lightschangecolour",
+      "created": 1591500139,
+      "upvotes": 2,
+      "replies": {
+        "ft8gszr": {
+          "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8gszr/",
+          "text": "You can put something in two cloud locations by emailing the file to yourself. This is obviously not a solution for overall file management, but is an extra backup layer if you spend a ton of time working on something one day.",
+          "author": "MidnightSlinks",
+          "created": 1591500899,
+          "upvotes": 12,
+          "replies": {
+            "ft8h2ur": {
+              "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8h2ur/",
+              "text": "If we're talking best practices, I'd just add to not use google drive and send it to yourself via gmail. You wouldn't want both copies to be on Google servers.",
+              "author": "ATIsPublicHealth",
+              "created": 1591501078,
+              "upvotes": 6,
+              "replies": {
+                "ft8hap8": {
+                  "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8hap8/",
+                  "text": "I also recommend emailing across emails. So person to school or vice versa. Both should store the attachment, so you're putting it on 2 servers at once and can access it if something goes down.",
+                  "author": "MidnightSlinks",
+                  "created": 1591501224,
+                  "upvotes": 6,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "ft8gsie": {
+          "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8gsie/",
+          "text": "Two different cloud services would work. Your hard drive, a cloud server, and a flash drive is another option (yes, CS people, I know that flash drives are less than ideal, but it's better than nothing).\n\nI shy away from advising from multiple cloud services because I know how restrictive my university's data management policy is. Technically, I'm not allowed to use any, even the ones that we contract with. I assume that many universities have similarly restrictive policies.\n\nEdit: Apparently most universities aren't nearly as restrictive",
+          "author": "ATIsPublicHealth",
+          "created": 1591500890,
+          "upvotes": 2,
+          "replies": {
+            "ft8h8x9": {
+              "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8h8x9/",
+              "text": "Ah I see. I haven\u2019t checked out my university\u2019s data management policy, but everyone I work with uses dropbox so it\u2019s either approved, or my whole department is unintentionally flouting an unknown rule",
+              "author": "lightschangecolour",
+              "created": 1591501191,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "ft8uj7f": {
+              "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8uj7f/",
+              "text": "Do you deal with PII or other sorts of stuff that needs additional data safeguards? I haven't heard of a school having requirements on where students keep their data stored unless it's that kind of stuff.\n\nI'm at a national lab and deal with ITAR stuff, but we can still use services which are GovCloud compliant. MS and Amazon both offer services with it, I believe. You can also do cloud backups with software like Druva InSync if your IT department wants to pay for it.",
+              "author": "racinreaver",
+              "created": 1591511191,
+              "upvotes": 2,
+              "replies": {
+                "ft8zj4o": {
+                  "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8zj4o/",
+                  "text": "Admittedly, my university wants *everything* handled in-house. We're not allowed to use the external cloud service that we contract with because we're supposed to use the internal network drive that we have access to. To their credit, it IS more secure and if they're paying for the server space (for PII and PHI data) then they would like people to use it.",
+                  "author": "ATIsPublicHealth",
+                  "created": 1591515909,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ft8es6j": {
+      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8es6j/",
+      "text": "Any advice for backing up a machine we don't have physical access to but use remotely?",
+      "author": "astroblade",
+      "created": 1591499582,
+      "upvotes": 51,
+      "replies": {
+        "ft8gaj4": {
+          "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8gaj4/",
+          "text": "It's going to depend a lot on your specific situation. The first thing I would do is contact my IT services through the school or whoever is managing the computer I'm connecting to. \n\nIf your university's data management policy and your connection allows it, you could try to save a copy to your local computer, but, again, I'd check first.\n\nHopefully somebody with more expertise will chime in.",
+          "author": "ATIsPublicHealth",
+          "created": 1591500567,
+          "upvotes": 16,
+          "replies": {
+            "ft8gvj5": {
+              "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8gvj5/",
+              "text": "I\u2019d really hope that any even semi-professional IT dept. would making regular backups and storing them off in different location. But that\u2019s probably wishful thinking.",
+              "author": "chairman-me0w",
+              "created": 1591500944,
+              "upvotes": 9,
+              "replies": {
+                "ft8hmw6": {
+                  "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8hmw6/",
+                  "text": "I do agree, but also, the 3-2-1 rule is predicated on that not being good enough. If leaving it to the school's IT department was adequate, we wouldn't need a 3-2-1 rule, it would just be \"store it on google drive because they have redundant servers in different locations.\"",
+                  "author": "ATIsPublicHealth",
+                  "created": 1591501452,
+                  "upvotes": 6,
+                  "replies": {
+                    "ft8u1kj": {
+                      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8u1kj/",
+                      "text": "What happens if you lose access to your Google account?",
+                      "author": "racinreaver",
+                      "created": 1591510755,
+                      "upvotes": 5,
+                      "replies": {
+                        "ft8vw4y": {
+                          "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8vw4y/",
+                          "text": "Exactly",
+                          "author": "ATIsPublicHealth",
+                          "created": 1591512417,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "ft8htak": {
+                      "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8htak/",
+                      "text": "That\u2019s fair. I was referring to specific case above about the remote computer. In which case, a github repo or equivalent is probably ideal.",
+                      "author": "chairman-me0w",
+                      "created": 1591501573,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "ft8r1py": {
+              "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8r1py/",
+              "text": "And yes, it is 200% worth your time to work with the University on finding a way to back up your work.",
+              "author": "JerkJenkins",
+              "created": 1591508211,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "ft8octz": {
+          "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft8octz/",
+          "text": "SCP important files and store on Github?",
+          "author": "WildlifePhysics",
+          "created": 1591506098,
+          "upvotes": 2,
+          "replies": {
+            "ft9mwv3": {
+              "link": "/r/GradSchool/comments/gy4dgn/this_is_your_regular_reminder_that_you_should_be/ft9mwv3/",
+              "text": "That's fine for small files but backing up large amounts of data needs to be done differently",
+              "author": "astroblade",
+              "created": 1591537377,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634067455
+}

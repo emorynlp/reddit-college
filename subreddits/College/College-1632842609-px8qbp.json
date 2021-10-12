@@ -1,1 +1,55 @@
-{"sid": "px8qbp", "link": "/r/college/comments/px8qbp/anyone_good_with_stocks/", "title:": "Anyone Good with Stocks?", "text": "My CIS101 class is doing an assignment where we have to gather five stocks and input the correct data onto Google Spreadsheet, that's easy enough, but they want us to use formulas to calculate Total Cost at Purchase, Current Total Value, Change in Dollar Value, and Percentage of Change in Value. \n\nThen we have to create graphs and showcase our findings, again, relatively easy right? \n\nI absolutely SUCK at math and anything to do with it, it just doesn't click with me no matter what I do... \n\nDoes anyone mind helping me with this?", "author": "TheBlackRosePetals", "created": 1632842609, "retrieved": 1632945472, "over_18": false, "upvotes": 1, "upvote_ratio": 1.0, "comments": {"hennkoz": {"link": "/r/college/comments/px8qbp/anyone_good_with_stocks/hennkoz/", "text": "This assignment has little to do with stocks. This is basic algebra.\n\nTotal Cost at Purchase = SUM(Stocks purchased \\* Initial Price)\n\nTotal Current Value = SUM(Stocks purchased \\* Current Price)\n\nChange in Dollar Value = Total Current Value - Total Cost at Purchase\n\nPercentage of Change in Value = (Change in Dollar Value / Total Cost at Purchase) \\* 100", "author": "WCCobra", "created": 1632871201, "upvotes": 2}, "hem4p7s": {"link": "/r/college/comments/px8qbp/anyone_good_with_stocks/hem4p7s/", "text": "Go over to r/stocks", "author": "j0hnamp0ng", "created": 1632847632, "upvotes": 0}}}
+{
+  "sid": "px8qbp",
+  "link": "/r/college/comments/px8qbp/anyone_good_with_stocks/",
+  "title:": "Anyone Good with Stocks?",
+  "text": "My CIS101 class is doing an assignment where we have to gather five stocks and input the correct data onto Google Spreadsheet, that's easy enough, but they want us to use formulas to calculate Total Cost at Purchase, Current Total Value, Change in Dollar Value, and Percentage of Change in Value. \n\nThen we have to create graphs and showcase our findings, again, relatively easy right? \n\nI absolutely SUCK at math and anything to do with it, it just doesn't click with me no matter what I do... \n\nDoes anyone mind helping me with this?",
+  "author": "TheBlackRosePetals",
+  "created": 1632842609,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hennkoz": {
+      "link": "/r/college/comments/px8qbp/anyone_good_with_stocks/hennkoz/",
+      "text": "This assignment has little to do with stocks. This is basic algebra.\n\nTotal Cost at Purchase = SUM(Stocks purchased \\* Initial Price)\n\nTotal Current Value = SUM(Stocks purchased \\* Current Price)\n\nChange in Dollar Value = Total Current Value - Total Cost at Purchase\n\nPercentage of Change in Value = (Change in Dollar Value / Total Cost at Purchase) \\* 100",
+      "author": "WCCobra",
+      "created": 1632871201,
+      "upvotes": 2,
+      "replies": {
+        "heno2m0": {
+          "link": "/r/college/comments/px8qbp/anyone_good_with_stocks/heno2m0/",
+          "text": "OMG THANK YOU \ud83d\udc96\ud83d\udc96\ud83d\udc96",
+          "author": "TheBlackRosePetals",
+          "created": 1632871431,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "herarbi": {
+          "link": "/r/college/comments/px8qbp/anyone_good_with_stocks/herarbi/",
+          "text": "Ok... I did what you said, and applied the formulas to the Cells, but the math I do on paper is THOUSANDS wrong than the computation... What am I doing wrong?\n\nEXAMPLE:\n\nThe Formula for Total Cost as Purchase is =SUM(5\\*3,144.88) which equals $31,448.80 by the calculations of the computer. But on a basic calculator, it comes out to $15,724.04\n\nWhat am I doing wrong?",
+          "author": "TheBlackRosePetals",
+          "created": 1632942540,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hers256": {
+          "link": "/r/college/comments/px8qbp/anyone_good_with_stocks/hers256/",
+          "text": "NVM, My hubby showed me where I was fucking up!",
+          "author": "TheBlackRosePetals",
+          "created": 1632949528,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hem4p7s": {
+      "link": "/r/college/comments/px8qbp/anyone_good_with_stocks/hem4p7s/",
+      "text": "Go over to r/stocks",
+      "author": "j0hnamp0ng",
+      "created": 1632847632,
+      "upvotes": 0,
+      "replies": {}
+    }
+  },
+  "updated": 1634051961
+}

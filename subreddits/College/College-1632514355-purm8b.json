@@ -1,1 +1,54 @@
-{"sid": "purm8b", "link": "/r/college/comments/purm8b/failed_my_calculus_test/", "title:": "Failed my Calculus Test...", "text": "I just got my test back and i got a 36/100... i'm not too surprised i guess as i had very little understanding of the base of the lessons and only had a slight grasp of it but seeing my grade on paper just made me depressed and stressed. I don't know how to get better in this class because i have trouble understanding the lessons the way my teacher teaches them and it seems like the next unit we're going over is going to be just as confusing. I didn't go to tutoring before the first test but i am going to it now and i think it's helping but this entire class has got me stressed because of how little i understand the material. Even when i looked up youtube videos on the subject to try and get a different teaching perspective, i still didn't understand what was going on... it's not like i was bad at math before college but i think it's just calculus that is giving me trouble which is bad since i'm expected to take calc 2 right after this.", "author": "jasu4321", "created": 1632514355, "retrieved": 1632946036, "over_18": false, "upvotes": 5, "upvote_ratio": 0.86, "comments": {"hedomit": {"link": "/r/college/comments/purm8b/failed_my_calculus_test/hedomit/", "text": "That\u2019s a good idea. Going to tutoring should be the next set of steps, considering a slow start with this subject.", "author": "gabe89san", "created": 1632682529, "upvotes": 1}, "he6t9l2": {"link": "/r/college/comments/purm8b/failed_my_calculus_test/he6t9l2/", "text": "You're in calc 1, so you're probably learning about limits and derivatives at this stage.\n\nA limit is basically \"What does this function approach as x approaches some number n?\" For many functions, this limit is just f(n). For others, there are x values for which f(x) does not have a valid definition. For example, x cubed divided by x squared is not defined at x=0 because 0 squared is 0, and division by zero is undefined. But, we can calculate what f(x) approaches as x approaches zero, by \"simplifying\" the function to f(x) = x, and then plugging in x=0.\n\nPut another way, if you have a value c at which you'd like to calculate the limit, and you choose a maximum distance between that value and other values on the number line, you can calculate the maximum distance that any f(x) for any x within your chosen distance from c will have from the limit. So, in the case of f(x) = ((x-3) cubed, divided by (x-3)), I can tell you that the limit, as x approaches any number within 0.01 of 3 is going to be somewhere between 9 and 9.0601, or within a distance of 0.0601 away from the actual limit. \n\nA derivative is basically the answer to the question, \"If I move x by a teeny, tiny amount, what is the ratio of the change in f(x) to the change in x?\" Mathematically, it's the slope of the line between (x,f(x)) and (x+h,f(x+h)) where h is very small - almost zero, but not actually zero (technically, it's infinitesimally small). So the derivative is just the limit, as h approaches zero, of ((f(x + h) - f(x)) divided by h) For example, the derivative of x\\^2 is the limit, as h approaches zero, of (((x+h)\\^2 - x\\^2) divided by h), or ((x\\^2 + 2hx + h\\^2 - x\\^2) divided by h), or ((2hx + h\\^2)/h), which is just 2x + h. Set h=0, and you get 2x. So the derivative of x\\^2 is 2x.", "author": "Comprehensive-Ad3963", "created": 1632549020, "upvotes": 1}, "he62ca7": {"link": "/r/college/comments/purm8b/failed_my_calculus_test/he62ca7/", "text": "I don't know if this recommendation applies to you, but be sure to make an attempt to understand what you are trying to solve for.  That should help your grades.\n\nFor example, in business calculus a problem might be to solve for a future value of an annuity.  Unless you have had other courses (accounting, finance, etc.) dealing with time value of money issues, you might not fully understand what you are trying to solve for.  Some studying of those time value issues (as opposed to just the math involved) can help in that case.", "author": "taxref", "created": 1632534494, "upvotes": 2}, "he4yrtu": {"link": "/r/college/comments/purm8b/failed_my_calculus_test/he4yrtu/", "text": "Good job on going to tutoring now. I'd also recommend going to your professor's office hours and see if they can't help point you in the right direction in a one one one setting.", "author": "OliveOliveJuice", "created": 1632516690, "upvotes": 4}, "he4vutm": {"link": "/r/college/comments/purm8b/failed_my_calculus_test/he4vutm/", "text": "can help you complete calculus tasks", "author": "geniusstatistics01", "created": 1632515473, "upvotes": 1}}}
+{
+  "sid": "purm8b",
+  "link": "/r/college/comments/purm8b/failed_my_calculus_test/",
+  "title:": "Failed my Calculus Test...",
+  "text": "I just got my test back and i got a 36/100... i'm not too surprised i guess as i had very little understanding of the base of the lessons and only had a slight grasp of it but seeing my grade on paper just made me depressed and stressed. I don't know how to get better in this class because i have trouble understanding the lessons the way my teacher teaches them and it seems like the next unit we're going over is going to be just as confusing. I didn't go to tutoring before the first test but i am going to it now and i think it's helping but this entire class has got me stressed because of how little i understand the material. Even when i looked up youtube videos on the subject to try and get a different teaching perspective, i still didn't understand what was going on... it's not like i was bad at math before college but i think it's just calculus that is giving me trouble which is bad since i'm expected to take calc 2 right after this.",
+  "author": "jasu4321",
+  "created": 1632514355,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 0.86,
+  "comments": {
+    "hedomit": {
+      "link": "/r/college/comments/purm8b/failed_my_calculus_test/hedomit/",
+      "text": "That\u2019s a good idea. Going to tutoring should be the next set of steps, considering a slow start with this subject.",
+      "author": "gabe89san",
+      "created": 1632682529,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "he6t9l2": {
+      "link": "/r/college/comments/purm8b/failed_my_calculus_test/he6t9l2/",
+      "text": "You're in calc 1, so you're probably learning about limits and derivatives at this stage.\n\nA limit is basically \"What does this function approach as x approaches some number n?\" For many functions, this limit is just f(n). For others, there are x values for which f(x) does not have a valid definition. For example, x cubed divided by x squared is not defined at x=0 because 0 squared is 0, and division by zero is undefined. But, we can calculate what f(x) approaches as x approaches zero, by \"simplifying\" the function to f(x) = x, and then plugging in x=0.\n\nPut another way, if you have a value c at which you'd like to calculate the limit, and you choose a maximum distance between that value and other values on the number line, you can calculate the maximum distance that any f(x) for any x within your chosen distance from c will have from the limit. So, in the case of f(x) = ((x-3) cubed, divided by (x-3)), I can tell you that the limit, as x approaches any number within 0.01 of 3 is going to be somewhere between 9 and 9.0601, or within a distance of 0.0601 away from the actual limit. \n\nA derivative is basically the answer to the question, \"If I move x by a teeny, tiny amount, what is the ratio of the change in f(x) to the change in x?\" Mathematically, it's the slope of the line between (x,f(x)) and (x+h,f(x+h)) where h is very small - almost zero, but not actually zero (technically, it's infinitesimally small). So the derivative is just the limit, as h approaches zero, of ((f(x + h) - f(x)) divided by h) For example, the derivative of x\\^2 is the limit, as h approaches zero, of (((x+h)\\^2 - x\\^2) divided by h), or ((x\\^2 + 2hx + h\\^2 - x\\^2) divided by h), or ((2hx + h\\^2)/h), which is just 2x + h. Set h=0, and you get 2x. So the derivative of x\\^2 is 2x.",
+      "author": "Comprehensive-Ad3963",
+      "created": 1632549020,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "he62ca7": {
+      "link": "/r/college/comments/purm8b/failed_my_calculus_test/he62ca7/",
+      "text": "I don't know if this recommendation applies to you, but be sure to make an attempt to understand what you are trying to solve for.  That should help your grades.\n\nFor example, in business calculus a problem might be to solve for a future value of an annuity.  Unless you have had other courses (accounting, finance, etc.) dealing with time value of money issues, you might not fully understand what you are trying to solve for.  Some studying of those time value issues (as opposed to just the math involved) can help in that case.",
+      "author": "taxref",
+      "created": 1632534494,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "he4yrtu": {
+      "link": "/r/college/comments/purm8b/failed_my_calculus_test/he4yrtu/",
+      "text": "Good job on going to tutoring now. I'd also recommend going to your professor's office hours and see if they can't help point you in the right direction in a one one one setting.",
+      "author": "OliveOliveJuice",
+      "created": 1632516690,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "he4vutm": {
+      "link": "/r/college/comments/purm8b/failed_my_calculus_test/he4vutm/",
+      "text": "can help you complete calculus tasks",
+      "author": "geniusstatistics01",
+      "created": 1632515473,
+      "upvotes": 1,
+      "replies": {}
+    }
+  },
+  "updated": 1634055939
+}

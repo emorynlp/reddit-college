@@ -1,1 +1,40 @@
-{"sid": "ptzyzn", "link": "/r/college/comments/ptzyzn/i_accidentally_logged_into_my_real_microsoft/", "title:": "I accidentally logged into my real Microsoft email on my school account but can\u2019t log out, little help?", "text": "I logged into my gaming and generally my private Microsoft account without even realizing it \n\nHow can I log out of my account without deleting my real account?\n\n(P.S. the sign out button only works to exit the desktop but does give the option for me to input my pin and re-login)", "author": "Terrnicator", "created": 1632417381, "retrieved": 1632946162, "over_18": false, "upvotes": 1, "upvote_ratio": 1.0, "comments": {"hdzs9kz": {"link": "/r/college/comments/ptzyzn/i_accidentally_logged_into_my_real_microsoft/hdzs9kz/", "text": "Do you mean on your computer? You go to the windows start go to the setting on email and accounts, choose the account you want and delete. Delete should only be from the pc not your entire account", "author": "GoldRequest", "created": 1632421263, "upvotes": 1}}}
+{
+  "sid": "ptzyzn",
+  "link": "/r/college/comments/ptzyzn/i_accidentally_logged_into_my_real_microsoft/",
+  "title:": "I accidentally logged into my real Microsoft email on my school account but can\u2019t log out, little help?",
+  "text": "I logged into my gaming and generally my private Microsoft account without even realizing it \n\nHow can I log out of my account without deleting my real account?\n\n(P.S. the sign out button only works to exit the desktop but does give the option for me to input my pin and re-login)",
+  "author": "Terrnicator",
+  "created": 1632417381,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hdzs9kz": {
+      "link": "/r/college/comments/ptzyzn/i_accidentally_logged_into_my_real_microsoft/hdzs9kz/",
+      "text": "Do you mean on your computer? You go to the windows start go to the setting on email and accounts, choose the account you want and delete. Delete should only be from the pc not your entire account",
+      "author": "GoldRequest",
+      "created": 1632421263,
+      "upvotes": 1,
+      "replies": {
+        "he01518": {
+          "link": "/r/college/comments/ptzyzn/i_accidentally_logged_into_my_real_microsoft/he01518/",
+          "text": "Sorry I meant it as in my college laptop, I was given one but accidentally logged into my real Microsoft account\n\nAccording to the tech person I am suppose to return it for them to erase all that had to do with my account\n\n(Without deleting my account)",
+          "author": "Terrnicator",
+          "created": 1632424960,
+          "upvotes": 1,
+          "replies": {
+            "he042es": {
+              "link": "/r/college/comments/ptzyzn/i_accidentally_logged_into_my_real_microsoft/he042es/",
+              "text": "Oh yeah when you sign into a new laptop the account you use will make all the filenames and stuff like that. Backup any data and go to the it department",
+              "author": "GoldRequest",
+              "created": 1632426189,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634056033
+}

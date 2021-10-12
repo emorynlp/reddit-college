@@ -1,1 +1,171 @@
-{"sid": "pkzv57", "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/", "title:": "Personal website - department server or github pages?", "text": "I'm looking to start a personal website, but I'm not sure whether to host on my department's servers (all grad students are provided with web space) or github pages. Between [gudetamagoodegg.github.io](https://gudetamagoodegg.github.io) and [cs.institution.edu/gudetamagoodegg](https://cs.institution.edu/gudetamagoodegg), does one look better/more professional/more appealing to employers (I'm in TCS and hoping to stay in academia, if that makes a difference)? I know it's easy to set one site to redirect to the other, so maybe it doesn't even matter that much, but I always like to overthink minor decisions :')", "author": "gudetamagoodegg", "created": 1631200784, "retrieved": 1632952725, "over_18": false, "upvotes": 27, "upvote_ratio": 0.94, "comments": {"hc9nd7v": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc9nd7v/", "text": "I see a lot of professors maintain department\u2019s page as a sort of landing page and then have a link to their personal homepage which talks more explicitly about their research and publications etc.,", "author": "seeker256", "created": 1631243804, "upvotes": 1}, "hc8s3uh": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc8s3uh/", "text": "I prefer Github too. Github Pages is free hosting(if using static pages) and if you move on from your institution you won't have your name tied to it. \n\nOne of my old professors used a custom domain with his name. I picked one up very cheap as well.", "author": "firelice", "created": 1631229644, "upvotes": 1}, "hc7yn47": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7yn47/", "text": "Realizing I'm in a different field from yours, but who have had several media and government folks reach to me, I'm gonna be the odd one out here and say you should at least have a photo, bio, and regularly updated shortened CV hosted on your official university page. Folks who are looking for expertise won't really know you enough to google your name to reach your website (and you know your website won't hit the first page of search results as a newcomer), but they will know your department as a place to start. So they're gonna look through the department directory and see who's there and who specializes in the specific topic. If all you have is a photoless profile with a email address and a link to your website, you're not going to get their attention. But if you fill it out with a quick bio and description of your thesis or links to publications, that helps a lot for someone browsing around who may not know what exactly they're looking for. There's also the added sense of security and credentials when sharing the URL to a page that has the university domain attached to it.\n\nObviously at some point you'll graduate and need a separate website, but that should be treated as complementary to, not a replacement for, your official university profile.", "author": "Timmyc62", "created": 1631217098, "upvotes": 3}, "hc7wsxu": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7wsxu/", "text": "Does anyone have resources on how to start a github site? I've never really used github in general.", "author": "Anti-Itch", "created": 1631216354, "upvotes": 1}, "hc7s9lw": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7s9lw/", "text": "I'd go with Github pages and if you can afford it, a [custom domain as well](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) like [gudetamagoodegg.com](https://gudetamagoodegg.com) or [gudetamagoodegg.info](https://gudetamagoodegg.info) or a quirky TLD that works with your name/work. \n\nAt some point after you graduate, it would be better to have your own thing going on, outside of your institution and the \"grad student\" identity. You can also set up the webpage on your dept server to redirect to this github pages hosted site.", "author": "AncientMaths", "created": 1631214477, "upvotes": 2}, "hc7bghb": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7bghb/", "text": "Both. If you know how to use github pages, just clone the repo to your dept. server and host it there as well. That way people can find your page no matter where they first come across your work or go to look you up.", "author": "monoDK13", "created": 1631207560, "upvotes": 2}, "hc7abuj": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7abuj/", "text": "My personal website is on Github, i think it's a lot easier not to be tied with an institution.", "author": "supercitrusfruit", "created": 1631207092, "upvotes": 3}, "hc76rsq": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc76rsq/", "text": "You can always use the GitHub page, and purchase a domain name for yourself that lets you customize it to something like firstlast.com. Then you can add the domain name to the GitHub page. Unless you have a common name, it will probably be pretty cheap; mine costs like $12/year to register through Google.", "author": "set_null", "created": 1631205611, "upvotes": 8}, "hc73paw": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc73paw/", "text": "If you hosted somewhere other than your school website, then that means you don't have to move the website and change your web address that you've given out already once you leave.", "author": "raistlin65", "created": 1631204339, "upvotes": 1}, "hc71pbb": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc71pbb/", "text": "I'd recommend github.  It's free hosting and you'll lose your website after you graduate.", "author": "HalfEatenPie", "created": 1631203507, "upvotes": 4}, "hc7140a": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7140a/", "text": "From my experience, other grad students and postdocs usually have github sites and professors usually have sites hosted through the university. That might have to do with students and postdocs being temporary.\n\nEdit: it might also have to do with age?", "author": "KiwiTheKitty", "created": 1631203262, "upvotes": 4}, "hc6xsb0": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc6xsb0/", "text": "I'd consider a GitHub page to be more professional than a school page, and it also doesn't lock you into a specific institution. Once you start putting the URL out there, it will stay out there in at least some places. Your university URL is much more likely to change than a GitHub one.\n\nThough, if all options are on the table, I'd suggest getting your own domain. There are lots of free hosting options, and it gives you the most control over your site and the impression it leaves with people.", "author": "TheAlyxGreen", "created": 1631201885, "upvotes": 28}, "hc6w9di": {"link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc6w9di/", "text": "I'd lean towards the github.io one because at some point you'll graduate, but want to see what others think", "author": "UmbralRaptor", "created": 1631201246, "upvotes": 55}}}
+{
+  "sid": "pkzv57",
+  "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/",
+  "title:": "Personal website - department server or github pages?",
+  "text": "I'm looking to start a personal website, but I'm not sure whether to host on my department's servers (all grad students are provided with web space) or github pages. Between [gudetamagoodegg.github.io](https://gudetamagoodegg.github.io) and [cs.institution.edu/gudetamagoodegg](https://cs.institution.edu/gudetamagoodegg), does one look better/more professional/more appealing to employers (I'm in TCS and hoping to stay in academia, if that makes a difference)? I know it's easy to set one site to redirect to the other, so maybe it doesn't even matter that much, but I always like to overthink minor decisions :')",
+  "author": "gudetamagoodegg",
+  "created": 1631200784,
+  "over_18": false,
+  "upvotes": 27,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "hc9nd7v": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc9nd7v/",
+      "text": "I see a lot of professors maintain department\u2019s page as a sort of landing page and then have a link to their personal homepage which talks more explicitly about their research and publications etc.,",
+      "author": "seeker256",
+      "created": 1631243804,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hc8s3uh": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc8s3uh/",
+      "text": "I prefer Github too. Github Pages is free hosting(if using static pages) and if you move on from your institution you won't have your name tied to it. \n\nOne of my old professors used a custom domain with his name. I picked one up very cheap as well.",
+      "author": "firelice",
+      "created": 1631229644,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hc7yn47": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7yn47/",
+      "text": "Realizing I'm in a different field from yours, but who have had several media and government folks reach to me, I'm gonna be the odd one out here and say you should at least have a photo, bio, and regularly updated shortened CV hosted on your official university page. Folks who are looking for expertise won't really know you enough to google your name to reach your website (and you know your website won't hit the first page of search results as a newcomer), but they will know your department as a place to start. So they're gonna look through the department directory and see who's there and who specializes in the specific topic. If all you have is a photoless profile with a email address and a link to your website, you're not going to get their attention. But if you fill it out with a quick bio and description of your thesis or links to publications, that helps a lot for someone browsing around who may not know what exactly they're looking for. There's also the added sense of security and credentials when sharing the URL to a page that has the university domain attached to it.\n\nObviously at some point you'll graduate and need a separate website, but that should be treated as complementary to, not a replacement for, your official university profile.",
+      "author": "Timmyc62",
+      "created": 1631217098,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hc7wsxu": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7wsxu/",
+      "text": "Does anyone have resources on how to start a github site? I've never really used github in general.",
+      "author": "Anti-Itch",
+      "created": 1631216354,
+      "upvotes": 1,
+      "replies": {
+        "hc8t6ct": {
+          "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc8t6ct/",
+          "text": "Yep, here is a link to the github pages website.\nhttps://pages.github.com/\n\nI also love this resource if you are new to git/github and just want to get started with Github Pages. Git is basically like a video, and youtube is the hub where you can publish videos. \n\nhttps://www.youtube.com/watch?v=qZsgPgGdOzQ",
+          "author": "firelice",
+          "created": 1631230127,
+          "upvotes": 2,
+          "replies": {
+            "hc946ll": {
+              "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc946ll/",
+              "text": "Thanks!",
+              "author": "Anti-Itch",
+              "created": 1631235148,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hc7s9lw": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7s9lw/",
+      "text": "I'd go with Github pages and if you can afford it, a [custom domain as well](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) like [gudetamagoodegg.com](https://gudetamagoodegg.com) or [gudetamagoodegg.info](https://gudetamagoodegg.info) or a quirky TLD that works with your name/work. \n\nAt some point after you graduate, it would be better to have your own thing going on, outside of your institution and the \"grad student\" identity. You can also set up the webpage on your dept server to redirect to this github pages hosted site.",
+      "author": "AncientMaths",
+      "created": 1631214477,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hc7bghb": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7bghb/",
+      "text": "Both. If you know how to use github pages, just clone the repo to your dept. server and host it there as well. That way people can find your page no matter where they first come across your work or go to look you up.",
+      "author": "monoDK13",
+      "created": 1631207560,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hc7abuj": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7abuj/",
+      "text": "My personal website is on Github, i think it's a lot easier not to be tied with an institution.",
+      "author": "supercitrusfruit",
+      "created": 1631207092,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hc76rsq": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc76rsq/",
+      "text": "You can always use the GitHub page, and purchase a domain name for yourself that lets you customize it to something like firstlast.com. Then you can add the domain name to the GitHub page. Unless you have a common name, it will probably be pretty cheap; mine costs like $12/year to register through Google.",
+      "author": "set_null",
+      "created": 1631205611,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hc73paw": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc73paw/",
+      "text": "If you hosted somewhere other than your school website, then that means you don't have to move the website and change your web address that you've given out already once you leave.",
+      "author": "raistlin65",
+      "created": 1631204339,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hc71pbb": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc71pbb/",
+      "text": "I'd recommend github.  It's free hosting and you'll lose your website after you graduate.",
+      "author": "HalfEatenPie",
+      "created": 1631203507,
+      "upvotes": 4,
+      "replies": {
+        "hc7g5bk": {
+          "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7g5bk/",
+          "text": "And even if you don't lose the institutional website after you graduate (some let you keep it) your institutional website will be obsolete as you won't be attached to that institution.",
+          "author": "tardarsource",
+          "created": 1631209500,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hc7140a": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7140a/",
+      "text": "From my experience, other grad students and postdocs usually have github sites and professors usually have sites hosted through the university. That might have to do with students and postdocs being temporary.\n\nEdit: it might also have to do with age?",
+      "author": "KiwiTheKitty",
+      "created": 1631203262,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hc6xsb0": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc6xsb0/",
+      "text": "I'd consider a GitHub page to be more professional than a school page, and it also doesn't lock you into a specific institution. Once you start putting the URL out there, it will stay out there in at least some places. Your university URL is much more likely to change than a GitHub one.\n\nThough, if all options are on the table, I'd suggest getting your own domain. There are lots of free hosting options, and it gives you the most control over your site and the impression it leaves with people.",
+      "author": "TheAlyxGreen",
+      "created": 1631201885,
+      "upvotes": 28,
+      "replies": {
+        "hc73gyf": {
+          "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc73gyf/",
+          "text": "I\u2019m all on board with the buying your own domain. URLs are cheap and hosting can be free or very inexpensive. It\u2019s a very worthwhile investment in your future.",
+          "author": "ThrowawayHistory20",
+          "created": 1631204245,
+          "upvotes": 11,
+          "replies": {}
+        },
+        "hc7bp2m": {
+          "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc7bp2m/",
+          "text": "I'm a prof, not a grad student, but I'm going to second (third?) the idea of buying your own domain. In most cases you can redirect from the departmental/university web page that was meant for your web page... so if someone clicks on [www.UnivName.edu/yourlastname](https://www.UnivName.edu/yourlast) it seamlessly will go to your own page over which you will have complete control. To all but the most observant it even will look as if your page is on the U server.\n\nIMO there are several good reasons to do this. One is that someday you will not be affiliated with that U. and they will take down your page. You may want to have a copy or keep it going. Having your own domain means you need never even to think about the timing, etc.\n\nNext, At two of the U's at which I've taught, either my U or my department has tried to impose 'discipline' (i.e., uniformity) on all U web pages (in the name of \"branding\"). For some it may have eased things because everyone was to fill out an online form listing positions, interests, accomplishments, courses taught, etc. But it was extremely limiting. While traffic to my web page was (and is) redirected to my own domain, I am not limited to what the department thinks people should know about me. \n\nOn my personal domain page I include things like links to my publications and my Op-Eds, my lab, my current research, my blog, and even links to my current and former PhD students (so that interested persons can contact them to see if I am OK to work with, helpful, a good supervisor, etc.. And YES, I got their permission before posting their email addresses, but none so far have refused).\n\nI'm old, but my CV and grant applications, etc., always list my web page as [www.MyUniversity.edu/mylastname](https://www.MyUniversity.edu/mylastname) even though it redirects. I think in essence, that if the U will redirect to your personal URL, NOBODY, not a potential employer or granting agency or other interested person will question your association with the U. (I say this because no place at which I've been would redirect for those not affiliated.\n\nAnyway, my two cents. Hope it helps",
+          "author": "urbanaprof",
+          "created": 1631207658,
+          "upvotes": 8,
+          "replies": {}
+        }
+      }
+    },
+    "hc6w9di": {
+      "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hc6w9di/",
+      "text": "I'd lean towards the github.io one because at some point you'll graduate, but want to see what others think",
+      "author": "UmbralRaptor",
+      "created": 1631201246,
+      "upvotes": 55,
+      "replies": {
+        "hcax0qt": {
+          "link": "/r/GradSchool/comments/pkzv57/personal_website_department_server_or_github_pages/hcax0qt/",
+          "text": "Agreed. That's the biggest selling point of a private website: people can always find you (and your contact deets) at the same address. No rabbit holes of \"I've recently moved! You can find my new page at xyz.com\"",
+          "author": "officially_anxious",
+          "created": 1631276155,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634066811
+}

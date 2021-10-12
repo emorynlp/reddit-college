@@ -1,1 +1,13 @@
-{"sid": "ppn0cq", "link": "/r/GradSchool/comments/ppn0cq/smart_idea_for_background_needed/", "title:": "Smart idea for background needed!", "text": "I am working with an image dataset. I will apply 3 techniques: \n\n1. Feature extraction and Machine Learning on extracted features (KNN, SVMs)\n2. Deep Learning (Convolutional Neural Networks)\n3. Contrastive Learning using CNNs\n\nHow should I structure the Background chapter of my thesis? I want to keep it simple and not flatten.", "author": "giakou4", "created": 1631829191, "retrieved": 1632952549, "over_18": false, "upvotes": 1, "upvote_ratio": 0.6, "comments": {}}
+{
+  "sid": "ppn0cq",
+  "link": "/r/GradSchool/comments/ppn0cq/smart_idea_for_background_needed/",
+  "title:": "Smart idea for background needed!",
+  "text": "I am working with an image dataset. I will apply 3 techniques: \n\n1. Feature extraction and Machine Learning on extracted features (KNN, SVMs)\n2. Deep Learning (Convolutional Neural Networks)\n3. Contrastive Learning using CNNs\n\nHow should I structure the Background chapter of my thesis? I want to keep it simple and not flatten.",
+  "author": "giakou4",
+  "created": 1631829191,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.6,
+  "comments": {},
+  "updated": 1634066826
+}

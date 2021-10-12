@@ -1,1 +1,57 @@
-{"sid": "pnj1ow", "link": "/r/GradSchool/comments/pnj1ow/how_to_find_other_students_to_co_author_papers/", "title:": "How to find other students to co author papers with or who have projects that I can contribute to?", "text": "I'm not a grad student yet but will be starting a CS Masters (machine learning) in Fall '22 in a top 5 program (in the US). In the meantime, I've gotten involved in some cool open source work with other grad students. I'm curious if there is a way to find more interesting projects/other work that results in published papers by offering up my expertise to other graduate students. (Is this ok to do or bad practice in any way? Let me know if it is.) I've read that I'll be able to do this with other students in my program but that's about a year away and I'm happy to contribute something to a project in the meantime. Is there a good way of finding projects or fellow students for this type of thing?\n\n  \nI'm particularly interested in NLP or climate change work, but open to anything interesting. I have experience with Python, C++, and Swift, and web/mobile (ios) development (and I have undergrad degrees in Political Science and Public Health).", "author": "apkswift", "created": 1631550900, "retrieved": 1632952646, "over_18": false, "upvotes": 3, "upvote_ratio": 1.0, "comments": {"hcq7flw": {"link": "/r/GradSchool/comments/pnj1ow/how_to_find_other_students_to_co_author_papers/hcq7flw/", "text": "You can offer to other grad students or your faculty. I know a few social science professors who love CS master (and even last year UGs) to help them with their coding, while they do the main writing, R&R, submission, submission costs, etc. Academics who are centred around health communications might be good crossover considering you skills and background.", "author": "MFA_Nay", "created": 1631561122, "upvotes": 1}}}
+{
+  "sid": "pnj1ow",
+  "link": "/r/GradSchool/comments/pnj1ow/how_to_find_other_students_to_co_author_papers/",
+  "title:": "How to find other students to co author papers with or who have projects that I can contribute to?",
+  "text": "I'm not a grad student yet but will be starting a CS Masters (machine learning) in Fall '22 in a top 5 program (in the US). In the meantime, I've gotten involved in some cool open source work with other grad students. I'm curious if there is a way to find more interesting projects/other work that results in published papers by offering up my expertise to other graduate students. (Is this ok to do or bad practice in any way? Let me know if it is.) I've read that I'll be able to do this with other students in my program but that's about a year away and I'm happy to contribute something to a project in the meantime. Is there a good way of finding projects or fellow students for this type of thing?\n\n  \nI'm particularly interested in NLP or climate change work, but open to anything interesting. I have experience with Python, C++, and Swift, and web/mobile (ios) development (and I have undergrad degrees in Political Science and Public Health).",
+  "author": "apkswift",
+  "created": 1631550900,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hcq7flw": {
+      "link": "/r/GradSchool/comments/pnj1ow/how_to_find_other_students_to_co_author_papers/hcq7flw/",
+      "text": "You can offer to other grad students or your faculty. I know a few social science professors who love CS master (and even last year UGs) to help them with their coding, while they do the main writing, R&R, submission, submission costs, etc. Academics who are centred around health communications might be good crossover considering you skills and background.",
+      "author": "MFA_Nay",
+      "created": 1631561122,
+      "upvotes": 1,
+      "replies": {
+        "hcqezoa": {
+          "link": "/r/GradSchool/comments/pnj1ow/how_to_find_other_students_to_co_author_papers/hcqezoa/",
+          "text": "I currently work as an engineer, am a few years out of undergrad and will not start my masters for another year. Any tips on how to reach out to grad students or faculty? Should I reach out to faculty in relevant departments at my undergrad university to ask if they might have a project for me?\n\n&#x200B;\n\nAlso curious how do those contributions get credited by those social science profs? Are they included as authors or thanked in the footnotes? Wondering what realistic expectations I should have.",
+          "author": "apkswift",
+          "created": 1631564169,
+          "upvotes": 1,
+          "replies": {
+            "hcqg5gy": {
+              "link": "/r/GradSchool/comments/pnj1ow/how_to_find_other_students_to_co_author_papers/hcqg5gy/",
+              "text": "Research them. University faculty pages, check if they have their own websites (most academics do nowadays), flick through their twitter account if it's active. Read a few papers or recent stuff.\n\nShort email introducing yourself (background & skills). What you've liked about their work briefly. Then ask if there's any opportunities, potential collaborations, of if no themselves, if anyone in their department would be interested. Then offer a quick ~20 minute Zoom/MS Teams call whenever they're available.  \n\nFor more general stuff /r/gradadmissions's has posts about contacting academics which will cover a lot of bases.\n\nReaching out to your old UG university is a good, but don't be afraid to contact academics from other places. Particularly with hybrid/remote working there's a lot more opportunities out there.",
+              "author": "MFA_Nay",
+              "created": 1631564630,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "hcqgq3v": {
+              "link": "/r/GradSchool/comments/pnj1ow/how_to_find_other_students_to_co_author_papers/hcqgq3v/",
+              "text": "> Also curious how do those contributions get credited by those social science profs? Are they included as authors or thanked in the footnotes? Wondering what realistic expectations I should have.\n\nOnce you get onboard this is the first thing you should ask. Different social science disciplines have different norms. Typically just supplying data isn't enough for co-authorship so you should try to contribute data gathering, wrangling, flesh about a few sections - even if you know they're going to be revised. Most papers/articles go through several drafts anyway. One of the PIs I worked with always said \"go for a shitty first draft\" to put the team at ease.\n\nI know two UGs who were last authors in two separate papers dealing with computational social science in a communications journal. They did a lot of leg work on the methods/data wrangling for some classic NLP of social media data. I also know of some people (unsure of UG or MAs) who got credited (an acknowledgement) when manually cleaning a systematic review dataset. That was manual labelling and not much else. So much less intensive than the prior examples I gave.",
+              "author": "MFA_Nay",
+              "created": 1631564855,
+              "upvotes": 1,
+              "replies": {
+                "hcrp8qo": {
+                  "link": "/r/GradSchool/comments/pnj1ow/how_to_find_other_students_to_co_author_papers/hcrp8qo/",
+                  "text": "Thank you! All of this is exactly what I needed and I just sent out a few emails today, so hopefully I'll get some leads.",
+                  "author": "apkswift",
+                  "created": 1631584834,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634064991
+}

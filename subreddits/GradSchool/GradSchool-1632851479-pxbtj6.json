@@ -1,1 +1,65 @@
-{"sid": "pxbtj6", "link": "/r/GradSchool/comments/pxbtj6/how_to_properly_attribute_figures_taken_from/", "title:": "How to properly attribute figures taken from other publications under CC-BY", "text": "I've written a review paper and have no figures of my own. I've managed to find all appropriate figures I need from papers published under Creative Commons. I want to be sure to properly attribute them. Do I simply include a citation in the caption \"(Jones et al. 2016)\"  and bibliography? Do I need to say something like \"Used with permission under CC-BY 4.0\" plus a citation?\n\nAnyone know the right way to do this?\n\n&#x200B;\n\nThanks", "author": "blteare", "created": 1632851479, "retrieved": 1632951962, "over_18": false, "upvotes": 2, "upvote_ratio": 1.0, "comments": {"hensyhb": {"link": "/r/GradSchool/comments/pxbtj6/how_to_properly_attribute_figures_taken_from/hensyhb/", "text": "After discussing with a library employee at my university and looking through some citation style guides online, I've come to this conclusion:\n\nCreative Commons requires attribution to the original work, author, and license, including a permanent link if possible. The reference in the bibliography takes care of all of this, including the permanent link if you've got a DOI. In my style (Vancouver) the original figure number and page number should be included at the end of the standard formatted reference in the bib, and should be repeated for each figure taken from that work.\n\nThe caption for the figure should say something like \"From Jones et al, used under CC-BY 4.0 license (44)\" where \"(44)\" is the appropriate in-text citation for your style.\n\nHopefully someone else will find this useful in the future. Many journals now publish under the CC-BY license by default, or by option. The title page will generally have the CC logo at the bottom, or it will have \u00a9The Authors, in which case you need to visit the webpage and check the bottom (usually) of the page where it will detail the copyright. If the title page attributes copyright to the publisher, i.e. \u00a9Elsevier, then you can be almost certain it is NOT CC, though there are some exceptions if it's published as Open Access.", "author": "blteare", "created": 1632873736, "upvotes": 1}, "hen82wi": {"link": "/r/GradSchool/comments/pxbtj6/how_to_properly_attribute_figures_taken_from/hen82wi/", "text": "Probably very discipline-specific, and I don\u2019t really know anything about Creative Commons. But I will say in chemistry at least the standard is to remake every single figure, and then when you reference the figure in the text you put the citation.", "author": "werpicus", "created": 1632864178, "upvotes": 3}}}
+{
+  "sid": "pxbtj6",
+  "link": "/r/GradSchool/comments/pxbtj6/how_to_properly_attribute_figures_taken_from/",
+  "title:": "How to properly attribute figures taken from other publications under CC-BY",
+  "text": "I've written a review paper and have no figures of my own. I've managed to find all appropriate figures I need from papers published under Creative Commons. I want to be sure to properly attribute them. Do I simply include a citation in the caption \"(Jones et al. 2016)\"  and bibliography? Do I need to say something like \"Used with permission under CC-BY 4.0\" plus a citation?\n\nAnyone know the right way to do this?\n\n&#x200B;\n\nThanks",
+  "author": "blteare",
+  "created": 1632851479,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hensyhb": {
+      "link": "/r/GradSchool/comments/pxbtj6/how_to_properly_attribute_figures_taken_from/hensyhb/",
+      "text": "After discussing with a library employee at my university and looking through some citation style guides online, I've come to this conclusion:\n\nCreative Commons requires attribution to the original work, author, and license, including a permanent link if possible. The reference in the bibliography takes care of all of this, including the permanent link if you've got a DOI. In my style (Vancouver) the original figure number and page number should be included at the end of the standard formatted reference in the bib, and should be repeated for each figure taken from that work.\n\nThe caption for the figure should say something like \"From Jones et al, used under CC-BY 4.0 license (44)\" where \"(44)\" is the appropriate in-text citation for your style.\n\nHopefully someone else will find this useful in the future. Many journals now publish under the CC-BY license by default, or by option. The title page will generally have the CC logo at the bottom, or it will have \u00a9The Authors, in which case you need to visit the webpage and check the bottom (usually) of the page where it will detail the copyright. If the title page attributes copyright to the publisher, i.e. \u00a9Elsevier, then you can be almost certain it is NOT CC, though there are some exceptions if it's published as Open Access.",
+      "author": "blteare",
+      "created": 1632873736,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hen82wi": {
+      "link": "/r/GradSchool/comments/pxbtj6/how_to_properly_attribute_figures_taken_from/hen82wi/",
+      "text": "Probably very discipline-specific, and I don\u2019t really know anything about Creative Commons. But I will say in chemistry at least the standard is to remake every single figure, and then when you reference the figure in the text you put the citation.",
+      "author": "werpicus",
+      "created": 1632864178,
+      "upvotes": 3,
+      "replies": {
+        "henbexc": {
+          "link": "/r/GradSchool/comments/pxbtj6/how_to_properly_attribute_figures_taken_from/henbexc/",
+          "text": "Chemistry here as well. This at the very least. When I wrote my dissertation I had to get permission from the publisher or author to reproduce or use the figure/picture. Don't use it and publish the \"used with permission of\" unless you get permission. \n\nThis was the thing that took the most time. In the end one of my figures was changed just enough to illustrate the point but also to \"put it in my own words\" and then give the citation as credit because the author was deceased and the publisher didn't reply. I also stated this in the citations.",
+          "author": "rthomas10",
+          "created": 1632865635,
+          "upvotes": 2,
+          "replies": {
+            "henrcvt": {
+              "link": "/r/GradSchool/comments/pxbtj6/how_to_properly_attribute_figures_taken_from/henrcvt/",
+              "text": "This is the main purpose behind using Creative Commons, to avoid all the headache around getting permission, including paying fees to publishers to use copyrighted material. CC is almost always fine to use as long as you give attribution.",
+              "author": "blteare",
+              "created": 1632872975,
+              "upvotes": 1,
+              "replies": {
+                "henrll5": {
+                  "link": "/r/GradSchool/comments/pxbtj6/how_to_properly_attribute_figures_taken_from/henrll5/",
+                  "text": "Never paid fees cause they didn't want them but they gave permission. Accept the dead guy.",
+                  "author": "rthomas10",
+                  "created": 1632873089,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hent6r5": {
+          "link": "/r/GradSchool/comments/pxbtj6/how_to_properly_attribute_figures_taken_from/hent6r5/",
+          "text": "I wish it were that simple for me, but it's a methods review paper and my figures are images of the methods being performed. I haven't personally done all of the methods, so I don't have my own content, hence the need for using other authors figures.",
+          "author": "blteare",
+          "created": 1632873847,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634066320
+}

@@ -1,1 +1,294 @@
-{"sid": "bbl7y5", "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/", "title:": "I was given a large code snippet to debug. I spent a week debugging it and found nothing wrong with it after breaking it line by line. I was told I was given the wrong code snippet last night.", "text": "Please kill me.", "author": "DataScienceUTA", "created": 1554898014, "retrieved": 1632953401, "over_18": false, "upvotes": 503, "upvote_ratio": 1.0, "comments": {"ekvl9wf": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekvl9wf/", "text": "How does this even happen?  The person that handed off the code didn\u2019t know what the root cause of the bug was, but they only gave you a snippet?  I don\u2019t know what\u2019s wrong, but it must be in this one piece of code!  And apparently no steps to reproduce the bug?  This defies basic problem solving.", "author": "Pillowtalk", "created": 1555257678, "upvotes": 1}, "ekn6vck": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekn6vck/", "text": "I spent some hours figuring out a bug and the program crashed the moment I tried to save the few lines that fixed it, I feel ya.", "author": null, "created": 1555001946, "upvotes": 1}, "eklpom3": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/eklpom3/", "text": "corporate wants you to spot the differences between these two pictures\n\n*they\u2019re the same picture*", "author": "LilPookDaPhatMermaid", "created": 1554952083, "upvotes": 2}, "eklbyfa": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/eklbyfa/", "text": "This actually made me laugh. It sums up grad school perfectly. \n\n* Questioning my sanity? Check! \n* Wasting valuable time? Check. \n* 50/50 chance of apology from supervisor? Check. \n\nCheers. Good luck debugging!", "author": "Bubbaisdrunk", "created": 1554941974, "upvotes": 3}, "ekl78v3": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekl78v3/", "text": "I spent most of my summer trying to find a bug, adding new features, re-writing the algorithim, and so much more. It was a typo. A simple typo.", "author": "zwolff94", "created": 1554938608, "upvotes": 1}, "ekkqaxw": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekkqaxw/", "text": "I just finished a week-long experiment that required 4 15-hour days and meticulous conditions for the mice and cell-sorting (we're looking at hematopoietic stem cells \\[HSCs\\], so, if you're amazing at this, then you can maybe get 5,000 HSCs from one mouse...that makes IF and flow cytometry really hard with such low cell counts).  I busted my ass and barely slept and found out today (after the slides were all fixed and stained) that two of the mice were pregnant in the experiment.  What does that mean?  Well, we don't know because pregnancy is a majorly confounding variable that we were never accounting for or anticipating.  So we (meaning me) have to the scrap the whole experiment and start over.\n\n&#x200B;\n\nSo we can kill each other if you want.  Quick and painless, same time.", "author": "_Doctor_D", "created": 1554928021, "upvotes": 4}, "ekkfd6l": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekkfd6l/", "text": "I guess it is of season, I had a similar story happening to me last week. A postdoc and I are working on a huge dataset of 4000+ biological pictures. Each picture under goes a rather intense treatment with binarization, thresholding, and then shape extraction, conversion to elliptical Fourier descriptors and so on.\n\nThe problem was that lighting was uneven and for many samples the automated script didn't work out good. After testing the waters with specific automated macros, testing back and forth for a week, and finally manually correcting a lot of pictures, we discovered that an error came from the initial script.\n\nFixed it, generated a whole new set of shapes, only to find out they came with a new array of problems.\n\nBottom line: spent the last 7 days manually checking and correcting the pictures in Photoshop. Every. Single. Picture. No matter how good the playlist, you'll find your brain snapping at least once ...", "author": "Tartifloutte", "created": 1554921401, "upvotes": 3}, "ekkd1qn": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekkd1qn/", "text": "A similar thing happened to me in a PhD quant stats class. We were supposed to figure out how to analyze a data set to get specific results, but no matter what I did it would never work out.\n\nThe worst thing was that it was such an obscure topic that there was probably 5 resources TOTAL on the internet that said anything about it. I was trying all sorts of different techniques, literally 25-30 hours of bashing my head against my keyboard.\n\nThen we got an email from the prof that said, \"oops!! I uploaded the wrong data set for that exercise! Please use this one instead!\"\n\nI never wanted to kill someone more in my whole life.", "author": "Purple_Chipmunk_", "created": 1554920029, "upvotes": 5}, "ekk7ibm": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekk7ibm/", "text": "I was given some data I was supposed to write some code for to calculate equilibrium concentrations of carbon species in a plasma. I got divergent answers for a couple of the species, and kept trying to find out what was wrong with my code. turns out, nothing was wrong with it, someone had simply mislabeled the data and the wrong measurements were being input into the calculations. Shit like this happens a lot in research.", "author": "DoctorWatchamacallit", "created": 1554916720, "upvotes": 10}, "ekk10jb": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekk10jb/", "text": "F", "author": "bholler17", "created": 1554912543, "upvotes": 4}, "ekjydmj": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjydmj/", "text": "Step 0 of debugging: make sure you know how to produce the error you're trying to fix. If you can't repro the error, you can't fix it.", "author": "rawr_777", "created": 1554910775, "upvotes": 65}, "ekjkapd": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjkapd/", "text": "Brutal. At least it won't take as long now as you probably know some of the code inside and out now?", "author": "rollawaythestone", "created": 1554900342, "upvotes": 12}, "ekjjl8m": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjjl8m/", "text": "on that note, how\u2019s the data science program at UTA? (Is there a DS program at UTA?)\nAlso, major F.", "author": "cromagnonninja", "created": 1554899708, "upvotes": 22}, "ekjjaay": {"link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjjaay/", "text": "Yep, that tracks.\n\n&#x200B;\n\nWelcome to grad school, whatever year you're in.", "author": "hixchem", "created": 1554899432, "upvotes": 199}}}
+{
+  "sid": "bbl7y5",
+  "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/",
+  "title:": "I was given a large code snippet to debug. I spent a week debugging it and found nothing wrong with it after breaking it line by line. I was told I was given the wrong code snippet last night.",
+  "text": "Please kill me.",
+  "author": "DataScienceUTA",
+  "created": 1554898014,
+  "over_18": false,
+  "upvotes": 503,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "ekvl9wf": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekvl9wf/",
+      "text": "How does this even happen?  The person that handed off the code didn\u2019t know what the root cause of the bug was, but they only gave you a snippet?  I don\u2019t know what\u2019s wrong, but it must be in this one piece of code!  And apparently no steps to reproduce the bug?  This defies basic problem solving.",
+      "author": "Pillowtalk",
+      "created": 1555257678,
+      "upvotes": 1,
+      "replies": {
+        "ekvlef4": {
+          "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekvlef4/",
+          "text": "We don't even have a git repo.",
+          "author": "DataScienceUTA",
+          "created": 1555257770,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ekn6vck": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekn6vck/",
+      "text": "I spent some hours figuring out a bug and the program crashed the moment I tried to save the few lines that fixed it, I feel ya.",
+      "author": null,
+      "created": 1555001946,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eklpom3": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/eklpom3/",
+      "text": "corporate wants you to spot the differences between these two pictures\n\n*they\u2019re the same picture*",
+      "author": "LilPookDaPhatMermaid",
+      "created": 1554952083,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "eklbyfa": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/eklbyfa/",
+      "text": "This actually made me laugh. It sums up grad school perfectly. \n\n* Questioning my sanity? Check! \n* Wasting valuable time? Check. \n* 50/50 chance of apology from supervisor? Check. \n\nCheers. Good luck debugging!",
+      "author": "Bubbaisdrunk",
+      "created": 1554941974,
+      "upvotes": 3,
+      "replies": {
+        "eklid6j": {
+          "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/eklid6j/",
+          "text": "Fuck me you read between the lines on the last bulletpoint",
+          "author": "DataScienceUTA",
+          "created": 1554946572,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ekl78v3": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekl78v3/",
+      "text": "I spent most of my summer trying to find a bug, adding new features, re-writing the algorithim, and so much more. It was a typo. A simple typo.",
+      "author": "zwolff94",
+      "created": 1554938608,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ekkqaxw": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekkqaxw/",
+      "text": "I just finished a week-long experiment that required 4 15-hour days and meticulous conditions for the mice and cell-sorting (we're looking at hematopoietic stem cells \\[HSCs\\], so, if you're amazing at this, then you can maybe get 5,000 HSCs from one mouse...that makes IF and flow cytometry really hard with such low cell counts).  I busted my ass and barely slept and found out today (after the slides were all fixed and stained) that two of the mice were pregnant in the experiment.  What does that mean?  Well, we don't know because pregnancy is a majorly confounding variable that we were never accounting for or anticipating.  So we (meaning me) have to the scrap the whole experiment and start over.\n\n&#x200B;\n\nSo we can kill each other if you want.  Quick and painless, same time.",
+      "author": "_Doctor_D",
+      "created": 1554928021,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "ekkfd6l": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekkfd6l/",
+      "text": "I guess it is of season, I had a similar story happening to me last week. A postdoc and I are working on a huge dataset of 4000+ biological pictures. Each picture under goes a rather intense treatment with binarization, thresholding, and then shape extraction, conversion to elliptical Fourier descriptors and so on.\n\nThe problem was that lighting was uneven and for many samples the automated script didn't work out good. After testing the waters with specific automated macros, testing back and forth for a week, and finally manually correcting a lot of pictures, we discovered that an error came from the initial script.\n\nFixed it, generated a whole new set of shapes, only to find out they came with a new array of problems.\n\nBottom line: spent the last 7 days manually checking and correcting the pictures in Photoshop. Every. Single. Picture. No matter how good the playlist, you'll find your brain snapping at least once ...",
+      "author": "Tartifloutte",
+      "created": 1554921401,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "ekkd1qn": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekkd1qn/",
+      "text": "A similar thing happened to me in a PhD quant stats class. We were supposed to figure out how to analyze a data set to get specific results, but no matter what I did it would never work out.\n\nThe worst thing was that it was such an obscure topic that there was probably 5 resources TOTAL on the internet that said anything about it. I was trying all sorts of different techniques, literally 25-30 hours of bashing my head against my keyboard.\n\nThen we got an email from the prof that said, \"oops!! I uploaded the wrong data set for that exercise! Please use this one instead!\"\n\nI never wanted to kill someone more in my whole life.",
+      "author": "Purple_Chipmunk_",
+      "created": 1554920029,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "ekk7ibm": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekk7ibm/",
+      "text": "I was given some data I was supposed to write some code for to calculate equilibrium concentrations of carbon species in a plasma. I got divergent answers for a couple of the species, and kept trying to find out what was wrong with my code. turns out, nothing was wrong with it, someone had simply mislabeled the data and the wrong measurements were being input into the calculations. Shit like this happens a lot in research.",
+      "author": "DoctorWatchamacallit",
+      "created": 1554916720,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "ekk10jb": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekk10jb/",
+      "text": "F",
+      "author": "bholler17",
+      "created": 1554912543,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "ekjydmj": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjydmj/",
+      "text": "Step 0 of debugging: make sure you know how to produce the error you're trying to fix. If you can't repro the error, you can't fix it.",
+      "author": "rawr_777",
+      "created": 1554910775,
+      "upvotes": 65,
+      "replies": {
+        "ekjyjoi": {
+          "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjyjoi/",
+          "text": "Yup.  I'm aware and have been in an argument with the author about it for a week.\n\n*Proceeds to bite tongue so hard it bleeds*",
+          "author": "DataScienceUTA",
+          "created": 1554910887,
+          "upvotes": 45,
+          "replies": {}
+        }
+      }
+    },
+    "ekjkapd": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjkapd/",
+      "text": "Brutal. At least it won't take as long now as you probably know some of the code inside and out now?",
+      "author": "rollawaythestone",
+      "created": 1554900342,
+      "upvotes": 12,
+      "replies": {
+        "ekjkeji": {
+          "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjkeji/",
+          "text": "Unfortunately, it's in MATLAB. We are switching it over to Python as soon as the data is successfully extracted.",
+          "author": "DataScienceUTA",
+          "created": 1554900436,
+          "upvotes": 15,
+          "replies": {
+            "ekjmv6u": {
+              "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjmv6u/",
+              "text": "Learning syntax in* most modern languages will help you with others. When learning Python, I can't tell you how many times i said \"oh it functions the same as the \"XYZ\" routine from MATLAB!\"\n\nI understand your pain though, OP. <3",
+              "author": "Slugineering",
+              "created": 1554902504,
+              "upvotes": 9,
+              "replies": {
+                "ekjnae4": {
+                  "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjnae4/",
+                  "text": "Right, we are trying to extract an EEG file and the problem was that the old code snippet wasn't updated to read the EEG file given. I have absolutely no way of opening the EEG file and it has to be extracted into a MATLAB format so I can take a look. There was nothing I can really do because I don't even have the right software to open the damn thing.\n\nOnce we are done with MATLAB,  then I'm putting it into a Python format so I can start using some Deep Learning algorithms. I may try to use sparse learning with MATLAB; not sure yet.\n\nStill, frustrating.  That burned a lot of time and this is for my thesis.",
+                  "author": "DataScienceUTA",
+                  "created": 1554902830,
+                  "upvotes": 4,
+                  "replies": {
+                    "ekm9g6i": {
+                      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekm9g6i/",
+                      "text": "you can try opening it with PyEEG",
+                      "author": "SageBait",
+                      "created": 1554977136,
+                      "upvotes": 1,
+                      "replies": {
+                        "ekmbdhr": {
+                          "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekmbdhr/",
+                          "text": "Noted.\n\nHave you tried MNE?",
+                          "author": "DataScienceUTA",
+                          "created": 1554979216,
+                          "upvotes": 1,
+                          "replies": {
+                            "ekmt133": {
+                              "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekmt133/",
+                              "text": "unfortunately no but it looks like it might work well. thanks for showing it to me. i ended up having to write all the preprocessing stuff from scratch. Well not from scratch i used scipy but yeah. still looks cool",
+                              "author": "SageBait",
+                              "created": 1554992979,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "ekk33wl": {
+                  "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekk33wl/",
+                  "text": "Oh wow it's the exact opposite for me lol. I took a python game development class in high school and was surprised at all the other MechE undergrads struggling at Matlab in college.",
+                  "author": null,
+                  "created": 1554913897,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ekjjl8m": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjjl8m/",
+      "text": "on that note, how\u2019s the data science program at UTA? (Is there a DS program at UTA?)\nAlso, major F.",
+      "author": "cromagnonninja",
+      "created": 1554899708,
+      "upvotes": 22,
+      "replies": {
+        "ekjk0ga": {
+          "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjk0ga/",
+          "text": "I'm actually in Industrial Engineering. We are trying to start a data science/machine learning club. We got a lot of different departments interested; including business, CS, EE, and even Psychology.",
+          "author": "DataScienceUTA",
+          "created": 1554900091,
+          "upvotes": 17,
+          "replies": {
+            "ekjk36i": {
+              "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjk36i/",
+              "text": "Wonderful. \nI\u2019m working on Operations Research and Deep Learning (yes both combined) on a project rn. Does IE course structure cover some part of that?",
+              "author": "cromagnonninja",
+              "created": 1554900160,
+              "upvotes": 10,
+              "replies": {
+                "ekjkb7j": {
+                  "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjkb7j/",
+                  "text": "That's actually my field of interest! The intersection between OR and Deep Learning. We have two projects right now; one related to healthcare using CNN's, and one in demand response using sparse learning.",
+                  "author": "DataScienceUTA",
+                  "created": 1554900355,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            },
+            "ekk8xtj": {
+              "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekk8xtj/",
+              "text": "I'm a computer science PhD student at UTA. My research revolves around using ML/CNN to teach robotic manipulators to better grasp objects. Let me know the details of your club and I may join!",
+              "author": "cmcollander",
+              "created": 1554917583,
+              "upvotes": 4,
+              "replies": {}
+            },
+            "ekk637l": {
+              "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekk637l/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1554915818,
+              "upvotes": 2,
+              "replies": {
+                "ekkvrqg": {
+                  "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekkvrqg/",
+                  "text": "Austin is just UT (the perks of being the flagship).",
+                  "author": "dr_shark_bird",
+                  "created": 1554931377,
+                  "upvotes": 4,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ekjjaay": {
+      "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjjaay/",
+      "text": "Yep, that tracks.\n\n&#x200B;\n\nWelcome to grad school, whatever year you're in.",
+      "author": "hixchem",
+      "created": 1554899432,
+      "upvotes": 199,
+      "replies": {
+        "ekjje1a": {
+          "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjje1a/",
+          "text": "Do I get my \"welcome to grad school\" shirt now?",
+          "author": "DataScienceUTA",
+          "created": 1554899526,
+          "upvotes": 78,
+          "replies": {
+            "ekjlg32": {
+              "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekjlg32/",
+              "text": "Nope, but I'm sure your school will add on a fee for it's production anyway.",
+              "author": "hixchem",
+              "created": 1554901331,
+              "upvotes": 104,
+              "replies": {
+                "ekke065": {
+                  "link": "/r/GradSchool/comments/bbl7y5/i_was_given_a_large_code_snippet_to_debug_i_spent/ekke065/",
+                  "text": "Too real :P true, but too real",
+                  "author": "realFoobanana",
+                  "created": 1554920602,
+                  "upvotes": 10,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634065570
+}

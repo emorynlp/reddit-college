@@ -1,1 +1,325 @@
-{"sid": "pslbqj", "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/", "title:": "Better reference manager than Mendeley?", "text": "There\u2019s so many little bugs with the software that pisses me off to no end.  \n\nEvery day when I open it, it asks me to log in (even though I have \u201cremember me\u201d checked), I type in my credentials (no auto-fill), it tells me there\u2019s an error, I close and reopen it, then type in my credentials again and then it works.  \n\nWhenever I am typing in the general notes and it syncs the data, the cursor gets placed up at the top of the notes. So I have to erase and scroll back down.  \n\nI don\u2019t think I even need to mention the Mendeley Word plugin. Just Google \u201cMendeley word plugin problem\u201d and you\u2019ll see how difficult it is to get working for some people. And even once it is working I still get popups in word telling me it can\u2019t connect.  \n\nThen today is my last straw. It won\u2019t let me erase any notes I\u2019ve written. So one typo and I can\u2019t go back and change it or add anything in other than the bottom. Drives me nuts.  \n\nSo, long story short, is there a better manager to use? Preferably one that has the same features (highlighting, notes, adding citations in Word) without the bugs. Bonus if I can somehow transfer my annotations from Mendeley to the new app :)", "author": "You_Stole_My_Hot_Dog", "created": 1632238855, "retrieved": 1632952134, "over_18": false, "upvotes": 31, "upvote_ratio": 0.94, "comments": {"hdtt839": {"link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdtt839/", "text": "I have Zotero/Papership but I can\u2019t figure out how to Cite in text like Endnote does. I end up using Zoterobib online to format my citations and then use that for my reference list. Sucks when I remove, add, or change the order  of my citations.\n\nI tried using Endnote but I hate it (ie can\u2019t figure out how to get it to work for me). I do most of my work on my iPad, and it does not have Cite in text for iPad. I can\u2019t figure out how to import citations or change style on the iPad app. \n\nI tried using the online version of Endnote on my laptop but when I tried to use the Cite in text Word add-in connected to that account it says I have no references. Plus I don\u2019t know how to transfer all the citations I already have to the program so I would have to start over.", "author": "UleeBunny", "created": 1632306126, "upvotes": 2}, "hdsn7sa": {"link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdsn7sa/", "text": "I use RefWorks", "author": "ErwinHeisenberg", "created": 1632276005, "upvotes": 1}, "hdrqgqx": {"link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdrqgqx/", "text": "Another option that rarely gets mentioned (probably since it isn't free, \\~$3 per month) is readcube papers. I prefer it to others as they have a great PDF reader, which automatically extracts figures and references from the document and makes it easier to read or search the reference list. The iPad app is also great which is nice for switching between devices. Just wanted to suggest another potential option. It of course, like others has a word plug in for citation managing.", "author": "sensorimotorneuro", "created": 1632260593, "upvotes": 6}, "hdqtbra": {"link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqtbra/", "text": "Endnote", "author": "soh_amore", "created": 1632246770, "upvotes": 6}, "hdqkpaf": {"link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqkpaf/", "text": "Zotero", "author": "mr_kazemiro", "created": 1632243223, "upvotes": 9}, "hdqdkn3": {"link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqdkn3/", "text": "Use latex like any self respecting person should.", "author": "BussyKing777", "created": 1632240354, "upvotes": -26}, "hdqdeqo": {"link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqdeqo/", "text": "[deleted]", "author": null, "created": 1632240287, "upvotes": 5}, "hdqa2aw": {"link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqa2aw/", "text": "Zotero", "author": "EpiJade", "created": 1632238908, "upvotes": 86}}}
+{
+  "sid": "pslbqj",
+  "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/",
+  "title:": "Better reference manager than Mendeley?",
+  "text": "There\u2019s so many little bugs with the software that pisses me off to no end.  \n\nEvery day when I open it, it asks me to log in (even though I have \u201cremember me\u201d checked), I type in my credentials (no auto-fill), it tells me there\u2019s an error, I close and reopen it, then type in my credentials again and then it works.  \n\nWhenever I am typing in the general notes and it syncs the data, the cursor gets placed up at the top of the notes. So I have to erase and scroll back down.  \n\nI don\u2019t think I even need to mention the Mendeley Word plugin. Just Google \u201cMendeley word plugin problem\u201d and you\u2019ll see how difficult it is to get working for some people. And even once it is working I still get popups in word telling me it can\u2019t connect.  \n\nThen today is my last straw. It won\u2019t let me erase any notes I\u2019ve written. So one typo and I can\u2019t go back and change it or add anything in other than the bottom. Drives me nuts.  \n\nSo, long story short, is there a better manager to use? Preferably one that has the same features (highlighting, notes, adding citations in Word) without the bugs. Bonus if I can somehow transfer my annotations from Mendeley to the new app :)",
+  "author": "You_Stole_My_Hot_Dog",
+  "created": 1632238855,
+  "over_18": false,
+  "upvotes": 31,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "hdtt839": {
+      "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdtt839/",
+      "text": "I have Zotero/Papership but I can\u2019t figure out how to Cite in text like Endnote does. I end up using Zoterobib online to format my citations and then use that for my reference list. Sucks when I remove, add, or change the order  of my citations.\n\nI tried using Endnote but I hate it (ie can\u2019t figure out how to get it to work for me). I do most of my work on my iPad, and it does not have Cite in text for iPad. I can\u2019t figure out how to import citations or change style on the iPad app. \n\nI tried using the online version of Endnote on my laptop but when I tried to use the Cite in text Word add-in connected to that account it says I have no references. Plus I don\u2019t know how to transfer all the citations I already have to the program so I would have to start over.",
+      "author": "UleeBunny",
+      "created": 1632306126,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hdsn7sa": {
+      "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdsn7sa/",
+      "text": "I use RefWorks",
+      "author": "ErwinHeisenberg",
+      "created": 1632276005,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdrqgqx": {
+      "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdrqgqx/",
+      "text": "Another option that rarely gets mentioned (probably since it isn't free, \\~$3 per month) is readcube papers. I prefer it to others as they have a great PDF reader, which automatically extracts figures and references from the document and makes it easier to read or search the reference list. The iPad app is also great which is nice for switching between devices. Just wanted to suggest another potential option. It of course, like others has a word plug in for citation managing.",
+      "author": "sensorimotorneuro",
+      "created": 1632260593,
+      "upvotes": 6,
+      "replies": {
+        "hdtfyp0": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdtfyp0/",
+          "text": "Don\u2019t know about readcube - but let me tell you about the parent company. When Papers (the old program) was around, I used it all the time. It was fantastic and I would still use it today except\u2026 I had a library sync problem and it hung the whole thing up. I emailed the tech support about it and instead of providing me with any help, they told me to get readcube and then they would help. No, I\u2019ve already paid for your program and you aren\u2019t instilling any sort of confidence that my my now monthly fee will come with competent tech support. \n\nTLDR: readcube is run by a scummy company",
+          "author": "Accomplished_Egg",
+          "created": 1632293849,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hdqtbra": {
+      "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqtbra/",
+      "text": "Endnote",
+      "author": "soh_amore",
+      "created": 1632246770,
+      "upvotes": 6,
+      "replies": {
+        "hdrcm7n": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdrcm7n/",
+          "text": "I literally owe my undergrad to EndNote hahaha",
+          "author": "JafarsPomeranian",
+          "created": 1632254715,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hdqkpaf": {
+      "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqkpaf/",
+      "text": "Zotero",
+      "author": "mr_kazemiro",
+      "created": 1632243223,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hdqdkn3": {
+      "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqdkn3/",
+      "text": "Use latex like any self respecting person should.",
+      "author": "BussyKing777",
+      "created": 1632240354,
+      "upvotes": -26,
+      "replies": {
+        "hds4b9c": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hds4b9c/",
+          "text": "LaTex isn't a reference manager. It's a typesetting system. Any self-respecting LaTex user would know the difference",
+          "author": "adrienne_cherie",
+          "created": 1632266989,
+          "upvotes": 11,
+          "replies": {
+            "hdu437p": {
+              "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdu437p/",
+              "text": "Hahahaha. Hard to use bibtex without using latex genius.",
+              "author": "BussyKing777",
+              "created": 1632313558,
+              "upvotes": -2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hdqdeqo": {
+      "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqdeqo/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1632240287,
+      "upvotes": 5,
+      "replies": {
+        "hdqot3b": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqot3b/",
+          "text": "I absolutely love PaperPile! It has a great interface for organizing papers (syncs with Google Drive and there\u2019s an iphone app too). Also has a great editor for annotating papers. I recommend it to everyone. :) Subscription is like $35/yr",
+          "author": "panda00painter",
+          "created": 1632244900,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hdumy2d": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdumy2d/",
+          "text": "Second this. It\u2019s amazing.",
+          "author": "El_Minadero",
+          "created": 1632322455,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hdqa2aw": {
+      "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqa2aw/",
+      "text": "Zotero",
+      "author": "EpiJade",
+      "created": 1632238908,
+      "upvotes": 86,
+      "replies": {
+        "hdrf31z": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdrf31z/",
+          "text": "Lifehack: [add sci-hub as a fallback pdf resolver and Zotero will one-click-download papers to your computer whenever you add them to your library](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7)",
+          "author": "tpharroawdaiygm",
+          "created": 1632255740,
+          "upvotes": 28,
+          "replies": {
+            "hdruemg": {
+              "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdruemg/",
+              "text": "HOLY SHIT!!!!!!!?1!!!1!1!!1!1!!!!!!!",
+              "author": "Anarchy_Lurker",
+              "created": 1632262368,
+              "upvotes": 8,
+              "replies": {
+                "hdrxc7a": {
+                  "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdrxc7a/",
+                  "text": "It's a fucking gamechanger.",
+                  "author": "tpharroawdaiygm",
+                  "created": 1632263718,
+                  "upvotes": 4,
+                  "replies": {}
+                }
+              }
+            },
+            "hdsm2em": {
+              "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdsm2em/",
+              "text": "Wait what? No fucking way.",
+              "author": "HitchslapHappy",
+              "created": 1632275454,
+              "upvotes": 4,
+              "replies": {
+                "hdsmf8b": {
+                  "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdsmf8b/",
+                  "text": "Give it a try :)",
+                  "author": "tpharroawdaiygm",
+                  "created": 1632275624,
+                  "upvotes": 2,
+                  "replies": {
+                    "hdvn99b": {
+                      "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdvn99b/",
+                      "text": "I owe you my first-born child. You have saved me.",
+                      "author": "HitchslapHappy",
+                      "created": 1632337193,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hdqffzv": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqffzv/",
+          "text": "I second the second second. Zotero also plugs into g Docs which i use for everything now\u2026",
+          "author": "LowCommercial9845",
+          "created": 1632241117,
+          "upvotes": 13,
+          "replies": {
+            "hdt40wv": {
+              "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdt40wv/",
+              "text": "Can you expand on how the g docs integration works?",
+              "author": "_thenotsodarkknight_",
+              "created": 1632285114,
+              "upvotes": 2,
+              "replies": {
+                "heij6et": {
+                  "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/heij6et/",
+                  "text": " Add the zotero plugin to g docs",
+                  "author": "LowCommercial9845",
+                  "created": 1632775674,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hdqcarb": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqcarb/",
+          "text": "Looking into it, and it definitely looks better. Plus I can connect it directly to my Mendeley account and import everything :) Thanks for the suggestion!",
+          "author": "You_Stole_My_Hot_Dog",
+          "created": 1632239827,
+          "upvotes": 8,
+          "replies": {}
+        },
+        "hdrsmk8": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdrsmk8/",
+          "text": "Even if it was slightly worse than mendeley, it still wins out by not being owned by elsevier",
+          "author": "Milch_und_Paprika",
+          "created": 1632261556,
+          "upvotes": 10,
+          "replies": {}
+        },
+        "hdqby0h": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqby0h/",
+          "text": "I second this!",
+          "author": "Federwolf",
+          "created": 1632239682,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hdqezi9": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqezi9/",
+          "text": "Second (third?) this. Not sure if you can import annotations though.",
+          "author": "GoofyMaximus",
+          "created": 1632240929,
+          "upvotes": 3,
+          "replies": {
+            "hdqfh5s": {
+              "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdqfh5s/",
+              "text": "You can! I linked it directly to my Mendeley account, and it imported everything, including highlights and notes. I love it so far.",
+              "author": "You_Stole_My_Hot_Dog",
+              "created": 1632241129,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "hdr14iv": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdr14iv/",
+          "text": "Absolutely Zotero",
+          "author": "xerodayze",
+          "created": 1632250005,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hdrxlpz": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdrxlpz/",
+          "text": "Zotero \u2014 endorsed with all my heart. It\u2019s the best.",
+          "author": "ebnakk",
+          "created": 1632263840,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hdscntm": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdscntm/",
+          "text": "Does Zotero have an iPad app yet? That\u2019s what\u2019s been keeping me with mendeley.",
+          "author": "wizardyourlifeforce",
+          "created": 1632270980,
+          "upvotes": 1,
+          "replies": {
+            "hdsmewi": {
+              "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdsmewi/",
+              "text": "They are in beta testing for their iOS app. I am using it and\u2026it\u2019s ok. I prefer using the desktop version but when I\u2019m out and don\u2019t have my laptop, the app works.",
+              "author": "HitchslapHappy",
+              "created": 1632275620,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "hdsyx01": {
+              "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdsyx01/",
+              "text": "I switched and use the [zotfile](http://zotfile.com) plugin with the school cloud account to send PDFs to my iPad. Took a little time to set up but much more reliable than Mendeley.",
+              "author": "cdig",
+              "created": 1632282056,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "hdtsncr": {
+              "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdtsncr/",
+              "text": "You can link it to the Papership app on the iPad.",
+              "author": "UleeBunny",
+              "created": 1632305634,
+              "upvotes": 2,
+              "replies": {
+                "hdtyhbj": {
+                  "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdtyhbj/",
+                  "text": "I tried Papership and it was a mess \u2014 duplicated articles, wouldn\u2019t stop syncing, and I couldn\u2019t even figure out if it was still supported, the help forums don\u2019t exist anymore and the developer\u2019s last tweet was 5 years ago.",
+                  "author": "wizardyourlifeforce",
+                  "created": 1632310113,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hdsmkl6": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdsmkl6/",
+          "text": "Zotero all the way. I started with Mendelay and hated it. Zotero has shared folders also, which I convinced my lab team to use and now we are sharing all our references this way instead of email. Much better!!",
+          "author": "HitchslapHappy",
+          "created": 1632275696,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hdutpti": {
+          "link": "/r/GradSchool/comments/pslbqj/better_reference_manager_than_mendeley/hdutpti/",
+          "text": "THIS!!!!! Get Zotero and you will never look back. Easy to use, integrates well with Word/Google Docs, and best of all.... IT'S FREE!!!",
+          "author": "BrownBear_96",
+          "created": 1632325244,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634067235
+}

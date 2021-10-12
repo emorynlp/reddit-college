@@ -1,1 +1,144 @@
-{"sid": "pjbs5v", "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/", "title:": "Is it safe to put ALL your files on OneDrive?", "text": "Hi! Fresh masters student here looking for advice!\n\nMy university provides a lot of onedrive space. In my undergrad, I never backed up my files to the cloud. I just backed them up to an external drive whenever I thought to do it (every two ish weeks). Now that I\u2019m starting a new degree, I feel like I should just have everything saved to onedrive. \n\nIs that safe? What if something happens where I can\u2019t access my account at a crucial moment or something? I\u2019m on a Mac, so sometimes Microsoft things are iffy. Plus, it feels weird to not have local files. \n\nAnyone have any thoughts?", "author": "TheMadeline", "created": 1630973343, "retrieved": 1632952812, "over_18": false, "upvotes": 9, "upvote_ratio": 1.0, "comments": {"hbyirc3": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbyirc3/", "text": "> Is it save to have only one copy of <important data>?\n\nNo!", "author": "Single_Blueberry", "created": 1631037707, "upvotes": 1}, "hbyhbts": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbyhbts/", "text": "Time to scare you into being a bit of a paranoid data goblin. During my masters I had all of my data, articles, and thesis drafts stored in various locations. It went something like this Google drive, external hard drive, USB drive, SD card, and the computer internal hard drive. I was about half way through writing my first copy of my thesis when I had a power surge, I was in the middle of updating the cloud drive so I lost my whole folder from my internal hard drive and my cloud copies. A few months later my whole external hard drive bricked. The only ones that never failed me were the USB drive and the SD card. However both of those have the risk of being lost or misplaced due to their size.   \n\n\nI think it is safe to have one internal copy, one cloud copy, and one external copy. Just remember to keep your folders updated on each storage because it will suck to lose months worth of progress if one or more should fail you.", "author": "DangerVipe", "created": 1631037120, "upvotes": 1}, "hby7fv6": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hby7fv6/", "text": ">Is that safe?\n\nThe location of your primary working folder isn't what makes it safe. Having multiple frequent backups is what makes it safe.", "author": "fishnoguns", "created": 1631033058, "upvotes": 1}, "hbx2l7t": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbx2l7t/", "text": "You should also make sure to save copies locally and to another source. What if you suddenly lost access to your account? \n\nPersonally, I limit how much I save to school-owned accounta that will disappear post-graduation. Having to go through and save everything is a pain when you're also finishing up final thesis/projects/classes/what have you and making graduation ceremony plans, etc. \n\nForback-ups, I do after amy significant changes. Wrote 5 pages last night? Time to back up. First two weeks of class and all my work so far is downloading re-downloadable PDFs (I take paper notes)? Not going to bother.", "author": "era626", "created": 1631013336, "upvotes": 1}, "hbwv36l": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbwv36l/", "text": "Check with your university about their data privacy and security rules. Many or the free cloud services hosted in the USA do not comply with GDPR for example.", "author": "doornroosje", "created": 1631007222, "upvotes": 1}, "hbwpgok": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbwpgok/", "text": "I write code for my work and I have a copy on my PC, google drive and a weekly backup to an external ssd", "author": "Weekend_metalhead", "created": 1631002163, "upvotes": 2}, "hbwd4ov": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbwd4ov/", "text": "No. Glitches can and do happen, and your files could end up gone, corrupted, or inaccessible at an important time.\n\nOneDrive is a possible place to keep your backups, but never, ever trust it to store your only copy of something.\n\nAnd if you want cloud backups, there are better options than OneDrive. CrashPlan, Backblaze, iDrive, Carbonite, and SpiderOak are a few popular cloud backup solutions. They\u2019re designed to serve as backup tools, so they have features like automatically making copies in the background, and making incremental backups so you can restore a file back to how it was on a particular date/time if you only realize a few weeks later that you did something to it that screwed it up (like accidentally breaking all the inserted references from my citation manager!)\n\nI\u2019m a huge fan of CrashPlan. It\u2019s one of the more expensive options, but it has saved my ass multiple times and it still costs less than my Netflix subscription, so I\u2019m sticking with it!", "author": "tentkeys", "created": 1630992537, "upvotes": 0}, "hbw3c6t": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbw3c6t/", "text": "Onedrive works by having a Onedrive folder on your pc, so all your files are saved in both locations. It is possible to choose to retain files on your machine by right-clicking on the file or folder and choosing Always keep on this device. Doing so will also keep the file(s) and/or folder(s) available locally. \n\nI have been a OneDrive user since MSFT first started offering it back when it was known as SkyDrive.", "author": "qwertyrdw", "created": 1630986472, "upvotes": 4}, "hbvzppc": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbvzppc/", "text": "I bought an old refurbed Dell tower for about $100 that I put a cheap ssd in to run windows, and then 2 large standard HDDs. I use one drive for all my grad school work on my laptop. The old dell tower at home also syncs to one drive on drive \"D\" (remember C just has the OS) . I then use a 3rd party program to copy drive D to drive E. I now have all of my files on a drive that does not sync directly with one drive, so if something catastrophic were to happen (mass deletion) I have my files on a non cloud connected drive.", "author": "Schedonnardus", "created": 1630984467, "upvotes": 2}, "hbvrv1h": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbvrv1h/", "text": "You can never have too many backups. I've seen far too many disasters where a person has everything in one place and then they lose everything. \n\nMaybe have OneDrive and an external hard drive just to be extra safe.", "author": "A1B6", "created": 1630980421, "upvotes": 5}, "hbvg5ak": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbvg5ak/", "text": "There\u2019s a folksy aphorism about the wisdom of keeping one\u2019s entire store of avian ova in a single wicker vessel\u2026", "author": "intervalconfidence", "created": 1630974663, "upvotes": 19}, "hbvfd2w": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbvfd2w/", "text": "You want multiple back ups. An automatic cloud one like one note or google drive and an external.", "author": "mediocre-spice", "created": 1630974275, "upvotes": 16}, "hbverro": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbverro/", "text": "I save everything in One Drive and then important things to my personal computer (i.e., class papers/projects, my dissertation file, project proposals, etc.). I\u2019ll then back stuff up periodically on an external hard drive.", "author": "2Black_Cats", "created": 1630973979, "upvotes": 11}, "hbvdwyv": {"link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbvdwyv/", "text": "Get a service like dropbox", "author": "--ikindahatereddit--", "created": 1630973552, "upvotes": 1}}}
+{
+  "sid": "pjbs5v",
+  "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/",
+  "title:": "Is it safe to put ALL your files on OneDrive?",
+  "text": "Hi! Fresh masters student here looking for advice!\n\nMy university provides a lot of onedrive space. In my undergrad, I never backed up my files to the cloud. I just backed them up to an external drive whenever I thought to do it (every two ish weeks). Now that I\u2019m starting a new degree, I feel like I should just have everything saved to onedrive. \n\nIs that safe? What if something happens where I can\u2019t access my account at a crucial moment or something? I\u2019m on a Mac, so sometimes Microsoft things are iffy. Plus, it feels weird to not have local files. \n\nAnyone have any thoughts?",
+  "author": "TheMadeline",
+  "created": 1630973343,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hbyirc3": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbyirc3/",
+      "text": "> Is it save to have only one copy of <important data>?\n\nNo!",
+      "author": "Single_Blueberry",
+      "created": 1631037707,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hbyhbts": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbyhbts/",
+      "text": "Time to scare you into being a bit of a paranoid data goblin. During my masters I had all of my data, articles, and thesis drafts stored in various locations. It went something like this Google drive, external hard drive, USB drive, SD card, and the computer internal hard drive. I was about half way through writing my first copy of my thesis when I had a power surge, I was in the middle of updating the cloud drive so I lost my whole folder from my internal hard drive and my cloud copies. A few months later my whole external hard drive bricked. The only ones that never failed me were the USB drive and the SD card. However both of those have the risk of being lost or misplaced due to their size.   \n\n\nI think it is safe to have one internal copy, one cloud copy, and one external copy. Just remember to keep your folders updated on each storage because it will suck to lose months worth of progress if one or more should fail you.",
+      "author": "DangerVipe",
+      "created": 1631037120,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hby7fv6": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hby7fv6/",
+      "text": ">Is that safe?\n\nThe location of your primary working folder isn't what makes it safe. Having multiple frequent backups is what makes it safe.",
+      "author": "fishnoguns",
+      "created": 1631033058,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hbx2l7t": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbx2l7t/",
+      "text": "You should also make sure to save copies locally and to another source. What if you suddenly lost access to your account? \n\nPersonally, I limit how much I save to school-owned accounta that will disappear post-graduation. Having to go through and save everything is a pain when you're also finishing up final thesis/projects/classes/what have you and making graduation ceremony plans, etc. \n\nForback-ups, I do after amy significant changes. Wrote 5 pages last night? Time to back up. First two weeks of class and all my work so far is downloading re-downloadable PDFs (I take paper notes)? Not going to bother.",
+      "author": "era626",
+      "created": 1631013336,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hbwv36l": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbwv36l/",
+      "text": "Check with your university about their data privacy and security rules. Many or the free cloud services hosted in the USA do not comply with GDPR for example.",
+      "author": "doornroosje",
+      "created": 1631007222,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hbwpgok": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbwpgok/",
+      "text": "I write code for my work and I have a copy on my PC, google drive and a weekly backup to an external ssd",
+      "author": "Weekend_metalhead",
+      "created": 1631002163,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hbwd4ov": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbwd4ov/",
+      "text": "No. Glitches can and do happen, and your files could end up gone, corrupted, or inaccessible at an important time.\n\nOneDrive is a possible place to keep your backups, but never, ever trust it to store your only copy of something.\n\nAnd if you want cloud backups, there are better options than OneDrive. CrashPlan, Backblaze, iDrive, Carbonite, and SpiderOak are a few popular cloud backup solutions. They\u2019re designed to serve as backup tools, so they have features like automatically making copies in the background, and making incremental backups so you can restore a file back to how it was on a particular date/time if you only realize a few weeks later that you did something to it that screwed it up (like accidentally breaking all the inserted references from my citation manager!)\n\nI\u2019m a huge fan of CrashPlan. It\u2019s one of the more expensive options, but it has saved my ass multiple times and it still costs less than my Netflix subscription, so I\u2019m sticking with it!",
+      "author": "tentkeys",
+      "created": 1630992537,
+      "upvotes": 0,
+      "replies": {
+        "hbxnmcs": {
+          "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbxnmcs/",
+          "text": "Onedrive auto versions by default. I use onedrive as the backup for crashplan. Crashplan is much more likely to go out of business before ms\n\nI use local storage space w three way mirror and a raid 1 nas. Can\u2019t be to careful. Had to restore a couple hundred gb from crash plan the other day because i deleted a bunch from one drive cloud and it removed the files from my local machine as well. Oops",
+          "author": "Trakeen",
+          "created": 1631024807,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hbw3c6t": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbw3c6t/",
+      "text": "Onedrive works by having a Onedrive folder on your pc, so all your files are saved in both locations. It is possible to choose to retain files on your machine by right-clicking on the file or folder and choosing Always keep on this device. Doing so will also keep the file(s) and/or folder(s) available locally. \n\nI have been a OneDrive user since MSFT first started offering it back when it was known as SkyDrive.",
+      "author": "qwertyrdw",
+      "created": 1630986472,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hbvzppc": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbvzppc/",
+      "text": "I bought an old refurbed Dell tower for about $100 that I put a cheap ssd in to run windows, and then 2 large standard HDDs. I use one drive for all my grad school work on my laptop. The old dell tower at home also syncs to one drive on drive \"D\" (remember C just has the OS) . I then use a 3rd party program to copy drive D to drive E. I now have all of my files on a drive that does not sync directly with one drive, so if something catastrophic were to happen (mass deletion) I have my files on a non cloud connected drive.",
+      "author": "Schedonnardus",
+      "created": 1630984467,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hbvrv1h": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbvrv1h/",
+      "text": "You can never have too many backups. I've seen far too many disasters where a person has everything in one place and then they lose everything. \n\nMaybe have OneDrive and an external hard drive just to be extra safe.",
+      "author": "A1B6",
+      "created": 1630980421,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hbvg5ak": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbvg5ak/",
+      "text": "There\u2019s a folksy aphorism about the wisdom of keeping one\u2019s entire store of avian ova in a single wicker vessel\u2026",
+      "author": "intervalconfidence",
+      "created": 1630974663,
+      "upvotes": 19,
+      "replies": {
+        "hbwzlie": {
+          "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbwzlie/",
+          "text": "I like your words, word man.",
+          "author": "Pleasant-Sea7075",
+          "created": 1631011079,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hbvfd2w": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbvfd2w/",
+      "text": "You want multiple back ups. An automatic cloud one like one note or google drive and an external.",
+      "author": "mediocre-spice",
+      "created": 1630974275,
+      "upvotes": 16,
+      "replies": {}
+    },
+    "hbverro": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbverro/",
+      "text": "I save everything in One Drive and then important things to my personal computer (i.e., class papers/projects, my dissertation file, project proposals, etc.). I\u2019ll then back stuff up periodically on an external hard drive.",
+      "author": "2Black_Cats",
+      "created": 1630973979,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "hbvdwyv": {
+      "link": "/r/GradSchool/comments/pjbs5v/is_it_safe_to_put_all_your_files_on_onedrive/hbvdwyv/",
+      "text": "Get a service like dropbox",
+      "author": "--ikindahatereddit--",
+      "created": 1630973552,
+      "upvotes": 1,
+      "replies": {}
+    }
+  },
+  "updated": 1634065659
+}

@@ -1,1 +1,203 @@
-{"sid": "phktul", "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/", "title:": "THE POWER OF VPN IN GRAD SCHOOL", "text": "I\u2019ve been thinking about visiting my grandparents outside the US for a quick winter break vacation (haven\u2019t seen them in a few years, they\u2019re getting up there in age). \nI just started a completely online Masters program so being anywhere physically is not a worry for me. \n**Has anyone utilized VPN to keep doing your assignments and grad school work while being out of your respective country? Or did online grad school while traveling around?**\nTips, tricks, is it doable?", "author": "Kooky-Blacksmith1342", "created": 1630729676, "retrieved": 1632953149, "over_18": false, "upvotes": 9, "upvote_ratio": 0.81, "comments": {"hbpg5fg": {"link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbpg5fg/", "text": "I don\u2019t *have* to use it for university purposes per say, as I am just traveling outside the country but still want to be able to access my blackboard and resources. So I dunno if the university would give me access to it.\nTherefore, I\u2019m potentially debating just using NordVPN if they don\u2019t but also don\u2019t know how well that would even work. \nBut I understand your point, I use Cisco VPN for my remote work too!", "author": "Kooky-Blacksmith1342", "created": 1630861604, "upvotes": 1}, "hbm6dg4": {"link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbm6dg4/", "text": "My uni is in the UK and I am in Canada. I have a desktop in my office that I connect to remotely. Never had to use a VPN, but one is available through my university. They installed a special protected VPN on my desktop in the UK, which I can enable to secure my connection if I am using public wifi to connect remotely. \n\nNormally, if you need to use a VPN, it would be provided by your university. For example, during my undergrad, we had to install some software on our personal laptop that required to be connected to our uni server to access the licenses. Since this required us to be on campus, the uni made us install a special protected VPN (cisco) so that we could use the software from home.", "author": "methomz", "created": 1630791335, "upvotes": 2}, "hbl30q0": {"link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbl30q0/", "text": "Is your course material region locked or something? Or are you trying to hide the fact that you\u2019re traveling from your program?", "author": "ThrowawayHistory20", "created": 1630773567, "upvotes": 1}, "hbkurra": {"link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbkurra/", "text": "I only used school\u2019s VPN to enroll courses. Then doing online courses (coz of covid) and accessing library without VPN has been working well for me. If your school doesn\u2019t tell you that it\u2019s necessary to use VPN, you\u2019re good to go.", "author": "Godzillavio", "created": 1630769934, "upvotes": 1}, "hbk2zup": {"link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbk2zup/", "text": "I'm no expert, but I'm pretty sure the whole VPN security thing is super overrated. As I understand it, the measures NordVPN and everyone else that sponsors half of YouTube are built into modern websites. But don't take my word for it, I'm an econ major", "author": "ArguablyCanadian", "created": 1630754958, "upvotes": 5}, "hbjt8hb": {"link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbjt8hb/", "text": "I'm not sure how your physical location matters here... Why would the university restrict access based on geography?", "author": "Single_Blueberry", "created": 1630746588, "upvotes": 6}, "hbjhlrf": {"link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbjhlrf/", "text": "VPN is indispensable for me to connect to the high performance clusters at my uni. I'm doing my PhD in a simulation heavy topic and it's the only way to run my experiments. If I was forced to use my laptop, it would take years to run what I usually get done in about a week!", "author": "dxn99", "created": 1630736617, "upvotes": 5}, "hbjestf": {"link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbjestf/", "text": "I've left the US multiple to conduct fieldwork outside the country. Always used my university's preferred VPN service. Its slow at times but gets the job done. It helps if the internet in your host country is decent.", "author": "bobrigado", "created": 1630734518, "upvotes": 2}, "hbja7k7": {"link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbja7k7/", "text": "We have to use a VPN to access the library and other resources while off campus. It's a little slower but workable. Just make sure you disconnect before doing any non-school work.", "author": "itsonlyliz", "created": 1630731322, "upvotes": 12}}}
+{
+  "sid": "phktul",
+  "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/",
+  "title:": "THE POWER OF VPN IN GRAD SCHOOL",
+  "text": "I\u2019ve been thinking about visiting my grandparents outside the US for a quick winter break vacation (haven\u2019t seen them in a few years, they\u2019re getting up there in age). \nI just started a completely online Masters program so being anywhere physically is not a worry for me. \n**Has anyone utilized VPN to keep doing your assignments and grad school work while being out of your respective country? Or did online grad school while traveling around?**\nTips, tricks, is it doable?",
+  "author": "Kooky-Blacksmith1342",
+  "created": 1630729676,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 0.81,
+  "comments": {
+    "hbpg5fg": {
+      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbpg5fg/",
+      "text": "I don\u2019t *have* to use it for university purposes per say, as I am just traveling outside the country but still want to be able to access my blackboard and resources. So I dunno if the university would give me access to it.\nTherefore, I\u2019m potentially debating just using NordVPN if they don\u2019t but also don\u2019t know how well that would even work. \nBut I understand your point, I use Cisco VPN for my remote work too!",
+      "author": "Kooky-Blacksmith1342",
+      "created": 1630861604,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hbm6dg4": {
+      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbm6dg4/",
+      "text": "My uni is in the UK and I am in Canada. I have a desktop in my office that I connect to remotely. Never had to use a VPN, but one is available through my university. They installed a special protected VPN on my desktop in the UK, which I can enable to secure my connection if I am using public wifi to connect remotely. \n\nNormally, if you need to use a VPN, it would be provided by your university. For example, during my undergrad, we had to install some software on our personal laptop that required to be connected to our uni server to access the licenses. Since this required us to be on campus, the uni made us install a special protected VPN (cisco) so that we could use the software from home.",
+      "author": "methomz",
+      "created": 1630791335,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hbl30q0": {
+      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbl30q0/",
+      "text": "Is your course material region locked or something? Or are you trying to hide the fact that you\u2019re traveling from your program?",
+      "author": "ThrowawayHistory20",
+      "created": 1630773567,
+      "upvotes": 1,
+      "replies": {
+        "hbpfdwg": {
+          "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbpfdwg/",
+          "text": "I\u2019m not sure if it is locked or not tbh. I would guess not, since we have a few people in the program accessing from China. \nAnd I don\u2019t think my program would mind if I was abroad doing this, I just wanted to make sure it was doable with my personally limited VPN capabilities",
+          "author": "Kooky-Blacksmith1342",
+          "created": 1630861264,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hbkurra": {
+      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbkurra/",
+      "text": "I only used school\u2019s VPN to enroll courses. Then doing online courses (coz of covid) and accessing library without VPN has been working well for me. If your school doesn\u2019t tell you that it\u2019s necessary to use VPN, you\u2019re good to go.",
+      "author": "Godzillavio",
+      "created": 1630769934,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hbk2zup": {
+      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbk2zup/",
+      "text": "I'm no expert, but I'm pretty sure the whole VPN security thing is super overrated. As I understand it, the measures NordVPN and everyone else that sponsors half of YouTube are built into modern websites. But don't take my word for it, I'm an econ major",
+      "author": "ArguablyCanadian",
+      "created": 1630754958,
+      "upvotes": 5,
+      "replies": {
+        "hblij2q": {
+          "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hblij2q/",
+          "text": "Yeah, those sorts of VPNs are for ~~piracy~~ privacy, not security (despite what the ads will say). \n\nBut a school VPN might be required for OP to connect to certain school resources. They won't have to pay for that, though. E.g. I need to connect to my school's VPN to access their library resources or open a session on a campus machine to run a program remotely.",
+          "author": "InfanticideAquifer",
+          "created": 1630780472,
+          "upvotes": 4,
+          "replies": {
+            "hbpf20j": {
+              "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbpf20j/",
+              "text": "I have NordVPN and was thinking I could potentially use that to mask my location as being in the US, that way it would be smooth sailing as far as accessing my school portal/Blackboard. \nWho did you contact in your uni to get the VPN info?",
+              "author": "Kooky-Blacksmith1342",
+              "created": 1630861118,
+              "upvotes": 1,
+              "replies": {
+                "hbppxup": {
+                  "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbppxup/",
+                  "text": "You could use a paid VPN to mask your location, but I don't really understand why your institution would care about where you are located. Blackboard and things of that nature should work from anywhere. \n\nUsing the school VPN was just a matter of following instructions on my IT department's website.",
+                  "author": "InfanticideAquifer",
+                  "created": 1630865936,
+                  "upvotes": 1,
+                  "replies": {
+                    "hbvbgeu": {
+                      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbvbgeu/",
+                      "text": "I\u2019m basing this need for VPN on the assumption that their resources are region locked. \nOtherwise, you\u2019re right, I might not need one. I guess I\u2019d just have to contact the IT department and find out",
+                      "author": "Kooky-Blacksmith1342",
+                      "created": 1630972332,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hbjt8hb": {
+      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbjt8hb/",
+      "text": "I'm not sure how your physical location matters here... Why would the university restrict access based on geography?",
+      "author": "Single_Blueberry",
+      "created": 1630746588,
+      "upvotes": 6,
+      "replies": {
+        "hbm1p4t": {
+          "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbm1p4t/",
+          "text": "Many do to access on campus resources (remote desktop servers and the like). No idea why",
+          "author": "wolfchaldo",
+          "created": 1630789159,
+          "upvotes": 1,
+          "replies": {
+            "hbnpu8w": {
+              "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbnpu8w/",
+              "text": "No simulate being in the local network, because many services are not designed to be accessed via the internet.\n\nBut in which part of the internet you are shouldn't matter, whether it's within walking distance or on another continent.",
+              "author": "Single_Blueberry",
+              "created": 1630822058,
+              "upvotes": 2,
+              "replies": {
+                "hbperhd": {
+                  "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbperhd/",
+                  "text": "I\u2019m thinking of going to South America and from my previous experiences using the Internet there *without a VPN* majority of  access is pretty much blocked for US websites. It\u2019s the same deal with why people get VPN to watch Netflix in Japan when they are in the US, because certain countries have restrictions on the content within borders",
+                  "author": "Kooky-Blacksmith1342",
+                  "created": 1630860987,
+                  "upvotes": 2,
+                  "replies": {
+                    "hbph1b7": {
+                      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbph1b7/",
+                      "text": "That's both for legal (privacy, licensing) or business model reasons though. Neither should concern a university.\n\nBut maybe I understood your question wrong: Are you concerned about the university locking you out or about the internet situation in the country might restrict you from accessing what you need to access?\n\nI only had the former in mind.",
+                      "author": "Single_Blueberry",
+                      "created": 1630862001,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hbjhlrf": {
+      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbjhlrf/",
+      "text": "VPN is indispensable for me to connect to the high performance clusters at my uni. I'm doing my PhD in a simulation heavy topic and it's the only way to run my experiments. If I was forced to use my laptop, it would take years to run what I usually get done in about a week!",
+      "author": "dxn99",
+      "created": 1630736617,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hbjestf": {
+      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbjestf/",
+      "text": "I've left the US multiple to conduct fieldwork outside the country. Always used my university's preferred VPN service. Its slow at times but gets the job done. It helps if the internet in your host country is decent.",
+      "author": "bobrigado",
+      "created": 1630734518,
+      "upvotes": 2,
+      "replies": {
+        "hbpeaf6": {
+          "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbpeaf6/",
+          "text": "Did you contact someone specific to get that info? As in, did the university provide you with a VPN access and program, or you just checked the one they preferred and got it on your own?",
+          "author": "Kooky-Blacksmith1342",
+          "created": 1630860777,
+          "upvotes": 1,
+          "replies": {
+            "hbprymr": {
+              "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbprymr/",
+              "text": "The university provided all students with VPN access via CiscoAnyConnect. I also have my own VPN via SurfShark that I use for non academic work.",
+              "author": "bobrigado",
+              "created": 1630866839,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbja7k7": {
+      "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbja7k7/",
+      "text": "We have to use a VPN to access the library and other resources while off campus. It's a little slower but workable. Just make sure you disconnect before doing any non-school work.",
+      "author": "itsonlyliz",
+      "created": 1630731322,
+      "upvotes": 12,
+      "replies": {
+        "hbjcaa1": {
+          "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbjcaa1/",
+          "text": "Are you in a different country or is it solely for security purposes?",
+          "author": "Kooky-Blacksmith1342",
+          "created": 1630732726,
+          "upvotes": 2,
+          "replies": {
+            "hbje0ad": {
+              "link": "/r/GradSchool/comments/phktul/the_power_of_vpn_in_grad_school/hbje0ad/",
+              "text": "I've not left the country and used it, but know people that have (South Korea, Kuwait, Canada). We're required to use it for security purposes.",
+              "author": "itsonlyliz",
+              "created": 1630733946,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634065603
+}

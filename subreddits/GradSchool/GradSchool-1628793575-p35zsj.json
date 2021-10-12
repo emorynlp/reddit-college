@@ -1,1 +1,435 @@
-{"sid": "p35zsj", "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/", "title:": "Most of my department's building burned down last night, so let me take a moment for a PSA: keep several backups of your data!", "text": "Maybe this sounds a little alarmist, but really -- [you never know what could happen](https://i.imgur.com/tW4s3rc.jpg). You are early-career academics and you don't want to lose years of your hard work, or data for future projects. We lost our personal desktops and a portion of the department servers/storage, and for some of us, those were the only backups in existence. No one was physically harmed in the fire, but the mental and career blow for some has been substantial. It's truly terrible.\n\nPersonally, I avoided buying a cloud storage subscription for the silly reason that I didn't have funding for it. It totally would have been worth it to pay out of my own pocket.\n\nKeep a couple physical backups *in different locations* and a cloud backup.", "author": "geoemyda_spengleri", "created": 1628793575, "retrieved": 1632953856, "over_18": false, "upvotes": 399, "upvote_ratio": 0.99, "comments": {"h9nrhe4": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h9nrhe4/", "text": "Sorry to hear about your situation. But thank you for this alarm. Backups is indeed something most of the companies do not rely on or are not willing to invest in...until a disaster happens...", "author": "Pvt-Snafu", "created": 1629466284, "upvotes": 1}, "h8tgj0f": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8tgj0f/", "text": "Anyone doing data-focused work that isn\u2019t backing up at least the vital parts of their research on a cloud is basically just willfully ignorant at this point.\n\nI haven\u2019t stored anything locally for years that wasn\u2019t a *massive* data file and even those, I have backed up on a second hard drive and instructions on how to re-create relatively quickly on a cloud-stored document.\n\nReally sorry this happened to you- it really sucks.  It took my mom losing all her phone photos to 3 times before she finally asked us how to set up cloud storage.  Hope this only takes you once.", "author": "Weekly-Ad353", "created": 1628881636, "upvotes": 1}, "h8sny8d": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8sny8d/", "text": "Our standards were to keep 4 backups. One on the same computer's second hdd (daily), one on external storage in a lab drawer (weekly), one on external storage off-site (monthly, lab manager took them home), and one cloud backup (daily).\n\nWe never needed this level of redundancy, but we kept easy knowing it was there. Our data was mostly field data, so not easily repeatable, and therefore all the more valuable.", "author": "Verdris", "created": 1628870231, "upvotes": 2}, "h8sed41": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8sed41/", "text": "Just a reminder also to everyone that not all data can be stored on anything else but university servers/computers, especially if you're working with human participants. Check your ethics approvals and with your PIs to make sure it's ok!", "author": "valryuu", "created": 1628866147, "upvotes": 3}, "h8s19g1": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8s19g1/", "text": "You got a PhD in astronomy? Damn how\u2019s life as an astronomer? Is it fun? PM me if you want.", "author": "TheEvilGhost", "created": 1628859082, "upvotes": 1}, "h8rwhbg": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rwhbg/", "text": "Was it an accident or did someone take *the dog ate my homework* too far?", "author": "aknb", "created": 1628856313, "upvotes": 1}, "h8rrjyc": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rrjyc/", "text": "Dude, get Dropbox.", "author": "jackandjill222", "created": 1628853221, "upvotes": 0}, "h8rfq1m": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rfq1m/", "text": "Thanks for the tip! What country is this in?", "author": "ADifferentDimension", "created": 1628843667, "upvotes": 2}, "h8r3hoy": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8r3hoy/", "text": "Omg, I'm so sorry this happened...", "author": "givemeyourdonut", "created": 1628833991, "upvotes": 1}, "h8qlnmt": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qlnmt/", "text": "A few months ago I bought a 5 TB WD Passport external hard drive. I generally leave it at home but it's small and light enough that it's easily portable, so you can backup a desktop at the lab and take it home with you every day. They usually retail for $150 - $200, but it looks like they're currently on sale for just over $100 at Best Buy. I definitely recommend picking one up, especially if you use multiple machines in the course of your work.", "author": "Libran", "created": 1628823455, "upvotes": 1}, "h8qeqkd": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qeqkd/", "text": "You don't even need to buy anything. Here's how to get encrypted cloud backups for absolutely free:\n\n1. Locate the folders that have the most important files. Try to stay below 10 gigabytes in total.\n\n2. Have a Google / OneDrive / etc. account.\n\n3. Install and set up [Duplicati](https://www.duplicati.com/) (open source software).\n\n4. Duplicati will back up all your data in encrypted format (both filenames and contents) to whichever service you picked up (I use Google Drive as I inevitably have one and it gives 15Gb free space which is plenty enough for my most important stuff).\n\nIf you are more of a techie, you can also go with rclone. I recently switched to rclone because it's in Debian's package repositories, but either is a good choice. Duplicati is easier, rclone is more configurable. I have rclone run automatically every other hour, on the half hour.\n\nNow, Dropbox, Google Drive, iCloud, etc. are not backup systems. They are for syncing. They aren't encrypted, they don't run on all systems, and they are not great at preserving file metadata. They can also corrupt your data. They are useful, and you can use backups and these cloud sync stuff in tandem, but they don't replace each other.\n\nTogether with the above, try to set up full local backups too. I have a Raspberry Pi 3B+ single board computer. It just sits by the router and has a 128Gb USB stick plugged in, and I do full backups of all my data to it (roughly) daily.\n\nNow, some of you may be using git or other version control systems, but they are not a replacement either. If an HDD gets corrupted, your repository (the .git/ subdirectory) can get corrupted too, in which case your history will get corrupted, and if there's enough corruption, your repo will become unusable. Had that happen to me.\n\n**tl;dr** cloud sync =/= cloud backups =/= git =/= local backups. Ideally you want to use all of them. Trust me, I've learned my lesson the hard way for each of those \"=/=\"s.\n\n---\n\nEdit: I got carried away by the memories of my horrible past of data losses and forgot to say: really sorry about what happened and lucky none of you were physically harmed. Sad that such a beautiful place burned down too.", "author": "gkayaalp", "created": 1628820085, "upvotes": 5}, "h8qcc55": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qcc55/", "text": "My condolences to your colleagues data and research. A little thanks and good fortune that nobody was hurt.\n\n&#x200B;\n\nI'm possibly more paranoid than most people about data loss and I'm possibly more tech savvy than most people but my advice in order of complexity (mind you I do *all* of these things):\n\n&#x200B;\n\n1. [Backblaze](https://www.backblaze.com) on your computer(s). I pay out of pocket because the school doesn't cover it.\n2. An external backup drive (USB plugged variety) that you connect every so often. (Time Machine or similar)\n3. A local NAS drive that your computer syncs to automatically ([Time Machine can talk to these usually](https://www.ixsystems.com/documentation/truenas/11.1/sharing.html))\n4. If the NAS runs TrueNAS then you can easily setup [cloud sync tasks](https://www.truenas.com/docs/core/tasks/cloudsynctasks/) like this one to download a copy of your Google Drive, Box, DropBox, or anything else onto local storage if your account is hacked or deleted.\n5. And if you are worried about having your actual email address hacked and deleted, or if you run your own domain then use something like [Cloudally](https://www.cloudally.com) or [Backupify](https://www.backupify.com). They sync your email account to a separate service online. Of course you need to trust them.... Trust... It all boils down to trust?\n\n&#x200B;\n\nI guess I'm a little paranoid about data loss. As a tangent to the home NAS I actually run a second home NAS which is just a backup target of the first home NAS if the home NAS fails..... I worked in IT before graduate school. Data loss is real.", "author": "NormalCriticism", "created": 1628818948, "upvotes": 3}, "h8qb9rv": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qb9rv/", "text": "Oh wow that is insane. Damn", "author": "Dustin_Bromain", "created": 1628818432, "upvotes": 1}, "h8pynkk": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pynkk/", "text": "Wow. Very sorry to hear this.", "author": "aqjo", "created": 1628812660, "upvotes": 1}, "h8prspg": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8prspg/", "text": "My condolences. What happened?", "author": "llamarloon", "created": 1628809460, "upvotes": 3}, "h8pn848": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pn848/", "text": "Oh no I hope you still have some data and don't have to redo everything (and same to everyone else in your building).\n\nWhen I was in undergrad, the oceanography and geology building was partially destroyed (I don't remember if it was flooding or a fire). The labs there almost all did physical sample collection and processing, and I heard there were several PhD students in their third or fourth who lost all of their samples. And I know a couple other students who again, had only physical samples with little to no information accessible by personal computers who were locked out of their labs due to lockdown and it took months to get clearance to get back inside to get to their work.\n\nI got my desk in the department building and met my PI in person last week and data storage was one of the first things I brought up to talk about.", "author": "ConfusedCuddlefish", "created": 1628807232, "upvotes": 1}, "h8pmviy": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pmviy/", "text": "If your program has an office 365 subscription, that includes quite a bit of cloud storage (even though one drive really sucks if you need cross compatibility)", "author": "Milch_und_Paprika", "created": 1628807067, "upvotes": 1}, "h8pljkk": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pljkk/", "text": ">Keep a couple physical backups in different locations and a cloud backup.\n\nBasically, it calls the 3-2-1 backup approach. When you have at least 3 copies of data, 2 different media, 1 copy offsite: [https://www.starwindsoftware.com/blog/3-2-1-backup-strategy-why-your-data-always-survives](https://www.starwindsoftware.com/blog/3-2-1-backup-strategy-why-your-data-always-survives) \n\nThe offsite copy might be another NAS solution in a different location or cloud storage. You can use encryption or zip archives to reach some level of security. \n\nIn this case, your data is safe enough. It's a pity to hear about losing data. And it is a tragedy to hear about losing academic data.", "author": "-SPOF", "created": 1628806469, "upvotes": 16}, "h8piy7c": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8piy7c/", "text": "Wooton what happened \ud83d\ude33", "author": "SaltyPlans", "created": 1628805379, "upvotes": 3}, "h8phi7q": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8phi7q/", "text": "3-2-1. 3 different backups, at least 2 different devices, at least 1 offsite.", "author": "hausdorffparty", "created": 1628804783, "upvotes": 28}, "h8pglg9": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pglg9/", "text": "Damn your research was fire \ud83d\udd25", "author": "Int_traveller", "created": 1628804403, "upvotes": 28}, "h8pb0a5": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pb0a5/", "text": "Very sorry to hear this.\n\nUsing Dropbox + Github in tandem for document versioning *and* cloud backups has been my go-to solution for a few years.\n\nSince Dropbox syncs with multiple computers I use, I have copies on multiple harddisks as well as in the cloud. And if anything happened to their servers, I also have Github.\n\nAnd the best part is that this is the most straightforward solution. I literally just save documents as I normally would, and when I feel like versioning, I push to Git.", "author": "Protean_Protein", "created": 1628802134, "upvotes": 96}, "h8p9ezv": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8p9ezv/", "text": "oh no! I'm so sorry!!!", "author": "EpiJade", "created": 1628801501, "upvotes": 2}, "h8p7hsf": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8p7hsf/", "text": "Omg! I\u2019m so sorry!", "author": "marbelousgeologist", "created": 1628800743, "upvotes": 27}, "h8p1fel": {"link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8p1fel/", "text": "During undergrad a math faculty longingly wished for their department building to catch fire.", "author": "Glarkin42", "created": 1628798379, "upvotes": 37}}}
+{
+  "sid": "p35zsj",
+  "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/",
+  "title:": "Most of my department's building burned down last night, so let me take a moment for a PSA: keep several backups of your data!",
+  "text": "Maybe this sounds a little alarmist, but really -- [you never know what could happen](https://i.imgur.com/tW4s3rc.jpg). You are early-career academics and you don't want to lose years of your hard work, or data for future projects. We lost our personal desktops and a portion of the department servers/storage, and for some of us, those were the only backups in existence. No one was physically harmed in the fire, but the mental and career blow for some has been substantial. It's truly terrible.\n\nPersonally, I avoided buying a cloud storage subscription for the silly reason that I didn't have funding for it. It totally would have been worth it to pay out of my own pocket.\n\nKeep a couple physical backups *in different locations* and a cloud backup.",
+  "author": "geoemyda_spengleri",
+  "created": 1628793575,
+  "over_18": false,
+  "upvotes": 399,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "h9nrhe4": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h9nrhe4/",
+      "text": "Sorry to hear about your situation. But thank you for this alarm. Backups is indeed something most of the companies do not rely on or are not willing to invest in...until a disaster happens...",
+      "author": "Pvt-Snafu",
+      "created": 1629466284,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8tgj0f": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8tgj0f/",
+      "text": "Anyone doing data-focused work that isn\u2019t backing up at least the vital parts of their research on a cloud is basically just willfully ignorant at this point.\n\nI haven\u2019t stored anything locally for years that wasn\u2019t a *massive* data file and even those, I have backed up on a second hard drive and instructions on how to re-create relatively quickly on a cloud-stored document.\n\nReally sorry this happened to you- it really sucks.  It took my mom losing all her phone photos to 3 times before she finally asked us how to set up cloud storage.  Hope this only takes you once.",
+      "author": "Weekly-Ad353",
+      "created": 1628881636,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8sny8d": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8sny8d/",
+      "text": "Our standards were to keep 4 backups. One on the same computer's second hdd (daily), one on external storage in a lab drawer (weekly), one on external storage off-site (monthly, lab manager took them home), and one cloud backup (daily).\n\nWe never needed this level of redundancy, but we kept easy knowing it was there. Our data was mostly field data, so not easily repeatable, and therefore all the more valuable.",
+      "author": "Verdris",
+      "created": 1628870231,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8sed41": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8sed41/",
+      "text": "Just a reminder also to everyone that not all data can be stored on anything else but university servers/computers, especially if you're working with human participants. Check your ethics approvals and with your PIs to make sure it's ok!",
+      "author": "valryuu",
+      "created": 1628866147,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8s19g1": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8s19g1/",
+      "text": "You got a PhD in astronomy? Damn how\u2019s life as an astronomer? Is it fun? PM me if you want.",
+      "author": "TheEvilGhost",
+      "created": 1628859082,
+      "upvotes": 1,
+      "replies": {
+        "h8s48ja": {
+          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8s48ja/",
+          "text": "It's a mixed bag, to be honest. The work itself is pretty incredible -- I work with imaging data, so I get to check out fascinating pictures of galaxies as I'm analyzing them. Plus occasionally I get to travel to telescopes in amazing locations to gather more observations. My collaborators are generally very friendly, supportive, and relaxed, which is great -- although I know that is not always the case in the field. Otherwise I spend a lot of time programming, but I enjoy it. I feel like astronomers are one of those professions where you sort of become a jack of all trades -- you need to code, know some math and fundamental physics, do critical thinking, and have the communication skills to write or present your work in a clear, accesible way. I find that I have a lot of flexibility and variety in what I choose to work on, so it's never (ok, rarely) boring or repetitive.\n\nThe less great stuff are the \"side effects\" of being an astronomer. I like traveling, for sure! But I don't think I'm the type of person cut out to live in foreign countries for ~3 years at a time, especially when a new language is involved. But that is often part of the career if you want to stay employed. I could have limited my postdoc search to English-speaking countries, but that really cuts down the options (especially with I'm further limited by looking for positions relevant to my particular area of knowledge). Plus, it's simply stressful making frequent moves -- especially when they're international! A year ago I finally adopted a cat, after avoiding it for years because of the impermanence of my living situation. I'm so glad I have her now because she brings so much joy, but it's a lot of extra effort to make sure I have all the paperwork and everything she needs to fly with me whenever I move next.\n\nAlso, academic culture as a whole is pretty broken. This whole publish-or-perish mindset and the way a researcher's performance is judged is pretty unhealthy and does not support a good work-life balance. I think it is very slowly changing, but in its current state, I'm not sure I want to keep participating. I'm thinking a lot about whether or not I leave astronomy after this current postdoc. But, I'm also not terribly concerned about finding a job, because I know I have a variety of valuable skills.\n\ntl;dr: the concept of being an astronomer is great and it's super cool chipping away at your own personal contribution to our understanding of the universe. The reality of it comes with some hardships that can really affect your life satisfaction, depending on what you want in your life outside of your career.\n\nedit: also I gotta admit that it's pretty cool when being an astronomer comes up in conversation (especially around kids) because people always have so many questions and you can blow their minds with super cool space facts. I love being able to engage people's curiosity like that.",
+          "author": "geoemyda_spengleri",
+          "created": 1628860778,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h8rwhbg": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rwhbg/",
+      "text": "Was it an accident or did someone take *the dog ate my homework* too far?",
+      "author": "aknb",
+      "created": 1628856313,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8rrjyc": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rrjyc/",
+      "text": "Dude, get Dropbox.",
+      "author": "jackandjill222",
+      "created": 1628853221,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "h8rfq1m": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rfq1m/",
+      "text": "Thanks for the tip! What country is this in?",
+      "author": "ADifferentDimension",
+      "created": 1628843667,
+      "upvotes": 2,
+      "replies": {
+        "h8rw88p": {
+          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rw88p/",
+          "text": "This is Chile.\n\nBecause of covid of course we can all keep working from home to some degree...but most of us haven't been on campus for nearly 2 years! (Before covid, Chile was having a lot of protests and the campus was closed for that). Many of us will probably never be on campus again before the end of our postdocs/studies, which feels super weird. :(",
+          "author": "geoemyda_spengleri",
+          "created": 1628856168,
+          "upvotes": 3,
+          "replies": {
+            "h8rxzru": {
+              "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rxzru/",
+              "text": "Wow. I met someone (a rich US American) who was well-traveled, and he said Chile was his favorite country.",
+              "author": "ADifferentDimension",
+              "created": 1628857185,
+              "upvotes": 1,
+              "replies": {
+                "h8rzwz5": {
+                  "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rzwz5/",
+                  "text": "I am a poor US American (came here 3 year ago for my postdoc) and I think Chile might be one of the most geographically amazing countries I've ever seen. Deserts, volcanoes, sandy beaches, craggy coastlines, temperate rainforests, staggering mountains, glaciers, caves... And from Santiago you can reach any of it within a few hours of flying. The country stretches from the Atacama desert in the north to frickin Antarctica in the south, with a little bit of everything in between. It's incredible.",
+                  "author": "geoemyda_spengleri",
+                  "created": 1628858305,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h8r3hoy": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8r3hoy/",
+      "text": "Omg, I'm so sorry this happened...",
+      "author": "givemeyourdonut",
+      "created": 1628833991,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8qlnmt": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qlnmt/",
+      "text": "A few months ago I bought a 5 TB WD Passport external hard drive. I generally leave it at home but it's small and light enough that it's easily portable, so you can backup a desktop at the lab and take it home with you every day. They usually retail for $150 - $200, but it looks like they're currently on sale for just over $100 at Best Buy. I definitely recommend picking one up, especially if you use multiple machines in the course of your work.",
+      "author": "Libran",
+      "created": 1628823455,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8qeqkd": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qeqkd/",
+      "text": "You don't even need to buy anything. Here's how to get encrypted cloud backups for absolutely free:\n\n1. Locate the folders that have the most important files. Try to stay below 10 gigabytes in total.\n\n2. Have a Google / OneDrive / etc. account.\n\n3. Install and set up [Duplicati](https://www.duplicati.com/) (open source software).\n\n4. Duplicati will back up all your data in encrypted format (both filenames and contents) to whichever service you picked up (I use Google Drive as I inevitably have one and it gives 15Gb free space which is plenty enough for my most important stuff).\n\nIf you are more of a techie, you can also go with rclone. I recently switched to rclone because it's in Debian's package repositories, but either is a good choice. Duplicati is easier, rclone is more configurable. I have rclone run automatically every other hour, on the half hour.\n\nNow, Dropbox, Google Drive, iCloud, etc. are not backup systems. They are for syncing. They aren't encrypted, they don't run on all systems, and they are not great at preserving file metadata. They can also corrupt your data. They are useful, and you can use backups and these cloud sync stuff in tandem, but they don't replace each other.\n\nTogether with the above, try to set up full local backups too. I have a Raspberry Pi 3B+ single board computer. It just sits by the router and has a 128Gb USB stick plugged in, and I do full backups of all my data to it (roughly) daily.\n\nNow, some of you may be using git or other version control systems, but they are not a replacement either. If an HDD gets corrupted, your repository (the .git/ subdirectory) can get corrupted too, in which case your history will get corrupted, and if there's enough corruption, your repo will become unusable. Had that happen to me.\n\n**tl;dr** cloud sync =/= cloud backups =/= git =/= local backups. Ideally you want to use all of them. Trust me, I've learned my lesson the hard way for each of those \"=/=\"s.\n\n---\n\nEdit: I got carried away by the memories of my horrible past of data losses and forgot to say: really sorry about what happened and lucky none of you were physically harmed. Sad that such a beautiful place burned down too.",
+      "author": "gkayaalp",
+      "created": 1628820085,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h8qcc55": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qcc55/",
+      "text": "My condolences to your colleagues data and research. A little thanks and good fortune that nobody was hurt.\n\n&#x200B;\n\nI'm possibly more paranoid than most people about data loss and I'm possibly more tech savvy than most people but my advice in order of complexity (mind you I do *all* of these things):\n\n&#x200B;\n\n1. [Backblaze](https://www.backblaze.com) on your computer(s). I pay out of pocket because the school doesn't cover it.\n2. An external backup drive (USB plugged variety) that you connect every so often. (Time Machine or similar)\n3. A local NAS drive that your computer syncs to automatically ([Time Machine can talk to these usually](https://www.ixsystems.com/documentation/truenas/11.1/sharing.html))\n4. If the NAS runs TrueNAS then you can easily setup [cloud sync tasks](https://www.truenas.com/docs/core/tasks/cloudsynctasks/) like this one to download a copy of your Google Drive, Box, DropBox, or anything else onto local storage if your account is hacked or deleted.\n5. And if you are worried about having your actual email address hacked and deleted, or if you run your own domain then use something like [Cloudally](https://www.cloudally.com) or [Backupify](https://www.backupify.com). They sync your email account to a separate service online. Of course you need to trust them.... Trust... It all boils down to trust?\n\n&#x200B;\n\nI guess I'm a little paranoid about data loss. As a tangent to the home NAS I actually run a second home NAS which is just a backup target of the first home NAS if the home NAS fails..... I worked in IT before graduate school. Data loss is real.",
+      "author": "NormalCriticism",
+      "created": 1628818948,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8qb9rv": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qb9rv/",
+      "text": "Oh wow that is insane. Damn",
+      "author": "Dustin_Bromain",
+      "created": 1628818432,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8pynkk": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pynkk/",
+      "text": "Wow. Very sorry to hear this.",
+      "author": "aqjo",
+      "created": 1628812660,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8prspg": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8prspg/",
+      "text": "My condolences. What happened?",
+      "author": "llamarloon",
+      "created": 1628809460,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8pn848": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pn848/",
+      "text": "Oh no I hope you still have some data and don't have to redo everything (and same to everyone else in your building).\n\nWhen I was in undergrad, the oceanography and geology building was partially destroyed (I don't remember if it was flooding or a fire). The labs there almost all did physical sample collection and processing, and I heard there were several PhD students in their third or fourth who lost all of their samples. And I know a couple other students who again, had only physical samples with little to no information accessible by personal computers who were locked out of their labs due to lockdown and it took months to get clearance to get back inside to get to their work.\n\nI got my desk in the department building and met my PI in person last week and data storage was one of the first things I brought up to talk about.",
+      "author": "ConfusedCuddlefish",
+      "created": 1628807232,
+      "upvotes": 1,
+      "replies": {
+        "h8rwz1d": {
+          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rwz1d/",
+          "text": "I didn't lose anything work related, actually -- only some film scans. I originally had them on my limited free Dropbox storage, but before I shifted to working from home, I removed them to prioritize room for my research. I figured the office computer would serve as safe storage for them until I sorted out some better backup options.\n\nThat was 2 years ago. :x I sorted out an upgraded Dropbox account but with covid and stuff I didn't make it back to campus to get the film uploaded again. I still have all the original negatives though, so I simply need to go through all the time/expense of scanning everything again.\n\nSo personally I came out pretty ok, but I'm definitely re-evaluating my naive mindset of backups only being important for stuff on my laptop or at my home. Bad stuff happens to universities too...\n\nedit: and your story sounds awful! So stressful for everyone, waiting to get access to see what they have left. I'm glad you thought to prioritize data storage with your PI.",
+          "author": "geoemyda_spengleri",
+          "created": 1628856601,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h8pmviy": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pmviy/",
+      "text": "If your program has an office 365 subscription, that includes quite a bit of cloud storage (even though one drive really sucks if you need cross compatibility)",
+      "author": "Milch_und_Paprika",
+      "created": 1628807067,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8pljkk": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pljkk/",
+      "text": ">Keep a couple physical backups in different locations and a cloud backup.\n\nBasically, it calls the 3-2-1 backup approach. When you have at least 3 copies of data, 2 different media, 1 copy offsite: [https://www.starwindsoftware.com/blog/3-2-1-backup-strategy-why-your-data-always-survives](https://www.starwindsoftware.com/blog/3-2-1-backup-strategy-why-your-data-always-survives) \n\nThe offsite copy might be another NAS solution in a different location or cloud storage. You can use encryption or zip archives to reach some level of security. \n\nIn this case, your data is safe enough. It's a pity to hear about losing data. And it is a tragedy to hear about losing academic data.",
+      "author": "-SPOF",
+      "created": 1628806469,
+      "upvotes": 16,
+      "replies": {}
+    },
+    "h8piy7c": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8piy7c/",
+      "text": "Wooton what happened \ud83d\ude33",
+      "author": "SaltyPlans",
+      "created": 1628805379,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8phi7q": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8phi7q/",
+      "text": "3-2-1. 3 different backups, at least 2 different devices, at least 1 offsite.",
+      "author": "hausdorffparty",
+      "created": 1628804783,
+      "upvotes": 28,
+      "replies": {}
+    },
+    "h8pglg9": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pglg9/",
+      "text": "Damn your research was fire \ud83d\udd25",
+      "author": "Int_traveller",
+      "created": 1628804403,
+      "upvotes": 28,
+      "replies": {}
+    },
+    "h8pb0a5": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pb0a5/",
+      "text": "Very sorry to hear this.\n\nUsing Dropbox + Github in tandem for document versioning *and* cloud backups has been my go-to solution for a few years.\n\nSince Dropbox syncs with multiple computers I use, I have copies on multiple harddisks as well as in the cloud. And if anything happened to their servers, I also have Github.\n\nAnd the best part is that this is the most straightforward solution. I literally just save documents as I normally would, and when I feel like versioning, I push to Git.",
+      "author": "Protean_Protein",
+      "created": 1628802134,
+      "upvotes": 96,
+      "replies": {
+        "h8pbt4a": {
+          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pbt4a/",
+          "text": "Yes, there are some really elegant solutions available. Super easy to keep your daily progress safe!",
+          "author": "geoemyda_spengleri",
+          "created": 1628802453,
+          "upvotes": 19,
+          "replies": {}
+        },
+        "h8q8k5s": {
+          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8q8k5s/",
+          "text": "document versioning in Git! That sounds perfect!",
+          "author": "almondbutter_22",
+          "created": 1628817150,
+          "upvotes": 13,
+          "replies": {
+            "h8qjz9l": {
+              "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qjz9l/",
+              "text": "I guess one serious issue for this method is that I wouldn\u2019t necessarily want to store sensitive data on a free DropBox or GitHub repo. Probably if you have sensitive data in your project, you just have to come up with a more bespoke solution or get your department to pay for something. I wouldn\u2019t know, though. My research is more like\u2026 insensitive.",
+              "author": "Protean_Protein",
+              "created": 1628822648,
+              "upvotes": 4,
+              "replies": {
+                "h8qqj4z": {
+                  "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qqj4z/",
+                  "text": "It's not really for data I don't think, but I use overleaf for all of my latex docs and it automagically backs everything up for you, including your code if you're good about including it in appendices.",
+                  "author": "InfuriatingComma",
+                  "created": 1628825989,
+                  "upvotes": 3,
+                  "replies": {
+                    "h8qrdy2": {
+                      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qrdy2/",
+                      "text": "Overleaf is good for people who are afraid of or just uninterested in more directly managing their own latex/markdown docs. But it\u2019s proprietary and you\u2019re stuck in the browser.\n\nI use VSCode to write almost everything in markdown with some latex templating via YAML so I can easily output to PDF or DocX with Pandoc. This has the benefit of also working seamlessly with Git/GitHub.",
+                      "author": "Protean_Protein",
+                      "created": 1628826461,
+                      "upvotes": 5,
+                      "replies": {
+                        "h8qu3fn": {
+                          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qu3fn/",
+                          "text": "I like your approach too. Ive often wanted to dive more into markdown, especially since I use R whenever I can.",
+                          "author": "InfuriatingComma",
+                          "created": 1628827988,
+                          "upvotes": 1,
+                          "replies": {
+                            "h8rv4c1": {
+                              "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rv4c1/",
+                              "text": "Overleaf\u2019s great for collaboration! You can integrate Overleaf into GitHub and get the best of both worlds, I think! https://maumneto.medium.com/git-vs-code-overleaf-91ecfd586b36",
+                              "author": "Protean_Protein",
+                              "created": 1628855510,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "h8rffs7": {
+                  "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rffs7/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1628843425,
+                  "upvotes": 1,
+                  "replies": {
+                    "h8rvhs1": {
+                      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rvhs1/",
+                      "text": "I use GitHub, and am aware it has private repos, but it isn\u2019t true that all institutions pay for Enterprise accounts, and I think it really must  depend on your data.",
+                      "author": "Protean_Protein",
+                      "created": 1628855735,
+                      "upvotes": 1,
+                      "replies": {
+                        "h8rw4x9": {
+                          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rw4x9/",
+                          "text": "[deleted]",
+                          "author": null,
+                          "created": 1628856114,
+                          "upvotes": 2,
+                          "replies": {
+                            "h8rwxyz": {
+                              "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8rwxyz/",
+                              "text": "Ah. Well, yes, that\u2019s a thing that exists, but that\u2019s different from GitHub Campus Program, which is what I thought you meant.",
+                              "author": "Protean_Protein",
+                              "created": 1628856584,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "h8s6a5r": {
+          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8s6a5r/",
+          "text": "I found out that syncing is not backup because if files on one of the computer gets corrupt, the corrupt files get synced on the other computers too and you don't have any good copies of those files left.",
+          "author": "jumpUpHigh",
+          "created": 1628861899,
+          "upvotes": 3,
+          "replies": {
+            "h8s9ibo": {
+              "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8s9ibo/",
+              "text": "Yeah, that can happen. But that can also happen if you\u2019re saving multiple copies to disks. No backup system is foolproof. The best thing to do is try to avoid syncing the corrupt files, or roll them back and try to save whatever you can from the work you did after the last backup.",
+              "author": "Protean_Protein",
+              "created": 1628863615,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "h8t97ny": {
+          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8t97ny/",
+          "text": "*do check our your university's data storage policies as dropbox might violate them if you're hosting personal data!",
+          "author": "doornroosje",
+          "created": 1628878678,
+          "upvotes": 1,
+          "replies": {
+            "h8t9gme": {
+              "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8t9gme/",
+              "text": "Yeah, that\u2019s exactly what I had in mind when I pointed out in another comment that this solution probably isn\u2019t a good idea for sensitive data (even if it doesn\u2019t violate your school\u2019s policy on this).",
+              "author": "Protean_Protein",
+              "created": 1628878778,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h8p9ezv": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8p9ezv/",
+      "text": "oh no! I'm so sorry!!!",
+      "author": "EpiJade",
+      "created": 1628801501,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8p7hsf": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8p7hsf/",
+      "text": "Omg! I\u2019m so sorry!",
+      "author": "marbelousgeologist",
+      "created": 1628800743,
+      "upvotes": 27,
+      "replies": {
+        "h8pbp6o": {
+          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pbp6o/",
+          "text": "I'm really lucky that my research group's data is in the new server room, which was untouched by the fire. And since I haven't been in the office since the pandemic started, it's not like I had a lot of recent work on my office computer.\n\nBut some people had their data or simulations in a different server room and it's gone :( A lot of these data are too big to back up somewhere else and you just kind of trust that the university can keep their local storage safe.\n\n(p.s. I love your username!)",
+          "author": "geoemyda_spengleri",
+          "created": 1628802409,
+          "upvotes": 47,
+          "replies": {
+            "h8pj2x0": {
+              "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pj2x0/",
+              "text": ">But some people had their data or simulations in a different server room and it's gone :( A lot of these data are too big to back up somewhere else and you just kind of trust that the university can keep their local storage safe.\n\nI don't think this is something avoidable, though, so it's pretty much not worth worrying about.\n\nMy data in full will be up to 100 TB. There's no way I can store than on harddrives or the cloud, but I also wouldn't *want* to store it on the cloud because it's private data and we have particular rules about data security. So unless you're going to pay for private server space somewhere else in the country and also pay to have your data transferred there with harddrives on a plane, it's not happening. You really do just have to trust that the supercomputer and servers won't go up in flames.\n\nI keep very time-limited, low resolution copies of my data and the files I used to make it (plus all the restart files), but that's all I can possibly save outside of my dedicated server space.",
+              "author": "officially_anxious",
+              "created": 1628805435,
+              "upvotes": 21,
+              "replies": {
+                "h8pqil0": {
+                  "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pqil0/",
+                  "text": "Have you considered a monthly tape backup and taking the tapes home?",
+                  "author": "cdougherty",
+                  "created": 1628808824,
+                  "upvotes": 3,
+                  "replies": {
+                    "h8pqvne": {
+                      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8pqvne/",
+                      "text": "That isn't allowed. I don't have physical access to the supercomputer, it's not my department, and I have no ability to request they save all my stuff to tape and mail it to me. We have automatic magnetic tape backup systems, but they only do large batches and I have no control over when and what it saves. Also the magnetic tape facility is in the same building as the servers, since it has to be accessible via the server.",
+                      "author": "officially_anxious",
+                      "created": 1628809002,
+                      "upvotes": 9,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h8p1fel": {
+      "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8p1fel/",
+      "text": "During undergrad a math faculty longingly wished for their department building to catch fire.",
+      "author": "Glarkin42",
+      "created": 1628798379,
+      "upvotes": 37,
+      "replies": {
+        "h8qfq5k": {
+          "link": "/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/h8qfq5k/",
+          "text": "Pretty sure most students did back in my college",
+          "author": "Energy_decoder",
+          "created": 1628820564,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634067442
+}

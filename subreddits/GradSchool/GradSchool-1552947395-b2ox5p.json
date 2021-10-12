@@ -1,1 +1,590 @@
-{"sid": "b2ox5p", "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/", "title:": "Friendly reminder: don't forget to back up your data", "text": "If you're feeling the Monday blues and haven't done much all day, at least back up your data.", "author": "GoodbyeEarl", "created": 1552947395, "retrieved": 1632953837, "over_18": false, "upvotes": 415, "upvote_ratio": 0.99, "comments": {"el2qpnb": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/el2qpnb/", "text": "I have a Mac. My entire hard drive is backed up on my Google drive (my Mac is my only Apple project, mainly for programming). All my school projects (thesis, home work, etc.) are backed up on GitHub too.", "author": "pattykeene", "created": 1555471846, "upvotes": 1}, "eixzzmn": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eixzzmn/", "text": "Yes so much this. Yesterday I broke my computer screen on my MacBook Pro and my thesis was only saved on that computer. Thank god for iCloud because my \u201cfinal draft\u201d version is due this Friday and if it wasn\u2019t on iCloud I would\u2019ve been SOL", "author": null, "created": 1553069306, "upvotes": 1}, "eivl08c": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eivl08c/", "text": "Yes! My institution gives us unlimited Google Drive storage which definitely helps. Here's my two-part system:\n\n1. Google Drive\n    - Set my school folder (classes, research, everything school related) as my default Google Drive folder\n    - This automatically saves all my work to the cloud\n\n2. Time Machine\n    - I have a 4 TB external USB drive. I partitioned it with 1 TB explicitly to be a backup drive with MacOS Time Machine. This backs up my entire 256GB hard drive\n    - This saves everything on my computer, including Zotero reference manager since I filled up that free 10GB of space real quick", "author": "frausting", "created": 1553002901, "upvotes": 1}, "eivdnec": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eivdnec/", "text": "Do any of you use a personal NAS or offline server to backup your data? These are much more secure than trusting big companies like Google, MS, or Dropbox. Which NAS / offline servers do you recommend? I'll be starting my PhD program this summer.", "author": "BillyPGD", "created": 1552996693, "upvotes": 1}, "eiuvqs0": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiuvqs0/", "text": "This. \nI lost my entire masters thesis and dataset (I\u2019m graduating in May) a week ago because my thumb drive had started randomly ejecting. I lost it while trying to back everything up onto an external hard drive as soon as this started happening. The thumb drive ejected mid-copy and broke/poofed all of the files. I did have a backup from two weeks previous and managed to piece ~60% of my project back together from different places, but I ultimately lost two weeks of my life in data, all of my resource-PDF hi-lighting/notes, and almost all of my lit review because I didn\u2019t back everything up weekly. My rough draft is due to my committee this Friday and I\u2019m grinding hard to rewrite everything while also tackling midterms. \n\nIf you know you\u2019re terrible about backing things up, put it all on a cloud! Any cloud! GoogleDrive, OneDrive, Box, whatever you have access to. Most of them have real-time, autosave features so any edits you do will immediately save in the cloud. Don\u2019t wait until your current storage device starts to act up to do something about it. ", "author": "CreatureBones", "created": 1552971902, "upvotes": 3}, "eiupvyy": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiupvyy/", "text": "Given your username OP, I was seriously dreading but expecting a story of all your data loss D:\nInstead it\u2019s just a fun Dixie Chicks r\u00e9f\u00e9rence and I dig it.", "author": "liz-can-too", "created": 1552965984, "upvotes": 5}, "eiumtva": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiumtva/", "text": "Just backed up :) thankyou for your Public Service Announcement ", "author": "ivorygoldmine", "created": 1552963433, "upvotes": 1}, "eiulw0z": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiulw0z/", "text": "My work laptop is backed up hourly to backblaze and incrementally to a FreeNAS when I'm at home. Google services (email, drive, calendar, and contacts) are backed up to cloudally. My home desktop goes to the FreeNAS. My personal laptop goes to the FreeNAS. Admittedly, if my house burned down I would be sad but wouldn't be out and digital media that can't be downloaded again. Research, documents, personal photos, etc, are all backed up multiple times to multiple locations locally and remotely....\n\nOh, and GitHub.", "author": "NormalCriticism", "created": 1552962674, "upvotes": 2}, "eiujkxl": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiujkxl/", "text": "hahaha\n\n\n^^^what ^^^data\n\n^^^^kill ^^^^me", "author": "mister_peeberz", "created": 1552960871, "upvotes": 18}, "eiujbmw": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiujbmw/", "text": "[deleted]", "author": null, "created": 1552960676, "upvotes": 1}, "eiugvb8": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiugvb8/", "text": "I have Dropbox premium ($90/year, I think, for 1 TB) that automatically syncs up my files on four different computers. My PhD advisor does the same thing. When my last laptop died, I wasn't set back because all my files were safe. I prefer it to Google Drive because Drive doesn't have very good Linux support, but Dropbox does.", "author": "junkmeister9", "created": 1552958767, "upvotes": 8}, "eiuev57": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiuev57/", "text": "PLT: Store everything on Dropbox Pro. Just do it. I cannot, absolutely cannot, stress how important this is. Everything needs to be back up on the cloud automatically, ideally with version control built in. ", "author": null, "created": 1552957220, "upvotes": 4}, "eiue7to": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiue7to/", "text": "Also, check to see if your university has a cloud storage subscription. My school has a Box subscription, and everyone has 100 TB of cloud storage. I keep all my files in Box Sync so it's all seamlessly backed up in the cloud and current versions are easily accessible on my computer.", "author": "zirchron", "created": 1552956713, "upvotes": 4}, "eiu9rzp": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu9rzp/", "text": "I back up weekly using two externals at two locations.\n\nI wish I could use the cloud, but the university won't spring for the monthly fee.", "author": "ValleyForge", "created": 1552953340, "upvotes": 1}, "eiu9esz": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu9esz/", "text": "My hard drive bricked 3/4 of the way through writing my thesis. Thank god for github.", "author": "iamiamwhoami", "created": 1552953058, "upvotes": 9}, "eiu8rgr": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu8rgr/", "text": "Yup. I save everything to Google Drive by default, then periodic backups to an external. It amazes me how many I've come across that are only using their office PC or laptop.", "author": "Knightfall31", "created": 1552952560, "upvotes": 30}, "eiu8p9y": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu8p9y/", "text": "I use the 3-2-1 rule of backup which is; Have at least three independent copies of your data. Store the copies on two different types of media. Keep one backup copy offsite.\n\nComputer crashes? House burns down? All apple products spontaneously combust? I\u2019ll survive.", "author": "PinkGuppie", "created": 1552952513, "upvotes": 18}, "eiu867p": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu867p/", "text": "it me", "author": "Ascetue", "created": 1552952103, "upvotes": 1}, "eiu7grg": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu7grg/", "text": "I sleep pretty well knowing all my stuff is on 2 HDDs in RAID 1 ", "author": "biohazard93", "created": 1552951556, "upvotes": 9}, "eiu7ea1": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu7ea1/", "text": "[deleted]", "author": null, "created": 1552951502, "upvotes": 20}, "eiu76fo": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu76fo/", "text": "Always assume hard drives will die and have redundant backups. I have an external drive where I keep my data and a second external that mirrors that one. Considering a third for my desk. ", "author": "resorcinarene", "created": 1552951335, "upvotes": 5}, "eiu4qpr": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu4qpr/", "text": "You can also use free services such as Overleaf for your latex projects! ", "author": "Takochinosuke", "created": 1552949483, "upvotes": 15}, "eiu4nuk": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu4nuk/", "text": "For those of you with a Mac, you can configure to automatically backup your documents folder to iCloud!", "author": "sarabtx", "created": 1552949422, "upvotes": 3}, "eiu3n4p": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu3n4p/", "text": "This. Always and forever. ", "author": "Dawalkingdude", "created": 1552948673, "upvotes": 8}, "eiu3ly0": {"link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu3ly0/", "text": "Good reminder. There\u2019s two types of hard drives: those that have failed, and those that will fail. ", "author": null, "created": 1552948650, "upvotes": 127}}}
+{
+  "sid": "b2ox5p",
+  "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/",
+  "title:": "Friendly reminder: don't forget to back up your data",
+  "text": "If you're feeling the Monday blues and haven't done much all day, at least back up your data.",
+  "author": "GoodbyeEarl",
+  "created": 1552947395,
+  "over_18": false,
+  "upvotes": 415,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "el2qpnb": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/el2qpnb/",
+      "text": "I have a Mac. My entire hard drive is backed up on my Google drive (my Mac is my only Apple project, mainly for programming). All my school projects (thesis, home work, etc.) are backed up on GitHub too.",
+      "author": "pattykeene",
+      "created": 1555471846,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eixzzmn": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eixzzmn/",
+      "text": "Yes so much this. Yesterday I broke my computer screen on my MacBook Pro and my thesis was only saved on that computer. Thank god for iCloud because my \u201cfinal draft\u201d version is due this Friday and if it wasn\u2019t on iCloud I would\u2019ve been SOL",
+      "author": null,
+      "created": 1553069306,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eivl08c": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eivl08c/",
+      "text": "Yes! My institution gives us unlimited Google Drive storage which definitely helps. Here's my two-part system:\n\n1. Google Drive\n    - Set my school folder (classes, research, everything school related) as my default Google Drive folder\n    - This automatically saves all my work to the cloud\n\n2. Time Machine\n    - I have a 4 TB external USB drive. I partitioned it with 1 TB explicitly to be a backup drive with MacOS Time Machine. This backs up my entire 256GB hard drive\n    - This saves everything on my computer, including Zotero reference manager since I filled up that free 10GB of space real quick",
+      "author": "frausting",
+      "created": 1553002901,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eivdnec": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eivdnec/",
+      "text": "Do any of you use a personal NAS or offline server to backup your data? These are much more secure than trusting big companies like Google, MS, or Dropbox. Which NAS / offline servers do you recommend? I'll be starting my PhD program this summer.",
+      "author": "BillyPGD",
+      "created": 1552996693,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eiuvqs0": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiuvqs0/",
+      "text": "This. \nI lost my entire masters thesis and dataset (I\u2019m graduating in May) a week ago because my thumb drive had started randomly ejecting. I lost it while trying to back everything up onto an external hard drive as soon as this started happening. The thumb drive ejected mid-copy and broke/poofed all of the files. I did have a backup from two weeks previous and managed to piece ~60% of my project back together from different places, but I ultimately lost two weeks of my life in data, all of my resource-PDF hi-lighting/notes, and almost all of my lit review because I didn\u2019t back everything up weekly. My rough draft is due to my committee this Friday and I\u2019m grinding hard to rewrite everything while also tackling midterms. \n\nIf you know you\u2019re terrible about backing things up, put it all on a cloud! Any cloud! GoogleDrive, OneDrive, Box, whatever you have access to. Most of them have real-time, autosave features so any edits you do will immediately save in the cloud. Don\u2019t wait until your current storage device starts to act up to do something about it. ",
+      "author": "CreatureBones",
+      "created": 1552971902,
+      "upvotes": 3,
+      "replies": {
+        "eivbidq": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eivbidq/",
+          "text": "You can do it!! (And then take a mental break, have a drink/cake/nap/whatever works for you, for surviving!)",
+          "author": "alypeter",
+          "created": 1552994409,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "eiupvyy": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiupvyy/",
+      "text": "Given your username OP, I was seriously dreading but expecting a story of all your data loss D:\nInstead it\u2019s just a fun Dixie Chicks r\u00e9f\u00e9rence and I dig it.",
+      "author": "liz-can-too",
+      "created": 1552965984,
+      "upvotes": 5,
+      "replies": {
+        "ej099ou": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/ej099ou/",
+          "text": "Oh wow, my mom used to listen to that song all the time when it\u2019d come on the radio. Flashbacks for real",
+          "author": "frausting",
+          "created": 1553132626,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "eiumtva": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiumtva/",
+      "text": "Just backed up :) thankyou for your Public Service Announcement ",
+      "author": "ivorygoldmine",
+      "created": 1552963433,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eiulw0z": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiulw0z/",
+      "text": "My work laptop is backed up hourly to backblaze and incrementally to a FreeNAS when I'm at home. Google services (email, drive, calendar, and contacts) are backed up to cloudally. My home desktop goes to the FreeNAS. My personal laptop goes to the FreeNAS. Admittedly, if my house burned down I would be sad but wouldn't be out and digital media that can't be downloaded again. Research, documents, personal photos, etc, are all backed up multiple times to multiple locations locally and remotely....\n\nOh, and GitHub.",
+      "author": "NormalCriticism",
+      "created": 1552962674,
+      "upvotes": 2,
+      "replies": {
+        "eiutkf1": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiutkf1/",
+          "text": "I also use Backblaze. Super useful, even just as a way of accessing my files if I don\u2019t have my laptop. I still back up to an external, but I worry way less about it with realtime back ups online happening. ",
+          "author": "Frozenshades",
+          "created": 1552969508,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "eiujkxl": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiujkxl/",
+      "text": "hahaha\n\n\n^^^what ^^^data\n\n^^^^kill ^^^^me",
+      "author": "mister_peeberz",
+      "created": 1552960871,
+      "upvotes": 18,
+      "replies": {
+        "eiutrdd": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiutrdd/",
+          "text": "May the gods of data smile down upon my brother",
+          "author": "echotrain",
+          "created": 1552969712,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "eiujbmw": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiujbmw/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1552960676,
+      "upvotes": 1,
+      "replies": {
+        "eivb6gr": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eivb6gr/",
+          "text": "I hadn\u2019t heard about MySpace when I made the post. Losing all data before 2015, nuts!!",
+          "author": "GoodbyeEarl",
+          "created": 1552994028,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "eiugvb8": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiugvb8/",
+      "text": "I have Dropbox premium ($90/year, I think, for 1 TB) that automatically syncs up my files on four different computers. My PhD advisor does the same thing. When my last laptop died, I wasn't set back because all my files were safe. I prefer it to Google Drive because Drive doesn't have very good Linux support, but Dropbox does.",
+      "author": "junkmeister9",
+      "created": 1552958767,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "eiuev57": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiuev57/",
+      "text": "PLT: Store everything on Dropbox Pro. Just do it. I cannot, absolutely cannot, stress how important this is. Everything needs to be back up on the cloud automatically, ideally with version control built in. ",
+      "author": null,
+      "created": 1552957220,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "eiue7to": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiue7to/",
+      "text": "Also, check to see if your university has a cloud storage subscription. My school has a Box subscription, and everyone has 100 TB of cloud storage. I keep all my files in Box Sync so it's all seamlessly backed up in the cloud and current versions are easily accessible on my computer.",
+      "author": "zirchron",
+      "created": 1552956713,
+      "upvotes": 4,
+      "replies": {
+        "eiur60k": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiur60k/",
+          "text": "100 TB?!? You've got to be joking. That's enough space to store all the data for our entire lab and we generate many GB of data daily. ",
+          "author": "EphemeralEarth",
+          "created": 1552967146,
+          "upvotes": 2,
+          "replies": {
+            "eiut70z": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiut70z/",
+              "text": "It's for real! More space than I ever could dream of filling, but I'm not complaining!",
+              "author": "zirchron",
+              "created": 1552969126,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "eiu9rzp": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu9rzp/",
+      "text": "I back up weekly using two externals at two locations.\n\nI wish I could use the cloud, but the university won't spring for the monthly fee.",
+      "author": "ValleyForge",
+      "created": 1552953340,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eiu9esz": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu9esz/",
+      "text": "My hard drive bricked 3/4 of the way through writing my thesis. Thank god for github.",
+      "author": "iamiamwhoami",
+      "created": 1552953058,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "eiu8rgr": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu8rgr/",
+      "text": "Yup. I save everything to Google Drive by default, then periodic backups to an external. It amazes me how many I've come across that are only using their office PC or laptop.",
+      "author": "Knightfall31",
+      "created": 1552952560,
+      "upvotes": 30,
+      "replies": {
+        "eiu9c2n": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu9c2n/",
+          "text": "I use Google drive too, it's been a lifesaver for my PhD.",
+          "author": "wearestardust24",
+          "created": 1552953000,
+          "upvotes": 15,
+          "replies": {
+            "eiutoiq": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiutoiq/",
+              "text": "Same. I've been carrying around a (now) very beat up Chromebook since 2014. I do the heavy lifting on Drive using a desktop, but thus far even the laptop hardware has survived this long. 10/10 would recommend",
+              "author": "echotrain",
+              "created": 1552969629,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "eiutx5b": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiutx5b/",
+          "text": "100GB of storage is surprisingly affordable. Also many universities allow 1TB with your GSuite account (though I don't do that, cause I want continuity when I leave)",
+          "author": "phanfare",
+          "created": 1552969882,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "eiu8p9y": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu8p9y/",
+      "text": "I use the 3-2-1 rule of backup which is; Have at least three independent copies of your data. Store the copies on two different types of media. Keep one backup copy offsite.\n\nComputer crashes? House burns down? All apple products spontaneously combust? I\u2019ll survive.",
+      "author": "PinkGuppie",
+      "created": 1552952513,
+      "upvotes": 18,
+      "replies": {}
+    },
+    "eiu867p": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu867p/",
+      "text": "it me",
+      "author": "Ascetue",
+      "created": 1552952103,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eiu7grg": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu7grg/",
+      "text": "I sleep pretty well knowing all my stuff is on 2 HDDs in RAID 1 ",
+      "author": "biohazard93",
+      "created": 1552951556,
+      "upvotes": 9,
+      "replies": {
+        "eiv0obh": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiv0obh/",
+          "text": "...because it is also backed up? I hope?\n\n(RAID only protects against some scenarios, and is not a substitute for a backup. It doesn't protect against accidental deletion, damage like floods, theft, etc.)",
+          "author": "bo1024",
+          "created": 1552978368,
+          "upvotes": 5,
+          "replies": {
+            "eiv1hqr": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiv1hqr/",
+              "text": "Yeah, of course, this is just on my own workstation. The 'proper' lab backup for long term storage is somewhere in my prof's possession ",
+              "author": "biohazard93",
+              "created": 1552979509,
+              "upvotes": 2,
+              "replies": {
+                "eiv27wc": {
+                  "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiv27wc/",
+                  "text": "Phew!",
+                  "author": "bo1024",
+                  "created": 1552980583,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "eiw8c5n": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiw8c5n/",
+          "text": "I use a Synology DS1515+ with 5 8tb ssds on a RAID configuration. \n\nI save all my data and papers to it directly. The nice thing about this is that I can access them from anywhere with an internet connection. This is nice because when we\u2019re discussing a reading in class, I can pull up my notes and/or review on my phone or any other device I have with me for reference. \n\nI also use it to back up my desktop, all my music and photos and my entire movie collection, plus a few from the local library. I can watch them through my Xbox, my computers, my phone, my tablet, or practically any internet connected display. \n\nMy specific setup was a bit pricey, but there are many more affordable NAS options from Synology and other companies. I prefer it because I don\u2019t have to rely on Dropbox, OneDrive, Amazon, or anyone else to keep my data safe. If something goes wrong, I\u2019m pretty much the only one I can blame. \n\nIt\u2019s also nice because if you get a new computer, you don\u2019t need to migrate files, just install your programs. \n\nA quick note for anyone who wants to setup a NAS. Always use a RAID configuration for redundancy AND a UPS (uninterrupted power supply). It\u2019s basically a fancy surge protector with a built in battery. The main cause of drive failure is sudden power loss. The UPS prevents this, but not indefinitely. It does, however, give you the opportunity to turn the device off properly before the battery dies. With the RAID configuration, even if one fails, as long as you replace and sync it before another one fails, you shouldn\u2019t lose any data. Since mine has 5 drives, I can lose two drives before I lose data. It\u2019s also a good idea to keep a spare drive of the same type as the ones you\u2019re using, in case of drive failure. You never know what could happen while you hunt down a replacement. ",
+          "author": "Nersheti",
+          "created": 1553018005,
+          "upvotes": 2,
+          "replies": {
+            "eiwar79": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiwar79/",
+              "text": "Yep, this is rare on reddit but I agree with everything you wrote!\n\nMy prof has the 5 drives with UPS in his office, and I know there is a scheduled automatic proper backup every day, but I don't know further details than that. Another thing is that our institute is semi-private and we're in Germany, and as far as I know, making use of Dropbox / OneDrive is very frowned upon, if not forbidden through company policy. I think Github private repos are borderline, and they can be made public upon publishing or so.\n\nI am still somewhat new to this place, and IT is a mess and I haven't applied for a VPN just yet. Once I do that I can pretty much work from home or be a hipster in a coffee shop, if I don't have wet work scheduled :).",
+              "author": "biohazard93",
+              "created": 1553019496,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "eiu7ea1": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu7ea1/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1552951502,
+      "upvotes": 20,
+      "replies": {
+        "eiucql5": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiucql5/",
+          "text": "I love OneDrive. Built right into windows, works well on my MacBook as well and Office programs have it integrated. ",
+          "author": "goku_vegeta",
+          "created": 1552955595,
+          "upvotes": 6,
+          "replies": {
+            "eiudk1n": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiudk1n/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1552956210,
+              "upvotes": 4,
+              "replies": {
+                "eiuflgv": {
+                  "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiuflgv/",
+                  "text": "I wish I worked there lol. ",
+                  "author": "goku_vegeta",
+                  "created": 1552957781,
+                  "upvotes": 6,
+                  "replies": {
+                    "eiugzxe": {
+                      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiugzxe/",
+                      "text": "Your PhD was in the wrong field, I think",
+                      "author": "junkmeister9",
+                      "created": 1552958869,
+                      "upvotes": 2,
+                      "replies": {
+                        "eiuj30c": {
+                          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiuj30c/",
+                          "text": "Who\u2019s isn\u2019t? Lol the grass always seems greener on the other side. I do like my field though. ",
+                          "author": "goku_vegeta",
+                          "created": 1552960488,
+                          "upvotes": 6,
+                          "replies": {
+                            "eiujjs4": {
+                              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiujjs4/",
+                              "text": "I was just saying that since you said you wished you worked at MS. But you could always work for the Gates Foundation, right?",
+                              "author": "junkmeister9",
+                              "created": 1552960846,
+                              "upvotes": 2,
+                              "replies": {
+                                "eiukapa": {
+                                  "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiukapa/",
+                                  "text": "Oh I think they\u2019re full of shady practices. ",
+                                  "author": "goku_vegeta",
+                                  "created": 1552961425,
+                                  "upvotes": 2,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "eivojz5": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eivojz5/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1553005442,
+              "upvotes": 1,
+              "replies": {
+                "eivsqkr": {
+                  "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eivsqkr/",
+                  "text": "I totally agree with the formatting issue. I worked on a presentation with a colleague who used Google Documents exclusively. \n\nIt was such a pain, the web formatting for Google's applications are horrendous, it doesn't even look visually appealing in their own browser, let alone the formatting nightmare you get to deal with when you download it as a microsoft office file and try to work on it locally. \n\nAlso it goes even farther, my phone (currently using an iPhone) would be kept up to date as all of my OneDrive files are synced with the Files app from Apple and I can pull those files whenever I need to either for reference or to make some small modifications here and there. \n\nThe funniest thing though is my university ended up putting together a working group to see which would make more financial sense, pay for Google Apps OR Microsoft Office. They ended up choosing Google Apps. \n\nThe next year, they kept Google Apps (probably due to contractual obligations) and provided Office 365 to all students... \n\nThey could have, you know, just used Office 365 from the beginning and called it a day (and saved a few dollars).  ",
+                  "author": "goku_vegeta",
+                  "created": 1553008194,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "eiu7jq4": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu7jq4/",
+          "text": "Dropbox is an amazing alternative. I use it on my phone, tablet, and laptop. I can download articles and read them if I have insomnia on my phone ",
+          "author": "WorthTheDebt",
+          "created": 1552951617,
+          "upvotes": 6,
+          "replies": {
+            "eiusk3k": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiusk3k/",
+              "text": "IDK if this is still the case with dropbox, but in my experience if you don't have a paid subscription (so whatever their free storage limit is) you are SOL if something disappears. A few years back I had a dataset wiped somehow during a synch with the office computer, and dropbox basically said unless I signed up for a paid account they wouldn't even look into my shit for months. \n\nObviously this is why we should all have redundancies, but just a PSA for anyone relying on their free storage. ",
+              "author": "sweetpotatobash",
+              "created": 1552968481,
+              "upvotes": 4,
+              "replies": {
+                "eiwmzra": {
+                  "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiwmzra/",
+                  "text": "This makes me glad I pay for the extra storage. But I also have an external hard drive and email my thesis to myself every couple of weeks",
+                  "author": "WorthTheDebt",
+                  "created": 1553027247,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "eiu7s0w": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu7s0w/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1552951795,
+              "upvotes": 2,
+              "replies": {
+                "eiu8c8r": {
+                  "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu8c8r/",
+                  "text": "I\u2019ve used in on windows and on a Mac. Seamless transition. I use Microsoft Office 2016. I upgraded and pay for the 1Tb data storage. Also it automatically uploads it to its server. You can have a folder to save on your computer like the Documents folder ",
+                  "author": "WorthTheDebt",
+                  "created": 1552952234,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "eiugykj": {
+                  "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiugykj/",
+                  "text": "I have Dropbox automatically synching on a Macbook, two Linux computers, and a Windows laptop. It costs money if you want to go over a couple gigabytes of storage though.",
+                  "author": "junkmeister9",
+                  "created": 1552958840,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "eiukrd1": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiukrd1/",
+          "text": "OneDrive is.... Functional. I use it essentially for writing (manuscripts, proposals, etc) mainly because I have a Surface Pro for a laptop and it works pretty well for that. Doesn't hurt that the University subscription of office365 was $80 for 4 years and included 1tb of OneDrive storage.\n\nFor all my data I just use the University provided Box account.",
+          "author": "aste87",
+          "created": 1552961784,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "eivgpu3": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eivgpu3/",
+          "text": "Yes & Yes\n\nI am using OneDrive on my iMac and my MacBook, I also have continual backups going to an external TimeMachine drive on my iMac. This way, I can update docs from either computer, it automatically syncs to the other and then gets backed up externally. The MacBook also has an external drive, but I only attach it a few times a week.\n\n",
+          "author": "avflinsch",
+          "created": 1552999547,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "eiu76fo": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu76fo/",
+      "text": "Always assume hard drives will die and have redundant backups. I have an external drive where I keep my data and a second external that mirrors that one. Considering a third for my desk. ",
+      "author": "resorcinarene",
+      "created": 1552951335,
+      "upvotes": 5,
+      "replies": {
+        "eiupwuh": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiupwuh/",
+          "text": "Go for it! It is always best to have 3 sets, one of which is offsite from the other two. ",
+          "author": "ConnorF42",
+          "created": 1552966006,
+          "upvotes": 3,
+          "replies": {
+            "eiusnyl": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiusnyl/",
+              "text": "I want to but managing it would be a nightmare. Keeping a master and clone is not too bad in itself. Maintaining another clone off-site is where the file managent trouble starts to pile on. ",
+              "author": "resorcinarene",
+              "created": 1552968590,
+              "upvotes": 1,
+              "replies": {
+                "eiuxlha": {
+                  "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiuxlha/",
+                  "text": "True, that can be an issue. I keep my off-site in another state actually. So it is only updated twice a year or so. But that in itself can be a good thing, if you end up deleting something you realize you still need but have already cloned its removal on your main backup. ",
+                  "author": "ConnorF42",
+                  "created": 1552974226,
+                  "upvotes": 1,
+                  "replies": {
+                    "eiv1up1": {
+                      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiv1up1/",
+                      "text": "I've thought about the logistics. I currently carry a large flash drive (256 GB) for data that I regularly backup to my drives. I'm at the point where it's almost full and still have a lot to add. If I get a third drive, it's gonna get complicated to transfer newly acquired data to the master drive before transferring to the clones because it's not linked directly. Due to the nature of my work, I can't store any of it on cloud drives (per my PI) so I have to manually transfer it. I think I'm just going to have to upgrade to a 512 GB flash drive lol ",
+                      "author": "resorcinarene",
+                      "created": 1552980037,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "eiu4qpr": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu4qpr/",
+      "text": "You can also use free services such as Overleaf for your latex projects! ",
+      "author": "Takochinosuke",
+      "created": 1552949483,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "eiu4nuk": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu4nuk/",
+      "text": "For those of you with a Mac, you can configure to automatically backup your documents folder to iCloud!",
+      "author": "sarabtx",
+      "created": 1552949422,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "eiu3n4p": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu3n4p/",
+      "text": "This. Always and forever. ",
+      "author": "Dawalkingdude",
+      "created": 1552948673,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "eiu3ly0": {
+      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu3ly0/",
+      "text": "Good reminder. There\u2019s two types of hard drives: those that have failed, and those that will fail. ",
+      "author": null,
+      "created": 1552948650,
+      "upvotes": 127,
+      "replies": {
+        "eiu4n9f": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu4n9f/",
+          "text": "So... cloud storage?",
+          "author": "AdanGarciaE",
+          "created": 1552949410,
+          "upvotes": 26,
+          "replies": {
+            "eiu6nhq": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu6nhq/",
+              "text": "I've got it on cloud and three hard drives (two working machines and a portable backup). \n\nI've had a series of unfortunate events (including 3 wipes on my main machine because of a bad install), but I was fine because of backups. don't learn the hard way folks!",
+              "author": "frogdude2004",
+              "created": 1552950930,
+              "upvotes": 29,
+              "replies": {
+                "eiu7b4b": {
+                  "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu7b4b/",
+                  "text": "I store my data on a USB drive, an external hard drive and on the cloud. There's no such thing as an exaggeration when it comes to preserve your work.",
+                  "author": "AdanGarciaE",
+                  "created": 1552951435,
+                  "upvotes": 18,
+                  "replies": {
+                    "eiu7ioh": {
+                      "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiu7ioh/",
+                      "text": "Knock on wood, it would take a fire while my laptop is home (that hits desktop and external) concurrent with my cloud being wiped to totally fuck me over. And I've thought about these cases!\n\nUnfortunately my data sets alone are too big for USB, barring all of the analysis, writing, presentations, etc. ",
+                      "author": "frogdude2004",
+                      "created": 1552951596,
+                      "upvotes": 8,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "eiulujd": {
+              "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiulujd/",
+              "text": "Cloud will kill data too. I lost a months work on a project when Microsoft messed up a cloud folder. ",
+              "author": "A_Crazy_Canadian",
+              "created": 1552962641,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        },
+        "eiuxl4a": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eiuxl4a/",
+          "text": "Got everything on a three hard drive, cloud storage, a flash drive, and the raw data on the super computer storage",
+          "author": "Strangerstrangerland",
+          "created": 1552974212,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "eivtvqk": {
+          "link": "/r/GradSchool/comments/b2ox5p/friendly_reminder_dont_forget_to_back_up_your_data/eivtvqk/",
+          "text": "Towards the end of my PhD I had a stack of four failed drives that I had pulled within the previous 6 months. Luckily for most of them I realized they were failing before any data was lost.",
+          "author": "skiguy0123",
+          "created": 1553008905,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634066130
+}

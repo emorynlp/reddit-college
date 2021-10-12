@@ -1,1 +1,48 @@
-{"sid": "poutzh", "link": "/r/GradSchool/comments/poutzh/about_a_month_into_my_first_semester_as_a_cs_phd/", "title:": "About a month into my first semester as a CS PhD student and not having a good time.", "text": "I wanted to go into research because I was really drawn to the unique lifestyle and lack of repetition and monotony that a typical 9-5 has. But the workload and pressure that I'm feeling a month in has me really concerned. I'm doubting pretty much all of my passion for the field and it's only the very very beginning which is making me feel even worse.\n\nEssentially, I'm completing a project that was started by a summer REU. This person clearly did not know what they were doing and were not planning for the long-term while they were developing the software for the experiment. The codebase is a complete mess and essentially undocumented, it also has several errors and literally does not work. The research is about comparisons between data, but data that I'm comparing to is generated at RUNTIME. This has made it so I'm completely dependent on the broken mess of a program. The experiments have already been done and I'm supposed to enhance the artificial comparison methods and measure their performance against the results from the human comparisons made in the experiments.\n\nMy advisor has said that I'm just gonna have to brute force my way through the codebase and figure out how it works since if I wanted to start from scratch (what I would much rather do than work with this codebase) I would have to run the experiment all over again.\n\nI'm very frustrated and having regrets. I'm not having any fun. Does it ever get better?", "author": "Shade_demon2141", "created": 1631727155, "retrieved": 1632952589, "over_18": false, "upvotes": 4, "upvote_ratio": 0.83, "comments": {"hczbxnv": {"link": "/r/GradSchool/comments/poutzh/about_a_month_into_my_first_semester_as_a_cs_phd/hczbxnv/", "text": "Picking up someone else's project unfortunately just sucks. It will absolutely get better once you get into your own work. \n\nCan you go back to the raw data in the experiment and restart from there? If not, you might just have to struggle through it if recollecting data isn't an option.", "author": "mediocre-spice", "created": 1631730633, "upvotes": 2}, "hcz4xqu": {"link": "/r/GradSchool/comments/poutzh/about_a_month_into_my_first_semester_as_a_cs_phd/hcz4xqu/", "text": "I have no idea what any of this means, but you're not always going to be stuck with someone else's project. Your adviser would know more about how independently you'll be able to work after you complete this. When you do your thesis work, that should be yours alone.", "author": "Ophelia550", "created": 1631727757, "upvotes": 7}}}
+{
+  "sid": "poutzh",
+  "link": "/r/GradSchool/comments/poutzh/about_a_month_into_my_first_semester_as_a_cs_phd/",
+  "title:": "About a month into my first semester as a CS PhD student and not having a good time.",
+  "text": "I wanted to go into research because I was really drawn to the unique lifestyle and lack of repetition and monotony that a typical 9-5 has. But the workload and pressure that I'm feeling a month in has me really concerned. I'm doubting pretty much all of my passion for the field and it's only the very very beginning which is making me feel even worse.\n\nEssentially, I'm completing a project that was started by a summer REU. This person clearly did not know what they were doing and were not planning for the long-term while they were developing the software for the experiment. The codebase is a complete mess and essentially undocumented, it also has several errors and literally does not work. The research is about comparisons between data, but data that I'm comparing to is generated at RUNTIME. This has made it so I'm completely dependent on the broken mess of a program. The experiments have already been done and I'm supposed to enhance the artificial comparison methods and measure their performance against the results from the human comparisons made in the experiments.\n\nMy advisor has said that I'm just gonna have to brute force my way through the codebase and figure out how it works since if I wanted to start from scratch (what I would much rather do than work with this codebase) I would have to run the experiment all over again.\n\nI'm very frustrated and having regrets. I'm not having any fun. Does it ever get better?",
+  "author": "Shade_demon2141",
+  "created": 1631727155,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.83,
+  "comments": {
+    "hczbxnv": {
+      "link": "/r/GradSchool/comments/poutzh/about_a_month_into_my_first_semester_as_a_cs_phd/hczbxnv/",
+      "text": "Picking up someone else's project unfortunately just sucks. It will absolutely get better once you get into your own work. \n\nCan you go back to the raw data in the experiment and restart from there? If not, you might just have to struggle through it if recollecting data isn't an option.",
+      "author": "mediocre-spice",
+      "created": 1631730633,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hcz4xqu": {
+      "link": "/r/GradSchool/comments/poutzh/about_a_month_into_my_first_semester_as_a_cs_phd/hcz4xqu/",
+      "text": "I have no idea what any of this means, but you're not always going to be stuck with someone else's project. Your adviser would know more about how independently you'll be able to work after you complete this. When you do your thesis work, that should be yours alone.",
+      "author": "Ophelia550",
+      "created": 1631727757,
+      "upvotes": 7,
+      "replies": {
+        "hcz7lnc": {
+          "link": "/r/GradSchool/comments/poutzh/about_a_month_into_my_first_semester_as_a_cs_phd/hcz7lnc/",
+          "text": "Hahah sorry about not being more clear. I appreciate your response.",
+          "author": "Shade_demon2141",
+          "created": 1631728842,
+          "upvotes": 1,
+          "replies": {
+            "hczp257": {
+              "link": "/r/GradSchool/comments/poutzh/about_a_month_into_my_first_semester_as_a_cs_phd/hczp257/",
+              "text": "I just don't know anything about computer science.",
+              "author": "Ophelia550",
+              "created": 1631735907,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634067469
+}

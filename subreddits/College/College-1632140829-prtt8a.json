@@ -1,1 +1,234 @@
-{"sid": "prtt8a", "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/", "title:": "Does what college I go to matter?", "text": "Hey guys,\n\nSo basically my conundrum is that I live in San Antonio Texas and we don't particularly have any reputable schools near here. I am a Computer Science major halfway through my associate's degree in community college \\[got out of the military and going back to school\\]. The best we have here in San Antonio is UTSA which I think is like a tier 2 college if I'm not mistaken. I want to aim to get accepted into UT Austin; although, it's extremely hard and while I currently have a 4.0, I have no idea if that will be the case by the end of graduation. As you can imagine this puts a lot of stress and pressure on me to do well because I have the fear of \"if I don't get into a good school, I'll have to settle with UTSA and then I won't get great job offers!\" \n\n&#x200B;\n\nSo I ask y'all, what's the truth behind my worries here? Does my school matter? Elaborate pls and ty", "author": "Sunbro888", "created": 1632140829, "retrieved": 1632946728, "over_18": false, "upvotes": 6, "upvote_ratio": 0.88, "comments": {"hdode6a": {"link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdode6a/", "text": "It matters, but it's not the most important thing. Your internships, personal projects, and LEETCODE EXPERTISE are very important. If you go to an excellent school, that is like the cherry on top that can help you get interviews at top tech companies, but there are tons of people from random schools or without degrees working at google, Microsoft, Facebook, etc. because they're very smart or worked extremely hard. On the other end of the spectrum, there are people who went to great schools because they worked hard in high school but lost that drive and ended up getting mediocre jobs or not even being able to find one. One of my friends went an ivy for computer science, graduated 2020, but his experience at school was so bad that he rarely did any outside programming and put no effort into interviews, and he can't find a job. In programming, your skill is going to trump pedigree.", "author": "postmaloneismediocre", "created": 1632194611, "upvotes": 0}, "hdmlawe": {"link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdmlawe/", "text": "is trinity not a reputable school?", "author": "This_Row798", "created": 1632165650, "upvotes": 2}, "hdljq0j": {"link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdljq0j/", "text": "If you get an internship at a reputable company before you graduate it doesn't matter much where you went for college.  If you don't, then it matters a bit more but as long as the school is somewhat recognizable you should be fine.  Work experience is the most important thing for getting CS jobs.", "author": null, "created": 1632150244, "upvotes": 2}, "hdlc0cv": {"link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlc0cv/", "text": "The quality of your internship experiences, and the quality of your GitHub tend to be more important than the name of the institution on your CS degree.  \n\nThis is an important question:  \n\n*\"Besides earning your degree, what did you actually DO while you were in college?\"*  \n\nYour CS degree says you academically know how to write code & create software.  \n\nHave you written any?  \nIs it any good?  \n\nThe importance of Cybersecurity / Information Security resonates throughout the industry.  \nWhat have you done to embrace the challenges of creating secure software?  \n\nAre you familiar with OWASP?  \n\nAre you comfortable using Open Source development tools?  \n\nWhen I interview you I'm looking for your academic knowledge combined with your practical experiences.  \nI want to build a sense of how much effort I'll need to invest in you to get you up and running in our environment.  \n\n-----  \n\nHave you investigated any Career Development Programs?  \n\n\n-----  \n\nSome examples of Career Development Programs:  \n\n\n | \n---|\n[Another great list of programs here](https://www.careereducation.columbia.edu/resources/leadership-development-rotational-programs)  |\n. |\n[Microsoft Student Programs](https://careers.microsoft.com/students/us/en/ur-lp-united-states)  |\n[Cigna Health Programs](https://jobs.cigna.com/us/en/studentandgraduates)  |\n[Boeing Programs](https://jobs.boeing.com/entry-level)  |\n[General Eletric Programs](https://jobs.gecareers.com/global/en/students)  |\n[Goodyear Programs](https://campus.goodyear.com/opportunities)  |\n[Siemens Programs](https://new.siemens.com/us/en/company/jobs/search-careers.html)  |\n[GEICO Programs](https://www.geico.com/careers/students-and-grads/leadership-programs/)  |\n[International Paper Programs](http://www.internationalpaper.com/company/regions/north-america/careers/students-recent-graduates/new-graduate-opportunities)  |\n[Harley-Davidson Programs](https://www.harley-davidson.com/us/en/about-us/careers/students-rotational-programs.html)  |\n[Caterpillar Programs](https://www.caterpillar.com/en/careers/career-areas/college/unitedstates/intern-program.html)  |\n[Boston Scientific Programs](http://www.bostonscientific.com/en-US/careers/students/rotational-programs/technology-leadership-development-program.html)  |\n[BD Career Development Programs](https://www.bd.com/en-us/company/careers/university-relations-and-recruitment/undergraduate-programs/information-technology-leadership-program)|\n[United Health Group Programs](https://careers.unitedhealthgroup.com/early-careers/programs)  |\n[Capital One Programs](https://campus.capitalone.com/full-time-programs)  |\n[Bank of America Programs](https://campus.bankofamerica.com/opportunities.html)  |", "author": "VA_Network_Nerd", "created": 1632146906, "upvotes": 3}}}
+{
+  "sid": "prtt8a",
+  "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/",
+  "title:": "Does what college I go to matter?",
+  "text": "Hey guys,\n\nSo basically my conundrum is that I live in San Antonio Texas and we don't particularly have any reputable schools near here. I am a Computer Science major halfway through my associate's degree in community college \\[got out of the military and going back to school\\]. The best we have here in San Antonio is UTSA which I think is like a tier 2 college if I'm not mistaken. I want to aim to get accepted into UT Austin; although, it's extremely hard and while I currently have a 4.0, I have no idea if that will be the case by the end of graduation. As you can imagine this puts a lot of stress and pressure on me to do well because I have the fear of \"if I don't get into a good school, I'll have to settle with UTSA and then I won't get great job offers!\" \n\n&#x200B;\n\nSo I ask y'all, what's the truth behind my worries here? Does my school matter? Elaborate pls and ty",
+  "author": "Sunbro888",
+  "created": 1632140829,
+  "over_18": false,
+  "upvotes": 6,
+  "upvote_ratio": 0.88,
+  "comments": {
+    "hdode6a": {
+      "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdode6a/",
+      "text": "It matters, but it's not the most important thing. Your internships, personal projects, and LEETCODE EXPERTISE are very important. If you go to an excellent school, that is like the cherry on top that can help you get interviews at top tech companies, but there are tons of people from random schools or without degrees working at google, Microsoft, Facebook, etc. because they're very smart or worked extremely hard. On the other end of the spectrum, there are people who went to great schools because they worked hard in high school but lost that drive and ended up getting mediocre jobs or not even being able to find one. One of my friends went an ivy for computer science, graduated 2020, but his experience at school was so bad that he rarely did any outside programming and put no effort into interviews, and he can't find a job. In programming, your skill is going to trump pedigree.",
+      "author": "postmaloneismediocre",
+      "created": 1632194611,
+      "upvotes": 0,
+      "replies": {
+        "hdpzjrd": {
+          "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdpzjrd/",
+          "text": "Interesting, so with that in mind my take away is try to get into the nice school, but if it doesn't work it's not the end of the world since my internships, personal projects, leetcode expertise, and future job experience will outshine it.",
+          "author": "Sunbro888",
+          "created": 1632234499,
+          "upvotes": 1,
+          "replies": {
+            "hdsun0i": {
+              "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdsun0i/",
+              "text": "definitely. if you're an exceptional, driven programmer, your chances of succeeding are very high.",
+              "author": "postmaloneismediocre",
+              "created": 1632279741,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hdmlawe": {
+      "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdmlawe/",
+      "text": "is trinity not a reputable school?",
+      "author": "This_Row798",
+      "created": 1632165650,
+      "upvotes": 2,
+      "replies": {
+        "hdmmmar": {
+          "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdmmmar/",
+          "text": " I don't think so",
+          "author": "Sunbro888",
+          "created": 1632166183,
+          "upvotes": 2,
+          "replies": {
+            "hdmmqr4": {
+              "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdmmqr4/",
+              "text": "oh ok",
+              "author": "This_Row798",
+              "created": 1632166235,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hdmmno9": {
+          "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdmmno9/",
+          "text": "It is in the area, but in the U.S. as a whole nobody really cares",
+          "author": "Sunbro888",
+          "created": 1632166199,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hdljq0j": {
+      "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdljq0j/",
+      "text": "If you get an internship at a reputable company before you graduate it doesn't matter much where you went for college.  If you don't, then it matters a bit more but as long as the school is somewhat recognizable you should be fine.  Work experience is the most important thing for getting CS jobs.",
+      "author": null,
+      "created": 1632150244,
+      "upvotes": 2,
+      "replies": {
+        "hdlo0jc": {
+          "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlo0jc/",
+          "text": "So with that said, if I stay by UTSA I can stay with my family until graduation and be able to save/invest a lot more money than if I had to rent in Austin and relocate. Would it be worth it to just head to utsa at that point?",
+          "author": "Sunbro888",
+          "created": 1632152043,
+          "upvotes": 1,
+          "replies": {
+            "hdlot8k": {
+              "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlot8k/",
+              "text": "Sounds like UTSA would be the better value.  I personally go to a school (BYU) with great value-for-money and a decent but unremarkable CS program, and really like it here.  None of my peers have much struggle finding good internships or jobs.",
+              "author": null,
+              "created": 1632152375,
+              "upvotes": 3,
+              "replies": {
+                "hdlsvtv": {
+                  "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlsvtv/",
+                  "text": "It would be extremely convenient for me to go to UTSA tbh. But I didn't want to lose out if for some reason getting into UT Austin would have made THE world of a difference, ya know?",
+                  "author": "Sunbro888",
+                  "created": 1632154054,
+                  "upvotes": 1,
+                  "replies": {
+                    "hdm3lpp": {
+                      "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdm3lpp/",
+                      "text": "Yeah if you just want to become a software engineer at a decent company somewhere, a bachelor's in CS from any reputable school and some internship experience will be fine.  Any good CS program can give you enough coding, operating system, etc experience, so I wouldn't worry about that too much right now.",
+                      "author": null,
+                      "created": 1632158383,
+                      "upvotes": 2,
+                      "replies": {
+                        "hdm8e7q": {
+                          "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdm8e7q/",
+                          "text": "I would eventually like to work for a great company (maybe Microsoft, google, apple, etc.). That said, that's why I am putting emphasis in doing what I may most need to do to get there. I just didn't want to bar myself out from being able to do that before I even get started, ya know?",
+                          "author": "Sunbro888",
+                          "created": 1632160336,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hdlc0cv": {
+      "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlc0cv/",
+      "text": "The quality of your internship experiences, and the quality of your GitHub tend to be more important than the name of the institution on your CS degree.  \n\nThis is an important question:  \n\n*\"Besides earning your degree, what did you actually DO while you were in college?\"*  \n\nYour CS degree says you academically know how to write code & create software.  \n\nHave you written any?  \nIs it any good?  \n\nThe importance of Cybersecurity / Information Security resonates throughout the industry.  \nWhat have you done to embrace the challenges of creating secure software?  \n\nAre you familiar with OWASP?  \n\nAre you comfortable using Open Source development tools?  \n\nWhen I interview you I'm looking for your academic knowledge combined with your practical experiences.  \nI want to build a sense of how much effort I'll need to invest in you to get you up and running in our environment.  \n\n-----  \n\nHave you investigated any Career Development Programs?  \n\n\n-----  \n\nSome examples of Career Development Programs:  \n\n\n | \n---|\n[Another great list of programs here](https://www.careereducation.columbia.edu/resources/leadership-development-rotational-programs)  |\n. |\n[Microsoft Student Programs](https://careers.microsoft.com/students/us/en/ur-lp-united-states)  |\n[Cigna Health Programs](https://jobs.cigna.com/us/en/studentandgraduates)  |\n[Boeing Programs](https://jobs.boeing.com/entry-level)  |\n[General Eletric Programs](https://jobs.gecareers.com/global/en/students)  |\n[Goodyear Programs](https://campus.goodyear.com/opportunities)  |\n[Siemens Programs](https://new.siemens.com/us/en/company/jobs/search-careers.html)  |\n[GEICO Programs](https://www.geico.com/careers/students-and-grads/leadership-programs/)  |\n[International Paper Programs](http://www.internationalpaper.com/company/regions/north-america/careers/students-recent-graduates/new-graduate-opportunities)  |\n[Harley-Davidson Programs](https://www.harley-davidson.com/us/en/about-us/careers/students-rotational-programs.html)  |\n[Caterpillar Programs](https://www.caterpillar.com/en/careers/career-areas/college/unitedstates/intern-program.html)  |\n[Boston Scientific Programs](http://www.bostonscientific.com/en-US/careers/students/rotational-programs/technology-leadership-development-program.html)  |\n[BD Career Development Programs](https://www.bd.com/en-us/company/careers/university-relations-and-recruitment/undergraduate-programs/information-technology-leadership-program)|\n[United Health Group Programs](https://careers.unitedhealthgroup.com/early-careers/programs)  |\n[Capital One Programs](https://campus.capitalone.com/full-time-programs)  |\n[Bank of America Programs](https://campus.bankofamerica.com/opportunities.html)  |",
+      "author": "VA_Network_Nerd",
+      "created": 1632146906,
+      "upvotes": 3,
+      "replies": {
+        "hdlfecg": {
+          "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlfecg/",
+          "text": "So with this in mind, is it still worth it to pursue trying to get into UT Austin over UTSA? \n\nAs far as in my coding ability I have absolutely 0. I used to be an avionics technician and worked with computers my entire life so I'm electronic savvy, just not yet in the coding world. I'm looking to take my first intro to programming classes towards the end of my associates so I don't brain dump the curriculum and can learn it concurrently moving into my bachelor's degree. Is there any books/YouTube channel you can recommend to maybe get me started until then? \n\nI think the previous paragraph highlights that I don't really know jack about OWASP/ open source development so I won't touch too much on my ignorance there, haha. \n\nAnd these career development programs I take it are like summer internships that can help me get my feet wet, yeah?",
+          "author": "Sunbro888",
+          "created": 1632148402,
+          "upvotes": 1,
+          "replies": {
+            "hdlpbr7": {
+              "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlpbr7/",
+              "text": "> So with this in mind, is it still worth it to pursue trying to get into UT Austin over UTSA?   \n\nIf you can get into UT-Austin without killing yourself, and without going deep into debt to do it, it's clearly the better school.  \nBut UT-SA isn't a **bad** school, and you can totally start a perfectly valid career through your attendance there.  \n\n> As far as in my coding ability I have absolutely 0  \n\nOk, just to make sure you understand what you are about to get into:  \n\nComputer Science is **NOT** a \"Coding Degree\" like too many people assume it will be.  \n\nCS is the study of software at a largely theoretical level.  \nCS is a derivative of mathematics.  \n\nA Computer is just a giant calculator. They only speak in math.  \n\nYou're going to learn what good software looks like and what makes it good.  \nThen you'll write some software to test out those concepts.  \n\nSo a CS degree isn't going to be a university education in building a love-affair with the semi-colon (a character used a lot in programming syntax).  \n\nHarvard's CS50 course is pretty popular due to it's brand-recognition, and high-production-investment.  \n\nhttps://online-learning.harvard.edu/course/cs50-introduction-computer-science?delta=0  \n\nhttps://cs50.harvard.edu/x/2021/  \n\n-----  \n\nOnce you understand software, you can do a whole lot of things in technology other than create more software.  \nLots of IT and Cybersecurity workers started with CS degrees.  \n\n> I don't really know jack about OWASP/ open source development so I won't touch too much on my ignorance there, haha.   \n\nI encourage you to pick an introduction to Linux course online somewhere and start dabbling.  \n\nThe OWASP Top-10 list is a ranked list of the biggest mistakes software creators keep making that lead to critical security vulnerabilities.  \n\nhttps://owasp.org/www-project-top-ten/  \n\n\n> And these career development programs I take it are like summer internships that can help me get my feet wet, yeah?  \n\nNo. Better.  \n\nEach of the UT schools operates a Career Center to help you search for Internships.  \n\nhttps://careercenter.utsa.edu/  \n\nEvery University runs a major career fair event in the Fall, usually within about 30 days of the start of semester, and the more critical Spring career fair event.  \n\nArrive on campus your first semester @ UT-A/UTSA with a good, validated, reviewed resume in your hand, ready to do battle in the career fair event.  \n\nI can't think of anything you can do to help your career more than landing a couple of good internships.  \n\nInternships are for Students.  \n\nCareer Development Programs are for recent graduates.  \nThink of a CDP as an Apprenticeship where a large employer invests two years of OJT in you to help accelerate your entrance into their environment.  \n\nAccess to these programs is not well-known, but it is competitive.  \n\nMaybe one in 10 students will be aware that these programs exist, while they all know internships exist.",
+              "author": "VA_Network_Nerd",
+              "created": 1632152589,
+              "upvotes": 3,
+              "replies": {
+                "hdlsptj": {
+                  "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlsptj/",
+                  "text": "Also I am unsure if this changes anything, but if I go to UTSA I am able to live with family and save/invest a lot of money, whereas with UT Austin, I'd obviously have to come out of pocket on rent/costs to move, etc. I am using the GI Bill so tuition isn't an issue. More so, my question seems to be if the opportunity cost of the money saved is worth less than the brand name's benefits of attending UT Austin. If no, I could go to UTSA and wouldn't feel as though the world ended. \n\nAlso, does that Harvard course you linked require you to first be admitted to Harvard to be able to take? I presume yes, but just wanted to clarify. \n\nNoted! I will look for an introduction to Linux Class online!\n\nI will also be looking into acquiring an internship upon transferring to university. I have prior Air Force avionics experience, but not something like \"wow\" in terms of the coding world. Should I figure out how to at least start a project ASAP for the purpose of having a strong resume for these internships?  And are the internships typically unpaid? \n\nAnd thanks a ton for recommending these CDP's as this is the first I have heard of them, I am going to 100% keep that in mind upon graduation.",
+                  "author": "Sunbro888",
+                  "created": 1632153984,
+                  "upvotes": 1,
+                  "replies": {
+                    "hdlvht9": {
+                      "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlvht9/",
+                      "text": "GI Bill has a provision for housing costs.  \n\nhttp://csrankings.org/#/index?all&us  \n\nUT-A is a top-15 CS school in the nation.  \n\nAs such, the kinds and quality of companies recruiting from their graduates will be superior to those recruiting from UTSA.  \n\nThe difference is not so great that graduating from UTSA == unemployment. That's not true at all.  \n\nBut if you can attend UT-A without incurring significant cost, I sure as heck would.  \n\n> Also, does that Harvard course you linked require you to first be admitted to Harvard to be able to take?  \n\nNo, it's free for everyone to take.  \nYou only have to pay money if you want a diploma for completing the course (which might not be usable for any kind of college credit).  \n\n> I have prior Air Force avionics experience, but not something like \"wow\" in terms of the coding world.  \n\nYour Veteran status makes you a prioritized applicant for all internship opportunities.  \nYour Veteran status makes you a prioritized applicant for all Co-Op work opportunities.  \nYour Veteran status makes you a prioritized applicant for all Undergraduate Research Opportunities.  \nYour Veteran status makes you a prioritized applicant for all Career Development Programs.  \n\nYou make damned sure your resume clearly indicates that you are prior-service Air Force.  \n\nNow, don't go crazy - the degree of prioritization varies among employers & institutions, so I don't mean to imply that you have a golden ticket.  \nBut employers are incentivized to hire veterans.  \n\n> Should I figure out how to at least start a project ASAP for the purpose of having a strong resume for these internships?  \n\nNot a critical activity, but wouldn't be a bad thing to investigate either.  \n\nIt is a perfectly valid, sane, rational, logical approach to grind out as many GenEd credits as possible in a Community College and save all of the juicy career-focused content for the transfer university. As a potential employer, I can respect that. But, in all fairness, it does make you a slightly less attractive applicant in that you don't know anything technical yet...  \n\nSo, the sooner you can display some technical skill, the better.  \n\n> And thanks a ton for recommending these CDP's as this is the first I have heard of them, I am going to 100% keep that in mind upon graduation.  \n\nThere are dozens if not hundreds of other CDPs out there that I don't even know about.  \n\nAsking a potential employer about them in an interview can be a good question to ask.",
+                      "author": "VA_Network_Nerd",
+                      "created": 1632155106,
+                      "upvotes": 3,
+                      "replies": {
+                        "hdlwmp8": {
+                          "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlwmp8/",
+                          "text": "I'll keep working towards my UT Austin goal then and I suppose if that doesn't work out I could apply at various other highly ranked CS program schools and just transfer/use my GI bill there I suppose. \n\nAlso, if that's the case I'll look into the link and see how I can go about getting into the class to learn more about coding! \n\nAlso, that's good to know! I didn't know we had a priority based on our service. The only two things that you listed that I don't know about actually in this case are \"co-op work opportunities\" and the context of what \"undergraduate research\" entails and how it is beneficial, if you do have the time to explain though I would love to know!\n\nAnd totally understandable, I am hoping that they will see it as rational in terms of how I chose to line up my credits/classes as well. I want a seamless transition from intro to programming into the advanced programming classes so I can not brain-dump the material and be able to apply it more effectively. \n\nAnd got it! CDP's are something I will start investigating ASAP\n\n&#x200B;\n\n\\\\",
+                          "author": "Sunbro888",
+                          "created": 1632155561,
+                          "upvotes": 1,
+                          "replies": {
+                            "hdlxbqx": {
+                              "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlxbqx/",
+                              "text": "All research universities have Professors conducting academic & scientific research in various things.  \n\nSome undergraduate students ask to participate in such research.  \n\nAs this is the practical application of academic theories, this can be attractive to some employers.  \n\nCaution: Academic Research isn't always as much fun as it sounds.  \nALL of the coolest stuff will be performed by graduate students.  \nUndergraduate participants may be actually pushing brooms.  \nBut, they get to listen into the discussions & arguments, so there is still value.  \n\nA Co-Op opportunity is like an internship but where an internship happens over the summer so you can focus full-time on work, a Co-Op lets you keep going to classes, so it's less focused.",
+                              "author": "VA_Network_Nerd",
+                              "created": 1632155839,
+                              "upvotes": 2,
+                              "replies": {
+                                "hdlxtqz": {
+                                  "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdlxtqz/",
+                                  "text": "Awesome! This information has been gold for me and I really appreciate you chiming in and providing all of this insight. My last question is that I am actually in the VocRehab program so I am not technically using my GI Bill--- also, I qualify for the Hazelwood act which is further tuition exemption. That said, I can get my master's degree debt free as well, but I am curious, can a master's degree in CS be beneficial in terms of yielding higher pay or higher job opportunities? Is it a waste of time as a whole? And does it make sense to shoot straight for it? Or would it be better to start in industry after my bachelor's and part-time work towards the master's to have a balance of education/experience?",
+                                  "author": "Sunbro888",
+                                  "created": 1632156040,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "hdm2ro5": {
+                                      "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdm2ro5/",
+                                      "text": "> can a master's degree in CS be beneficial in terms of yielding higher pay or higher job opportunities?   \n\nDepends **greatly** on the kinds of job roles you have in mind.  \n\nA very large chunk of job roles, especially in the early-career segment do not benefit from a Masters degree.  \n\nBut some roles, such as Cybersecurity, Data Science and some Software Engineering focus-areas do certainly benefit from a Masters.  \n\nI would **only** go directly into a Masters degree program if you KNEW the jobs you want require it.  \n\nOtherwise, hang onto the benefit until you discover you need it later.  \n\nYou might subscribe to /r/ITCareerQuestions  and /r/cscareerquestions  to see other career-focused discussion.  \n\nTwo words of caution:  \n\n/r/ITCareerQuestions  tends to focus on Help Desk to Server Administration kinds of jobs (which a CS degree is perfectly valid education for).  \n\n/r/cscareerquestions  tends to over-focus in an almost unhealthy manner on FAANG employment, with all other employers being looked down upon.  \n\n*(FAANG == Facebook, Apple, Amazon, Netflix and Alphabet (formerly Google))*  \n\nThere is good information floating about in both communities, but sometimes there is a lot of noise in the way obscuring it.  \n\n/r/csMajors  is growing in popularity too.  \n\n/r/SecurityCareerAdvice  is also trying to grow.",
+                                      "author": "VA_Network_Nerd",
+                                      "created": 1632158040,
+                                      "upvotes": 2,
+                                      "replies": {
+                                        "hdm8o3w": {
+                                          "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdm8o3w/",
+                                          "text": "Ah okay, so I suppose a master's in Computer Science may be too generalized to be beneficial? Perhaps as you said, I should have a job role in mind first that requires it and specializes accordingly. \n\n&#x200B;\n\nAlso, I will certainly take a look over in those reddits to see if I can gain anymore useful information. Thank you so much in advance for answering all these questions today!",
+                                          "author": "Sunbro888",
+                                          "created": 1632160447,
+                                          "upvotes": 1,
+                                          "replies": {
+                                            "hdm9txy": {
+                                              "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdm9txy/",
+                                              "text": "If you get a Masters too early, you can appear over-qualified for some roles.  \n\nOn the other hand, some roles request a Masters degree where it is not needed.  \n\nWait until you find your first H1B job listing.  \n\nWanted: Senior Software Design Engineer. 8+ years of experience with 6 different programming languages. Must be an expert Database Administrator, and Seasoned Cybersecurity Expert. The ability to rebuild transmissions and carburetors considered a plus. Applicants must have a masters degree in Computer Science, Software Engineering or Computer Engineering.  \n\nOffered Salary Range: $38,000 - $52,000, 14 prior employment references required, along with 3 years of pay stubs.  \n\nShit like that makes me...... very unhappy.",
+                                              "author": "VA_Network_Nerd",
+                                              "created": 1632160927,
+                                              "upvotes": 2,
+                                              "replies": {
+                                                "hdma4nq": {
+                                                  "link": "/r/college/comments/prtt8a/does_what_college_i_go_to_matter/hdma4nq/",
+                                                  "text": "So definitely wait and get into industry first, haha.",
+                                                  "author": "Sunbro888",
+                                                  "created": 1632161050,
+                                                  "upvotes": 1,
+                                                  "replies": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634051887
+}

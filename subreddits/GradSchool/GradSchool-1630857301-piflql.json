@@ -1,1 +1,251 @@
-{"sid": "piflql", "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/", "title:": "Do you take notes from your reading of journal articles? Tips for better literature synthesis appreciated", "text": "My method for reading is pretty chaotic, especially when I come to write. I completed my first thesis in July for my MSc and although I achieved a good grade, the whole process was chaotic. I had done so much reading prior to the writing. I kept articles in Mendeley and produced word documents full of notes and a synthesis of the literature, yet I used none of it when I actually wrote my thesis. I used the references, but I didn't actually refer to my notes at all. Instead, I had a horrific amount of tabs open across multiple browser windows and kept referring back to the articles when I needed them. \n\nIt therefore takes me ages to write and somehow it works for me but I would rather not have to work like this again for my second thesis. So, does any have any decent tips on how to annotate or even produce notes that can be used efficiently for writing? I cannot continue my academic experience with this messy process haha.\n\nEdit: wow thanks everyone for your helpful tips, I really appreciate it. I\u2019ll definitely read through and find the best method for me based on these comments.", "author": "storm_borm", "created": 1630857301, "retrieved": 1632952974, "over_18": false, "upvotes": 137, "upvote_ratio": 0.98, "comments": {"hbqybbg": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbqybbg/", "text": "I keep my papers in Zotero, under sections that have the same names as the sections for my lit review outline. For each article I read, I do an annotated bibliography on a google doc (with the google docs grouped under the same headings; the top of the article\u2019s citation, followed by the abstract, then I take my notes. It\u2019s working okay for me so far", "author": "emikatdb", "created": 1630886589, "upvotes": 1}, "hbqvugt": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbqvugt/", "text": "1. Word Document. \n2. Make a table with three columns. The right column is for Author, year; the middle column is for article title then quotations from article. the right column is for your thoughts, memos, references, etc. \n3. Read your PDFs and as you go, highlight and drag important points/quotations (of any size) into your world document (middle column). Keep it the authors' words. Your ideas on the right. \n4. Put notes entire topics/projects/papers into ONE word document. maybe just do a strip of color across one row for each new publication. Even on a fairly small laptop, you can do half screen for each window and never have to fiddle with different windows. \n\nThe advantages of this are: \n\n1. It is SEARCHABLE. \n2. it is  low tech/no new software to learn\n3. It puts your notes right alongside the authors, but allows you to keep them separate\n4. easily printable \n5. allows you to add rows in previous parts of your notebook so you can keep authors together (or group some other way if you want)\n\nCan anyone see any disadvantages to this?", "author": "BlancheDevereux", "created": 1630885364, "upvotes": 3}, "hbq4qa7": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbq4qa7/", "text": "I've been preparing for my qualifying exam by adding all related papers to Zotero (citation manager). I add notes in bullet points if I've read the full paper - just a summary of key takeaways and maybe interesting methods or tools. This way I don't need to open the actual PDF. \n\nI found that it was difficult to get a general overview of all my reading (needing to click thru each entry on Zotero). So I essentially wrote an annotated bibliography in Word - listing just the key papers and a few bullet points of what Ill be using for my QE writeup.", "author": "koddish", "created": 1630872531, "upvotes": 2}, "hbq01sb": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbq01sb/", "text": "I've found [this workflow very useful](https://www.youtube.com/watch?v=XbGJH08ZfCs).", "author": "Sad-Ad-6147", "created": 1630870466, "upvotes": 0}, "hbpzzwq": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpzzwq/", "text": "I finished my PhD a year and a half ago and am now non-ac, but my process was:\n\n1. Import into Zotero (Mendeley is basically the same)\n\n2. Either take notes on the paper (if printed) or in my notebook (if not). Highly, highly recommend using some kind of dead-tree paper for this: it is super easy to get stuck in the trap of fiddling with note-taking / \"productivity\" software and end up wasting more time than you save, and I find that I have a much easier time remembering things that I've written down (not *typed*).\n\n3. Synthesize the notes from the paper into the Note field on Zotero, and tag appropriately. \n\nIn addition to topic tags, I used some tags for tracking reading / quality: `to read`, `skimmed`, `wont read`, `have read`, `important result`, `ignore`.\n\nZotero search goes through both the PDF contents (if enabled and attached in the software) and your notes, so this left me with something that I could pretty easily find anything quickly.\n\nEDIT: if the paper isn't relevant or good, you also don't need many notes. For example, this is what I wrote about a decent paper:\n\n\n    important to address, but ultimately not applicable to my problem.\n    \n    1.  complexity is > O(log^6m), which is quite large for huge social networks. that isn't for calculating all communities, either, but only a single local one\n    2.  the algorithm requires knowledge of m to run (it is used in the stopping condition). We can estimate n pretty well for FB, Twitter, but getting a reasonable estimate on m is much much harder due to the long tail of the degree distribution.\n    \n    I should look into subsequent work to see if these problems are addressed.\n\n\nand this is what I wrote about a paper that claimed to be scalable but definitely wasn't\n\n```\nO(n^2) -- scalable my ass\n```", "author": "emallson", "created": 1630870443, "upvotes": 17}, "hbpzyos": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpzyos/", "text": "I read papers on my Samsung tablet and annotate them with the stylus. Then, I upload these PDF to Zotero. Now, the most important part is to take note, in a big Word document, of the key information included in the article. I start with a 1-2 sentences summary of the article followed by key points and quotes. I also include the reference at the beginning of the page. I try to stick to 1 page of notes per article to avoid my document from being unnecessarily long. This document is also subdivided according to different themes, e.g., previous qualitative research done on my topic, theoretical framework, various methodologies. I also have a section where I only keep note of key quotes from some articles that I didn't want to more closely read and annotate. If I'm short on time, I won't read the paper on my tablet and I'll take notes as I read it on my computer but I find that I get more easily distracted and tired that way.", "author": "Scientism101", "created": 1630870428, "upvotes": 3}, "hbpwtbb": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpwtbb/", "text": "First paper for MS, word doc with a paragraph/bullet point summary of what I wanted to potentially use reference wise, not necessarily a summary of the whole paper. Often even just one sentence if there was a specific thing I wanted to remember.\n\nPhD if interesting throw it into mendeley no notes. Horrible method/practice.\n\nYears past grad school. Just write and add [cite later] for things I knew I have read before. Then go back and scholar search for the paper. *do not do this in grad*, probably not post grad as well, but my work style is (to use your wording) chaotic.\n\nGrad school/early career, even if you do not actually refer to the notes, just writing it down/summarizing does help even if just to help instilling it in memory.", "author": "HappyHrHero", "created": 1630869032, "upvotes": 8}, "hbpw83r": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpw83r/", "text": "I use to keep word docs with annotated bibliographies and I also tried the notebook method, but neither worked very well for me. \n\nMy preferred method is using zotero and the associated plugins.  I highlight the PDF as I read it, add comments throughout, then extract both as annotations in zotero.  When I write the paper I quickly review the annotation files and pull the most important ones out as separate windows (or copy paste them into work to work closer with). \n\nZotero automatically adds the page number to each highlight text. If I\u2019m feeling fancy and have the correct version of Acrobat I sometimes read papers in hard copy, scan them with hand written notes and highlighting, then use text recognition and export the annotations again in zotero, but the amount of errors dramatically increases.  I bought and iPad and apple pen and that works much better than scanning and text recog. on printed out documents or reading everything on mg laptop/desktop.", "author": "MrsAlecHardy", "created": 1630868766, "upvotes": 5}, "hbps9qq": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbps9qq/", "text": "I keep a giant word document where I write bullet points and sentences as I read with the formatted citation from mendeley copied in for each paper. I find this really helpful when writing because I can search for specific terms or phrases. I call it an annotated bibliography document but it's super unstructured; some papers are a few points while others are pages of notes for important papers.", "author": "calabunga_21", "created": 1630866974, "upvotes": 3}, "hbpjhym": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpjhym/", "text": "Alright this is the advice I received from my mentor at my first job before starting graduate school. My mentor has a PhD and also works in a pretty ever changing field of research.\n\nWhen you find a paper, read through it, take notes, highlight main points, etc. Here comes the bad part: write a paragraph summary of the paper. It makes it much easier later on when you need to find a specific paper, you just have a word document with a broad subject area and then all the citations or links are in there, with the summary, so you know you got the right paper you were looking for.", "author": "SnooTomatoes3816", "created": 1630863083, "upvotes": 112}, "hbpjc70": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpjc70/", "text": "Keeping information in some online system is great, but for works that you come across cited numerous times, it might be a better idea to also get a notebook so that you can also have a hard copy for more authoritative, frequently cited references. By both typing and writing those references and the associated notes will (hopefully) be better retained in your mind.\n\nYou should also keep this annotated bibliography in a single Word doc just to make it easier to locate materials via in-document searches for author name, article title, etc. You need to think about how you're going to most expeditiously retrieve the information before you start the review, especially depending on how many total sources you're working with.", "author": "qwertyrdw", "created": 1630863013, "upvotes": 4}, "hbpecsj": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpecsj/", "text": "For my thesis I bought a jr. sized notebook and every journal that had something GOOD or DIRECTLY opposed to my topic got a set of 3 pages in the book. I would APA citation on the top of the first page and make bullet point summarized notes with a (p. 123xyz) citation for each bullet so I could find it EASILY later on. Then I made a sticky tab with the proper APA intext citation on the tab so I knew who/when and could go straight to the article. Also, I would name EVERY article using the full APA citations list separated into 2 folders: 1) resources to use, and 2) resources used/cited. The first time I I text cited someone I would move their article into the used folder. As a triple check for proper in text, and end citations inclusion.\n\nI called it my cheat page sheet bible, and not only used it along the writing journey but even during my defense when I would say, \u201cI don\u2019t have that answer off the top of my head but, so and so (flip tab) mentions something like that on page xyz, and I can start there utilizing their references to dig deeper to find the answer.\u201d My committee ate that up!\n\nI had to use APA but if you are doing something else, try to keep everything in your required format from the very start if the project.", "author": "Happy-birdie-918", "created": 1630860806, "upvotes": 34}, "hbpd5hp": {"link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpd5hp/", "text": "[deleted]", "author": null, "created": 1630860278, "upvotes": 1}}}
+{
+  "sid": "piflql",
+  "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/",
+  "title:": "Do you take notes from your reading of journal articles? Tips for better literature synthesis appreciated",
+  "text": "My method for reading is pretty chaotic, especially when I come to write. I completed my first thesis in July for my MSc and although I achieved a good grade, the whole process was chaotic. I had done so much reading prior to the writing. I kept articles in Mendeley and produced word documents full of notes and a synthesis of the literature, yet I used none of it when I actually wrote my thesis. I used the references, but I didn't actually refer to my notes at all. Instead, I had a horrific amount of tabs open across multiple browser windows and kept referring back to the articles when I needed them. \n\nIt therefore takes me ages to write and somehow it works for me but I would rather not have to work like this again for my second thesis. So, does any have any decent tips on how to annotate or even produce notes that can be used efficiently for writing? I cannot continue my academic experience with this messy process haha.\n\nEdit: wow thanks everyone for your helpful tips, I really appreciate it. I\u2019ll definitely read through and find the best method for me based on these comments.",
+  "author": "storm_borm",
+  "created": 1630857301,
+  "over_18": false,
+  "upvotes": 137,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "hbqybbg": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbqybbg/",
+      "text": "I keep my papers in Zotero, under sections that have the same names as the sections for my lit review outline. For each article I read, I do an annotated bibliography on a google doc (with the google docs grouped under the same headings; the top of the article\u2019s citation, followed by the abstract, then I take my notes. It\u2019s working okay for me so far",
+      "author": "emikatdb",
+      "created": 1630886589,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hbqvugt": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbqvugt/",
+      "text": "1. Word Document. \n2. Make a table with three columns. The right column is for Author, year; the middle column is for article title then quotations from article. the right column is for your thoughts, memos, references, etc. \n3. Read your PDFs and as you go, highlight and drag important points/quotations (of any size) into your world document (middle column). Keep it the authors' words. Your ideas on the right. \n4. Put notes entire topics/projects/papers into ONE word document. maybe just do a strip of color across one row for each new publication. Even on a fairly small laptop, you can do half screen for each window and never have to fiddle with different windows. \n\nThe advantages of this are: \n\n1. It is SEARCHABLE. \n2. it is  low tech/no new software to learn\n3. It puts your notes right alongside the authors, but allows you to keep them separate\n4. easily printable \n5. allows you to add rows in previous parts of your notebook so you can keep authors together (or group some other way if you want)\n\nCan anyone see any disadvantages to this?",
+      "author": "BlancheDevereux",
+      "created": 1630885364,
+      "upvotes": 3,
+      "replies": {
+        "hbrkyvk": {
+          "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbrkyvk/",
+          "text": "I did this but I also put each doc into the word bibliography for easy referencing when drafting",
+          "author": "Nasery",
+          "created": 1630897846,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hbq4qa7": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbq4qa7/",
+      "text": "I've been preparing for my qualifying exam by adding all related papers to Zotero (citation manager). I add notes in bullet points if I've read the full paper - just a summary of key takeaways and maybe interesting methods or tools. This way I don't need to open the actual PDF. \n\nI found that it was difficult to get a general overview of all my reading (needing to click thru each entry on Zotero). So I essentially wrote an annotated bibliography in Word - listing just the key papers and a few bullet points of what Ill be using for my QE writeup.",
+      "author": "koddish",
+      "created": 1630872531,
+      "upvotes": 2,
+      "replies": {
+        "hbs5gdb": {
+          "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbs5gdb/",
+          "text": "Didn't go through quals (prof had the choice). But other Profs had the same message: if they let you test they are on the line you will pass.",
+          "author": "HappyHrHero",
+          "created": 1630910543,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hbq01sb": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbq01sb/",
+      "text": "I've found [this workflow very useful](https://www.youtube.com/watch?v=XbGJH08ZfCs).",
+      "author": "Sad-Ad-6147",
+      "created": 1630870466,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "hbpzzwq": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpzzwq/",
+      "text": "I finished my PhD a year and a half ago and am now non-ac, but my process was:\n\n1. Import into Zotero (Mendeley is basically the same)\n\n2. Either take notes on the paper (if printed) or in my notebook (if not). Highly, highly recommend using some kind of dead-tree paper for this: it is super easy to get stuck in the trap of fiddling with note-taking / \"productivity\" software and end up wasting more time than you save, and I find that I have a much easier time remembering things that I've written down (not *typed*).\n\n3. Synthesize the notes from the paper into the Note field on Zotero, and tag appropriately. \n\nIn addition to topic tags, I used some tags for tracking reading / quality: `to read`, `skimmed`, `wont read`, `have read`, `important result`, `ignore`.\n\nZotero search goes through both the PDF contents (if enabled and attached in the software) and your notes, so this left me with something that I could pretty easily find anything quickly.\n\nEDIT: if the paper isn't relevant or good, you also don't need many notes. For example, this is what I wrote about a decent paper:\n\n\n    important to address, but ultimately not applicable to my problem.\n    \n    1.  complexity is > O(log^6m), which is quite large for huge social networks. that isn't for calculating all communities, either, but only a single local one\n    2.  the algorithm requires knowledge of m to run (it is used in the stopping condition). We can estimate n pretty well for FB, Twitter, but getting a reasonable estimate on m is much much harder due to the long tail of the degree distribution.\n    \n    I should look into subsequent work to see if these problems are addressed.\n\n\nand this is what I wrote about a paper that claimed to be scalable but definitely wasn't\n\n```\nO(n^2) -- scalable my ass\n```",
+      "author": "emallson",
+      "created": 1630870443,
+      "upvotes": 17,
+      "replies": {
+        "hbqxrou": {
+          "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbqxrou/",
+          "text": "This is very helpful, thanks! What do you mean by  \"importing it\" into Zotero? Does that work with Citavi too?",
+          "author": "damageinc355",
+          "created": 1630886317,
+          "upvotes": 1,
+          "replies": {
+            "hbrkxma": {
+              "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbrkxma/",
+              "text": "Get the browser extension and use it to download the citation into Zotero (as well as the PDF if you can get it directly instead of using something like sci-hub)",
+              "author": "emallson",
+              "created": 1630897828,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbpzyos": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpzyos/",
+      "text": "I read papers on my Samsung tablet and annotate them with the stylus. Then, I upload these PDF to Zotero. Now, the most important part is to take note, in a big Word document, of the key information included in the article. I start with a 1-2 sentences summary of the article followed by key points and quotes. I also include the reference at the beginning of the page. I try to stick to 1 page of notes per article to avoid my document from being unnecessarily long. This document is also subdivided according to different themes, e.g., previous qualitative research done on my topic, theoretical framework, various methodologies. I also have a section where I only keep note of key quotes from some articles that I didn't want to more closely read and annotate. If I'm short on time, I won't read the paper on my tablet and I'll take notes as I read it on my computer but I find that I get more easily distracted and tired that way.",
+      "author": "Scientism101",
+      "created": 1630870428,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hbpwtbb": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpwtbb/",
+      "text": "First paper for MS, word doc with a paragraph/bullet point summary of what I wanted to potentially use reference wise, not necessarily a summary of the whole paper. Often even just one sentence if there was a specific thing I wanted to remember.\n\nPhD if interesting throw it into mendeley no notes. Horrible method/practice.\n\nYears past grad school. Just write and add [cite later] for things I knew I have read before. Then go back and scholar search for the paper. *do not do this in grad*, probably not post grad as well, but my work style is (to use your wording) chaotic.\n\nGrad school/early career, even if you do not actually refer to the notes, just writing it down/summarizing does help even if just to help instilling it in memory.",
+      "author": "HappyHrHero",
+      "created": 1630869032,
+      "upvotes": 8,
+      "replies": {
+        "hbqwt5s": {
+          "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbqwt5s/",
+          "text": "I had a stroke reading this. Work on your writing",
+          "author": "damageinc355",
+          "created": 1630885840,
+          "upvotes": -9,
+          "replies": {
+            "hbr0fr9": {
+              "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbr0fr9/",
+              "text": "Sorry I actually had a stroke last winter. Writing is kind of hard now. Recovery has been slow.\n\nJust trying to answer OPs post",
+              "author": "HappyHrHero",
+              "created": 1630887639,
+              "upvotes": 8,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbpw83r": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpw83r/",
+      "text": "I use to keep word docs with annotated bibliographies and I also tried the notebook method, but neither worked very well for me. \n\nMy preferred method is using zotero and the associated plugins.  I highlight the PDF as I read it, add comments throughout, then extract both as annotations in zotero.  When I write the paper I quickly review the annotation files and pull the most important ones out as separate windows (or copy paste them into work to work closer with). \n\nZotero automatically adds the page number to each highlight text. If I\u2019m feeling fancy and have the correct version of Acrobat I sometimes read papers in hard copy, scan them with hand written notes and highlighting, then use text recognition and export the annotations again in zotero, but the amount of errors dramatically increases.  I bought and iPad and apple pen and that works much better than scanning and text recog. on printed out documents or reading everything on mg laptop/desktop.",
+      "author": "MrsAlecHardy",
+      "created": 1630868766,
+      "upvotes": 5,
+      "replies": {
+        "hc8co9o": {
+          "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hc8co9o/",
+          "text": "Do you use zotero on the iPad or a different program",
+          "author": "Ecstatic-chipmonk",
+          "created": 1631222818,
+          "upvotes": 1,
+          "replies": {
+            "hc8hm6u": {
+              "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hc8hm6u/",
+              "text": "I use PaperShip on the iPad as (as far as I know) there isn\u2019t an app for iPads iOS yet.  But Zotero or someone capable should really really really make something new cuz it\u2019s not the best.",
+              "author": "MrsAlecHardy",
+              "created": 1631224915,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbps9qq": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbps9qq/",
+      "text": "I keep a giant word document where I write bullet points and sentences as I read with the formatted citation from mendeley copied in for each paper. I find this really helpful when writing because I can search for specific terms or phrases. I call it an annotated bibliography document but it's super unstructured; some papers are a few points while others are pages of notes for important papers.",
+      "author": "calabunga_21",
+      "created": 1630866974,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hbpjhym": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpjhym/",
+      "text": "Alright this is the advice I received from my mentor at my first job before starting graduate school. My mentor has a PhD and also works in a pretty ever changing field of research.\n\nWhen you find a paper, read through it, take notes, highlight main points, etc. Here comes the bad part: write a paragraph summary of the paper. It makes it much easier later on when you need to find a specific paper, you just have a word document with a broad subject area and then all the citations or links are in there, with the summary, so you know you got the right paper you were looking for.",
+      "author": "SnooTomatoes3816",
+      "created": 1630863083,
+      "upvotes": 112,
+      "replies": {
+        "hbpq8yw": {
+          "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpq8yw/",
+          "text": "Chiming in to say the paragraph summary method is the way to go! It\u2019s more work upfront but it becomes a godsend during advisor meetings and lit reviews. I keep mine in a spreadsheet with columns for keywords and the date I read the paper too, which helps keep track of my understanding of things as I go along (e.g. I can see I read Paper A before I read Paper B, and Paper B really helped me understand Concept C, which was in both papers, so I know whatever understanding I got from Paper A might be incomplete or incorrect).",
+          "author": "NaturalesQuaestiones",
+          "created": 1630866074,
+          "upvotes": 26,
+          "replies": {
+            "hbqwupv": {
+              "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbqwupv/",
+              "text": "sorry, still waking up, but what do you mean by concept C? I use zotero, so every time i read an article and save it, i put as many tags as possible on it, and then as i read other papers maybe i go in and add more tags to that paper as i learn more and get more out of previous papers.",
+              "author": "beevvulf",
+              "created": 1630885861,
+              "upvotes": 1,
+              "replies": {
+                "hbqyrfo": {
+                  "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbqyrfo/",
+                  "text": "No need to be sorry! \"Concept C\" is just a stand-in for some idea both Paper A and Paper B discussed.\n\nBasically, if Paper A and Paper B rely on the fact that 2+2=4 (that's Concept C), it's helpful to know that I read Paper B after I read Paper A, because Paper B helped me understand why 2+2=4. I just accepted it as fact in Paper A without understanding the why/how, which means I might not have actually followed the logic in Paper A as well as I originally thought I did.\n\nI think it's a similar philosophy to your tagging process\u2014making sure that you're continuing to engage with papers you've read in the past, because your understanding of those papers and how they fit into your research changes based on new things you've read.",
+                  "author": "NaturalesQuaestiones",
+                  "created": 1630886809,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hbt6xa0": {
+          "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbt6xa0/",
+          "text": "This is the way. I\u2019ve done this for twenty years and advise all my great students and postdocs to do the same. I challenge people to limit themselves to 100 words per paper, so they really have to focus on the core ideas. No point in writing a summary that is half the length of the paper. \n\nI also advise people to read the related papers and write a 200-300 word summary about all the of them, which helps transition them towards synthesis.",
+          "author": "ccots",
+          "created": 1630937796,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "hbqv4xb": {
+          "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbqv4xb/",
+          "text": "This seems painfully obvious. So much so that virtually all journals/authors already do it for you and call it an Abstract. \n\nI do not see how what you said is different than an abstract. \n\nA self-authored paragraph COULD be helpful if you know how this paper speaks to your work in particular (but you didn't mention this part). \n\nHowever, this too is not a panacea in that first impressions how X work relates to yours are can be wrong. So it can be more helpful just to describe the paper in your summary, rather than make a claim. But, a description of the paper? See above convo on Abstract.",
+          "author": "BlancheDevereux",
+          "created": 1630885008,
+          "upvotes": -1,
+          "replies": {
+            "hbr7ieq": {
+              "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbr7ieq/",
+              "text": "Yeah I guess when I say a summary it\u2019s different from an abstract, at least from the perspective of the field I\u2019m in. I pull out specific details about their methods and mathematics that might be useful to me, and isn\u2019t always included in the abstract. To me, abstracts are usually a brief few lines. For example nature limits abstracts to 150 words, but maybe for a paper I\u2019m really interested in their methods or I\u2019m not too familiar with a particular subject area so I need to write a more verbose paragraph or two about the paper to really synthesize it. I guess this doesn\u2019t work for everyone, but it\u2019s what works for me to jog my memory about what\u2019s in a specific paper I read months ago, instead of digging around to find the paper or switching between papers.\n\nAlso, obviously include how it relates to my specific research. I guess I am thinking more of writing this as a literature review for a research proposal: \u201cThis person did X Y Z, it relates to what I want to do because A B C\u201d",
+              "author": "SnooTomatoes3816",
+              "created": 1630891105,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbpjc70": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpjc70/",
+      "text": "Keeping information in some online system is great, but for works that you come across cited numerous times, it might be a better idea to also get a notebook so that you can also have a hard copy for more authoritative, frequently cited references. By both typing and writing those references and the associated notes will (hopefully) be better retained in your mind.\n\nYou should also keep this annotated bibliography in a single Word doc just to make it easier to locate materials via in-document searches for author name, article title, etc. You need to think about how you're going to most expeditiously retrieve the information before you start the review, especially depending on how many total sources you're working with.",
+      "author": "qwertyrdw",
+      "created": 1630863013,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hbpecsj": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpecsj/",
+      "text": "For my thesis I bought a jr. sized notebook and every journal that had something GOOD or DIRECTLY opposed to my topic got a set of 3 pages in the book. I would APA citation on the top of the first page and make bullet point summarized notes with a (p. 123xyz) citation for each bullet so I could find it EASILY later on. Then I made a sticky tab with the proper APA intext citation on the tab so I knew who/when and could go straight to the article. Also, I would name EVERY article using the full APA citations list separated into 2 folders: 1) resources to use, and 2) resources used/cited. The first time I I text cited someone I would move their article into the used folder. As a triple check for proper in text, and end citations inclusion.\n\nI called it my cheat page sheet bible, and not only used it along the writing journey but even during my defense when I would say, \u201cI don\u2019t have that answer off the top of my head but, so and so (flip tab) mentions something like that on page xyz, and I can start there utilizing their references to dig deeper to find the answer.\u201d My committee ate that up!\n\nI had to use APA but if you are doing something else, try to keep everything in your required format from the very start if the project.",
+      "author": "Happy-birdie-918",
+      "created": 1630860806,
+      "upvotes": 34,
+      "replies": {
+        "hbq6rq9": {
+          "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbq6rq9/",
+          "text": "This is so gnarly. I love it",
+          "author": "thebartthe444",
+          "created": 1630873442,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hbpd5hp": {
+      "link": "/r/GradSchool/comments/piflql/do_you_take_notes_from_your_reading_of_journal/hbpd5hp/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1630860278,
+      "upvotes": 1,
+      "replies": {}
+    }
+  },
+  "updated": 1634065546
+}

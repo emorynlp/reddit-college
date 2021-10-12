@@ -1,1 +1,696 @@
-{"sid": "oodqe3", "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/", "title:": "Use a reference manager, friends", "text": "Every now and then I see people here that are in dire need of reference managers without knowing they exist. It's been the same in my MA classes too, I'd been using them since undergrad days, but for some of my cohort, I introduced them. So I guess, at least in some disciplines, these software are a bit nice at least in grad school.\n\nA reference manager does a few things:\n\n- Organises your papers and books, and their relevant files (PDF, epub, .zip, code, etc.)\n- Organises relevant metadata\n- Helps you cite these in your papers and theses\n- Generates the bibliography automatically\n- Imports references from web, with associated PDF if possible\n- Allows you to edit, search (metadata & PDFs), sort, organise etc. these references\n- Import PDFs from your file system and for most of them, find their related metadata automatically\n- Work with Microsoft Ofice or LibreOffice to easily add citations (IDK if it works with Pages on Apple)\n- Can export to bibtex / biblatex (see [Better BibTeX](https://retorque.re/zotero-better-bibtex/) extension too) to use it with LaTeX\n- ...\n\nMy goto recommendation is https://www.zotero.org/ because Zotero is totally free and open source, and is not tied to any disgusting companies like Elsevier or some shady data analytics company. I also haven't tried others myself, so that's another reason not to recommend for me.\n\nGo to the website, download the app and download the extension for your browser and for your office suite of choice, Microsoft or LibreOffice. Or, if you want another one, go to https://en.wikipedia.org/wiki/Comparison_of_reference_management_software and find the best fit for you. You'll thank yourself later.\n\nAnother piece of software I wish to plug that is made by the same folk as Zotero AFAICT is Tropy, which is a manager for research photos: <https://tropy.org/>. I don't have much use for this myself, more useful to historians, archeologists, etc. probably. I wanted to mention it nevertheless tho as it's somewhat obscure.\n\nEdit: If you have any questions regarding Zotero, I have been using it for a few years, so feel free to ask, I might be helpful. I didn't text other stuff, so I wouldn't know, but chances are someone reading the thread would.", "author": "gkayaalp", "created": 1626823437, "retrieved": 1632953809, "over_18": false, "upvotes": 430, "upvote_ratio": 0.99, "comments": {"h6120x0": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h6120x0/", "text": "When you say it organises metadata I\u2019m not really sure what you mean. I assume you mean you save a journal article or something. Can you give an example of the type of paper you\u2019re talking about and how you would use that function?", "author": "ellodarknessoldfrend", "created": 1626889959, "upvotes": 2}, "h60w1o5": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h60w1o5/", "text": "Zotero is amazing. Especially with the addons it has.", "author": "Lord_Blackthorn", "created": 1626887496, "upvotes": 2}, "h60m4bm": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h60m4bm/", "text": "I use Zotero for everything I write and love it. One word of caution though, do not rely uncritically on the citation information it imports automatically. You will need to clean that info up as it goes in to make sure you get accurate references later.", "author": "Norin_was_taken", "created": 1626883373, "upvotes": 2}, "h60kj1x": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h60kj1x/", "text": "This. \nThe gold standard is zotero + zotfile plugin that allows you to drag a pdf into zotero, it will automatically create a record for you based on the data in the PDF. Works for almost all papers published after 1995 or so. \nIt also copies the PDF into your zotero data and renames it. \nYou can then open the PDF by double clicking on the record in zotero.", "author": "scanguy25", "created": 1626882701, "upvotes": 2}, "h606ruc": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h606ruc/", "text": "I utilize bibtex for writing papers, mainly on overleaf. Is there something I'm missing? Does endnote or mendeley improve the experience somehow?\n\nFor now, bibtex takes care of all referencing and format so I don't see why something else would make the whole process easier / more efficient.", "author": "Efficient_Ad_184", "created": 1626876759, "upvotes": 1}, "h602t6d": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h602t6d/", "text": "Awesome! Thank you! I will be preparing my research proposal next week and was thinking about how to organize the literature review!", "author": "WanderingNebulas", "created": 1626874900, "upvotes": 2}, "h5zd9cl": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5zd9cl/", "text": "I've been using them for a few years, but I never understood something : Do they make a copy of the pdf you import into it ? If so, can I safely delete the first pdf ? In short, do they also replace the need for organized windows folders ?", "author": "Jtktomb", "created": 1626856971, "upvotes": 2}, "h5ywvkg": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ywvkg/", "text": "Just gonna shamelessly plug another reference manager here: [JabRef](https://www.jabref.org/)\n\nFor all ya Latex and Bibtex/Biblatex users out there, Bibtex is the native format for Jabref, so you can just open a bibtex file and manage it from Jabref. This is especially great for git and collaboration as you can add references as you go and even your coworkers can open and edit it as usual.  \n\nWhat I also think is cool is, that you can have a your tex files automatically scanned for citations of references. So you can just look up in your Jabref at what parts of your document exactly you cited a certain article and the like.  \nAlso, you can work with your whole database while writing and just export the ones you actually cited as a separate file at the end.  \n\nA feature I discovered recently is that it can read PDF annotations. I marked some text in a PDF I linked with an entry and the marked text showed up in Jabref! So you don't even have to open the PDF to reread the parts you thought are important. (Little caveat here, if the PDF text isn't properly set up, e.g. scanned documents with automatic text recognition or math formulas, it will not work. But that's a problem with the PDF, not Jabref).", "author": "LivelyLizzard", "created": 1626845939, "upvotes": 5}, "h5ywsuv": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ywsuv/", "text": "You da real mvp OP", "author": "7empest-tost", "created": 1626845888, "upvotes": 2}, "h5ys1l8": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ys1l8/", "text": "Seriously not a single mention for [Papers](https://www.papersapp.com/)? Made my PhD and published works much more manageable.", "author": "Dathadorne", "created": 1626842734, "upvotes": 1}, "h5yg234": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yg234/", "text": "I'm one year into my masters and just started using Zotero, it has made my life SO much easier. I wish someone had told me about it earlier so I didn't have to suffer for that one year without it... I found I had multiple PDFs of the same article with different highlights on them that I had read for lit reviews and zotero just makes my laptop so much more organized. Not to mention, it makes creating my reference sheet 1000x easier instead of easybib-ing for HOURS like I had been doing before.", "author": "m-r-s-e", "created": 1626836356, "upvotes": 2}, "h5yfljt": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yfljt/", "text": "Scite is also a cool extension you can add to zotero. It allows you to easily browse other papers citing the paper in your library, and can even tell you if those references are positive, negative, or neutral. I haven't had much use with it yet, but it's it seems like it has applications I may not have fully utilized yet.", "author": "Bugsnatch", "created": 1626836126, "upvotes": 2}, "h5yf0up": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yf0up/", "text": "Zotero is THE best. Some more things it's good for:\n\n1) Has good plugins for reference styles. I'm in New Zealand and they even have the New Zealand Law Style Guide, which other reference managers didn't have when I needed it.\n\n2) So easy for collaborating, you just create groups for each project and share them using Zotero online. Endnote is a nightmare for that!!!!! Can not stress that enough. \n\n3) All your references are always synced if you set up the free online account, so nothing gets lost if something happens to your device, nothing gets corrupted etc. You can download zotero, log in and and open up your database on any computer in the space of like 2 mins.\n\nI don't use it for pdfs, but after years of using it for my own research and paid work as a research assistant I do now pay $20 per annum for extra storage for all those references.\n\nThanks for the tip on Trophy, never heard of it but will come in useful, starting an arts-informed project at the moment.", "author": "Eventu568", "created": 1626835829, "upvotes": 5}, "h5y9ynu": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y9ynu/", "text": "Yay!!! Another zotero user!!! Absolutely love it and have used it since undergrad. My PI tried to convert me to a citavi dude but I just don\u2019t like that format for organizing projects. \n\nFantastic post, OP.", "author": "chemeazy97", "created": 1626833333, "upvotes": 6}, "h5y7se3": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y7se3/", "text": "I chose to use Mendeley for a couple reasons\u2026I think Zotero had space limitations and no ability to annotate or even highlight PDFs in the past. Can anyone offer insights regarding memory space and/or annotations in Zotero? I\u2019ve seen conflicting outdated information.\n\nSince Elsevier bought Mendeley, I have been really interested in changing. Anyone know if I could import my library and notes from Mendeley to Zotero or would I have to start over from scratch?", "author": "laughing-medusa", "created": 1626832303, "upvotes": 9}, "h5y7ndp": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y7ndp/", "text": "Seriously. I take part in a fair few writing workshops and groups at my uni and the two things I always recommend:\n\n1: a good citation manager - and take the time to organize it\n\nEdit: I use endnote because I get it free thru my university but for a free one, zotero is great\n\n2: use scrivener. It\u2019s not cheap but it\u2019s a 1-off payment, and keeps everything in one app but backed up in two places. But, like with the cm, it takes time. \n\nI had scriv for years and felt like I was driving a Ferrari in a 5mph zone so I took a week or two to look at blog posts by other academics who\u2019d used it for dissertations, and videos on how best to set it up for a humanities diss. \n\nSince talking that time, I use it far more to its full potential and it\u2019s GREAT. I can log in and know my work is saved, backed up, and in the proper order. Plus it works with citation managers and exports to word.", "author": "coyotesandcrickets", "created": 1626832237, "upvotes": 10}, "h5y5pse": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y5pse/", "text": "I forget why exactly I switched from Zotero, but I've been totally happy with Mendeley for quite a while. The importer extension for Chrome is super easy to use.", "author": "kyew", "created": 1626831334, "upvotes": 5}, "h5y4ssk": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y4ssk/", "text": "I tried EndNote X9 and didn't like it. Would rather use firefox extensions that give me the APA citation quickly... like Google Scholar or EndNote Click.", "author": "Ejszaka", "created": 1626830904, "upvotes": 1}, "h5y4myr": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y4myr/", "text": "Extra life pro tip: back up your reference manager files (and all files really) frequently!\n\nApparently Endnote, Mendeley, and possibly other softwares do not play nicely with cloud storage and auto backups. I had a scare recently where my entire library got corrupted, as did some of my backups. Nearly lost eight years of archived knowledge. Now I manually create backups and email myself the zip file every so often.", "author": "heythereanydaythere", "created": 1626830827, "upvotes": 47}, "h5y2pz2": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y2pz2/", "text": "I have a question about Zotero that makes using it very confusing for me. It seems like it duplicates all of my PDFs in its own directory. I'd rather have all my PDFs in one place rather than different versions floating around, and I want to be able to annotate my PDFs on my computer and on a tablet. However Zotero seems to save all of the PDF files in a coded way that makes them impossible to find unless I open them with Zotero, which doesn't work on my tablet. What can I do about this? I really don't want to have separate PDFs, one that's annotated and one that's in Zotero, since it uses twice the storage space and is harder to manage. But I really want to be able to highlight and take notes directly on documents and have these notes be accessible through Zotero as well. Am I missing something? Any workarounds?", "author": "biwei", "created": 1626829902, "upvotes": 11}, "h5xz4c5": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xz4c5/", "text": "Zotero literally saved my mental health last semester lol", "author": "palebarista666", "created": 1626828120, "upvotes": 20}, "h5xyyrl": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xyyrl/", "text": "I can't believe I didn't know this was a thing! Thanks!!", "author": "Famousinmyshower", "created": 1626828042, "upvotes": 3}, "h5xxita": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xxita/", "text": "Yep I was a doofus and did my Masters thesis without one despite our university providing endnote for free.  I had a masters student in my lab that I mentored later in my grad school experience who wouldn't update and I was like for the love of god please use it or you'll hate yourself like I did and she wouldn't do it.  I even offer a brief walkthrough for our incoming grad students on how to use and and some just won't adapt.", "author": "Captainbackbeard", "created": 1626827328, "upvotes": 22}, "h5xxgy8": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xxgy8/", "text": "Where has this been all my (academic) life? \nThank you!!!", "author": "g-wenn", "created": 1626827303, "upvotes": 14}, "h5xu2xi": {"link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xu2xi/", "text": "I also recommend Zotero!! And everyone should use the note feature too so you don't have to revisit the paper multiple times every x months to know what's important about it (some papers won't scan and you won't have the abstract automatically uploaded in Zotero, so the note feature is useful for that!)", "author": "methomz", "created": 1626825642, "upvotes": 104}}}
+{
+  "sid": "oodqe3",
+  "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/",
+  "title:": "Use a reference manager, friends",
+  "text": "Every now and then I see people here that are in dire need of reference managers without knowing they exist. It's been the same in my MA classes too, I'd been using them since undergrad days, but for some of my cohort, I introduced them. So I guess, at least in some disciplines, these software are a bit nice at least in grad school.\n\nA reference manager does a few things:\n\n- Organises your papers and books, and their relevant files (PDF, epub, .zip, code, etc.)\n- Organises relevant metadata\n- Helps you cite these in your papers and theses\n- Generates the bibliography automatically\n- Imports references from web, with associated PDF if possible\n- Allows you to edit, search (metadata & PDFs), sort, organise etc. these references\n- Import PDFs from your file system and for most of them, find their related metadata automatically\n- Work with Microsoft Ofice or LibreOffice to easily add citations (IDK if it works with Pages on Apple)\n- Can export to bibtex / biblatex (see [Better BibTeX](https://retorque.re/zotero-better-bibtex/) extension too) to use it with LaTeX\n- ...\n\nMy goto recommendation is https://www.zotero.org/ because Zotero is totally free and open source, and is not tied to any disgusting companies like Elsevier or some shady data analytics company. I also haven't tried others myself, so that's another reason not to recommend for me.\n\nGo to the website, download the app and download the extension for your browser and for your office suite of choice, Microsoft or LibreOffice. Or, if you want another one, go to https://en.wikipedia.org/wiki/Comparison_of_reference_management_software and find the best fit for you. You'll thank yourself later.\n\nAnother piece of software I wish to plug that is made by the same folk as Zotero AFAICT is Tropy, which is a manager for research photos: <https://tropy.org/>. I don't have much use for this myself, more useful to historians, archeologists, etc. probably. I wanted to mention it nevertheless tho as it's somewhat obscure.\n\nEdit: If you have any questions regarding Zotero, I have been using it for a few years, so feel free to ask, I might be helpful. I didn't text other stuff, so I wouldn't know, but chances are someone reading the thread would.",
+  "author": "gkayaalp",
+  "created": 1626823437,
+  "over_18": false,
+  "upvotes": 430,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "h6120x0": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h6120x0/",
+      "text": "When you say it organises metadata I\u2019m not really sure what you mean. I assume you mean you save a journal article or something. Can you give an example of the type of paper you\u2019re talking about and how you would use that function?",
+      "author": "ellodarknessoldfrend",
+      "created": 1626889959,
+      "upvotes": 2,
+      "replies": {
+        "h614x6h": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h614x6h/",
+          "text": "So in Zotero every item is essentially bunch of \"metadata\" plus some associated files. Metadata is information like title, authors, editors, publication year, place, journal etc. You can have metadata alone as an item in Zotero, or you can associate it with some file. E.g., if you added a journal article without a PDF, it'd appear in Zotero as an item, with all it's associated metadata. You can then assign to this a PDF file as well.\n\nWhen writing your work, you can then use this database through your word processor (or other authoring tools) to add citations from the database. Zotero will then automatically append to a location you select the sufficient bibliography, generated based on the metadata you add.\n\nSorry if that's just word soup, but this 7 minute video is a nice demo of the basic workflow with Zotero: https://www.youtube.com/watch?v=kqFiCj1XV-E",
+          "author": null,
+          "created": 1626891167,
+          "upvotes": 2,
+          "replies": {
+            "h61z3wf": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h61z3wf/",
+              "text": "Ok thanks, I get what you\u2019re saying now. I use Endnote, I don\u2019t think they use the term metadata - it\u2019s called a citation library instead of a database - but it does the same job basically",
+              "author": "ellodarknessoldfrend",
+              "created": 1626903994,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h60w1o5": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h60w1o5/",
+      "text": "Zotero is amazing. Especially with the addons it has.",
+      "author": "Lord_Blackthorn",
+      "created": 1626887496,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h60m4bm": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h60m4bm/",
+      "text": "I use Zotero for everything I write and love it. One word of caution though, do not rely uncritically on the citation information it imports automatically. You will need to clean that info up as it goes in to make sure you get accurate references later.",
+      "author": "Norin_was_taken",
+      "created": 1626883373,
+      "upvotes": 2,
+      "replies": {
+        "h60ydyi": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h60ydyi/",
+          "text": "Yeah this is pretty important, I did this mistake myself for a long time. Review when importing and review while citing.",
+          "author": null,
+          "created": 1626888465,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h60kj1x": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h60kj1x/",
+      "text": "This. \nThe gold standard is zotero + zotfile plugin that allows you to drag a pdf into zotero, it will automatically create a record for you based on the data in the PDF. Works for almost all papers published after 1995 or so. \nIt also copies the PDF into your zotero data and renames it. \nYou can then open the PDF by double clicking on the record in zotero.",
+      "author": "scanguy25",
+      "created": 1626882701,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h606ruc": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h606ruc/",
+      "text": "I utilize bibtex for writing papers, mainly on overleaf. Is there something I'm missing? Does endnote or mendeley improve the experience somehow?\n\nFor now, bibtex takes care of all referencing and format so I don't see why something else would make the whole process easier / more efficient.",
+      "author": "Efficient_Ad_184",
+      "created": 1626876759,
+      "upvotes": 1,
+      "replies": {
+        "h608hkb": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h608hkb/",
+          "text": "BibTeX is pretty nice, and I use it with LaTeX as well. Problem is, as a bibtex file gets larger, it's harder to maintain. My main collection is almost half a megabyte now with ~600 entries. Zotero or similar make it easy to manage all that, import stuff from the web (whether it's bibtex or nasty stuff like RIS), make subsets, manage related files etc.\n\nSo I have Zotero export to bibtex (or, more accurately, BibLaTeX), and I work with the export then in (Lua/Xe)LaTeX when writing.\n\nThat said, if you are meticulous with maintaining, it just BibTeX or BibLaTeX alone may be good enough for you.\n\nFWIW I have this little Perl script that fetches BibTeX from doi.org for DOI numbers: https://github.com/cadadr/configuration/blob/76466b1342aaadfddf3453ab70ada4a15e82afbb/bin/doi2bib.pl I searched a lot for a way to make something similar for ISBN -> BibTeX to no avail...",
+          "author": null,
+          "created": 1626877527,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h602t6d": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h602t6d/",
+      "text": "Awesome! Thank you! I will be preparing my research proposal next week and was thinking about how to organize the literature review!",
+      "author": "WanderingNebulas",
+      "created": 1626874900,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h5zd9cl": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5zd9cl/",
+      "text": "I've been using them for a few years, but I never understood something : Do they make a copy of the pdf you import into it ? If so, can I safely delete the first pdf ? In short, do they also replace the need for organized windows folders ?",
+      "author": "Jtktomb",
+      "created": 1626856971,
+      "upvotes": 2,
+      "replies": {
+        "h5zukle": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5zukle/",
+          "text": "Depends on the particular reference manager and your preference. Zotero can do both. I used to import, but now I'm trying a workflow with the ZotFile extension where PDFs are in a separate directory with sane names which I can sync (in Zotero that's called \"linking\").\n\nBy default Zotero stores pdfs at \"~/Zotero/<a few random letters>/<item title>.pdf\".",
+          "author": null,
+          "created": 1626870536,
+          "upvotes": 1,
+          "replies": {
+            "h5zynhb": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5zynhb/",
+              "text": "Oh linking ! Thank you",
+              "author": "Jtktomb",
+              "created": 1626872808,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5ywvkg": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ywvkg/",
+      "text": "Just gonna shamelessly plug another reference manager here: [JabRef](https://www.jabref.org/)\n\nFor all ya Latex and Bibtex/Biblatex users out there, Bibtex is the native format for Jabref, so you can just open a bibtex file and manage it from Jabref. This is especially great for git and collaboration as you can add references as you go and even your coworkers can open and edit it as usual.  \n\nWhat I also think is cool is, that you can have a your tex files automatically scanned for citations of references. So you can just look up in your Jabref at what parts of your document exactly you cited a certain article and the like.  \nAlso, you can work with your whole database while writing and just export the ones you actually cited as a separate file at the end.  \n\nA feature I discovered recently is that it can read PDF annotations. I marked some text in a PDF I linked with an entry and the marked text showed up in Jabref! So you don't even have to open the PDF to reread the parts you thought are important. (Little caveat here, if the PDF text isn't properly set up, e.g. scanned documents with automatic text recognition or math formulas, it will not work. But that's a problem with the PDF, not Jabref).",
+      "author": "LivelyLizzard",
+      "created": 1626845939,
+      "upvotes": 5,
+      "replies": {
+        "h604x60": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h604x60/",
+          "text": "> Also, you can work with your whole database while writing and just export the ones you actually cited as a separate file at the end.\n\nThis in particular pretty nifty. Thanks for sharing! I've looked into JabRef before but opted for Zotero because JabRef IIRC is a Java app (had a junk computer back then that'd choke on it) and it was a bit unwieldy for me when I tried it. Some of those features you can get through ZotFile and Better BibTeX, but the cited one I guess I'll need to write a script for it in my case (I have one big \"All\" collection and a couple others like \"software\", \"gender\", \"statistics\" that aren't my main focus but distinct enough topics to mark as a distinct subset).\n\nIn any case it's just great that we have _multiple_ great open source reference managers! They don't need to compete like sharks' babies in a sharks womb, and we get to pick and choose the best for each of us. And because they're FOSS, they're \"buy it for life\" apps.",
+          "author": null,
+          "created": 1626875906,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h5ywsuv": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ywsuv/",
+      "text": "You da real mvp OP",
+      "author": "7empest-tost",
+      "created": 1626845888,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h5ys1l8": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ys1l8/",
+      "text": "Seriously not a single mention for [Papers](https://www.papersapp.com/)? Made my PhD and published works much more manageable.",
+      "author": "Dathadorne",
+      "created": 1626842734,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h5yg234": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yg234/",
+      "text": "I'm one year into my masters and just started using Zotero, it has made my life SO much easier. I wish someone had told me about it earlier so I didn't have to suffer for that one year without it... I found I had multiple PDFs of the same article with different highlights on them that I had read for lit reviews and zotero just makes my laptop so much more organized. Not to mention, it makes creating my reference sheet 1000x easier instead of easybib-ing for HOURS like I had been doing before.",
+      "author": "m-r-s-e",
+      "created": 1626836356,
+      "upvotes": 2,
+      "replies": {
+        "h5yi6ze": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yi6ze/",
+          "text": "Maybe somewhat irrelevant but I wanted to say this. One of our older professors told us that back in her days of writing up theses on the typewriter, they'd have the references wrote up as little cards. When the time came to type up the bibliography, they'd sort the stack of cards and go through them, manually creating the bibliography.\n\nNow imagint typing up all of that, and finding you skipped one citation with a guy named Abercrombie... would rather not cite them than rewrite the whole bibliography, I suppose.",
+          "author": null,
+          "created": 1626837432,
+          "upvotes": 3,
+          "replies": {
+            "h5z1crs": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5z1crs/",
+              "text": "Wow, I never even considered what writing a reference sheet back in the typewriter days would be like...we truly have it so easy nowadays not even having to type the reference (never mind type it correctly on a typewriter)",
+              "author": "m-r-s-e",
+              "created": 1626849360,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5yfljt": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yfljt/",
+      "text": "Scite is also a cool extension you can add to zotero. It allows you to easily browse other papers citing the paper in your library, and can even tell you if those references are positive, negative, or neutral. I haven't had much use with it yet, but it's it seems like it has applications I may not have fully utilized yet.",
+      "author": "Bugsnatch",
+      "created": 1626836126,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h5yf0up": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yf0up/",
+      "text": "Zotero is THE best. Some more things it's good for:\n\n1) Has good plugins for reference styles. I'm in New Zealand and they even have the New Zealand Law Style Guide, which other reference managers didn't have when I needed it.\n\n2) So easy for collaborating, you just create groups for each project and share them using Zotero online. Endnote is a nightmare for that!!!!! Can not stress that enough. \n\n3) All your references are always synced if you set up the free online account, so nothing gets lost if something happens to your device, nothing gets corrupted etc. You can download zotero, log in and and open up your database on any computer in the space of like 2 mins.\n\nI don't use it for pdfs, but after years of using it for my own research and paid work as a research assistant I do now pay $20 per annum for extra storage for all those references.\n\nThanks for the tip on Trophy, never heard of it but will come in useful, starting an arts-informed project at the moment.",
+      "author": "Eventu568",
+      "created": 1626835829,
+      "upvotes": 5,
+      "replies": {
+        "h5yinct": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yinct/",
+          "text": "Good luck with the project!\n\nIt's easy to go to the project and add the translators (i.e. web importers) or styles. I started writing the LingBuzz importer and then got distracted for a few months before completing during my classes. Still, they were helpful and nice and we completed and added it recently, the whole experience  was nice and welcoming!",
+          "author": null,
+          "created": 1626837661,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h5y9ynu": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y9ynu/",
+      "text": "Yay!!! Another zotero user!!! Absolutely love it and have used it since undergrad. My PI tried to convert me to a citavi dude but I just don\u2019t like that format for organizing projects. \n\nFantastic post, OP.",
+      "author": "chemeazy97",
+      "created": 1626833333,
+      "upvotes": 6,
+      "replies": {
+        "h5yarkm": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yarkm/",
+          "text": "Thanks :)\n\nWith this type of software I believe open source is always the best option because it's guaranteed to stay around. Like in 40 years from now we'll still be using a reference manager, and with Zotero, if the people behind it stop developing it, someone else starts maintaining it and it keeps on existing. But companies go belly up all the time or get bought and absorbed and if they don't release code, you now have to find a new reference manager or even worse, all your data is just lost because they don't care to be helpful.",
+          "author": null,
+          "created": 1626833719,
+          "upvotes": 8,
+          "replies": {
+            "h5yc8ba": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yc8ba/",
+              "text": "You\u2019re 100% correct- open source is the way to go. I really wish Origin was open source \ud83d\ude2d. Im gonna miss it after im not a student.",
+              "author": "chemeazy97",
+              "created": 1626834438,
+              "upvotes": 3,
+              "replies": {
+                "h5ycf1t": {
+                  "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ycf1t/",
+                  "text": "What's Origin for? Maybe I or someone else would know an open alternative.",
+                  "author": null,
+                  "created": 1626834530,
+                  "upvotes": 1,
+                  "replies": {
+                    "h5ycr4k": {
+                      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ycr4k/",
+                      "text": "It\u2019s for data analysis :)Excel is good for basic functions, and maybe more but when it comes to calculating more advanced functions like peak area, full width at half maximum, and Gaussian/Lorentzian peak fitting, Origin is much better suited for the job.",
+                      "author": "chemeazy97",
+                      "created": 1626834700,
+                      "upvotes": 1,
+                      "replies": {
+                        "h5yml29": {
+                          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yml29/",
+                          "text": "Hmm, that's totally outside my comfort zone but I think maybe Jamovi can be a (partial) replacement? It's a GUI package built on top of R, but it's point and click like SPSS. There's also JASP which IIUC is similar but the UI is a bit different, maybe more SPSS like.\n\nhttps://www.jamovi.org/\nhttps://jasp-stats.org/",
+                          "author": null,
+                          "created": 1626839588,
+                          "upvotes": 2,
+                          "replies": {
+                            "h5zlna9": {
+                              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5zlna9/",
+                              "text": "Thanks! I\u2019ll look into it!",
+                              "author": "chemeazy97",
+                              "created": 1626864392,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "h5yn4vt": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yn4vt/",
+          "text": "I love citavi and have tried to get some lab mates on board. 0% success rate so far\u2026\n\nMuch love to your PI.",
+          "author": "AlbanySteamedHams",
+          "created": 1626839874,
+          "upvotes": 3,
+          "replies": {
+            "h5zlqiy": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5zlqiy/",
+              "text": "Haha well I think there is some bias because he is Swiss-German, but I\u2019ll admit it is a good program. Cheers!",
+              "author": "chemeazy97",
+              "created": 1626864462,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5y7se3": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y7se3/",
+      "text": "I chose to use Mendeley for a couple reasons\u2026I think Zotero had space limitations and no ability to annotate or even highlight PDFs in the past. Can anyone offer insights regarding memory space and/or annotations in Zotero? I\u2019ve seen conflicting outdated information.\n\nSince Elsevier bought Mendeley, I have been really interested in changing. Anyone know if I could import my library and notes from Mendeley to Zotero or would I have to start over from scratch?",
+      "author": "laughing-medusa",
+      "created": 1626832303,
+      "upvotes": 9,
+      "replies": {
+        "h5y96y8": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y96y8/",
+          "text": "[How do I import a Mendeley library into Zotero?](https://www.zotero.org/support/kb/mendeley_import) from the Zotero website.\n\nIt might be the online service of Zotero, which is totally optional, and the free tier has a limit IIRC. You can sync PDFs and config with something like Dropbox too tho, for no added cost. The online tool has some extra features around collaboration if I'm not mistaken but I never used it.",
+          "author": null,
+          "created": 1626832968,
+          "upvotes": 9,
+          "replies": {
+            "h5yhnca": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yhnca/",
+              "text": "Thanks for the link!",
+              "author": "laughing-medusa",
+              "created": 1626837165,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "h5ycsld": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ycsld/",
+          "text": "You can easily port your .pdf files but it's harder/possible costs money to decrypt your notes and export them from Mendeley into Zotero.\n\nAs for the notetaking ability, opening a file through Zotero opens it through your default .pdf viewer and writes directly onto the .pdf file. E.g. Adobe is opened and what I use to highlight when I click a Zotero entry bc that's my .pdf viewer. \n\nThey have more space available, for a price, but also link to dropbox, I think. Also, all their files are saved under a single directory, so, you can always back it up to an external drive. I believe the library size is unlimited though? Just not the file storage (Edit: checked and yeah, \"data syncing\" [i.e. library entry data] is free and unlimited w/ an account, and **free** \"file syncing\" [i.e. storing .pdf files for cloud access] is limited to 300MB)",
+          "author": "ctfogo",
+          "created": 1626834721,
+          "upvotes": 3,
+          "replies": {
+            "h5yhkeo": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yhkeo/",
+              "text": "So I edit through other programs, and I can save up to 300MB in the cloud. If I need more than that, I need to save locally or use yet another service. I guess since I need more than 300MB and Mendeley is currently free for me, I\u2019m having a hard time convincing myself to switch. \n\nMaybe I just haven\u2019t accepted the fact that I may not always have Mendeley for free/at all?",
+              "author": "laughing-medusa",
+              "created": 1626837120,
+              "upvotes": 2,
+              "replies": {
+                "h5yqlmb": {
+                  "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yqlmb/",
+                  "text": "Yeah, that's the main reason why I've switched to open source when I can, too. I know I'm not going academia so most subscriptions end when I'm out lol",
+                  "author": "ctfogo",
+                  "created": 1626841836,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "h5ysew2": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ysew2/",
+          "text": "Mendeley fucked my collection over by force merging my Mendeley account with all its references with my Elsev. account with the same email address. Without asking me. \n\nSo now I log in and have 0 references. \n\nFuck off, you sell out mendeley. I\u2019ll stick with zotero, thanks. \n\n(Zotero runs portably and can be installed without admin privileges, perfect for my 30 PC ecosystem that gets image flashed weekly.)",
+          "author": "BillyBuckets",
+          "created": 1626842965,
+          "upvotes": 1,
+          "replies": {
+            "h5yvgka": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yvgka/",
+              "text": "Don\u2019t know if you knew this, but I\u2019m not actually associated with Elsevier in any way and in fact just said I\u2019ve been wanting to move away from them.\n\nI was literally just sitting here working on my research paper lamenting the fact that I will need to switch as soon as I can afford a new computer\u2026but thanks for the \u201cfuck off\u201d and not actually responding to any of my questions.",
+              "author": "laughing-medusa",
+              "created": 1626844959,
+              "upvotes": 4,
+              "replies": {
+                "h5zpjm7": {
+                  "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5zpjm7/",
+                  "text": "Haha sorry I was just ranting at the first mendeley comment I could find. \n\nThe \u201cfuck off\u201d was directed toward elsevier, not you. \n\nYes, you can import a mendeley library to zotero. They have an import feature and a how-to posted on their website. I didn\u2019t need to import my library because elsevier wiped mine out, but if I had one I could export it from mendeley and import it to zotero easily. \n\nzotero doesn\u2019t come with all the bells and whistles that mendeley does, mostly the pdf annotation features. It does come with the ability to use another folder as your sync directory, like Dropbox or something, freeing you from any online storage restrictions (eg I use my work network drive for unlimited storage). Also the open source nature lends itself to lots of plugins; those are a nice perk as well. Plus, portable installs!\n\nSorry again if you thought the fuck off was meant for you. It was meant for the publishing behemoth Elsevier. I was a Mendeley day 1 supporter like 10 years ago and loved the product before the creators sold out and the product\u2019s spirit died.",
+                  "author": "BillyBuckets",
+                  "created": 1626867315,
+                  "upvotes": 3,
+                  "replies": {
+                    "h604871": {
+                      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h604871/",
+                      "text": "Thank you for this reply. Definitely understand your frustration about Elsevier. \n\nI\u2019m all for open source\u2014I wish it had a bit more to it, but I\u2019ll have to check out the plug ins!",
+                      "author": "laughing-medusa",
+                      "created": 1626875580,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h5y7ndp": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y7ndp/",
+      "text": "Seriously. I take part in a fair few writing workshops and groups at my uni and the two things I always recommend:\n\n1: a good citation manager - and take the time to organize it\n\nEdit: I use endnote because I get it free thru my university but for a free one, zotero is great\n\n2: use scrivener. It\u2019s not cheap but it\u2019s a 1-off payment, and keeps everything in one app but backed up in two places. But, like with the cm, it takes time. \n\nI had scriv for years and felt like I was driving a Ferrari in a 5mph zone so I took a week or two to look at blog posts by other academics who\u2019d used it for dissertations, and videos on how best to set it up for a humanities diss. \n\nSince talking that time, I use it far more to its full potential and it\u2019s GREAT. I can log in and know my work is saved, backed up, and in the proper order. Plus it works with citation managers and exports to word.",
+      "author": "coyotesandcrickets",
+      "created": 1626832237,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "h5y5pse": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y5pse/",
+      "text": "I forget why exactly I switched from Zotero, but I've been totally happy with Mendeley for quite a while. The importer extension for Chrome is super easy to use.",
+      "author": "kyew",
+      "created": 1626831334,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h5y4ssk": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y4ssk/",
+      "text": "I tried EndNote X9 and didn't like it. Would rather use firefox extensions that give me the APA citation quickly... like Google Scholar or EndNote Click.",
+      "author": "Ejszaka",
+      "created": 1626830904,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h5y4myr": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y4myr/",
+      "text": "Extra life pro tip: back up your reference manager files (and all files really) frequently!\n\nApparently Endnote, Mendeley, and possibly other softwares do not play nicely with cloud storage and auto backups. I had a scare recently where my entire library got corrupted, as did some of my backups. Nearly lost eight years of archived knowledge. Now I manually create backups and email myself the zip file every so often.",
+      "author": "heythereanydaythere",
+      "created": 1626830827,
+      "upvotes": 47,
+      "replies": {
+        "h5y8sza": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y8sza/",
+          "text": "This is where offline first stuff like Zotero shines. Everything is under ~/Zotero (data) and ~/.zotero (configs, extensions), which makes backups very easy.",
+          "author": null,
+          "created": 1626832788,
+          "upvotes": 27,
+          "replies": {
+            "h5ybjmx": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ybjmx/",
+              "text": "Also, your annotations are through your .pdf browser, whereas Mendeley's are encrypted and can only be opened w/ Mendeley",
+              "author": "ctfogo",
+              "created": 1626834098,
+              "upvotes": 12,
+              "replies": {
+                "h5yqp90": {
+                  "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yqp90/",
+                  "text": "I could see encryption being a point of interest for some privacy conscious users, but im guessing that in this case, with Mendeley, it's just to ensure vendor lock-in.",
+                  "author": "MurphysLab",
+                  "created": 1626841900,
+                  "upvotes": 4,
+                  "replies": {
+                    "h5yqy6q": {
+                      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yqy6q/",
+                      "text": "Yeah, it's mainly just to make porting your library over as hard and painful as possible. It's one thing to encrypt what you store for security purposes, it's another when you can't even access what is supposedly your data without trying 50 different hacks off google",
+                      "author": "ctfogo",
+                      "created": 1626842051,
+                      "upvotes": 4,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "h5ycbdt": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ycbdt/",
+              "text": "also you can pay an annual fee to the zotero people to keep stuff in the cloud. it's pretty reasonable, and good if you want to be able to access the content on multiple devices.",
+              "author": "justme909",
+              "created": 1626834481,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "h61083n": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h61083n/",
+              "text": "Just switched from mendeley to zotero on your recommendation. I don't have time for publisher drm bullshit on my own reference library, I'll get out while I can!\n\nOpen source all the way!",
+              "author": "RabidFroog",
+              "created": 1626889223,
+              "upvotes": 4,
+              "replies": {
+                "h6136zp": {
+                  "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h6136zp/",
+                  "text": "This really puts a smile on my face! Feel free to ask anything if you have difficulties. I may fail to help because I didn't use Mendeley before, but I may find some docs or someone else may help.\n\nLittle note: 3 essential extensions (imho): ZotFile, Better BibTeX, and zotxt if you want to intergrate with Emacs, Vim, Pandoc, etc.\n\nEnjoy!",
+                  "author": null,
+                  "created": 1626890442,
+                  "upvotes": 2,
+                  "replies": {
+                    "h62bess": {
+                      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h62bess/",
+                      "text": "Thanks for the tips - I'm really impressed with the chrome plugin already for importing papers. Does better bibtex allow automatically generating the bibtex?",
+                      "author": "RabidFroog",
+                      "created": 1626909847,
+                      "upvotes": 1,
+                      "replies": {
+                        "h62mqhg": {
+                          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h62mqhg/",
+                          "text": "Yup, when exporting, you have to pick \"Better BibTeX\" or \"Better BibLaTeX\" as the format, and tick the \"Keep updated\" box which appears when you do that.",
+                          "author": null,
+                          "created": 1626915450,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "h5yjkcq": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yjkcq/",
+              "text": "Yeah, I kept my Endnote library on Dropbox and worked offline often, and it still got corrupted. Not sure how Zotero works, but Endnote keeps a main \"library\" file and an associated \"data\" folder where is stores dozens of files associates with the library. Apparently if Dropbox or whatever your backup service is doesn't sync every single file every single time, it can get corrupted if they're not all associated with exactly the same library version.\n\nI mean, I'm not a computer expert. This may not be an issue for every reference manager, but it's worth knowing about the risk. Don't be like me. Back up your stuff appropriately.",
+              "author": "heythereanydaythere",
+              "created": 1626838121,
+              "upvotes": 2,
+              "replies": {
+                "h5yl840": {
+                  "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yl840/",
+                  "text": "Yeah, it's very important to make a distinction between Dropbox et al, which are more apt to call \"cloud sync software\" maybe, and backup software. They can very easily fail at dealing with many small files, create duplicates, mess up changes, etc.\n\nA simple way to do online backups separately from sync is [Duplicati](https://www.duplicati.com/). It's open source and it'll back up an encrypted, deduplicated archive of your files to wherever you choose. I have my most important stuff backed up for free on the 15G free space on Drive. I also have local backups using [Borg](https://www.borgbackup.org/). Duplicati is automatic, but limited to more important stuff. Borg is for all my files, and I run it once manually every day or so.",
+                  "author": null,
+                  "created": 1626838933,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h5y2pz2": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y2pz2/",
+      "text": "I have a question about Zotero that makes using it very confusing for me. It seems like it duplicates all of my PDFs in its own directory. I'd rather have all my PDFs in one place rather than different versions floating around, and I want to be able to annotate my PDFs on my computer and on a tablet. However Zotero seems to save all of the PDF files in a coded way that makes them impossible to find unless I open them with Zotero, which doesn't work on my tablet. What can I do about this? I really don't want to have separate PDFs, one that's annotated and one that's in Zotero, since it uses twice the storage space and is harder to manage. But I really want to be able to highlight and take notes directly on documents and have these notes be accessible through Zotero as well. Am I missing something? Any workarounds?",
+      "author": "biwei",
+      "created": 1626829902,
+      "upvotes": 11,
+      "replies": {
+        "h5y4qz5": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y4qz5/",
+          "text": "Look into a Zotero extension called ZotFile. It can be set up so that once a new document is added (or on demand) it gets renamed to a human-readable format (of your choosing) and moved to a preset directory of your choosing. This way you can easily edit with whatever software you want and can store your files in a Dropbox or similar folder to access and edit on your other devices.\nThe only tricky bit is if you want to use Zotero on multiple devices, because your reference information will sync with Zotero\u2019s service but not the files.",
+          "author": "theoinkypenguin",
+          "created": 1626830880,
+          "upvotes": 19,
+          "replies": {
+            "h6py2r6": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h6py2r6/",
+              "text": "Hey, thanks for this response. Zotfile works pretty well, and I also signed up to be a beta tester for the Zotero iOS app which is working even better so far. If you want to try it, you can sign up here: [https://www.zotero.org/iosbeta](https://www.zotero.org/iosbeta)",
+              "author": "biwei",
+              "created": 1627401824,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "h5y7dnh": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y7dnh/",
+              "text": "Thank you, I'll try this out.",
+              "author": "biwei",
+              "created": 1626832109,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "h5y9df1": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y9df1/",
+              "text": "Oh wow, I didn't know this either, thank you so much!",
+              "author": null,
+              "created": 1626833050,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "h5yylni": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yylni/",
+          "text": "Came here just to recommend Zotfile. I have a work flow set up where I use Zotero to organize references and Zotfile to send them to my iPad. Annotate everything on PDF Expert and use Zotfile to retrieve the annotated file back on my computer. Zotfile can even extract the annotations I have on a PDF and save it as a separate note under the parent object on Zotero. Then I don\u2019t even have to keep opening the PDF to check my notes.",
+          "author": "patrishaei",
+          "created": 1626847193,
+          "upvotes": 7,
+          "replies": {
+            "h6py4bk": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h6py4bk/",
+              "text": "Just FYI, Zotero is beta testing an iOS app: https://www.zotero.org/iosbeta",
+              "author": "biwei",
+              "created": 1627401843,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "h5yc58y": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yc58y/",
+          "text": "So, I feel your pain, but one way to solve this is by accessing exclusively through Zotero. Note: this is also at a university with a pretty good subscription base. By using the Zotero browser extension, you can save the .pdf directly to where Zotero would put it vs dragging it in from another folder and having Zotero duplicate it. Finding the physical file is then just a right click away. At this point, I really only download papers from Sci-hub separately from the Zotero extension.\n\nThis doesn't work so well for textbooks or other documents. I'm also going to be having a look at Zotfile, mentioned in the other reply",
+          "author": "ctfogo",
+          "created": 1626834397,
+          "upvotes": 6,
+          "replies": {
+            "h6py5qs": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h6py5qs/",
+              "text": "FYI, Zotero is beta testing an iOS app: https://www.zotero.org/iosbeta",
+              "author": "biwei",
+              "created": 1627401860,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5xz4c5": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xz4c5/",
+      "text": "Zotero literally saved my mental health last semester lol",
+      "author": "palebarista666",
+      "created": 1626828120,
+      "upvotes": 20,
+      "replies": {
+        "h5zv0f9": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5zv0f9/",
+          "text": "As someone with ADHD and all the associated organizational challenges I really don't know how I could have possibly finished my dissertation if reference managers didn't exist. It would have been a total disaster.",
+          "author": "YourWaterloo",
+          "created": 1626870798,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "h5xyyrl": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xyyrl/",
+      "text": "I can't believe I didn't know this was a thing! Thanks!!",
+      "author": "Famousinmyshower",
+      "created": 1626828042,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h5xxita": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xxita/",
+      "text": "Yep I was a doofus and did my Masters thesis without one despite our university providing endnote for free.  I had a masters student in my lab that I mentored later in my grad school experience who wouldn't update and I was like for the love of god please use it or you'll hate yourself like I did and she wouldn't do it.  I even offer a brief walkthrough for our incoming grad students on how to use and and some just won't adapt.",
+      "author": "Captainbackbeard",
+      "created": 1626827328,
+      "upvotes": 22,
+      "replies": {
+        "h5yk464": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yk464/",
+          "text": "Immediately took a day to learn it when I was writing my thesis. Completely worth it. So easy to keep track of everything.",
+          "author": "suckuma",
+          "created": 1626838403,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "h5yvjfc": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yvjfc/",
+          "text": "> Yep I was a doofus and did my Masters thesis without one \n\nOn this note, does anyone have any advice for retrofitting zotero (or any citation manager) to a paper that was written without one? Basically I have things cited in text like [1] or [1-4], but the only way Ive been able to implement zotero is going back and manually redoing every citation and it's a massive pain in the ass.",
+          "author": "MomoXono",
+          "created": 1626845014,
+          "upvotes": 2,
+          "replies": {
+            "h5ywqhl": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5ywqhl/",
+              "text": "I am not aware of a way to do that either because I had to go back through my stuff for when I wrote a manuscript off of my thesis and I didn't have any luck finding a solution online that worked for me.",
+              "author": "Captainbackbeard",
+              "created": 1626845841,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hd8cigc": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/hd8cigc/",
+          "text": "I came here looking for answers to \"what's the best?\" because I use Mendeley (I understand dislike of it but the in-program highlight and annotation works for me). I have Zotero, too. And Endnote Basic.\n\nThey all have different upsides and downsides to me.\n\nIn response to your comment- my advisor doesn't use one. He doesn't use a reference manager. Blows my mind.\nI didn't, for years but now I can't imagine.",
+          "author": "Antikythera22",
+          "created": 1631900036,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h5xxgy8": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xxgy8/",
+      "text": "Where has this been all my (academic) life? \nThank you!!!",
+      "author": "g-wenn",
+      "created": 1626827303,
+      "upvotes": 14,
+      "replies": {
+        "h5xy9mf": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xy9mf/",
+          "text": "You're welcome!",
+          "author": null,
+          "created": 1626827698,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h5xu2xi": {
+      "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xu2xi/",
+      "text": "I also recommend Zotero!! And everyone should use the note feature too so you don't have to revisit the paper multiple times every x months to know what's important about it (some papers won't scan and you won't have the abstract automatically uploaded in Zotero, so the note feature is useful for that!)",
+      "author": "methomz",
+      "created": 1626825642,
+      "upvotes": 104,
+      "replies": {
+        "h5xu85t": {
+          "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5xu85t/",
+          "text": "BTW I should mention, next version of Zotero, Zotero 6, will include an annotating PDF reader too. You can try it in the beta releases now.",
+          "author": null,
+          "created": 1626825713,
+          "upvotes": 63,
+          "replies": {
+            "h5y9chd": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5y9chd/",
+              "text": "COOL!!! Thanks.",
+              "author": "--ikindahatereddit--",
+              "created": 1626833038,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "h5yy6q5": {
+              "link": "/r/GradSchool/comments/oodqe3/use_a_reference_manager_friends/h5yy6q5/",
+              "text": "Whaaaat? Now this is cool",
+              "author": "patrishaei",
+              "created": 1626846883,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634067419
+}

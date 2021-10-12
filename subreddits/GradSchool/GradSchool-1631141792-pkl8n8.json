@@ -1,1 +1,49 @@
-{"sid": "pkl8n8", "link": "/r/GradSchool/comments/pkl8n8/question_does_anyone_know_of_a_scale_that_can/", "title:": "Question: Does anyone know of a scale that can measure mass vs. time?", "text": "Based on my experimental setup, I need to measure the transient mass increase as a function of time. I've seen a few scales here and there that have data acquisition capabilities , which is a bare minimum, but none of the scales I have come across have this capability.  \n\nNote: I have additional parameters that will be tracked against time, so I really need the mass measurements to align with the time domain of these parameters.", "author": "thicc_oatmeal", "created": 1631141792, "retrieved": 1632952762, "over_18": false, "upvotes": 2, "upvote_ratio": 0.75, "comments": {"hc4n5q9": {"link": "/r/GradSchool/comments/pkl8n8/question_does_anyone_know_of_a_scale_that_can/hc4n5q9/", "text": "Not seen one, but I\u2019m sure you could take a normal scale and wire it to a computer to do that. You could also use the tried and true method of setting an alarm. That method only costs the time of a graduate student, which I\u2019m told is worthless.", "author": "BoostMobileAlt", "created": 1631149416, "upvotes": 2}}}
+{
+  "sid": "pkl8n8",
+  "link": "/r/GradSchool/comments/pkl8n8/question_does_anyone_know_of_a_scale_that_can/",
+  "title:": "Question: Does anyone know of a scale that can measure mass vs. time?",
+  "text": "Based on my experimental setup, I need to measure the transient mass increase as a function of time. I've seen a few scales here and there that have data acquisition capabilities , which is a bare minimum, but none of the scales I have come across have this capability.  \n\nNote: I have additional parameters that will be tracked against time, so I really need the mass measurements to align with the time domain of these parameters.",
+  "author": "thicc_oatmeal",
+  "created": 1631141792,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "hc4n5q9": {
+      "link": "/r/GradSchool/comments/pkl8n8/question_does_anyone_know_of_a_scale_that_can/hc4n5q9/",
+      "text": "Not seen one, but I\u2019m sure you could take a normal scale and wire it to a computer to do that. You could also use the tried and true method of setting an alarm. That method only costs the time of a graduate student, which I\u2019m told is worthless.",
+      "author": "BoostMobileAlt",
+      "created": 1631149416,
+      "upvotes": 2,
+      "replies": {
+        "hc4tsoz": {
+          "link": "/r/GradSchool/comments/pkl8n8/question_does_anyone_know_of_a_scale_that_can/hc4tsoz/",
+          "text": "Lollllll, the second part hits diffy because it\u2019s true. \n\nYeah I guess I\u2019m hesitant to get my hands dirty like that. My experiment involves period acoustic pulses so I don\u2019t want to even want to try and imagine what it would take to sync both time scales together. \n\nThere\u2019s probably a Matlab script out already that does this, at least that\u2019s what I hope",
+          "author": "thicc_oatmeal",
+          "created": 1631152614,
+          "upvotes": 1,
+          "replies": {
+            "hc4wqyz": {
+              "link": "/r/GradSchool/comments/pkl8n8/question_does_anyone_know_of_a_scale_that_can/hc4wqyz/",
+              "text": "What time scale do you need? A TI board and labview will get you a long way. I\u2019m working with optical systems and sync lot of very fast processes this way.",
+              "author": "BoostMobileAlt",
+              "created": 1631154077,
+              "upvotes": 1,
+              "replies": {
+                "hc51fch": {
+                  "link": "/r/GradSchool/comments/pkl8n8/question_does_anyone_know_of_a_scale_that_can/hc51fch/",
+                  "text": "Something on the mg scale, say 0.0001g precision. It\u2019s a microfluidic system so the transient mass increase will be smol\n\nEdit: thanks for the suggestion btw, i would never have considered this route. I haven\u2019t touched labview since my undergrad so I\u2019m definitely intimidated by the learning curve",
+                  "author": "thicc_oatmeal",
+                  "created": 1631156493,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634065160
+}

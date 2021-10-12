@@ -1,1 +1,47 @@
-{"sid": "pwp0cx", "link": "/r/college/comments/pwp0cx/how_to_convert_word_documents_to_pdf/", "title:": "How to convert word documents to PDF?", "text": "I am a junior at a private university and I am currently applying for an internship as it\u2019s required to do an internship before I graduate. For this internship, I need to upload a resume and an essay in PDF form. I am struggling to figure out how to convert word documents into a PDF, as well as edit a PDF without  paying $14 a month for Adobe. I know it\u2019s not much money, but as a broke college student who is paying a lot of money to go here, I really don\u2019t want to have to do that. I was wondering if anyone knows of any free PDF programs?", "author": "Some_Firefighter_170", "created": 1632772275, "retrieved": 1632945538, "over_18": false, "upvotes": 4, "upvote_ratio": 0.83, "comments": {"hej5v9o": {"link": "/r/college/comments/pwp0cx/how_to_convert_word_documents_to_pdf/hej5v9o/", "text": "I prefer the \"Save As\" method that's already been shared here, but if that fails, you should be able to go to the Print tab, and then set the printer to \"Microsoft Print to PDF\" (assuming you're using a Windows machine). Hit \"Print\" and it should let you save the file as a PDF to a folder of your choosing.", "author": "SavCItalianStallion", "created": 1632786462, "upvotes": 1}, "heifsgu": {"link": "/r/college/comments/pwp0cx/how_to_convert_word_documents_to_pdf/heifsgu/", "text": "In Microsoft Word, click File, then Save As, and then in the File Format bar there should be an option for PDF.  Type in whatever name you want for the file and hit enter, and you're done!\n\nSmall tip - choose a file name that doesn't have any spaces or punctuation marks in it, because sometimes computers have a hard time handling files with characters like that in the name.  So instead of calling your resume file Some Firefighter's Resume.pdf, call it Some\\_Firefighter\\_Resume.pdf\n\nGood luck.", "author": "ChemMJW", "created": 1632774158, "upvotes": 3}, "heif0c7": {"link": "/r/college/comments/pwp0cx/how_to_convert_word_documents_to_pdf/heif0c7/", "text": "I use word doc and just go to \u201csave as\u201d then the button where it says .doc below file name. Click on that and it should say pdf and hit save. Also I think you can literally do save as then filename.pdf", "author": "ThicccPanta", "created": 1632773807, "upvotes": 4}}}
+{
+  "sid": "pwp0cx",
+  "link": "/r/college/comments/pwp0cx/how_to_convert_word_documents_to_pdf/",
+  "title:": "How to convert word documents to PDF?",
+  "text": "I am a junior at a private university and I am currently applying for an internship as it\u2019s required to do an internship before I graduate. For this internship, I need to upload a resume and an essay in PDF form. I am struggling to figure out how to convert word documents into a PDF, as well as edit a PDF without  paying $14 a month for Adobe. I know it\u2019s not much money, but as a broke college student who is paying a lot of money to go here, I really don\u2019t want to have to do that. I was wondering if anyone knows of any free PDF programs?",
+  "author": "Some_Firefighter_170",
+  "created": 1632772275,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.83,
+  "comments": {
+    "hej5v9o": {
+      "link": "/r/college/comments/pwp0cx/how_to_convert_word_documents_to_pdf/hej5v9o/",
+      "text": "I prefer the \"Save As\" method that's already been shared here, but if that fails, you should be able to go to the Print tab, and then set the printer to \"Microsoft Print to PDF\" (assuming you're using a Windows machine). Hit \"Print\" and it should let you save the file as a PDF to a folder of your choosing.",
+      "author": "SavCItalianStallion",
+      "created": 1632786462,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "heifsgu": {
+      "link": "/r/college/comments/pwp0cx/how_to_convert_word_documents_to_pdf/heifsgu/",
+      "text": "In Microsoft Word, click File, then Save As, and then in the File Format bar there should be an option for PDF.  Type in whatever name you want for the file and hit enter, and you're done!\n\nSmall tip - choose a file name that doesn't have any spaces or punctuation marks in it, because sometimes computers have a hard time handling files with characters like that in the name.  So instead of calling your resume file Some Firefighter's Resume.pdf, call it Some\\_Firefighter\\_Resume.pdf\n\nGood luck.",
+      "author": "ChemMJW",
+      "created": 1632774158,
+      "upvotes": 3,
+      "replies": {
+        "heifxjw": {
+          "link": "/r/college/comments/pwp0cx/how_to_convert_word_documents_to_pdf/heifxjw/",
+          "text": "Thank you I\u2019m going to try this!!",
+          "author": "Some_Firefighter_170",
+          "created": 1632774221,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "heif0c7": {
+      "link": "/r/college/comments/pwp0cx/how_to_convert_word_documents_to_pdf/heif0c7/",
+      "text": "I use word doc and just go to \u201csave as\u201d then the button where it says .doc below file name. Click on that and it should say pdf and hit save. Also I think you can literally do save as then filename.pdf",
+      "author": "ThicccPanta",
+      "created": 1632773807,
+      "upvotes": 4,
+      "replies": {}
+    }
+  },
+  "updated": 1634056010
+}

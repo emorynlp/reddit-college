@@ -1,1 +1,57 @@
-{"sid": "pkxor5", "link": "/r/GradSchool/comments/pkxor5/how_to_group_bibliography_references_by_type_in/", "title:": "How to group bibliography references by type in Mendeley?", "text": "I could use a bit of help. My university requires that references in the bibliography be sorted by type: book, journal, web, etc. I've been searching but I'm only finding results for grouping references in Mendeley desktop, not the bibliography itself. Am I missing something obvious? Do I need to find a new citation style?", "author": "silk186", "created": 1631193660, "retrieved": 1632952739, "over_18": false, "upvotes": 3, "upvote_ratio": 1.0, "comments": {"hc8vfsl": {"link": "/r/GradSchool/comments/pkxor5/how_to_group_bibliography_references_by_type_in/hc8vfsl/", "text": "This is really odd. I don't do mendeley, but in zotero you can manually add a medium/format for the citation. Maybe keep all you different types of references in different folders them creat your biblio from there? Or creat separate documents with just the citations added and make the biblio\n\nNo matter what there is gonna be manual entry and sorting.", "author": "Pr0gr3s", "created": 1631231166, "upvotes": 1}, "hc6vqjw": {"link": "/r/GradSchool/comments/pkxor5/how_to_group_bibliography_references_by_type_in/hc6vqjw/", "text": "this is off the top of my head and sounds tedious (also assumes you are using LaTeX or something similar), but as far as I remember, you can create .bib files per group and not per the whole library in the settings, so one approach would be to separate books/articles/etc into folders and export separate .bib files for each of those and then use those in your documents sequentially? if you're using the Word plug-in, sorry, no idea :(", "author": "Competitive-House202", "created": 1631201026, "upvotes": 2}}}
+{
+  "sid": "pkxor5",
+  "link": "/r/GradSchool/comments/pkxor5/how_to_group_bibliography_references_by_type_in/",
+  "title:": "How to group bibliography references by type in Mendeley?",
+  "text": "I could use a bit of help. My university requires that references in the bibliography be sorted by type: book, journal, web, etc. I've been searching but I'm only finding results for grouping references in Mendeley desktop, not the bibliography itself. Am I missing something obvious? Do I need to find a new citation style?",
+  "author": "silk186",
+  "created": 1631193660,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hc8vfsl": {
+      "link": "/r/GradSchool/comments/pkxor5/how_to_group_bibliography_references_by_type_in/hc8vfsl/",
+      "text": "This is really odd. I don't do mendeley, but in zotero you can manually add a medium/format for the citation. Maybe keep all you different types of references in different folders them creat your biblio from there? Or creat separate documents with just the citations added and make the biblio\n\nNo matter what there is gonna be manual entry and sorting.",
+      "author": "Pr0gr3s",
+      "created": 1631231166,
+      "upvotes": 1,
+      "replies": {
+        "hcf1yn7": {
+          "link": "/r/GradSchool/comments/pkxor5/how_to_group_bibliography_references_by_type_in/hcf1yn7/",
+          "text": "Mendeley tracks reference type so it should be possible. I will look into options with folders. I can do it manually but it is 50 pages worth of references.",
+          "author": "silk186",
+          "created": 1631353579,
+          "upvotes": 1,
+          "replies": {
+            "hcftd9k": {
+              "link": "/r/GradSchool/comments/pkxor5/how_to_group_bibliography_references_by_type_in/hcftd9k/",
+              "text": "Oof, yeah 50 pages will suck. At least it is aorta mindless?\n\nDoes mendeley actually pull reference type when you add citations from the browser plugin? I found a field for reference type in zotero but none of the sources I samples had any data there, so I'm assuming reference type isn't included in the meta-data, but doe your sake I hope I'm wrong!",
+              "author": "Pr0gr3s",
+              "created": 1631370999,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hc6vqjw": {
+      "link": "/r/GradSchool/comments/pkxor5/how_to_group_bibliography_references_by_type_in/hc6vqjw/",
+      "text": "this is off the top of my head and sounds tedious (also assumes you are using LaTeX or something similar), but as far as I remember, you can create .bib files per group and not per the whole library in the settings, so one approach would be to separate books/articles/etc into folders and export separate .bib files for each of those and then use those in your documents sequentially? if you're using the Word plug-in, sorry, no idea :(",
+      "author": "Competitive-House202",
+      "created": 1631201026,
+      "upvotes": 2,
+      "replies": {
+        "hc6w1jh": {
+          "link": "/r/GradSchool/comments/pkxor5/how_to_group_bibliography_references_by_type_in/hc6w1jh/",
+          "text": "Sadly, I did not learn how to use LaTeX so I was hoping that some function would be built into Mendeley.",
+          "author": "silk186",
+          "created": 1631201154,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634066355
+}

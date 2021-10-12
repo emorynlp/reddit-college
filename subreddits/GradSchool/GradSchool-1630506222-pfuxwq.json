@@ -1,1 +1,360 @@
-{"sid": "pfuxwq", "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/", "title:": "I'm releasing a roommate app to end all roommate apps.", "text": "Throughout the last couple of years living with friends, the biggest issues I've always had were people forgetting to do their chores or pay me back for bills. As much as I loved the guys I lived with they frustrated me sooo much because of these issues. I decided that I'm going to be proactive about it and channel my frustration into something productive. Because of all this, I spent the last 2 months building a roommate app from scratch. It's not much that I feel like it's pretty good so far. There is still some testing I have to do so I'm not launching it just yet. I'm going to launch it this Sunday. I'll add a link in the description on Sunday and create another post describing the app in more detail.\n\nI'll answer any questions you guys may have below.\n\nTL;DR - I had cruddy roommates for years, built an app to split chores and bills, releasing the app here on Sunday.\n\n&#x200B;\n\nUpdate: \\*3 Days Remaining\\* Hey everyone, app testing is running smoothly. The team and I haven't run into any major bugs and everything in the app seems to be working great. We still have a bunch of the app to still go through but it looks like we're still on track to release this Sunday at 8 AM Eastern Standard Time.\n\nUpdate: \\*2 Days Remaining\\* Good news everyone! The bug fixes are going smoothly, we're also in the process of adding a few suggestions a few of you guys PM'd us. We're still on track to get it all done by Sunday 9 AM\n\nUpdate: \\*1 Day Remaining\\* Great news everyone! We just have a few minor bugs remaining and we've successfully added all the features. The app will officially be releasing tomorrow at Sunday 9 AM New York Time.\n\n**Update Post Explaining WeDivvy -** [Update Post](https://www.reddit.com/r/GradSchool/comments/pibr7y/update_release_of_the_roommate_app_to_end_all/)\n\n**WeDivvy App Store URL -** [**https://apps.apple.com/us/app/wedivvy/id1570700094**](https://apps.apple.com/us/app/wedivvy/id1570700094)\n\n**WeDivvy Play Store URL** \\- Coming Soon", "author": "Heathermohl", "created": 1630506222, "retrieved": 1632845147, "over_18": false, "upvotes": 82, "upvote_ratio": 0.85, "comments": {"hbsddue": {"link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbsddue/", "text": "RemindMe! 1 week", "author": "_thenotsodarkknight_", "created": 1630917086, "upvotes": 1}, "hba9ful": {"link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hba9ful/", "text": "!Remindme 6 days", "author": "Keysersoze_66", "created": 1630562845, "upvotes": 1}, "hb9777p": {"link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb9777p/", "text": "Imterested", "author": "Due_Minute", "created": 1630542395, "upvotes": 1}, "hb8iz2d": {"link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb8iz2d/", "text": "Following!", "author": "insubstantialsh", "created": 1630530657, "upvotes": 1}, "hb7jjkm": {"link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7jjkm/", "text": "every innovation is born from the identification of a pressing and unfilled need", "author": "nickyfrags69", "created": 1630516141, "upvotes": 4}, "hb7fwxp": {"link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7fwxp/", "text": "Have you heard of Splitwise?\n\nThere's also a mathematical solution to something called cake-cutting, which is how to fairly divide up pleasant or unpleasant things, that might be of interest to you.", "author": "Linearts", "created": 1630514672, "upvotes": 6}, "hb7b223": {"link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7b223/", "text": "Modern problems require modern solutions.\n\n*insert meme*", "author": "tpat247", "created": 1630512700, "upvotes": 9}, "hb7arhf": {"link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7arhf/", "text": "I've stopped buying the \"forgetting\" angle when it comes to paying you back. They're mostly just hoping you forgot", "author": "notcallipygian", "created": 1630512579, "upvotes": 21}, "hb7apbs": {"link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7apbs/", "text": "Is it compatible with Swiss francs?", "author": "ArguablyCanadian", "created": 1630512553, "upvotes": 3}, "hb6x2jz": {"link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb6x2jz/", "text": "Commenting to follow how this story unfolds.. nothing like cruddy roommates to motivate innovation", "author": "lipophilicburner", "created": 1630506932, "upvotes": 34}}}
+{
+  "sid": "pfuxwq",
+  "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/",
+  "title:": "I'm releasing a roommate app to end all roommate apps.",
+  "text": "Throughout the last couple of years living with friends, the biggest issues I've always had were people forgetting to do their chores or pay me back for bills. As much as I loved the guys I lived with they frustrated me sooo much because of these issues. I decided that I'm going to be proactive about it and channel my frustration into something productive. Because of all this, I spent the last 2 months building a roommate app from scratch. It's not much that I feel like it's pretty good so far. There is still some testing I have to do so I'm not launching it just yet. I'm going to launch it this Sunday. I'll add a link in the description on Sunday and create another post describing the app in more detail.\n\nI'll answer any questions you guys may have below.\n\nTL;DR - I had cruddy roommates for years, built an app to split chores and bills, releasing the app here on Sunday.\n\n&#x200B;\n\nUpdate: \\*3 Days Remaining\\* Hey everyone, app testing is running smoothly. The team and I haven't run into any major bugs and everything in the app seems to be working great. We still have a bunch of the app to still go through but it looks like we're still on track to release this Sunday at 8 AM Eastern Standard Time.\n\nUpdate: \\*2 Days Remaining\\* Good news everyone! The bug fixes are going smoothly, we're also in the process of adding a few suggestions a few of you guys PM'd us. We're still on track to get it all done by Sunday 9 AM\n\nUpdate: \\*1 Day Remaining\\* Great news everyone! We just have a few minor bugs remaining and we've successfully added all the features. The app will officially be releasing tomorrow at Sunday 9 AM New York Time.\n\n**Update Post Explaining WeDivvy -** [Update Post](https://www.reddit.com/r/GradSchool/comments/pibr7y/update_release_of_the_roommate_app_to_end_all/)\n\n**WeDivvy App Store URL -** [**https://apps.apple.com/us/app/wedivvy/id1570700094**](https://apps.apple.com/us/app/wedivvy/id1570700094)\n\n**WeDivvy Play Store URL** \\- Coming Soon",
+  "author": "Heathermohl",
+  "created": 1630506222,
+  "over_18": false,
+  "upvotes": 82,
+  "upvote_ratio": 0.85,
+  "comments": {
+    "hbsddue": {
+      "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbsddue/",
+      "text": "RemindMe! 1 week",
+      "author": "_thenotsodarkknight_",
+      "created": 1630917086,
+      "upvotes": 1,
+      "replies": {
+        "hbsslw9": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbsslw9/",
+          "text": "Hi! You don\u2019t have to be reminded the app is already out :)\nLink in description",
+          "author": "Heathermohl",
+          "created": 1630929887,
+          "upvotes": 1,
+          "replies": {
+            "hbswhz3": {
+              "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbswhz3/",
+              "text": "Haha, yeah I saw that, thank you! I was actually waiting for the playstore version as an android user :p",
+              "author": "_thenotsodarkknight_",
+              "created": 1630932332,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hba9ful": {
+      "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hba9ful/",
+      "text": "!Remindme 6 days",
+      "author": "Keysersoze_66",
+      "created": 1630562845,
+      "upvotes": 1,
+      "replies": {
+        "hba9heh": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hba9heh/",
+          "text": "I will be messaging you in 6 days on [**2021-09-08 06:07:25 UTC**](http://www.wolframalpha.com/input/?i=2021-09-08%2006:07:25%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hba9ful/?context=3)\n\n[**1 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FGradSchool%2Fcomments%2Fpfuxwq%2Fim_releasing_a_roommate_app_to_end_all_roommate%2Fhba9ful%2F%5D%0A%0ARemindMe%21%202021-09-08%2006%3A07%3A25%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20pfuxwq)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "author": "RemindMeBot",
+          "created": 1630562878,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hbofw3x": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbofw3x/",
+          "text": "The app is called WeDivvy and is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+          "author": "Heathermohl",
+          "created": 1630843917,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hc38dhp": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hc38dhp/",
+          "text": "!Remindme 6 days",
+          "author": "Keysersoze_66",
+          "created": 1631125890,
+          "upvotes": 1,
+          "replies": {
+            "hc38fal": {
+              "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hc38fal/",
+              "text": "I will be messaging you in 6 days on [**2021-09-14 18:31:30 UTC**](http://www.wolframalpha.com/input/?i=2021-09-14%2018:31:30%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hc38dhp/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FGradSchool%2Fcomments%2Fpfuxwq%2Fim_releasing_a_roommate_app_to_end_all_roommate%2Fhc38dhp%2F%5D%0A%0ARemindMe%21%202021-09-14%2018%3A31%3A30%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20pfuxwq)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+              "author": "RemindMeBot",
+              "created": 1631125911,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hb9777p": {
+      "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb9777p/",
+      "text": "Imterested",
+      "author": "Due_Minute",
+      "created": 1630542395,
+      "upvotes": 1,
+      "replies": {
+        "hb97r4j": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb97r4j/",
+          "text": "I\u2019ll let ya know!",
+          "author": "Heathermohl",
+          "created": 1630542628,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hbofv78": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbofv78/",
+          "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+          "author": "Heathermohl",
+          "created": 1630843899,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hb8iz2d": {
+      "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb8iz2d/",
+      "text": "Following!",
+      "author": "insubstantialsh",
+      "created": 1630530657,
+      "upvotes": 1,
+      "replies": {
+        "hb8kp56": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb8kp56/",
+          "text": "Great! I\u2019ll be posting updates!",
+          "author": "Heathermohl",
+          "created": 1630531434,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hbofuy4": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbofuy4/",
+          "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+          "author": "Heathermohl",
+          "created": 1630843894,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hb7jjkm": {
+      "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7jjkm/",
+      "text": "every innovation is born from the identification of a pressing and unfilled need",
+      "author": "nickyfrags69",
+      "created": 1630516141,
+      "upvotes": 4,
+      "replies": {
+        "hb7jx5g": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7jx5g/",
+          "text": "This is very true :)",
+          "author": "Heathermohl",
+          "created": 1630516296,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hbofu7r": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbofu7r/",
+          "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+          "author": "Heathermohl",
+          "created": 1630843880,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hb7fwxp": {
+      "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7fwxp/",
+      "text": "Have you heard of Splitwise?\n\nThere's also a mathematical solution to something called cake-cutting, which is how to fairly divide up pleasant or unpleasant things, that might be of interest to you.",
+      "author": "Linearts",
+      "created": 1630514672,
+      "upvotes": 6,
+      "replies": {
+        "hb7g3qq": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7g3qq/",
+          "text": "Yep, I tried to find an app that could help me and that was one of the ones I found. I didn\u2019t like it, it was clunky, cluttered, and didn\u2019t everything I felt it should\n\nI actually never heard about cake cutting I\u2019ll search it up that\u2019s sounds like an interesting concept",
+          "author": "Heathermohl",
+          "created": 1630514748,
+          "upvotes": 5,
+          "replies": {
+            "hb7lkwm": {
+              "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7lkwm/",
+              "text": "Check out https://en.wikipedia.org/wiki/Fair_cake-cutting",
+              "author": "Linearts",
+              "created": 1630516968,
+              "upvotes": 2,
+              "replies": {
+                "hb7ltgq": {
+                  "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7ltgq/",
+                  "text": "Thank you I\u2019ll check it out!",
+                  "author": "Heathermohl",
+                  "created": 1630517064,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "hbofty2": {
+                  "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbofty2/",
+                  "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+                  "author": "Heathermohl",
+                  "created": 1630843876,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hboftq3": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hboftq3/",
+          "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+          "author": "Heathermohl",
+          "created": 1630843871,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hb7b223": {
+      "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7b223/",
+      "text": "Modern problems require modern solutions.\n\n*insert meme*",
+      "author": "tpat247",
+      "created": 1630512700,
+      "upvotes": 9,
+      "replies": {
+        "hb7b40c": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7b40c/",
+          "text": "Very true. Very true",
+          "author": "Heathermohl",
+          "created": 1630512721,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hbofth4": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbofth4/",
+          "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+          "author": "Heathermohl",
+          "created": 1630843866,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hb7arhf": {
+      "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7arhf/",
+      "text": "I've stopped buying the \"forgetting\" angle when it comes to paying you back. They're mostly just hoping you forgot",
+      "author": "notcallipygian",
+      "created": 1630512579,
+      "upvotes": 21,
+      "replies": {
+        "hb7avuj": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7avuj/",
+          "text": "I mean I can\u2019t speak for all cases but idk, it would be hard to believe that my friends are like that but I can definitely see that happening with others",
+          "author": "Heathermohl",
+          "created": 1630512628,
+          "upvotes": 5,
+          "replies": {
+            "hb7xe7z": {
+              "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7xe7z/",
+              "text": "It might not be that calculated, but continuous \"forgetting\" gives some insight into how important the issue is to them.",
+              "author": "Matterials",
+              "created": 1630521809,
+              "upvotes": 4,
+              "replies": {
+                "hb7xpal": {
+                  "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7xpal/",
+                  "text": "Yea I guess you can say that. It is frustrating because I\u2019ve always paid bills the second they were requested in our group chat so I never understood why others didn\u2019t do the same. But this app really eliminates all excuses as roommate will keep getting reminders to pay and you can just sit back and relax",
+                  "author": "Heathermohl",
+                  "created": 1630521939,
+                  "upvotes": 6,
+                  "replies": {}
+                },
+                "hboft74": {
+                  "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hboft74/",
+                  "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+                  "author": "Heathermohl",
+                  "created": 1630843861,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hbofsxs": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbofsxs/",
+          "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+          "author": "Heathermohl",
+          "created": 1630843856,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hb7apbs": {
+      "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7apbs/",
+      "text": "Is it compatible with Swiss francs?",
+      "author": "ArguablyCanadian",
+      "created": 1630512553,
+      "upvotes": 3,
+      "replies": {
+        "hb7arj5": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7arj5/",
+          "text": "It\u2019s actually completely free!",
+          "author": "Heathermohl",
+          "created": 1630512580,
+          "upvotes": 3,
+          "replies": {
+            "hb7fpct": {
+              "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7fpct/",
+              "text": "I think the question was, does it work for bills in foreign currency.",
+              "author": "Linearts",
+              "created": 1630514588,
+              "upvotes": 6,
+              "replies": {
+                "hb7fvd2": {
+                  "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb7fvd2/",
+                  "text": "Oh shoot! Yes it does :)",
+                  "author": "Heathermohl",
+                  "created": 1630514654,
+                  "upvotes": 4,
+                  "replies": {}
+                },
+                "hbofupe": {
+                  "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbofupe/",
+                  "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+                  "author": "Heathermohl",
+                  "created": 1630843890,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hbofug6": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbofug6/",
+          "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+          "author": "Heathermohl",
+          "created": 1630843885,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hb6x2jz": {
+      "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb6x2jz/",
+      "text": "Commenting to follow how this story unfolds.. nothing like cruddy roommates to motivate innovation",
+      "author": "lipophilicburner",
+      "created": 1630506932,
+      "upvotes": 34,
+      "replies": {
+        "hb6xdnr": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hb6xdnr/",
+          "text": "Thanks for following! Necessity is the mother of innovation :)",
+          "author": "Heathermohl",
+          "created": 1630507061,
+          "upvotes": 9,
+          "replies": {}
+        },
+        "hbofsmh": {
+          "link": "/r/GradSchool/comments/pfuxwq/im_releasing_a_roommate_app_to_end_all_roommate/hbofsmh/",
+          "text": "The app is now available!\nhttps://apps.apple.com/us/app/wedivvy/id1570700094",
+          "author": "Heathermohl",
+          "created": 1630843849,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634065130
+}

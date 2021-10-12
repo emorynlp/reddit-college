@@ -1,1 +1,40 @@
-{"sid": "ius8to", "link": "/r/CollegeMajors/comments/ius8to/engineeringphysicscs/", "title:": "Engineering/Physics/CS?", "text": "Help! I'm a freshman in college and I'm still very unsure what I want to major in. I'm currently listed as an electrical engineer because it's harder to transfer into the engineering college than out, but the four majors I'm considering are electrical engineering, physics, aerospace engineering, and computer science. My issue is that my interests are kind of spread out across these four things- I'm really interested in robotics, astronomy, quantum mechanics, machine learning, and electromagnetism. When looking at the curriculum, physics seems most interesting to me, but it sounds like a lot of physics majors get really specialized PhDs but then just work for some software dev or finance company. Also, although I love learning about physics, I'm not sure I'd enjoy pure physics research as much as I would the problem solving aspect of engineering or R&D. On the flip side, CS and aero majors bore me (CS bc there's not much science, aero bc I don't like mechanics/thermodynamics), but they could both lead to really interesting careers in machine learning or space robotics. EE seems almost as interesting as physics, but once again it sounds like I wouldn't actually use a lot of the physics I'd learn and might just end up doing low level programming (which is not as interesting to me as ML/complex algorithms). Anyone with more experience in these fields have any advice? Sorry this is so long.\n\nEdit: To clarify, I plan on going to grad school to get either a masters of PhD, regardless of what I major in.", "author": "quasar_1618", "created": 1600376220, "retrieved": 1632957347, "over_18": false, "upvotes": 6, "upvote_ratio": 1.0, "comments": {"g5rw92w": {"link": "/r/CollegeMajors/comments/ius8to/engineeringphysicscs/g5rw92w/", "text": "If you're interested in ML and algorithms, I would recommend looking into computer science, or maybe compsci - math. I'm curious as to what you mean by saying that you're interested in machine learning but think CS would be boring because \"there isn't much science.\" This is true, CS is more like a math and programming degree mixture, but if you choose your electives well, you could do a lot of machine learning type stuff.", "author": "BetUrProcrastinating", "created": 1600483458, "upvotes": 1}}}
+{
+  "sid": "ius8to",
+  "link": "/r/CollegeMajors/comments/ius8to/engineeringphysicscs/",
+  "title:": "Engineering/Physics/CS?",
+  "text": "Help! I'm a freshman in college and I'm still very unsure what I want to major in. I'm currently listed as an electrical engineer because it's harder to transfer into the engineering college than out, but the four majors I'm considering are electrical engineering, physics, aerospace engineering, and computer science. My issue is that my interests are kind of spread out across these four things- I'm really interested in robotics, astronomy, quantum mechanics, machine learning, and electromagnetism. When looking at the curriculum, physics seems most interesting to me, but it sounds like a lot of physics majors get really specialized PhDs but then just work for some software dev or finance company. Also, although I love learning about physics, I'm not sure I'd enjoy pure physics research as much as I would the problem solving aspect of engineering or R&D. On the flip side, CS and aero majors bore me (CS bc there's not much science, aero bc I don't like mechanics/thermodynamics), but they could both lead to really interesting careers in machine learning or space robotics. EE seems almost as interesting as physics, but once again it sounds like I wouldn't actually use a lot of the physics I'd learn and might just end up doing low level programming (which is not as interesting to me as ML/complex algorithms). Anyone with more experience in these fields have any advice? Sorry this is so long.\n\nEdit: To clarify, I plan on going to grad school to get either a masters of PhD, regardless of what I major in.",
+  "author": "quasar_1618",
+  "created": 1600376220,
+  "over_18": false,
+  "upvotes": 6,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "g5rw92w": {
+      "link": "/r/CollegeMajors/comments/ius8to/engineeringphysicscs/g5rw92w/",
+      "text": "If you're interested in ML and algorithms, I would recommend looking into computer science, or maybe compsci - math. I'm curious as to what you mean by saying that you're interested in machine learning but think CS would be boring because \"there isn't much science.\" This is true, CS is more like a math and programming degree mixture, but if you choose your electives well, you could do a lot of machine learning type stuff.",
+      "author": "BetUrProcrastinating",
+      "created": 1600483458,
+      "upvotes": 1,
+      "replies": {
+        "g5txpsc": {
+          "link": "/r/CollegeMajors/comments/ius8to/engineeringphysicscs/g5txpsc/",
+          "text": "Thanks for your help! What I mean is that while I'm interested in ML (specifically computer vision & robotics), the rest of CS (discrete math, algorithms, web development, etc) doesn't really interest me. I'm more interested in learning about physics. I guess the issue is that CS seems like it could lead to an interesting job in ML, but engineering and physics classes are more interesting to me.",
+          "author": "quasar_1618",
+          "created": 1600533169,
+          "upvotes": 1,
+          "replies": {
+            "g5wcn46": {
+              "link": "/r/CollegeMajors/comments/ius8to/engineeringphysicscs/g5wcn46/",
+              "text": "fortunately for CS, all of that background stuff you need to take isn't the whole major. Most people I know finish their prerequisite classes (intro, discrete math, data structures, etc.) sophomore year, and spend junior and senior year doing their track specialty. But yeah, if you're interested in physics and engineering, CS has nothing like that.",
+              "author": "BetUrProcrastinating",
+              "created": 1600564011,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634060267
+}

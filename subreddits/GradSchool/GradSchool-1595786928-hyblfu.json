@@ -1,1 +1,207 @@
-{"sid": "hyblfu", "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/", "title:": "Advice on Reading Scientific Papers", "text": "Hi everyone! A few months ago (in the pre-COVID times) I started writing a resource article on how to read scientific papers. I asked this sub for paper reading tips you would give to new graduate students, and I got some really thoughtful and detailed responses. \n\nAnyway, I finally got around to publishing the article and thought I would share it here in hopes that people will find it helpful. Thanks again to this great community for your input!\n\n[https://graduatedebris.com/how-to-read-scientific-papers/](https://graduatedebris.com/how-to-read-scientific-papers/)", "author": "JDL-PhD", "created": 1595786928, "retrieved": 1632953838, "over_18": false, "upvotes": 408, "upvote_ratio": 0.99, "comments": {"fzf4aea": {"link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzf4aea/", "text": "Great article, thanks for writing and sharing. Does anyone have tips to help stay focused when reading a particularly dense paper? I find that my mind wanders and it can take me a long time to get through even a paragraph. I know some of this just comes down to discipline but I'm just wondering if anyone has experience improving here...", "author": "BrotherBringTheSun", "created": 1595868360, "upvotes": 2}, "fzetrsu": {"link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzetrsu/", "text": "Nicely written. \n\nI encourage you to add a paragraph about making your own comparison of the discussion, and the stated results and conclusion, to the actual data.  In my experience, as the discussion proceeds, and you get to results and conclusion, they are no longer supported by the data. The authors make conclusions that are simply not supported by the data they present. This happens more often than you might realize. \n\nI also encourage you to add a paragraph about communicating with the authors if you have questions. Authors rarely mind receiving an email with questions from readers, and they are often very pleased that someone has actually read their paper.", "author": "RainInTheWoods", "created": 1595863317, "upvotes": 2}, "fzdqu7x": {"link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzdqu7x/", "text": "Thank you! I'm actually working on writing a research paper at the moment, and this was really helpful! \n\nA bit of a question: Is the introduction the same as an abstract or is this slightly different? I think I've seen both on some research papers and was just wondering how this might be included. From what you said about the introduction though, it sounds like an abstract.\n\nThanks again!", "author": null, "created": 1595832996, "upvotes": 1}, "fzd79jw": {"link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzd79jw/", "text": "Just now putting together my article reading styles and habits, this is actually not a bad primer, much better than 90% of other stuff I've found out there.", "author": "Anasoori", "created": 1595818114, "upvotes": 1}, "fzccm2z": {"link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzccm2z/", "text": "This is amazing thank you for putting this together! I took a graduate level food chemistry class and the entire course was reading multiple scientific papers for each class period and having round table discussions about them. This would\u2019ve been helpful for that but I can\u2019t wait to pass this along to the new graduate students coming into my program!", "author": "foodgeek19", "created": 1595800071, "upvotes": 4}, "fzcaq9k": {"link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzcaq9k/", "text": "Thanks for your work! I'm going to look into these paper organization apps you recommend. I've been using Dochub which does allow me to highlight, scribble, and add text to PDFs. But it's not a smooth process at all.", "author": "lacroixluva", "created": 1595799068, "upvotes": 5}, "fzc3q8w": {"link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzc3q8w/", "text": "> if you force a reader go down a rabbit hole of citations in order to find what you did, then you\u2019re actively impeding that process. \n\nPreach!!", "author": "frickin_laser_beam", "created": 1595795392, "upvotes": 149}, "fzc3bvt": {"link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzc3bvt/", "text": "I love this! Reading papers is something I still struggle with to some degree, and this would've been a great guide for me when I started grad school. I'm sharing it with my lab group, and the professor who teaches our \"how to be a grad student\" class.", "author": "biopython", "created": 1595795182, "upvotes": 15}, "fzc2uv7": {"link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzc2uv7/", "text": "I found when I had to read lots of papers for classes killing the trees was the best way to do it.  Highlighting and taking notes directly on the paper helped me to be able to bring up comments and questions in class. I would say if there are graphs, or data charts, take a few moments to skim them as you can get a lot of information about the results from them.", "author": "94sHippie", "created": 1595794931, "upvotes": 60}, "fzbx19k": {"link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzbx19k/", "text": "Good write-up.\n\nBit of minor feedback: you have the organization section up twice", "author": "emptyblankcanvas", "created": 1595791900, "upvotes": 20}}}
+{
+  "sid": "hyblfu",
+  "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/",
+  "title:": "Advice on Reading Scientific Papers",
+  "text": "Hi everyone! A few months ago (in the pre-COVID times) I started writing a resource article on how to read scientific papers. I asked this sub for paper reading tips you would give to new graduate students, and I got some really thoughtful and detailed responses. \n\nAnyway, I finally got around to publishing the article and thought I would share it here in hopes that people will find it helpful. Thanks again to this great community for your input!\n\n[https://graduatedebris.com/how-to-read-scientific-papers/](https://graduatedebris.com/how-to-read-scientific-papers/)",
+  "author": "JDL-PhD",
+  "created": 1595786928,
+  "over_18": false,
+  "upvotes": 408,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "fzf4aea": {
+      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzf4aea/",
+      "text": "Great article, thanks for writing and sharing. Does anyone have tips to help stay focused when reading a particularly dense paper? I find that my mind wanders and it can take me a long time to get through even a paragraph. I know some of this just comes down to discipline but I'm just wondering if anyone has experience improving here...",
+      "author": "BrotherBringTheSun",
+      "created": 1595868360,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fzetrsu": {
+      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzetrsu/",
+      "text": "Nicely written. \n\nI encourage you to add a paragraph about making your own comparison of the discussion, and the stated results and conclusion, to the actual data.  In my experience, as the discussion proceeds, and you get to results and conclusion, they are no longer supported by the data. The authors make conclusions that are simply not supported by the data they present. This happens more often than you might realize. \n\nI also encourage you to add a paragraph about communicating with the authors if you have questions. Authors rarely mind receiving an email with questions from readers, and they are often very pleased that someone has actually read their paper.",
+      "author": "RainInTheWoods",
+      "created": 1595863317,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fzdqu7x": {
+      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzdqu7x/",
+      "text": "Thank you! I'm actually working on writing a research paper at the moment, and this was really helpful! \n\nA bit of a question: Is the introduction the same as an abstract or is this slightly different? I think I've seen both on some research papers and was just wondering how this might be included. From what you said about the introduction though, it sounds like an abstract.\n\nThanks again!",
+      "author": null,
+      "created": 1595832996,
+      "upvotes": 1,
+      "replies": {
+        "fzemvyf": {
+          "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzemvyf/",
+          "text": "Ah! Great question! The abstract and introduction are slightly different. \n\nThe abstract is a condensed summary of the entire paper, encompassing intro/background, methods, key results, and conclusions / impact. The abstract is meant to be a standalone blurb that someone can read to quickly learn what your paper is about and what you found. This is also the bit that people can see when searching your paper in databases like PubMed or Google Scholar.\n\nIn contrast, the introduction will go into much more detail on background, previous work in the field, etc. it\u2019s geared toward people who have committed to reading your paper, and it\u2019s the place where you really make your case for the question/hypothesis is that you aim to test.\n\nThanks for bringing this up! I may update my article to add a section about the abstract.",
+          "author": "JDL-PhD",
+          "created": 1595859787,
+          "upvotes": 2,
+          "replies": {
+            "fzezcfp": {
+              "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzezcfp/",
+              "text": "Okay, thank you! Great article btw :)",
+              "author": null,
+              "created": 1595865982,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fzd79jw": {
+      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzd79jw/",
+      "text": "Just now putting together my article reading styles and habits, this is actually not a bad primer, much better than 90% of other stuff I've found out there.",
+      "author": "Anasoori",
+      "created": 1595818114,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fzccm2z": {
+      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzccm2z/",
+      "text": "This is amazing thank you for putting this together! I took a graduate level food chemistry class and the entire course was reading multiple scientific papers for each class period and having round table discussions about them. This would\u2019ve been helpful for that but I can\u2019t wait to pass this along to the new graduate students coming into my program!",
+      "author": "foodgeek19",
+      "created": 1595800071,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "fzcaq9k": {
+      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzcaq9k/",
+      "text": "Thanks for your work! I'm going to look into these paper organization apps you recommend. I've been using Dochub which does allow me to highlight, scribble, and add text to PDFs. But it's not a smooth process at all.",
+      "author": "lacroixluva",
+      "created": 1595799068,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "fzc3q8w": {
+      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzc3q8w/",
+      "text": "> if you force a reader go down a rabbit hole of citations in order to find what you did, then you\u2019re actively impeding that process. \n\nPreach!!",
+      "author": "frickin_laser_beam",
+      "created": 1595795392,
+      "upvotes": 149,
+      "replies": {
+        "fzcgusr": {
+          "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzcgusr/",
+          "text": ">Details of the actual protocol used can be found on the fifth page of a supplemental pdf that is linked to 4/7ths of the way down on the internet version this article",
+          "author": "AlbanySteamedHams",
+          "created": 1595802362,
+          "upvotes": 29,
+          "replies": {}
+        },
+        "fzdebcj": {
+          "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzdebcj/",
+          "text": "I once read a paper that said \"we used the same weights for the Lanczos filter as paper X.\" So I went to read paper X, and nowhere were the numbers available in any way, shape, or form. They weren't even co authors of even remotely affiliated so it wasn't shared internally. It left me on a wild goose chaise for days before I said fuck it and did it my own way.",
+          "author": "shapoopy723",
+          "created": 1595822762,
+          "upvotes": 15,
+          "replies": {}
+        },
+        "fzewyw9": {
+          "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzewyw9/",
+          "text": "I did my best when writing my masters thesis to include copious details in the methods for exactly this reason. Sometimes the rabbit hole doesn\u2019t have anything at the bottom! But I am finding now that I am writing my thesis into manuscripts that my coauthors *cough* supervisors *cough* are actively discouraging my inclusion of detailed methods. I am cutting down details about how to do what I did for the sake of brevity and readability in the methods! Madness!",
+          "author": "blackbelliedplover",
+          "created": 1595864847,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "fzc3bvt": {
+      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzc3bvt/",
+      "text": "I love this! Reading papers is something I still struggle with to some degree, and this would've been a great guide for me when I started grad school. I'm sharing it with my lab group, and the professor who teaches our \"how to be a grad student\" class.",
+      "author": "biopython",
+      "created": 1595795182,
+      "upvotes": 15,
+      "replies": {
+        "fzca7bf": {
+          "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzca7bf/",
+          "text": "So glad you found it helpful! And I hope your labmates get some use out of it. \ud83d\ude0a",
+          "author": "JDL-PhD",
+          "created": 1595798790,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "fzc2uv7": {
+      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzc2uv7/",
+      "text": "I found when I had to read lots of papers for classes killing the trees was the best way to do it.  Highlighting and taking notes directly on the paper helped me to be able to bring up comments and questions in class. I would say if there are graphs, or data charts, take a few moments to skim them as you can get a lot of information about the results from them.",
+      "author": "94sHippie",
+      "created": 1595794931,
+      "upvotes": 60,
+      "replies": {
+        "fzc9z50": {
+          "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzc9z50/",
+          "text": "Yeah, I definitely like being able to take notes directly on figures etc! I tried this on an iPad for a while, but it\u2019s a lot clunkier than pen and paper.",
+          "author": "JDL-PhD",
+          "created": 1595798672,
+          "upvotes": 23,
+          "replies": {
+            "fzcbvrf": {
+              "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzcbvrf/",
+              "text": "I\u2019m so glad I\u2019m not the only one who feels this way. I cannot read on a computer or Handheld device. Especially at home in the Covid times.",
+              "author": "juicykeyboard",
+              "created": 1595799684,
+              "upvotes": 19,
+              "replies": {}
+            },
+            "fzdctxq": {
+              "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzdctxq/",
+              "text": "Hey, just asking... did you try margin note or liquid text?",
+              "author": "owlswell_11",
+              "created": 1595821727,
+              "upvotes": 2,
+              "replies": {
+                "fzem1v8": {
+                  "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzem1v8/",
+                  "text": "I actually haven\u2019t heard of either of those. Have you used them?",
+                  "author": "JDL-PhD",
+                  "created": 1595859324,
+                  "upvotes": 1,
+                  "replies": {
+                    "fzenovp": {
+                      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzenovp/",
+                      "text": "Yes. And they are awesome for research. Annotating papers, taking notes section wise. Check those out. Both the apps have a one-time payment, and if you have to chose one - I suggest margin note 3.",
+                      "author": "owlswell_11",
+                      "created": 1595860227,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "fzdfori": {
+          "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzdfori/",
+          "text": "This is why I really like Mendeley. I also like to print things and highlight/write on them, but I feel like that wastes a lot of paper. On Mendeley, papers open in the application, and you can highlight/write on the paper and it\u2019ll save. You can also change the color of the highlighter, which is really useful for me bc I highlight each figure in a different color and use that color whenever something pertaining to that figure is mentioned in the text.",
+          "author": "hollysblues",
+          "created": 1595823749,
+          "upvotes": 8,
+          "replies": {}
+        }
+      }
+    },
+    "fzbx19k": {
+      "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzbx19k/",
+      "text": "Good write-up.\n\nBit of minor feedback: you have the organization section up twice",
+      "author": "emptyblankcanvas",
+      "created": 1595791900,
+      "upvotes": 20,
+      "replies": {
+        "fzbxncy": {
+          "link": "/r/GradSchool/comments/hyblfu/advice_on_reading_scientific_papers/fzbxncy/",
+          "text": "Eek! Thanks for the feedback. Fixed!",
+          "author": "JDL-PhD",
+          "created": 1595792215,
+          "upvotes": 11,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634065184
+}

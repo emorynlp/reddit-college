@@ -1,1 +1,651 @@
-{"sid": "i4yui1", "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/", "title:": "I lost 2 years' worth of research because I didn't back up my data.", "text": "The title says it all.. \n\nI don't know how to process this right now, and I'm still holding out hope it's just all a bad dream.\n\nI've been doing astronomy research for the past 2 years, and thus had 2 years' worth of data, code, images, graphs, etc. on the computer in my office, until a couple days ago, when the computers just randomly stopped working.\n\nAt the time I thought it was just a minor issue, so I contacted the IT department to ask for help. I wasn't too pissed tbh, and I actually used this time to take a much needed break. \n\nYesterday they got back to me, and apparently what happened was IT did something to reboot all the computers on campus, and somehow something went wrong for my computer, which meant that it went into \"don't touch me I'm scared\" mode, and they told me the only way to fix it is to reformat my computer and wipe the hard drives clean so it can do a clean restart.\n\nThey haven't done it yet, because they're waiting for my ok to go ahead and wipe everything, but I can't bring myself to do it, because I'd lose 2 years' worth of work and basically have to start from scratch. \n\nI already know people are gonna say \"why didn't you back up your files,\" and in hindsight I definitely should've done it, but it just never crossed my mind (funny thing is, on my to do list, I actually have \"upload xyz files to Google drive\" scheduled for next Wednesday). I have some stuff backed up, like a couple graphs and python files here and there, but a large chunk of my work will definitely be lost.\n\nThe projects that I was working on were almost done, but now it seems like I'll have to start all over again. I don't know how to feel or what to do right now. Has anyone experienced similar issues before?\n\nPSA: ALWAYS BACK UP YOUR FILES!\n\nEdit: The reason I gave it to the IT dept. and didn't try to fix it on my own is because we're not allowed to mess with the computers without their permission.\n\nUpdate: The IT dept. at my school is very overworked and understaffed right now, so I have 2 options. I can either let them \"try\" to recover the data that I have, and have the computer back in a couple months (wtf), or I could just let them wipe everything clean and have it back in a week before school starts again. Honestly, I'm leaning towards the latter, since I'm really short on time on a couple projects atm, and although it sucks, I can definitely get most of what I need back since me and my adviser have the core of what we need saved (thank God). I really would rather not go through this, but I can't go a couple months without using that computer for my research. Now excuse me while I go get some intoxicants of my choice to end the week off :)", "author": "ZachTheYek", "created": 1596743508, "retrieved": 1632953727, "over_18": false, "upvotes": 477, "upvote_ratio": 0.98, "comments": {"g17ahxp": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g17ahxp/", "text": "OP don't format your drive until you get that data back. I dont want to be that person but if I were you I would get some screw drivers and a SATA to usb cable. Remove your ssd and connect them to some laptop and you would have access to all of your data. If this is a mac drive then you would need some software to read it from windows, but nothing too complicated. Worst case worst is that the drive is actually damaged and you would have to buy some drive recovery software (these were around $40 last time I needed one).\n\nPopping out an SSD and then putting everything back is much easier than you think. This is 2 years worth of data so atleast give that a shot.", "author": "gonzoid_i", "created": 1597229634, "upvotes": 1}, "g0wlxjy": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0wlxjy/", "text": "github is your friend for next time. there's no reason to have code source files floating around your hard disk without making them a proper github repository", "author": "colddarkstar", "created": 1596991475, "upvotes": 1}, "g0uo7qe": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0uo7qe/", "text": "Hey, I know this is a a few days old, but I work in IT, working on my MSIT, and worked for my University's IT department during my undergrad. I agree with the others saying not to let them touch it. Feel free to reach out about how to recover the data from your hard drive :)", "author": "breadmaster95", "created": 1596939046, "upvotes": 1}, "g0p77o0": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0p77o0/", "text": "Boot into a Linux via USB like Ubuntu and see what\u2019s on the hard drive .\n\nDO NOT BOOT FROM THE HARDDRIVE AT ALL.\n\nLike people are saying, it could be the OS got corrupted, but in all honesty, people in IT can put on a shit show.\n\nBoot in via Linux ON A BOOTABLE USB (GOOGLE IT), and try to explore the harddrive. If the harddrive it failing, this is the best way to recover. Make sure to have another usb(or usb harddrive) JUST IN CASE.", "author": "Roers75", "created": 1596820343, "upvotes": 1}, "g0p2voo": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0p2voo/", "text": "I second the recommendations to use Linux. If you can get tour hands on a Linux PC than you might be able to just copy all of your data into a hard drive from a Linux PC.", "author": "ElGalloN3gro", "created": 1596818319, "upvotes": 1}, "g0p011b": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0p011b/", "text": "I used to work for IT at my college, we definitely would tell white lies to people sometimes esp when we were understaffed. Try everything you can before wiping everything.", "author": "downvoticator", "created": 1596816967, "upvotes": 2}, "g0ojwua": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0ojwua/", "text": "Save those hard drives!!! Someone might be able to recover your data!", "author": "jburkek", "created": 1596809998, "upvotes": 1}, "g0of475": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0of475/", "text": "If you have too hire a forensic IT person. It is worth the time.", "author": "King_Freedom", "created": 1596807887, "upvotes": 1}, "g0o9qiz": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0o9qiz/", "text": "Boot it up using a linux live key and pull the data off. I have done it for HPLC computers that went into the same mode. Will take a day at most. Shoot me a PM if you want me to walk you through step by step.", "author": "Molecular_model_guy", "created": 1596805448, "upvotes": 1}, "g0o9akw": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0o9akw/", "text": "Do not wipe it. The OS failed and your data is still there. Try to contact Apple to get it repaired. If the disk is removable you can plug it in to another computer and then use recuva or silimar software to recover all your data.", "author": "darktahmi21", "created": 1596805240, "upvotes": 1}, "g0o30sn": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0o30sn/", "text": "I worked High ed IT for 10 years so let me offer some suggestions. \n\n1. From looking at the ifixit guide for the imax (2019) I know we wouldn't have done that much work on a machine to remove the hard drive. Ask IT if there is Apple care for the machine and if so use it to have Apple service the machine. IF you can remove the hard drive (it isn't soldered which it might be) and IF filevault isn't turned on you should be able to recover the data barring a mechanical failure\n2. You many want to try and see if there is an IT policy regarding data storage, if there is a policy that mandates cloud storage and you aren't using it they may push back.\n3. Ask to escalate to a Tier 2 or 3 engineer to look at the machine and can spend more time on it. If you can't escalate through IT channels escalate through academic channels. IT in Higher ed is to support the faculty and researchers so a request from a senior member on the academic side will be given a lot of weight unless the request is completely unreasonable. It sounds like in this situation since there is the possibility of losing 2 years worth of data some more time spent from IT would be good. I did deal with this situation from a faculty member who lost 20 years of data but it was a mechanical failure of the drive (they knocked it over) and they didn't have anything backed up so they lost everything. Their department and IT was not willing to spend money on a data recovery service (which are really expensive if recovering from hardware damage, software recovery is pretty cheap)\n\nPersonal anecdote. While in undergrad I lost around 6 months of working during my last semester during portfolio review (art degree) and had to rebuilt most of it from scratch. I had some final cuts saved on DVD and that was it. Now all my data is backed up in 2 different cloud providers, 3 way mirror on my local machine and one of the cloud providers backs up automatically to a local NAS that has a pair of redundant hard drives in it. Both cloud providers auto version my documents, code is also sent to visual studio online code repository and local GIT repository so I have that handled as well. I am in grad school now and I'm not going to watch my data disappear like last time. I will say my solution is actually pretty cheap (about $25 a month for both cloud services) and is almost fully automated which is the other important part. If your backup plan is manual you will forget, or get busy and you will loose something. Failures happen, plan for them.", "author": "Trakeen", "created": 1596802256, "upvotes": 1}, "g0o2zuk": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0o2zuk/", "text": "Do as others have said, and worst case scenario if they wipe all your data if I remember correctly there\u2019s a software called Recuva that goes into the drive and finds files that may have remained in the disk even if they were deleted. But obviously I can\u2019t promise anything, just try it on another computer first!", "author": "mdr7", "created": 1596802242, "upvotes": 1}, "g0noxr7": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0noxr7/", "text": "You can remove the hard drives and find a solution for them later on.\n\nIf they are broken -> hard drive recovery companies.\n\nIf they aren\u2019t broken -> plug in another PC to recover data.", "author": null, "created": 1596791312, "upvotes": 2}, "g0ng27a": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0ng27a/", "text": "\"Lol while I go get hammered to ignore my problems\". Dude just pull the drive, connect to another computer and copy the files like everyone is saying.", "author": null, "created": 1596782777, "upvotes": 2}, "g0nfeae": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0nfeae/", "text": "Please don't let anyone format it. I'm willing to work with you one on one to recover the data", "author": "Anasoori", "created": 1596782204, "upvotes": 2}, "g0naqpq": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0naqpq/", "text": "Lose no hope!  \n\n\nCheck r/datarecovery, I'm pretty sure they can help you. Once I managed to retrieve all of my data using [TestDisk](https://www.cgsecurity.org/) after I've had supposedly wiped my disk clean and messed up the partitioning system because I was trying to configure a dual boot.\n\nAlso if it's 2 years worth of research, why not pay for a company to assist you? I'm pretty sure there is someone somewhere to help you; all is not lost.\n\nAsk the IT if they can block the access of the computer just for you in the meantime.", "author": "Verredevinrouge", "created": 1596778432, "upvotes": 2}, "g0n9kmk": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n9kmk/", "text": "You could still access the data on the hard drive and there are ways to do this. I\u2019m not an IT expert but there are definitely data recovery services that you can hire.\n\nDo talk to the IT department of your school though because from the way you described it, it sounds like the computer is your school's property, if you remove the hard drive yourself you could get into legality issues.", "author": "Whereishumhum-", "created": 1596777542, "upvotes": 2}, "g0n8nf9": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n8nf9/", "text": "We all have times when we aren't thinking clearly. Right now, that's you. The IT department of your school did a very bad job of wording their email to you (causing your brain to melt from panic), or they're just completely inept (because plugging the drive into another computer to get the data is extremely basic).\n\nIn a nutshell\u2026\n\n**Doesn't boot \u2260 Data is lost.**\n\nSince you're dealing with macs, you can go to the nearest Apple store and ask them to help you get the data. From the sound of it, you do *not* need \"data recovery.\" That's for when the hard drive is actually damaged, the data is actually corrupted, or the files are actually deleted. In your case, it sounds like all that happened was a clumsy update pushed by your IT department made it so that your computer won't boot anymore. Messing up the files your computer needs to boot is not the same as ruining the hard drive, nor does it mean the rest of the files on the drive were affected at all. Indeed, this is why the IT department wants to just format the drives instead of replace them.\n\nAnyway, like I said, you (very probably) don't need what is referred to as \"data recovery.\" What you need to tell them is that the computer won't boot and you need help getting the files off. If you can, bring an external hard drive to make it easy for them. You might be able to just buy one while you're there, but they might not have it in stock. If your data doesn't take up a ton of space, then you can probably just have them upload to your Google Drive account.\n\n**Another option:** Buy an external hard drive kit, remove the drives from the computer (or have someone do this for you), stick them in the kit, then connect to any mac. Get the data you need. Then, return the hard drives to the computer.\n\nThis is not a difficult procedure at all! External hard drive kits might sound complicated, but it's no exaggeration to describe them as being no more difficult than \"Put the round peg in the round hole and the square peg in the square hole.\" Seriously, there are two wires that will connect from the kit to the drive, and you can just look at the shape of the connectors to see where they connect. Piece of cake!\n\n**The bottom line is that it sounds like your data can be _easily_ recovered.** Hell, if you happen to live in NYC and want help or hand-holding, then I'll come do it for/with you! Just let me know. :)\n\nP.S. File sync (Dropbox, Google Drive, etc) \u2260 File backup (Backblaze, IDrive, etc)! I recommend taking a look at Wirecutter's human-friendly guide to _properly_ [backing up computers](https://www.nytimes.com/wirecutter/reviews/how-to-back-up-your-computer/).", "author": "SquareBottle", "created": 1596776866, "upvotes": 10}, "g0n857n": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n857n/", "text": "If you follow the advice of other (I didn't read all the comments so you may have already done this) and you get ahold of the hard drive, you should give this program a try. It has worked wonders for many in the past.\n\nhttps://www.grc.com/sr/spinrite.htm\n\nSteve Gibson is the creator of this program. You can read about him here if you want to know more. https://en.m.wikipedia.org/wiki/Steve_Gibson_(computer_programmer)\n\nIt might be worth a try.", "author": "blightwixer", "created": 1596776495, "upvotes": 1}, "g0n7jwx": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n7jwx/", "text": "**DO NOT WIPE THE DRIVE!!!**", "author": "ArkFreestyle", "created": 1596776074, "upvotes": 3}, "g0n6niw": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n6niw/", "text": "Can you buy a new hard drive and swap with them?  Seems ridiculous they wont give you the drive.  Then youd have the drive to recover the data when you can and the computer back in week.", "author": "asanano", "created": 1596775447, "upvotes": 1}, "g0n3cmo": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n3cmo/", "text": "A few points:\n\n(1) Since this is a Mac, you may want to go to the Apple Store Genius Bar to see if they can help you. They could at least physically remove the drive and try to access the data.\n\n(2) Are you sure that your drives were not remotely backed-up by your IT department? If they have the computers locked down - \"we're not allowed to mess with the computers without their permission\" - they should have remote back-up software installed. Your data may be out there somewhere without your knowledge.\n\nGood luck!", "author": "krmilstead", "created": 1596773225, "upvotes": 3}, "g0mzrm1": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mzrm1/", "text": "Stop listening to your IT department. They clearly do not know what they're talking about. Go to a higher up and explain the situation. Bring someone who understands computer hardware who can argue your case.  \n\nThis sounds like a very basic IT scenario with a solution that could take as little as 10 - 15 minutes to solve. Your IT department is likely screwing you around.", "author": "HoboWithAGlock", "created": 1596771019, "upvotes": 1}, "g0mz8lr": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mz8lr/", "text": "Can't be worse than double sabotage.  I became the target of a disgruntled grad student who late one night unplugged a freezer, removed everyone's samples but mine and destroyed over two years of experiments.  That incident was buried like so many prior and to follow because expulsion would have spelled disaster for my PI's impending patent which the bully had been working on.  My experiments represented a deepening replication crisis which would have forced a paper retraction and embarrassment, so for my PI their convenient destruction made a lot of his problems go away.", "author": "shindleria", "created": 1596770708, "upvotes": 1}, "g0myh52": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0myh52/", "text": "BITCH DONT GIVE UP NOW. FIGHT FOR YOUR DAMNED DATA. JUST BE DAMNED IF YOU HAVE TO BE THAT ASSHOLE THAT'S OVERWORKING THE IT PEOPLE.", "author": "yourfoodiate", "created": 1596770247, "upvotes": 8}, "g0mx3yf": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mx3yf/", "text": "This happened to me almost word for word.  They took the drive out of my old mac, put it in a new mac that had it's own drive able to boot itself and were able to recover all my data. Didn't lose a thing.", "author": "Arminius2436", "created": 1596769415, "upvotes": 2}, "g0mvjvs": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mvjvs/", "text": "Not to make jokes but the cast of The IT Crowd sounds more competent than your campus IT.\n\nEasiest step to take: Find the computational astronomy guys in your department. I'm quite confident just plugging your drive into their linux machines and under their supervision will immediately let you mount the drives and copy them into a healthy drive.", "author": "awhead", "created": 1596768464, "upvotes": 1}, "g0mur6t": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mur6t/", "text": "This happened to my mom. Unfortunately she wasn't able to recover her stuff and ended up rewriting her code/other stuff, but the silver lining is that she said she did it better the second time around. Hopefully you get your stuff back though!", "author": "starfries", "created": 1596767990, "upvotes": 1}, "g0mtzuc": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mtzuc/", "text": "Had something similar happen before. I usually wouldn\u2019t promote them, but Best Buy geek squad was able to recover more than half my lost data. And, it only took a couple days. It\u2019s worth a shot!", "author": "GulfCoastFlamingo", "created": 1596767533, "upvotes": 1}, "g0mtwde": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mtwde/", "text": "DO NOT wipe the drive. Get a new one for the new install and take that one out of the case. Plug it into a working computer and you can probably get some if not most/all data, and then the computer will be nice and fresh with a new hard drive anyway.", "author": "KYR3LL", "created": 1596767475, "upvotes": 1}, "g0mr8b6": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mr8b6/", "text": "If you really need a computer right now, why can't they just lend you another one while they work on your original one? Even if it's a slow one or not ideal in some way, using that for a couple months would be way better than not having a computer or having TWO YEARS of data wiped.\n\nIf you let them wipe it so you can have a computer today, you're losing two years of data just so you can have two months of future work. Not a good deal, especially considering that you can get at least SOME work done if they just lend you some old reject computer they have lying around.", "author": "pb-pretzels", "created": 1596765887, "upvotes": 1}, "g0mqnqr": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mqnqr/", "text": "Even if the ssd is physically broken, you might be able to recover it. Ask them to install new drive and get the old one. There are professional services available", "author": "The_ZMD", "created": 1596765547, "upvotes": 1}, "g0mpaap": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mpaap/", "text": "If it makes you feel any better, you could lose two years worth of data and probably still graduate faster than me J.", "author": "ExtendedDeadline", "created": 1596764725, "upvotes": 1}, "g0momle": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0momle/", "text": "Sometimes I email myself things, maybe you have sent around your papers?", "author": "Rigs515", "created": 1596764329, "upvotes": 1}, "g0mna88": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mna88/", "text": "Is it possible to put the HD in a different computer as as secondary and pull the files off?", "author": "Lord_Blackthorn", "created": 1596763513, "upvotes": 1}, "g0mjbdz": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mjbdz/", "text": "I\u2019m sorry. That incredibly sucks. \n\nI lost two months of work and data my first semester in grad school and cried. A lot.", "author": "Psyche81", "created": 1596761192, "upvotes": 2}, "g0mieeq": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mieeq/", "text": "I highly recommend [BACKBLAZE](https://secure.backblaze.com/r/00107c)! It will passively back up everything on your computer as well as any attached devices like external hard drives. It makes things way easier and gives me peace of mind.", "author": "MercuriousPhantasm", "created": 1596760703, "upvotes": 2}, "g0mgksn": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mgksn/", "text": "Similar thing happened to me $300dollardatarecovery.com recovered 99.9% of my 4TB drive.", "author": "rabousle", "created": 1596759704, "upvotes": 1}, "g0mdmp6": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mdmp6/", "text": "If you value this data send the drive to Drivesavers. They are second to none in data recovery. Don't take this to some fly by night shop or continue to stress the drive out. I have sent soooooo many customer drives to DS, they are incredible. They will pay for overnight shipping and do a free estimate within just a few days. If you use my vendor code **DS29526**  they will give you 10% off. They are expensive, but for important data worth every penny and they usually can turn the recovery around in a week.\n\n&#x200B;\n\n[https://drivesaversdatarecovery.com/](https://drivesaversdatarecovery.com/)\n\n&#x200B;\n\nGood Luck.\n\n##", "author": "rawl28", "created": 1596758020, "upvotes": 2}, "g0mcskh": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mcskh/", "text": "Seems like you've already got great advice so I won't add to that. Just want to put this info here for anyone else that may come across this:\n\n1. Many universities offer free cloud storage (usually OneDrive, Box, or Dropbox). Use it! \n\n2. You should use some form of version control software (e.g. git) if you're writing code. GitHub has free hosting and many universities also pay for private repos.\n\n3. As what has already been said, you can recover data from a hard drive. If it's incredibly important, don't format it. Try to recover it before giving up. \n\n4. If you spill water on electronics, remove any power cables and batteries. Dry it off as best as you can and then take a vacuum to it. Let it dry out for as long as you can (at least 24 hours)  to make sure that any residual water dries. Do not use rice because it will get more debris in the computer.", "author": "thingythangabang", "created": 1596757528, "upvotes": 6}, "g0m687z": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m687z/", "text": "I've had a similar thing happen to me for a computer at home. Is there a way you can connect the hard drive to another computer and look at it, similar to an external drive? I did this and was able to recover my old files.\nOther posts on here have good suggestions. Dont let them wipe the drive until you try other options.", "author": "iamcoolstephen1234", "created": 1596753905, "upvotes": 1}, "g0m2lvw": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m2lvw/", "text": "Your campus IT Helpdesk is full of shit.  As others have said, physically disconnect and remove that drive, do not let them touch it.  You can probably either put it into a machine at home or use a SATA to USB adapter to save it, worst case scenario just take it to someone and pay them to move it over to an external drive.\n\n&#x200B;\n\nI'm honestly really surprised the IT department's first instinct is to reformat, I mean, I get the whole \"you should've back up elsewhere\"; but when I worked at my campus helpdesk, the first thing we did was try to save whatever was on the drive because we knew that many faculty members were simply too lazy (or in some cases, were too old to understand) to actually utilize things like their sharedrives, OneDrive, or google drive.  And we were also understaffed\\\\overworked, it isn't called \"helldesk\" for no reason.  I hope you can recover your work!", "author": "Big-Sploosh", "created": 1596752019, "upvotes": 50}, "g0m0a8e": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m0a8e/", "text": "Waiting for an update on this with crossed fingers!", "author": "AnarchistPenguin", "created": 1596750803, "upvotes": 2}, "g0m07yv": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m07yv/", "text": "Wow this must be a very shocking time (I can't imagine how your psyche is right now!)\n\nI was working in my old university's IT part-time, the only time hard drives were truly non-recoverable was when they were attacked by ransomware software. I think we were using a software called Hirens for fixing some HDD issues ~~(I'll do a quick google and come back to verify)~~\n\nedit: turns out it does have hard drive tools.\n\n[https://techspective.net/2018/04/25/hirens-boot-cd-what-it-is-and-why-you-need-it-so-much/](https://techspective.net/2018/04/25/hirens-boot-cd-what-it-is-and-why-you-need-it-so-much/)\n\nTry looking into its abilities, and go to uni unscrew your HDD/SSD and get a caddy to connect it to your home laptop for playing around.\n\nedit2: [https://www.hirensbootcd.org/hbcd-v152/](https://www.hirensbootcd.org/hbcd-v152/)\n\nYou can see the tools here, apparently it has a lot of hard-drive software. Hope one of them helps! This one seems promising:  \n \n\n* DataRescue DD 1.0: DrDD is a disk imager intended for data recovery  and backup of partially corrupted storage devices, the main advantages  are Range Selection and Copy Backward Direction (Windows Freeware).", "author": "gregysuper", "created": 1596750772, "upvotes": 11}, "g0m05jz": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m05jz/", "text": "1. If you can switch to Linux.\n\n2. Open the PC and take out your drive.\n\n3. Mount the drive as an external drive using a sata to USB connector.\n\n4. Copy all your files to your new disk.\n\n5. From now on do backups. One backup on a second drive a third backup in some kind of cloud.\n\n\nHow long does this take?\n1-5h depending on your skill.\n\n\nLosing some data just because you need some other projects done is not an option. This happens but it shouldn't happen again.", "author": "pag07", "created": 1596750738, "upvotes": 10}, "g0m01r2": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m01r2/", "text": "I so feel for you right now. I'm sorry, and it happens to all of us....just often times not this bad. \n\nMy gut instinct is that you should take that computer to a high end tech company that is equipped to recover things like this. Can't you pay out the nose just to get that data back? I really think (and hope) there are companies that do this for these exact type of reasons. Two years is too important not to try.", "author": "ozzalot", "created": 1596750683, "upvotes": 3}, "g0lofos": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lofos/", "text": "When my laptop died, my husband pulled the hard drive out and put it in a casing (similar to this one https://www.bhphotovideo.com/c/search?InitialSearch=yes&N=0&Ntt=Usb+3.0+2.5+Hard+Drive+Enclosure&c3api=4680%2C287026567584%2Cusb+3.0+2.5+hard+drive+enclosure%2Ce&gclid=CjwKCAjw1K75BRAEEiwAd41h1NRzNMWm7yamwzXnTxv-DXWX0Td04a707eyyCp8XWe6MYTaxIB2znhoCrD0QAvD_BwE) to see if he could get anything off it. Would you be able to try that?", "author": "scipotato", "created": 1596745116, "upvotes": 11}, "g0ln2t0": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0ln2t0/", "text": "Don't let your university IT people touch your hard drive. There are hard drive recovery companies that can recover data off of busted hard drivers. They can be quite expensive (up to $1k) but I think it's worth it if the alternative is losing 2 years of work. I'm pretty sure you don't get charged if they are unable to recover your data.", "author": "Pokeymans", "created": 1596744484, "upvotes": 101}, "g0lmfvx": {"link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lmfvx/", "text": "Don't listen to them. I don't want to get your hopes up but take the hard drives out and put new ones into that computer that can be reformatted. Your drives and data can then be plugged into a working computer and you can most likely access the data. Your operating system probably got corrupted but that does not mean all your data is gone...it's mostly all there just the computer can't boot the drive. The data only becomes \"gone\" when you overwrite it... by formatting it and then re-imaging it with a new operating system...even then only the part of the drive that has been written over loses all data.\n\nIf the drive isn't working at all (which probably isn't the case and I know isn't the case since their solution is reformat and not replace), meaning if you put it in an enclosure and plug it into a computer it doesn't spin up (if a disk drive) or nothing happens then you can get a professional to access it. It becomes a little bit more complicated but can be done.\n\n1. Don't let them reformat anything. They don't need to do this at all. Tell them to take your hard drive out and give it to you.\n2. They can replace your hard drive with a new one or wait till you have copied everything off the drive first.\n3. Buy or borrow a hard drive enclosure, they are cheap. Like 10-20 bucks on Amazon.\n4. Plug hard drive enclosure using usb into any working computer and there is your data sitting in files on the drive.", "author": "jayveearrr", "created": 1596744179, "upvotes": 439}}}
+{
+  "sid": "i4yui1",
+  "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/",
+  "title:": "I lost 2 years' worth of research because I didn't back up my data.",
+  "text": "The title says it all.. \n\nI don't know how to process this right now, and I'm still holding out hope it's just all a bad dream.\n\nI've been doing astronomy research for the past 2 years, and thus had 2 years' worth of data, code, images, graphs, etc. on the computer in my office, until a couple days ago, when the computers just randomly stopped working.\n\nAt the time I thought it was just a minor issue, so I contacted the IT department to ask for help. I wasn't too pissed tbh, and I actually used this time to take a much needed break. \n\nYesterday they got back to me, and apparently what happened was IT did something to reboot all the computers on campus, and somehow something went wrong for my computer, which meant that it went into \"don't touch me I'm scared\" mode, and they told me the only way to fix it is to reformat my computer and wipe the hard drives clean so it can do a clean restart.\n\nThey haven't done it yet, because they're waiting for my ok to go ahead and wipe everything, but I can't bring myself to do it, because I'd lose 2 years' worth of work and basically have to start from scratch. \n\nI already know people are gonna say \"why didn't you back up your files,\" and in hindsight I definitely should've done it, but it just never crossed my mind (funny thing is, on my to do list, I actually have \"upload xyz files to Google drive\" scheduled for next Wednesday). I have some stuff backed up, like a couple graphs and python files here and there, but a large chunk of my work will definitely be lost.\n\nThe projects that I was working on were almost done, but now it seems like I'll have to start all over again. I don't know how to feel or what to do right now. Has anyone experienced similar issues before?\n\nPSA: ALWAYS BACK UP YOUR FILES!\n\nEdit: The reason I gave it to the IT dept. and didn't try to fix it on my own is because we're not allowed to mess with the computers without their permission.\n\nUpdate: The IT dept. at my school is very overworked and understaffed right now, so I have 2 options. I can either let them \"try\" to recover the data that I have, and have the computer back in a couple months (wtf), or I could just let them wipe everything clean and have it back in a week before school starts again. Honestly, I'm leaning towards the latter, since I'm really short on time on a couple projects atm, and although it sucks, I can definitely get most of what I need back since me and my adviser have the core of what we need saved (thank God). I really would rather not go through this, but I can't go a couple months without using that computer for my research. Now excuse me while I go get some intoxicants of my choice to end the week off :)",
+  "author": "ZachTheYek",
+  "created": 1596743508,
+  "over_18": false,
+  "upvotes": 477,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "g17ahxp": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g17ahxp/",
+      "text": "OP don't format your drive until you get that data back. I dont want to be that person but if I were you I would get some screw drivers and a SATA to usb cable. Remove your ssd and connect them to some laptop and you would have access to all of your data. If this is a mac drive then you would need some software to read it from windows, but nothing too complicated. Worst case worst is that the drive is actually damaged and you would have to buy some drive recovery software (these were around $40 last time I needed one).\n\nPopping out an SSD and then putting everything back is much easier than you think. This is 2 years worth of data so atleast give that a shot.",
+      "author": "gonzoid_i",
+      "created": 1597229634,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0wlxjy": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0wlxjy/",
+      "text": "github is your friend for next time. there's no reason to have code source files floating around your hard disk without making them a proper github repository",
+      "author": "colddarkstar",
+      "created": 1596991475,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0uo7qe": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0uo7qe/",
+      "text": "Hey, I know this is a a few days old, but I work in IT, working on my MSIT, and worked for my University's IT department during my undergrad. I agree with the others saying not to let them touch it. Feel free to reach out about how to recover the data from your hard drive :)",
+      "author": "breadmaster95",
+      "created": 1596939046,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0p77o0": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0p77o0/",
+      "text": "Boot into a Linux via USB like Ubuntu and see what\u2019s on the hard drive .\n\nDO NOT BOOT FROM THE HARDDRIVE AT ALL.\n\nLike people are saying, it could be the OS got corrupted, but in all honesty, people in IT can put on a shit show.\n\nBoot in via Linux ON A BOOTABLE USB (GOOGLE IT), and try to explore the harddrive. If the harddrive it failing, this is the best way to recover. Make sure to have another usb(or usb harddrive) JUST IN CASE.",
+      "author": "Roers75",
+      "created": 1596820343,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0p2voo": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0p2voo/",
+      "text": "I second the recommendations to use Linux. If you can get tour hands on a Linux PC than you might be able to just copy all of your data into a hard drive from a Linux PC.",
+      "author": "ElGalloN3gro",
+      "created": 1596818319,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0p011b": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0p011b/",
+      "text": "I used to work for IT at my college, we definitely would tell white lies to people sometimes esp when we were understaffed. Try everything you can before wiping everything.",
+      "author": "downvoticator",
+      "created": 1596816967,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0ojwua": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0ojwua/",
+      "text": "Save those hard drives!!! Someone might be able to recover your data!",
+      "author": "jburkek",
+      "created": 1596809998,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0of475": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0of475/",
+      "text": "If you have too hire a forensic IT person. It is worth the time.",
+      "author": "King_Freedom",
+      "created": 1596807887,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0o9qiz": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0o9qiz/",
+      "text": "Boot it up using a linux live key and pull the data off. I have done it for HPLC computers that went into the same mode. Will take a day at most. Shoot me a PM if you want me to walk you through step by step.",
+      "author": "Molecular_model_guy",
+      "created": 1596805448,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0o9akw": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0o9akw/",
+      "text": "Do not wipe it. The OS failed and your data is still there. Try to contact Apple to get it repaired. If the disk is removable you can plug it in to another computer and then use recuva or silimar software to recover all your data.",
+      "author": "darktahmi21",
+      "created": 1596805240,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0o30sn": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0o30sn/",
+      "text": "I worked High ed IT for 10 years so let me offer some suggestions. \n\n1. From looking at the ifixit guide for the imax (2019) I know we wouldn't have done that much work on a machine to remove the hard drive. Ask IT if there is Apple care for the machine and if so use it to have Apple service the machine. IF you can remove the hard drive (it isn't soldered which it might be) and IF filevault isn't turned on you should be able to recover the data barring a mechanical failure\n2. You many want to try and see if there is an IT policy regarding data storage, if there is a policy that mandates cloud storage and you aren't using it they may push back.\n3. Ask to escalate to a Tier 2 or 3 engineer to look at the machine and can spend more time on it. If you can't escalate through IT channels escalate through academic channels. IT in Higher ed is to support the faculty and researchers so a request from a senior member on the academic side will be given a lot of weight unless the request is completely unreasonable. It sounds like in this situation since there is the possibility of losing 2 years worth of data some more time spent from IT would be good. I did deal with this situation from a faculty member who lost 20 years of data but it was a mechanical failure of the drive (they knocked it over) and they didn't have anything backed up so they lost everything. Their department and IT was not willing to spend money on a data recovery service (which are really expensive if recovering from hardware damage, software recovery is pretty cheap)\n\nPersonal anecdote. While in undergrad I lost around 6 months of working during my last semester during portfolio review (art degree) and had to rebuilt most of it from scratch. I had some final cuts saved on DVD and that was it. Now all my data is backed up in 2 different cloud providers, 3 way mirror on my local machine and one of the cloud providers backs up automatically to a local NAS that has a pair of redundant hard drives in it. Both cloud providers auto version my documents, code is also sent to visual studio online code repository and local GIT repository so I have that handled as well. I am in grad school now and I'm not going to watch my data disappear like last time. I will say my solution is actually pretty cheap (about $25 a month for both cloud services) and is almost fully automated which is the other important part. If your backup plan is manual you will forget, or get busy and you will loose something. Failures happen, plan for them.",
+      "author": "Trakeen",
+      "created": 1596802256,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0o2zuk": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0o2zuk/",
+      "text": "Do as others have said, and worst case scenario if they wipe all your data if I remember correctly there\u2019s a software called Recuva that goes into the drive and finds files that may have remained in the disk even if they were deleted. But obviously I can\u2019t promise anything, just try it on another computer first!",
+      "author": "mdr7",
+      "created": 1596802242,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0noxr7": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0noxr7/",
+      "text": "You can remove the hard drives and find a solution for them later on.\n\nIf they are broken -> hard drive recovery companies.\n\nIf they aren\u2019t broken -> plug in another PC to recover data.",
+      "author": null,
+      "created": 1596791312,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0ng27a": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0ng27a/",
+      "text": "\"Lol while I go get hammered to ignore my problems\". Dude just pull the drive, connect to another computer and copy the files like everyone is saying.",
+      "author": null,
+      "created": 1596782777,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0nfeae": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0nfeae/",
+      "text": "Please don't let anyone format it. I'm willing to work with you one on one to recover the data",
+      "author": "Anasoori",
+      "created": 1596782204,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0naqpq": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0naqpq/",
+      "text": "Lose no hope!  \n\n\nCheck r/datarecovery, I'm pretty sure they can help you. Once I managed to retrieve all of my data using [TestDisk](https://www.cgsecurity.org/) after I've had supposedly wiped my disk clean and messed up the partitioning system because I was trying to configure a dual boot.\n\nAlso if it's 2 years worth of research, why not pay for a company to assist you? I'm pretty sure there is someone somewhere to help you; all is not lost.\n\nAsk the IT if they can block the access of the computer just for you in the meantime.",
+      "author": "Verredevinrouge",
+      "created": 1596778432,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0n9kmk": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n9kmk/",
+      "text": "You could still access the data on the hard drive and there are ways to do this. I\u2019m not an IT expert but there are definitely data recovery services that you can hire.\n\nDo talk to the IT department of your school though because from the way you described it, it sounds like the computer is your school's property, if you remove the hard drive yourself you could get into legality issues.",
+      "author": "Whereishumhum-",
+      "created": 1596777542,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0n8nf9": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n8nf9/",
+      "text": "We all have times when we aren't thinking clearly. Right now, that's you. The IT department of your school did a very bad job of wording their email to you (causing your brain to melt from panic), or they're just completely inept (because plugging the drive into another computer to get the data is extremely basic).\n\nIn a nutshell\u2026\n\n**Doesn't boot \u2260 Data is lost.**\n\nSince you're dealing with macs, you can go to the nearest Apple store and ask them to help you get the data. From the sound of it, you do *not* need \"data recovery.\" That's for when the hard drive is actually damaged, the data is actually corrupted, or the files are actually deleted. In your case, it sounds like all that happened was a clumsy update pushed by your IT department made it so that your computer won't boot anymore. Messing up the files your computer needs to boot is not the same as ruining the hard drive, nor does it mean the rest of the files on the drive were affected at all. Indeed, this is why the IT department wants to just format the drives instead of replace them.\n\nAnyway, like I said, you (very probably) don't need what is referred to as \"data recovery.\" What you need to tell them is that the computer won't boot and you need help getting the files off. If you can, bring an external hard drive to make it easy for them. You might be able to just buy one while you're there, but they might not have it in stock. If your data doesn't take up a ton of space, then you can probably just have them upload to your Google Drive account.\n\n**Another option:** Buy an external hard drive kit, remove the drives from the computer (or have someone do this for you), stick them in the kit, then connect to any mac. Get the data you need. Then, return the hard drives to the computer.\n\nThis is not a difficult procedure at all! External hard drive kits might sound complicated, but it's no exaggeration to describe them as being no more difficult than \"Put the round peg in the round hole and the square peg in the square hole.\" Seriously, there are two wires that will connect from the kit to the drive, and you can just look at the shape of the connectors to see where they connect. Piece of cake!\n\n**The bottom line is that it sounds like your data can be _easily_ recovered.** Hell, if you happen to live in NYC and want help or hand-holding, then I'll come do it for/with you! Just let me know. :)\n\nP.S. File sync (Dropbox, Google Drive, etc) \u2260 File backup (Backblaze, IDrive, etc)! I recommend taking a look at Wirecutter's human-friendly guide to _properly_ [backing up computers](https://www.nytimes.com/wirecutter/reviews/how-to-back-up-your-computer/).",
+      "author": "SquareBottle",
+      "created": 1596776866,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "g0n857n": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n857n/",
+      "text": "If you follow the advice of other (I didn't read all the comments so you may have already done this) and you get ahold of the hard drive, you should give this program a try. It has worked wonders for many in the past.\n\nhttps://www.grc.com/sr/spinrite.htm\n\nSteve Gibson is the creator of this program. You can read about him here if you want to know more. https://en.m.wikipedia.org/wiki/Steve_Gibson_(computer_programmer)\n\nIt might be worth a try.",
+      "author": "blightwixer",
+      "created": 1596776495,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0n7jwx": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n7jwx/",
+      "text": "**DO NOT WIPE THE DRIVE!!!**",
+      "author": "ArkFreestyle",
+      "created": 1596776074,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "g0n6niw": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n6niw/",
+      "text": "Can you buy a new hard drive and swap with them?  Seems ridiculous they wont give you the drive.  Then youd have the drive to recover the data when you can and the computer back in week.",
+      "author": "asanano",
+      "created": 1596775447,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0n3cmo": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n3cmo/",
+      "text": "A few points:\n\n(1) Since this is a Mac, you may want to go to the Apple Store Genius Bar to see if they can help you. They could at least physically remove the drive and try to access the data.\n\n(2) Are you sure that your drives were not remotely backed-up by your IT department? If they have the computers locked down - \"we're not allowed to mess with the computers without their permission\" - they should have remote back-up software installed. Your data may be out there somewhere without your knowledge.\n\nGood luck!",
+      "author": "krmilstead",
+      "created": 1596773225,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "g0mzrm1": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mzrm1/",
+      "text": "Stop listening to your IT department. They clearly do not know what they're talking about. Go to a higher up and explain the situation. Bring someone who understands computer hardware who can argue your case.  \n\nThis sounds like a very basic IT scenario with a solution that could take as little as 10 - 15 minutes to solve. Your IT department is likely screwing you around.",
+      "author": "HoboWithAGlock",
+      "created": 1596771019,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0mz8lr": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mz8lr/",
+      "text": "Can't be worse than double sabotage.  I became the target of a disgruntled grad student who late one night unplugged a freezer, removed everyone's samples but mine and destroyed over two years of experiments.  That incident was buried like so many prior and to follow because expulsion would have spelled disaster for my PI's impending patent which the bully had been working on.  My experiments represented a deepening replication crisis which would have forced a paper retraction and embarrassment, so for my PI their convenient destruction made a lot of his problems go away.",
+      "author": "shindleria",
+      "created": 1596770708,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0myh52": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0myh52/",
+      "text": "BITCH DONT GIVE UP NOW. FIGHT FOR YOUR DAMNED DATA. JUST BE DAMNED IF YOU HAVE TO BE THAT ASSHOLE THAT'S OVERWORKING THE IT PEOPLE.",
+      "author": "yourfoodiate",
+      "created": 1596770247,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "g0mx3yf": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mx3yf/",
+      "text": "This happened to me almost word for word.  They took the drive out of my old mac, put it in a new mac that had it's own drive able to boot itself and were able to recover all my data. Didn't lose a thing.",
+      "author": "Arminius2436",
+      "created": 1596769415,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0mvjvs": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mvjvs/",
+      "text": "Not to make jokes but the cast of The IT Crowd sounds more competent than your campus IT.\n\nEasiest step to take: Find the computational astronomy guys in your department. I'm quite confident just plugging your drive into their linux machines and under their supervision will immediately let you mount the drives and copy them into a healthy drive.",
+      "author": "awhead",
+      "created": 1596768464,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0mur6t": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mur6t/",
+      "text": "This happened to my mom. Unfortunately she wasn't able to recover her stuff and ended up rewriting her code/other stuff, but the silver lining is that she said she did it better the second time around. Hopefully you get your stuff back though!",
+      "author": "starfries",
+      "created": 1596767990,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0mtzuc": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mtzuc/",
+      "text": "Had something similar happen before. I usually wouldn\u2019t promote them, but Best Buy geek squad was able to recover more than half my lost data. And, it only took a couple days. It\u2019s worth a shot!",
+      "author": "GulfCoastFlamingo",
+      "created": 1596767533,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0mtwde": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mtwde/",
+      "text": "DO NOT wipe the drive. Get a new one for the new install and take that one out of the case. Plug it into a working computer and you can probably get some if not most/all data, and then the computer will be nice and fresh with a new hard drive anyway.",
+      "author": "KYR3LL",
+      "created": 1596767475,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0mr8b6": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mr8b6/",
+      "text": "If you really need a computer right now, why can't they just lend you another one while they work on your original one? Even if it's a slow one or not ideal in some way, using that for a couple months would be way better than not having a computer or having TWO YEARS of data wiped.\n\nIf you let them wipe it so you can have a computer today, you're losing two years of data just so you can have two months of future work. Not a good deal, especially considering that you can get at least SOME work done if they just lend you some old reject computer they have lying around.",
+      "author": "pb-pretzels",
+      "created": 1596765887,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0mqnqr": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mqnqr/",
+      "text": "Even if the ssd is physically broken, you might be able to recover it. Ask them to install new drive and get the old one. There are professional services available",
+      "author": "The_ZMD",
+      "created": 1596765547,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0mpaap": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mpaap/",
+      "text": "If it makes you feel any better, you could lose two years worth of data and probably still graduate faster than me J.",
+      "author": "ExtendedDeadline",
+      "created": 1596764725,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0momle": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0momle/",
+      "text": "Sometimes I email myself things, maybe you have sent around your papers?",
+      "author": "Rigs515",
+      "created": 1596764329,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0mna88": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mna88/",
+      "text": "Is it possible to put the HD in a different computer as as secondary and pull the files off?",
+      "author": "Lord_Blackthorn",
+      "created": 1596763513,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0mjbdz": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mjbdz/",
+      "text": "I\u2019m sorry. That incredibly sucks. \n\nI lost two months of work and data my first semester in grad school and cried. A lot.",
+      "author": "Psyche81",
+      "created": 1596761192,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0mieeq": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mieeq/",
+      "text": "I highly recommend [BACKBLAZE](https://secure.backblaze.com/r/00107c)! It will passively back up everything on your computer as well as any attached devices like external hard drives. It makes things way easier and gives me peace of mind.",
+      "author": "MercuriousPhantasm",
+      "created": 1596760703,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0mgksn": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mgksn/",
+      "text": "Similar thing happened to me $300dollardatarecovery.com recovered 99.9% of my 4TB drive.",
+      "author": "rabousle",
+      "created": 1596759704,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0mdmp6": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mdmp6/",
+      "text": "If you value this data send the drive to Drivesavers. They are second to none in data recovery. Don't take this to some fly by night shop or continue to stress the drive out. I have sent soooooo many customer drives to DS, they are incredible. They will pay for overnight shipping and do a free estimate within just a few days. If you use my vendor code **DS29526**  they will give you 10% off. They are expensive, but for important data worth every penny and they usually can turn the recovery around in a week.\n\n&#x200B;\n\n[https://drivesaversdatarecovery.com/](https://drivesaversdatarecovery.com/)\n\n&#x200B;\n\nGood Luck.\n\n##",
+      "author": "rawl28",
+      "created": 1596758020,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0mcskh": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mcskh/",
+      "text": "Seems like you've already got great advice so I won't add to that. Just want to put this info here for anyone else that may come across this:\n\n1. Many universities offer free cloud storage (usually OneDrive, Box, or Dropbox). Use it! \n\n2. You should use some form of version control software (e.g. git) if you're writing code. GitHub has free hosting and many universities also pay for private repos.\n\n3. As what has already been said, you can recover data from a hard drive. If it's incredibly important, don't format it. Try to recover it before giving up. \n\n4. If you spill water on electronics, remove any power cables and batteries. Dry it off as best as you can and then take a vacuum to it. Let it dry out for as long as you can (at least 24 hours)  to make sure that any residual water dries. Do not use rice because it will get more debris in the computer.",
+      "author": "thingythangabang",
+      "created": 1596757528,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "g0m687z": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m687z/",
+      "text": "I've had a similar thing happen to me for a computer at home. Is there a way you can connect the hard drive to another computer and look at it, similar to an external drive? I did this and was able to recover my old files.\nOther posts on here have good suggestions. Dont let them wipe the drive until you try other options.",
+      "author": "iamcoolstephen1234",
+      "created": 1596753905,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0m2lvw": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m2lvw/",
+      "text": "Your campus IT Helpdesk is full of shit.  As others have said, physically disconnect and remove that drive, do not let them touch it.  You can probably either put it into a machine at home or use a SATA to USB adapter to save it, worst case scenario just take it to someone and pay them to move it over to an external drive.\n\n&#x200B;\n\nI'm honestly really surprised the IT department's first instinct is to reformat, I mean, I get the whole \"you should've back up elsewhere\"; but when I worked at my campus helpdesk, the first thing we did was try to save whatever was on the drive because we knew that many faculty members were simply too lazy (or in some cases, were too old to understand) to actually utilize things like their sharedrives, OneDrive, or google drive.  And we were also understaffed\\\\overworked, it isn't called \"helldesk\" for no reason.  I hope you can recover your work!",
+      "author": "Big-Sploosh",
+      "created": 1596752019,
+      "upvotes": 50,
+      "replies": {
+        "g0mdjvp": {
+          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mdjvp/",
+          "text": "Unless there is a reason to dive in and invest time in recovery the basic standard of service for a broken machine is just to restore the machine to factory settings. So the original advice isn\u2019t surprising, what shocks me is once they were aware that there is two years worth of data they didn\u2019t immediately step back from that idea. That should be reported to the administrators of IT, IT departments exist to support research not to willfully destroy it. At the very least they should have offered alternatives if they were too busy. \n\nWhile OP should have been backing up the immediate response shouldn\u2019t have been \u201cwhelp guess you lose two years of work, Womp Womp\u201d. That\u2019s insane.",
+          "author": "ImperiousMage",
+          "created": 1596757975,
+          "upvotes": 12,
+          "replies": {
+            "g0mix26": {
+              "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mix26/",
+              "text": "That's fair, granted, my institution was definitely on the smaller side which meant we generally had some time to attempt recovery even in our usual busy season.  If we were lucky, some profs actually bothered to use their sharedrive storage or the OneDrive for Business 1tb storage that was 100% free for them to use.  In that scenario, we could just assign them a temp laptop on our domain and they'd be good to go until we could get back to them.",
+              "author": "Big-Sploosh",
+              "created": 1596760979,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "g0m0a8e": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m0a8e/",
+      "text": "Waiting for an update on this with crossed fingers!",
+      "author": "AnarchistPenguin",
+      "created": 1596750803,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0m07yv": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m07yv/",
+      "text": "Wow this must be a very shocking time (I can't imagine how your psyche is right now!)\n\nI was working in my old university's IT part-time, the only time hard drives were truly non-recoverable was when they were attacked by ransomware software. I think we were using a software called Hirens for fixing some HDD issues ~~(I'll do a quick google and come back to verify)~~\n\nedit: turns out it does have hard drive tools.\n\n[https://techspective.net/2018/04/25/hirens-boot-cd-what-it-is-and-why-you-need-it-so-much/](https://techspective.net/2018/04/25/hirens-boot-cd-what-it-is-and-why-you-need-it-so-much/)\n\nTry looking into its abilities, and go to uni unscrew your HDD/SSD and get a caddy to connect it to your home laptop for playing around.\n\nedit2: [https://www.hirensbootcd.org/hbcd-v152/](https://www.hirensbootcd.org/hbcd-v152/)\n\nYou can see the tools here, apparently it has a lot of hard-drive software. Hope one of them helps! This one seems promising:  \n \n\n* DataRescue DD 1.0: DrDD is a disk imager intended for data recovery  and backup of partially corrupted storage devices, the main advantages  are Range Selection and Copy Backward Direction (Windows Freeware).",
+      "author": "gregysuper",
+      "created": 1596750772,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "g0m05jz": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m05jz/",
+      "text": "1. If you can switch to Linux.\n\n2. Open the PC and take out your drive.\n\n3. Mount the drive as an external drive using a sata to USB connector.\n\n4. Copy all your files to your new disk.\n\n5. From now on do backups. One backup on a second drive a third backup in some kind of cloud.\n\n\nHow long does this take?\n1-5h depending on your skill.\n\n\nLosing some data just because you need some other projects done is not an option. This happens but it shouldn't happen again.",
+      "author": "pag07",
+      "created": 1596750738,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "g0m01r2": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m01r2/",
+      "text": "I so feel for you right now. I'm sorry, and it happens to all of us....just often times not this bad. \n\nMy gut instinct is that you should take that computer to a high end tech company that is equipped to recover things like this. Can't you pay out the nose just to get that data back? I really think (and hope) there are companies that do this for these exact type of reasons. Two years is too important not to try.",
+      "author": "ozzalot",
+      "created": 1596750683,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "g0lofos": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lofos/",
+      "text": "When my laptop died, my husband pulled the hard drive out and put it in a casing (similar to this one https://www.bhphotovideo.com/c/search?InitialSearch=yes&N=0&Ntt=Usb+3.0+2.5+Hard+Drive+Enclosure&c3api=4680%2C287026567584%2Cusb+3.0+2.5+hard+drive+enclosure%2Ce&gclid=CjwKCAjw1K75BRAEEiwAd41h1NRzNMWm7yamwzXnTxv-DXWX0Td04a707eyyCp8XWe6MYTaxIB2znhoCrD0QAvD_BwE) to see if he could get anything off it. Would you be able to try that?",
+      "author": "scipotato",
+      "created": 1596745116,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "g0ln2t0": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0ln2t0/",
+      "text": "Don't let your university IT people touch your hard drive. There are hard drive recovery companies that can recover data off of busted hard drivers. They can be quite expensive (up to $1k) but I think it's worth it if the alternative is losing 2 years of work. I'm pretty sure you don't get charged if they are unable to recover your data.",
+      "author": "Pokeymans",
+      "created": 1596744484,
+      "upvotes": 101,
+      "replies": {
+        "g0lvrfn": {
+          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lvrfn/",
+          "text": "What this guy said. Fork up some cash and take it to professionals who are motivated to get it right. Good luck!!",
+          "author": "lacroixluva",
+          "created": 1596748564,
+          "upvotes": 31,
+          "replies": {}
+        },
+        "g0mgs2w": {
+          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mgs2w/",
+          "text": "A million times this. \n\nThis is an important issue that should be handled by someone with more experience than University IT staff. Especially if two years worth of work is at stake.",
+          "author": "Ramsheephybrid",
+          "created": 1596759817,
+          "upvotes": 16,
+          "replies": {}
+        },
+        "g0mtfh7": {
+          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mtfh7/",
+          "text": "What these people are saying. But actually try asking your advisor or your department if they can dish out some funding for this recovery attempt.",
+          "author": null,
+          "created": 1596767198,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "g0lmfvx": {
+      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lmfvx/",
+      "text": "Don't listen to them. I don't want to get your hopes up but take the hard drives out and put new ones into that computer that can be reformatted. Your drives and data can then be plugged into a working computer and you can most likely access the data. Your operating system probably got corrupted but that does not mean all your data is gone...it's mostly all there just the computer can't boot the drive. The data only becomes \"gone\" when you overwrite it... by formatting it and then re-imaging it with a new operating system...even then only the part of the drive that has been written over loses all data.\n\nIf the drive isn't working at all (which probably isn't the case and I know isn't the case since their solution is reformat and not replace), meaning if you put it in an enclosure and plug it into a computer it doesn't spin up (if a disk drive) or nothing happens then you can get a professional to access it. It becomes a little bit more complicated but can be done.\n\n1. Don't let them reformat anything. They don't need to do this at all. Tell them to take your hard drive out and give it to you.\n2. They can replace your hard drive with a new one or wait till you have copied everything off the drive first.\n3. Buy or borrow a hard drive enclosure, they are cheap. Like 10-20 bucks on Amazon.\n4. Plug hard drive enclosure using usb into any working computer and there is your data sitting in files on the drive.",
+      "author": "jayveearrr",
+      "created": 1596744179,
+      "upvotes": 439,
+      "replies": {
+        "g0lov6o": {
+          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lov6o/",
+          "text": "I'm honestly not quite sure what the problem is, but this is word for word their response:\n\n\"Unfortunately, while booted into recovery, neither iMac was able to perform First Aid fully to allow the SSD's to be mounted. At this point, we can definitely try a full, clean reinstall of the MacOS to see if we can get the computers functional again. However, I did not want to try and do so without your ok as it will mean completely formatting the drives (and losing all of the data) prior to the reinstallation.\"\n\nThey're scheduled to come reformat the computer next Monday. Should I tell them to do as you said?",
+          "author": "ZachTheYek",
+          "created": 1596745319,
+          "upvotes": 66,
+          "replies": {
+            "g0lp9no": {
+              "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lp9no/",
+              "text": "All this means is they can't get the computer to boot the drive through doing a disk recovery. It does not mean that you can't access the files on the drive through plugging the drive into a working computer. Reformatting is only going to erase everything (mostly). This also means you have a SSD which are more stable than disk drives (these fail more easily). Ask them if they can take the drive out and plug it into a computer to access the files on it. What they are trying to do is just get your computer working with no regard to the data itself. They can get your computer working by just putting a new drive in there as well and not erasing the one you have.",
+              "author": "jayveearrr",
+              "created": 1596745507,
+              "upvotes": 215,
+              "replies": {
+                "g0lqm99": {
+                  "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lqm99/",
+                  "text": "Omg you might've just saved me so much time and sanity (and money spent on alcohol)! I'll give it a try and see what they say!",
+                  "author": "ZachTheYek",
+                  "created": 1596746151,
+                  "upvotes": 152,
+                  "replies": {
+                    "g0m0sar": {
+                      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m0sar/",
+                      "text": "In the worse case, have them set up a new computer on a new disk, not your old one; and get your old disk back and ask a computer science friend to help put it in an enclosure. Disk is cheap, and SSDs are very robust. Are you really going to let them wipe 2 years of work, to save $80 by reusing a disk (not even, since it's an old used disk)? Also it's way more likely the SATA cable or SSD controller is broken than your SSD itself.",
+                      "author": "idie4usbc",
+                      "created": 1596751058,
+                      "upvotes": 68,
+                      "replies": {}
+                    },
+                    "g0m3rmb": {
+                      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m3rmb/",
+                      "text": "Please update us. I agree with the other guy, should be quite solveable. I had a similar issue happen with a computer of mine, and data was easily accessed once unplugged and connected by USB to another comp!",
+                      "author": "DigitalPsych",
+                      "created": 1596752637,
+                      "upvotes": 55,
+                      "replies": {
+                        "g0m97xc": {
+                          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m97xc/",
+                          "text": "Same! It happened with my dissertation. I had written almost all of it and I thought I uploaded all the newest docs to google drive but I stupidly uploaded the previous version because I named them the same thing. Then my computer broke. I checked with our IT before throwing it away and they took apart the whole thing, got out the SSD and managed to extract the files for me. All they needed was a little device to plug it into. I legit started crying and they looked at me like I was nuts.",
+                          "author": "rizzeldhsi",
+                          "created": 1596755483,
+                          "upvotes": 20,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "g0mp7vi": {
+                      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mp7vi/",
+                      "text": "Yeah unless they said the SSDs are corrupted for some reason idk why you cant just yank em out and plug them into another comp. Very curious to hear if it works out for you.\n\n\nEdit: read your last update and Im not sure why you cant just get the SSDs out rather than have IT do it?",
+                      "author": "pretysmitty",
+                      "created": 1596764685,
+                      "upvotes": 10,
+                      "replies": {}
+                    },
+                    "g0mppxr": {
+                      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mppxr/",
+                      "text": "Let us know if this works!!! I'm crossing my fingers for you!",
+                      "author": "MademoiselleVache",
+                      "created": 1596764987,
+                      "upvotes": 8,
+                      "replies": {}
+                    },
+                    "g0ojh28": {
+                      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0ojh28/",
+                      "text": "Guaranteed your data is still there and accessible with the right tools.\n\nI once had a laptop operating system get corrupted and refused to boot, and it had all of my first-born kid's photos on it, etc. I was able to use a Linux boot to be able to connect to the hard drive and to open it just like a folder, and dump the files onto a USB stick, etc.",
+                      "author": "Theomancer",
+                      "created": 1596809806,
+                      "upvotes": 2,
+                      "replies": {}
+                    },
+                    "g0ovmeb": {
+                      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0ovmeb/",
+                      "text": "Data is never lost until its overwritten (outside of hardware failures). Deleting a file is just telling the computer \"ok you can paint over this spot in the future\". If it doesn't, your painting will still be there.",
+                      "author": "japooki",
+                      "created": 1596815031,
+                      "upvotes": 2,
+                      "replies": {}
+                    },
+                    "g0msft4": {
+                      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0msft4/",
+                      "text": "One consideration is that the drive may be encrypted. I'm not sure the process of getting the keys for Apple Drives. I just started doing it for my stuff and I think I enabled it so I can decrypt with my Apple iCloud.",
+                      "author": "t3harvinator",
+                      "created": 1596766611,
+                      "upvotes": 0,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "g0lqfgg": {
+              "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lqfgg/",
+              "text": "What you need to do is just make this hard drive an external one that another computers operating system can read. It will become like any external drive or usb drive you plug into a computer. The only thing wrong with the drive is the operating system (some kernels and other crap that a computer uses to boot the drive), which you don't need to work if you are using it like an external drive to just get the data off it.\n\nUpdate us on what happens.",
+              "author": "jayveearrr",
+              "created": 1596746060,
+              "upvotes": 16,
+              "replies": {
+                "g0lz913": {
+                  "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lz913/",
+                  "text": "I have an update at the end of the post if you're interested haha",
+                  "author": "ZachTheYek",
+                  "created": 1596750281,
+                  "upvotes": 11,
+                  "replies": {
+                    "g0m1ej4": {
+                      "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m1ej4/",
+                      "text": "If I were you I won't trust the guys from IT anymore but yeah you've got no choice because you can't do anything unless your IT approves it.",
+                      "author": "swiftrobber",
+                      "created": 1596751379,
+                      "upvotes": 12,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "g0myika": {
+              "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0myika/",
+              "text": "OP, since this is a Mac, chances are you can't use traditional means. This is what you should say to your IT folks (if they are confused you can PM me and I'll guide you :D) \n\nFirst of all get an external drive that'll be enough to copy off your PC (these are cheap, but will run you about $50 - $60 for couple of TBs). \n\nOnce you have an external drive, ask IT or even you to boot into recovery mode on the iMac. This can be done by holding down cmd key + R, this will show up internet recovery and let it do its thing. \n\nOnce you are in Recovery mode, it will show up a window with four options. One would be run \"Disk Aid/Disk Utility\". \n\nOnce you are on Disk Utility, plugin your external drive and then on that window click on your main Mac drive and right click -> Image from \"your drive name\". \n\nThis will create a backup of your drive, it'll take some time. but you will have a backup to your external drive. Once that's done, take external drive to another PC and see if it can be read. Just don't let IT wipe it.",
+              "author": "thnok",
+              "created": 1596770271,
+              "upvotes": 12,
+              "replies": {}
+            },
+            "g0n7vsz": {
+              "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0n7vsz/",
+              "text": "You still have other options before you take out the hard drive and try to mount it on another machine. Absolutely do not reformat, I don't know why that would be one of their first options.\n\n1 - First aid mode is one of the first things you should try when a system won't boot. But if it doesn't, you likely can boot into a command line mode called Single User Mode. (Instructions [here](https://www.makeuseof.com/tag/repair-mac-disk-safe-mode-fsck/).\nThere you can run an old and reliable tool called fsck to fix errors in the drives register. \n\nYou have to do some command line, but it is just a couple of commands and has gotten me out of a lot of trouble. It is pretty surprising that your IT wouldn't try this, even if you don't know mac well its a pretty standard linux tool.\n\n2 - Come to think of it, there is a chance that it is a file permissions error. This is a pretty straightforward fix, you can find it [here](https://www.makeuseof.com/tag/mac-disk-permissions-repair/)\n\n3 - Finally, if you can boot into recovery mode, you can likely copy your drives contents from there onto a hard drive. Instructions are in the first link that I sent.",
+              "author": "ucstruct",
+              "created": 1596776309,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "g0m4dy7": {
+          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0m4dy7/",
+          "text": "Came here to say this. Absolutely do not let them wipe that drive. It can be removed and connected to a functioning computer and you should be able to access your data no problem. No knock on IT people, but they tend to take a \"I have a hammer, your problem is a nail\" approach a lot of the time without respecting the needs and alternatives that play into these kinds of scenarios. It's unconscionable for you to lose 2 years of work because your IT department wants to do the simplest fix for your computer without trying to take (TBH, simple) steps to save your work. Good luck!\n\nEdit: Just read your update. Still strongly advise you demand the hard drive and insert it into your (or if you don't have one, a friend's) PC so that you can retrieve your files. I lost a 250 page book that I wrote when I was 13 (it's fine, the book was probably trash) because of a similar issue and learned everything I could about computer maintenance and construction to prevent it from ever happening again. Your data is intact and the only reason you wouldn't be able to get it is laziness/ineptitude on your IT dept.'s part.",
+          "author": "thehindutimes3",
+          "created": 1596752968,
+          "upvotes": 17,
+          "replies": {
+            "g0oi7ki": {
+              "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0oi7ki/",
+              "text": "I think you're badly stereotyping IT technicians. As with any line of work there are people who are jerks or who phone it in, however in my experience it's much, much more likely that they're simply over worked (as OP suggested) and can't dedicate much time to each ticket or support request. \n\nWhen there's a technical problem preventing a colleague from working it's pretty normal to suggest the fastest fix to get them up and running again, even if it's not ideal. There often isn't the time to try it a series of fixes for a problem, or if the tech dedicates the time it ends up being between other tickets and it can drag on.  Under those pressures a reasonable tech is going to suggest the most expedient solution every time.\n\nAs OP said, their IT is swamped and trying to get him back up and running as fast as possible. By contrast, a bad tech would have just wiped it *then* let OP know he was up and running.",
+              "author": "Kreugs",
+              "created": 1596809232,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "g0lvvya": {
+          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lvvya/",
+          "text": "I second this. From your description of what happens it is highly unlikely that all the data is gone (although it is possible). So either try what the above post mentioned but also since you mention a iMac it might be difficult (if you aren\u2019t very tech savvy) to remove the harddrive you can try to make a Ubuntu bootable USB drive which you can boot the computer with and then copy all the files to an external USB drive and then reinstall Mac OS.",
+          "author": "Cryoalexshel44",
+          "created": 1596748624,
+          "upvotes": 11,
+          "replies": {
+            "g0lwmva": {
+              "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lwmva/",
+              "text": "I missed the iMac mention. You are correct they could create a bootable drive (usb works) and force the computer to boot from it (press Option key when the computer cuts on) and then they can access the drive files without removing the hard drive. So many options, I would hate for the data to be lost just because people don't care or just don't know what they are doing.\n\nBut since this person has an IT department to help (a lazy one maybe, but they have one lol) they could possibly get it for them. Reformatting is really the, I don't want to try, option. If you have good backup of your data then, sure, reformat and reimage is the fastest way to get back up and running.",
+              "author": "jayveearrr",
+              "created": 1596748985,
+              "upvotes": 4,
+              "replies": {
+                "g0lx56f": {
+                  "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0lx56f/",
+                  "text": "I am definitely used to the lazy/busy IT at a University. They have so much stuff to deal that the importance of one students data just doesn\u2019t register as important. They might be able to do the above if you ask really nicely and stress how much it will effect your research. Otherwise if the above sounds too difficult for you to do your self then most computer tech shops would be able to do it. A couple hundred dollars is likely much better than losing two years worth of data.",
+                  "author": "Cryoalexshel44",
+                  "created": 1596749231,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "g0mpqy2": {
+          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mpqy2/",
+          "text": "Oh god. I hope this is how it turns out.\n\nA labmate once dropped his MacBook and the screen turned into non-responsive white. This happened three days before a 15 page paper was due that he was 12 pages into. Dude had not backed anything up, got a new computer and cranked it out in a mad rush of caffeine.\n\nHe had a meeting with our advisor the next week, and our advisor was like: well, did you try just connecting it to an external monitor and working with it that way?\n\nI will spare you my labmate's heartbreak.\n\nThank you for writing up such a detailed post for OP. It is good to be skeptical of university IT. They are overworked and probably have to constantly deal with high-level administrators who are having problems with the printer. We have to take the reins of information security into our own hands.",
+          "author": "AlbanySteamedHams",
+          "created": 1596765004,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "g0mumko": {
+          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0mumko/",
+          "text": "I\u2019ve had great luck using TestDisk: https://www.cgsecurity.org/wiki/TestDisk\n\nOur IT told us an irreplaceable 10Gb drive of data was dead, when it was actually just a Linux disk. If I remember correctly we used TestDisk to grab the files and copy to many other smaller drives. I think it can even help recover a drive that\u2019s been wiped.",
+          "author": "KYR3LL",
+          "created": 1596767914,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "g0nxzn9": {
+          "link": "/r/GradSchool/comments/i4yui1/i_lost_2_years_worth_of_research_because_i_didnt/g0nxzn9/",
+          "text": "Thank God this is the top comment. As I was reading the post I was practically screaming at my phone: \"put the hard drive in another fucking computer!\"",
+          "author": "TheJCBand",
+          "created": 1596799471,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634066248
+}

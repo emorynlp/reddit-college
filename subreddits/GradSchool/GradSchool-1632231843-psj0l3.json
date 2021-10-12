@@ -1,1 +1,414 @@
-{"sid": "psj0l3", "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/", "title:": "Just a friendly reminder to backup your thesis/research", "text": "Story time: Two nights ago I was driving home and I realized I hadn't backed up my thesis in a quite a while (3+ months). Realizing the danger I was in and that Murphy was probably looming somewhere in the shadows, I backed up my thesis when I got home.\n\nAs if on queue, I lost my primary flash drive yesterday. Luckily, I had backed up all of my stuff only a day or so before that instead of several months ago so it was a minor inconvenience versus a serious setback.\n\nAlways back your stuff up, friends. Save yourself the heartache and wasted time.", "author": "AngriestManinWestTX", "created": 1632231843, "retrieved": 1632953937, "over_18": false, "upvotes": 362, "upvote_ratio": 0.99, "comments": {"hdvlw1y": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdvlw1y/", "text": "I emailed the documents to myself after almost every writing session, along with the traditions flags drive and documents folder.\n\nYes I'm sure I look stupid and like a grandma, but I was guaranteed to never lose them unless Google went bankrupt.", "author": "flipflopped_plans", "created": 1632336648, "upvotes": 1}, "hduw2q0": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hduw2q0/", "text": "This is great advice. Go one step further, have redundant copies, one in the cloud, and at least one physical backup on a personal hard drive, apart from the computer.", "author": "SquirrelOnTheDam", "created": 1632326200, "upvotes": 1}, "hdus7h2": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdus7h2/", "text": "Best solution is to synch your map with Google Drive. Quick and easy to do.", "author": "Lord_Nordyx", "created": 1632324626, "upvotes": 1}, "hdubqq9": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdubqq9/", "text": "I'm always surprised by the amount of grad students who don't use a cloud storage provider (most universities already have this) or another backup service like crashplan. I use onedrive and crashplan (and a nas and raid local storage). One drive auto versions as well as providing backup ability; you could also use git if working with more textual content.", "author": "Trakeen", "created": 1632317507, "upvotes": 1}, "hdtkyim": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdtkyim/", "text": "github is your friend. \n\ngit commit -a \n\ngit push\n\nafter every day, or even in between if you want to", "author": "Niguro90", "created": 1632298400, "upvotes": 1}, "hdt9q28": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdt9q28/", "text": "Whole heartedly agree: back up often and automatically. I wrote a script that replicates my dissertation documents and code to google drive, dropbox, and Microsoft onedrive. The script runs every hour and takes less than 20 seconds to run. I don\u2019t like working from google drive, dropbox, or Microsoft onedrive because I use multiple computers and some of the computers do not allow installing the various cloud clients. I use the cloud services for backup only.", "author": "loggoss", "created": 1632288975, "upvotes": 1}, "hdt0tl0": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdt0tl0/", "text": "Overleaf + Github for the technologically inclined. Version control and remote access anywhere in the world for all your documents. It's great", "author": "whenwillthisphdend", "created": 1632283152, "upvotes": 1}, "hdsy0vd": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdsy0vd/", "text": "Ooooof.  Been there; done that.  Lost a 20 page paper for my historiography class 3 days before deadline!  Luckily I remembered enough of it it rewrite in a day with 2 days to revise/clean up.", "author": "Plopfizz", "created": 1632281560, "upvotes": 1}, "hdsm33e": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdsm33e/", "text": "Dropbox is a lifesaver - if you pay yearly you get version control so even if something corrupts your data you can go back to an earlier uncorrupted version.", "author": "eng2016a", "created": 1632275463, "upvotes": 2}, "hdslt2c": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdslt2c/", "text": "As a lesson from Mother Nature-look at DNA and how generally biological information gets passed on with generations and generations-the best way to keep your data and information secure is by making as many copies as you can. It does not really matter how secure your container(USB, flash drive, hard drive, etc.) is, as they can all be damaged. Also, when you use cloud services, try to go for secure and more privacy-concerned ones.", "author": "Porterretrop", "created": 1632275332, "upvotes": 1}, "hdshkpk": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdshkpk/", "text": "The best way to do this that I've found is to simply save your files to google drive, etc and then open them up from there again using the google drive windows/mac app. The drive will show up like any old folder that you can just save to. That way all of your documents are safe in the cloud as well as available locally. You also get version history.", "author": "msalad", "created": 1632273320, "upvotes": 2}, "hdseuih": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdseuih/", "text": "If everything is on my gsuite (& a copy on my laptop) do I need additional backups?\n\nI keep hearing you should have at least 3 places your research is stored - but surely the cloud is pretty good?", "author": "Hello_Sweetie25", "created": 1632272022, "upvotes": 1}, "hds6wph": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hds6wph/", "text": "Google drive for Mac/desktop!! This has saved my ass so many times. I save all my data/writing here.", "author": "JustAHippy", "created": 1632268204, "upvotes": 3}, "hdrvgu9": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrvgu9/", "text": "Make a google drive on your desktop. It automatically updates to google drive online every time you save something. It also allows you to access your work from anywhere around the world.\n\nI have a google drive on my home desktop, my laptop, and my work desktop. If I save my work at home, the next time I turn on my computer at work my work PC automatically uploads and saves the documents to the hard drive at work.", "author": "greatteachermichael", "created": 1632262852, "upvotes": 2}, "hdrsuxt": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrsuxt/", "text": "Me after reading only the title\n\n_Oh dear god no_", "author": "soleilady", "created": 1632261662, "upvotes": 4}, "hdrjhjn": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrjhjn/", "text": "Dude\u2026everything critical to dissertations and publications should be automatically backed up to the cloud and backed up to an external drive. Does\u2019nt you school give you a Microsoft 365 account?", "author": "CMRattray2020", "created": 1632257583, "upvotes": 2}, "hdril5d": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdril5d/", "text": "Last spring, I lost all files when I tried to \u201creformat\u201d my iMac because it took longer than expected to start up. It happened on few days before deadline. I ended up burning midnight oil to write three 20 pages papers. Luckily, my good memory saved my life. I managed to memorise titles of books and references for assignments before I lost all files. I had tried to retrieve my lost files but the software was too complicated for me and I didn\u2019t want to pay so much money to get them back.", "author": "Godzillavio", "created": 1632257210, "upvotes": 9}, "hdrhpl8": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrhpl8/", "text": "curious, do people not just write their thesis on google docs or overleaf or a similar alternative?", "author": "gentleboys", "created": 1632256841, "upvotes": 2}, "hdrhhpu": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrhhpu/", "text": "I almost lost all of my microscopy data when I was doing my masters. My computer accidentally got smashed and I couldn't recover anything on it. Good thing all of my data was still saved on the microscope computer. Now, everything is on dropbox and is synced to three different devices. lol", "author": "LadyCatastrophe", "created": 1632256749, "upvotes": 2}, "hdr72xh": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdr72xh/", "text": "I choose to learn this the hard way", "author": "econ1mods1are1cucks", "created": 1632252457, "upvotes": 1}, "hdqubi6": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdqubi6/", "text": "At the end of every day! Save on the computer, save on Google drive, save on a flash drive...in the olden days I would save a hard cop of the chapter I was working on.\nIt only takes one \"awe shit!\"", "author": "rthomas10", "created": 1632247182, "upvotes": 4}, "hdqu922": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdqu922/", "text": "Something I learned while working as graphic designer and video editor: always keep three copies. Local copy on your computer, a copy in the cloud, and an external storage device that is kept in a completely different location from your computer. I even started keeping 2 externals: a flash drive on my keychain and an SSD that I kept at the office.", "author": "Anyun", "created": 1632247153, "upvotes": 18}, "hdqoc7q": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdqoc7q/", "text": "That's why I've made my thesis version-controlled.", "author": "OfTheWater", "created": 1632244712, "upvotes": 14}, "hdq1khn": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdq1khn/", "text": "Do you not use OneDrive or Dropbox? Auto sync and then pull down from there to an external device or back up from you local machine if you can house all of your file on there.", "author": "herpslurp", "created": 1632235362, "upvotes": 11}, "hdpya6y": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdpya6y/", "text": "This reminds me of a story in which someone got their laptop stolen and it had the only version of their thesis. Making sure I have my papers saved in at least three separate places.", "author": "Arte-du-Quill", "created": 1632233956, "upvotes": 28}, "hdpx4mt": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdpx4mt/", "text": "A colleague of mine lost all his data in a hard drive failure event.  We are talking about TBs of data on a single spinning disk drive.  I've been telling everyone to back it up to GSuite, but I guess the data didn't quite cut it.  \n\nHe ended up having to send it out to a hard drive recovery firm and after everything was done, it cost like 1200 dollars.  Yeah our advisor reimbursed him for that but safe to say...   It's always cheaper to back up than lose months/years worth of data.", "author": "HalfEatenPie", "created": 1632233450, "upvotes": 54}, "hdpu7vf": {"link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdpu7vf/", "text": "Get a cloud-based service so that your backups are automated.\n\nDropbox is popular. But I prefer Sugarsync because it let's me designate which folders I want backed up to the cloud. Whereas with Dropbox, you have to keep your files in specific Dropbox folders.\n\nhttps://www1.sugarsync.com/", "author": "raistlin65", "created": 1632232134, "upvotes": 46}}}
+{
+  "sid": "psj0l3",
+  "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/",
+  "title:": "Just a friendly reminder to backup your thesis/research",
+  "text": "Story time: Two nights ago I was driving home and I realized I hadn't backed up my thesis in a quite a while (3+ months). Realizing the danger I was in and that Murphy was probably looming somewhere in the shadows, I backed up my thesis when I got home.\n\nAs if on queue, I lost my primary flash drive yesterday. Luckily, I had backed up all of my stuff only a day or so before that instead of several months ago so it was a minor inconvenience versus a serious setback.\n\nAlways back your stuff up, friends. Save yourself the heartache and wasted time.",
+  "author": "AngriestManinWestTX",
+  "created": 1632231843,
+  "over_18": false,
+  "upvotes": 362,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "hdvlw1y": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdvlw1y/",
+      "text": "I emailed the documents to myself after almost every writing session, along with the traditions flags drive and documents folder.\n\nYes I'm sure I look stupid and like a grandma, but I was guaranteed to never lose them unless Google went bankrupt.",
+      "author": "flipflopped_plans",
+      "created": 1632336648,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hduw2q0": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hduw2q0/",
+      "text": "This is great advice. Go one step further, have redundant copies, one in the cloud, and at least one physical backup on a personal hard drive, apart from the computer.",
+      "author": "SquirrelOnTheDam",
+      "created": 1632326200,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdus7h2": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdus7h2/",
+      "text": "Best solution is to synch your map with Google Drive. Quick and easy to do.",
+      "author": "Lord_Nordyx",
+      "created": 1632324626,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdubqq9": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdubqq9/",
+      "text": "I'm always surprised by the amount of grad students who don't use a cloud storage provider (most universities already have this) or another backup service like crashplan. I use onedrive and crashplan (and a nas and raid local storage). One drive auto versions as well as providing backup ability; you could also use git if working with more textual content.",
+      "author": "Trakeen",
+      "created": 1632317507,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdtkyim": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdtkyim/",
+      "text": "github is your friend. \n\ngit commit -a \n\ngit push\n\nafter every day, or even in between if you want to",
+      "author": "Niguro90",
+      "created": 1632298400,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdt9q28": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdt9q28/",
+      "text": "Whole heartedly agree: back up often and automatically. I wrote a script that replicates my dissertation documents and code to google drive, dropbox, and Microsoft onedrive. The script runs every hour and takes less than 20 seconds to run. I don\u2019t like working from google drive, dropbox, or Microsoft onedrive because I use multiple computers and some of the computers do not allow installing the various cloud clients. I use the cloud services for backup only.",
+      "author": "loggoss",
+      "created": 1632288975,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdt0tl0": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdt0tl0/",
+      "text": "Overleaf + Github for the technologically inclined. Version control and remote access anywhere in the world for all your documents. It's great",
+      "author": "whenwillthisphdend",
+      "created": 1632283152,
+      "upvotes": 1,
+      "replies": {
+        "hdxlwd4": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdxlwd4/",
+          "text": "Does Overleaf have version control??",
+          "author": "Long_Drive",
+          "created": 1632376267,
+          "upvotes": 1,
+          "replies": {
+            "hdxm4e3": {
+              "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdxm4e3/",
+              "text": "It has git and GitHub integration in the menu. So yes. \n\nI use GitHub to sync to offline branches while I\u2019m travelling and writing. Also because my offline latex editor is nicer and less distracting than overleaf in a browser.",
+              "author": "whenwillthisphdend",
+              "created": 1632376433,
+              "upvotes": 1,
+              "replies": {
+                "hdxm7h1": {
+                  "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdxm7h1/",
+                  "text": "Oh wow, i've been using Overleaf for some time and never realized, thanks",
+                  "author": "Long_Drive",
+                  "created": 1632376496,
+                  "upvotes": 1,
+                  "replies": {
+                    "hdxmb1m": {
+                      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdxmb1m/",
+                      "text": "Never too late to learn something new! Hope it helps your workflow :)\n\nI hope you\u2019ve already found the citation integrations for zotero/mendelay!",
+                      "author": "whenwillthisphdend",
+                      "created": 1632376572,
+                      "upvotes": 1,
+                      "replies": {
+                        "hdxmlnt": {
+                          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdxmlnt/",
+                          "text": "That I do!",
+                          "author": "Long_Drive",
+                          "created": 1632376798,
+                          "upvotes": 1,
+                          "replies": {
+                            "hdxmoyz": {
+                              "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdxmoyz/",
+                              "text": "Ok great! Good luck with your writing then \ud83d\udc4c",
+                              "author": "whenwillthisphdend",
+                              "created": 1632376866,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hdsy0vd": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdsy0vd/",
+      "text": "Ooooof.  Been there; done that.  Lost a 20 page paper for my historiography class 3 days before deadline!  Luckily I remembered enough of it it rewrite in a day with 2 days to revise/clean up.",
+      "author": "Plopfizz",
+      "created": 1632281560,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdsm33e": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdsm33e/",
+      "text": "Dropbox is a lifesaver - if you pay yearly you get version control so even if something corrupts your data you can go back to an earlier uncorrupted version.",
+      "author": "eng2016a",
+      "created": 1632275463,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hdslt2c": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdslt2c/",
+      "text": "As a lesson from Mother Nature-look at DNA and how generally biological information gets passed on with generations and generations-the best way to keep your data and information secure is by making as many copies as you can. It does not really matter how secure your container(USB, flash drive, hard drive, etc.) is, as they can all be damaged. Also, when you use cloud services, try to go for secure and more privacy-concerned ones.",
+      "author": "Porterretrop",
+      "created": 1632275332,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdshkpk": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdshkpk/",
+      "text": "The best way to do this that I've found is to simply save your files to google drive, etc and then open them up from there again using the google drive windows/mac app. The drive will show up like any old folder that you can just save to. That way all of your documents are safe in the cloud as well as available locally. You also get version history.",
+      "author": "msalad",
+      "created": 1632273320,
+      "upvotes": 2,
+      "replies": {
+        "hdt7403": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdt7403/",
+          "text": "I use Dropbox for this and when I'm done, immediately save a copy to my computer just in case. I think I'll back up on Google Drive now, just to be 1,000% safe.",
+          "author": "Prudent_Astronomer_4",
+          "created": 1632287140,
+          "upvotes": 1,
+          "replies": {
+            "hdt7ha1": {
+              "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdt7ha1/",
+              "text": "I used both Dropbox and google drive too, just in case :)",
+              "author": "msalad",
+              "created": 1632287393,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hdseuih": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdseuih/",
+      "text": "If everything is on my gsuite (& a copy on my laptop) do I need additional backups?\n\nI keep hearing you should have at least 3 places your research is stored - but surely the cloud is pretty good?",
+      "author": "Hello_Sweetie25",
+      "created": 1632272022,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hds6wph": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hds6wph/",
+      "text": "Google drive for Mac/desktop!! This has saved my ass so many times. I save all my data/writing here.",
+      "author": "JustAHippy",
+      "created": 1632268204,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hdrvgu9": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrvgu9/",
+      "text": "Make a google drive on your desktop. It automatically updates to google drive online every time you save something. It also allows you to access your work from anywhere around the world.\n\nI have a google drive on my home desktop, my laptop, and my work desktop. If I save my work at home, the next time I turn on my computer at work my work PC automatically uploads and saves the documents to the hard drive at work.",
+      "author": "greatteachermichael",
+      "created": 1632262852,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hdrsuxt": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrsuxt/",
+      "text": "Me after reading only the title\n\n_Oh dear god no_",
+      "author": "soleilady",
+      "created": 1632261662,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hdrjhjn": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrjhjn/",
+      "text": "Dude\u2026everything critical to dissertations and publications should be automatically backed up to the cloud and backed up to an external drive. Does\u2019nt you school give you a Microsoft 365 account?",
+      "author": "CMRattray2020",
+      "created": 1632257583,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hdril5d": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdril5d/",
+      "text": "Last spring, I lost all files when I tried to \u201creformat\u201d my iMac because it took longer than expected to start up. It happened on few days before deadline. I ended up burning midnight oil to write three 20 pages papers. Luckily, my good memory saved my life. I managed to memorise titles of books and references for assignments before I lost all files. I had tried to retrieve my lost files but the software was too complicated for me and I didn\u2019t want to pay so much money to get them back.",
+      "author": "Godzillavio",
+      "created": 1632257210,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hdrhpl8": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrhpl8/",
+      "text": "curious, do people not just write their thesis on google docs or overleaf or a similar alternative?",
+      "author": "gentleboys",
+      "created": 1632256841,
+      "upvotes": 2,
+      "replies": {
+        "hdthtjj": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdthtjj/",
+          "text": "I LOVE Google Docs! But my current uni is very strict and Google products are not considered safe enough privacy wise, so we have to use Microsoft for everything...",
+          "author": "izartxikia",
+          "created": 1632295475,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hdsm84c": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdsm84c/",
+          "text": "google docs is trash not fit for writing an undergrad paper, let alone a hundred+page thesis",
+          "author": "eng2016a",
+          "created": 1632275530,
+          "upvotes": 0,
+          "replies": {
+            "hdsyk9c": {
+              "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdsyk9c/",
+              "text": "You'd be surprised how much Docs has improved in the last 5 years, I don't think I would have even called it trash in undergrad, quite the opposite really especially for collaboration and proof of work/edits. \n\nYou know what is trash though? Word, more specifically office365/teams/web based Word trying to be Docs.",
+              "author": "ninjabrer",
+              "created": 1632281858,
+              "upvotes": 0,
+              "replies": {}
+            }
+          }
+        },
+        "hdsyauu": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdsyauu/",
+          "text": "I'm reading all these comments with the same question. Google Docs for the scatterbrained notes, Overleaf for the real stuff.",
+          "author": "ninjabrer",
+          "created": 1632281713,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hdrhhpu": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrhhpu/",
+      "text": "I almost lost all of my microscopy data when I was doing my masters. My computer accidentally got smashed and I couldn't recover anything on it. Good thing all of my data was still saved on the microscope computer. Now, everything is on dropbox and is synced to three different devices. lol",
+      "author": "LadyCatastrophe",
+      "created": 1632256749,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hdr72xh": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdr72xh/",
+      "text": "I choose to learn this the hard way",
+      "author": "econ1mods1are1cucks",
+      "created": 1632252457,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdqubi6": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdqubi6/",
+      "text": "At the end of every day! Save on the computer, save on Google drive, save on a flash drive...in the olden days I would save a hard cop of the chapter I was working on.\nIt only takes one \"awe shit!\"",
+      "author": "rthomas10",
+      "created": 1632247182,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hdqu922": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdqu922/",
+      "text": "Something I learned while working as graphic designer and video editor: always keep three copies. Local copy on your computer, a copy in the cloud, and an external storage device that is kept in a completely different location from your computer. I even started keeping 2 externals: a flash drive on my keychain and an SSD that I kept at the office.",
+      "author": "Anyun",
+      "created": 1632247153,
+      "upvotes": 18,
+      "replies": {
+        "hdrjl74": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdrjl74/",
+          "text": "Yes!",
+          "author": "CMRattray2020",
+          "created": 1632257627,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hdqoc7q": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdqoc7q/",
+      "text": "That's why I've made my thesis version-controlled.",
+      "author": "OfTheWater",
+      "created": 1632244712,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "hdq1khn": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdq1khn/",
+      "text": "Do you not use OneDrive or Dropbox? Auto sync and then pull down from there to an external device or back up from you local machine if you can house all of your file on there.",
+      "author": "herpslurp",
+      "created": 1632235362,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "hdpya6y": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdpya6y/",
+      "text": "This reminds me of a story in which someone got their laptop stolen and it had the only version of their thesis. Making sure I have my papers saved in at least three separate places.",
+      "author": "Arte-du-Quill",
+      "created": 1632233956,
+      "upvotes": 28,
+      "replies": {
+        "hdr4jsw": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdr4jsw/",
+          "text": "Yikes, that's a nightmare of mine. Both losing the laptop and losing the laptop with my only thesis copy on it.",
+          "author": "AngriestManinWestTX",
+          "created": 1632251423,
+          "upvotes": 7,
+          "replies": {}
+        }
+      }
+    },
+    "hdpx4mt": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdpx4mt/",
+      "text": "A colleague of mine lost all his data in a hard drive failure event.  We are talking about TBs of data on a single spinning disk drive.  I've been telling everyone to back it up to GSuite, but I guess the data didn't quite cut it.  \n\nHe ended up having to send it out to a hard drive recovery firm and after everything was done, it cost like 1200 dollars.  Yeah our advisor reimbursed him for that but safe to say...   It's always cheaper to back up than lose months/years worth of data.",
+      "author": "HalfEatenPie",
+      "created": 1632233450,
+      "upvotes": 54,
+      "replies": {
+        "hdqugpz": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdqugpz/",
+          "text": "GSuite is great unless you're working with data protected by HIPAA. At least my uni doesn't consider it secure enough and has us use a VPN to access a secured server that we're not even supposed to move data off of. But they supposedly keep multiple backups too.",
+          "author": "Anyun",
+          "created": 1632247242,
+          "upvotes": 15,
+          "replies": {
+            "hdquz8g": {
+              "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdquz8g/",
+              "text": "Yeah you're right but we're not using data that requires HIPAA compliance.  GSuite is definitely not qualified for those requirements so we had Box access which has now been moved to OneDrive.",
+              "author": "HalfEatenPie",
+              "created": 1632247459,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "hdr4gj4": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdr4gj4/",
+          "text": "Damn that would suck.\n\nGlad he got his data back, though, even if it cost a ton money.",
+          "author": "AngriestManinWestTX",
+          "created": 1632251386,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hdpu7vf": {
+      "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdpu7vf/",
+      "text": "Get a cloud-based service so that your backups are automated.\n\nDropbox is popular. But I prefer Sugarsync because it let's me designate which folders I want backed up to the cloud. Whereas with Dropbox, you have to keep your files in specific Dropbox folders.\n\nhttps://www1.sugarsync.com/",
+      "author": "raistlin65",
+      "created": 1632232134,
+      "upvotes": 46,
+      "replies": {
+        "hdqwm4o": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdqwm4o/",
+          "text": "I 100% second this. I use dropbox, but any cloud-based service is worth. Very shortly after starting writing I put my thesis on dropbox, and that's where it's stayed this whole time. It's far more convenient than having to move between storage media/different computers and it saves me from the pain of loosing anything.   \n\n\nI also am writing my thesis in LaTeX, so I can confirm it works for TeX-based thesis too.",
+          "author": "stefanduck",
+          "created": 1632248134,
+          "upvotes": 7,
+          "replies": {
+            "hdr0uti": {
+              "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdr0uti/",
+              "text": "If you write in LaTeX anyway, then consider using GitHub and/or Overleaf",
+              "author": "hhjjiiyy",
+              "created": 1632249891,
+              "upvotes": 15,
+              "replies": {}
+            }
+          }
+        },
+        "hdr49wy": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdr49wy/",
+          "text": "I'll have to check it out, thanks!",
+          "author": "AngriestManinWestTX",
+          "created": 1632251310,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hdu41yw": {
+          "link": "/r/GradSchool/comments/psj0l3/just_a_friendly_reminder_to_backup_your/hdu41yw/",
+          "text": "I use Dropbox for all my files. Works for my needs.",
+          "author": "cynikles",
+          "created": 1632313538,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634066904
+}

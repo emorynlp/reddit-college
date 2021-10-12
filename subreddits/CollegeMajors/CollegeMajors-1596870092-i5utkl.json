@@ -1,1 +1,30 @@
-{"sid": "i5utkl", "link": "/r/CollegeMajors/comments/i5utkl/which_stem_fields_are_the_most_theoretical_vs/", "title:": "Which STEM fields are the most theoretical vs most applied/practical?", "text": "I've been toying with going back to school for a STEM degree, but am having trouble deciding which one.\n\nWhich branches are the most theoretical? Most practical? Which fields are a good mix between the two?", "author": "slouchingbethlehem", "created": 1596870092, "retrieved": 1632957358, "over_18": false, "upvotes": 7, "upvote_ratio": 1.0, "comments": {"g15qwoe": {"link": "/r/CollegeMajors/comments/i5utkl/which_stem_fields_are_the_most_theoretical_vs/g15qwoe/", "text": "You can take computer science in any direction. Software engineering, data science, and IT are probably the most practical, or you can choose to pursue theoretical computer science and deal with complexity theory, algorithms, and programming language theory. IMO, it has everything you can ask for in a major", "author": "wevfreeman", "created": 1597189903, "upvotes": 1}, "g136ow2": {"link": "/r/CollegeMajors/comments/i5utkl/which_stem_fields_are_the_most_theoretical_vs/g136ow2/", "text": "I would say the most theoretical majors are physics and maths. Maths is super theoretical since it teaches you to prove a lot of fundamental theorems. It will help you become a master in problem solving. Physics is very theoretical as well. Most of the courses are maths courses or theoretical physics courses, in which you need to apply the maths you learned. It is mostly maths but applied to very theoretical and fundamental problems. Think about quantum mechanics; it is full of maths and very very abstract. You will have a few lab courses as well as maybe some programming courses. In the programming courses you will learn to write good code to help you analyse physics problems or help you solve the maths. In conclusion: physics is super theoretical in itself but you can make it more practical by putting in some lab courses or coding courses.\n\nAll the other STEM majors are derivatives (pun intended) of maths and physics. Chemistry is physics applied to the elements. Electical Engineering is physics applied to real world problems involving electricity.", "author": "InterestingKiwi5004", "created": 1597140875, "upvotes": 3}}}
+{
+  "sid": "i5utkl",
+  "link": "/r/CollegeMajors/comments/i5utkl/which_stem_fields_are_the_most_theoretical_vs/",
+  "title:": "Which STEM fields are the most theoretical vs most applied/practical?",
+  "text": "I've been toying with going back to school for a STEM degree, but am having trouble deciding which one.\n\nWhich branches are the most theoretical? Most practical? Which fields are a good mix between the two?",
+  "author": "slouchingbethlehem",
+  "created": 1596870092,
+  "over_18": false,
+  "upvotes": 7,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "g15qwoe": {
+      "link": "/r/CollegeMajors/comments/i5utkl/which_stem_fields_are_the_most_theoretical_vs/g15qwoe/",
+      "text": "You can take computer science in any direction. Software engineering, data science, and IT are probably the most practical, or you can choose to pursue theoretical computer science and deal with complexity theory, algorithms, and programming language theory. IMO, it has everything you can ask for in a major",
+      "author": "wevfreeman",
+      "created": 1597189903,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g136ow2": {
+      "link": "/r/CollegeMajors/comments/i5utkl/which_stem_fields_are_the_most_theoretical_vs/g136ow2/",
+      "text": "I would say the most theoretical majors are physics and maths. Maths is super theoretical since it teaches you to prove a lot of fundamental theorems. It will help you become a master in problem solving. Physics is very theoretical as well. Most of the courses are maths courses or theoretical physics courses, in which you need to apply the maths you learned. It is mostly maths but applied to very theoretical and fundamental problems. Think about quantum mechanics; it is full of maths and very very abstract. You will have a few lab courses as well as maybe some programming courses. In the programming courses you will learn to write good code to help you analyse physics problems or help you solve the maths. In conclusion: physics is super theoretical in itself but you can make it more practical by putting in some lab courses or coding courses.\n\nAll the other STEM majors are derivatives (pun intended) of maths and physics. Chemistry is physics applied to the elements. Electical Engineering is physics applied to real world problems involving electricity.",
+      "author": "InterestingKiwi5004",
+      "created": 1597140875,
+      "upvotes": 3,
+      "replies": {}
+    }
+  },
+  "updated": 1634060623
+}

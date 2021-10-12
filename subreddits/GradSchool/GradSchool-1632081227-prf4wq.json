@@ -1,1 +1,30 @@
-{"sid": "prf4wq", "link": "/r/GradSchool/comments/prf4wq/whats_the_attrition_rate_for_the_top_phd_programs/", "title:": "What's the attrition rate for the top PhD programs in ML in the US?", "text": "I've heard the attrition rate for PhD programs in North America is around 40%(that is 40% of people drop out) but is it this high for top PhD programs too? Especially in Machine Learning, would the attrition rate be high as 40%?", "author": "std_cout_hello_world", "created": 1632081227, "retrieved": 1632952191, "over_18": false, "upvotes": 3, "upvote_ratio": 0.71, "comments": {"hdjmwy7": {"link": "/r/GradSchool/comments/prf4wq/whats_the_attrition_rate_for_the_top_phd_programs/hdjmwy7/", "text": "As the other one side, anecdotal evidence.  Not ML but STEM, yes.  Since I started, the student above and below me mastered out or left.  Another has been on the verge and questionable.  Our lab is solid too, in the sense of work/life balance and good adviser etc.  From my dept in general it seems to be that way, but there's no rhyme or reason.  I've heard that some people left and just been like, \"what!?  no way!\"  Only to find it it was personal, dating the wrong person drama.\n\n&#x200B;\n\nIts hard, its long, it sucks at alot of points.  Don't worry about the numbers, just introspect.", "author": "idk_witty_username", "created": 1632105679, "upvotes": 1}, "hdikryk": {"link": "/r/GradSchool/comments/prf4wq/whats_the_attrition_rate_for_the_top_phd_programs/hdikryk/", "text": "It's probably going to be difficult too get this data, as there's no central source. So you'll just get a bunch of anecdotes from people based on their estimates from their own departments.\n\nBut also just wondering, can you define attrition in a subfield? Does it include students who switch to other subfields other than what they started in, like Computer Graphics or Social Computing? What about students who have gone on leave but might come back? Or students who switch universities? Or students who have to stop for medical reasons?", "author": "dr-dead-inside", "created": 1632087825, "upvotes": 5}}}
+{
+  "sid": "prf4wq",
+  "link": "/r/GradSchool/comments/prf4wq/whats_the_attrition_rate_for_the_top_phd_programs/",
+  "title:": "What's the attrition rate for the top PhD programs in ML in the US?",
+  "text": "I've heard the attrition rate for PhD programs in North America is around 40%(that is 40% of people drop out) but is it this high for top PhD programs too? Especially in Machine Learning, would the attrition rate be high as 40%?",
+  "author": "std_cout_hello_world",
+  "created": 1632081227,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 0.71,
+  "comments": {
+    "hdjmwy7": {
+      "link": "/r/GradSchool/comments/prf4wq/whats_the_attrition_rate_for_the_top_phd_programs/hdjmwy7/",
+      "text": "As the other one side, anecdotal evidence.  Not ML but STEM, yes.  Since I started, the student above and below me mastered out or left.  Another has been on the verge and questionable.  Our lab is solid too, in the sense of work/life balance and good adviser etc.  From my dept in general it seems to be that way, but there's no rhyme or reason.  I've heard that some people left and just been like, \"what!?  no way!\"  Only to find it it was personal, dating the wrong person drama.\n\n&#x200B;\n\nIts hard, its long, it sucks at alot of points.  Don't worry about the numbers, just introspect.",
+      "author": "idk_witty_username",
+      "created": 1632105679,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdikryk": {
+      "link": "/r/GradSchool/comments/prf4wq/whats_the_attrition_rate_for_the_top_phd_programs/hdikryk/",
+      "text": "It's probably going to be difficult too get this data, as there's no central source. So you'll just get a bunch of anecdotes from people based on their estimates from their own departments.\n\nBut also just wondering, can you define attrition in a subfield? Does it include students who switch to other subfields other than what they started in, like Computer Graphics or Social Computing? What about students who have gone on leave but might come back? Or students who switch universities? Or students who have to stop for medical reasons?",
+      "author": "dr-dead-inside",
+      "created": 1632087825,
+      "upvotes": 5,
+      "replies": {}
+    }
+  },
+  "updated": 1634066923
+}

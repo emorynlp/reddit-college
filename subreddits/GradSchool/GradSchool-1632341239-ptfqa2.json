@@ -1,1 +1,38 @@
-{"sid": "ptfqa2", "link": "/r/GradSchool/comments/ptfqa2/how_do_you_summarize_machine_learning_papers/", "title:": "How do you summarize Machine Learning papers?", "text": "In order to \"keep up to date with the literature\", I try to write a general summary of any paper I find that's somewhat related to my research. Usually just a few sentences to be able to find/refer to the paper when appropriate. However, I'm running in an issue with papers based on machine learning in that they end up being very similar or problem-specific. A usual structure I see for these papers is along the lines of\n\n* Introduction that states what network type/algorithm is used and what's the task\n* multiple pages describing network structure & relevant math (that I usually end up skipping since I'm not looking to implement it)\n* results that are by nature very task-specific\n* conclusion that states the results were better/faster/on par with current state of the art\n\nThis means my general summary usually ends up along the lines of \"*authors x and y applied Z type of network/algorithm to problem W and ended up with good/fast results\",* unless there's some kind of interesting preprocessing or intermediate step that catches my attention. Obviously that's not a super helpful summary for me. For papers that use more traditional algorithms, I can usually extract a bit more information and insight about the problem that could be transferred to my research.\n\nIs this just due to the nature of machine learning or am I missing something? What kind of information do you keep when summarizing such papers?\n\nThanks!", "author": "Xilef11", "created": 1632341239, "retrieved": 1632952125, "over_18": false, "upvotes": 1, "upvote_ratio": 1.0, "comments": {"hdzwv68": {"link": "/r/GradSchool/comments/ptfqa2/how_do_you_summarize_machine_learning_papers/hdzwv68/", "text": "Most ML papers have decent GitHub repositories. Repo dependencies and README files are often a great summary.", "author": "N1H1L", "created": 1632423155, "upvotes": 1}, "hdxupxi": {"link": "/r/GradSchool/comments/ptfqa2/how_do_you_summarize_machine_learning_papers/hdxupxi/", "text": "I'd usually highlight some texts in the \"Related Work\" section where they talk about previous attempts and if your task is more benchmark oriented then it's likely that they say something about the paper's relation to the then-SOTA, in which ways it's better or worse than the SOTA and why that might be. If the paper doesn't have a good related work section then look up someone else's paper that cites this work so you can see this work in context.", "author": "GoofyMaximus", "created": 1632383508, "upvotes": 1}, "hdwvdzi": {"link": "/r/GradSchool/comments/ptfqa2/how_do_you_summarize_machine_learning_papers/hdwvdzi/", "text": "You need to identify why the approach they used was better or worse than other previous approaches.\n\nAt least as I see it, you\u2019re trying to build a picture in your mind about what core characteristics of a problem would lead you to want to use approach X or approach Z and why that is likely better than the others.\n\nThat also allows you to look at existing problems where there are solutions but they suck for your application, quickly identify which approach is likely ideal, if it has been used before, if a shittier version of it was used, if a newer variant that was useful for a different task might find improve it, or if that really is the best out there right now.\n\nIf it is the best, then you\u2019d just optimize as best you can software engineer it and look to scale.  If you can identify holes or mistakes right off the bat from your understanding, you look to fix those holes or mistakes before deciding on your approach to this new application.", "author": "Weekly-Ad353", "created": 1632361152, "upvotes": 3}}}
+{
+  "sid": "ptfqa2",
+  "link": "/r/GradSchool/comments/ptfqa2/how_do_you_summarize_machine_learning_papers/",
+  "title:": "How do you summarize Machine Learning papers?",
+  "text": "In order to \"keep up to date with the literature\", I try to write a general summary of any paper I find that's somewhat related to my research. Usually just a few sentences to be able to find/refer to the paper when appropriate. However, I'm running in an issue with papers based on machine learning in that they end up being very similar or problem-specific. A usual structure I see for these papers is along the lines of\n\n* Introduction that states what network type/algorithm is used and what's the task\n* multiple pages describing network structure & relevant math (that I usually end up skipping since I'm not looking to implement it)\n* results that are by nature very task-specific\n* conclusion that states the results were better/faster/on par with current state of the art\n\nThis means my general summary usually ends up along the lines of \"*authors x and y applied Z type of network/algorithm to problem W and ended up with good/fast results\",* unless there's some kind of interesting preprocessing or intermediate step that catches my attention. Obviously that's not a super helpful summary for me. For papers that use more traditional algorithms, I can usually extract a bit more information and insight about the problem that could be transferred to my research.\n\nIs this just due to the nature of machine learning or am I missing something? What kind of information do you keep when summarizing such papers?\n\nThanks!",
+  "author": "Xilef11",
+  "created": 1632341239,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hdzwv68": {
+      "link": "/r/GradSchool/comments/ptfqa2/how_do_you_summarize_machine_learning_papers/hdzwv68/",
+      "text": "Most ML papers have decent GitHub repositories. Repo dependencies and README files are often a great summary.",
+      "author": "N1H1L",
+      "created": 1632423155,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdxupxi": {
+      "link": "/r/GradSchool/comments/ptfqa2/how_do_you_summarize_machine_learning_papers/hdxupxi/",
+      "text": "I'd usually highlight some texts in the \"Related Work\" section where they talk about previous attempts and if your task is more benchmark oriented then it's likely that they say something about the paper's relation to the then-SOTA, in which ways it's better or worse than the SOTA and why that might be. If the paper doesn't have a good related work section then look up someone else's paper that cites this work so you can see this work in context.",
+      "author": "GoofyMaximus",
+      "created": 1632383508,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdwvdzi": {
+      "link": "/r/GradSchool/comments/ptfqa2/how_do_you_summarize_machine_learning_papers/hdwvdzi/",
+      "text": "You need to identify why the approach they used was better or worse than other previous approaches.\n\nAt least as I see it, you\u2019re trying to build a picture in your mind about what core characteristics of a problem would lead you to want to use approach X or approach Z and why that is likely better than the others.\n\nThat also allows you to look at existing problems where there are solutions but they suck for your application, quickly identify which approach is likely ideal, if it has been used before, if a shittier version of it was used, if a newer variant that was useful for a different task might find improve it, or if that really is the best out there right now.\n\nIf it is the best, then you\u2019d just optimize as best you can software engineer it and look to scale.  If you can identify holes or mistakes right off the bat from your understanding, you look to fix those holes or mistakes before deciding on your approach to this new application.",
+      "author": "Weekly-Ad353",
+      "created": 1632361152,
+      "upvotes": 3,
+      "replies": {}
+    }
+  },
+  "updated": 1634064961
+}

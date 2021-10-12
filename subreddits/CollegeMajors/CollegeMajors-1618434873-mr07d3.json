@@ -1,1 +1,56 @@
-{"sid": "mr07d3", "link": "/r/CollegeMajors/comments/mr07d3/what_is_the_best_double_major_for_finance_and_why/", "title:": "What is the best double major for finance and why?", "text": "I\u2019m a senior going to college soon and I\u2019m interested in investing, computers, and math. I want to major in finance and am thinking of getting a double major but I\u2019m unsure. I\u2019m thinking of getting a masters in cs since I probably won\u2019t be able to handle cs with finance together, but I\u2019m unsure. Is a CIS degree any good?", "author": "Unlimited_IQ", "created": 1618434873, "retrieved": 1632956809, "over_18": false, "upvotes": 8, "upvote_ratio": 1.0, "comments": {"gujtw72": {"link": "/r/CollegeMajors/comments/mr07d3/what_is_the_best_double_major_for_finance_and_why/gujtw72/", "text": "Math and statistics are very often used in finance, especially the more quantitative stuff. Plus, it sets you up really good if you want to go to grad school/get your MBA in the future, since you'll have a really good foundation if you want to do the more quantitative stuff. CS is also a good choice, since there's a lot of opportunities at fin tech companies I'm sure that combine the two fields, so knowledge of both would be beneficial. CIS is different from CS though, I think CIS is much more focused on integrating technology with business, CS is more math + programming, basically.", "author": "BetUrProcrastinating", "created": 1618445850, "upvotes": 6}, "gujbv2n": {"link": "/r/CollegeMajors/comments/mr07d3/what_is_the_best_double_major_for_finance_and_why/gujbv2n/", "text": "Computer Science, Statistics, and Math are the three best double majors. If you don't feel like you could handle the course load double major (or minor), try to pick and choose classes from these departments that are both interesting and useful to your finance major.", "author": "user4684784124", "created": 1618436623, "upvotes": 5}}}
+{
+  "sid": "mr07d3",
+  "link": "/r/CollegeMajors/comments/mr07d3/what_is_the_best_double_major_for_finance_and_why/",
+  "title:": "What is the best double major for finance and why?",
+  "text": "I\u2019m a senior going to college soon and I\u2019m interested in investing, computers, and math. I want to major in finance and am thinking of getting a double major but I\u2019m unsure. I\u2019m thinking of getting a masters in cs since I probably won\u2019t be able to handle cs with finance together, but I\u2019m unsure. Is a CIS degree any good?",
+  "author": "Unlimited_IQ",
+  "created": 1618434873,
+  "over_18": false,
+  "upvotes": 8,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "gujtw72": {
+      "link": "/r/CollegeMajors/comments/mr07d3/what_is_the_best_double_major_for_finance_and_why/gujtw72/",
+      "text": "Math and statistics are very often used in finance, especially the more quantitative stuff. Plus, it sets you up really good if you want to go to grad school/get your MBA in the future, since you'll have a really good foundation if you want to do the more quantitative stuff. CS is also a good choice, since there's a lot of opportunities at fin tech companies I'm sure that combine the two fields, so knowledge of both would be beneficial. CIS is different from CS though, I think CIS is much more focused on integrating technology with business, CS is more math + programming, basically.",
+      "author": "BetUrProcrastinating",
+      "created": 1618445850,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gujbv2n": {
+      "link": "/r/CollegeMajors/comments/mr07d3/what_is_the_best_double_major_for_finance_and_why/gujbv2n/",
+      "text": "Computer Science, Statistics, and Math are the three best double majors. If you don't feel like you could handle the course load double major (or minor), try to pick and choose classes from these departments that are both interesting and useful to your finance major.",
+      "author": "user4684784124",
+      "created": 1618436623,
+      "upvotes": 5,
+      "replies": {
+        "gujc93a": {
+          "link": "/r/CollegeMajors/comments/mr07d3/what_is_the_best_double_major_for_finance_and_why/gujc93a/",
+          "text": "My school doesn\u2019t offer cs but has math, computer info systems, and stats and quantitative modeling. Are any of these good choices? I\u2019m primarily interested in analytical roles but also like tech, so idk if a CIS degree would be beneficial.",
+          "author": "Unlimited_IQ",
+          "created": 1618436807,
+          "upvotes": 4,
+          "replies": {
+            "gujcv2n": {
+              "link": "/r/CollegeMajors/comments/mr07d3/what_is_the_best_double_major_for_finance_and_why/gujcv2n/",
+              "text": "Take as much upper division stats as you can. For upper division math, keep an eye out for Applied Linear Algebra, Linear Programming (Optimization), Probability/Stochastic Processes, and maybe Combinatorics. Some schools offer upper division Math classes like 'Mathematical Finance'.",
+              "author": "user4684784124",
+              "created": 1618437098,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "guw1jct": {
+              "link": "/r/CollegeMajors/comments/mr07d3/what_is_the_best_double_major_for_finance_and_why/guw1jct/",
+              "text": "If this is the college that I'm thinking about (starts with a B), then there are plenty of options for your interests. There's the financial math major which combines all 3 of your interests, or you can do a finance major and cs minor. Stats and quantitative modeling is a good choice if you are interested in data analytics/data science, and cis is good if you choose the right electives.",
+              "author": "Effective_Coconut547",
+              "created": 1618687974,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634060344
+}

@@ -1,1 +1,65 @@
-{"sid": "pi9ssi", "link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/", "title:": "Data Visualization Research", "text": "Do you believe it's worth it to do a Ph.D. in data visualization? I have a background in data science/machine learning but I also want to learn graphics . Data visualization would be a great way to combine these two. \n[Example companies](https://www.nvidia.com/pt-br/ai-accelerated-analytics2/partners/)", "author": "georgegeorge97", "created": 1630833030, "retrieved": 1632953106, "over_18": false, "upvotes": 5, "upvote_ratio": 1.0, "comments": {"hbrtzvy": {"link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/hbrtzvy/", "text": "Hey, I'm an ML student who took a little detour into visualization (a short paper in the conference VIS). A phd in this field is pretty good since all interesting data is high-dimensional i.e. you'll be working in data science, so your ML experience is great and an industry career is no problem. If you're more interested in the graphics side (shaders and whatnot), I can't really comment there. I think there is certainly room to design interesting interactions with complex data using graphics. Also, do you like working with users? The problem of \"how do I represent my data in a novel/understandable way\" requires user studies since, well, how else can you evaluate the quality of your new visualization?\n\nVis phds do take a while though, compared to ML. I've heard one vis lab taking 8 years on average, whereas ML is 6.", "author": "goldemerald", "created": 1630902837, "upvotes": 3}, "hbom8d0": {"link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/hbom8d0/", "text": "It depends on what you want to do. If you want to go into industry, for most jobs you'll just need a bachelors or masters and the right skill set. A big chunk of the PhD is research, which doesn't provide any practical skills needed for most jobs. I'd suggest getting the PhD only if you plan to go into academia. Of course, you may have other reasons like personal fulfillment that would make it worth doing.", "author": "eleveneels", "created": 1630847831, "upvotes": 3}, "hboj4kk": {"link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/hboj4kk/", "text": "Personally, I wouldn\u2019t say a PhD in Data Visualization is worth it. But also in my opinion, I believe that PhDs are an excellent way to greatly expand upon your current knowledge and bring something new into the world; PhDs do not always have to have a practical use (i.e you don\u2019t need to spend years working on a PhD just to be good at data visualization). If you value the enhanced knowledge and specialization that a PhD provides, I say it is an excellent choice!", "author": "PasswordLogger", "created": 1630846027, "upvotes": 4}}}
+{
+  "sid": "pi9ssi",
+  "link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/",
+  "title:": "Data Visualization Research",
+  "text": "Do you believe it's worth it to do a Ph.D. in data visualization? I have a background in data science/machine learning but I also want to learn graphics . Data visualization would be a great way to combine these two. \n[Example companies](https://www.nvidia.com/pt-br/ai-accelerated-analytics2/partners/)",
+  "author": "georgegeorge97",
+  "created": 1630833030,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hbrtzvy": {
+      "link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/hbrtzvy/",
+      "text": "Hey, I'm an ML student who took a little detour into visualization (a short paper in the conference VIS). A phd in this field is pretty good since all interesting data is high-dimensional i.e. you'll be working in data science, so your ML experience is great and an industry career is no problem. If you're more interested in the graphics side (shaders and whatnot), I can't really comment there. I think there is certainly room to design interesting interactions with complex data using graphics. Also, do you like working with users? The problem of \"how do I represent my data in a novel/understandable way\" requires user studies since, well, how else can you evaluate the quality of your new visualization?\n\nVis phds do take a while though, compared to ML. I've heard one vis lab taking 8 years on average, whereas ML is 6.",
+      "author": "goldemerald",
+      "created": 1630902837,
+      "upvotes": 3,
+      "replies": {
+        "hbs5epl": {
+          "link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/hbs5epl/",
+          "text": "I would mostly focus on ML data but I will have a course on shaders,etc probably . There is a also a large interest to create interactive visualizations(even more so with AR) for these kind of data and also there is a demand to create visualizations for real time streaming data.Overall, I want to combine the creative side of me with my machine learningl/computer science background . I will also probably take some kind of course in user experience too. I don't plan on spending more than 5 years but we will see.Also, having this whole experience with graphics won't hurt ,there is a demand in interfaces for IoT devices,defense applications,graphics applications in medicine,etc.Its definitely a niche field but if someone likes it he can certainly thrive in it.",
+          "author": "georgegeorge97",
+          "created": 1630910509,
+          "upvotes": 1,
+          "replies": {
+            "hbwhgl9": {
+              "link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/hbwhgl9/",
+              "text": "Have you taken a look at recent Visualization work? Most of it is javascript UI based, not much fancy graphic stuff. In general, you can precompute any sophisticated data representation (on a GPU with pytorch for example), then just load the data as a json into a browser. Even real-time can be offloaded to pytorch.\n\nIf you are hoping to do AR related vis work, then yeah you have the perfect overlap of interests.\n\nI haven't heard of any quick, 5 year, VIS PhDs. Check the labs you are applying to and see how long the recent grads took.",
+              "author": "goldemerald",
+              "created": 1630995583,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbom8d0": {
+      "link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/hbom8d0/",
+      "text": "It depends on what you want to do. If you want to go into industry, for most jobs you'll just need a bachelors or masters and the right skill set. A big chunk of the PhD is research, which doesn't provide any practical skills needed for most jobs. I'd suggest getting the PhD only if you plan to go into academia. Of course, you may have other reasons like personal fulfillment that would make it worth doing.",
+      "author": "eleveneels",
+      "created": 1630847831,
+      "upvotes": 3,
+      "replies": {
+        "hboox16": {
+          "link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/hboox16/",
+          "text": "Some universities provide a phd in data visualization/graphics . In the beginning you basically do master courses in graphics and then you try to solve performance problems(how many data you monitor in real-time ,or finding more efficient geometry processing algorithms,etc) or/and you try to think of new visualization problems. There are some startups that process geometrical data,or they provide visual analytics.So such a Ph.D. in visualization would make me a strong candidate. I disagree with what you are saying,that a Ph.D. doesn't provide any practical skills .A Ph.D. student in difficult topics ,big data, Machine Learning,etc is much much stronger than someone with just a master's.Most of the jobs in machine learning ask you to be a current Ph.D. student. A Ph.D. in engineering make you much stronger in industry, unless the Ph.D.'s subject is not implemented in industry yet or its way too theoretical.",
+          "author": "georgegeorge97",
+          "created": 1630849290,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "hboj4kk": {
+      "link": "/r/GradSchool/comments/pi9ssi/data_visualization_research/hboj4kk/",
+      "text": "Personally, I wouldn\u2019t say a PhD in Data Visualization is worth it. But also in my opinion, I believe that PhDs are an excellent way to greatly expand upon your current knowledge and bring something new into the world; PhDs do not always have to have a practical use (i.e you don\u2019t need to spend years working on a PhD just to be good at data visualization). If you value the enhanced knowledge and specialization that a PhD provides, I say it is an excellent choice!",
+      "author": "PasswordLogger",
+      "created": 1630846027,
+      "upvotes": 4,
+      "replies": {}
+    }
+  },
+  "updated": 1634066897
+}

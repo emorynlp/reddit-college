@@ -1,1 +1,73 @@
-{"sid": "pspjwd", "link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/", "title:": "Favorite methods for backing up files?", "text": "Thumb drive? External hard drive? The cloud?\n\nI would like to start backing up my entire laptop on a regular basis. I'm not involved in research yet, but I want to establish the habit early. My laptop is getting up there in years, too, and if I lose everything on it then it will be a huge hassle to get everything set up again.\n\nI'm a little gun shy of external hard drives, as I got one about 12 years ago and not long after purchasing it the metal piece that the cord plugs into got pushed into the hard drive. I am willing to admit that there have been significant technological upgrades since then, however.", "author": "taciturntales", "created": 1632251116, "retrieved": 1632952139, "over_18": false, "upvotes": 6, "upvote_ratio": 1.0, "comments": {"hdrq06l": {"link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hdrq06l/", "text": "As others have mentioned both cloud and external are super good to have. However, I feel like this comes up all the time but no one mentions one important thing; once you are in research be sure to check with ethics and your lab group whether or not you can use a cloud backup to store data. If it is human data, there is a good chance they will not want to backed up to personal cloud storage and will have designated storage for data.", "author": "sensorimotorneuro", "created": 1632260389, "upvotes": 1}, "hdrp8ct": {"link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hdrp8ct/", "text": "Google Drive/Dropbox/OneDrive  \n\nRegularly backs everything up (on these platforms) to a home NAS server I have (It's just an ODROID HC-2 with a 8 TB HDD) which re-packs everything up regularly and uploads a version-controlled version to Google Drive.", "author": "HalfEatenPie", "created": 1632260051, "upvotes": 2}, "hdro0xq": {"link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hdro0xq/", "text": "I use every service available to me. School provided OneDrive that gets everything related to school, along with my own personal Google Drive that gets all my school related stuff plus anything personal. Those two are constantly syncing. Weekly my entire computer gets backed up to a physical drive. Finally, I use git and GitHub for version control and that gets updated whenever I make changes to something. Typically I commit immediately after working on something. This system allows me to move between computers and Chromebook/tablet and have everything accessible when needed. I lost about a months worth of work last year and I'm not doing that again.", "author": "Beanmachine314", "created": 1632259527, "upvotes": 1}, "hdra9y6": {"link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hdra9y6/", "text": "At least an external for occasional backups and cloud to backup your backup. Think about it this way, what if your home burned down with both your laptop and backup drive? What if your area was hit by a natural disaster and both your office and home were destroyed? On the other side, what if your cloud provider gets hacked, suddenly goes out of business, or your account gets ruined?\n\nGotta have both a local and a remote backup for anything you can't afford to lose.", "author": "racinreaver", "created": 1632253764, "upvotes": 6}}}
+{
+  "sid": "pspjwd",
+  "link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/",
+  "title:": "Favorite methods for backing up files?",
+  "text": "Thumb drive? External hard drive? The cloud?\n\nI would like to start backing up my entire laptop on a regular basis. I'm not involved in research yet, but I want to establish the habit early. My laptop is getting up there in years, too, and if I lose everything on it then it will be a huge hassle to get everything set up again.\n\nI'm a little gun shy of external hard drives, as I got one about 12 years ago and not long after purchasing it the metal piece that the cord plugs into got pushed into the hard drive. I am willing to admit that there have been significant technological upgrades since then, however.",
+  "author": "taciturntales",
+  "created": 1632251116,
+  "over_18": false,
+  "upvotes": 6,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hdrq06l": {
+      "link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hdrq06l/",
+      "text": "As others have mentioned both cloud and external are super good to have. However, I feel like this comes up all the time but no one mentions one important thing; once you are in research be sure to check with ethics and your lab group whether or not you can use a cloud backup to store data. If it is human data, there is a good chance they will not want to backed up to personal cloud storage and will have designated storage for data.",
+      "author": "sensorimotorneuro",
+      "created": 1632260389,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdrp8ct": {
+      "link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hdrp8ct/",
+      "text": "Google Drive/Dropbox/OneDrive  \n\nRegularly backs everything up (on these platforms) to a home NAS server I have (It's just an ODROID HC-2 with a 8 TB HDD) which re-packs everything up regularly and uploads a version-controlled version to Google Drive.",
+      "author": "HalfEatenPie",
+      "created": 1632260051,
+      "upvotes": 2,
+      "replies": {
+        "hdrs1bs": {
+          "link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hdrs1bs/",
+          "text": "What's a good way to map a directory to a certain maybe external drive to be backed up regularly and stay in-sync? I don't have a NAS server.\n\nI back up things to Google drive but also want things local for larger files, that might be less permanent.",
+          "author": "Far_Brush_9347",
+          "created": 1632261294,
+          "upvotes": 1,
+          "replies": {
+            "hdrshsd": {
+              "link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hdrshsd/",
+              "text": "[rclone](https://rclone.org/) ([https://rclone.org/](https://rclone.org/) ) does wonders.  Part of the reason I built a NAS was to have it handle all without having to worry about \"did my laptop run this while it was turned off?\".\n\nSo I use rclone and then a backup script (you can find versions of these all around github or something) that builds a tarball and uploads it to Google Drive.  An example of a script is here: [https://medium.com/@fotios.floros/linux-backup-script-1722cc9c2bf6](https://medium.com/@fotios.floros/linux-backup-script-1722cc9c2bf6) but add a line of code that uploads that file to Google Drive using rclone at the end there.\n\nEDIT: Quick note.  I realized that I didn't fully actually answer your question.  So the thought process is I use Dropbox/GoogleDrive/<Solution> also as a way to keep files in sync with one another.  So I've configured their app to always sync specific files locally.  That's where my local/at-home linux server grabs the latest version of the files from, so I can be in the lab working on a document and saving it, and my NAS will also always have an updated version at home.  Then every night it executes a cronjob that tars it all up and sends it to Google Drive for storage (that's not actively-synced).  Google Drive Educational gives unlimited storage space, so I use that very liberally. \n\nLet's say my late-night uploads kinda suck and sometimes takes a while.",
+              "author": "HalfEatenPie",
+              "created": 1632261498,
+              "upvotes": 2,
+              "replies": {
+                "hds50jj": {
+                  "link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hds50jj/",
+                  "text": "Great, thank you for the information!",
+                  "author": "Far_Brush_9347",
+                  "created": 1632267316,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hdro0xq": {
+      "link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hdro0xq/",
+      "text": "I use every service available to me. School provided OneDrive that gets everything related to school, along with my own personal Google Drive that gets all my school related stuff plus anything personal. Those two are constantly syncing. Weekly my entire computer gets backed up to a physical drive. Finally, I use git and GitHub for version control and that gets updated whenever I make changes to something. Typically I commit immediately after working on something. This system allows me to move between computers and Chromebook/tablet and have everything accessible when needed. I lost about a months worth of work last year and I'm not doing that again.",
+      "author": "Beanmachine314",
+      "created": 1632259527,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdra9y6": {
+      "link": "/r/GradSchool/comments/pspjwd/favorite_methods_for_backing_up_files/hdra9y6/",
+      "text": "At least an external for occasional backups and cloud to backup your backup. Think about it this way, what if your home burned down with both your laptop and backup drive? What if your area was hit by a natural disaster and both your office and home were destroyed? On the other side, what if your cloud provider gets hacked, suddenly goes out of business, or your account gets ruined?\n\nGotta have both a local and a remote backup for anything you can't afford to lose.",
+      "author": "racinreaver",
+      "created": 1632253764,
+      "upvotes": 6,
+      "replies": {}
+    }
+  },
+  "updated": 1634066747
+}

@@ -1,1 +1,117 @@
-{"sid": "plfx6f", "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/", "title:": "I don't know if I'm cut out for grad school?", "text": "Sorry I don't know if this type of long winded question is allowed. \n\nI've been wanting to do my masters for the longest time because I love research, but I can't understand stats for shit when it comes to the courses/exam time. Also, everything is so overwhelming that I just want to drop out and move back to my city. \n\nDo you guys have tips? Were any of you simply terrible in stats and somehow improved? If so, how? At this point I don't know if I'm just too dumb or if it's a self fulfilling prophecy of assuming I can't do it and it's too hard and as a result not studying. Especially when it comes to exams... my mind just blanks. So clearly, I'm not understanding anything *(at least back in undergrad). \n\nAlso how the heck am I supposed to turn a bunch of data into a paper? Conduct multiple studies while doing a masters and churning out papers while doing the stupid stats course. \n\nIt's all just so overwhelming...", "author": "wkdus03", "created": 1631257049, "retrieved": 1632952723, "over_18": false, "upvotes": 3, "upvote_ratio": 0.8, "comments": {"hcc2a8i": {"link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcc2a8i/", "text": "Let's start with the first part.\n\nNoone came into grad school kicking ass on anything.  Some people might have had a leg up, sure.  But most of those skillsets were fostered by slogging through and building those skills one brick at a time.  \n\nStart with something.  Just anything.  Get feedback (advisor, other grad student, people).  Try to think why they're saying X, Y, and Z.  Read research papers, but not with a focus on fully understanding the content, but rather how did they structure their arguments and their paper.  Usually, Introduction talks about why this is important.  Background is about the actual background of the methods.  Methodology is just what they did.  Results is the numbers and an analysis.  Conclusion is the answers your results show.  Look how each writer paints the picture using this base framework, how they approach these arguments.  \n\nThis is difficult.  The way I see it, part of understanding this will include sweats and tears.  But over time it'll get easier.  You'll get the general idea and structure.  You'll recognize that almost everyone uses this structure, but each author has varying levels of quality in how they're able to pain the picture clearly.\n\nYou'll do great.  If you feel overwhelmed, always ask questions and try to address the things that you don't know about.  Most people don't ask questions in class because they don't want to ask what might get an obvious answer.  But by asking you're getting the guidance you need to move forward.", "author": "HalfEatenPie", "created": 1631294109, "upvotes": 1}, "hcb9lfo": {"link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcb9lfo/", "text": "Listen, graduate school is completely overwhelming by nature. It isn\u2019t supposed to be easy and, trust me, it won\u2019t be but you\u2019ll find your strengths along the way. I am also god awful at statistics. I genuinely believed my statistics class was going to be the end of me. That said, there were plenty of other classes and opportunities I had that made me feel like I was meant to be in grad school because I enjoyed them so much and they came so easily to me. I\u2019m sure you\u2019ll feel the same eventually. \n\nYou\u2019re going to improve. You\u2019re going to find your strengths. Your weaknesses are going to get less weak over time. \n\nI always say that the most difficult part of grad school is learning how to be a grad student. It is all encompassing and it takes awhile to acclimate. You\u2019ll be just fine. Just keep going.", "author": "14kanthropologist", "created": 1631282369, "upvotes": 5}, "hcb28ba": {"link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcb28ba/", "text": "Stats kicked my ass as well. At one point I got a 42% on an exam. I felt like my heart would beat out of my chest during class. You've gotta separate the anxiety from the content. Not to recommend better living through chemistry, but going on propranolol for a bit really helped with that. In any case, anxiety at this point is normal. Work through it and don't let it control you. \n\nYour ability to perform analysis on command in a stats exam does not determine your abilities as a scientist. My stats professor even agreed.  It is certainly an essential part of our work, but so is experimental design, lab techniques, lit research, writing, presenting, and communicating. You'll be better at some things than others. Find colleagues or people in you cohort to work with so you can share strengths - which is another essential skill as a scientist - collaboration.", "author": "Pr0gr3s", "created": 1631278929, "upvotes": 3}, "hcaowiz": {"link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcaowiz/", "text": "[removed]", "author": null, "created": 1631270969, "upvotes": -13}}}
+{
+  "sid": "plfx6f",
+  "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/",
+  "title:": "I don't know if I'm cut out for grad school?",
+  "text": "Sorry I don't know if this type of long winded question is allowed. \n\nI've been wanting to do my masters for the longest time because I love research, but I can't understand stats for shit when it comes to the courses/exam time. Also, everything is so overwhelming that I just want to drop out and move back to my city. \n\nDo you guys have tips? Were any of you simply terrible in stats and somehow improved? If so, how? At this point I don't know if I'm just too dumb or if it's a self fulfilling prophecy of assuming I can't do it and it's too hard and as a result not studying. Especially when it comes to exams... my mind just blanks. So clearly, I'm not understanding anything *(at least back in undergrad). \n\nAlso how the heck am I supposed to turn a bunch of data into a paper? Conduct multiple studies while doing a masters and churning out papers while doing the stupid stats course. \n\nIt's all just so overwhelming...",
+  "author": "wkdus03",
+  "created": 1631257049,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 0.8,
+  "comments": {
+    "hcc2a8i": {
+      "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcc2a8i/",
+      "text": "Let's start with the first part.\n\nNoone came into grad school kicking ass on anything.  Some people might have had a leg up, sure.  But most of those skillsets were fostered by slogging through and building those skills one brick at a time.  \n\nStart with something.  Just anything.  Get feedback (advisor, other grad student, people).  Try to think why they're saying X, Y, and Z.  Read research papers, but not with a focus on fully understanding the content, but rather how did they structure their arguments and their paper.  Usually, Introduction talks about why this is important.  Background is about the actual background of the methods.  Methodology is just what they did.  Results is the numbers and an analysis.  Conclusion is the answers your results show.  Look how each writer paints the picture using this base framework, how they approach these arguments.  \n\nThis is difficult.  The way I see it, part of understanding this will include sweats and tears.  But over time it'll get easier.  You'll get the general idea and structure.  You'll recognize that almost everyone uses this structure, but each author has varying levels of quality in how they're able to pain the picture clearly.\n\nYou'll do great.  If you feel overwhelmed, always ask questions and try to address the things that you don't know about.  Most people don't ask questions in class because they don't want to ask what might get an obvious answer.  But by asking you're getting the guidance you need to move forward.",
+      "author": "HalfEatenPie",
+      "created": 1631294109,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcb9lfo": {
+      "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcb9lfo/",
+      "text": "Listen, graduate school is completely overwhelming by nature. It isn\u2019t supposed to be easy and, trust me, it won\u2019t be but you\u2019ll find your strengths along the way. I am also god awful at statistics. I genuinely believed my statistics class was going to be the end of me. That said, there were plenty of other classes and opportunities I had that made me feel like I was meant to be in grad school because I enjoyed them so much and they came so easily to me. I\u2019m sure you\u2019ll feel the same eventually. \n\nYou\u2019re going to improve. You\u2019re going to find your strengths. Your weaknesses are going to get less weak over time. \n\nI always say that the most difficult part of grad school is learning how to be a grad student. It is all encompassing and it takes awhile to acclimate. You\u2019ll be just fine. Just keep going.",
+      "author": "14kanthropologist",
+      "created": 1631282369,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hcb28ba": {
+      "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcb28ba/",
+      "text": "Stats kicked my ass as well. At one point I got a 42% on an exam. I felt like my heart would beat out of my chest during class. You've gotta separate the anxiety from the content. Not to recommend better living through chemistry, but going on propranolol for a bit really helped with that. In any case, anxiety at this point is normal. Work through it and don't let it control you. \n\nYour ability to perform analysis on command in a stats exam does not determine your abilities as a scientist. My stats professor even agreed.  It is certainly an essential part of our work, but so is experimental design, lab techniques, lit research, writing, presenting, and communicating. You'll be better at some things than others. Find colleagues or people in you cohort to work with so you can share strengths - which is another essential skill as a scientist - collaboration.",
+      "author": "Pr0gr3s",
+      "created": 1631278929,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hcaowiz": {
+      "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcaowiz/",
+      "text": "[removed]",
+      "author": null,
+      "created": 1631270969,
+      "upvotes": -13,
+      "replies": {
+        "hcat0jm": {
+          "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcat0jm/",
+          "text": "That's rich coming from someone who touts for \"empathy\" in some of your comments on basketball threads.",
+          "author": "Dismal-Wallaby-2",
+          "created": 1631273788,
+          "upvotes": 5,
+          "replies": {
+            "hcatj6j": {
+              "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcatj6j/",
+              "text": "Ahh but i have empathy for the person who barely missed out on the program too\n\nAlso, empathy doesn't mean coddling. If an internet stranger telling them to quit makes them quit, they never wanted it enough in the first place",
+              "author": "waterfall_hyperbole",
+              "created": 1631274102,
+              "upvotes": -8,
+              "replies": {
+                "hcau8fs": {
+                  "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcau8fs/",
+                  "text": "\"I slept though a DnD session and felt bad\" boohoo looking for fuckin sympathy over missing a game, yet ya try to drag this guy? Did you even finish college?",
+                  "author": "Dismal-Wallaby-2",
+                  "created": 1631274527,
+                  "upvotes": 2,
+                  "replies": {
+                    "hcaux49": {
+                      "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcaux49/",
+                      "text": "Jesus christ lmao\n\nI work in academia. I deal with students every day. The ones who ask direct questions succeed. The ones who whine about being overwhelmed by a \"stupid stats class\" waste everyone's time with their anxeity and self-pity\n\nOP can certainly improve and become a world-leading researcher, but not with their attitude\n\nBut i guess you think they should just go further in to debt for a degree they won't get any use out of because...?",
+                      "author": "waterfall_hyperbole",
+                      "created": 1631274938,
+                      "upvotes": -7,
+                      "replies": {
+                        "hcaw0z1": {
+                          "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcaw0z1/",
+                          "text": "OP is at the least trying to improve. Stats is difficult for most and can be frustrating. Have you worked with stats recently? Modern platforms like R and SPSS can be a real pain sometimes when running anything past basic undergrad level stats. I don't fault my students when they at least are trying.\n\nStats are one part of many in research. Having some difficulty now doesn't mean they should quit or their degree will be useless. If you work in academia, you of all people should know this. Unless you're a god tier genius, people will have certain areas they struggle in during grad school and it's okay to seek help.",
+                          "author": "Dismal-Wallaby-2",
+                          "created": 1631275586,
+                          "upvotes": 6,
+                          "replies": {
+                            "hcay809": {
+                              "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcay809/",
+                              "text": "i am a statistician. i interact with students every day. this is not someone seeking help, people who want help have pointed questions about their area of interest. this is someone who feels overwhelmed after one week of classes and wants someone to hold their hand and tell them it will all be ok\n\nguess what? it might not! you could easily waste thousands of dollars on a degree you won't use, people do it all the time. stats is crucial to every aspect of research, from study design to analysis. if OP is that anxious about it, i question why they even wanted to go to grad school in the first place",
+                              "author": "waterfall_hyperbole",
+                              "created": 1631276822,
+                              "upvotes": -3,
+                              "replies": {
+                                "hcb1230": {
+                                  "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcb1230/",
+                                  "text": "Well you sound like a total jerk - and if you aren't a grad student maybe take your pseudo tough love BS somewhere else?",
+                                  "author": "Pr0gr3s",
+                                  "created": 1631278330,
+                                  "upvotes": 6,
+                                  "replies": {}
+                                },
+                                "hcb1xmv": {
+                                  "link": "/r/GradSchool/comments/plfx6f/i_dont_know_if_im_cut_out_for_grad_school/hcb1xmv/",
+                                  "text": "This is reddit. Not your classroom. None of us here have any sway over this person's grades. It's not a sob story to ask for a better grade. The only thing we can do here is offer advice, so the person is seeking help. \n\nThis is their first week, as you mentioned. It's difficult for most new students during that time, it's not a major red flag. Yes, I would be worried too if this was their second year in a Stats based PhD, but there are countless master's degrees that require a stats course that will never be used in their career other than to make nice pie charts and bar graphs. For the rest of the world, life doesn't revolve around your field. It may involve it, but it certainly doesn't revolve around. I would think someone who enjoys NBA as much as you would understand at least that.",
+                                  "author": "Dismal-Wallaby-2",
+                                  "created": 1631278779,
+                                  "upvotes": 3,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634066827
+}

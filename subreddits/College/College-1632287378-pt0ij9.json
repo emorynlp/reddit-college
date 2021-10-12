@@ -1,1 +1,22 @@
-{"sid": "pt0ij9", "link": "/r/college/comments/pt0ij9/how_do_you_study_cs/", "title:": "How do you study? CS", "text": "I have to memorize certain things for testing. I do flash cards to practice recall and take good notes \ud83d\udcdd", "author": "garrett2116", "created": 1632287378, "retrieved": 1632946582, "over_18": false, "upvotes": 2, "upvote_ratio": 1.0, "comments": {"hdtlosb": {"link": "/r/college/comments/pt0ij9/how_do_you_study_cs/hdtlosb/", "text": "CS is an odd subject to study because every exam topic is so widely different. \n\nI cannot take notes, since I have a terrible motor tremor so I tend to rely on creating flash cards for terminology. \n\nAlgorithms I think I are best memorized by solving problems using the algorithms. *how can I place {5,8,9,3,4} into a red-black tree*. *how does selection sort sort those numbers* etc. \n\nRemembering data structures and class structures works similarly, where you just code up random classes and data structures to make sure you have it all down. \n\nAnd, of course active recall works well too. After lectures, try to recall as much information you can before those memories decompose. \n\nDepending on the class, exams are only half or a quarter of your grade. There will invariably be massive projects or coding tests that will weigh heavily on your grade.", "author": "unbecoming___", "created": 1632299092, "upvotes": 5}}}
+{
+  "sid": "pt0ij9",
+  "link": "/r/college/comments/pt0ij9/how_do_you_study_cs/",
+  "title:": "How do you study? CS",
+  "text": "I have to memorize certain things for testing. I do flash cards to practice recall and take good notes \ud83d\udcdd",
+  "author": "garrett2116",
+  "created": 1632287378,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hdtlosb": {
+      "link": "/r/college/comments/pt0ij9/how_do_you_study_cs/hdtlosb/",
+      "text": "CS is an odd subject to study because every exam topic is so widely different. \n\nI cannot take notes, since I have a terrible motor tremor so I tend to rely on creating flash cards for terminology. \n\nAlgorithms I think I are best memorized by solving problems using the algorithms. *how can I place {5,8,9,3,4} into a red-black tree*. *how does selection sort sort those numbers* etc. \n\nRemembering data structures and class structures works similarly, where you just code up random classes and data structures to make sure you have it all down. \n\nAnd, of course active recall works well too. After lectures, try to recall as much information you can before those memories decompose. \n\nDepending on the class, exams are only half or a quarter of your grade. There will invariably be massive projects or coding tests that will weigh heavily on your grade.",
+      "author": "unbecoming___",
+      "created": 1632299092,
+      "upvotes": 5,
+      "replies": {}
+    }
+  },
+  "updated": 1634056663
+}

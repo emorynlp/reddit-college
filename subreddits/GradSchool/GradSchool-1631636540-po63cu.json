@@ -1,1 +1,82 @@
-{"sid": "po63cu", "link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/", "title:": "How necessary is real analysis for a Master's in Statistics?", "text": "I'm a mathematics major and statistics minor at a top 3 uni in Canada, interested in applying to unis for grad school (MSc/MMath/MA/etc. in Statistcs), mainly in Canada. Here are a few things:\n\n* I want to do a Master's in Statistics that will prepare me for data analysis/data science jobs.\n* I might consider getting a PhD in Statistics after getting a Master's.\n* There are two classes of real analysis, the first class covers the first half of Baby Rudin, and the second class covers the second half.\n* There's also a toned down real analysis class for those without good enough grades to take the main real analysis stream.", "author": "Not_So_Deleted", "created": 1631636540, "retrieved": 1632952616, "over_18": false, "upvotes": 4, "upvote_ratio": 1.0, "comments": {"hd1fxnz": {"link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hd1fxnz/", "text": "If it\u2019s not a prerequisite, I will say it\u2019s a very helpful course for just understanding what mathematics is at all. If the type of statistics you want to do is more mathematical than applied, it will be necessary to learn real analysis because you will need to be able to do some heavier proofs of mathematical statistics. Real analysis, at least what you learn in the first few courses, go over the basis of what calaculus is and how derivation and integration work, which is very, very relevant to statistics. \n\nThat being said, if you are looking at applied stats programs, it\u2019s probably not as necessary, but it might make you stand out. I\u2019m in an applied stats program and I had a lot of people ask me about my mathematical background in the interview stage because I had a much deeper background in pure math than average. I would guess these programs would inevitably have you take some kind of analysis course regardless if they didn\u2019t expect it from you at the beginning.\n\nIf you are interested in pure stats (which is usually what blanket \u201cstatistics\u201d graduate programs are), I agree with the others in that I would be surprised it isn\u2019t an outright perquisite, and I am also kind of surprised it isn\u2019t a required course for your math bachelor\u2019s degree.\n\nPart of the process in applying to graduate programs is looking down the road at the places you want to go and see what they expect, which i know can be hard to have that much foresight at times.", "author": "ULTIMATE_FROG", "created": 1631764979, "upvotes": 1}, "hcvnbyc": {"link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hcvnbyc/", "text": "At ubc for example, two courses of mathematical statistics are required for grad students, and knowing the techniques from real analysis is extremely helpful, not to mention any measure/probability theory you may want to take could build upon these concepts, so you should take real analysis if you want to leave open the possibility of pursuing grad studies. \n\nI'm surprised it's not an outright prerequisite for admission into master's programs tbh.", "author": "ning7", "created": 1631658707, "upvotes": 1}, "hcv9avh": {"link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hcv9avh/", "text": "If you intend to do anything with probability theory, that whole field is basically a study of measure theory on spaces with measure 1. Real Analysis at the level of Baby Rudin is the prerequisite to studying measure and integration, and that in turn is the prerequisite to doing any higher level probability. That being said, you asked about statistics, not necessarily probability. I don't know much about statistics programs, but I think you would want to have a solid background in probability for data science. That aside, however, Real Analysis is tremendously valuable as a means of gaining a sense of mathematical maturity. If you can survive a Real Analysis course (even if its just one, and not a sequence of two or three), then you will be a step closer to being able to think and reason as mathematicians do, rather than just be a code monkey that can compute stuff.", "author": "KingOfTheEigenvalues", "created": 1631652702, "upvotes": 4}}}
+{
+  "sid": "po63cu",
+  "link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/",
+  "title:": "How necessary is real analysis for a Master's in Statistics?",
+  "text": "I'm a mathematics major and statistics minor at a top 3 uni in Canada, interested in applying to unis for grad school (MSc/MMath/MA/etc. in Statistcs), mainly in Canada. Here are a few things:\n\n* I want to do a Master's in Statistics that will prepare me for data analysis/data science jobs.\n* I might consider getting a PhD in Statistics after getting a Master's.\n* There are two classes of real analysis, the first class covers the first half of Baby Rudin, and the second class covers the second half.\n* There's also a toned down real analysis class for those without good enough grades to take the main real analysis stream.",
+  "author": "Not_So_Deleted",
+  "created": 1631636540,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hd1fxnz": {
+      "link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hd1fxnz/",
+      "text": "If it\u2019s not a prerequisite, I will say it\u2019s a very helpful course for just understanding what mathematics is at all. If the type of statistics you want to do is more mathematical than applied, it will be necessary to learn real analysis because you will need to be able to do some heavier proofs of mathematical statistics. Real analysis, at least what you learn in the first few courses, go over the basis of what calaculus is and how derivation and integration work, which is very, very relevant to statistics. \n\nThat being said, if you are looking at applied stats programs, it\u2019s probably not as necessary, but it might make you stand out. I\u2019m in an applied stats program and I had a lot of people ask me about my mathematical background in the interview stage because I had a much deeper background in pure math than average. I would guess these programs would inevitably have you take some kind of analysis course regardless if they didn\u2019t expect it from you at the beginning.\n\nIf you are interested in pure stats (which is usually what blanket \u201cstatistics\u201d graduate programs are), I agree with the others in that I would be surprised it isn\u2019t an outright perquisite, and I am also kind of surprised it isn\u2019t a required course for your math bachelor\u2019s degree.\n\nPart of the process in applying to graduate programs is looking down the road at the places you want to go and see what they expect, which i know can be hard to have that much foresight at times.",
+      "author": "ULTIMATE_FROG",
+      "created": 1631764979,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcvnbyc": {
+      "link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hcvnbyc/",
+      "text": "At ubc for example, two courses of mathematical statistics are required for grad students, and knowing the techniques from real analysis is extremely helpful, not to mention any measure/probability theory you may want to take could build upon these concepts, so you should take real analysis if you want to leave open the possibility of pursuing grad studies. \n\nI'm surprised it's not an outright prerequisite for admission into master's programs tbh.",
+      "author": "ning7",
+      "created": 1631658707,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcv9avh": {
+      "link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hcv9avh/",
+      "text": "If you intend to do anything with probability theory, that whole field is basically a study of measure theory on spaces with measure 1. Real Analysis at the level of Baby Rudin is the prerequisite to studying measure and integration, and that in turn is the prerequisite to doing any higher level probability. That being said, you asked about statistics, not necessarily probability. I don't know much about statistics programs, but I think you would want to have a solid background in probability for data science. That aside, however, Real Analysis is tremendously valuable as a means of gaining a sense of mathematical maturity. If you can survive a Real Analysis course (even if its just one, and not a sequence of two or three), then you will be a step closer to being able to think and reason as mathematicians do, rather than just be a code monkey that can compute stuff.",
+      "author": "KingOfTheEigenvalues",
+      "created": 1631652702,
+      "upvotes": 4,
+      "replies": {
+        "hcvaljf": {
+          "link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hcvaljf/",
+          "text": "You had me with bb Rudin. I'm in!  xD",
+          "author": "mr_kazemiro",
+          "created": 1631653222,
+          "upvotes": 2,
+          "replies": {
+            "hcvciib": {
+              "link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hcvciib/",
+              "text": "IMHO, everyone doing a BS/BA in math should take at least one semester of analysis. Two is nice, especially for a Master's in anything, but you should definitely have one for a BS/BA.",
+              "author": "KingOfTheEigenvalues",
+              "created": 1631654019,
+              "upvotes": 3,
+              "replies": {
+                "hd1h3zg": {
+                  "link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hd1h3zg/",
+                  "text": "Do math degrees not all require analysis? The one at my undergrad required three terms of it.",
+                  "author": "ULTIMATE_FROG",
+                  "created": 1631765670,
+                  "upvotes": 2,
+                  "replies": {
+                    "hd2pjc0": {
+                      "link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hd2pjc0/",
+                      "text": "I graduated from my college without RA. The degree requirement was either Algebra or RA for some reason. I think this has since been changed. I'm doing my MA and taking an undergrad RA course as prep for the graduate sequence. In hindsight I wish I took it in undergrad but I wasn't sure if I wanted to go to grad school or not and my advisor told me if that was the case to just take soemthing else.",
+                      "author": "linc186",
+                      "created": 1631798117,
+                      "upvotes": 1,
+                      "replies": {}
+                    },
+                    "hd448k0": {
+                      "link": "/r/GradSchool/comments/po63cu/how_necessary_is_real_analysis_for_a_masters_in/hd448k0/",
+                      "text": "Surprisingly, no. I've met people who got BS degrees in math with no Real Analysis. I've also met people who got BS degrees in math with no Complex Analysis, and/or no Algebra. I am so glad that I had a good foundation with all of these things.",
+                      "author": "KingOfTheEigenvalues",
+                      "created": 1631819000,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634067446
+}

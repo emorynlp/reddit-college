@@ -1,1 +1,424 @@
-{"sid": "efiwtt", "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/", "title:": "Why don't people state what their graduate program is? It's difficult to contextualize and properly answer questions without knowing whether the OP is doing a Masters or Ph.D., or humanities v. sciences v. engineering ...", "text": "That is basically it. \n\nOften times posts get so vague that they aren't helpful to a lurker such as myself. The difference between a Ph.D. in the Classics and a Ph.D. in EECE is substantial - especially the consequences of dropping out of a program to enter the workforce. Is there a specific reason why people are so vague?", "author": "NewCenturyNarratives", "created": 1577293796, "retrieved": 1632953955, "over_18": false, "upvotes": 351, "upvote_ratio": 0.96, "comments": {"fc2i9ri": {"link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc2i9ri/", "text": "If you're in academia you'll eventually ask a question so novel that discussing it in certain circles will immediately identify you.", "author": "CompMolNeuro", "created": 1577361688, "upvotes": -1}, "fc1lgej": {"link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc1lgej/", "text": "Heh, context.  I'm from the UK.  Some of the things I see in this sub man... some of the things...", "author": "Enigma_789", "created": 1577322309, "upvotes": 10}, "fc1hk10": {"link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc1hk10/", "text": "And the country!", "author": "ProfessorHomeBrew", "created": 1577318979, "upvotes": 3}, "fc0x2jv": {"link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0x2jv/", "text": "I have to admit I am annoying all the questions that just say \"grad school\" or \"grad student\" without specifing the field or degree type. Country is often important as well", "author": "iammaxhailme", "created": 1577301988, "upvotes": 17}, "fc0wvmn": {"link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0wvmn/", "text": "I think people are vague because they have a notion of protecting their privacy by not giving away details of their program that someone who is also in it would recognize, but overdo it on the vagueness.", "author": "Weaselpanties", "created": 1577301836, "upvotes": 92}, "fc0scja": {"link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0scja/", "text": "I guess most people only experience grad school ~once and in one field, so they might think that it's the same for everyone and doesn't matter whether they're doing a Masters vs PhD or History vs Mechatronics. \n\nThere can also be a bit of \"misery olympics\" sometimes in academic subs like this: maybe the person doing an MA doesn't want to include it because some MD/PhD is going to tell them to suck it up or just generally out-misery them. \n\nIf someone believes *both* of those things then it really wouldn't make sense for them to include their degree. \n\n[But adding on: location also matters a lot too. I know a lot of people here are in the US, but there are enough intls that pretty much all advice ends up being \"it depends what country you're in\". Costs/debts, working conditions, and degree lengths all vary a lot.]", "author": "NoxiousQuadrumvirate", "created": 1577298510, "upvotes": 19}, "fc0ql03": {"link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0ql03/", "text": "I'm glad someone said this - I love when someone in the humanities posts asking if they should drop out and enter the workforce and someone 3 months from having a PhD in computer science is like yeah go for it \ud83d\ude18\ud83d\ude01\ud83e\udd17", "author": "DishsoapOnASponge", "created": 1577297254, "upvotes": 171}, "fc0obtt": {"link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0obtt/", "text": "Go to any corner of the internet and generally you will find the same situation. People either don't realize that they need to provide context in order to be understood, or they wrongly assume that they have provided enough information to be understood. As for this particular sub, I think that a lot of people simply don't realize that graduate programs are not universal. Maybe it isn't clear to someone in one field that experiences are different in other fields.", "author": "KingOfTheEigenvalues", "created": 1577295788, "upvotes": 46}, "fc0nqfn": {"link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0nqfn/", "text": "I\u2019m vague about it because what you get you PhD in has little bearing as to what your area of expertise is in a lot of cases. I\u2019m getting a PhD in Psych but I have training at the graduate level of applied math and do cognitive/computational neuroscience in my day job/classes. I\u2019ve never taken a single psych class in my life (including high school) and never will.", "author": "Stereoisomer", "created": 1577295414, "upvotes": 12}, "fc0n9to": {"link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0n9to/", "text": "Isn\u2019t this what user flair is for?", "author": "MsOctober", "created": 1577295097, "upvotes": 82}}}
+{
+  "sid": "efiwtt",
+  "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/",
+  "title:": "Why don't people state what their graduate program is? It's difficult to contextualize and properly answer questions without knowing whether the OP is doing a Masters or Ph.D., or humanities v. sciences v. engineering ...",
+  "text": "That is basically it. \n\nOften times posts get so vague that they aren't helpful to a lurker such as myself. The difference between a Ph.D. in the Classics and a Ph.D. in EECE is substantial - especially the consequences of dropping out of a program to enter the workforce. Is there a specific reason why people are so vague?",
+  "author": "NewCenturyNarratives",
+  "created": 1577293796,
+  "over_18": false,
+  "upvotes": 351,
+  "upvote_ratio": 0.96,
+  "comments": {
+    "fc2i9ri": {
+      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc2i9ri/",
+      "text": "If you're in academia you'll eventually ask a question so novel that discussing it in certain circles will immediately identify you.",
+      "author": "CompMolNeuro",
+      "created": 1577361688,
+      "upvotes": -1,
+      "replies": {}
+    },
+    "fc1lgej": {
+      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc1lgej/",
+      "text": "Heh, context.  I'm from the UK.  Some of the things I see in this sub man... some of the things...",
+      "author": "Enigma_789",
+      "created": 1577322309,
+      "upvotes": 10,
+      "replies": {
+        "fc23nij": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc23nij/",
+          "text": "tbf I feel the same way about most of the humanities posts and I'm from the US. It's such a different world.",
+          "author": "Mezmorizor",
+          "created": 1577339094,
+          "upvotes": 3,
+          "replies": {
+            "fc3nch2": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc3nch2/",
+              "text": "Fair point.  But a lot of the things that I say as advice often come across a bit snarky.  For example, this concept of doing coursework as a postgraduate... I mean seriously, who has time for that nonsense? :D",
+              "author": "Enigma_789",
+              "created": 1577393833,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fc1hk10": {
+      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc1hk10/",
+      "text": "And the country!",
+      "author": "ProfessorHomeBrew",
+      "created": 1577318979,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "fc0x2jv": {
+      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0x2jv/",
+      "text": "I have to admit I am annoying all the questions that just say \"grad school\" or \"grad student\" without specifing the field or degree type. Country is often important as well",
+      "author": "iammaxhailme",
+      "created": 1577301988,
+      "upvotes": 17,
+      "replies": {
+        "fc2nnfs": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc2nnfs/",
+          "text": "took me long enough to figure i'm in grad school doing a msc too... thought it was only phd for too long haha.",
+          "author": "mechnight",
+          "created": 1577368323,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fc0wvmn": {
+      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0wvmn/",
+      "text": "I think people are vague because they have a notion of protecting their privacy by not giving away details of their program that someone who is also in it would recognize, but overdo it on the vagueness.",
+      "author": "Weaselpanties",
+      "created": 1577301836,
+      "upvotes": 92,
+      "replies": {
+        "fc0zq2a": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0zq2a/",
+          "text": "This. Academia is a small world that quickly becomes even smaller when the person complaining about their program is, let\u2019s say, a PhD candidate who studies medieval literature at an R1 institution.",
+          "author": null,
+          "created": 1577304127,
+          "upvotes": 59,
+          "replies": {
+            "fc14wnm": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc14wnm/",
+              "text": "Yep. Someone outside of the field would have no idea where I go if I said what my program is and how many credits are required. Anyone in my field would know exactly where I am, and anyone in my program could definitely narrow it down to who I am by looking at my post history. I'm probably no more than two degrees of separation from every other Epi in the country. It is a tiny, tiny world.",
+              "author": "Weaselpanties",
+              "created": 1577308350,
+              "upvotes": 34,
+              "replies": {
+                "fc158k6": {
+                  "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc158k6/",
+                  "text": "Yup. From what I gather from your flair, it looks like your program allowed you to pursue your MS and MPH simultaneously. I doubt there\u2019s many programs that allow such an option.",
+                  "author": null,
+                  "created": 1577308618,
+                  "upvotes": 11,
+                  "replies": {
+                    "fc1n7si": {
+                      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc1n7si/",
+                      "text": "Yeah it can be one hell of a small program. I know for example a combined MD/PhD program from a prominent Canadian university only accepts about 3 people a year into the program. Couple that with post history and a bit of time social engineering, you can connect an \u201canonymous\u201d Reddit profile to an actual name. \n\nEven for my program, it\u2019s a fairly specialized program and there\u2019s not a whole lot of people who are accepted year over year so the pool of potential people it could be, at any given time, is well below 100.",
+                      "author": "goku_vegeta",
+                      "created": 1577323844,
+                      "upvotes": 12,
+                      "replies": {}
+                    }
+                  }
+                },
+                "fc237au": {
+                  "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc237au/",
+                  "text": "3/3 online strangers who work in my field correctly guessed who my boss is based off of research topic alone.  From there it'd be trivial to figure out who is me. Granted, my boss is probably the biggest name in that particular technique, but still. It's not like I was super specific Probably roughly equivalent to saying \"15th century history\". Granted, there aren't a ton of people in the world who could do this, all three of those people also know my boss personally in some way, shape, or form, but the people who are capable of doxxing you are the people you least want to know who you are.\n\nThough I do agree with OP.  If you don't list country, degree level, and subfield at a minimum, the advice you get is going to be crap.",
+                  "author": "Mezmorizor",
+                  "created": 1577338580,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            },
+            "fc21r92": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc21r92/",
+              "text": "Okay, but why were you thinking of me when you made this point?",
+              "author": "SaintRidley",
+              "created": 1577336998,
+              "upvotes": 3,
+              "replies": {
+                "fc2oibz": {
+                  "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc2oibz/",
+                  "text": "No, I was actually thinking of a friend who is at the same university as me, different department. (At least I don\u2019t *think* you\u2019re the same person as her because I don\u2019t think she\u2019s on reddit)\n\nAgain, because of the small world thing, I wouldn\u2019t be surprised if you brushed elbows with her before.",
+                  "author": null,
+                  "created": 1577369174,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fc2mq5n": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc2mq5n/",
+          "text": "Yes. This is exactly it for me at least. I mean it\u2019s not that hard to figure out where I go by looking at my post history, but I don\u2019t want to outright state it.",
+          "author": "MrTuddles",
+          "created": 1577367353,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fc0scja": {
+      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0scja/",
+      "text": "I guess most people only experience grad school ~once and in one field, so they might think that it's the same for everyone and doesn't matter whether they're doing a Masters vs PhD or History vs Mechatronics. \n\nThere can also be a bit of \"misery olympics\" sometimes in academic subs like this: maybe the person doing an MA doesn't want to include it because some MD/PhD is going to tell them to suck it up or just generally out-misery them. \n\nIf someone believes *both* of those things then it really wouldn't make sense for them to include their degree. \n\n[But adding on: location also matters a lot too. I know a lot of people here are in the US, but there are enough intls that pretty much all advice ends up being \"it depends what country you're in\". Costs/debts, working conditions, and degree lengths all vary a lot.]",
+      "author": "NoxiousQuadrumvirate",
+      "created": 1577298510,
+      "upvotes": 19,
+      "replies": {}
+    },
+    "fc0ql03": {
+      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0ql03/",
+      "text": "I'm glad someone said this - I love when someone in the humanities posts asking if they should drop out and enter the workforce and someone 3 months from having a PhD in computer science is like yeah go for it \ud83d\ude18\ud83d\ude01\ud83e\udd17",
+      "author": "DishsoapOnASponge",
+      "created": 1577297254,
+      "upvotes": 171,
+      "replies": {
+        "fc1ghwi": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc1ghwi/",
+          "text": "Hey. I go where I want",
+          "author": "blueb0g",
+          "created": 1577318062,
+          "upvotes": 21,
+          "replies": {
+            "fc2vqhx": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc2vqhx/",
+              "text": "To Byzantium?",
+              "author": "superexpress_local",
+              "created": 1577375324,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "fc1rbne": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc1rbne/",
+          "text": "You do you, man.",
+          "author": "DapperFisticuffs",
+          "created": 1577327250,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "fc0obtt": {
+      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0obtt/",
+      "text": "Go to any corner of the internet and generally you will find the same situation. People either don't realize that they need to provide context in order to be understood, or they wrongly assume that they have provided enough information to be understood. As for this particular sub, I think that a lot of people simply don't realize that graduate programs are not universal. Maybe it isn't clear to someone in one field that experiences are different in other fields.",
+      "author": "KingOfTheEigenvalues",
+      "created": 1577295788,
+      "upvotes": 46,
+      "replies": {
+        "fc14bbt": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc14bbt/",
+          "text": ">Maybe it isn't clear to someone in one field that experiences are different in other fields.\n\nI've lost count of the number of times I've had to explain that coauthors aren't the norm in my field. I think you're spot on that, generally, people assume the grad school experience is universal.",
+          "author": "PurrPrinThom",
+          "created": 1577307868,
+          "upvotes": 9,
+          "replies": {
+            "fc2kcpm": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc2kcpm/",
+              "text": "> people assume the grad school experience is universal.\n\nExactly.  People often assume their experiences are universal in general, until they've been exposed to enough radically different experiences that it finally clicks that almost everything they think is \"normal\" or \"default\" is just one of many options.",
+              "author": "polyphonal",
+              "created": 1577364617,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "fc0s6tj": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0s6tj/",
+          "text": "People think they can be identified more easily than they actaully can too.",
+          "author": "theArtOfProgramming",
+          "created": 1577298384,
+          "upvotes": 14,
+          "replies": {
+            "fc0vuod": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0vuod/",
+              "text": "I\u2019m guilty of this! Also I mostly post on other subs so I don\u2019t think the identifier is needed or useful.",
+              "author": "mandypu",
+              "created": 1577301019,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fc0nqfn": {
+      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0nqfn/",
+      "text": "I\u2019m vague about it because what you get you PhD in has little bearing as to what your area of expertise is in a lot of cases. I\u2019m getting a PhD in Psych but I have training at the graduate level of applied math and do cognitive/computational neuroscience in my day job/classes. I\u2019ve never taken a single psych class in my life (including high school) and never will.",
+      "author": "Stereoisomer",
+      "created": 1577295414,
+      "upvotes": 12,
+      "replies": {
+        "fc0qxzb": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0qxzb/",
+          "text": "Just say computational neuroscience...? Field matters, degree name doesn't.",
+          "author": "mediocre-spice",
+          "created": 1577297482,
+          "upvotes": 33,
+          "replies": {
+            "fc0z69y": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0z69y/",
+              "text": "Oh I do. I thought OP was asking about official name of degree which for me is something completely different than what I\u2019m doing. OP said \u201cPhD in ...\u201d which means the official designation. That\u2019s why mines says PhD Student, [field]",
+              "author": "Stereoisomer",
+              "created": 1577303680,
+              "upvotes": 0,
+              "replies": {}
+            }
+          }
+        },
+        "fc0sxvn": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0sxvn/",
+          "text": "For undergrad, sure. But not for PhD imo. All the things you mentioned have much overlap, so your career path and coursework make sense. Most computational neuroscience careers employ people with stats, math, bioengineering, machine learning background. But someone with a PhD in Comparative Literature would not be doing research in STEM. I think the context definitely matters when asking for academic and career advice on this sub. Job prospects are different for humanities vs STEM, so for example, if someone is asking if they should quit their program, the field of study they are in is crucial in order to offer good advice.",
+          "author": "SaintLoserMisery",
+          "created": 1577298932,
+          "upvotes": 10,
+          "replies": {
+            "fc0zdfs": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0zdfs/",
+              "text": "Oh yeah I mean splitting hairs between what department is granting your degree is pointless. I\u2019m only vague about what specific degree because it\u2019s not an accurate representation of what I\u2019m doing but also because if I straight up said comp neuro, I\u2019d technically be lying",
+              "author": "Stereoisomer",
+              "created": 1577303843,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "fc0sf2q": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0sf2q/",
+          "text": "Honestly at some point putting \"STEM\" is probably good enough",
+          "author": "DishsoapOnASponge",
+          "created": 1577298567,
+          "upvotes": 6,
+          "replies": {
+            "fc0vm61": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0vm61/",
+              "text": "I don't think so, my experience with getting a PhD in computer science was very different from my friends in biology.  Even within computer science, different subfields work very differently.",
+              "author": "cwkid",
+              "created": 1577300831,
+              "upvotes": 11,
+              "replies": {}
+            },
+            "fc0y74j": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0y74j/",
+              "text": "Not necessarily, pure math is a completely different situation from the natural sciences. The application process, structure of the program, and culture are all pretty different.",
+              "author": "owiseone23",
+              "created": 1577302892,
+              "upvotes": 5,
+              "replies": {
+                "fc1b82t": {
+                  "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc1b82t/",
+                  "text": "The thing I see often is people assuming that being in STEM means you're in a lab science. That couldn't be farther from the day to day of what pure math looks like (which honestly probably matches more closely with liberal arts than science).",
+                  "author": "protowyn",
+                  "created": 1577313569,
+                  "upvotes": 7,
+                  "replies": {
+                    "fckxmwu": {
+                      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fckxmwu/",
+                      "text": "Yes, and the fact that the meaning of STEM is changing, at least from my perspective to the general public. The \"technology\" and \"engineering\" aspects of it conjure up programs like electrical engineering or computer science/engineering whereas others will see it differently. \n\nIt also doesn't help that there are many jobs with the word \"engineer\" in it that *probably* shouldn't have that word in it but still do so it can get fairly confusing. \n\nThen there's interdisciplinary studies, not something like pharmacoeconomics, but literally just interdisciplinary studies. Those conversations are probably the most interesting. \n\n**Person A:** What are you studying? What's your program?\n\n**Person B:** I'm doing a PhD in interdisciplinary studies. \n\n**Person A:** That sounds interesting, what's the topic or research question that you're exploring?\n\n**Person B:** Everything.\n\n**Person A:** *internal screaming*",
+                      "author": "goku_vegeta",
+                      "created": 1577735389,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                },
+                "fc0ydef": {
+                  "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0ydef/",
+                  "text": "good point, i guess we can't even group like that.",
+                  "author": "DishsoapOnASponge",
+                  "created": 1577303032,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fc0n9to": {
+      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0n9to/",
+      "text": "Isn\u2019t this what user flair is for?",
+      "author": "MsOctober",
+      "created": 1577295097,
+      "upvotes": 82,
+      "replies": {
+        "fc0nqvv": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0nqvv/",
+          "text": "[removed]",
+          "author": null,
+          "created": 1577295422,
+          "upvotes": 78,
+          "replies": {
+            "fc0wso6": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0wso6/",
+              "text": "Long flairs can be a problem. Is there any way for me to read your flair in it's entirety (on mobile)? It says \"[...] Public Health | MS ...\" and I don't know how to display the rest.",
+              "author": "_-l_",
+              "created": 1577301773,
+              "upvotes": 24,
+              "replies": {
+                "fc18i0o": {
+                  "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc18i0o/",
+                  "text": "[removed]",
+                  "author": null,
+                  "created": 1577311279,
+                  "upvotes": 2,
+                  "replies": {
+                    "fc1a39h": {
+                      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc1a39h/",
+                      "text": "Good to me on Android web browser.",
+                      "author": "csp256",
+                      "created": 1577312618,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "fc1km9z": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc1km9z/",
+          "text": "I guess people want to remain completely anonymous. \n\nAlso, there's no verification of flair like on other subs so anyone can come in here and make their flair whatever they want but who knows if they're telling the truth or not",
+          "author": "stathicus",
+          "created": 1577321586,
+          "upvotes": 9,
+          "replies": {}
+        },
+        "fc0nt2k": {
+          "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0nt2k/",
+          "text": "Don\u2019t people put it as their flair after they graduate not while attending? I think this is what OP is referring to",
+          "author": "CrypticQuirk",
+          "created": 1577295463,
+          "upvotes": -6,
+          "replies": {
+            "fc0pv9x": {
+              "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0pv9x/",
+              "text": "The * in a flair signifies they're a candidate in a program and not in possession of the degree yet. Not sure if this is what you're asking but I see more in progress flairs than finished ones. This helps contextualize a lot of parts and comments and should be more commonplace imo.",
+              "author": "Sautun",
+              "created": 1577296778,
+              "upvotes": 31,
+              "replies": {
+                "fc2edvs": {
+                  "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc2edvs/",
+                  "text": "I actually didn't tough about making a flag because I didn't know that. Thanks for the info.",
+                  "author": "Rrlgs",
+                  "created": 1577355358,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "fc0q1zk": {
+                  "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0q1zk/",
+                  "text": "Excellent explanation! I think this is what OP was looking for.",
+                  "author": "CrypticQuirk",
+                  "created": 1577296893,
+                  "upvotes": 2,
+                  "replies": {
+                    "fc0u3xe": {
+                      "link": "/r/GradSchool/comments/efiwtt/why_dont_people_state_what_their_graduate_program/fc0u3xe/",
+                      "text": "I think OP was referring to the number of posters who post asking for advice but don't specify field/country in the post & don't have a flair, so it's difficult to give good advice.",
+                      "author": "PurrPrinThom",
+                      "created": 1577299736,
+                      "upvotes": 12,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634065755
+}

@@ -1,1 +1,45 @@
-{"sid": "px8uad", "link": "/r/GradSchool/comments/px8uad/partner_app_to_zotero/", "title:": "Partner App to Zotero", "text": "Hi everyone! \n\nI recently got an iPad Pro, which I\u2019ve been using a lot for my courses and reading articles. Now though, I\u2019m thinking of using a better app for PDF notes, which I can link to my Macbook and keep track of references (I\u2019m using GoodNotes now).\n\nI\u2019ve seen a lot of people use Zotero, so I\u2019m thinking of learning it so I don\u2019t need to always have a manually written list of references \ud83d\ude05 I wrote my BSc thesis using only Word and without any citation manager, and I\u2019m always nervous about forgetting to list one down.\n\nAny recommendations for an app which I can access on both iPad and Macbook? Plus points if it\u2019s either free or a one-time payment life subscription!", "author": "acabila", "created": 1632842928, "retrieved": 1632951959, "over_18": false, "upvotes": 5, "upvote_ratio": 1.0, "comments": {"henfsau": {"link": "/r/GradSchool/comments/px8uad/partner_app_to_zotero/henfsau/", "text": "ZotFile will sync your Zotero attachments for selected publications to a folder so you can use something like DropBox or iCloud Drive to access them on all of your devices.\n\nAfter that, the PDF app of your choice can handle your notes.\n\nThis method gives you a much wider choice of PDF apps - since ZotFile handles the syncing to/from Zotero, your PDF app doesn\u2019t have to know anything about Zotero.", "author": "tentkeys", "created": 1632867596, "upvotes": 1}, "hemanuy": {"link": "/r/GradSchool/comments/px8uad/partner_app_to_zotero/hemanuy/", "text": "I use Papership on the iPad to connect with Zotero on my laptop.", "author": "UleeBunny", "created": 1632850064, "upvotes": 2}, "helvy2r": {"link": "/r/GradSchool/comments/px8uad/partner_app_to_zotero/helvy2r/", "text": "There is a Zotero mobile app, it's just in beta: https://www.zotero.org/iosbeta", "author": "UndefinedNull", "created": 1632844040, "upvotes": 1}, "helti0p": {"link": "/r/GradSchool/comments/px8uad/partner_app_to_zotero/helti0p/", "text": "Use Paperpile instead", "author": "Shark_Bones", "created": 1632843036, "upvotes": 3}}}
+{
+  "sid": "px8uad",
+  "link": "/r/GradSchool/comments/px8uad/partner_app_to_zotero/",
+  "title:": "Partner App to Zotero",
+  "text": "Hi everyone! \n\nI recently got an iPad Pro, which I\u2019ve been using a lot for my courses and reading articles. Now though, I\u2019m thinking of using a better app for PDF notes, which I can link to my Macbook and keep track of references (I\u2019m using GoodNotes now).\n\nI\u2019ve seen a lot of people use Zotero, so I\u2019m thinking of learning it so I don\u2019t need to always have a manually written list of references \ud83d\ude05 I wrote my BSc thesis using only Word and without any citation manager, and I\u2019m always nervous about forgetting to list one down.\n\nAny recommendations for an app which I can access on both iPad and Macbook? Plus points if it\u2019s either free or a one-time payment life subscription!",
+  "author": "acabila",
+  "created": 1632842928,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "henfsau": {
+      "link": "/r/GradSchool/comments/px8uad/partner_app_to_zotero/henfsau/",
+      "text": "ZotFile will sync your Zotero attachments for selected publications to a folder so you can use something like DropBox or iCloud Drive to access them on all of your devices.\n\nAfter that, the PDF app of your choice can handle your notes.\n\nThis method gives you a much wider choice of PDF apps - since ZotFile handles the syncing to/from Zotero, your PDF app doesn\u2019t have to know anything about Zotero.",
+      "author": "tentkeys",
+      "created": 1632867596,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hemanuy": {
+      "link": "/r/GradSchool/comments/px8uad/partner_app_to_zotero/hemanuy/",
+      "text": "I use Papership on the iPad to connect with Zotero on my laptop.",
+      "author": "UleeBunny",
+      "created": 1632850064,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "helvy2r": {
+      "link": "/r/GradSchool/comments/px8uad/partner_app_to_zotero/helvy2r/",
+      "text": "There is a Zotero mobile app, it's just in beta: https://www.zotero.org/iosbeta",
+      "author": "UndefinedNull",
+      "created": 1632844040,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "helti0p": {
+      "link": "/r/GradSchool/comments/px8uad/partner_app_to_zotero/helti0p/",
+      "text": "Use Paperpile instead",
+      "author": "Shark_Bones",
+      "created": 1632843036,
+      "upvotes": 3
+    }
+  },
+  "updated": 1634064519
+}

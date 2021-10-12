@@ -1,1 +1,250 @@
-{"sid": "pluhno", "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/", "title:": "Why is Microsoft Word (and most work processors) so terrible?", "text": "I've professionally worked with the entire creative suit, 3D Max, Quark, etc. All of those have been lightyears more user friendly than MS Word. MS Word seems to take the concept of UX and poop on it. There is no user control over formatting, and, instead, the user is forced to submit to the random logic of the word processor. Quark was for literally making F\\*cking books and it did writing, typography, and formatting way easier than Word. You could tell a paragraph to intent every paragraph EXACTLY the amount you wanted it to independent of the rest of the document. \n\n&#x200B;\n\nWord is horrible.", "author": "astronomical_bark", "created": 1631310641, "retrieved": 1632952708, "over_18": false, "upvotes": 5, "upvote_ratio": 0.69, "comments": {"hcgzj6n": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcgzj6n/", "text": "While grinding out my dissertation, I took a 7 day break from fighting Word to teach myself InDesign. That was 20+ years ago and it still pays dividends today. MS Word\u2019s ability to maintain the location of an image hasn\u2019t improved over the last 2 decades. Basic text and citations in Word, integration w Figures and tables in InDesign. A lifesaver for grant preparation.", "author": "MrBurnsid3", "created": 1631389283, "upvotes": 1}, "hcg9alr": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcg9alr/", "text": "Latex", "author": "coffee24", "created": 1631378016, "upvotes": 2}, "hcfzd8m": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcfzd8m/", "text": "If you write in Markdown, you can use Pandoc or other tools to export to any other format you want. Word is for people that can't or won't use a plain text editor.", "author": "dr_spork", "created": 1631373675, "upvotes": 1}, "hcfquow": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcfquow/", "text": "Word processors were never designed for long complex documents. They work fine for simple stuff but get really bad with complex formatting or lots of tables. Tables in word give me nightmares", "author": "Trakeen", "created": 1631369796, "upvotes": 1}, "hcfcdv0": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcfcdv0/", "text": "I personally have the feeling that the \"lol word so bad\" has mostly been a meme from 20 years ago. Because yes, when I made my high school book reports in Word the formatting was awful and everything jumped around every time I entered an image. But when I did my PhD dissertation in Word everything worked just fine. Is it the best? No. Is it terrible? Absolutely not.", "author": "cephalord", "created": 1631361610, "upvotes": 1}, "hcfbugo": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcfbugo/", "text": "It\u2019s pretty easy to use. If you\u2019re concerned about using it for article or thesis writing, just use latex. I\u2019ll tell you a secret. Overleaf is the fuckin tits. And yes, it\u2019s worth paying for premium to write your thesis.", "author": "mfs619", "created": 1631361238, "upvotes": 3}, "hcf7odp": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcf7odp/", "text": "When I used Word it always did what I wanted it to do... And my documents are never simple blocks of texts. In a 15 pages article I recently wrote I have 48 numbered examples with data. Also IPA, glosses, etc. So yeah it depends on how you use it.", "author": "Normal_Kaleidoscope", "created": 1631358321, "upvotes": 2}, "hcf2uog": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcf2uog/", "text": "Word is just fine for the applications it's designed for. Invoices, cover letters, that stuff. \n\nPeople forcing other people to abuse it for writing scientific articles or even books are the issue.", "author": "Single_Blueberry", "created": 1631354363, "upvotes": 3}, "hce6eob": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hce6eob/", "text": "I have my own problems with Word, but typing a simple document is really easy and I think that's what the majority of people use it for. If you're doing some complex formatting for large documents, then I'm sure it can be really annoying, but I think the basics are simple enough for most people.", "author": "False-Guess", "created": 1631329535, "upvotes": 8}, "hcdhrxu": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcdhrxu/", "text": "There actually is a lot of control and format it, but to do it without losing your mind you need to really understand how word was designed to work. With that said I a think the way it\u2019s designed is stupid and could be done a lot better", "author": "Ru-tris-bpy", "created": 1631316901, "upvotes": 10}, "hcd70gq": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcd70gq/", "text": "Get LaTeX. Total control.", "author": "Crumblebeezy", "created": 1631311687, "upvotes": 16}, "hcd596n": {"link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcd596n/", "text": "It sounds like you just don't know how to use Word.", "author": "awksomepenguin", "created": 1631310863, "upvotes": 12}}}
+{
+  "sid": "pluhno",
+  "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/",
+  "title:": "Why is Microsoft Word (and most work processors) so terrible?",
+  "text": "I've professionally worked with the entire creative suit, 3D Max, Quark, etc. All of those have been lightyears more user friendly than MS Word. MS Word seems to take the concept of UX and poop on it. There is no user control over formatting, and, instead, the user is forced to submit to the random logic of the word processor. Quark was for literally making F\\*cking books and it did writing, typography, and formatting way easier than Word. You could tell a paragraph to intent every paragraph EXACTLY the amount you wanted it to independent of the rest of the document. \n\n&#x200B;\n\nWord is horrible.",
+  "author": "astronomical_bark",
+  "created": 1631310641,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 0.69,
+  "comments": {
+    "hcgzj6n": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcgzj6n/",
+      "text": "While grinding out my dissertation, I took a 7 day break from fighting Word to teach myself InDesign. That was 20+ years ago and it still pays dividends today. MS Word\u2019s ability to maintain the location of an image hasn\u2019t improved over the last 2 decades. Basic text and citations in Word, integration w Figures and tables in InDesign. A lifesaver for grant preparation.",
+      "author": "MrBurnsid3",
+      "created": 1631389283,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcg9alr": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcg9alr/",
+      "text": "Latex",
+      "author": "coffee24",
+      "created": 1631378016,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hcfzd8m": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcfzd8m/",
+      "text": "If you write in Markdown, you can use Pandoc or other tools to export to any other format you want. Word is for people that can't or won't use a plain text editor.",
+      "author": "dr_spork",
+      "created": 1631373675,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcfquow": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcfquow/",
+      "text": "Word processors were never designed for long complex documents. They work fine for simple stuff but get really bad with complex formatting or lots of tables. Tables in word give me nightmares",
+      "author": "Trakeen",
+      "created": 1631369796,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcfcdv0": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcfcdv0/",
+      "text": "I personally have the feeling that the \"lol word so bad\" has mostly been a meme from 20 years ago. Because yes, when I made my high school book reports in Word the formatting was awful and everything jumped around every time I entered an image. But when I did my PhD dissertation in Word everything worked just fine. Is it the best? No. Is it terrible? Absolutely not.",
+      "author": "cephalord",
+      "created": 1631361610,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcfbugo": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcfbugo/",
+      "text": "It\u2019s pretty easy to use. If you\u2019re concerned about using it for article or thesis writing, just use latex. I\u2019ll tell you a secret. Overleaf is the fuckin tits. And yes, it\u2019s worth paying for premium to write your thesis.",
+      "author": "mfs619",
+      "created": 1631361238,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hcf7odp": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcf7odp/",
+      "text": "When I used Word it always did what I wanted it to do... And my documents are never simple blocks of texts. In a 15 pages article I recently wrote I have 48 numbered examples with data. Also IPA, glosses, etc. So yeah it depends on how you use it.",
+      "author": "Normal_Kaleidoscope",
+      "created": 1631358321,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hcf2uog": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcf2uog/",
+      "text": "Word is just fine for the applications it's designed for. Invoices, cover letters, that stuff. \n\nPeople forcing other people to abuse it for writing scientific articles or even books are the issue.",
+      "author": "Single_Blueberry",
+      "created": 1631354363,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hce6eob": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hce6eob/",
+      "text": "I have my own problems with Word, but typing a simple document is really easy and I think that's what the majority of people use it for. If you're doing some complex formatting for large documents, then I'm sure it can be really annoying, but I think the basics are simple enough for most people.",
+      "author": "False-Guess",
+      "created": 1631329535,
+      "upvotes": 8,
+      "replies": {
+        "hcec6sv": {
+          "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcec6sv/",
+          "text": "Anything with 10+ pages can become wonky very easily.",
+          "author": "astronomical_bark",
+          "created": 1631332899,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hcdhrxu": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcdhrxu/",
+      "text": "There actually is a lot of control and format it, but to do it without losing your mind you need to really understand how word was designed to work. With that said I a think the way it\u2019s designed is stupid and could be done a lot better",
+      "author": "Ru-tris-bpy",
+      "created": 1631316901,
+      "upvotes": 10,
+      "replies": {
+        "hcdj563": {
+          "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcdj563/",
+          "text": "Sadly, I agree. There is a rhyme and reason for its formatting. That said, it really feels like an artifact from the 90s.",
+          "author": "astronomical_bark",
+          "created": 1631317583,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "hcd70gq": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcd70gq/",
+      "text": "Get LaTeX. Total control.",
+      "author": "Crumblebeezy",
+      "created": 1631311687,
+      "upvotes": 16,
+      "replies": {
+        "hcdcnfi": {
+          "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcdcnfi/",
+          "text": "Beat me to the punch. I haven\u2019t used Word willingly in over a decade. Ive had my arm twisted and had to use it. I spent the entire time complaining and muttering LaTeX is better.",
+          "author": "priestess-time",
+          "created": 1631314366,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hcec3sk": {
+          "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcec3sk/",
+          "text": "My main problem with this is my thesis director and the entire department use Microsoft OneDrive and markup all of my stuff in Word with comments. They wouldn't even let me use Google Docs....unless I wanted to painstakingly convert them with comments and all.",
+          "author": "astronomical_bark",
+          "created": 1631332848,
+          "upvotes": 2,
+          "replies": {
+            "hcnesqk": {
+              "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcnesqk/",
+              "text": "I don't know how feasible it is because I haven't gotten to the thesis point just yet. But what i did was like type up like the draft of the document with LaTeX. Consider this to be like 80% of the way to the final document. Once, your there, word can convert the pdf document to the word docx. The conversion won't be great and there will be like minor formatting issues. \n\nBut once that difficult one time transition is done. The now word file can like be shared and commented on till like the final document is ready. Track your changes between the original pdf and like the current word doc. Finalize it in LaTeX again.\n\nHonestly, this process is arduous enough that its only worth it for the thesis chapter by chapter and like your proposal at the start.",
+              "author": "coolatom",
+              "created": 1631503965,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hcd596n": {
+      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcd596n/",
+      "text": "It sounds like you just don't know how to use Word.",
+      "author": "awksomepenguin",
+      "created": 1631310863,
+      "upvotes": 12,
+      "replies": {
+        "hcdw496": {
+          "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcdw496/",
+          "text": "Yeah, Word sucks in some ways, but formatting simple paragraphs is easy. It's when you add images that you start wanting to pull your hair out. I always do those in InDesign if I'm allowed to submit a PDF. Simple essay? Easy as pie. Just turn on the formatting symbols if it's being difficult.",
+          "author": "era626",
+          "created": 1631324128,
+          "upvotes": 6,
+          "replies": {
+            "hcf1z6j": {
+              "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcf1z6j/",
+              "text": "I added a table to my Word document from Numbers yesterday and when I later tried adding a page below it 95% of my written document disappeared. I had to press undo about a hundred times to get it back before the program decided to save the change (I.e. closed the document) and not let me get my good copy back. This is the first time I\u2019ve used word in years and it is driving me nuts, but I find trying to format in Pages impossible, plus I annoy people when I send Pages documents and forget to convert them to pdf or word docs first.",
+              "author": "UleeBunny",
+              "created": 1631353592,
+              "upvotes": 1,
+              "replies": {
+                "hcfb92e": {
+                  "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcfb92e/",
+                  "text": "You should use Excel for tables you're pasting into Word. You can even link it and then have changes you made in Excel after pasting be transferred to Word. If you're using any other program, you should paste as an image. \n\nIf something like what you had happen occurs again, you should turn formatting on. Likely you had a weird setting and the image was either in front of or replaced the text. It *does* sound like you don't really know how to use Word. I've received poorly formatted articles before and can always fix them by using a few simple tricks. Pasting an image or two into a document shouldn't be too hard. It's when you have dozens that it starts to get annoying. \n\nIf you send me the article for publication, I will want the Excel document or a very high quality image anyways. I believe that is standard for academic publications (and so is submitting a Word doc with the text). Try it with an image next time and read up on image formatting if you have trouble.",
+                  "author": "era626",
+                  "created": 1631360831,
+                  "upvotes": 4,
+                  "replies": {
+                    "hcfcqdq": {
+                      "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcfcqdq/",
+                      "text": "I did use it as an image. I tried making an excel table first but was having trouble trying to format with the program to make it look aesthetically pleasing. Formatting the table was much easier in Numbers for me.",
+                      "author": "UleeBunny",
+                      "created": 1631361839,
+                      "upvotes": 1,
+                      "replies": {
+                        "hcgjdv2": {
+                          "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcgjdv2/",
+                          "text": "Yes, you should format in the original program (numbers, excel, etc). If you are submitting an article to a journal, we're not able to work well from a Word-formatted table. And Excel is good to learn how to use since more people have it then Numbers and it's typically standard to know how to use MS Office for any field.",
+                          "author": "era626",
+                          "created": 1631382355,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hcd75pe": {
+          "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcd75pe/",
+          "text": "[https://glasscanopy.com/microsofts-word-vs-adobes-indesign-designing-template/#:\\~:text=In%20general%2C%20InDesign%20is%20a,familiar%20or%20fluent%20in%20Word.&text=Writing%20up%20a%20very%20simple,designers%20will%20heatedly%20debate%20this](https://glasscanopy.com/microsofts-word-vs-adobes-indesign-designing-template/#:~:text=In%20general%2C%20InDesign%20is%20a,familiar%20or%20fluent%20in%20Word.&text=Writing%20up%20a%20very%20simple,designers%20will%20heatedly%20debate%20this)).  \n\n\nThe inferiority of Word compared to other type and layout programs is a commonly accepted truth. Why is that?",
+          "author": "astronomical_bark",
+          "created": 1631311757,
+          "upvotes": -3,
+          "replies": {
+            "hcgjs95": {
+              "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcgjs95/",
+              "text": "Word is not intended for creating documents for publication. \n\nIt is a word processor and its use for that vastly exceeds InDesign. Industry standard in publication is to work on manuscripts/drafts in Word then paste into InDesign using one of several functions.",
+              "author": "era626",
+              "created": 1631382526,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "hcd6pku": {
+          "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcd6pku/",
+          "text": "I don't think that is true. I use the commands as they are described........as I would with Quark, InDesign, Premier, etc., but Word does not execute. \n\nWhy do you think Word lacks user experience? Do you know how to use Word? Go get your shinebox. Just kidding.",
+          "author": "astronomical_bark",
+          "created": 1631311543,
+          "upvotes": -6,
+          "replies": {}
+        },
+        "hcd7dyp": {
+          "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcd7dyp/",
+          "text": "[https://www.fastcompany.com/1669530/why-microsoft-word-really-sucks-it-was-invented-in-a-paper-powered-world#:\\~:text=And%20Microsoft%20Word%20is%20an,words%20should%20look%20on%20paper](https://www.fastcompany.com/1669530/why-microsoft-word-really-sucks-it-was-invented-in-a-paper-powered-world#:~:text=And%20Microsoft%20Word%20is%20an,words%20should%20look%20on%20paper).  \nMeta-data overload.",
+          "author": "astronomical_bark",
+          "created": 1631311863,
+          "upvotes": -1,
+          "replies": {
+            "hcgl99g": {
+              "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcgl99g/",
+              "text": "I'm being downvoted because cited sources. Welp. Downvote away.",
+              "author": "astronomical_bark",
+              "created": 1631383161,
+              "upvotes": 1,
+              "replies": {
+                "hcgzv1x": {
+                  "link": "/r/GradSchool/comments/pluhno/why_is_microsoft_word_and_most_work_processors_so/hcgzv1x/",
+                  "text": "its not because you cited courses, but because just posting a link is not really  contributing much to discussion.",
+                  "author": "doornroosje",
+                  "created": 1631389418,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634067390
+}

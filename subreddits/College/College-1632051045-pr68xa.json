@@ -1,1 +1,58 @@
-{"sid": "pr68xa", "link": "/r/college/comments/pr68xa/hello_everyone/", "title:": "Hello everyone!", "text": "Is it better to choose graphic design ( Photoshop and such programs ) or to go with programming?\n\nIt's my last year on high school and I can't decide on which to go.\n\nLooking at good and bad sides, graphic design is way better than programming for me, but the thing is that I love programming.\n\nThank you.", "author": "Rasputiini", "created": 1632051045, "retrieved": 1632801471, "over_18": false, "upvotes": 2, "upvote_ratio": 1.0, "comments": {"hdgcoa6": {"link": "/r/college/comments/pr68xa/hello_everyone/hdgcoa6/", "text": "Hey there!\nI was always interested in both graphic design, UI design  and programming since I grew up.\nI chose to go with programming and am graduating next year. For me, I chose programming because I could become a Front-End Developer and UI designer, that way I'll get to do both at once.", "author": "thatsummerlove", "created": 1632053257, "upvotes": 3}}}
+{
+  "sid": "pr68xa",
+  "link": "/r/college/comments/pr68xa/hello_everyone/",
+  "title:": "Hello everyone!",
+  "text": "Is it better to choose graphic design ( Photoshop and such programs ) or to go with programming?\n\nIt's my last year on high school and I can't decide on which to go.\n\nLooking at good and bad sides, graphic design is way better than programming for me, but the thing is that I love programming.\n\nThank you.",
+  "author": "Rasputiini",
+  "created": 1632051045,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hdgcoa6": {
+      "link": "/r/college/comments/pr68xa/hello_everyone/hdgcoa6/",
+      "text": "Hey there!\nI was always interested in both graphic design, UI design  and programming since I grew up.\nI chose to go with programming and am graduating next year. For me, I chose programming because I could become a Front-End Developer and UI designer, that way I'll get to do both at once.",
+      "author": "thatsummerlove",
+      "created": 1632053257,
+      "upvotes": 3,
+      "replies": {
+        "hdgi2ve": {
+          "link": "/r/college/comments/pr68xa/hello_everyone/hdgi2ve/",
+          "text": "Thank you. Is there a lot or mathematics in programming? I'm trying to avoid that A LOT.",
+          "author": "Rasputiini",
+          "created": 1632056458,
+          "upvotes": 1,
+          "replies": {
+            "hdgjiiv": {
+              "link": "/r/college/comments/pr68xa/hello_everyone/hdgjiiv/",
+              "text": "There's a few points to that then:\n\n1.As far as the major is concerned,  it boils down to your specific curriculum and how much freedom your college gives you in choosing courses. I had to do Advanced Calculus, Statistics and Numerical Methods mandatorily.\n\n2. As for the actual work, programming is basically applying mathematical reasoning, but it does feel quite different from the 'regular' math you might be used to, to me programming is very intuitive as opposed to pure math.\n\n3. The amount of math needed will vary greatly based on what field of work you choose, for example anything with Data Science, Machine learning etc. will require lots of math, whereas if you choose to go for Front-End stuff, that be concerned more with the logistics of incoming data, how to present it, how to use libraries and tools to build an interface and so on\n\nSo if you can tolerate some math, go for it.\nBut if you absolutely despise it, you might have a hard time.",
+              "author": "thatsummerlove",
+              "created": 1632057253,
+              "upvotes": 3,
+              "replies": {
+                "hdgqbhq": {
+                  "link": "/r/college/comments/pr68xa/hello_everyone/hdgqbhq/",
+                  "text": "I don't want to have anything with mathematics, a bit is acceptable but programming has a lot of mathematics therefore I came to a conclusion to go for Graphic Design. \n\nThank you very much for your replies and for your time",
+                  "author": "Rasputiini",
+                  "created": 1632060648,
+                  "upvotes": 2,
+                  "replies": {
+                    "hdgs7fi": {
+                      "link": "/r/college/comments/pr68xa/hello_everyone/hdgs7fi/",
+                      "text": "Wish you good luck!",
+                      "author": "thatsummerlove",
+                      "created": 1632061531,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "updated": 1634050524
+}

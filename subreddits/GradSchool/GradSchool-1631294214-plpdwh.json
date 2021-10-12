@@ -1,1 +1,64 @@
-{"sid": "plpdwh", "link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/", "title:": "Best laptops for studying natural sciences during grad school?", "text": "Maybe a more mundane question, but I'd really like everybody's expertise. I've had comically terrible experiences in buying computers in the past. \n\nI'll be focusing my studies in ecology, specializing in plant and insect interactions. The program I'm taking also integrates a lot of environmental policy. \n\nMy programs will be hybrid remote/in-person learning due to COVID so a webcam seems necessary. I'll also be using R and Excel as well as ArcGIS. \n\nMaybe this question is better fielded to a technology specific subteddit but I thought I'd start here. I have no idea what to look for other than probably not a Mac.\n\nI'm trying to find something no more than $1000 but if it's a little above that mark I can make it work.", "author": "_unsteady_", "created": 1631294214, "retrieved": 1632844666, "over_18": false, "upvotes": 3, "upvote_ratio": 0.8, "comments": {"hcdaha4": {"link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/hcdaha4/", "text": "Field researcher here. Lenovo X1 carbon. Keeps ticking after 7yrs working in extremely hostile environments all over the world.", "author": "teriyakidonamick", "created": 1631313321, "upvotes": 1}, "hcd5qo8": {"link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/hcd5qo8/", "text": "Find out if your programs are RAM or processor limited.\n\nThen go on the PC gaming hardware subreddit and ask.  My guess is a Black Friday Newegg high end gaming PC might be available for like $200-300 off it\u2019s normal price and fit your budget/needs well.  It\u2019s how I got mine a few years ago.", "author": "Weekly-Ad353", "created": 1631311088, "upvotes": 1}, "hcd4mwm": {"link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/hcd4mwm/", "text": "My Microsoft surface book runs ArcMaps/etc very smoothly\u2014better than our GIS desktops in the lab. I can run R, Arc things, throw shit on word, page through journal databases online, *and* cast my YouTube music/background tv show noise to my smart tv without my computer throwing a fit (Wifi might though). I\u2019m a wildlife ecology student, for comparison. I also will run Arc stuff in conjunction with other programs (landfire, fresh/other models, mark, GeneMapper) and lots of heavy database processing.\n\nThe caveat: this is a pretty spendy laptop, but I subscribe to \u201cbuy once, cry once\u201d, so we\u2019re starting year 5 and still thriving. With your budget I\u2019d find a desktop that can handle ArcMap within your limit, and just use that desktop for Arc, then run everything else on whatever your normal computer is now.", "author": "ld012", "created": 1631310579, "upvotes": 2}, "hcc4wbe": {"link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/hcc4wbe/", "text": "I ended up buying a desktop computer to run GIS. I got a dell for around 600$ that does the trick! Check the specs on the ArcGIS website and just make sure it meets the recommended requirements because it is a heavy program. It wouldn\u2019t run well on any laptop I could find for under 1k$.", "author": "bonefarmer", "created": 1631295204, "upvotes": 3}}}
+{
+  "sid": "plpdwh",
+  "link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/",
+  "title:": "Best laptops for studying natural sciences during grad school?",
+  "text": "Maybe a more mundane question, but I'd really like everybody's expertise. I've had comically terrible experiences in buying computers in the past. \n\nI'll be focusing my studies in ecology, specializing in plant and insect interactions. The program I'm taking also integrates a lot of environmental policy. \n\nMy programs will be hybrid remote/in-person learning due to COVID so a webcam seems necessary. I'll also be using R and Excel as well as ArcGIS. \n\nMaybe this question is better fielded to a technology specific subteddit but I thought I'd start here. I have no idea what to look for other than probably not a Mac.\n\nI'm trying to find something no more than $1000 but if it's a little above that mark I can make it work.",
+  "author": "_unsteady_",
+  "created": 1631294214,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 0.8,
+  "comments": {
+    "hcdaha4": {
+      "link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/hcdaha4/",
+      "text": "Field researcher here. Lenovo X1 carbon. Keeps ticking after 7yrs working in extremely hostile environments all over the world.",
+      "author": "teriyakidonamick",
+      "created": 1631313321,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcd5qo8": {
+      "link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/hcd5qo8/",
+      "text": "Find out if your programs are RAM or processor limited.\n\nThen go on the PC gaming hardware subreddit and ask.  My guess is a Black Friday Newegg high end gaming PC might be available for like $200-300 off it\u2019s normal price and fit your budget/needs well.  It\u2019s how I got mine a few years ago.",
+      "author": "Weekly-Ad353",
+      "created": 1631311088,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcd4mwm": {
+      "link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/hcd4mwm/",
+      "text": "My Microsoft surface book runs ArcMaps/etc very smoothly\u2014better than our GIS desktops in the lab. I can run R, Arc things, throw shit on word, page through journal databases online, *and* cast my YouTube music/background tv show noise to my smart tv without my computer throwing a fit (Wifi might though). I\u2019m a wildlife ecology student, for comparison. I also will run Arc stuff in conjunction with other programs (landfire, fresh/other models, mark, GeneMapper) and lots of heavy database processing.\n\nThe caveat: this is a pretty spendy laptop, but I subscribe to \u201cbuy once, cry once\u201d, so we\u2019re starting year 5 and still thriving. With your budget I\u2019d find a desktop that can handle ArcMap within your limit, and just use that desktop for Arc, then run everything else on whatever your normal computer is now.",
+      "author": "ld012",
+      "created": 1631310579,
+      "upvotes": 2,
+      "replies": {
+        "hcq4e3e": {
+          "link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/hcq4e3e/",
+          "text": "I also looked at buying the Surface Book but went with a Yoga C740 instead. The price of the Yoga was a tiny bit higher (by $150 CAD) than the Book but ohmygod, it was more worth it. I could only find 8 GB RAM on the Book for that price, but the Yoga had16 GB RAM, 16\" screen. Everything runs like butter. But I use Excel, Python, Mendeley and R, and don't use GIS. Yoga has a folding screen with a pen so you can take notes, and the Book has a screen that can separate from the keyboard - but that is literally the only part that was a difficult choice for me. Highly recommend splashing out for Yoga if you can.",
+          "author": "funkykookaburra",
+          "created": 1631559893,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hcc4wbe": {
+      "link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/hcc4wbe/",
+      "text": "I ended up buying a desktop computer to run GIS. I got a dell for around 600$ that does the trick! Check the specs on the ArcGIS website and just make sure it meets the recommended requirements because it is a heavy program. It wouldn\u2019t run well on any laptop I could find for under 1k$.",
+      "author": "bonefarmer",
+      "created": 1631295204,
+      "upvotes": 3,
+      "replies": {
+        "hcc9eiq": {
+          "link": "/r/GradSchool/comments/plpdwh/best_laptops_for_studying_natural_sciences_during/hcc9eiq/",
+          "text": "Okay, good to know. I have a pretty decent desktop already, I just don't have much of a private space at home. Maybe I'll plan on doing the GIS stuff on campus (so long as it remains open).",
+          "author": "_unsteady_",
+          "created": 1631297122,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  },
+  "updated": 1634065561
+}
