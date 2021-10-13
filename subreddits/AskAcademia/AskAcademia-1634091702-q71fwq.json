@@ -1,0 +1,170 @@
+{
+  "sid": "q71fwq",
+  "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/",
+  "title:": "Anyone have experience using dictation software for academic writing?",
+  "text": "I'm in the social sciences if that matters. \n\nI'm considering experimenting with dictation software. I'm a slow typist and often feel like there is a block between my thoughts and how they come out when I type. Speaking my thoughts feels much more natural.\n\nDoes anyone have experience using dictation software for academic writing? I'd be very interested in hearing your experience and what setup you use.",
+  "author": "noplusnoequalsno",
+  "created": 1634091702,
+  "updated": 1634167195,
+  "over_18": false,
+  "upvotes": 13,
+  "upvote_ratio": 0.93,
+  "comments": {
+    "hgg42rx": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgg42rx/",
+      "text": "I used the dictate feature in Microsoft word to draft parts of my dissertation, and then go back and edit it by typing.",
+      "author": "AmyMary104",
+      "created": 1634100087,
+      "upvotes": 13,
+      "replies": {
+        "hgh40ye": {
+          "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgh40ye/",
+          "text": "Same here, it worked even better than I anticipated",
+          "author": "LabInsider",
+          "created": 1634127980,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "hgfri39": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgfri39/",
+      "text": "https://support.apple.com/en-us/HT208343\n\n\u201cOn iPhone 6s or later, and iPad, you can use dictation without being connected to the Internet. Earlier models of iPhone and iPad require an Internet connection\u201d",
+      "author": "Robojo",
+      "created": 1634093331,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hggtrex": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hggtrex/",
+      "text": "Hey! So, I suffer from a similar problem and have found that the most useful dictation software thingies to use aren't necessarily the ones you find on a laptop e.g. Dragon, and certainly not the built-in Word dictation tool. Rather, I've had success using what are essentially automatic transcribing apps, mostly designed for journalists, which record an audio recording and transcribe as it goes. The one I use is called Otter, and it's available for free as a mobile app. Literally switch it on, press record and watch as your words fill up the screen. You can then email the file to yourself as a text file. Accuracy rate is around 90%, I'd say, and since it records the audio, you can easily go back and correct anything where the transcription is incorrect.",
+      "author": "FlexMissile99",
+      "created": 1634120975,
+      "upvotes": 7,
+      "replies": {
+        "hgido3y": {
+          "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgido3y/",
+          "text": "A 10% error rate isn't a good stat.",
+          "author": "gutfounderedgal",
+          "created": 1634147574,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hggkneq": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hggkneq/",
+      "text": "I have done, but tbh going back over to edit what it got wrong was much more frustrating than just typing it out myself. I used the microsoft dictation feature and also did a trial of one of the popular dictation apps, forget which.",
+      "author": "thegreenaquarium",
+      "created": 1634112866,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hggn13p": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hggn13p/",
+      "text": "I broke my wrist a few years ago and tried a few varieties but none were good enough to be worth the trouble (especially with technical language). What I wound up doing was hiring someone, I'd send them a recording and they'd transcribe it for me, wasn't cheap, fortunately the university was picking up the tab, but was worth it.\n\nEdit: granted software capabilities will have improved in the last 4 years so maybe its much better now",
+      "author": "IntLawprof",
+      "created": 1634115097,
+      "upvotes": 5,
+      "replies": {
+        "hgid9jg": {
+          "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgid9jg/",
+          "text": "I recently tried an AI SAAS service where I uploaded a podcast for transcription. It was almost flawless.",
+          "author": "Practical-Smell-7679",
+          "created": 1634147420,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hggss53": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hggss53/",
+      "text": "I had an injury and needed to use dictation for bits of one paper. It's dreadful for academic writing because coverage for scientific/domain terms is really weak and punctuation is a huge pain. Obviously anything that requires Tex or fancy markup is basically impossible.\n\nI ended up spending a good 50% of my time correcting dictation errors, rephrasing sentences, and adding punctuation. This was true across every tool I tried. \n\nI think dictation is fine in an office job where you're emailing colleagues, but for published work it's slower than even the worst typing.\n\nTry getting yourself some typing-tutor software. It'll pay off far better to just learn to type.",
+      "author": "Radiant-Tax",
+      "created": 1634120238,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hgh3544": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgh3544/",
+      "text": "I have a wrist problem and had to do something similar for a while (I'm in the medical sciences). It highly depends on which software you use and how good your mic is, otherwise it becomes frustrating very quickly. \n\nDragon is the best I've found, because it can be loaded with specialty specific vocabulary. However, the dictation software in Google Docs is a close second. It's free and rather decent. The built in software for Windows is dead last - it's the worst and not worth the effort to train it imo. \n\nRegardless of what you use, I'd recommend giving it a solid week of a try because it takes a bit to get fast.",
+      "author": "LikeChewingGravel",
+      "created": 1634127467,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hgh9vgn": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgh9vgn/",
+      "text": "I've used dragon for a lot of my writing. It tends to help me get unstuck because I can talk out what I want to say without losing the train of thought while my fingers try to catch up typing, plus I can pace around the room while I talk it out. Dragon has an educators version for relatively cheap. It can take a bit to get it to adjust to your voice but once it does it works great.",
+      "author": "wandersnearby",
+      "created": 1634131069,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hghxquv": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hghxquv/",
+      "text": "Dragon is amazing. I\u2019ve personally used it and I vouch for it. But i did not use it for academic context, mainly for commercial work. Dragon does have the downside of not being able to capture every single nuance of academic writing.",
+      "author": "givemeyourdonut",
+      "created": 1634141286,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hggl51v": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hggl51v/",
+      "text": "I looked into it, but as I write about as fast as I think (not fast) it didn't make sense.\n\nOthers have success with it, but you need to practice and teach the AI to get full use of it. Also, spoken language and written language differs. You would have to get used to talking like you write (or spend time editing it).",
+      "author": "molobodd",
+      "created": 1634113328,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hgi9skp": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgi9skp/",
+      "text": "I've been struggling with writer's block and writing anxiety the past few months. The dictation software on Microsoft office actually helped me get back into writing. It's helpful for drafting your thoughts but I found that I had to completely rewrite after the fact.",
+      "author": "Leftoverfact",
+      "created": 1634146103,
+      "upvotes": 3,
+      "replies": {
+        "hgia5t7": {
+          "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgia5t7/",
+          "text": "I suggest a 30min limit when using these tools because it's really only usable in a rough outline scenario. The time it takes to edit it down isn't worth investing valuable writing time.",
+          "author": "Leftoverfact",
+          "created": 1634146244,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hgidt0m": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgidt0m/",
+      "text": "The best one out there for me was Dragon Dictate. It was quickly and easily trained up to your voice and words could be added easily too.  I say *was* because they no longer make it for mac laptops or desktops. If you want to dictate into your phone have fun. It's still around for PC. The mac dictate is OK about the same as the Google Doc, slower than Dragon with more errors.",
+      "author": "gutfounderedgal",
+      "created": 1634147629,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hghjb7n": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hghjb7n/",
+      "text": "Microsoft word has a dictation feature. In a crunch, I use my phone's voice to text into an email to do it. I've had Dragon and the like, but they're overpriced with very little benefit over the inbuilt features of the two things I use.",
+      "author": "SemanticBattle",
+      "created": 1634135380,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hgixy26": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgixy26/",
+      "text": "I tried it with google docs voice. It works way better than you'd expect at getting the words right \n\nUnfortunately I found that my speaking is completely different from my writing.  It's almost like I can't think fast enough to say an academically composed sentence. \n\nBasically a monologue of me talking about a topic, it totally different linguistically to a composed paragraph",
+      "author": "zukerblerg",
+      "created": 1634155755,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hgj8n5m": {
+      "link": "/r/AskAcademia/comments/q71fwq/anyone_have_experience_using_dictation_software/hgj8n5m/",
+      "text": "My experience was that since dragon speech for example had some impressive features (six thousand five hundred and two will be translated correctly to 6502), it failed on super simple tasks (german \"Hund\" (dog) and \"und\" (and) for example) and of course depending on your field there might be loads of words simply to exotic for the software to know.\n\nHowever, depending on your computer skills and maker spirit, you could make your own spelling file to use for autocorrection.\n\nLet's say your work will be about antibiotics and bacteria, you could just feed a list of those into this file, and it will suggest and complete your clumsy \"Kleb\" to \"Klebsiella\". Should work with french names, town names, whatever....\n\nIf you feel particularly nerdy, listen to this: I personally use Vim for writing reports. By the power of the linux terminal, I have looked through 1000s of those reports and made a list of unique words (there is literally a 'unique' command), then deleted all words shorter than 10 characters (I do not want suggestions for super short words) and used that as my spellfile. \n\nImagine you write an essay about the bible and you apply that method to the text of the bible first - all your weird names of towns and people are already there when you start.",
+      "author": "spots_reddit",
+      "created": 1634160197,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "sid": "q7ezob",
+  "link": "/r/college/comments/q7ezob/is_there_a_way_to_know_who_writes_what_on_google/",
+  "title:": "Is there a way to know who writes what on Google Docs or MC Word?",
+  "text": "I have a group project where we need to write A LOT.  I would like to track who writes what and the changes they made.  \n\nIs there a tool, add-on or software that can help?",
+  "author": "curlymarketer",
+  "created": 1634142826,
+  "updated": 1634167567,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hgi1ons": {
+      "link": "/r/college/comments/q7ezob/is_there_a_way_to_know_who_writes_what_on_google/hgi1ons/",
+      "text": "Google docs has a viewable editing history as long as the owner of the document keeps it available.",
+      "author": "mightymeatloaf",
+      "created": 1634142881,
+      "upvotes": 8,
+      "replies": {
+        "hgjm682": {
+          "link": "/r/college/comments/q7ezob/is_there_a_way_to_know_who_writes_what_on_google/hgjm682/",
+          "text": "Thanks! Gonna try that!",
+          "author": "curlymarketer",
+          "created": 1634166199,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hgibs34": {
+      "link": "/r/college/comments/q7ezob/is_there_a_way_to_know_who_writes_what_on_google/hgibs34/",
+      "text": "[For word desktop and web](https://support.microsoft.com/en-us/office/track-changes-in-word-197ba630-0f5f-4a8e-9a77-3712475e806a#TrackChanges=Web)\n[For google](https://support.google.com/docs/thread/17472541/how-to-track-changes-in-google-doc?hl=en)",
+      "author": "tajetaje",
+      "created": 1634146860,
+      "upvotes": 2,
+      "replies": {
+        "hgjm8lq": {
+          "link": "/r/college/comments/q7ezob/is_there_a_way_to_know_who_writes_what_on_google/hgjm8lq/",
+          "text": "Thanks! Just what I needed.",
+          "author": "curlymarketer",
+          "created": 1634166229,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

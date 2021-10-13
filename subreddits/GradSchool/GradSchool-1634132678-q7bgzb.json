@@ -1,0 +1,49 @@
+{
+  "sid": "q7bgzb",
+  "link": "/r/GradSchool/comments/q7bgzb/online_stats_resourcehelp/",
+  "title:": "Online stats resource/help?",
+  "text": "Hey all, \n\nI\u2019m doing a minor in statistics and I am really not having a good time in one of the required courses. I can not follow how the professor explains things, his answers just leave me more confused. I usually just end up reading on my own after class (a lot of my peers stopped coming to class altogether bc it\u2019s literally useless). \n\nDoes anyone have any recommendations for an online resource they liked a lot? (Videos highly preferred if possible) \n\nIn this class we go over probability, random variables, transforming random variables, joint distributions, etc. \n\nI really enjoy statistics, but really having a hard time getting a hang on this part of it. \n\nReally would appreciate any input. \n\nThanks!",
+  "author": "crudestemu",
+  "created": 1634132678,
+  "updated": 1634167902,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hgi0ff4": {
+      "link": "/r/GradSchool/comments/q7bgzb/online_stats_resourcehelp/hgi0ff4/",
+      "text": "Not sure if you are interested in texts, but Introduction to Mathematical Statistics by Hogg, McKean, and Craig is my go-to. Can probably find a free pdf by googling. \n\nThings are explained well with plenty of examples, and they have good practice problems ranging from easy to hard. Imo it's always good to have some easy practice problems just to double check that you understood what you just read. There are solutions for the odd problems at the back of the book, and there is a solution manual with full solutions to the even problems (can probably find a pdf by googling).\n\nThey introduce some measure theory concepts here and there but they can be safely ignored.",
+      "author": "Grimsley0",
+      "created": 1634142378,
+      "upvotes": 2,
+      "replies": {
+        "hgi3vfs": {
+          "link": "/r/GradSchool/comments/q7bgzb/online_stats_resourcehelp/hgi3vfs/",
+          "text": "I took a peak and it doesn\u2019t look like they include expected value, is it referenced some other way in this book or not included at all?",
+          "author": "crudestemu",
+          "created": 1634143763,
+          "upvotes": 1,
+          "replies": {
+            "hgi85b2": {
+              "link": "/r/GradSchool/comments/q7bgzb/online_stats_resourcehelp/hgi85b2/",
+              "text": "Expectations are covered, once in Chapter 1 for univariate distributions and once again in Chapter 2 for multivariate distributions.",
+              "author": "Grimsley0",
+              "created": 1634145464,
+              "upvotes": 1,
+              "replies": {
+                "hgieb6e": {
+                  "link": "/r/GradSchool/comments/q7bgzb/online_stats_resourcehelp/hgieb6e/",
+                  "text": "Perfect I\u2019ll give it a better read then, thank you for the recommendation!",
+                  "author": "crudestemu",
+                  "created": 1634147828,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
