@@ -19,7 +19,7 @@ import json
 import os
 import sys
 from datetime import datetime
-from typing import Dict, Any, Set, Iterable, List
+from typing import Dict, Any, List, Set, Iterable
 
 import praw
 from praw import Reddit
@@ -49,51 +49,35 @@ def skip_comment(comment: Comment) -> bool:
     return False
 
 
-# def subreddit_scrapper(scrap: Reddit, cname: str, outdir: str):
-#     retrieved_sids: Set[str]
-#
-#     submissions = {os.path.basename(jsonfile) for jsonfile in glob.glob(os.path.join(outdir, '*.json'))}
-#     new = aux(scrap.subreddit(cname).hot(limit=None))
-#     new += aux(scrap.subreddit(cname).top(limit=None))
-#     print('{:<15} -> Total: {:>5}, New: {:>3}'.format(cname, len(submissions), new))
-#     return len(submissions)
+def save_subreddit(scrap: Reddit, praw_subreddit: Submission, cname: str, outdir: str, skip_existing: bool = False) -> bool:
+    filename = '{}-{}-{}.json'.format(cname, round(praw_subreddit.created_utc), praw_subreddit.id)
+    filepath = os.path.join(outdir, cname, filename)
+    print(filename)
+
+    if os.path.isfile(filepath):
+        if skip_existing: return False
+        dict_subreddit = json.load(open(filepath))
+    else:
+        dict_subreddit = dict()
+
+    if retrieve_subreddit(scrap, praw_subreddit, dict_subreddit):
+        json.dump(dict_subreddit, open(filepath, 'w'), indent=2)
+        return True
+
+    return False
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-# def save_subreddits(scrap: Reddit, praw_subreddits: Iterable[Submission], retrieved_ids: Set[str], cname: str, outdir: str):
-#     count = 0
-#
-#     for praw_subreddit in praw_subreddits:
-#         if praw_subreddit.id in retrieved_ids or skip_subreddit(praw_subreddit): continue
-#         filename = '{}-{}-{}.json'.format(cname, round(praw_subreddit.created_utc), praw_subreddit.id)
-#         filepath = os.path.join(outdir, cname, filename)
-#         dict_subreddit = json.load(open(filepath)) if os.path.isfile(filepath) else dict()
-#
-#         if retrieve_subreddit(scrap, praw_subreddit, dict_subreddit):
-#             json.dump(dict_subreddit, open(filepath, 'w'))
-#             count += 1
-#
-#     return count
+def update_all(scrap: Reddit, cnames: List[str], outdir: str, fout):
+    for cname in cnames:
+        count = update_subreddits(scrap, cname, outdir)
+        fout.write('{}\t{}\n'.format(cname, count))
 
 
 def update_subreddits(scrap: Reddit, cname: str, outdir: str) -> int:
     count = 0
 
     for filepath in glob.glob(os.path.join(outdir, cname, '*.json')):
-        filename = os.path.basename(filepath)
-        sid = filename[filename.rfind('-')+1:-5]
-        print(filename)
+        sid = filepath[filepath.rfind('-') + 1:-5]
         praw_subreddit = scrap.submission(sid)
         if save_subreddit(scrap, praw_subreddit, cname, outdir):
             count += 1
@@ -101,16 +85,45 @@ def update_subreddits(scrap: Reddit, cname: str, outdir: str) -> int:
     return count
 
 
-def save_subreddit(scrap: Reddit, praw_subreddit: Submission, cname: str, outdir: str) -> bool:
-    filename = '{}-{}-{}.json'.format(cname, round(praw_subreddit.created_utc), praw_subreddit.id)
-    filepath = os.path.join(outdir, cname, filename)
-    dict_subreddit = json.load(open(filepath)) if os.path.isfile(filepath) else dict()
+def retrieve_all(scrap: Reddit, cnames: List[str], outdir: str, fout, skip_existing: bool = False):
+    total = 0
+    for cname in cnames:
+        total += retrieve_subreddits(scrap, cname, outdir, fout, skip_existing)
+    fout.write('Total: {}'.format(total))
 
-    if retrieve_subreddit(scrap, praw_subreddit, dict_subreddit):
-        json.dump(dict_subreddit, open(filepath, 'w'), indent=2)
-        return True
 
-    return False
+def retrieve_subreddits(scrap: Reddit, cname: str, outdir: str, fout, skip_existing: bool = False) -> int:
+    def aux(praw_subreddits: Iterable[Submission]):
+        count = 0
+        for praw_subreddit in praw_subreddits:
+            if praw_subreddit.id in retrieved_ids or skip_subreddit(praw_subreddit): continue
+            retrieved_ids.add(praw_subreddit.id)
+            if save_subreddit(scrap, praw_subreddit, cname, outdir, skip_existing): count += 1
+        return count
+
+    st = datetime.now().timestamp()
+    retrieved_ids, all = set(), 0
+
+    fout.write('{}\n'.format(cname))
+
+    c = aux(scrap.subreddit(cname).hot(limit=None))
+    fout.write('- {}: {:>4}\n'.format('hot', c))
+    all += c
+
+    c = aux(scrap.subreddit(cname).top(limit=None))
+    fout.write('- {}: {:>4}\n'.format('top', c))
+    all += c
+
+    c = aux(scrap.subreddit(cname).new(limit=None))
+    fout.write('- {}: {:>4}\n'.format('new', c))
+    all += c
+
+    fout.write('- {}: {:>4}\n'.format('all', all))
+    et = datetime.now().timestamp()
+
+    total = len(glob.glob(os.path.join(outdir, cname, '*.json')))
+    fout.write('- overall: {}: ({})\n'.format(total, datetime.fromtimestamp(et-st)))
+    return total
 
 
 def retrieve_subreddit(scrap: Reddit, praw_subreddit: Submission, dict_subreddit: Dict[str, Any]) -> bool:
@@ -130,9 +143,9 @@ def retrieve_subreddit(scrap: Reddit, praw_subreddit: Submission, dict_subreddit
         dict_subreddit['comments'] = dict()
         updated = True
 
-    if 'retrieved' in dict_subreddit:
-        del dict_subreddit['retrieved']
-        updated = True
+    # if 'retrieved' in dict_subreddit:
+    #     del dict_subreddit['retrieved']
+    #     updated = True
 
     # sm.comment_sort = 'new'
     dict_comments = dict_subreddit['comments']
@@ -160,7 +173,8 @@ def retrieve_comment(scrap: Reddit, praw_comment: Comment, dict_comment: Dict[st
         dict_comment['replies'] = dict()
         updated = True
 
-    dict_replies = dict_comment.setdefault('replies', dict())  # TODO: dict_comment['replies']
+    # dict_replies = dict_comment.setdefault('replies', dict())
+    dict_replies = dict_comment['replies']
     praw_replies = praw_comment.replies
     praw_replies.replace_more(limit=None)
 
@@ -173,17 +187,13 @@ def retrieve_comment(scrap: Reddit, praw_comment: Comment, dict_comment: Dict[st
 
 
 if __name__ == '__main__':
-    # CNAMES = ['AskAcademia', 'College', 'CollegeAdvice', 'CollegeMajors', 'CollegeRant', 'Emory', 'GradSchool']
-    CNAMES = ['College', 'CollegeAdvice', 'CollegeMajors', 'CollegeRant', 'GradSchool']
-
     # create a scrapper
     CREDENTIAL_FILE = sys.argv[1]
     OUTPUT_DIR = sys.argv[2]
     STATS_TXT = sys.argv[3]
     scrap = praw_scrapper(CREDENTIAL_FILE)
 
-    # update existing subreddits
-    with open(STATS_TXT, 'w') as fout:
-        for cname in CNAMES:
-            count = update_subreddits(scrap, cname, OUTPUT_DIR)
-            fout.write('{}\t{}\n'.format(cname, count))
+    CNAMES = ['ApplyingToCollege', 'AskAcademia', 'College', 'CollegeAdvice', 'CollegeMajors', 'CollegeRant', 'Emory', 'GradSchool']
+    # update_all(scrap, CNAMES, OUTPUT_DIR, open(STATS_TXT, 'w'))
+    retrieve_all(scrap, CNAMES, OUTPUT_DIR, open(STATS_TXT, 'w'))
+
