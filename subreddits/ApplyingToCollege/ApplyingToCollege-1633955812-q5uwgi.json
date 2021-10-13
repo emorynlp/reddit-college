@@ -1,0 +1,527 @@
+{
+  "sid": "q5uwgi",
+  "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/",
+  "title:": "The Better Laptops for Students?",
+  "text": "Context: I'm a senior whos been using my Lenovo X390 Yoga for 2 years. \n\n\\- screen? cracked\n\n\\- storage? full\n\n\\- system? really not working AT ALL\n\n\\- run editing programs or just any programs besides Chrome? NOT POSSIBLE\n\n\\- efficient? I FEEL LIKE IM USING A 10 YEAR LAPTOP\n\nSo I do not like my experience with Lenovo and my school required us \\*our parents\\* to pay $2500 for this piece of machine.\n\n&#x200B;\n\nI really am looking for a laptop that is just smooth with:\n\n\\- storage (it does not run out of storage even if I store big files, and even if it does, it connects to a cloud platform easily/can clear up storage/make space) \n\n\\- speed (it does take forever to load. and even if it has any problems, its easy to fix. IMO My Lenovo has SO MANY problems I don't know where to start of is it worth the money)\n\n\\- Smoothness (You know those times when you got a Crap Ton of work to do and you HAVE TO multitask or open multiple tabs? I really want a machine that optimizes for that and does not make the job harder but instead handles it well or makes it Smooth for you to clear out tasks and do your things)\n\n\\- Video Editing (Premiere), Photoshop, any big programs (I understand that I shouldn't install all those programs my laptop, but I really want 2 or 3 on it that is accessible and doesn't kill off my storage)\n\n\u270c tl;dr: In summary, what laptop you know of best fits all these criteria? Speed, Optimization, Multitasking, Adobe Apps, and just Student Use in General?\n\nI know this is a long read, so thank you so much for finishing it and giving me some advice on it.\n\n\u270c thank y'all and I hope you guys know you will be fine!!!",
+  "author": "PastYak2816",
+  "created": 1633955812,
+  "updated": 1634072840,
+  "over_18": false,
+  "upvotes": 50,
+  "upvote_ratio": 0.91,
+  "comments": {
+    "hg8ovdl": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg8ovdl/",
+      "text": "The M1 macbooks have been great for battery life and performance, a new 14 inch one is expected to be released soon so I would wait for that. On the windows side of things, the blade 14 (amd) has had great reviews and the new surface laptop studio seems very promising. \n\nPro tip: if you want to buy the current M1 macbooks, buy it from apple\u2019s refurbished site, they're basically identical to the new ones and are significantly cheaper.",
+      "author": "Valthr4x_",
+      "created": 1633967652,
+      "upvotes": 35,
+      "replies": {
+        "hgb1cel": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgb1cel/",
+          "text": "^ 100% this. I'm a software engineer and just general computer geek and for general daily use, I use my M1 macbook air more than my 5600x/3070/165hz 1440p monitor desktop rig. I vastly prefer the air to my company issued Macbook Pro 16\" as well lol.",
+          "author": "TopCancel",
+          "created": 1634005513,
+          "upvotes": 4,
+          "replies": {
+            "hgcgax8": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgcgax8/",
+              "text": "You have my trust, thanks man!",
+              "author": "PastYak2816",
+              "created": 1634040909,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hgcg9x1": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgcg9x1/",
+          "text": "My guy!! Thank you so much for these recommendations. Definetly adding it to the list so thank you",
+          "author": "PastYak2816",
+          "created": 1634040892,
+          "upvotes": 1,
+          "replies": {
+            "hgciev6": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgciev6/",
+              "text": "Np, my top pick would be the 14 inch MacBook pro coming soon",
+              "author": "Valthr4x_",
+              "created": 1634042155,
+              "upvotes": 2,
+              "replies": {
+                "hgciw6l": {
+                  "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgciw6l/",
+                  "text": "i just checked and it looks promising. I'm hearing a ton of good stuff for Macs",
+                  "author": "PastYak2816",
+                  "created": 1634042431,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hg9d6iz": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9d6iz/",
+      "text": "Everyone\u2019s saying not to buy a PC for STEM, but what is so horrible about PCs that would make me want to use MacOS when I can use Windows 10?",
+      "author": "saddlepiggy_TTP",
+      "created": 1633977711,
+      "upvotes": 17,
+      "replies": {
+        "hga56pu": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hga56pu/",
+          "text": "For CS (and most STEM classes cause they\u2019re also including programming), it just comes down to the fact that MacOS is a Unix-based system, and most softwares use some sort of *-nix. Nix\u2019s are the most dominant operating system today by far, partially because it\u2019s way easier to program on it and it\u2019s open-source.\n\nYou could use Windows, but almost all courses are going to be optimized for Macs. It just takes a few hoops to jump through, e.g. dual-booting & adding Linux, installing PowerShell because Windows command line is shit, etc. Having a Mac is just removing all those uncertainties and being able to code in a native environment which the benefits of cannot be overstated. \n\nMicrosoft was famously against Linux until a decade ago when they realized that they lost the war and decided to include Linux in their operations as well. I personally have a MacBook and a PC, and I haven\u2019t come across any coursework that required Windows not MacOS, since most are the other way around.",
+          "author": "Anacrisis",
+          "created": 1633990238,
+          "upvotes": 9,
+          "replies": {
+            "hgagdgj": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgagdgj/",
+              "text": "Ngl, WSL2 is sweet. \ud83e\udd27",
+              "author": "-5772",
+              "created": 1633995716,
+              "upvotes": 1,
+              "replies": {
+                "hgagxbq": {
+                  "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgagxbq/",
+                  "text": "it\u2019s aight",
+                  "author": "Anacrisis",
+                  "created": 1633995993,
+                  "upvotes": 0,
+                  "replies": {
+                    "hgaphzg": {
+                      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgaphzg/",
+                      "text": "it\u2019s actually good enough to run a full linux ui smoothly and with smt like a tiling manager it feels pretty much like native",
+                      "author": "totalnotjunk",
+                      "created": 1634000115,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "hgasrru": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgasrru/",
+              "text": "That blows my mind because I\u2019ve always thought of MacOS as incompatible with most applications. I think that comes from a gaming perspective and having only handled iPhones/iPads. I also thought MacOS was too far from Linux to be a useful alternative.",
+              "author": "saddlepiggy_TTP",
+              "created": 1634001641,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hg9r013": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9r013/",
+          "text": "A lot of windows laptops just suck hardware wise. M1 Macbooks have battery life that\u2019s so much better than the competition. In terms of operating system, Windows is better in a vacuum, but MacOS is tolerable too especially if you have a lot of apple products",
+          "author": "danielisverycool",
+          "created": 1633983696,
+          "upvotes": 4,
+          "replies": {
+            "hgcgk0e": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgcgk0e/",
+              "text": "*I learned something so muchas gracias*",
+              "author": "PastYak2816",
+              "created": 1634041062,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hg8ny7v": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg8ny7v/",
+      "text": "Right now I have a desktop PC and a M1 Macbook Air, it's a great setup. Highly recommend",
+      "author": "danielisverycool",
+      "created": 1633967268,
+      "upvotes": 6,
+      "replies": {
+        "hgcgktv": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgcgktv/",
+          "text": "that sounds amazing. thanks for the help man",
+          "author": "PastYak2816",
+          "created": 1634041076,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hg8g5lw": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg8g5lw/",
+      "text": "Do not buy a Windows laptop if you\u2019re in CS, imo",
+      "author": "Almasry00n",
+      "created": 1633963933,
+      "upvotes": 10,
+      "replies": {
+        "hga1thk": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hga1thk/",
+          "text": "Yeah, I\u2019ve never been more grateful for my decision to get a MacBook at the start of college than when I actually had to start coding in class. So much troubleshooting and bypasses for windows users while it was just native for Macs. I have a PC in the case that there\u2019s a program that just won\u2019t run on Macs, but tbh, the only things so far that I\u2019ve used it for are games.",
+          "author": "Anacrisis",
+          "created": 1633988647,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "hg8zjt2": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg8zjt2/",
+          "text": "Why\u2019s that?",
+          "author": "pumpkin123_",
+          "created": 1633972067,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "hg8zg1b": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg8zg1b/",
+          "text": "It is fine to get a windows machine, you can just dual boot windows and your choice of other OSs.",
+          "author": "the_Q_spice",
+          "created": 1633972024,
+          "upvotes": 2,
+          "replies": {
+            "hg9akue": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9akue/",
+              "text": "Correct, but what if you didn\u2019t have to dual-boot to begin with\u2026",
+              "author": "Almasry00n",
+              "created": 1633976616,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "hg9n9os": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9n9os/",
+              "text": "Or just use WSL",
+              "author": "di1111",
+              "created": 1633982050,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hg9oxu2": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9oxu2/",
+          "text": "What? absolutely not.\n\nIt\u2019s preference. Both OS\u2019s are great for coding, it really does not matter which one you choose. Unless, you want to code in something iOS/macOS specific i.e. Swift.",
+          "author": "kiesoma",
+          "created": 1633982778,
+          "upvotes": 4,
+          "replies": {
+            "hga4nvs": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hga4nvs/",
+              "text": "\u201cIt\u2019s a preference\u201d \u2014 yes, I agree that some people are masochists",
+              "author": "Almasry00n",
+              "created": 1633989985,
+              "upvotes": 2,
+              "replies": {
+                "hgbmnsr": {
+                  "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgbmnsr/",
+                  "text": "Not at all. There are absolutely no problems I face while using windows for coding.",
+                  "author": "kiesoma",
+                  "created": 1634016936,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hg9f5fz": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9f5fz/",
+          "text": "I use an Ubuntu linux laptop for my CpE stuff.",
+          "author": "diesalotXV",
+          "created": 1633978535,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hg86ed3": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg86ed3/",
+      "text": "Hey man, it seems to me that with your requirements you would be better off with a pc. If your budget for  a pc is 2.5k USD then you can get a more than capable machine to run editing programs, has > 1 TB of storage, and is fast and doesn't freeze to often.  You can get decent PC's for any price range, so if you have 2.5k to spend you could get a decent pc that suits your needs for around 1k-1.5k and spend the rest on a laptop in case you want to travel and take your editing software with you.\n\nMacBook's will last you a while and they are pretty fast and efficient. If you don't want to spend all of your money on just the MacBook I would recommend  going to [www.backmarket.com](https://www.backmarket.com) they have decent refurbished items and you can get yourself a MacBook in excellent condition.",
+      "author": "Unfair-Homework9276",
+      "created": 1633959423,
+      "upvotes": 6,
+      "replies": {
+        "hgcgwae": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgcgwae/",
+          "text": "Thanks bro, I appreciate it.\n\nJust a question on refurbished items, how reliable are those websites on the conditions they promised? Have you had/know people with experience s in this? Thanks",
+          "author": "PastYak2816",
+          "created": 1634041267,
+          "upvotes": 1,
+          "replies": {
+            "hgcshpw": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgcshpw/",
+              "text": "I actually bought an iphone xr from them in excellent condition. It all depends on the seller though, they might sell you crap items but you can still return it because of the websites policy. I did have a bad experience with them not tracking my order, but other than that they seem to be legit. \n\nBut if I were you I would do more research on this stuff before buying anything.",
+              "author": "Unfair-Homework9276",
+              "created": 1634047276,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hg8ysum": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg8ysum/",
+      "text": "I primarily use my desktop due to need to run flow simulations of rivers. A bit out of date, but runs well and keeps up despite being 4 years old. \n\nMy laptop is an XPS 13 with 256 GB of internal storage. I just use external hard drives to supplement that.\n\nAlso; for the love of god, get and learn how to use 7zip for archiving\n\nOn a side note; I highly recommend against Apple if you are doing anything in natural science or engineering.",
+      "author": "the_Q_spice",
+      "created": 1633971760,
+      "upvotes": 2,
+      "replies": {
+        "hgch1qz": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgch1qz/",
+          "text": ">On a side note; I highly recommend against Apple if you are doing anything in natural science or engineering.\n\nHey man! Appreicate this :) Can I know why? I don't know much about the programs used in those fields and its actually those fields I'mmore interested in than STEM",
+          "author": "PastYak2816",
+          "created": 1634041359,
+          "upvotes": 1,
+          "replies": {
+            "hgcq9rw": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgcq9rw/",
+              "text": "Some of the most important programs in the field do not work with OS X \n\nA Mac would lock you out of fully functioning versions of ArcGIS and both Autodesk and Dassault products like AutoCAD and Solidworks. They have Mac versions, but with decreased functionality due to some issues with how OSX functions. \n\nArcGIS does not work on Mac whatsoever. \n\nBasically, everything you could ever need functions on Windows, but not on Mac. Personally, I do not know anyone in architecture or engineering (or GIS) who uses Mac products other than for phones and tablets.",
+              "author": "the_Q_spice",
+              "created": 1634046235,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hg8qiyo": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg8qiyo/",
+      "text": "If you want to use it through college, especially in a course that\u2019s CS intensive (basically any STEM), stay away from PCs or Chromebooks.\n\nLook at the new M1 Mac.\nOr actually, wait a couple months and spring for the new M1X MacBook Pro. For 2500 you can get a great machine that\u2019s more than capable of handling everything.\n\nThere\u2019s a reason basically everyone at most top universities run Macbooks",
+      "author": "rtdesai20",
+      "created": 1633968348,
+      "upvotes": 5,
+      "replies": {
+        "hg9ireq": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9ireq/",
+          "text": "M1 Macs can't run the docker container for our data structures class lmao",
+          "author": "whitelife123",
+          "created": 1633980086,
+          "upvotes": 8,
+          "replies": {
+            "hg9oky2": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9oky2/",
+              "text": "What school and class?\nI\u2019m at UC Berkeley rn and all the CS/Data Science classes and Physics too are structured around Macs",
+              "author": "rtdesai20",
+              "created": 1633982626,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hg9ncuu": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9ncuu/",
+          "text": "what's the problem with PCs?",
+          "author": "AestheticReception",
+          "created": 1633982090,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "hgch5mv": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgch5mv/",
+          "text": "Thanks for the comment!",
+          "author": "PastYak2816",
+          "created": 1634041425,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hg9pyfu": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9pyfu/",
+      "text": "Odd how most people are saying to stay away from windows for STEM degrees. It's been the opposite for many years, whats changed? The M1's can't run many engineering or CS programs without rosetta or parallels (fees).",
+      "author": "Colinplayz1",
+      "created": 1633983229,
+      "upvotes": 2,
+      "replies": {
+        "hga3f06": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hga3f06/",
+          "text": "Hm has Windows really been dominant? In my experience, most classes are optimized for Unix-based systems and most CS students use a MacBook. This isn\u2019t something new. Of course, my school gets around it by having Windows users use SSH to remotely access computers, but even that takes a VPN and stable internet connection. Way simpler and more convenient to be able to access your project without having to jump through any hoops.",
+          "author": "Anacrisis",
+          "created": 1633989396,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hg827vi": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg827vi/",
+      "text": "/r/SuggestALaptop   \n\nDon't buy a 2-in-1 device.  \n\nDo buy a business-grade device.  \n\n\nLenovo ThinkPad T-series are among the most popular devices issued by large employers.  \nThey are robust workhorses that will just keep running, and are easy to repair if they stop running.  \n\nIf you broke your screen, that means you abused the device.  \nPay for the repair.  \n\n512GB of storage is plenty for the average student.  \n\nIf you have a hobby for video editing/production, then clearly you're going to want ass-loads of storage.  \nYet you bought a device with only 512GB. Please don't complain.  \n\nThere are plenty of USB hard drives and SSD drives to help expand storage.  \nYour university probably has a partnership with Microsoft or Dropbox or somebody for low-cost cloud storage.  \nLeverage that partnership for cheap cloud storage.  \n\n-------  \n\nFor your use case, I'd point you towards the ThinkPad T15.  \n\nhttps://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadt/thinkpad-t15-g1/22tpt15t5n1  \n\nI usually prefer the 14\" T14 model, but the T15 gives you something you need - a second M2 socket for a second SSD inside.  \n\nI'd order the T15 with the default, pathetic 128GB M.2 drive, and replace it with a new 2TB SSD and add a second 2TB drive, for the same price as the upgrade to the 1TB from Lenovo.  \nI'd probably buy a 16GB or 32GB memory kit from a 3rd party like Crucial also.  \n\nYou'd be done and dusted for right around $2,000 with a device that should last 3-5 years unless you drop it like you did your other device.",
+      "author": "VA_Network_Nerd",
+      "created": 1633957214,
+      "upvotes": -12,
+      "replies": {
+        "hg86chk": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg86chk/",
+          "text": "this could be genuinely helpful advice if you didn't spend half of the comment being condescending. holy crap dude. they also specified their school required them to have this laptop, so not sure why you're saying \"you decided to buy one with x amount of storage\". solid minus the snark",
+          "author": "AstroAnonymous",
+          "created": 1633959397,
+          "upvotes": 29,
+          "replies": {
+            "hg8kqrn": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg8kqrn/",
+              "text": "my thoughts exactly?? parents on this sub really getting too comfy these days.",
+              "author": "skysoupie",
+              "created": 1633965935,
+              "upvotes": 14,
+              "replies": {
+                "hg975v1": {
+                  "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg975v1/",
+                  "text": "top 10 collegeconfidential roleplays\n\n\\#1: ops comment",
+                  "author": "UrethraPlethora",
+                  "created": 1633975157,
+                  "upvotes": 6,
+                  "replies": {}
+                }
+              }
+            },
+            "hg87g94": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg87g94/",
+              "text": "> they also specified their school required them to have this laptop  \n\nExcept that those \"requirements\" are not binding, just recommendations.  \n\n> not sure why you're saying \"you decided to buy one with x amount of storage\"  \n\nThe X390 was available to be ordered with larger storage options.  \n\n512GB is a perfectly valid configuration for probably 90% of the student body of the typical university.  \nOP has a personal hobby (or might be a focus of their degree) that specifically consumes large quantities of storage.  \nThis is not a defect of the device. This is an invalid expectation.  \n\n*\"My Honda Civic is a piece of shit because I can't fit a full ton of mulch in the trunk.\"*  \n\nSee how that doesn't make sense?  \n\n> solid minus the snark  \n\nI'm sorry you are unaccustomed to seeing people told they did something dumb when they do something dumb.",
+              "author": "VA_Network_Nerd",
+              "created": 1633959944,
+              "upvotes": -15,
+              "replies": {
+                "hg884z4": {
+                  "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg884z4/",
+                  "text": "you are a grown adult bitching at a teenager over their laptop. chill. and considering it's $2500 in the first place, it's quite possible them or their parents didn't want to pay what i'm sure is an exorbitant amount for extra storage. just saying there's no reason to talk like that to someone who's just asking for advice in a straightforward way",
+                  "author": "AstroAnonymous",
+                  "created": 1633960268,
+                  "upvotes": 10,
+                  "replies": {
+                    "hg88hkt": {
+                      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg88hkt/",
+                      "text": "> you are a grown adult bitching at a teenager over their laptop  \n\nNo, just suggesting that they quit their bullshit.  \n\n> considering it's $2500 in the first place, it's quite possible them or their parents didn't want to pay what i'm sure is an exorbitant amount for extra storage  \n\nWhich is one of the top reasons 2-in-1 devices don't make any sense.  \n\n> just saying there's no reason to talk like that to someone who's just asking for advice in a straightforward way  \n\nDon't blame the device for poor consumer decisions.",
+                      "author": "VA_Network_Nerd",
+                      "created": 1633960435,
+                      "upvotes": -15,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hg92i01": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg92i01/",
+      "text": "r/laptopdeals",
+      "author": "SuperSquirrel73",
+      "created": 1633973278,
+      "upvotes": 1,
+      "replies": {
+        "hgchgod": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgchgod/",
+          "text": "Great Ill check that out :D",
+          "author": "PastYak2816",
+          "created": 1634041608,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hg9462d": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9462d/",
+      "text": "I have a HP Pavillion 15-c something (not the gaming one).  \nWorks magic for everything, pretty much.",
+      "author": "InFeRnOO333",
+      "created": 1633973938,
+      "upvotes": 1,
+      "replies": {
+        "hgchfwa": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgchfwa/",
+          "text": "ill do some research on that, thanks man!",
+          "author": "PastYak2816",
+          "created": 1634041595,
+          "upvotes": 1,
+          "replies": {
+            "hgcq89s": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgcq89s/",
+              "text": "No problem :))",
+              "author": "InFeRnOO333",
+              "created": 1634046215,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hg9mf6j": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9mf6j/",
+      "text": "M1 MacBook Air",
+      "author": "DerpDerper909",
+      "created": 1633981678,
+      "upvotes": 1,
+      "replies": {
+        "hgchf7b": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgchf7b/",
+          "text": "thanks!",
+          "author": "PastYak2816",
+          "created": 1634041584,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hg9puwg": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg9puwg/",
+      "text": "For me, having a touch screen is a must, so the Asus Vivobook flips are the way to go for me",
+      "author": "Code_sucks",
+      "created": 1633983185,
+      "upvotes": 1,
+      "replies": {
+        "hgchhsq": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgchhsq/",
+          "text": "My laptop is also touchscreen, so that might be something ill go for too",
+          "author": "PastYak2816",
+          "created": 1634041627,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hgdsr2z": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgdsr2z/",
+      "text": "You don't need a new computer, you need to get rid of the malware. The one you have is capable enough. Reinstall the OS. Better yet, put Linux on it and your malware issues will likely disappear. An SSD is cheap, if you really need the storage space. Any computer ought to be able to connect to the cloud. You can get a replacement screen on eBay for under $200.",
+      "author": "supersensei12",
+      "created": 1634062431,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hg87jha": {
+      "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg87jha/",
+      "text": "You may need to talk to someone knows something about computer. IMO, you need a laptop, a desktop, and a external hard drive.",
+      "author": "Motobugs",
+      "created": 1633959987,
+      "upvotes": 0,
+      "replies": {
+        "hg8b3qi": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hg8b3qi/",
+          "text": "Why would you need a desktop, especially in college? I have an MBP, and it works great with an external monitor + keyboard and mouse.",
+          "author": "Apprehensive-Math240",
+          "created": 1633961682,
+          "upvotes": 2,
+          "replies": {
+            "hgchjxl": {
+              "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgchjxl/",
+              "text": "Thats what Im thinking too I really dislike working indoors",
+              "author": "PastYak2816",
+              "created": 1634041662,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hgchj1g": {
+          "link": "/r/ApplyingToCollege/comments/q5uwgi/the_better_laptops_for_students/hgchj1g/",
+          "text": "Noted. Thanks",
+          "author": "PastYak2816",
+          "created": 1634041647,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

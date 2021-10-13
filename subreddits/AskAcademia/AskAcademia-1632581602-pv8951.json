@@ -1,0 +1,155 @@
+{
+  "sid": "pv8951",
+  "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/",
+  "title:": "Who owns the data if an institute paid to have it digitized?",
+  "text": "I have a friend who has systematically collected data on something happening where he lives. He's done it as a hobby, so no one paid him to do this. \n\nA local research institute wanted to use these data, but it was all written down. They have gotten hold of the original notebooks (but my friend has several copies and back-ups, and thinks the originals aren't readable anymore due to age) and paid someone to put it all in an excel file. My friend has this file as well. \n\nThe file is in a format that will need several days of work to get it all in a format that can be used for statistical analyses. \n\nMy question is; who owns the rights to use this file? Can my friend use it however he sees fit or does he have to ask the research institute for permission to use the file? They have not done anything with the data, except pay someone to put into excel.",
+  "author": "OscarThePoscar",
+  "created": 1632581602,
+  "updated": 1634078846,
+  "over_18": false,
+  "upvotes": 23,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "he89w8n": {
+      "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he89w8n/",
+      "text": "No one can answer this for your friend since laws vary by countries and it seems parts of the story are missing, so we don't have the full picture or details. \n\nLike how did they even get his data? Did your friend gave it to them after they asked? Were the documents \"open source\" in a library? \n\n Was he affiliated with the research institute in any ways? Was he collecting data as a volunteer for the research institute (which is common in large environmental field studies sometimes)?\n\nIf not, how did they even found out your friend was collecting data in the first place? Is it because your friend reached out to them? If not, Where did they found the originals? \n\nIf he gave them the data, did he sign anything or went into a verbal agreement? What did they say they were going to do with the data?\n\nIf they are paying to get the data processed, there must have been a clear understanding that they could use this data. Did they bought the rights from your friend? Or is it because your friend's data is open sourced or he collected data freely for them?\n \nSo as you can see, the answers are very situation specific and too much details are missing to even say if your friend has rights anymore (or even if he ever had any rights) over the data he collected/handed off. Your friend should talk to the research institute to clear things up instead and if he is not satisfied with their answer, then he might need to lawyer up if he wants to use the data.",
+      "author": "methomz",
+      "created": 1632582759,
+      "upvotes": 23,
+      "replies": {
+        "he8gg35": {
+          "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he8gg35/",
+          "text": "I think in this case it'd fall under EU copyright laws, but I'm not sure.\n\nHe was friends/acquaintances with the guy from the research institute. He wants his data to be used for scientific research, but I'm not sure how the data got to the research institute. I think this other guy sort of just took it without any formal agreement (e.g., can I take this? yeah sure). If he'd analysed and published something using the data, my friend would've been happy with it, but nothing has happened. I don't think the agreement would ever have been that they would now have sole access to the data.\n\nHe's a naturalist, so he just went out and looked at/measured stuff. He did it fully of his own accord, so no volunteer agreement or anything. \n\nI'm mainly wondering if I'd be 'allowed' to use this digital file instead of entering everything again, because that's what my friend asked me to do. I want to avoid any claims to the data by others. The original person at the institute has left and the new guy is not very easy to work with.",
+          "author": "OscarThePoscar",
+          "created": 1632585718,
+          "upvotes": 4,
+          "replies": {
+            "he8h33c": {
+              "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he8h33c/",
+              "text": "AFAIK, this mostly depends on whether they are in Germany. There was one particular German case (Reiss Engelhorn Museum v Wikimedia Deutschland) which ruled the digitizing creates an original copyright. Honestly, it's fucking bonkers and flies in the face of generations of copyright law. But thems the breaks.",
+              "author": "timothyjwood",
+              "created": 1632586006,
+              "upvotes": 14,
+              "replies": {
+                "he8kqja": {
+                  "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he8kqja/",
+                  "text": "He's not! Also, I'm really not sure whether he's actively given the data to the institute or whether this other guy just sort of took it and said he'd take a look at it. And then paid someone else to put it in excel.",
+                  "author": "OscarThePoscar",
+                  "created": 1632587646,
+                  "upvotes": 2,
+                  "replies": {
+                    "he8lin8": {
+                      "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he8lin8/",
+                      "text": "Outside of Germany in that one case (AFAIK IANAL) digitization does not create any new intellectual property rights (it's considered a \"slavish reproduction\"). Having said that, if there's some agreement between your point-of-contact and the university, then all bets are off.\n\nEdit: If there is no pre-emptive binding agreement between your POC and the university, they can just post something publicly verifiable online saying \"I publish this data under a CC0 license, it may be used by anyone for any purpose without restriction according to the terms of the license. I understand that this is an irrevocable license which will apply in perpetuity.\"",
+                      "author": "timothyjwood",
+                      "created": 1632587988,
+                      "upvotes": 4,
+                      "replies": {
+                        "he9h07u": {
+                          "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he9h07u/",
+                          "text": "Is what OP is describing even copyrightable? Copyright covers creative works which more or less boils down to words and music, although databases have some elements which can also be copyrighted. Facts cannot be copyrighted and therefore data as a collection of facts is not copyrightable. A written description of the data could be copyrighted, as happens with publications. \n\nUnless this was a database or a manuscript, I'm not sure what legal recourse OP has but as any legal solution will necessitate significant expense I think they would be better off approaching the university with their preferred solution (be that collaboration, acknowledgement, payment) and negotiate with them.",
+                          "author": "ACatGod",
+                          "created": 1632601925,
+                          "upvotes": 1,
+                          "replies": {
+                            "he9qi3x": {
+                              "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he9qi3x/",
+                              "text": "I'm not thinking about taking any legal steps or anything. Just wondering if this institute would have any leg to stand on if I want to use these data myself (with my friend's permission) and don't include them.",
+                              "author": "OscarThePoscar",
+                              "created": 1632606251,
+                              "upvotes": 1,
+                              "replies": {
+                                "hea3dd8": {
+                                  "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/hea3dd8/",
+                                  "text": "Probably no leg. No one owns facts so unless there's more to the data than you're revealing here (like analysis) then there's probably no intellectual property rights. Even if there are rights it's going to be hard for them to assert them unless they have an exclusive licence with your friend. I wouldn't use the Excel files they created though. That's their work and liable to piss them off if you were to use them without permission (and there may be questions about how you were able to access their files).",
+                                  "author": "ACatGod",
+                                  "created": 1632612340,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "he92jmx": {
+      "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he92jmx/",
+      "text": "He does. Copyright is invoked upon creation. As long as he can price he created it, for himself, he owns it. The format or digitization is irrelevant unless he granted them a license. Sauce: owned a national publishing company for five years and paid lawyers a lot of money to litigate this stuff.",
+      "author": "ostrogotha",
+      "created": 1632595460,
+      "upvotes": 2,
+      "replies": {
+        "he9h8ic": {
+          "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he9h8ic/",
+          "text": "Data can't be copyrighted, as you can't copyright facts. Unless there's a written creative element within the data or what was handed over was a database then copyright doesn't apply.",
+          "author": "ACatGod",
+          "created": 1632602022,
+          "upvotes": 1,
+          "replies": {
+            "heaax82": {
+              "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/heaax82/",
+              "text": "The facts themselves cannot be copyrighted but the amalgamation of facts into a database or document can, particularly if they have been filtered, parsed, or otherwise organized. Even adding column headers or table names opens it up to copyright.",
+              "author": "ostrogotha",
+              "created": 1632616010,
+              "upvotes": 1,
+              "replies": {
+                "hec3nup": {
+                  "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/hec3nup/",
+                  "text": "But from what OP says it wasn't organised data, so not a database or a document and while you can copyright the headings and elements of a database the data itself is still not protected. For example you can't identify and list a thousand species of butterflies present on an island and then protect that with copyright. You can prevent an image of your notebook being used but not the information itself.",
+                  "author": "ACatGod",
+                  "created": 1632656793,
+                  "upvotes": 1,
+                  "replies": {
+                    "hedcdmv": {
+                      "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/hedcdmv/",
+                      "text": "I just asked our corporate attorney and he said \u201cYou can if you arranged it in any non-random format. As soon as you put it in any order, you own that document and no, the data cannot be freely copied from it. They can get the data from another source but your source, in the order you arranged it, is protected.\u201d",
+                      "author": "ostrogotha",
+                      "created": 1632677710,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "he8k03r": {
+      "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he8k03r/",
+      "text": "If he obtained the data via privilege afforded to the institution, then it is the institutions data.",
+      "author": "the__itis",
+      "created": 1632587323,
+      "upvotes": 1,
+      "replies": {
+        "he8kt7q": {
+          "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he8kt7q/",
+          "text": "I don't think it was given to the institute so much as just to this guy. Like, sure you can take a look, see what you can do. And not with any kind of official agreement.",
+          "author": "OscarThePoscar",
+          "created": 1632587678,
+          "upvotes": 1,
+          "replies": {
+            "he8l2ws": {
+              "link": "/r/AskAcademia/comments/pv8951/who_owns_the_data_if_an_institute_paid_to_have_it/he8l2ws/",
+              "text": "Ethically, he needs to get permission. \n\nThis is like a photograph developer using their clients photos.",
+              "author": "the__itis",
+              "created": 1632587795,
+              "upvotes": -1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "sid": "pqtqx5",
+  "link": "/r/AskAcademia/comments/pqtqx5/publishing_what_is_crossref_do_i_want_it_to/",
+  "title:": "Publishing: What is Crossref? Do I want it to access my ORCID ID?",
+  "text": "An article of mine was published in a Taylor & Francis journal, and I received an automated message in my ORCID ID inbox from something called Crossref (which I see T&F utilizes), asking permission to \"auto-update \\[my\\] ORCID record,\" in perpetuity from the sounds of it, starting with this article.\n\nMy first instinct is to not give it access: I can update my ORCID record just fine on my own, thanks, and this sounds creepy. But I'm new to publishing, and I want to make sure this isn't actually some normal part of publishing online. What is Crossref exactly, and what do I have to gain or lose by allowing it access?",
+  "author": "altofmystery",
+  "created": 1631996517,
+  "updated": 1634078942,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hddjoly": {
+      "link": "/r/AskAcademia/comments/pqtqx5/publishing_what_is_crossref_do_i_want_it_to/hddjoly/",
+      "text": "Hello,Completly normal and it will even show the source of the entry. Crossref just crawls ORCIDs from major journals and auto-create the relevant reference on your ORCID profile if it detects your ID.",
+      "author": "domAtOx",
+      "created": 1631997553,
+      "upvotes": 4,
+      "replies": {
+        "hdejqpn": {
+          "link": "/r/AskAcademia/comments/pqtqx5/publishing_what_is_crossref_do_i_want_it_to/hdejqpn/",
+          "text": "Thanks! Guess I'll let it in after all then.",
+          "author": "altofmystery",
+          "created": 1632013060,
+          "upvotes": 1,
+          "replies": {
+            "hdgeocc": {
+              "link": "/r/AskAcademia/comments/pqtqx5/publishing_what_is_crossref_do_i_want_it_to/hdgeocc/",
+              "text": "It's up to you.  \nIf you don't, you can always manually add the paper using its DOI :)",
+              "author": "domAtOx",
+              "created": 1632054469,
+              "upvotes": 2,
+              "replies": {
+                "hdhfrg4": {
+                  "link": "/r/AskAcademia/comments/pqtqx5/publishing_what_is_crossref_do_i_want_it_to/hdhfrg4/",
+                  "text": "Thanks again.",
+                  "author": "altofmystery",
+                  "created": 1632071446,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hdgkj9d": {
+      "link": "/r/AskAcademia/comments/pqtqx5/publishing_what_is_crossref_do_i_want_it_to/hdgkj9d/",
+      "text": "Competing researcher ID systems were developed to uniquely identify authors of scientific publications. As a practical matter, it is useful if each of those systems match up for you. \n\nThis is a case where it is not creepy in that your author identity is something you are trying to make as widely and unambiguously known as possible. \n\nI also have Scopus and ResearcherID numbers. \n\nPerhaps one day the systems will converge on something, but that will be for the publishers to work out.",
+      "author": "DrTonyTiger",
+      "created": 1632057793,
+      "upvotes": 2,
+      "replies": {
+        "hdhfo9d": {
+          "link": "/r/AskAcademia/comments/pqtqx5/publishing_what_is_crossref_do_i_want_it_to/hdhfo9d/",
+          "text": "Thanks, I appreciate your thoughts.",
+          "author": "altofmystery",
+          "created": 1632071411,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

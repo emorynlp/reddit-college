@@ -1,0 +1,136 @@
+{
+  "sid": "omcafx",
+  "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/",
+  "title:": "Would it be weird to email the author of a textbook about a part of a (mathematical) proof that neither my supervisors nor I understand?",
+  "text": "I am an MSc. student in Mathematics, currently doing a directed studies course under my thesis co-supervisors. I've been going through a chapter of a well-known textbook in the relevant (sub)-area, and there is a line in one of the proofs that I don't follow at all. I spent a long time playing around with the proof, but I didn't get anywhere. I also asked my co-supervisors and they didn't know either. One of them tried a few different ways and emailed me about it, but couldn't get it either - he thinks it might be a typo, but even if it is, he isn't sure how to show what he thinks it should say instead.\n\nIt's really bothering me that I can't make sense of this line of the proof (and because I'm not clear on this part, certain parts that follow it don't make sense to me either). So I'm just wondering if it would be some sort of \"faux-pas\" to email the author and ask about a line from a proof in his textbook?  Thanks!",
+  "author": "Mathfrak96",
+  "created": 1626554407,
+  "updated": 1634082353,
+  "over_18": false,
+  "upvotes": 92,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "h5jykeb": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5jykeb/",
+      "text": "Go for it! What is the worst that can happen? The author not replying...",
+      "author": "markusgo",
+      "created": 1626554682,
+      "upvotes": 106,
+      "replies": {}
+    },
+    "h5kz7cx": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5kz7cx/",
+      "text": "Absolutely contact them. Authors love hearing feedback from readers; it doesn't happen often enough imho.",
+      "author": "pixiepasty",
+      "created": 1626573897,
+      "upvotes": 68,
+      "replies": {}
+    },
+    "h5k1meq": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5k1meq/",
+      "text": "Yeah, if it\u2019s possibly a typo the author and the publisher are going to want to know. Email the author first, and if they don\u2019t respond email the publisher.",
+      "author": "WoodwardHoffmannRule",
+      "created": 1626556250,
+      "upvotes": 32,
+      "replies": {}
+    },
+    "h5moiyd": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5moiyd/",
+      "text": "Have you tried checking the author\u2019s personal website to see if an errata sheet for the book has been published? If not, I\u2019d send an email asking for clarification and mentioning that everyone you\u2019ve asked is also stumped. Authors want people to be able to understand their writing, and feedback like this is valuable if they plan to write an update.",
+      "author": "NancyWsStepdaughter",
+      "created": 1626615976,
+      "upvotes": 24,
+      "replies": {
+        "h5mvfyr": {
+          "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5mvfyr/",
+          "text": "This is the right answer!! It's easy to make mistakes. I've seen advanced math books with errata sheets that are dozens of pages long. Most likely finding the errata list will solve OPs problem. Otherwise an email to the author...",
+          "author": "DeskAccepted",
+          "created": 1626619280,
+          "upvotes": 10,
+          "replies": {}
+        },
+        "h5n02wn": {
+          "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5n02wn/",
+          "text": "I did check, can\u2019t find an errata sheet, unfortunately!",
+          "author": "Mathfrak96",
+          "created": 1626621338,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "h5mn1k1": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5mn1k1/",
+      "text": "I'd recommend posting your question online to places like [Math Stack Exchange](https://math.stackexchange.com/) (or possibly [Math Overflow](https://mathoverflow.net/) depending on the level of the material) and the [math subreddit](https://www.reddit.com/r/math/).  There's nothing wrong with e-mailing the author, but you're probably more likely to get a useful answer from an online community.\n\nIf you do post a question, I'd recommend including an image of the proof so that people have something to reference if they don't have a copy of the book handy.",
+      "author": "jimbelk",
+      "created": 1626615168,
+      "upvotes": 22,
+      "replies": {}
+    },
+    "h5m2vbz": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5m2vbz/",
+      "text": "I once emailed an author of an ODE book, turned out it was a typo and by the looks of reply it looked liked a lot of people had noticed that.",
+      "author": "Sri_Man_420",
+      "created": 1626600481,
+      "upvotes": 13,
+      "replies": {}
+    },
+    "h5mdsb3": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5mdsb3/",
+      "text": "Does it matter if its weird?",
+      "author": "SpecialRX",
+      "created": 1626609333,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h5myax1": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5myax1/",
+      "text": "Sometimes proofs make no sense and torture graduate students for years. Best to try to find out the correct answer! The author will probably enjoy getting a non-crackpot email.",
+      "author": "DrSpacecasePhD",
+      "created": 1626620557,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h5ohdsr": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5ohdsr/",
+      "text": "You can also try to find the original paper the result appears in. Usually this is terser, but in the case of a typo, it might be all you need.",
+      "author": "sunlitlake",
+      "created": 1626644329,
+      "upvotes": 2,
+      "replies": {
+        "h5opqlm": {
+          "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5opqlm/",
+          "text": "I tried that! The author of the textbook uses a completely different approach from the original paper.",
+          "author": "Mathfrak96",
+          "created": 1626648123,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h5n2o9r": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5n2o9r/",
+      "text": "Email them. I\u2019ve never heard of an author who didn\u2019t enjoy talking about their books (and being happy that someone actually reads them).",
+      "author": "RiverThatBends",
+      "created": 1626622464,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h5n404n": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5n404n/",
+      "text": "An anecdote: a friend contacted an author of a math book asking questions and complementing them for their work. The author replied saying that they were having a really hard week managing some administrative responsibilities, and this email made their week. :)",
+      "author": "cradletrip",
+      "created": 1626623036,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h5lod3u": {
+      "link": "/r/AskAcademia/comments/omcafx/would_it_be_weird_to_email_the_author_of_a/h5lod3u/",
+      "text": "Why not? I would.",
+      "author": "Nikkivegas1",
+      "created": 1626588544,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

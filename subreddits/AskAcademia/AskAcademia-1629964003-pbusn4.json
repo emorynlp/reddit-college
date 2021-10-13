@@ -1,0 +1,66 @@
+{
+  "sid": "pbusn4",
+  "link": "/r/AskAcademia/comments/pbusn4/software_for_converting_pdf_to_ms_word_for/",
+  "title:": "Software for converting .pdf to MS Word for article translation purposes.",
+  "text": "Do you know any capable .pdf converter into MS Word for *macOS* that would keep the format of the converted file as much as possible?\n\nRecently, I came by some interesting articles, which are unfortunately written in Japanese and Chinese. By the abstract in English, I could tell that they address my research. Hence, I would like to convert these .pdfs into MS Word and then translate the whole file, but I would like to avoid online converters as I do not want to upload these articles on the internet.",
+  "author": "iBo0m",
+  "created": 1629964003,
+  "updated": 1634079489,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.5,
+  "comments": {
+    "haeeik4": {
+      "link": "/r/AskAcademia/comments/pbusn4/software_for_converting_pdf_to_ms_word_for/haeeik4/",
+      "text": "You can use adobe acrobat to convert pdf to MS word.",
+      "author": "GoldEagle-_-",
+      "created": 1629964932,
+      "upvotes": 2,
+      "replies": {
+        "haejf16": {
+          "link": "/r/AskAcademia/comments/pbusn4/software_for_converting_pdf_to_ms_word_for/haejf16/",
+          "text": "Isn't it a feature for only the paid version?",
+          "author": "iBo0m",
+          "created": 1629969262,
+          "upvotes": 0,
+          "replies": {
+            "hafilwt": {
+              "link": "/r/AskAcademia/comments/pbusn4/software_for_converting_pdf_to_ms_word_for/hafilwt/",
+              "text": "I don't think so, since you can do it for free online on their site",
+              "author": "GoldEagle-_-",
+              "created": 1629989477,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "haev7c0": {
+      "link": "/r/AskAcademia/comments/pbusn4/software_for_converting_pdf_to_ms_word_for/haev7c0/",
+      "text": "Open the pdf-file from MS Word. It will convert it automatically.\n\nEdit: No idea if/how this works for Mac and Japanese/Chinese. Try it and report back here.",
+      "author": "molobodd",
+      "created": 1629978244,
+      "upvotes": 2,
+      "replies": {
+        "haey8vw": {
+          "link": "/r/AskAcademia/comments/pbusn4/software_for_converting_pdf_to_ms_word_for/haey8vw/",
+          "text": "Unfortunately, I cannot open .pdf file in MS Word. At least not in my version, which should be up to date. I think I read somewhere that it was possible in MS Office v2013 or so.",
+          "author": "iBo0m",
+          "created": 1629980033,
+          "upvotes": 1,
+          "replies": {
+            "hafee1g": {
+              "link": "/r/AskAcademia/comments/pbusn4/software_for_converting_pdf_to_ms_word_for/hafee1g/",
+              "text": "Are you sure? In the \"open\" window, you have to allow for all files, not just .docx-files.",
+              "author": "molobodd",
+              "created": 1629987736,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

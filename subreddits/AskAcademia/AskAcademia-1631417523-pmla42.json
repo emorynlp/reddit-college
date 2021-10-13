@@ -1,0 +1,163 @@
+{
+  "sid": "pmla42",
+  "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/",
+  "title:": "Figure making for manuscripts",
+  "text": "How do you guys/gals make highly resolute, crisp images? It seems whatever application I\u2019m working with that produces the original figure (whether R, GIS, or whatever) could be made better (in terms of resolution)",
+  "author": "ClimateQueasy1359",
+  "created": 1631417523,
+  "updated": 1634079317,
+  "over_18": false,
+  "upvotes": 13,
+  "upvote_ratio": 0.9,
+  "comments": {
+    "hciux1k": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hciux1k/",
+      "text": "Vector graphics, save as an .eps or .svg or .tiff file.",
+      "author": "AceyAceyAcey",
+      "created": 1631419758,
+      "upvotes": 22,
+      "replies": {
+        "hcjl3az": {
+          "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcjl3az/",
+          "text": "If you're working with vector and then saving as a tiff you're doing something wrong.",
+          "author": "OrbitalPete",
+          "created": 1631438459,
+          "upvotes": 12,
+          "replies": {}
+        },
+        "hcjxwiy": {
+          "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcjxwiy/",
+          "text": "Also PDF if the figure did not include a rasterized image to begin with.",
+          "author": "vu9Oyo",
+          "created": 1631448303,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "hcir7jb": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcir7jb/",
+      "text": "I preferably work with vector graphics in R so resolution isn't a problem since you can easily scale vector graphics up or down and they'd always look crisp. If you're using Rstudio, you can export the image as an SVG or PDF, both of which will save the image as vector graphics, or you can use svg() in the code. I then proceed and make multi-panel figures in inkscape\n\nKeep in mind though that if you have a heavy plot (say, 5000+ data points) then vector graphics can be very demanding of your computational hardware. Many libraries in R now have a rasterise option where they make the data points raster graphics while the rest of the plot is vector. It's a good hybrid approach for heavy plots, but I mostly end up with increasing the font sizes etc so that I can export the hybrid vector graphics at a higher resolution for the raster part (increasing the resolution increases the plot size but keeps the font size the same, hence changing the font size etc)",
+      "author": "H4R81N63R",
+      "created": 1631417873,
+      "upvotes": 10,
+      "replies": {
+        "hcitkuj": {
+          "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcitkuj/",
+          "text": "Thanks for your reply.  Much appreciated",
+          "author": "ClimateQueasy1359",
+          "created": 1631419062,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hcit1vj": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcit1vj/",
+      "text": "I save mine as high resolution tiffs in R. I\u2019m super happy with the results and it\u2019s easy.",
+      "author": "Harddicksavage",
+      "created": 1631418794,
+      "upvotes": 9,
+      "replies": {
+        "hcittfr": {
+          "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcittfr/",
+          "text": "Thank you very much for your note, Hard Dicc.",
+          "author": "ClimateQueasy1359",
+          "created": 1631419188,
+          "upvotes": 2,
+          "replies": {
+            "hciua26": {
+              "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hciua26/",
+              "text": "Dick* \u2014 you\u2019re welcome",
+              "author": "Harddicksavage",
+              "created": 1631419425,
+              "upvotes": 8,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hcj25er": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcj25er/",
+      "text": "Use something like ggplot, export to svg/pdf, and clean it up in Affinity Designer/Illustrator.",
+      "author": "Spamicles",
+      "created": 1631424011,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hcjbmic": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcjbmic/",
+      "text": "I use Python for all kind of plots and save images with 600 dpi (most journals will accept 300 dpi).",
+      "author": "MrBacterioPhage",
+      "created": 1631430742,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hckbici": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hckbici/",
+      "text": "My lab uses Inkscape for figures, origin for graphs",
+      "author": "TheScienceMothra",
+      "created": 1631455661,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hckiknn": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hckiknn/",
+      "text": "Save from native program (R) to pdf, i then use corel draw or photoshop or inkscape to edit fonts or maybe recolor areas if I\u2019m too lazy to fiddle with the code. Also that software is good to make panel figures.",
+      "author": "Fabulous_Ad_4788",
+      "created": 1631458896,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hclhhhg": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hclhhhg/",
+      "text": "Everything looks CRISPR on Linux",
+      "author": "tiriyon",
+      "created": 1631473133,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hciv06a": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hciv06a/",
+      "text": "I use prism and R or Spotfire for graphs and if I need illustrations good old Adobe Illustrator.",
+      "author": "CreepyBumblebee31",
+      "created": 1631419804,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcjej1u": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcjej1u/",
+      "text": "Map wise, ArcGIS has a ton of different options for exporting. \n\nKnowing how to acquire and create your own base maps is also huge as this avoids the 300dpi limit that esri puts on their maps. Blender is also something a lot of cartographers use to spiff up maps.\n\nEdit; always make sure to save graphics as a vector file where possible, and where not, as either a PNG or TIFF. JPEG and it\u2019s lossy compression are typically what end up making graphics look like crap.",
+      "author": "the_Q_spice",
+      "created": 1631433040,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcjk45r": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcjk45r/",
+      "text": "Yeah in my experience the way people tend to make really nice graphs is two ways: by either having really nice custom code using Plotly or some such, which can be worth the time and effort if takes to generate if you do a lot of the same type of data analysis. But for me it's been taking graphs usually from Prism, but R or Python or MATLAB could be fine, and fine tuning them in Illustrator (or a free equivalent I'm not remembering the name of right now). It has a bit of a learning curve, and I'm not super comfortable still, and luckily had some instruction/help from my PI, but that's usually the process behind the figures I find most impressive and compelling. Most of the time you probably still have to touch up or make combinations in Illustrator even with good code.",
+      "author": "droidPhoenix",
+      "created": 1631437645,
+      "upvotes": 1,
+      "replies": {
+        "hckqjuv": {
+          "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hckqjuv/",
+          "text": "The free one is Inkscape. I\u2019ve just started using this and it has been a learning curve and it crashes a lot but the images are so much nicer. I\u2019ve been converting pdf matlab graphs from a collab into editable figures. It\u2019s sped up the changes no end as I can change colours quickly and integrate to other graphic types nicely. It\u2019s buggy and crashes all the time. I used to use illustrator when I worked for a rich lab but needs must!",
+          "author": "PristineAnt9",
+          "created": 1631462411,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hcm69tf": {
+      "link": "/r/AskAcademia/comments/pmla42/figure_making_for_manuscripts/hcm69tf/",
+      "text": "You can check out matplotlib, a common python library. Give you good customization options and can generate any resolution. Also you can specify dpi for crisp results",
+      "author": "lordstoned2",
+      "created": 1631483061,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "sid": "capi0c",
+  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/",
+  "title:": "How can we ethically justify training graduate students?",
+  "text": "My background is in biomedical research, and I'm currently a research scientist, applying for TT positions. I've been struggling with the idea of training my own graduate students and for years now I've been reluctant to encourage undergraduates to continue on to grad school. Every time an undergraduate research assistant has expressed interest in pursuing a PhD, I've tried to explain to them the enormity of the deck stacked against them. To wit:\n\n* Compared to other highly educated people in the general population, PhD students are about [2.5 times](https://www.sciencedirect.com/science/article/pii/S0048733317300422) more likely to be at risk for depression and other psychiatric disorders.  About [one in three](https://www.sciencedirect.com/science/article/pii/S0048733317300422) end up with symptoms of a psychiatric disorder. \n\n* For [80%](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184130) of grad students, an academic career is the goal, but just over [10%](http://science.sciencemag.org/content/352/6286/663) actually achieve a faculty position. And those 10% are not equally distributed across institutions, but disproportionately come from elite institutions [1-3], the kinds of which I will most likely not be teaching at.\n\n* [Most](http://science.sciencemag.org/content/350/6266/1367) biomedical PhDs end up having to do a postdoc, but postdoc [salaries](https://www.nature.com/articles/d41586-019-00587-y) are lower than that of a new [college graduate](https://money.cnn.com/2018/05/14/pf/college/class-of-2018-starting-salary/index.html) even though the postdoc is working [50+](https://academic.oup.com/bioscience/article/63/4/245/253174) hours per week and is [9](https://www.nsf.gov/statistics/2018/nsf18304/datatables/tab27.htm) years older than the new college grad. \n\n* [20%](https://www.sciencedirect.com/science/article/pii/S0048733318302312#sec0030) of postdocs report having existential crises related to their careers.\n\n* If the postdoc goes into industry, their salary ([~$48K/yr](http://science.sciencemag.org/content/sci/suppl/2015/12/09/350.6266.1367.DC1/aac5949_Zolas-SM.pdf) )  is still less than the median new college grad (~50K/yr) AND it's unlikely the private sector biology PhD will be able to continue doing research [4-5]. Indeed, if the postdoc sticks with research, they can expect to be paid [less](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1040.0241). \n\n* Moreover, several studies agree that there isn\u2019t any evidence a postdoc will actually benefit seekers of non-academic jobs [6-8]. When comparing private sector workers 10 years post-PhD, the salary of those who went the postdoc route are [$12,000](https://www.nature.com/articles/nbt.3766) lower than those who skipped postdocs altogether. \n\nSo if I encourage someone to go to grad school, I'm essentially putting them on a path toward some pretty dire consequences for their career, especially if they do a postdoc, which most will. If they're not getting paid well, they're not getting training that can help them thrive outside of academia, and they're miserable, how can I justify telling them to go this route? \n\nI think I'm a pretty good mentor. I think my research is important. But I'm realistic about the prospects of my trainees. They're not all going to end up in tenured faculty positions, and the numbers concerning the alternatives are all pretty grim. I can try my best to make sure my students aren't stressed out horribly, but I can't do anything to ensure they'll have meaningful, fulfilling jobs in science that actually pay enough to make grad school worthwhile. \n\nSo how do you do it? How do we as mentors look our students in the eyes and tell them to ignore the statistics and persevere, hoping they'll be one of the few to buck the trends?\n\nReferences:\n\n[1] http://rescuingbiomedicalresearch.org/blog/bias-distribution-k99-awards-faculty-hires/\n\n[2] https://www.biorxiv.org/content/10.1101/622886v1.full\n\n[3] https://advances.sciencemag.org/content/1/1/e1400005\n\n[4] http://science.sciencemag.org/content/350/6266/1367\n\n[5] https://www.nature.com/articles/nbt.3766\n\n[6] http://science.sciencemag.org/content/352/6286/663\n\n[7] https://www.nature.com/articles/nbt.3766\n\n[8] https://www.sciencedirect.com/science/article/pii/S0048733318302312#bib0465",
+  "author": "Bill_Nihilist",
+  "created": 1562613322,
+  "updated": 1634080129,
+  "over_18": false,
+  "upvotes": 353,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "etabpjz": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etabpjz/",
+      "text": "This is a very serious question and I don't think it has an easy answer. \n\nI think that in the short term, mentors can aim to provide PhD students better salaries and stability during their time so at least when viewed as a 4-to-6-year job, it isn't a completely unreasonable one. Practically this might mean not taking students unless you can guarantee good, ample, stable funding, health insurance, vacation time, etc for them. \n\nI think that some European institutions have done good work in this direction.\n\nIn the long term, I don't know what kind of reforms are needed.",
+      "author": "DevFRus",
+      "created": 1562616650,
+      "upvotes": 62,
+      "replies": {}
+    },
+    "eta8ece": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/eta8ece/",
+      "text": "Perhaps you would be better served to dissuade students and your university from counting on an academic job.",
+      "author": "Average650",
+      "created": 1562614526,
+      "upvotes": 118,
+      "replies": {
+        "etafye1": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etafye1/",
+          "text": "Okay, but in the private sector, PhDs lose the draw of intellectual freedom, they're likely to not even be engaged in research, and they still don't make much money.\n\nedit: the evidence is all linked to in the piece above.",
+          "author": "Bill_Nihilist",
+          "created": 1562619330,
+          "upvotes": 7,
+          "replies": {
+            "etamimk": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etamimk/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1562623726,
+              "upvotes": 58,
+              "replies": {
+                "etcgy7r": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etcgy7r/",
+                  "text": "> they get much better pay than academia\n\nOk that makes sense to me.\n\n>and a hell of a lot more job security\n\nWhat? I was always under the impression that tenure track is the ultimate job security there is. Can you please explain?",
+                  "author": "academiac",
+                  "created": 1562684516,
+                  "upvotes": 2,
+                  "replies": {
+                    "etck8go": {
+                      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etck8go/",
+                      "text": "> What? I was always under the impression that tenure track is the ultimate job security there is. Can you please explain?\n\nNot OP but guessing the answer is this: you can go right into a successful industry career with a permanent position. You often have to wade through postdocs, research positions, often contingent positions, etc. to just have the small *chance* at a TT job -- and even then you are at the mercy of the market in terms of location, department, and school. Yes if you get TT it is great security (well...if you actually get tenured), but everything prior to that -- and the chances of getting that TT in the first place -- makes going straight into a good industry position potentially much more desirable in terms of security.",
+                      "author": "prison_mic",
+                      "created": 1562686659,
+                      "upvotes": 13,
+                      "replies": {
+                        "etcpjb1": {
+                          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etcpjb1/",
+                          "text": "Not to mention that the TT is not guaranteed stability. You still need to get  grants to get tenure, and my funding line is sitting at about 8% right now.",
+                          "author": "redoran",
+                          "created": 1562689946,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "etfwwwn": {
+                      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etfwwwn/",
+                      "text": "The typical person with a PhD never gets tenure in their life though. Everyone else in academia has very little job security.\n\nMeanwhile, I have three years experience doing data science and modeling work in industry and I know I\u2019ll have a job that pays me far better than academia for the rest of my life. I didn\u2019t have to beat out five other people for that privilege either.",
+                      "author": "StellaAthena",
+                      "created": 1562779273,
+                      "upvotes": 5,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "etaix63": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaix63/",
+              "text": "Generally speaking (of course there are exceptions), I've found they make fine money, at least better than out of undergrad, and still generally work in research. They have less freedom than in academia, but it's not like they have none. They don't set the overall goals, but they do identify the best pathways and shutdown poor ones.",
+              "author": "Average650",
+              "created": 1562621312,
+              "upvotes": 22,
+              "replies": {
+                "etakow3": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etakow3/",
+                  "text": "Also, while someone with 0 years of work experience might not direct research, industry research groups are usually run by late 30 or 40 year-olds with PhDs. Industry research is less individualistic for sure, but people often forget that there are people leading industry research labs.\n\nWhile there certainly are business pressures and input from non-researchers, industry research groups are usually run by researchers with PhDs who set the agenda.",
+                  "author": "StellaAthena",
+                  "created": 1562622488,
+                  "upvotes": 27,
+                  "replies": {
+                    "etaletf": {
+                      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaletf/",
+                      "text": "Absolutely.",
+                      "author": "Average650",
+                      "created": 1562622965,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "etamhdh": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etamhdh/",
+              "text": "Don't fall for the line that \"if you aren't in academia, you don't do any research/have no academic freedom\".  Your entire sentence is literally untrue and helps perpetuate the mentality that it is academia or bust for PhDs.",
+              "author": "Minny7",
+              "created": 1562623702,
+              "upvotes": 34,
+              "replies": {
+                "etbs4ge": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbs4ge/",
+                  "text": "If anything quite the opposite: I went into postdocs *knowing* you're basically a gun-for-hire.",
+                  "author": "dl064",
+                  "created": 1562659278,
+                  "upvotes": 8,
+                  "replies": {
+                    "etctido": {
+                      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etctido/",
+                      "text": "Yes, PhDs need to see postdocs as a training time to gain as many diverse skills as they can. If you want to take a shot at getting a TT position, go for it. But don't place all your eggs in that basket, and make sure your postdoc training isn't too esoteric that you can't apply it successfully at another job.",
+                      "author": "Minny7",
+                      "created": 1562692315,
+                      "upvotes": 4,
+                      "replies": {
+                        "etfusf2": {
+                          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etfusf2/",
+                          "text": "I think of a post-doc as being analogous to a clinical residency. You're not paid very well, but you're getting on-the-job training.",
+                          "author": "Esmereldista",
+                          "created": 1562778021,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "etahuq7": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etahuq7/",
+              "text": "I don\u2019t think that\u2019s necessarily true in biomedical research. R&D positions in pharma and biotech pay decent money, I\u2019ve had labmates go on to earn $70-90k right out of grad school. The positions are competitive but as far as I\u2019m aware, they\u2019re much easier to come by than a TT position.",
+              "author": "AlzScience",
+              "created": 1562620588,
+              "upvotes": 29,
+              "replies": {
+                "etav59m": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etav59m/",
+                  "text": "The median salary for a biology PhD working in the private sector is $67-77,000/yr (female-male). The comparable figure for someone with a bachelors is $52-$71,000. That's not that much different and the bachelors has a head start of making $48k/yr while the PhD is in grad school and postdoc. Money is much more useful when you're young.",
+                  "author": "Bill_Nihilist",
+                  "created": 1562629986,
+                  "upvotes": 8,
+                  "replies": {
+                    "etaw46h": {
+                      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaw46h/",
+                      "text": "As others have commented, those figures often lump in all types of biology PhDs which can have drastically different salaries. Plus it varies a ton by location. In addition, there can be a pay ceiling with just a bachelors, whereas my understanding is that a can PhD allow greater upward or lateral mobility.",
+                      "author": "AlzScience",
+                      "created": 1562630711,
+                      "upvotes": 19,
+                      "replies": {
+                        "etcpdxm": {
+                          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etcpdxm/",
+                          "text": ">In addition, there can be a pay ceiling with just a bachelors, whereas my understanding is that a can PhD allow greater upward or lateral mobility.\n\nCorrect. Some of this is due to degree inflation, but it was around even before the '08 Recession. In short, most companies prefer to have people with higher degrees managing groups. So it's very unlikely that someone with a bachelors is going to be supervising people with masters or higher (unless they have a lot of experience). So if you have a group with researchers that have masters or PhDs then the management is most likely going to have a masters or PhDs (or terminal degrees). In pharma it's pretty common to find PhDs or MD/PhDs that are heads of research.",
+                          "author": "ManInBlackHat",
+                          "created": 1562689856,
+                          "upvotes": 4,
+                          "replies": {}
+                        },
+                        "ethgti0": {
+                          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/ethgti0/",
+                          "text": "What kinds of biology pay the most?",
+                          "author": "SantAgata9",
+                          "created": 1562815103,
+                          "upvotes": 1,
+                          "replies": {
+                            "eti9h2q": {
+                              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/eti9h2q/",
+                              "text": "Generally biomedical sciences are better paid than \u201cbasic biology\u201d without direct human applications.",
+                              "author": "AlzScience",
+                              "created": 1562843227,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "etahteh": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etahteh/",
+      "text": "My experience is, of course, just anecdotal.  But as someone who grew up well below the poverty line, academia was a career I could get into that didn't require expensive professional school (the massive costs of writing standardized tests and interviews for medical school kept me from even bothering).  Getting paid to do a graduate degree was mind blowing for me relative to that.  It also was the first time I travelled internationally.  I really don't think that I would have done better in the private sector being someone who was bright, but didn't really know how professional fields work at all.\n\nThen again, I went to a public school in a country with reasonably-priced higher education that didn't require the GRE/SAT/etc.  I also had a great mentor.  All those things would help anybody in academia I think.",
+      "author": "ke_marshall",
+      "created": 1562620563,
+      "upvotes": 37,
+      "replies": {
+        "etbnvfi": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbnvfi/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1562653723,
+          "upvotes": 19,
+          "replies": {
+            "etbnz4t": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbnz4t/",
+              "text": "Yeah I'd be really curious how many academics come from impoverished backgrounds vs. MDs, lawyers, etc.",
+              "author": "ke_marshall",
+              "created": 1562653845,
+              "upvotes": 7,
+              "replies": {
+                "etboaj8": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etboaj8/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1562654227,
+                  "upvotes": 6,
+                  "replies": {
+                    "etborml": {
+                      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etborml/",
+                      "text": "I guess it depends what the question is (like in all things for academia). For me, the MCAT was a huge barrier because I just didn't have the finances to get all the study prep in that I knew wealthier students had, and I was worried about paying for the test itself.  So I'd love to know relative admission rates to grad school vs. various professional schools by income.\n\nBut I agree success is also another interesting question.  I've found the American system is very school- oriented (e.g. a degree from Harvard is considered to be far superior than one from a state university). In my country, we don't have near this bias.  I'm TT at a worldwide top 20 university despite doing my PhD at an equivalent of a state university.",
+                      "author": "ke_marshall",
+                      "created": 1562654798,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "etch8l0": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etch8l0/",
+          "text": "This is very much my experience too (also from a low income family). I get paid to do a degree, the money is more than I\u2019ve ever had before, and I get to travel more than I ever would have if I wasn\u2019t studying in a degree. It also helps that I enjoy my PhD too, ofcourse, and I have a great mentor.",
+          "author": "cm0011",
+          "created": 1562684708,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "etabkpf": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etabkpf/",
+      "text": "I think this is also a very field dependent question to ask. Some fields are well off for PhD grads, some moderately well off, and some exceptionally poor. \n\nTo me, the biggest thing we can do as faculty is help our students be aware of the situation such that they are making informed choices. A lot of that, in STEM, is helping them make connections in non-academic markets to know what those fields look for, and what those jobs involve- this makes it possible for students to pivot to gainful employment more easily.\n\nI also think you're slightly over-interpreting the early PhD career academic interest (80%)- most students don't enter a PhD really having any idea of what a scientist outside of academia does, and there's a significant decline in interest during the PhD due to this.",
+      "author": "Eigengrad",
+      "created": 1562616565,
+      "upvotes": 75,
+      "replies": {
+        "etadm07": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etadm07/",
+          "text": "I certainly agree with your last point, many students/PhD candidates are simply unaware that there are other viable and often very financially beneficial careers outside of academia.  I only learned about my current role\u2019s existence a couple years into my post-doc.  Once I learned that such a role existed and the immediate benefits it provided as well as the advancement potential, I never even remotely considered remaining in academia.   (I\u2019m a senior MSL at a large biopharm company).",
+          "author": "Jobs-",
+          "created": 1562617860,
+          "upvotes": 32,
+          "replies": {
+            "etbfvkg": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbfvkg/",
+              "text": "> MSL at a large biopharm company\n\nI didn't know this job existed until my post-doc either.  I was fortunate to land a faculty position, but if I had not, this would be my first choice for a different career.",
+              "author": "manova",
+              "created": 1562645580,
+              "upvotes": 9,
+              "replies": {
+                "etdj62u": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etdj62u/",
+                  "text": "It really is an amazing career track, opens up so many doors in Pharma and is a very enjoyable job if ones chooses to stay an MSL for the duration.  Plus the salary and other benefits (company car, stock options, bonus, phone, hotel/phone miles, travel to conferences, internet, work from home, etc) are hard to match.  If anyone wants help or has questions on the MSL role, please feel free to DM me.",
+                  "author": "Jobs-",
+                  "created": 1562707822,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "etaqz41": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaqz41/",
+      "text": "The data OP cites is certainly a compelling argument for *avoiding graduate school in the first place*.  And this information is out there and available to folks as they make the decision to apply and to enroll.  But to hit them with all this after the fact, as they're newly arrived and enthusiastic first-year students, actually seems rather cruel to me.  \"Hey bozo, look what an idiot thing you just did!\"  No, no bueno, you just do you best to train and support them and you don't shove all this negativity at them.",
+      "author": "ImSoFree",
+      "created": 1562626898,
+      "upvotes": 24,
+      "replies": {
+        "etbm5gj": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbm5gj/",
+          "text": "Recouping the loss of a semester or two is a significantly cheaper proposition than recouping the following decade. In many disciplines (such as mine, fine arts) this is a kindness. Let's not soft glove the youths because we dont want them to be sad.",
+          "author": "How2mine4plumbis",
+          "created": 1562651749,
+          "upvotes": 8,
+          "replies": {}
+        }
+      }
+    },
+    "etam6u8": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etam6u8/",
+      "text": "I think that academic science is a bit of a passion job.  In many senses, it's not all that different from dreaming of being a pro-athlete, working in the arts, or working as a chef.  Long hours, low pay, a few people make it big, even more people live modestly but comfortably doing something they love, a lot of hustle, a long period of time where you are sacrificing earning potential to pursue this dream.  Only a small number of people \"make it\" and most people end up moving on and doing something else with their lives.\n\nOn the upside the unemployment rate for PhDs is something like 1%, so even though you might end up underemployed or not using your degree with a lot of sunk costs, it definitely doesn't mean you will be on the street.  You might have all kinds of unusual options open to you.\n\nIf it were presented as akin to signing a D1 scholarship  with the dream of becoming professional athlete or hauling long hours with low pay with the dream of becoming the head chef at a restaurant rather than a route that makes financial sense, perhaps people's view of \"failing\" to become a professor or seeing a PhD as a totally economically secure route (compared to the loss of earning potential) would be clearer.",
+      "author": "bebefinale",
+      "created": 1562623499,
+      "upvotes": 23,
+      "replies": {}
+    },
+    "eta7l2p": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/eta7l2p/",
+      "text": "My department will admit them whether or not I train them - the program is seen as a marker of prestige. The best I can do once they show up is try to give them the most employable skills that I can.",
+      "author": "ph0rk",
+      "created": 1562613999,
+      "upvotes": 76,
+      "replies": {
+        "etab41r": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etab41r/",
+          "text": "\"If I don't then somebody else will\" seems like a potentially dangerous answer. I see variants of it a lot in academia (often for taking money from unethical funding sources) and I don't know what to make of this.",
+          "author": "DevFRus",
+          "created": 1562616271,
+          "upvotes": 55,
+          "replies": {
+            "etagywf": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etagywf/",
+              "text": "This is actually the stated policy position of my chair, my dean, and my colleagues - it isn't merely the bystander effect. Students *will* be admitted, whether I train them or not.",
+              "author": "ph0rk",
+              "created": 1562619997,
+              "upvotes": 13,
+              "replies": {
+                "etahem6": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etahem6/",
+                  "text": "What is the official plan of action if nobody wants to advise a student?",
+                  "author": "east_lisp_junk",
+                  "created": 1562620288,
+                  "upvotes": 4,
+                  "replies": {
+                    "etahxk8": {
+                      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etahxk8/",
+                      "text": "Well, first we get in trouble on service come review time if we have too few, so it isn't a situation that has come up. \n\nThey either leave (after wasting money and time; and weakening our time to degree and placement numbers) or figure out a passive chair situation.",
+                      "author": "ph0rk",
+                      "created": 1562620643,
+                      "upvotes": 17,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "etab6nb": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etab6nb/",
+              "text": "What unethical finding sources are there? I've never heard of this.",
+              "author": "Average650",
+              "created": 1562616318,
+              "upvotes": 6,
+              "replies": {
+                "etafpbj": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etafpbj/",
+                  "text": "Tobacco, for instance.",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1562619171,
+                  "upvotes": 8,
+                  "replies": {}
+                },
+                "etac2nl": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etac2nl/",
+                  "text": "It depends on your ethical standards, of course. But a number of people would consider defence and military funding to be an unethical source (but there are other examples, too). Yet they still might use logic like \"well, if I don't take this DoD grant then somebody who is _actually_ building a weapon will. And I'll only use it for basic science, not weapons.\" I don't know how to feel about such justifications.",
+                  "author": "DevFRus",
+                  "created": 1562616884,
+                  "upvotes": 32,
+                  "replies": {
+                    "etaudbu": {
+                      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaudbu/",
+                      "text": "I find that counterargument to be very naive. The AFOSR funds AIDS relief research in AIDS-stricken countries in Africa, because the Air Force realizes that disease and famine lead to unrest, and potentially war. The easiest way to win a war is to prevent it from happening in the first place, and so the DOD funds research to eliminate such root causes. To not accept such funding is one of the most out-of-touch, ivory-tower academic nonsense things that bothers me deeply.",
+                      "author": "notadoctor123",
+                      "created": 1562629402,
+                      "upvotes": 22,
+                      "replies": {
+                        "etbpc7v": {
+                          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbpc7v/",
+                          "text": "\\*lives in Africa \\*wholeheartedly welcomes US military relief efforts",
+                          "author": "Ashen_Light",
+                          "created": 1562655504,
+                          "upvotes": 9,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "etac40r": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etac40r/",
+                  "text": "Koch brothers fund many things.",
+                  "author": "MrLegilimens",
+                  "created": 1562616907,
+                  "upvotes": 9,
+                  "replies": {
+                    "etacjr0": {
+                      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etacjr0/",
+                      "text": "Templeton Foundation isn't unethical per se, but sometimes we joke that if you want the money you have to promise to find nice things about religion.",
+                      "author": "DrParapraxis",
+                      "created": 1562617189,
+                      "upvotes": 12,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "etc9wa1": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etc9wa1/",
+          "text": "This seems to be more like a teaching issue than anything else, no? If applicants are applying to PhD programs with the intention of finding a TT job eventually and they're surprised to learn that these are very difficult to come by, then they haven't been well enough taught/informed of these dire circumstances by their undergraduate mentors/departments/classes. So endorsing (and questioning!) some version of the \"if we don't, someone will\" attitude already avoids the \"problem,\" which is that the paucity of TT jobs surprises *undergrads*, not (just) grad students.\n\nI'm in the humanities, but it's similar--if not worse: the \"industry\" pathways are unclear and uncommon at best and nonexistent at worst.\n\nAgain, this seems to be a pedagogical failure at a much earlier level, not (or not necessarily) one at the grad level.",
+          "author": "emily__spinach",
+          "created": 1562679540,
+          "upvotes": 1,
+          "replies": {
+            "etcb8pc": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etcb8pc/",
+              "text": "I tell anyone that asks that the chances of a job are low. Colleagues not so subtly tell me that I shouldn't be such a downer and always **Encourage! Encourage! Encourage! Recruit!** \n\nThis pressure is very real, if absurd. The sane thing to do is to tell them not to consider grad school - ideally, to tell them this many times.\n\nI have no control over who at other schools decides to apply, and only limited control over who we admit (and zero control over how many we admit; this is top-down at my institution).\n\nI'm a social scientist which splits the difference between STEM and the humanities; job markets are rough whether or not someone decides to go into industry or academia but many that stick with it end up with a job... eventually.",
+              "author": "ph0rk",
+              "created": 1562680549,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "etb4i94": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etb4i94/",
+      "text": "That was an excellently written post.\n\nLet us pause, for but a moment, to consider the 70% who are effectively exiled from a career they are trained, and qualified, for.  People who have made the sacrifices postgrad work demands, who have met the challenge, and who are cast out because of fashion and fortune.\n\nLet us be honest with ourselves; how many of us hold a post simply because we knew the right person at the right time, in the right place?\n\nThe question of ethics lies not in the teaching of graduates, but in maintaining the current path academia is taking.  If we continue to throw away the wonders we create, we will lament the mono-culture our scholarship will become.",
+      "author": "HexesOfVexes",
+      "created": 1562636824,
+      "upvotes": 18,
+      "replies": {}
+    },
+    "etaef87": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaef87/",
+      "text": "If you consider only monetary benefits it is hard to justify grad school. But there are other:\n\n1. PhD gives you access to all kinds of research jobs, and if you are into research it might be worth it, because otherwise you won't be considered for those positions.\n2. TT has way more freedom than any other high paid job, might be worth the gamble, especially for people who have already thought about point #1.\n3. Even if you drop out it does not mean you are not good enough, there is a lot of factors affecting it. Knowing this can make it easier to go through the struggles.\n\nI am currently a grad student and I perceive it this way: \"I know it's a gamble, but considering the freedom of choosing a problem to work on and the fact that if I don't like it I can become a data scientist any minute I'm okay with spending at least some time on that and see how it goes.\"",
+      "author": "alestainer",
+      "created": 1562618365,
+      "upvotes": 34,
+      "replies": {
+        "etaitpl": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaitpl/",
+          "text": "The last point is basically where I\u2019m at as a grad student. More students/advisors/programs need to keep an eye on the private sector, even if that\u2019s a students second choice compared to a TT career. Like, for most quantitative social scientists (which is what I\u2019m doing), you can make more money and have a better work-life balance by taking your PhD into the private sector.",
+          "author": null,
+          "created": 1562621249,
+          "upvotes": 8,
+          "replies": {}
+        }
+      }
+    },
+    "etac2do": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etac2do/",
+      "text": "You can only tell them as you see it and then allow them to make their own decisions. If they are dissuaded by your argument, then they likely would have become disillusioned sooner or later and you are probably helping to spare them some inevitable tribulations. If they remain determined, then you have done nothing but to test their commitment and give them a heads up for what to watch out for.",
+      "author": "wynden",
+      "created": 1562616879,
+      "upvotes": 13,
+      "replies": {}
+    },
+    "etabbso": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etabbso/",
+      "text": ">So how do you do it? How do we as mentors look our students in the eyes and tell them to ignore the statistics and persevere, hoping they'll be one of the few to buck the trends?\n\nMost of the time, I tell them not to bother, no matter how good they are as undergrads. Some professors in my program refused to take graduate students, because of the nature of the job market for historians.",
+      "author": "psstein",
+      "created": 1562616408,
+      "upvotes": 26,
+      "replies": {}
+    },
+    "etaddxn": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaddxn/",
+      "text": "As it had already been said, not all fields are the same, and neither are all motives for doing a PhD. I feel fine about how things are in the business school.",
+      "author": "AnonBizPhD",
+      "created": 1562617721,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "etasahm": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etasahm/",
+      "text": "I'm a PhD student that had just gone through the career crises you're describing, and I was seriously deliberating ending my PhD because of it. I would say that in your mentor role, you should emphasize these points to prospective undergrads, but from that point on, it's not your choice to make on whether or not they should go into grad school.",
+      "author": "valryuu",
+      "created": 1562627875,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "etaco20": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaco20/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1562617266,
+      "upvotes": 35,
+      "replies": {
+        "etakqpr": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etakqpr/",
+          "text": "> NSF minimum post-doc salaries are -$50k, which is a good salary). But during the time you spend in academia, you (broadly) get to pick who you work with, where you work, and what you work on. That's an incredible privilege, so it makes sense that lots of people are willing to take a pay Cut in exchange for such a job.\n\nI strongly disagree with this thought process, including the \"post-docs are still in training\" excuse as a justifications for their salary. It's basically a version of \"you're doing a job you love it could be worse\" which is basically never a good justification for a salary level, otherwise we would have salary tiers to pay people based on how happy they are at work.   Plain and simple it's supply and demand - if we could pay post-docs the salary they actually deserve we would, but given the demand we don't have to. We should all be honest that their pay is too low instead of justifying it with non-economics based excuses that sends the message that they don't deserve more - they do - we just don't have to pay them more given the demand.\n\nWhen California changed their overtime laws my institution forced everyone to bump their new postdocs up by $1200 a year, and my professor told me to my face that if he could he would pay all the postdocs $1200 less because when he was a postdoc he made less than graduate students do today. There is just insane justifications out there for post-doc pay, and some like this one devalue you on many levels. The best part is that professor was hired so long ago doing a post-doc was not even a defacto requirement to get a TT professorship at a big name university at the time.\n\nIf we think a PhD has value we should compensate like it does. In my no-income-tax state, I had a grad student move to a coastal school for their post-doc and after taxes they only made $350(!) more a month than they did as a grad student, not to mention the difference in cost of living. That is entirely unacceptable no matter how you slice it. Yes they could chose an industry job if salary was that important to them, but people also chose industry jobs because they actually want them  - and does industry pay those people less because they actually want that job? No, they pay them for their PhD and experience.",
+          "author": "pastaandpizza",
+          "created": 1562622521,
+          "upvotes": 30,
+          "replies": {
+            "etamqt6": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etamqt6/",
+              "text": "All the early levels of academia pay poorly. Entry-level research assistants in my city get paid $23k, and grad students don't make much more. Cost of living here is low but is rapidly rising. And some PIs only pay the NIH minimum regardless of COL.",
+              "author": "bacon_music_love",
+              "created": 1562623885,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "etaysse": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaysse/",
+              "text": "Just putting it out there, NIH minimum is more than you'll make as a TT assistant professor at many state comprehensive schools in STEM. \n\nI barely make more as a junior assistant prof at a private college.",
+              "author": "Eigengrad",
+              "created": 1562632655,
+              "upvotes": 5,
+              "replies": {
+                "etayxpb": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etayxpb/",
+                  "text": "Equally tragic, neither is justified and one doesn't justify the other.",
+                  "author": "pastaandpizza",
+                  "created": 1562632755,
+                  "upvotes": 6,
+                  "replies": {
+                    "etazd4y": {
+                      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etazd4y/",
+                      "text": "Well, paying a post-doc more than I, as their boss, make... Does provide some justification for post-doc salaries being lower than faculty salaries. \n\nAnd the salary isn't a bad one, for another. I guess I'm confused when you say \"tragic\". A $50k salary isn't \"tragic\".",
+                      "author": "Eigengrad",
+                      "created": 1562633061,
+                      "upvotes": -4,
+                      "replies": {
+                        "etb1gt4": {
+                          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etb1gt4/",
+                          "text": "> Well, paying a post-doc more than I, as their boss, make... Does provide some justification for post-doc salaries being lower than faculty salaries. \n\nWhy are putting that on the postdoc and not your institution for your very low salary? You should be getting paid more and if you think for a second you are being properly compensated for your expertise and responsibilities you're part of the problem I'm talking about. \n\nAnd on the flip side, brand new assistant professors in biology at my public state school graduate institution were starting at over 100k so you're experience is not universal, unlike the recommended postdoc salary.\n\n> And the salary isn't a bad one, for another. I guess I'm confused when you say \"tragic\". A $50k salary isn't \"tragic\".\n\nYou're stripping away the context to justify your and/or postdoc salary. 10 years of higher education/training to get yourself in a job with tremendous responsibility and if you live in a high cost of living area forget about it.  $50K isn't tragic if you're giving out hugs, but if you're expected to be a top tier scientist and educator at a university and you're getting paid a middle school teacher salary with a bachelor's there's a problem. How this isn't your first response to your situation is really surprising to me, and then going after the postdoc salary even more so.  This attitude of holding others down because of your experience is EXACTLY the story I told in my previous comment and is just sad.",
+                          "author": "pastaandpizza",
+                          "created": 1562634594,
+                          "upvotes": 14,
+                          "replies": {
+                            "etb5i62": {
+                              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etb5i62/",
+                              "text": ">Why are putting that on the postdoc and not your institution for your very low salary? \n\nPreach.",
+                              "author": "iliveinsalt",
+                              "created": 1562637539,
+                              "upvotes": 9,
+                              "replies": {}
+                            },
+                            "etb1mnt": {
+                              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etb1mnt/",
+                              "text": "You don't seem interested in a discussion, just attacking people with different opinions, so I think I'm going to stop having this conversation with you.",
+                              "author": "Eigengrad",
+                              "created": 1562634714,
+                              "upvotes": -7,
+                              "replies": {
+                                "etb204p": {
+                                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etb204p/",
+                                  "text": "If I didn't want a discussion why would I open with a direct question for you to answer? It's an invitation for a reply and discussion which you're apparently chosing not to do. \n\nI laid out clear, multiple reasons why I disagree with your opinion, all of which you can address with a response. Sorry if you feel attacked, but hopefully others who view our conversation can continue to contribute to it. I'm advocating for you to get paid more.",
+                                  "author": "pastaandpizza",
+                                  "created": 1562634987,
+                                  "upvotes": 13,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "etd25ft": {
+                          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etd25ft/",
+                          "text": "Well, NIH postdocs work in DC, where the median household income is upwards of 80k. Whereas you might live in Iowa. In PPP terms, you may well be paid much more.",
+                          "author": "thegreenaquarium",
+                          "created": 1562697528,
+                          "upvotes": 2,
+                          "replies": {
+                            "ete0p3p": {
+                              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/ete0p3p/",
+                              "text": "NIH post-docs work anywhere in the country where there's an NIH grant?\n\nThe NIH minimum also applies when I hire an NIH post-doc in Iowa, or Montana, or wherever else.\n\nIn fact, the NIH minimum is usually supplemented upwards in high COL areas- the minimum is usually only for average COL.",
+                              "author": "Eigengrad",
+                              "created": 1562719976,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "etasuyk": {
+              "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etasuyk/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1562628295,
+              "upvotes": 3,
+              "replies": {
+                "etb2k15": {
+                  "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etb2k15/",
+                  "text": "Yea exactly!",
+                  "author": "pastaandpizza",
+                  "created": 1562635392,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "etawx3l": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etawx3l/",
+      "text": "You're definitely not the only person to think this way\n\n> Monica Harris, a professor of psychology at the University of Kentucky, is a rare exception. She believes that too many PhDs are being produced, and has stopped admitting them. But such unilateral academic birth control is rare. \nfrom <https://medium.economist.com/why-doing-a-phd-is-often-a-waste-of-time-349206f9addb>\n\nI'm a grad student who is just beginning to realize that my research is completely useless for anything other than a postdoc. What's even the point of my research? To print more papers with my advisor's name so that he can win larger grants and write even more papers? Yes that's about it.",
+      "author": "not_a_theorist",
+      "created": 1562631299,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "etawlj9": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etawlj9/",
+      "text": "I think a lot of these points are valid. I think though the straightforward question to ask that isn't really answered in your examples is: how many recent graduates regret doing a PhD? How many people wish that they had taken a different path? While I suspect that measuring regret (without comparing across groups or something) isn't a great raw indicator, I'm also not sure all of these measurements are measuring life satisfaction that well either.\n\n&#x200B;\n\nI'm convinced that 1) PhD students aren't happy/don't have great finances (and neither are postdocs -- though depending on the definition of existential crisis 20% doesn't sound that bad tbh); 2) many phd's want academic jobs but we don't get them; 3) doing a postdoc then going into industry isn't really better than straight to industry (in terms of the industry job you get); 4) industry jobs don't let you do the \"research whatever you want (kinda)\" that academia does\n\n&#x200B;\n\nBut I guess you haven't convinced me that industry as a fall back plan is all that grim. like ya your students going into industry won't make bank necessarily but maybe they are fine with that? you compare phd postdoc versus phd, and phd postdoc versus college grad generally, but if someone was going to go into the biomedical industry, how does having a phd (vs no phd; some kind of ba/ma) change things.\n\n&#x200B;\n\nin fairness, its clear you're in this position of applying to TT jobs, and probably checking out industry alternatives, and all the options other than TT look pretty grim to you -- thats personal experience that I don't have. I guess the question is -- if you don't get your TT job, will you regret doing a phd? (it might be hard to know the answer for sure)\n\n&#x200B;\n\nAnd honestly, I totally feel this way all the time. to answer your question about training and encouraging/discouraging students -- coming into a phd program personally I wasn't naive about job opportunities (nor I think are most of my cohort) and that I probably won't be a professor. but I thought the chance to do a phd for \"free\" was worth it -- an 'opportunity of a lifetime!' -- and I could leave whenever I decided on something better to do (before or after I finish). though I still sometimes feel even if I walked away tomorrow it was still worth it, what I think I was actually naive about was how painful/hard it can feel to leave (or to stay) years later, after it feels like I've given my phd my everything. I'm not sure how I could've explained that to my younger self. but then again, maybe if I actually do leave ill see that the \"well let's just try it out\" approach had been right all along: I'll be both happy I did it and happy I left. who knows",
+      "author": "baydew",
+      "created": 1562631067,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "etb3jn3": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etb3jn3/",
+      "text": "Thank you for this. I\u2019m a biomedical graduate student and I\u2019ve been in basically an existential crisis about whether to continue trying to do the academia thing for the last year, and I\u2019ve never felt so stuck in my entire life. Thank you for laying out the numbers for the biomedical field. I knew it probably wasn\u2019t in the cards for me but seeing the numbers (and the stats about lower pay, even years out of a postdoc if you pursue that route) has really made it sink in for me that it\u2019s not worth it. \n\nThank you, seriously. Now I can let go of this and move on. \n\nBest of luck to you as you continue on with your journey.",
+      "author": "bbbright",
+      "created": 1562636114,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "etb7wbn": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etb7wbn/",
+      "text": "One of the things I grew to really appreciate in grad school was that I was often asked what I want to do. If you start mentorship (or even interviews with potential candidates) by asking what the student wants, whether the student's goals align with your assumptions, you can help the student find what they want. If a student wants to make big bucks, you should tell them to go elsewhere. If a student wants to work and fight and struggle to figure out how things work, without being driven by a paycheck, invite them into your lab. That struggle can be its own reward, and those who enjoy it are probably those most likely to stick to it and end up with grants, faculty positions, etc.",
+      "author": "mightypile",
+      "created": 1562639295,
+      "upvotes": 11,
+      "replies": {
+        "etbrrmj": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbrrmj/",
+          "text": "This should be higher. I am really enjoying the postdoc route and I really don't appreciate when people try to force their reasons on why I should hate it. We are all different and while I understand all the facts OP listed that doesn't mean happiness to me and it won't for some people as well. I think it's great to try to give good advice but it stops being good advice if you're only thinking of what the majority wants, this needs to be tailored for each student.",
+          "author": "ivcan",
+          "created": 1562658770,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "etaw7nn": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etaw7nn/",
+      "text": ">If the postdoc goes into industry, their salary ([\\~$48K/yr](http://science.sciencemag.org/content/sci/suppl/2015/12/09/350.6266.1367.DC1/aac5949_Zolas-SM.pdf) ) is still less than the median new college grad (\\~50K/yr) AND it's unlikely the private sector biology PhD will be able to continue doing research \\[4-5\\]. Indeed, if the postdoc sticks with research, they can expect to be paid [less](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1040.0241).\n\nI don't know anyone making this little across multiple cohorts from my doctoral program after graduating. Not a small program either. Are these salaries adjusted for anything. Maybe I'm just in shock because this is so far out of the norm for my area (which is one of the big 3/4 hubs). I also work in the biomedical field so I'm speaking more directly to you and your field than other STEM areas.",
+      "author": "wondert",
+      "created": 1562630782,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "etb8b9u": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etb8b9u/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1562639600,
+      "upvotes": 5,
+      "replies": {
+        "etbd4hj": {
+          "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbd4hj/",
+          "text": "His or hers",
+          "author": "SkaffenAmtiskaw17",
+          "created": 1562643260,
+          "upvotes": -8,
+          "replies": {}
+        }
+      }
+    },
+    "etbd6ub": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbd6ub/",
+      "text": "So, at least in my area, a PhD is a necessary step to some well-paying jobs. A little less so now, but still largely necessary.\n\nHonestly, it depends on their reason. If they're deadset on staying, be up front about them with your experiences, the experiences of those you know, and let them make their own decision. So long as you give them everything needed for them to evaluate their decision, there isn't much more you can do. It's there life.\n\nAlso, don't forget, early/mid 20s is still an age ripe for wanting to wander. If they want to wander in that direction, they will regardless if it's best for them or not. It's human nature.",
+      "author": "ZombieRickyB",
+      "created": 1562643316,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "etbhpr5": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbhpr5/",
+      "text": "> For [80%](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184130) of grad students, an academic career is the goal, but just over [10%](http://science.sciencemag.org/content/352/6286/663) actually achieve a faculty position. \n\nHonestly I think that the biggest issue is that line of thinking needs to change. When I was applying for graduate school (after a career in industry) I made it clear that my goal was securing a position that required the PhD (i.e., a research role), not a job in academia *per se*. \n\n&#x200B;\n\nIn terms of ethics, why not just look to work with non-traditional students that are returning to graduate school from industry as opposed to the traditional pipeline? Someone that has been working a couple years likely has a much more realistic perspective of things.",
+      "author": "ManInBlackHat",
+      "created": 1562647247,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "etbq2sg": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbq2sg/",
+      "text": "From [https://science.sciencemag.org/content/358/6369/1388](https://science.sciencemag.org/content/358/6369/1388):\n\n>The current tensions in the biomedical workforce are well-documented and  familiar: In the United States, real levels of federal research funding  declined by nearly 20% from 2003 to 2016\n\nThis of course doesn't answer or solve all of the problems, but I think the minor differences in earnings you cite may well be attributable to your government cutting your funding by 20% (perhaps I am misunderstanding this figure or how grants trickle down to postdocs). When framed this way, suddenly it seems less like a discussion of what you personally are doing unethically (although I understand that sometimes we can do nothing and can only worry about the ethics of our own actions).\n\nIn my country, we have recently gutted funding for physics and mathematics at the national level. Do we now consider ourselves individually unethical if we encourage students to study mathematics? Hardly. Yes, it's important to be honest with them that the funding is worse, but it's basically understood that none of us are doing this for the money, we're doing this for fun/fulfillment/prestige/advancement of human knowledge. If we don't acknowledge this, and if earnings and job availability are all that shapes our ethics, then your argument extends immediately to the conclusion that we can't advise students to do *anything*, except for the top paying career. Also, even with the cuts, the money isn't *that* bad.\n\nThe psychological problems for students and postdocs are of course a big concern - I believe quite strongly in telling students that this is a risk. But I also think it's important to frame it as something that can be overcome with the right skills and will likely be character building if done right and with correct support.\n\nAlso, I like to remind people that we are in an incredibly unusual time in the history of academia: more technology, more people, incredibly higher levels of education than ever before. We are going to have to work out some kinks before this settles into a better system - 100 years ago it simply wasn't a problem to worry about whether students were depressed or if we had enough TA's or funding or if you could get a job. The societal conditions were so bad that there was basically no competition, so it's *excellent* that this is no longer true, but it also means we are in a transitional period and the blend of the old system with the new isn't really working (see of course for example academic publishing).\n\nSo I think you are right to question the ethics of what's going on, but we also must not throw out the whole academic project just because of this weird transitional period (I would consider advising students away from academia to be the collapse of the academic project). Rather, we need to expand and modify it to work in a world where many more people are and want to be participants. Easier said than done, though.",
+      "author": "Ashen_Light",
+      "created": 1562656446,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "etc9alo": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etc9alo/",
+      "text": "My econ department in undergrad did a GREAT and honest job about discouraging us from going into graduate school. They really said, unless you are doing a phD for the sake of wanting to have a phD and wanting to do the research even if it means less pay and more work, don't do it. They went out of their way to always tell us that and even held evening panels every year in the spring for juniors and seniors to Q&A so anyone even considering a phD could go in and talk to them about it. One of the things I'll never forget is them saying \"it might seem like every econ professional you know has a phD but that is because we're the ones teaching you. Out in the real world, there are plenty of people with an econ background but no phD having great lives too\"",
+      "author": "bhutjolokia89",
+      "created": 1562679078,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "etcggs7": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etcggs7/",
+      "text": "I think students should be allowed to decide for themselves. It\u2019s one thing to warn someone of the risks, but it\u2019s another to present it as a completely hopeless endeavour.\n\nFor example, you may let them know about opportunities in the private sector, and reminding them there are alternate options to a professorship. You may offer them contacts. But in the end, in the same way as you should not lean towards making academia seem so easy to get into, do not make getting a PhD seem like a hopeless waste of time either. Let the student make that choice, once they have the warnings and knowledge.",
+      "author": "cm0011",
+      "created": 1562684197,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "etbak44": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbak44/",
+      "text": "Those are all good points.  But you missed one important balancing factor - a career in academia is the best damn job in the world.  They pay us - to do the research WE are interested in.  How marvellous is that.",
+      "author": "Life_time_learner",
+      "created": 1562641241,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "etb24wa": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etb24wa/",
+      "text": "My understanding is that biomedical engineering and research fields are expected to grow at an accelerating pace in the next 5-15 years. Is this incorrect? Or, when they talk about these jobs, are they referring mainly to technician-type jobs?",
+      "author": "my_stupidquestions",
+      "created": 1562635086,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "etbd1l5": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbd1l5/",
+      "text": "Thanks for thinking about this and giving a shit. Honestly, be straightforward and give the facts to students interested, then do your best to help those who do a PhD anyway network and get jobs. \n\nDespite being fully aware of the loss of income, I\u2019ve love-hated the hell out of my PhD work for some years now. I wouldn\u2019t trade the experience I\u2019ve gotten for anything, because I\u2019ve had a department and PI that help me along my learning and career goals, so when I go to get a job I can sell my experiences. Be honest, and those who can afford the monetary hit for a bit will still take the opportunity. \n\nHopefully in a few more years the job market for PhD students without a post-doc will get better but regardless, the jobs they get if not faculty positions will still be better than jobs doing nothing, hatefully. \n\nAlso, don\u2019t expect your underpaid post-docs and PhD students to work as if they were paid $100k or even $60k/year. All the ones I\u2019ve met kick ass and take names every day, go above and beyond the call for dedication to their projects. But please god don\u2019t expect them to worship their academic work as if it was their only love. We aren\u2019t being paid enough for the level of mental health disorder and stress we endure. I truly hope you are because faculty positions don\u2019t seem that much more relaxing either :)",
+      "author": "SkaffenAmtiskaw17",
+      "created": 1562643194,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "etccp1d": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etccp1d/",
+      "text": "These are very good arguments and that is why I am not planning to go to a grad school even though being a researcher-professor was my lifelong dream. It was very hard to give up on that dream.",
+      "author": null,
+      "created": 1562681611,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "etd6cqy": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etd6cqy/",
+      "text": "Thanks for putting that all together, it's a very compelling case and it will be useful to refer back to. \n\nIn answer to your question, I think that you've already demonstrated that you *are* acting in an ethical manner. You can and you should try to scare off those applicants who may not have realised the true state of the dire jobs market within academia. However, if you make all of that clear to them and they still choose to pursue graduate study and a career within academia, then that's up to them. For some people, the ability to work within academia is so intrinsically rewarding that it is still worth the long hours and comparatively low pay. Of course money is important, but some people are happy to eschew lucrative salaries in the private sector in favour of more meaningful work.",
+      "author": "BorisMalden",
+      "created": 1562700114,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "etbrehz": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etbrehz/",
+      "text": "So, you're applying for TT positions, even in the face of the stats you quote? Why are you pursuing this? Surely, according to your own reasoning, you should be doing something else?\n\nDon't you think, if you do land a TT job and end up with grad students, that they are going to ask \"why are you telling me to do the opposite of what you did?\" How effective is it likely to be to say to students \"do what I say, not what I did?\" We know even little kids learn much more from example than anything else.\n\nSurely the ethical thing is not to model behaviour you think is detrimental.\n\nOr, you know, assume that adults can make decisions for themselves, and maybe some of the factors that made you pursue this career also influence your students.",
+      "author": "Unicormfarts",
+      "created": 1562658260,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "etc25os": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etc25os/",
+      "text": "Train just these students who have the best chances for academic career (if you can estimate that well\\*), or train students in such ways that they can also get / start other jobs and help them with that (maintain connections with relevant people outside academia, let your students do internships, talk with your students about their career and life goals, support also more applied research and innovation towards patents / startups...), or both.\n\n\\*It can be tricky. My advisor tried that (as the latter isn't a realistic option with international students in our location). When I started my PhD, as far as he could determine I should have been a good academic/research career material (I am intelligent, I was already unusually good at writing and writing-related activities, I worked hard, I wasn't attached to any place or person and it's very unlikely I'd ever be...) - but then my research didn't give any high-impact results, he couldn't hire or keep people who'd be able to help me succeed, unfavorable changes happened in immigration policies of everywhere, etc.",
+      "author": "AstraGlacialia",
+      "created": 1562672693,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "etd6ure": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etd6ure/",
+      "text": "I am not an academic, but I can echo what my advisor told me:\n\nPeople keep signing up to do PhD's. You have to make sure they know about nonacademic career opportunities. If, despite knowing the risks of an academic career, they decide pursue am academic career, you have to honor their choice. They're adults making decisions about their own lives, and it is not anyone else's place to make those choices for them. Once they've made this choice, it is your obligation to train them and prepare them for an academic career as best as you can.",
+      "author": "webbed_feets",
+      "created": 1562700416,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "etfpkns": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/etfpkns/",
+      "text": "Careful now, this much reality in one post is likely to melt several delusional academics' faces off.",
+      "author": "Mythsterious",
+      "created": 1562774905,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eu1806o": {
+      "link": "/r/AskAcademia/comments/capi0c/how_can_we_ethically_justify_training_graduate/eu1806o/",
+      "text": "I have since left academia,  but I struggled with the same question.  I was teaching in an unaccredited program,  and I wrestled the ethics of taking on grad students and recruiting undergraduates.  \n\nI tried to get my grad students into other schools, and I did everything I could to get the program accredited - but to no avail.  \n\nUltimately,  I decided to leave academia.  I still do research,  but I do it on my own time.",
+      "author": "Truthislife13",
+      "created": 1563362289,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

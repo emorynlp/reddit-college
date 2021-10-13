@@ -1,0 +1,425 @@
+{
+  "sid": "o551bm",
+  "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/",
+  "title:": "How the hell do you enjoy reading papers?",
+  "text": "I am a STEM student about to go into his final year of undergrad. I have been reading scientific papers and conducting research since my first semester and while I have gotten *better* at reading papers, it still sucks SO much to do so. I do not know what it is. Every time I start reading a paper I get like a page in and my mind goes 'wow this is boring and it sucks' and I stop. I will all the time hear post-docs and my PI talk about how cool a paper was and I cannot fathom how they think so. To be perfectly clear, I think my research is amazing and I love learning. Lectures are my favorite thing but something about scientific papers just turns me off so hard. Does anyone else feel this way? Does anyone have tips on how to make papers more palatable?",
+  "author": "Majorhix",
+  "created": 1624308223,
+  "updated": 1634080554,
+  "over_18": false,
+  "upvotes": 251,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "h2kw9l0": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2kw9l0/",
+      "text": "Have you seen this: [https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)\n\nDoesn't quite answer the enjoyment / boring problem, but reading papers this way helped me get less bored when I was starting out. Not sure if your field does this too, but in Computer Science, many of the conference proceedings are online, so you can just watch the presentation instead, if you really don't want to read a paper.  \n\n\nFor me, enjoying reading research papers definitely took a while. The style of writing is usually dry and it takes some getting used to. And secondly, early on, I didn't understand a lot of what was written and that turned me off too. Once these issues were solved, things got better.",
+      "author": null,
+      "created": 1624309306,
+      "upvotes": 146,
+      "replies": {
+        "h2kxna5": {
+          "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2kxna5/",
+          "text": "I think the biggest problem is in the latter portion of your post, the prose is about as dry as death valley. I have tried a number of times to liven up my papers a bit as I loathe the way many are written (if I see another \"moreover\" I will slit my wrists), but often, as per journal style guides, one is left with little wiggle room.\n\nI find talking about papers and debate to be the way in which I most successfully engage. I also enjoy finding papers that closely relate to my own narrow field rather than going too broad. Of course, reading around is a necessity at times, but the more applicable, the more happy I am to delve in. I am also someone who reads primarily for cool methods and find methods papers to be the most interesting of all as they may allow me to play with something new in the lab! \ud83d\ude05",
+          "author": "Tortured_scientist",
+          "created": 1624309951,
+          "upvotes": 47,
+          "replies": {
+            "h2lkc46": {
+              "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2lkc46/",
+              "text": "> I have tried a number of times to liven up my papers a bit as I loathe the way many are written\n\nI\u2019m a bit torn on this. On the one hand you are right that a bit more creative and eloquent language would make papers more enjoyable to read. But that\u2019s kind of impossible to do while you\u2019re trying to appropriately hedge your claims with the proper scope and disclaimers.",
+              "author": "WhoCaresWhyBother",
+              "created": 1624321584,
+              "upvotes": 29,
+              "replies": {
+                "h2llc3n": {
+                  "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2llc3n/",
+                  "text": "Sure, for the scientific \"meat\" of the article this is definitely the case I agree. Introduction and discussion are, however, far more free form and speculative, so one can indulge a bit there.",
+                  "author": "Tortured_scientist",
+                  "created": 1624322125,
+                  "upvotes": 18,
+                  "replies": {}
+                },
+                "h2p0yvi": {
+                  "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2p0yvi/",
+                  "text": "> On the one hand you are right that a bit more creative and eloquent language would make papers more enjoyable to read.\n\nI think the problem is we have to do the opposite: use [simple English](https://en.wikipedia.org/wiki/Simple_English_Wikipedia) plus a consistent jargon. \"Eloquent and creative language\" would lead to a situation where you are simultaneously deciphering difficult concepts, often very abstract stuff, and also a complex text. If the text is as simple as possible, most of the time you will only have to deal with the actual complexity of the actual science in the paper.\n\nWhen I read older papers, esp. pre 70s, it's just too much work trying to parse sentences without forgetting the scientific concepts being talked about in there, and trying to get what the author intended to say. The reason a paper is boring is that we want to get to the science, but there's something preventing us from just getting it, not a lack of language with literary sophistication.\n\nAs a benefit, papers with simpler language are easier to digest for people working in L2 (and given how English has become the lingua franca of the internet and of science, most people are working in a second language), people with language related disabilities that otherwise do not have any impediment to their scientific capabilities, people just starting out with science (i.e. students, early career researchers), and peer reviewers/editors.\n\nI kinda wish there was an interdisciplinary \"English for Science\" style guide that could both be a goalpost for students/scientists who learn of English and a guide for authors of scientific written text.",
+                  "author": null,
+                  "created": 1624395445,
+                  "upvotes": 4,
+                  "replies": {}
+                },
+                "h2ogx05": {
+                  "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2ogx05/",
+                  "text": "No, it's not impossible to do. In fact, I'd say that you could probably do it more effectively without stilted academic writing. People hedge claims with scope and disclaimers every day without using the dry academic style (good examples are high-quality newsmagazines like *The Atlantic* and *Slate).*",
+                  "author": "roseofjuly",
+                  "created": 1624386476,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "h2ogt4y": {
+              "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2ogt4y/",
+              "text": "I'm going to be 100% and say this is one of the reasons I left academia. Obviously not at the top of the list, but it was there.  I *love* reading and writing - I write fiction in my spare time as a hobby, and I've taught writing classes to students of all ages in a volunteer capacity. I'm good at it. And I *hated* reading and especially writing academic papers. The jargon, the formulaic nature, the intentional exclusion of people without scientific backgrounds - ugh. It's bad writing, IMO.",
+              "author": "roseofjuly",
+              "created": 1624386428,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "h2nh6nv": {
+              "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2nh6nv/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1624370150,
+              "upvotes": 1,
+              "replies": {
+                "h2nrehi": {
+                  "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2nrehi/",
+                  "text": "Not just epidemiology, but some biology, chemistry, physics and general science journals also do the same. To be honest, I find the visual abstracts to be a bit hit-and-miss. Some can be very good, but inevitably, the more complex the paper, the more abstract and removed a simplified diagram becomes.",
+                  "author": "Tortured_scientist",
+                  "created": 1624375009,
+                  "upvotes": 1,
+                  "replies": {
+                    "h2nv11p": {
+                      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2nv11p/",
+                      "text": "[deleted]",
+                      "author": null,
+                      "created": 1624376659,
+                      "upvotes": 2,
+                      "replies": {
+                        "h2nw1x3": {
+                          "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2nw1x3/",
+                          "text": "Haha! That is very true! Though as I said, it really does depend. I spent a long time helping with visual abstracts for various papers and designing some myself, but I was never quite satisfied by them as too much nuance was lost. Perhaps you are right, though. Maybe I am bad at this!",
+                          "author": "Tortured_scientist",
+                          "created": 1624377120,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "h2nfq03": {
+          "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2nfq03/",
+          "text": "another thing I've noticed with CS papers, especially conference proceedings, is the quality of grammar varies *wildly*. Some papers read like they were just put through Google translate and not edited any further. Usually I don't even try with these but sometimes I can just tell there's an important morsel of information in there I have to suss out.",
+          "author": "5awaja",
+          "created": 1624369410,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h2kzfk7": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2kzfk7/",
+      "text": "It gets better when your research is really your own. Then you read papers because you want to know this new thing in your field. \n\nLike others said, scientific writing by nature should be concise and by extension bland. A well written article should still flow and make sense, however. The literary flourish, for those who have it, should be saved for reviews and such.",
+      "author": "eskuche",
+      "created": 1624310790,
+      "upvotes": 56,
+      "replies": {}
+    },
+    "h2kyxu4": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2kyxu4/",
+      "text": "Academic papers are interesting when their content is useful or brings insight. If you don't have a specific problem and your conceptual challenges don't lie at the edge of human knowledge (i.e., you're still digesting textbook knowledge), it's natural for your eyes to glaze over when reading tons of papers. (And the writing quality and results of the average paper aren't that impressive.)\n\nAs you gain experience\u2014especially if you tie yourself to one or several lines of research in grad school\u2014you'll tend to find certain papers much more interesting, because they'll contain content that you're deeply connected to.\n\nFor now, it might be useful to write down a question or two before skimming a group of papers. If one of them answers a question well, read it carefully and note it; you may end up citing it someday. This will probably increase your engagement.",
+      "author": "Chemomechanics",
+      "created": 1624310561,
+      "upvotes": 35,
+      "replies": {}
+    },
+    "h2lv61v": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2lv61v/",
+      "text": "As a research scientist, I bloody hate reading papers, even my own. I just force myself and hate every second.",
+      "author": "PersonalZebra8993",
+      "created": 1624327490,
+      "upvotes": 18,
+      "replies": {}
+    },
+    "h2kxy8h": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2kxy8h/",
+      "text": "Don't read linearly. Personally, I'll read abstract and conclusions first, then i'l maybe skim the introduction, glance at figures if present. Then, if I have to read, I read. If whether or not to read is a decision I have to make, that's the point where I decide if I read the whole thing or leave it at that, whether because the paper is bs or because it's not relevat to whatever I'm doing.\n\nWhen reading study design and methods, plus the statistics if relevant, avoid getting caught on details. Look for red flags instead, like multiple testing, weird ways of playing with data etc. If nothing seems off, or unless you're particularly intersted in the methodology, don't bother analysing stats in depth.\n\nFind a glossary for your discipline. E.g. in linguistics we have the Oxford Dictionary of Linguistics, Matthews 2003. Make sure you devise some way to quickly consult it. For key terms copy and paste their definitions in your reading notes so you don't have to consult the dictionary every time you encounter the term.\n\nWhen reading long, badly written sentences, it's useful to use different colours to highlight smaller, comprehensible parts of it so that you don't have to go back to where it starts and parse it 10 times to be able to read.\n\nUse something like a pomodoro timer to take breaks regularly. Drink a decent amount of water to stay hydrated, a dehydrated brain is like car that ran out of coolant liquid. I have a water bottle on my desk at all times, even when I'm having coffee as I read.\n\nFinally, as you're starting, papers are dense and hard, but as you learn more and more about your field and as core terminology becomes second nature, and as you learn more about methods, you'll feel more comfortable and reading will become way easier.\n\nHope that helps!",
+      "author": null,
+      "created": 1624310094,
+      "upvotes": 54,
+      "replies": {
+        "h2msthb": {
+          "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2msthb/",
+          "text": "Yes, i have been using the same technique, and it helps me a lot. Just read the abstract and conclusions, if not related to research, i will skip it.",
+          "author": "piqa1234",
+          "created": 1624352748,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "h2mvc43": {
+          "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2mvc43/",
+          "text": "Exactly, you have to think what you want to get out of the paper in the end, just methods or just conclusions or see who they're citing, etc. Reading the whole paper is only when it's intimately connected to your research.",
+          "author": "bluethirdworld",
+          "created": 1624355205,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "h2ohyr4": {
+          "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2ohyr4/",
+          "text": "Yeah, all of this. In fact, I would say most people don't \"read\" most academic papers so much as they skim them with varying levels of depth, and then perhaps actually read a few.",
+          "author": "roseofjuly",
+          "created": 1624386947,
+          "upvotes": 2,
+          "replies": {
+            "h2ov8le": {
+              "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2ov8le/",
+              "text": "The information in a paper is generally written with a discipline wide audience in mind. Not always explicitly, but the norms yield that sort of product. As you become more of an expert in your niche, you just don't need that info.\n\nE.g., I am doing a thesis in word stress. As I read more and more, I need to read the entire papers less and less. But if I read a discourse analysis study, I would have to read it all. I guess mostly the same if it was a phonetics professor instead of me.",
+              "author": null,
+              "created": 1624392849,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h2m1g6y": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2m1g6y/",
+      "text": "Usually when I talk about how \"good\" a paper is, I don't necessarily mean it's a riveting read the way a novel would be, but that the results are interesting or exciting. I definitely agree with people saying you should read it non-linearly. It's a different way of writing and should be a different way of reading. Usually I read the abstract and conclusion then look at the figures. Sometimes the intro if I'm not as familiar with the background. I'll then read the body carefully if it's a study I may want to replicate.",
+      "author": "esoterick0515",
+      "created": 1624331066,
+      "upvotes": 17,
+      "replies": {}
+    },
+    "h2kyvbc": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2kyvbc/",
+      "text": "I reckon I was well into my PhD before I started enjoying it. One of the final exams in my bachelor's was being given a random paper and critically assessing it and I found it torturous. I remember doing a journal club in my first year of PhD where I presented a paper and again, found it a real slog just to get through the thing, just like you describe.\n\nI think the switch flipped at some point when I started to become really familiar with the common research methods of my field and the way experiments are designed within it. At some point, as that kind of information moves from stuff you have to be consciously aware of to a kind of background knowledge in your brain, assessing papers becomes a breeze. You can very quickly pick up what they wanted to do, what they did to address it and their general results with a quick skim. Once that becomes second nature, the whole process of critically digesting a paper becomes a hell of a lot quicker, and once you start to get a real feel for how people are doing and reporting their research it can even become enjoyable.\n\nI think getting to that stage is partly down to experience - for me, it was hugely important to be surrounded by people doing research, observing them and the way the process worked. At some point, what I was seeing in the lab clicked with what I was reading in papers (and trying to implement in my work!) \n\nBut equally you can train yourself to get to know the truly important bits of papers. Try to pay close attention to the way experiments are designed and carried out - how the question is identified, what methods have been selected, and what information those methods can give. Take some papers in your area of research and try to practice breaking the papers down into these basic facts as quickly as possible - what was their research question? what methods did they use? what information did this give? and does their conclusion really match the information their methods were able to provide? Write a one sentence answer to these questions for a paper a day, or something like that. The first one will be a chore and take time.  But once you get used to identifying these crucial bits of information, stripping away everything else, you'll eventually be able to digest and critically assess a paper relatively quickly. And as soon as that part of it becomes less of a chore, you might even start to enjoy it!",
+      "author": "spinach1991",
+      "created": 1624310529,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "h2lgoil": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2lgoil/",
+      "text": "I don\u2019t. This is a job. Not every part of it needs to be enjoyable. I need to read papers to do my job well, so I read papers whether I like it or not.",
+      "author": "Aubenabee",
+      "created": 1624319596,
+      "upvotes": 21,
+      "replies": {}
+    },
+    "h2ma7vc": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2ma7vc/",
+      "text": "Going on a bit of a tangent, but take this experience as a good lesson on what to avoid when you are writing a paper. In my field (astrophysics), I have found older papers to be more pedagogical and fun to read as a result because the authors clearly thought about how the end-user might read their paper rather than as a way to just dump their results. \n\nI take all the dry and badly-written papers as a good reminder that I should try to be a better writer and make my papers more reader-friendly.",
+      "author": "cosmosis814",
+      "created": 1624336664,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h2l97u7": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2l97u7/",
+      "text": "You know what makes a really great paper and shows the writer really understands the topic? When a reasonably intelligent layman can read through it and get an understanding of the topic, why it\u2019s important, and what problem you\u2019re solving. They don\u2019t need to understand the intricacies and technical methodology reported as required for peer review, but they should understand the introductory overviews and summations, and most importantly should walk away with an understanding of why it matters.\n\nThese are the types of papers I like reading.",
+      "author": "H2Space",
+      "created": 1624315658,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "h2lu2qy": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2lu2qy/",
+      "text": "The more you read, the more you learn about the field as a whole and the easier it gets to read and understand new contributions with less effort. At that point reading new literature become more fun because it doesn\u2019t always seem like a heavy mental lift, you\u2019re just adding a pebble to the beach.",
+      "author": "eggplant_wizard12",
+      "created": 1624326888,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h2m50mm": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2m50mm/",
+      "text": "Reading papers is more interesting when you have something you\u2019re looking for or an idea you\u2019d like to back up or debunk. Typically this happens when you are well within a field and you are synthesizing new research questions or backing up your own findings. I recommend asking yourself \u201cwhat do I want to get out of this paper?\u201d before you start reading it. It could be some small fact about the way something works or a brand new understanding of a common phenomena. This way, you are always reading with an inquisitive purpose.",
+      "author": "coffeebeforebed_",
+      "created": 1624333227,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h2mi1ga": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2mi1ga/",
+      "text": "It's not about enjoyment - scientists for the most part don't read papers for entertainment. It's about being hungry for the knowledge contained in them. It's like reading a menu at a restaurant - every line is imbued with the possibility of the dish you might order. No one reads a menu just for the sake of it. It's fine not to desperately enjoy this process at undergrad - but with time it will come if you're passionate about the topic.",
+      "author": "DrinkingAtQuarks",
+      "created": 1624342640,
+      "upvotes": 3,
+      "replies": {
+        "h2mqepg": {
+          "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2mqepg/",
+          "text": "That\u2019s a good analogy, no one is going to get excited about a Creme br\u00fbl\u00e9e before they know what one is.",
+          "author": "PristineAnt9",
+          "created": 1624350357,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h2luof7": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2luof7/",
+      "text": "Happens over time. I'm able to sort of skim my eyes over bits like historical precedent and significance statements. Typically I read the abstract them go to the methods. If the methods are crap I don't need to continue. If they are good I read the results, scan the intro, then read the conclusion.",
+      "author": "Pr0gr3s",
+      "created": 1624327217,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h2lxrkn": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2lxrkn/",
+      "text": "you don't have a question or problem in mind. usually when we look at a paper, we want to find for example the concentration of a reagent that they used, or how did they cure the disease in the animal, what type of animal was it and how long did they live extra etc.   \n\n\nAs soon as I get the answer to that question I just move on, its just a quick glance 3-5mins. \n\nYou don't have to read the whole thing, I know ur feeling to try to push thru the introduction and methods of the paper, usually I don't read the introduction, since its all fluff, I only read intro if its the first time in a brand new topic. Don't feel the need to read everything, just find what you need and move on, this will make it way easier.",
+      "author": "CheeseCakeFestival",
+      "created": 1624328950,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h2mh9cz": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2mh9cz/",
+      "text": "Read them with a particular question in mind (e.g. how will this paper help me to X?) This will help you focus on stuff that is directly relevant for you and therefore less boring. You will also be inclined to skip or quick-scan boring parts that are clearly not relevant for your question.",
+      "author": "ColourlessGreenIdeas",
+      "created": 1624341976,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h2mnn4j": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2mnn4j/",
+      "text": "Not every research paper is enjoyable to read, and it depends a lot on the authors and their style of writing.\n\nI read tons of papers but not necessarily linearly. I am more able to appreciate a research paper if it is related to my research or some topics that I follow - it's about the rationale and concept of their studies, how original or mind blowing are their research questions, how clever or careful is their research design, and the methods and techniques they employed or invented to tackle the specific conditions, and sometimes how their interpretations of data making sense of not only their results but the whole phenomenon in a field of research. Perhaps we can see that the advancement of a topic in a field of research as a novel, and papers as their chapters, e.g. a few pioneers found the field with their papers about some discovery, some follow-up papers related to the clarification and explanation of some observations, some review papers talking about the core controversy in the field and the different schools of thought, and some revisits of these topics to shed some new light on the unanswered questions with new state of the art technology or discovery in other fields. These are like open-ended novels, from joint efforts of writers with different styles and in different writing proficiency. \n\nI rarely finish a novel as soon as there is anything illogical or mixed up with previous chapters that made my understanding of the story difficult, just look at how good a job D&D have done to end the Game of Thrones... But following exciting research topics are like reading great chronicles, and they are always some \"good read\" - the key is not in the writing but to follow their research.",
+      "author": "Himmenuhin",
+      "created": 1624347646,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h2n6qc4": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2n6qc4/",
+      "text": "When it is something you care about, it is fascinating.",
+      "author": "Depressaccount",
+      "created": 1624364322,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h2n7bv5": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2n7bv5/",
+      "text": "I find that reading papers are what gives me ideas in the long run. My research ideas are born from reading 25 closely related papers and noticing both a gap and a way to tackle the problem.\n\nAlso, I used to read papers and have no idea what to expect, and now I read a paper and usually at least have a guess. Reading papers is exciting once you can see the title and be able to make an educated guess about the result! \n\n(This might just be relevant for my subfield of theoretical statistics)\n\n(Also I'm just a nerd)",
+      "author": "picardIteration",
+      "created": 1624364695,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h2o3oa0": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2o3oa0/",
+      "text": "As others have said, learning to read a paper sort of non-linearly is really important. Read the abstract, then the first and last paragraphs of the discussion, then the sections you're interested in (i.e. you might be reading it \"for the methods\" if you're designing an experiment or \"for the results\" if you're reading a brand new paper).\n\nSince you're in STEM, allow me to direct you to the wonderful world of review articles! A well-written review is like a guide for what's important to get out of primary research papers. They're kind of like a halfway point between the research paper, where the authors are describing new findings, and textbooks/lectures which use only the best-supported work but might not be up-to-date. They tend to be more didactically written and will orient you to the terms and techniques so later you can look at a methods section or figures and have an idea of what the authors are trying to say. I was fortunate to join my lab shortly after my PI had written a great review of work in our field for the last 20 years, and it was a fantastic starting point for finding papers and getting the useful information out of them.",
+      "author": "Kittens-and-Vinyl",
+      "created": 1624380550,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h2lhelz": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2lhelz/",
+      "text": "Enjoy what you are researching or don\u2019t bother with research as all\u2026",
+      "author": "_mippi",
+      "created": 1624319988,
+      "upvotes": 5,
+      "replies": {
+        "h2m4oxp": {
+          "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2m4oxp/",
+          "text": "I dunno why you are being downvoted.\n\nAcademia and research probably need their candidates to be constantly reading and if he finds it boring it isn't a good sign of how much he enjoys his work.\n\nI hope he somehow develops an appetite for it.",
+          "author": "ohdearmyrhinitis",
+          "created": 1624333027,
+          "upvotes": 6,
+          "replies": {
+            "h2p2fgv": {
+              "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2p2fgv/",
+              "text": "> I dunno why you are being downvoted.\n\nBecause it's unconstructive irrelevant gatekeep-y nonsense? The OP says they have a hard time reading papers. That is not \"not enjoying research\". That's part they don't have the skills to easily digest papers yet, and part some authors are totally shit at writing comprehensible text. The OP came here for advice, not unsolicited and wrong psychoanalyses.",
+              "author": null,
+              "created": 1624396126,
+              "upvotes": 0,
+              "replies": {}
+            }
+          }
+        },
+        "h2mdsop": {
+          "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2mdsop/",
+          "text": "I don't know why this answer isn't higher up. I'm a human like what I assume everyone else here is, and I enjoy reading papers when the content is interesting and hate it when the content isn't. Sometimes there are important papers that I don't particularly find interesting that I read anyway, but if you're constantly not enjoying reading, that's probably a sign that you should switch fields to something you like more.",
+          "author": "Mezmorizor",
+          "created": 1624339254,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "h2lt022": {
+          "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2lt022/",
+          "text": "Yeah, I hate to say this but if you dont enjoy reading research papers then maybe science isnt for you...",
+          "author": "PM_ME_GRANT_PROPOSAL",
+          "created": 1624326302,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h2m0ct5": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2m0ct5/",
+      "text": "As mentioned a few times here, don't read up and down. Read the results, then ask question, then try to find the answers to the questions in the paper.",
+      "author": "KingofSheepX",
+      "created": 1624330412,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h2m2jnp": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2m2jnp/",
+      "text": "I itemize/list out thier assertions that they flowerize in the abstract and then dive in to the last paragraph of the intro (unless I need more preamble) to kick of the \"prove-it\" section (aka results)...this turns it more in to a critical-thinking read so my brain is engaged. Try reading with presentation of the paper in mind also works to engage...nothing like the fear of sounding like an idiot to make sure you \"investigate\" everything they say.",
+      "author": "adequateScienceDoer",
+      "created": 1624331731,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h2mj26l": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2mj26l/",
+      "text": "Most papers are not worth reading. It helps to learn to distinguish the ones that are.",
+      "author": "CaptainCornerCamper",
+      "created": 1624343518,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h2ml7bz": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2ml7bz/",
+      "text": "Like others mentioned, the key for me is reading with a question in mind. It\u2019s like if you\u2019ve ever gone down a chain of wiki articles. You don\u2019t read every part from start to finish, you have a particular thing that interests you and you want to know the answer. You read as little of the article as possible to understand and answer the question you\u2019re interested in. Often it only partially answers the question then you find related articles with the other details you want to know. If you don\u2019t care about the topic to begin with then there\u2019s no reason to read the article either. If you\u2019re still taking classes where the papers are forced on you then you just have to do it and it will be tortuous. But later on it\u2019s for your own benefit because you\u2019re trying to figure something out for your own research, or you\u2019re just curious about a topic.",
+      "author": "Memeophile",
+      "created": 1624345396,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h2mppbs": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2mppbs/",
+      "text": "I started enjoying reading papers in my postdoc. Once I got so familiar with my fields, its challenges and technical limitations I would go: \"ok what is their question? What is their main conclusion? How did they answer the question?\". I read the end of introduction to catch their hypothesis, then have a quick look at the method to see if they do something weird or close to the standards of the field, then look more deeper at the figures and read the result if there is something I don't understand. Finally I would read the discussion thoroughly to see how they place themselves in the scientific consensus and what they plan to do next.\nI would also advise to focus on very high quality journals first, as you would ask yourself less frequently \"'what the fuck is this?\"",
+      "author": "LeatherDeer3908",
+      "created": 1624349673,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h2n091e": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2n091e/",
+      "text": "I'm a fucking nerd\nSometimes it sucks tho",
+      "author": "pranavnandedkar",
+      "created": 1624359627,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h2n8srw": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2n8srw/",
+      "text": "redacted",
+      "author": "zen_arcade",
+      "created": 1624365588,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h2nckaj": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2nckaj/",
+      "text": "I don't lol. I do it because it's part of my job, much like I do other unpleasant things that are part of my job, such as filling out administrative forms, answering emails and being polite to asshole colleagues. Working several shitty low-paying positions as a young person that I fought tooth and nail to get helped me to internalize the notion that having to do tasks I don't like doesn't make the whole job bad.",
+      "author": "thegreenaquarium",
+      "created": 1624367734,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h2nedpe": {
+      "link": "/r/AskAcademia/comments/o551bm/how_the_hell_do_you_enjoy_reading_papers/h2nedpe/",
+      "text": "Applicable only to math papers: \n\n> Read the main theorems directly. If it interests you, or applicable to you, then only you read the proof to learn the tools they used to solve it.",
+      "author": "advanced-DnD",
+      "created": 1624368709,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

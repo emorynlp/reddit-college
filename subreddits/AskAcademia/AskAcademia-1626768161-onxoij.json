@@ -1,0 +1,81 @@
+{
+  "sid": "onxoij",
+  "link": "/r/AskAcademia/comments/onxoij/question_reputed_journal_is_considering_our/",
+  "title:": "[Question] Reputed journal is considering our pre-print on Arxiv as already published article",
+  "text": "Hello,\n\nI am new to academic publishing. We recently posted our original research article with experiments, source code on Arixv pre-print server and submitted to reputed to journal house for publication. \n\nHowever, the editor of the journal is saying there is an overlap with already published article (ours on Arxiv). While the journal website says they encourage posting on pre-print sites, how come  editor is rejecting our paper on this basis? Did I misunderstood whole pre-print process and implications?\n\nCan you help resolve this confusion?\n\nThanks.",
+  "author": "amirninja",
+  "created": 1626768161,
+  "updated": 1634082489,
+  "over_18": false,
+  "upvotes": 8,
+  "upvote_ratio": 0.84,
+  "comments": {
+    "h5uqrz4": {
+      "link": "/r/AskAcademia/comments/onxoij/question_reputed_journal_is_considering_our/h5uqrz4/",
+      "text": "Sounds really dumb to me. Not sure there's much you can do other than point out the policy to the editor and ask what you misunderstood. It doesn't seem like you did anything wrong though.",
+      "author": "Radiant-Tax",
+      "created": 1626769871,
+      "upvotes": 24,
+      "replies": {}
+    },
+    "h5urke9": {
+      "link": "/r/AskAcademia/comments/onxoij/question_reputed_journal_is_considering_our/h5urke9/",
+      "text": "You are good.  They might be using a software (my journal has iThenticate), and it will get highlighted - I need to check carefully to see if it is an online pre-print.  \n\nJust an email to the Editor should do the trick, pointing out that it is a preprint, and allowed by the journal rules..",
+      "author": "Life_time_learner",
+      "created": 1626770600,
+      "upvotes": 15,
+      "replies": {
+        "h5uzpmt": {
+          "link": "/r/AskAcademia/comments/onxoij/question_reputed_journal_is_considering_our/h5uzpmt/",
+          "text": "Yes it looks like pre-print was highlighted in an automated online scan.\n\nWe emailed with details about our pre-print however it didn't help, editor still rejected it with same overlap reason.  \n\nWe are now going to submit to another journal hopefully they don't object to paper pre-print.\n\nThanks for your replies, may be bad luck with this one journal.",
+          "author": "amirninja",
+          "created": 1626777814,
+          "upvotes": 3,
+          "replies": {
+            "h5v1sxw": {
+              "link": "/r/AskAcademia/comments/onxoij/question_reputed_journal_is_considering_our/h5v1sxw/",
+              "text": "That is crazy.  Personally i would drop an email to the editor in chief asking for clarification for future reference.",
+              "author": "Life_time_learner",
+              "created": 1626779457,
+              "upvotes": 20,
+              "replies": {}
+            },
+            "h5v5c9u": {
+              "link": "/r/AskAcademia/comments/onxoij/question_reputed_journal_is_considering_our/h5v5c9u/",
+              "text": "> We emailed with details about our pre-print however it didn't help, editor still rejected it with same overlap reason. \n\nI'd definitely clarify this with the editor-in-chief. Some journals blacklist authors whom they suspect of plagiarism.",
+              "author": "notadoctor123",
+              "created": 1626781961,
+              "upvotes": 16,
+              "replies": {
+                "h5v72d7": {
+                  "link": "/r/AskAcademia/comments/onxoij/question_reputed_journal_is_considering_our/h5v72d7/",
+                  "text": "That's a good point. Didn't think about that.",
+                  "author": "amirninja",
+                  "created": 1626783093,
+                  "upvotes": 7,
+                  "replies": {}
+                }
+              }
+            },
+            "h5v2mst": {
+              "link": "/r/AskAcademia/comments/onxoij/question_reputed_journal_is_considering_our/h5v2mst/",
+              "text": "This is wrong, they should allow it. The only thing I can think of is were you required to declare any pre-prints during submission, but didn't?\n\nIf you're really keen to publish in the journal escalate it. Otherwise move onto the next submission.",
+              "author": "Kiss_It_Goodbyeee",
+              "created": 1626780078,
+              "upvotes": 11,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5ytous": {
+      "link": "/r/AskAcademia/comments/onxoij/question_reputed_journal_is_considering_our/h5ytous/",
+      "text": "It can't really be a reputed journal. Preprints have caught such a pace that journals like Science, Nature, PNAS, etc. take manuscripts that are on preprints repositories\\*, even tho legally they are indeed 'publications'. Society journals like Royal Society, society of mathematical biology etc. also acept them. So if the journal you're submitting to does not take preprints on the arXiv... I'd say submit to a better journal.\n\n&#x200B;\n\n\\*Not all of them, as there are for-profit (and weird) archives like peerJ or the one from Springer Nature (roundtable?). arXiv is definitely not one of these and often named explicitly along with biorXiv and similar in journals as non-problematic repository.",
+      "author": "g33ksc13nt1st",
+      "created": 1626843781,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

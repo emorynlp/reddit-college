@@ -1,0 +1,74 @@
+{
+  "sid": "oucqlt",
+  "link": "/r/AskAcademia/comments/oucqlt/i_am_worried_about_what_my_advisors_might_do_to_me/",
+  "title:": "I am worried about what my advisors might do to me",
+  "text": "Warning. This is a long story. \n\nI have two chairs, one junior and one senior. So my school is a top school in it's field and most graduates go into academia. When I told my advisors that I was going into industry last year, they didn\u2019t like the decision and I think that\u2019s when things started. \n\nI wanted to take an internship during my last year after I finish my dissertation and they demanded that I need to see the paper through revision and publication. Otherwise they wouldn't let me take an internship. I was made to believe that I need to publish my dissertation in order to graduate,which was not the case. I was able to finish the paper. \n\nDuring my internship (this is after I defended and passed) we need to revise the paper for publication. They got very unhappy that I was too slow with revision while I was juggling interviewing and my internship. I said let's get another co-author (at this point the paper was 95% done) to run some robustness tests. They rejected and put me as second author and put the junior chair as the first author. I though this is how things works and I am afraid they will take away my degree and give me a hard time to graduate, so I had to say yes. After that I shared everything I had worked on for the paper (code , data etc) and answered questions that junior chair has about my code. She submitted the paper as the first author. \n\nI thought that was the end of it until another revision round came. The junior faculty now claims that my code does not work for her and she cannot do revision work. Truth is she not only didn't tell me what's the issue when I asked her but also didn't seem to open the code at all. She kept asking where are things but I already answered those months ago. She claimed that only I can do the revision work because she cannot replicate my results. Senior faculty believed her that there's something wrong with my code and said \"replication issue is a problem for both the publication and degree\". I have tons of proof that my code works and I have log files from servers to show that I didnt make any results up. I got really pissed and afraid at the same time that they are using my degree to threaten me. \n\n\nI am going to have a conversation with my PhD office about this. I am also worried about my degree and my reputation as my senior faculty said she will work with someone in my current company. Months after I graduate I still feel I am being taken advantage of.",
+  "author": "polebear1128",
+  "created": 1627615538,
+  "updated": 1634082391,
+  "over_18": false,
+  "upvotes": 7,
+  "upvote_ratio": 0.9,
+  "comments": {
+    "h71jclx": {
+      "link": "/r/AskAcademia/comments/oucqlt/i_am_worried_about_what_my_advisors_might_do_to_me/h71jclx/",
+      "text": "Plot twist: Your junior chair doesn\u2019t know how to code. \ud83d\ude31",
+      "author": null,
+      "created": 1627616398,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "h729gjr": {
+      "link": "/r/AskAcademia/comments/oucqlt/i_am_worried_about_what_my_advisors_might_do_to_me/h729gjr/",
+      "text": "It's a bit unclear what stage you're at but it sounds like you've passed your defence and are waiting to graduate. There's very little they can do to you, other than maliciously launch an academic misconduct case against you which they're unlikely to do because it would mean ditching all the research and they would be included in the fall out for failing to supervise you. Being linked to academic misconduct is highly damaging even if you had nothing to do with it. \n\nI think you're largely home and dry at this point. It doesn't sound like you're very invested in this paper so I would personally spin this out until graduation to keep them as happy as possible without doing more than a minimum and then cut them loose the moment you have that paper in your hand. The graduation is nothing to do with them and the paperwork is probably already on its way to central admin. Revoking a degree is a massive big deal and they haven't the grounds and they won't go through with it. They're scaring you.\n\nETA rereading this I think you may have actually graduated? In that case cut them off. They're playing you and you're falling for it. A good employer is going to recognise when some one is playing games and they're not going to fire you just because a senior academic who doesn't work for them has beef. Leave this nonsense behind and focus on your job. Your best protection is being excellent at your new job. You can't do that if you're using up mental capacity on your old job.",
+      "author": "ACatGod",
+      "created": 1627635406,
+      "upvotes": 6,
+      "replies": {
+        "h72q9g0": {
+          "link": "/r/AskAcademia/comments/oucqlt/i_am_worried_about_what_my_advisors_might_do_to_me/h72q9g0/",
+          "text": "Thank you for the kind words and sorry for not being clear in my description, I graduated already. \n\nI will often reminds myself that I have this new job that is really like and I really wanted. I have to put more time on my job than answering long emails with malicious people. Thank you l!!",
+          "author": "polebear1128",
+          "created": 1627648206,
+          "upvotes": 2,
+          "replies": {
+            "h730j3c": {
+              "link": "/r/AskAcademia/comments/oucqlt/i_am_worried_about_what_my_advisors_might_do_to_me/h730j3c/",
+              "text": "Ah screw em then. They're manipulating you and using their seniority to scare you into doing what they want. You've already beaten them - you got the degree and the job, go enjoy your success! \n\nCompanies can be bad employers, and managers can be shitty managers but a good company knows that recruitment costs a lot of money and hiring good people is difficult. You don't fire good people just because a collaborator is an arse and doesn't like someone. Furthermore, you're surrounded by PhDs who quit academia - they all know. They aren't firing someone because they didn't finish their paper from their PhD with their whackadoodle supervisor. Furthermore, if your supervisor focuses more on you than on the collaboration they're going to get very tired of it, very quickly and the value of the collaboration will vanish. \n\nLive your best life, you're winning!",
+              "author": "ACatGod",
+              "created": 1627653504,
+              "upvotes": 3,
+              "replies": {
+                "h73cb3x": {
+                  "link": "/r/AskAcademia/comments/oucqlt/i_am_worried_about_what_my_advisors_might_do_to_me/h73cb3x/",
+                  "text": "Thank you and wow that makes so much sense. I am indeed surrounded by people who quit academia and i already communicated my situation to my boss. She knows my department and she\u2019s super understanding. I think sometimes I just forget that I am not a student any more. Thank you again \ud83d\ude4f\ud83d\ude4f",
+                  "author": "polebear1128",
+                  "created": 1627658809,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h7221sk": {
+      "link": "/r/AskAcademia/comments/oucqlt/i_am_worried_about_what_my_advisors_might_do_to_me/h7221sk/",
+      "text": "I don't think failing to replicate a PhD holder that already graduated is ground for revoking of degree. The junior faculty could have failed to replicate the experiment for all sorts of reasons, and it would be very strange/sketchy if you could be forced to do the revision. I think talking to the PhD office/Graduate Studies office about this might be a good idea.",
+      "author": "colddarkstar",
+      "created": 1627629008,
+      "upvotes": 4,
+      "replies": {
+        "h72qtrx": {
+          "link": "/r/AskAcademia/comments/oucqlt/i_am_worried_about_what_my_advisors_might_do_to_me/h72qtrx/",
+          "text": "Thank you and as we are in social science I heard people say the same thing about replication. Plus I have proof that my results are replicable so I don\u2019t believe the replication issue. I believe it\u2019s \u201cyour code is too complicated and I don\u2019t know how to work it. Since you already worked on it why don\u2019t you keep doing it\u201d issue. \n\nI will definitely check that out with the office.\n\nEdited for typo",
+          "author": "polebear1128",
+          "created": 1627648527,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

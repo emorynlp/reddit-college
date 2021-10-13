@@ -1,0 +1,57 @@
+{
+  "sid": "pzyzpo",
+  "link": "/r/AskAcademia/comments/pzyzpo/conflicts_of_interest_when_also_working_in/",
+  "title:": "Conflicts of interest when also working in industry",
+  "text": "Thank you to all of the students, staff, faculty, and admin who help out in this sub. I'm constantly in strange situations, so I find this sub incredibly useful!\n\nI plan on setting up a meeting with the appropriate person soon, but I'd like to know about others who have financial conflicts of interest where they publish research at both. Do you have some standard text that you include somewhere in the paper? Do you ever use both affiliations?  \n\nI am a research scientist on campus that also works part-time at a tech company related to my research and need to have a game plan for navigating this. So far I've been careful to use the appropriate affiliation, not use the University's resources (internet, office, laptop, time) for the company and vice versa, and indicate when I have financial conflicts of interest. There is less process for me because I've actually reduced my hours to ~50% at each job, as opposed to staying full salaried at the University where there'd be more process.\n\nI'm curious what this actually looks like for others in my situation. Thanks!",
+  "author": "a-perpetual-novice",
+  "created": 1633194009,
+  "updated": 1634078786,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hf53lax": {
+      "link": "/r/AskAcademia/comments/pzyzpo/conflicts_of_interest_when_also_working_in/hf53lax/",
+      "text": "I'm not quite sure what exactly you're asking but in terms of publishing you have to declare CoI to the journal when you submit - it's usually just a line that says \"ACatGod is a paid consultant for Big Cat Food\". The journal will then decide if this conflict is sufficient that it undermines the validity of your findings eg Cat food from big cat food is the best brand on the market or whether the finding stands (pending peer review) eg Cats need cat food, and will then include the line, usually in the funding section. \n\nIf the work was funded by both then you should declare both affiliations. If the work was funded by one but you are primarily based at the other you should list the former as your affiliation and the latter as your current address. If one has nothing to do with the paper, don't list it as an affiliation but if it's a company you list it as a CoI.",
+      "author": "ACatGod",
+      "created": 1633207483,
+      "upvotes": 4,
+      "replies": {
+        "hf5i84a": {
+          "link": "/r/AskAcademia/comments/pzyzpo/conflicts_of_interest_when_also_working_in/hf5i84a/",
+          "text": "Thanks! This is helpful.",
+          "author": "a-perpetual-novice",
+          "created": 1633213898,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hf5fvsw": {
+      "link": "/r/AskAcademia/comments/pzyzpo/conflicts_of_interest_when_also_working_in/hf5fvsw/",
+      "text": "I advise researchers about this kind of thing as part of my job.  I do not mandate specific wording, as what\u2019s appropriate/typical seems to vary a bit from field to field and journal to journal.  I advise my researchers keep an eye out for examples of how others in the journals they publish in disclose conflicts, and model their disclosures after other similar ones.\n\nThe main thing I counsel people in your situation about is scoping their work at each place carefully.  You say that your tech company work is related to your research, and that can get sticky fast.  You really want to have a very clear division between the two so that it\u2019s very clear what intellectual property belongs where.  Maybe you tackle certain research questions or fields of use or technologies at one place but never at the other, or maybe you do all fundamental research at the university and only do non-research work-for-hire at the company.  There are a lot of different ways to slice it up.  But I tell my folks to make that distinction clear early to both sides and then to evaluate each new project against that distinction to be sure they are doing the work in the right place.  You do not want to find yourself in a meeting with a bunch of university lawyers who think you\u2019ve inappropriately used university IP for a private company\u2019s benefit.",
+      "author": "Amaranthesque",
+      "created": 1633212877,
+      "upvotes": 2,
+      "replies": {
+        "hf5i1jb": {
+          "link": "/r/AskAcademia/comments/pzyzpo/conflicts_of_interest_when_also_working_in/hf5i1jb/",
+          "text": "Thank you! I have scoped my work separately at the two and believe I've stayed faithful to that. I probably need to revisit this since I'm finding the startup work interesting and wish I could expand on that in my academic work.\n\nMy field (computer science, machine learning) is a bit fast and loose with everything, so not only are journal articles rare in general but I feel like there's not as much guidance as other publications. The plus is that they are a lot of people with feet on either side, so I'll pick some of my favorite examples to put forward as options.",
+          "author": "a-perpetual-novice",
+          "created": 1633213819,
+          "upvotes": 1,
+          "replies": {
+            "hfc8col": {
+              "link": "/r/AskAcademia/comments/pzyzpo/conflicts_of_interest_when_also_working_in/hfc8col/",
+              "text": "You have a chance to set a good example by being candid and precise.\n\nYou never see \"BigCatFood paid for this study and specified the parameters so that their brand would be superior.\"\n\nIt would be nice to see \"BigCatFood paid for this study with the request that the investigators test how much of ingredient X is necessary for good cat health. The investigators designed, carried out and wrote up the research without further consultation.\"\n\nThat's better than the dubious claim that \"BigCatFood paid for this study but had no infuence on the research.\"",
+              "author": "DrTonyTiger",
+              "created": 1633347349,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

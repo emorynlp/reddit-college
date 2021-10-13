@@ -1,0 +1,276 @@
+{
+  "sid": "og3lmc",
+  "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/",
+  "title:": "[Request for Feedback] I built an academic literature search engine/exploration tool.",
+  "text": "A couple months ago I released my free/open academic literature search engine, [Inciteful.xyz](https://Inciteful.xyz). Long story short I am a computer engineer with wide ranging interests and not an academic and so would love feedback from real academics who think about this day in and day out :)\u00a0 \n\nAt its core Inciteful uses citations to enable the user to explore and discover academic literature.\u00a0 Currently there are two different tools.\u00a0 The first tool is what I call the \"[Paper Discovery](https://inciteful.xyz/p)\" tool.\u00a0 With this tool you begin the search with a seed paper or group of papers (you can upload a bibtex file). Then it builds a network of papers based on citations and runs a series of graph network analysis algorithms against it to recommend similar articles, important articles, prominent authors, institutions, journals etc.\u00a0 From there you can iteratively add new papers to your search, this makes the search more targeted and your results more interesting.\u00a0 After you are done, you can export all of the results into a bibtex file for future reference.\u00a0\n\nThe second tool, which I just released yesterday, is what I am calling the \"[Literature Connector](https://inciteful.xyz/c)\".\u00a0 With this tool, you enter two papers and it gives you an interactive visualization on how the two papers are connected.\u00a0 From here you can filter the papers, view common keywords, etc.\u00a0 What differentiates this tool is its ability to quickly construct the graph, allowing for rapid feedback to the user and a more pleasant interactive experience.\u00a0 The papers you discover here can be used as the seed for a Paper Discovery search.\u00a0 \n\nWhen doing research you often stumble across a few different papers that seem interesting but don't seem to directly talk to one another in the literature. Closing these gaps and connecting disparate ideas are often the places where you can make a significant contribution to your field.  It's also great for interdisciplinary research! \n\nInciteful was built off the backs of free and open metadata (from Microsoft Academic, Crossref, OpenCitations, and others) and I am paying it forward by doing the same with Inciteful.\u00a0 So anyone, anywhere can use it whenever they wish.\u00a0 Also, if you like the tool, please tell your friends as that is the best way your can help! \n\nI'm actively working on it so if anyone has any feedback, please just send me a message! Thanks!",
+  "author": "inciteful-xyz",
+  "created": 1625735711,
+  "updated": 1634081482,
+  "over_18": false,
+  "upvotes": 124,
+  "upvote_ratio": 0.96,
+  "comments": {
+    "h4gtu2b": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4gtu2b/",
+      "text": "This is a fun tool. Won't replace my library's engine or google scholar, but showed me some papers with similar citations to my own that I didn't know; I'll definitely be checking them out!",
+      "author": "CruxAveSpesUnica",
+      "created": 1625748049,
+      "upvotes": 16,
+      "replies": {}
+    },
+    "h4h31qq": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4h31qq/",
+      "text": "That's a really neat tool! Being able to visualise with graphs is extremely powerful, but I'm wondering if people outside of IT (and a chunk of STEM) would feel the same about graphs?\n\nI think adding a small sticky feedback form at the bottom of your website (like just a message field+ an optional email field) would facilitate your feedback collection a lot, as it would nudge people to express themselves on the run. Also maybe providing an initial sample of DOI's to visualise the functionalities of the tool even faster for a first-time visitor, without the need to personally go through one's papers to take a random sample just to try it out (we're also not expecting the bars to propose suggestions as we're typing, so most users would think that they have to go through the process of copy/paste).\n\nAs for the graphs, I think it would be a bit more intuitive if they were explicitly directed (i.e. to know which paper is citing the other).\n\nFor the performances, you may be over-worrying about the speed of your graphs generation. For academics specially, I feel like they are not too demanding in terms of real-time outputting because they're just used to being patient in front of systems, take for instance plagiarism detection tools. I think it would also spur some implicit doubt if results were immediate, and it would make the experience feel like we're just browsing through a pre-built database, negating all the work that is actually happening under the hood. In other words, I believe that your tool's context is a bit far from requiring extremely fast processing and it's doing really great now! hats to you.\n\nThe frontend is dazzling <3 what framework is this built with? as for the UX, I did personally not encounter any bugs, but as a random user, the only issue is that I feel a bit lost when I get the graph and see so many tables while having a hard time to link them with what's on the graph. I think it may help if the tables were in a single tabbed parent component (so that we can know exactly what table we're looking at, and we wouldn't have to scroll that far for the tables at the bottom. Finally, a walkthrough video (maybe even on the front-page, or a popup, or anything) would go a long way in guiding your users. So for me the only challenge really is in the native interpretability of what's presented (without going through the docs and FAQs and all).\n\nOn the About page, you're stating that you're reluctant about the idea of charging for the service because your data source was free. Why though? the level of transformation and parsing you're applying on that data is well too elaborate for \"Inciteful\" to be just that data you collected. You wouldn't be selling that data, but the operations you're applying on them so personally I don't think there would be any issue with you monetising your project some way or another, maybe not at this point if you're trying to grow your user-base, but it is definitely worth its cashflow (this category of tools usually offer a limited subset of the results, with the rest being behind a paywall). Even if just to make this project self-sufficient. 6000$ per year + all the time you're putting into it is quite a hefty sum for something you're managing on your own. You're ought to have more confidence in what you built, it's really huge, you just need to package it properly for the public's eyes!\n\nThis is definitely not the small project, can you share a bit of your experience, how you went through it and how the tech-stack you're using evolved through time (and your current tech-stack too if that's not too much asked)? (I'm into computer engineering too, that's why i'm interested in this kind of details x))",
+      "author": "Meaveready",
+      "created": 1625752913,
+      "upvotes": 13,
+      "replies": {
+        "h4ik61e": {
+          "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4ik61e/",
+          "text": "Thanks a ton for taking the time to provide so much feedback!  I'll try to respond to what I can here.  \n\n1) There has been some good feedback here about how best to present the tool to users who are new to the platform and/or have different expectations than I do.  I like the ideas of sample DOI's, examples and videos to introduce the user more gradually rather than just dumping them into the tool.  \n\n2) Your comment about differing expectations for performances is a good one.  Insights like this are why it's always good to hear from your end user :) \n\n3) The underlying tech stack is a combination of [Vue](https://vuejs.org/) and [Rust.](https://www.rust-lang.org/)  The main front-end interactivity is done with Vue, the styling is done with [Tailwind](https://tailwindcss.com/), the graph visualizations are done with [Cytoscape.js](https://js.cytoscape.org/) and the back-end API is Rust.  If you really want to get into the nitty gritty then you should read [this post](https://www.reddit.com/r/rust/comments/kfiaqn/just_wanted_to_say_thanks_to_the_rust_community/) from /r/rust as it goes into more detail than anyone here wants to read :) \n\n4) Regarding charging, I'm lucky enough right now to be able to self fund this without a problem and I don't need to turn it into a business to live the lifestyle I want to live.  I originally built this because I didn't have access to the tools that were behind huge paywalls/university subscriptions and so I want to make this fully accessible to everyone.  Honestly I'd love it if it gets to the point where it's too much of a burden to self fund. At that point I'll try to go to some of the larger library systems/foundations to get a check for operational expenses while still keeping the tool free for everyone.  I'm also pretty allergic to putting any sort of advertising on the site.  So frankly, for me, the best thing anyone can do is to tell their friends about it.",
+          "author": "inciteful-xyz",
+          "created": 1625776641,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h4h3d49": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4h3d49/",
+      "text": "YES please! I can really imagine that thing as an addition to Google scholar \u2014 first work your way through the literature regularly, and if you're stuck or need a little bit more OR discover the whole field, then this app comes in perfectly.\n\nThe next step would be a plugin for Zotero and I'm in heaven.\n\nP.S.: Shared this to my institute's Slack, I'm sure they'll love it!",
+      "author": "nathan_lesage",
+      "created": 1625753056,
+      "upvotes": 10,
+      "replies": {
+        "h4im5c4": {
+          "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4im5c4/",
+          "text": "Do you know of anyone who develops Zotero plugins?  I'd be more than happy to work with someone on an API for that.  I just don't know anything about Zotero development.",
+          "author": "inciteful-xyz",
+          "created": 1625777549,
+          "upvotes": 2,
+          "replies": {
+            "h4ioz3x": {
+              "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4ioz3x/",
+              "text": "I\u2018ve dug in a little bit into plugin development, and have thought about offering this, but right now I\u2018m well into both my PhD and Zettlr.\n\nIdk is there any way you would prefer to communicate in this regard? I\u2018d happily tweet it out (+ keep it in the back of my head when I have more time)!",
+              "author": "nathan_lesage",
+              "created": 1625778874,
+              "upvotes": 2,
+              "replies": {
+                "h4ipx1e": {
+                  "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4ipx1e/",
+                  "text": "If you have a network of people who might be able to do this, by all means, tweet it out.  That would be super helpful.  Otherwise just send me an email which I'll drop in a chat right now.",
+                  "author": "inciteful-xyz",
+                  "created": 1625779313,
+                  "upvotes": 2,
+                  "replies": {
+                    "h4ir619": {
+                      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4ir619/",
+                      "text": "I just tweeted it over my main account, there are quite a few devs following, so there are chances :)",
+                      "author": "nathan_lesage",
+                      "created": 1625779900,
+                      "upvotes": 2,
+                      "replies": {
+                        "h4iruol": {
+                          "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4iruol/",
+                          "text": "That's amazing! Fingers crossed that something comes out of it.",
+                          "author": "inciteful-xyz",
+                          "created": 1625780228,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "h4p33r4": {
+              "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4p33r4/",
+              "text": "You might want to reach out to r/zotero. Additionally, r/ObsidianMD is also an active community who has embraced Zotero.",
+              "author": "Practical-Smell-7679",
+              "created": 1625921323,
+              "upvotes": 1,
+              "replies": {
+                "h4p34ev": {
+                  "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4p34ev/",
+                  "text": "Here's a sneak peek of /r/zotero using the [top posts](https://np.reddit.com/r/zotero/top/?sort=top&t=year) of the year!\n\n\\#1: [Redesign for Zotero (work in progress)](https://i.redd.it/twpn6nens3n61.png) | [9 comments](https://np.reddit.com/r/zotero/comments/m5aqqd/redesign_for_zotero_work_in_progress/)  \n\\#2: [Zotero iPad/iOS beta is finally here :](https://forums.zotero.org/discussion/87744/zotero-for-ios-beta) | [4 comments](https://np.reddit.com/r/zotero/comments/lmebxr/zotero_ipadios_beta_is_finally_here/)  \n\\#3: [Zotero Dark Theme](https://np.reddit.com/r/zotero/comments/jpwiw9/zotero_dark_theme/)\n\n----\n^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/o8wk1r/blacklist_ix/)",
+                  "author": "sneakpeekbot",
+                  "created": 1625921334,
+                  "upvotes": 1,
+                  "replies": {}
+                },
+                "h4q9w2f": {
+                  "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4q9w2f/",
+                  "text": "Someone has already volunteered to do a browser extension as well as a Zotero plugin and it's already underway! Reaching out to the Obsidian group is a good idea as well. Thanks for the idea!",
+                  "author": "inciteful-xyz",
+                  "created": 1625943426,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h4gx5y6": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4gx5y6/",
+      "text": "Found interesting papers that I didn't know about on the first try. Easy and helpful. Thank you!!",
+      "author": "Jobediah",
+      "created": 1625749949,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h4gmoxs": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4gmoxs/",
+      "text": "It works well on mobile, but on desktop its a bit buggy. It takes a few tries to get the same content I'm getting through mobile. But thanks for the effort\ud83d\udc4d",
+      "author": "Feisty_Boss9444",
+      "created": 1625743243,
+      "upvotes": 3,
+      "replies": {
+        "h4gna4s": {
+          "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4gna4s/",
+          "text": "Ahh.  I just realized there was a caching issue when I released a new version with bug fixes.   Please try again!  It should be fixed.",
+          "author": "inciteful-xyz",
+          "created": 1625743694,
+          "upvotes": 7,
+          "replies": {}
+        }
+      }
+    },
+    "h4guk9b": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4guk9b/",
+      "text": "Ahhhhhh I was just thinking about how handy it would be to be able to visualise my lit review as a graph, possibly also with time and stuff like that. This sounds really cool, I\u2019ll have to check out.",
+      "author": "Sup3rBl4ck",
+      "created": 1625748476,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h4hf9iy": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4hf9iy/",
+      "text": "Just had a quick play, it reminds me of gnoosic for music, but unlike gnoosic it looks like it will significantly help my research. I plan to set aside time to do some substantial testing/exploration next week and will provide as much feedback as I can.",
+      "author": "ComicRA",
+      "created": 1625758539,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h4i1uiu": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4i1uiu/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1625768359,
+      "upvotes": 2,
+      "replies": {
+        "h4ilju9": {
+          "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4ilju9/",
+          "text": "Thanks for the feedback!  I totally understand what you are saying.  The hope for the site is to build a series of tools which work together to become a more seamless workflow.  If you have any time to walk me through your own workflow I'd be very grateful.  Just send me a PM.  Thanks!",
+          "author": "inciteful-xyz",
+          "created": 1625777277,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h4h4ctm": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4h4ctm/",
+      "text": "I am an academic and heading the anti-plagiarism department. What I\u2019ve noticed, and this might be true only for Ukraine and Russia, but a lot of ppl tend to make up their list of sources, and I have ended up spending hours searching the internet for the actual original papers cited in the paper I was checking. So a tool that would make that easier would be a freaking lifesaver! Cheers! And thank you!",
+      "author": "Jumpy-Echo-573",
+      "created": 1625753531,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h4gzql1": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4gzql1/",
+      "text": "This looks very useful! I am picking up a few bugs, though. On desktop (firefox), it takes about 45 seconds to open the search window after clicking search.\n\nI'm also copy-pasting in an arxiv link, and the search suggestions don't have much to do with the paper I'm searching for.",
+      "author": "notadoctor123",
+      "created": 1625751308,
+      "upvotes": 1,
+      "replies": {
+        "h4gzxcx": {
+          "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4gzxcx/",
+          "text": "What are you searching for and what result are you clicking on?  Can you also send me the arxiv link?  Thanks!",
+          "author": "inciteful-xyz",
+          "created": 1625751406,
+          "upvotes": 3,
+          "replies": {
+            "h4h0h7d": {
+              "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4h0h7d/",
+              "text": "I'm using the left (singular) search tool to look for \"https://arxiv.org/abs/1805.07299\".\n\nI also tried searching for the connections between that paper and a random one from the arxiv, but the results didn't load after a minute or two.",
+              "author": "notadoctor123",
+              "created": 1625751684,
+              "upvotes": 1,
+              "replies": {
+                "h4l1hik": {
+                  "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4l1hik/",
+                  "text": "I just figured out what the problem was, somehow the index on the arxiv column of my db was dropped.  So it was doing row scans for 200mm records looking for the one that matched your arxiv id... It should be fixed in an hour or so.",
+                  "author": "inciteful-xyz",
+                  "created": 1625833814,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h4hunyx": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4hunyx/",
+      "text": "That sounds really fun!",
+      "author": "doornroosje",
+      "created": 1625765216,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h4i1kg7": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4i1kg7/",
+      "text": "Tried it for like 5 minutes and already found interesting stuff. Great tool! My \"magnum opus\" paper is 2 papers away from Einstein. Already shared with my colleagues.",
+      "author": "PraecorLoth970",
+      "created": 1625768237,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h4i7hci": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4i7hci/",
+      "text": "Wow! This is great. Will definitely use it in the future. Keep up the good work",
+      "author": "chantillycan",
+      "created": 1625770835,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h4mdour": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4mdour/",
+      "text": "Cool, thanks for sharing!\n\nWill this be closed source or open source?",
+      "author": null,
+      "created": 1625856832,
+      "upvotes": 1,
+      "replies": {
+        "h4mk5g1": {
+          "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4mk5g1/",
+          "text": "The plan is to have this be open source but right now the code isn't in a place where I feel comfortable doing that.  It's something I'm working on and hope to have done in the coming few months.",
+          "author": "inciteful-xyz",
+          "created": 1625859927,
+          "upvotes": 2,
+          "replies": {
+            "h4mr0pi": {
+              "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h4mr0pi/",
+              "text": "That's great news, thanks for the reply!",
+              "author": null,
+              "created": 1625863197,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5bh5vm": {
+      "link": "/r/AskAcademia/comments/og3lmc/request_for_feedback_i_built_an_academic/h5bh5vm/",
+      "text": "I saved this and just came back to it. The program looks amazing and I'm already finding exciting relevant research. I do wish there was a link for each article to Google Scholar, so I could easily access the article.",
+      "author": "wantonyak",
+      "created": 1626381553,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

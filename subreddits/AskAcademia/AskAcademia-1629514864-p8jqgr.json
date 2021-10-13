@@ -1,0 +1,66 @@
+{
+  "sid": "p8jqgr",
+  "link": "/r/AskAcademia/comments/p8jqgr/ieee_reference_style_not_showing_page_numbers_in/",
+  "title:": "IEEE reference style not showing page numbers in Mendeley",
+  "text": "Hello all, \n\n&#x200B;\n\nI am currently in the process of writing my masters thesis. I observed that the IEEE reference style isn't showing page numbers in the word document while inserting the bibliography. I tried downloading the CSL from Mendeley and editing it. That didnt work too. The CSL file seems to show the page number for the journal articles.\n\n&#x200B;\n\nI am using a MacBook Pro running Big Sur 11.5 and Mendeley desktop if that helps.\n\nThanks for the help and suggestions :)\n\nEdit: it looks like the page numbers don\u2019t appear on the references in mendeley as well which is causing the issue. Is there a way to change this?\n\nSecond edit: couldn\u2019t rest till I figured it out. I just had to right click and update the damn details. So happy I got it working at the end!",
+  "author": "Pieandwaffles",
+  "created": 1629514864,
+  "updated": 1634079542,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "h9qyyjx": {
+      "link": "/r/AskAcademia/comments/p8jqgr/ieee_reference_style_not_showing_page_numbers_in/h9qyyjx/",
+      "text": ">  I observed that the IEEE reference style isn't showing page numbers in the word document.\n\nPage numbers where? In the bibliography? Or in the document text? \n\nDoes it happen for book and journal citations, or only one type of document?",
+      "author": "CheeseWheels38",
+      "created": 1629516740,
+      "upvotes": 2,
+      "replies": {
+        "h9qzsdj": {
+          "link": "/r/AskAcademia/comments/p8jqgr/ieee_reference_style_not_showing_page_numbers_in/h9qzsdj/",
+          "text": "Sorry, I should have mentioned this. The error is occurring in the bibliography and for all the articles and books.",
+          "author": "Pieandwaffles",
+          "created": 1629517199,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h9qxavw": {
+      "link": "/r/AskAcademia/comments/p8jqgr/ieee_reference_style_not_showing_page_numbers_in/h9qxavw/",
+      "text": "You can just work with LaTeX, and export BibTeX from google scholar, checking the capitalizations and updates (preprint to conference/final issue&page numbers etc), and you will be fine with your reference, and don't worry about any style if you simply set it correctly.",
+      "author": "terence_peace",
+      "created": 1629515832,
+      "upvotes": 0,
+      "replies": {
+        "h9qyatm": {
+          "link": "/r/AskAcademia/comments/p8jqgr/ieee_reference_style_not_showing_page_numbers_in/h9qyatm/",
+          "text": "> You can just work with LaTeX, and export BibTeX from google scholar\n\nClassic latex fanboy response. OP wants to figure out what's up with their citations, not completely switch their writing environment.",
+          "author": "CheeseWheels38",
+          "created": 1629516378,
+          "upvotes": 5,
+          "replies": {
+            "h9qyj2n": {
+              "link": "/r/AskAcademia/comments/p8jqgr/ieee_reference_style_not_showing_page_numbers_in/h9qyj2n/",
+              "text": "Thank you, yes :) I just want to know what\u2019s up. I am honestly unfamiliar with latex and 90% done with writing the thesis. I cannot possibly figure a different writing environment at this stage.",
+              "author": "Pieandwaffles",
+              "created": 1629516504,
+              "upvotes": 6,
+              "replies": {
+                "h9r0lyb": {
+                  "link": "/r/AskAcademia/comments/p8jqgr/ieee_reference_style_not_showing_page_numbers_in/h9r0lyb/",
+                  "text": "While, a simple way I used is to only use LaTeX to generate the citations, and if you found proper style, you copy and paste the results in the generated PDF. \n\nI used it once when our group needs to handle a chaotic reference in word. We just search the reference in LaTeX and copy and paste into the word file.",
+                  "author": "terence_peace",
+                  "created": 1629517660,
+                  "upvotes": -1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

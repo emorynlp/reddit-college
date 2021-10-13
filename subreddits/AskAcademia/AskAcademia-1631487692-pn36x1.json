@@ -1,0 +1,99 @@
+{
+  "sid": "pn36x1",
+  "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/",
+  "title:": "Software for meta-analysis",
+  "text": "Hi guys,\n\nIt's my first time completing a meta-analysis, with little to no help. I was wondering if anyone has any personal experiences using software to assist in the processing. If so, what did you use and would you recommend it?",
+  "author": "neuro-n3rd",
+  "created": 1631487692,
+  "updated": 1634079225,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "hcmkenb": {
+      "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/hcmkenb/",
+      "text": "Meta-analysis of what? Are you aiming for qualitative or quantitative representations of your analyses?",
+      "author": "Tatta_Tatta",
+      "created": 1631489152,
+      "upvotes": 5,
+      "replies": {
+        "hcmpffc": {
+          "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/hcmpffc/",
+          "text": "Quantitative :)",
+          "author": "neuro-n3rd",
+          "created": 1631491559,
+          "upvotes": 1,
+          "replies": {
+            "hcn120x": {
+              "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/hcn120x/",
+              "text": "I highly recommend finding a good tutorial and using Rayyan.com for your screening stage. A side-note, you shouldn\u2019t mention your research topics online or to anyone you don\u2019t know/trust really, people can and will steal ideas which negates your efforts. Be secure with your research, people can hear about it once it\u2019s published. Good luck with your research project!",
+              "author": "MilesAtMac",
+              "created": 1631497061,
+              "upvotes": 2,
+              "replies": {
+                "hcn3qrb": {
+                  "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/hcn3qrb/",
+                  "text": "Thanks!",
+                  "author": "neuro-n3rd",
+                  "created": 1631498340,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hcmnek7": {
+      "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/hcmnek7/",
+      "text": "Quantitative data I use Rstudio with datasets imported from XLS docs - Lots of free foundational courses and online help that take a few hours to decipher, even for someone like me with very minimal coding skills. \n\nBest of luck",
+      "author": "BrotanicalScientist",
+      "created": 1631490570,
+      "upvotes": 3,
+      "replies": {
+        "hcmq3rf": {
+          "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/hcmq3rf/",
+          "text": "Awesome, thanks! Any chance you could point me in the direction of some of the foundational courses?",
+          "author": "neuro-n3rd",
+          "created": 1631491894,
+          "upvotes": 3,
+          "replies": {
+            "hcmqph9": {
+              "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/hcmqph9/",
+              "text": "Both free, unless wanting official certificates:\n\nHarvard course: https://www.edx.org/course/data-science-r-basics\n\nStanford course:\nhttps://www.edx.org/course/r-programming-fundamentals\n\nOther introductory content:\n\nGeneric but v. Helpful:\nhttps://education.rstudio.com/learn/beginner/\n\nYoutube Introduction:\nhttps://youtu.be/BvKETZ6kr9Q\n\nCheatsheets for when you understand the basics:\nhttps://www.rstudio.com/resources/cheatsheets/",
+              "author": "BrotanicalScientist",
+              "created": 1631492187,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hcmno03": {
+      "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/hcmno03/",
+      "text": "I've heard Jabref provide support for meta-analysis. Might want to check out. Another think you should want to have (if you're collaborating) is the provision of cloud/group access.",
+      "author": "Practical-Smell-7679",
+      "created": 1631490697,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcnu7hk": {
+      "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/hcnu7hk/",
+      "text": "I can help. DM me if you need help.",
+      "author": "1SageK1",
+      "created": 1631513984,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcrbobm": {
+      "link": "/r/AskAcademia/comments/pn36x1/software_for_metaanalysis/hcrbobm/",
+      "text": "I like the metafor package in R. But you can perform a rudimentary meta-analysis with any software that can do weighted regression.",
+      "author": "Lironelle",
+      "created": 1631578641,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "sid": "ov8756",
+  "link": "/r/AskAcademia/comments/ov8756/is_there_a_visible_rat_project/",
+  "title:": "Is there a Visible 'Rat' Project?",
+  "text": " Hi,\n\nI am working on a project that involves generating anatomically accurate CAD models of different of various rat tissues (muscle, skin, etc.). Unfortunately my lab does not have access to these animals yet, so I was wondering whether anyone is aware of any data out there that I could use to generate these models?\n\nMy initial thoughts were something equivalent to [The Visible Human Project](https://visiblehumanproject.com/), but would be grateful for any recommendations",
+  "author": "towsklati",
+  "created": 1627741977,
+  "updated": 1634082384,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "h78jyy5": {
+      "link": "/r/AskAcademia/comments/ov8756/is_there_a_visible_rat_project/h78jyy5/",
+      "text": "Have you checked out Sim4Life? They have some animal models in their library. They focus more on modeling of electric/magnetic fields using these models, but I've used it as a CAD tool of sorts before (using their human models).",
+      "author": "Kelzut",
+      "created": 1627761866,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h787c74": {
+      "link": "/r/AskAcademia/comments/ov8756/is_there_a_visible_rat_project/h787c74/",
+      "text": "Why doesn't your lab have access? You can probably buy them for $1 each from a local pet store. Hell, just put some traps down in an old house and you can get dozens for free.",
+      "author": null,
+      "created": 1627755581,
+      "upvotes": -5,
+      "replies": {
+        "h78a3ll": {
+          "link": "/r/AskAcademia/comments/ov8756/is_there_a_visible_rat_project/h78a3ll/",
+          "text": "Probably permits, IRB, proper facilities, etc. I've never worked with vertebrates but there's lots of special rules to ethically and legally use them.",
+          "author": "Semantix",
+          "created": 1627756932,
+          "upvotes": 5,
+          "replies": {
+            "h78apgs": {
+              "link": "/r/AskAcademia/comments/ov8756/is_there_a_visible_rat_project/h78apgs/",
+              "text": "IRB approval to cut up some dead rats lol\n\nand people wonder why the development of major scientific breakthroughs mostly stopped after the 1960s...",
+              "author": null,
+              "created": 1627757237,
+              "upvotes": -9,
+              "replies": {
+                "h78ddxh": {
+                  "link": "/r/AskAcademia/comments/ov8756/is_there_a_visible_rat_project/h78ddxh/",
+                  "text": "I don't think most universities want grad students out scavenging for dead vermin in abandoned houses. It's not a great look. Do you want to write that up in your methods section?",
+                  "author": "Semantix",
+                  "created": 1627758571,
+                  "upvotes": 6,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "sid": "pk8oq5",
+  "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/",
+  "title:": "Citation counts of dissertations",
+  "text": "Are citations of PhD dissertations with no doi counted somehow? Scholar doesn't count them. Are they counted elsewhere?",
+  "author": "Normal_Kaleidoscope",
+  "created": 1631100770,
+  "updated": 1634079357,
+  "over_18": false,
+  "upvotes": 8,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hc1z7b1": {
+      "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/hc1z7b1/",
+      "text": "Sometimes they can be cited on Google Scholar as \"citations only\". But o don't know of a central repository.",
+      "author": "grounded_out",
+      "created": 1631106665,
+      "upvotes": 8,
+      "replies": {
+        "hc3szy0": {
+          "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/hc3szy0/",
+          "text": "What does 'citations only' refer to?",
+          "author": "Normal_Kaleidoscope",
+          "created": 1631134984,
+          "upvotes": 1,
+          "replies": {
+            "hc3uis7": {
+              "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/hc3uis7/",
+              "text": "It means that someone cited it, so it shows up on Google Scholar. But since there is no DOI the source document isn't linked.",
+              "author": "grounded_out",
+              "created": 1631135726,
+              "upvotes": 1,
+              "replies": {
+                "hc5wiwj": {
+                  "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/hc5wiwj/",
+                  "text": "Oh okay. I didn't know it was cited until I read a paper and I saw it in the reference list. Searching for my name yields other works where it was cited, but searching for the title yields nothing",
+                  "author": "Normal_Kaleidoscope",
+                  "created": 1631181021,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hc3n4ke": {
+      "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/hc3n4ke/",
+      "text": "Google Scholar keeps track of mine, even though the only things citing it are weird student works. Of course, folks with any sense cite the associated papers instead.",
+      "author": "Jon3141592653589",
+      "created": 1631131930,
+      "upvotes": 6,
+      "replies": {
+        "hc3r9oy": {
+          "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/hc3r9oy/",
+          "text": "I was actually pleased to see that it was senior scholars citing mine. In my field it is not so uncommon to cite dissertations (I am in syntax, by the way), since they contain more data and more elaborate theoretical discussions.",
+          "author": "Normal_Kaleidoscope",
+          "created": 1631134096,
+          "upvotes": 2,
+          "replies": {
+            "hc59gby": {
+              "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/hc59gby/",
+              "text": "Ah, that is more useful; my PhD thesis is basically a collection of incremental papers, without much cohesion. My MS thesis (and associated paper) was much higher impact to my career, since I stumbled across a useful technique to solve a problem that is probably even more useful today than at the time. But it definitely doesn't look like much, and nobody should cite it.",
+              "author": "Jon3141592653589",
+              "created": 1631161268,
+              "upvotes": 2,
+              "replies": {
+                "hc5x05y": {
+                  "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/hc5x05y/",
+                  "text": "Yeah, different styles. Mine is like a monography, more or less. So you can make different papers out of each chapter but they're all tightly interconnected.",
+                  "author": "Normal_Kaleidoscope",
+                  "created": 1631181448,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hc2htx7": {
+      "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/hc2htx7/",
+      "text": "In my field most thesis are stapled papers so people just cite the papers. I don't think anyone has cited (or even read) my thesis.\n\nIs it different in your field?",
+      "author": "harper_kentucky",
+      "created": 1631114926,
+      "upvotes": 4,
+      "replies": {
+        "hc3sxne": {
+          "link": "/r/AskAcademia/comments/pk8oq5/citation_counts_of_dissertations/hc3sxne/",
+          "text": "In mine (syntax) dissertations are often cited, as they contain more data and longer theoretical discussions",
+          "author": "Normal_Kaleidoscope",
+          "created": 1631134951,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,508 @@
+{
+  "sid": "ku27hq",
+  "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/",
+  "title:": "The fragility of academia and when to jump ship",
+  "text": "Currently finishing up a phD in theoretical physics in Australia (in photonics). After covid happened, hundreds upon hundreds of professors and lecturers in STEM got fired from their jobs here. The reduction in positions for research fellows or postdoctoral researchers in physics and math went down by over 50%. My supervisors won't be here after I am done, they are in fact moving overseas this year. The professors I had originally envisioned working with in areas such as electromagnetic engineering, data science for astronomy or photonics got fired recently and are unemployed.\n\nWhat this pandemic has shown me is the fragility of academia. How people who have worked for decades in a field, mastering everything about it, publishing dozens of papers, teaching and coordinating subjects and supervising student projects basically mean nothing to the academic institution unless they are bringing a lot of money. \n\nIt feels really disappointing to have gone down this career path. Physics has no future in Australia. And given my personal circumstances, the only country I could move to is Japan but finding a job there in academia is extremely hard especially when you don't speak the language.\n\nAfter working 60+ hours a week in my phD for the last 3 years, including weekends and public holidays , for literally no reward (my degree is as useless), I have come to the conclusion that I don't have a future in academia. \n\nHaving said that, I would like to know if anyone here switched to industry after their phD, and how it went for you? It's very hard to sell what I have done, so I am thinking of applying for jobs in maybe finance (quantitative) or telecomm (no idea what) but I honestly don't know where to start. Do I need to go for entry-level?",
+  "author": null,
+  "created": 1610235171,
+  "updated": 1634080626,
+  "over_18": false,
+  "upvotes": 231,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "giq3256": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giq3256/",
+      "text": "I'm in Australia and have a maths PhD. I was in academia until the end of last year (still ECR). Even if you could get a job in academia, I wouldn't recommend it. I just had my first week in industry and it was the best. I got a job as an analyst. The problem solving skills and quantitative skills you have will be so incredibly useful for whatever work you find. It does take some time to find the right job in industry, but it's so worth it.",
+      "author": "OkBoysenberry3636",
+      "created": 1610247164,
+      "upvotes": 66,
+      "replies": {
+        "giqizdq": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqizdq/",
+          "text": "Nice! Out of curiosity, did you find the application process difficult when switching from academia to industry? And did you match all the criteria that the job asked for, or did you just apply anyway?",
+          "author": null,
+          "created": 1610256413,
+          "upvotes": 5,
+          "replies": {
+            "giqjocx": {
+              "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqjocx/",
+              "text": "I applied for heaps of things, even if they were only remotely related to my background. Initially I struggled to know what to even include on my resume. I tried to think of what a recruiter or manager would actually want to know about my skills and what I could bring to the job. I even included buzzwords!",
+              "author": "OkBoysenberry3636",
+              "created": 1610256887,
+              "upvotes": 14,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gipnqrj": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gipnqrj/",
+      "text": "I don't know about Australia, but in America theoretical physicists get recruited for quant finance jobs, data science jobs, probably other similar stuff.",
+      "author": "thegreenaquarium",
+      "created": 1610239018,
+      "upvotes": 126,
+      "replies": {
+        "giq9fft": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giq9fft/",
+          "text": "Yeah not sure if that\u2019s still the case nowadays. Quant jobs are long gone. Transition to data science is still possible, I heard, but is becoming more specialized.",
+          "author": "geometer2015",
+          "created": 1610250691,
+          "upvotes": 31,
+          "replies": {
+            "giqef4v": {
+              "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqef4v/",
+              "text": "This is absolutely right. 10-15 years ago astrophysicist were in big demand because suddenly all these companies had big data and the one big field where people were used to working with huge data sets was astro.\n\n\nNow, people get PhD's in data science. Very specific astro phd's who do stuff in software design can be competitive but for the rest of us...not so much.\n\n\nIs there some kind of rule where every piece of career advice you get is 10 years old? I remember when I started physics grad school the thing was \"you can always go into finance.\"",
+              "author": "harper_kentucky",
+              "created": 1610253492,
+              "upvotes": 41,
+              "replies": {
+                "giqiqay": {
+                  "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqiqay/",
+                  "text": "Yeah for some reason all the advice for going to industry after doing a phD seems to be outdated by at least a decade. I think academics in general overestimate the value of their qualifications, and so they pass this bias unto their students.\n\nTo give you an example, many people told me to go into data science, but after looking at hundreds of job ads online the main things that kept coming up were \"proficiency in Python, SQL, Scala, TensorFlow, PyTorch, Java, C++\" like seriously? I barely know how to use matlab and some python, and these jobs assume you have years of experience in multiple different languages/modules",
+                  "author": null,
+                  "created": 1610256240,
+                  "upvotes": 23,
+                  "replies": {
+                    "girc0c3": {
+                      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/girc0c3/",
+                      "text": "That's the HR department writing the job opening and using as many buzz words as possible that they don't understand. You don't usually need proficiency in all of those things.\n\nI've seen SQL referred to in job ads as a \"programming language\" for example, when it is actually a database system.",
+                      "author": "radionul",
+                      "created": 1610283022,
+                      "upvotes": 10,
+                      "replies": {
+                        "giroey8": {
+                          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giroey8/",
+                          "text": "Technically the \u201cdatabase system\u201d would be a relational database (basically a table) and SQL is a query language to retrieve language from that database. But you are correct in saying that it isn\u2019t a programming language.",
+                          "author": "International_Fee588",
+                          "created": 1610292121,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "girmf39": {
+                      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/girmf39/",
+                      "text": "> I think academics in general overestimate the value of their qualifications, and so they pass this bias unto their students.\n\nLikewise, industry underestimates the value of sheer intelligence, creativity, and quick learning. Especially when job requirements shift so rapidly, you need soft skills far more than being tediously trained in some soon-to-be-outdated tricks/ideas.",
+                      "author": "link0007",
+                      "created": 1610290892,
+                      "upvotes": 5,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "giqd1dm": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqd1dm/",
+          "text": "It is hard to get into thise fields when we now have specialized university degrees (like master of data science or master of quantitative finance) available for people to pursue. It means that as an outsider to the field of practice (as I would be as a physicist going into finance) you have zero advantage over other candidates, in fact you would be considered to be far behind",
+          "author": null,
+          "created": 1610252708,
+          "upvotes": 9,
+          "replies": {
+            "givo9yu": {
+              "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/givo9yu/",
+              "text": "Again, I'm just speaking to situations and people I personally know. In the US, in the social and professional milieu I'm in, it's common for financial companies to recruit specifically theoretical physicists to do semi-magical math stuff that I don't understand even though my background is much closer to quant finance. Maybe this is only the case for theoretical physicists from particular universities, or who deal with a specific subfield. Maybe firms who need this type of math don't exist in Australia (though they def do in nearby Singapore). But I do know several people from cohorts in the past 5 years who are thusly employed.",
+              "author": "thegreenaquarium",
+              "created": 1610372701,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "giq1w62": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giq1w62/",
+      "text": ">After working 60+ hours a week in my phD for the last 3 years, including weekends and public holidays , for literally no reward (my degree is as useless), I have come to the conclusion that I don't have a future in academia. \n\nI resonate with this. Still trying to figure out the trajectory myself, but wanted to say this seems to be a broader issue with Academia. Quite a few of us have been left floundering. \n\nUnfortunately we appear overqualified for everything that isn't Academia. So, the next step for me is probably leaving the PhD off the applications entirely. But after sacrificing basically everything for it doing such a thing is pretty difficult in its own way.\n\nGood luck. Hope you find a heading out of this storm.",
+      "author": "Prof_Acorn",
+      "created": 1610246519,
+      "upvotes": 28,
+      "replies": {
+        "giq4p4r": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giq4p4r/",
+          "text": "I\u2019m afraid \u2018overqualified\u2019 is often a euphemism for lack of industry job experience. I doubt any company will refuse to hire someone with a PhD if they have the sufficient job experience.",
+          "author": "cilbirwithostrichegg",
+          "created": 1610248082,
+          "upvotes": 43,
+          "replies": {
+            "giqgz6v": {
+              "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqgz6v/",
+              "text": "I mean, I was literally a part of a hiring committee for a job where the chair tossed PhD applicants aside. He said it was too entry level and that he really just wanted someone fresh out of a Bachelor's program. It was for a staff position at a college.\n\nBut yes, \"experience\" is also a kicker. Hard to go get that experience when you've spent the last decade specializing in a research field. Unpaid internships at this stage seem impossible. I guess there's the lowest of entry-level gigs, but it seems even those want 1-3 years, or more. Can't really go back to college and get experience that way either.",
+              "author": "Prof_Acorn",
+              "created": 1610255074,
+              "upvotes": 15,
+              "replies": {
+                "giritum": {
+                  "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giritum/",
+                  "text": "Your experience on the hiring committee for a staff position at a college is still within the realm of academia. My point was specifically private and public sector jobs (the latter is true for the UK - don\u2019t know about the rest) that require skills beyond mere research. That PhD is like project management doesn\u2019t sell well unfortunately.\n\nYes, it\u2019s a weird Catch-22 situation like you\u2019ve described.",
+                  "author": "cilbirwithostrichegg",
+                  "created": 1610288413,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "giq1bwp": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giq1bwp/",
+      "text": "I left academia well before finishing my PhD, pre-pandemic and before even mastering out, am in the US, and was in applied/biophotonics rather than on the theoretical physics side. So my experience may only be tangentially helpful to you. I shifted over to an entry-level healthcare IT position, but I also got one job offer in consulting and one in the medical device field out of the ~6-8 or so job applications I sent out. \n\nHaving actually attained your PhD, you should be in a much better position than I was. I know people who left my lab after competing their PhD who got jobs in the aerospace industry (obviously an industry that's been hit hard by Covid), consulting, defense (lots of lasers and photonics work there), and even in FinTech. Some people obviously went into biotech. Obviously an exceptional case and this was back in ~late 2018, but one person from my lab got a job at Goldman Sachs with 180k starting salary after her PhD. Practically speaking, depending on how much programming experience you have or how quickly you can pick it up with (presumably) a strong math background, you should definitely have a path in the finance realm even when competing against people who have direct experience in the industry.\n\nEdit: We do have a fair number of people with PhDs working at my company, but they mostly started as entry level software developer positions, just with a ~10-15k increase in starting salary compared to fresh CS grads in the same position.",
+      "author": "AnimaLepton",
+      "created": 1610246221,
+      "upvotes": 19,
+      "replies": {}
+    },
+    "giqvld1": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqvld1/",
+      "text": "> After covid happened, hundreds upon hundreds of professors and lecturers in STEM got fired from their jobs here. The reduction in positions for research fellows or postdoctoral researchers in physics and math went down by over 50%.\n\nI haven\u2019t heard of anything like this here in Europe. Au contraire, people are happy about their relatively secure jobs in academia while in industry, many people were laid off. Academic positions are typically funded by multi-year grants so things like Covid do not affect them, at least in the short term. Some institutions even hired a bunch of good people now that industry is not hiring. \n\nSo defunding of science seems to be due to a political decision in Australia (everyone knows your PM is evil) and Covid is their fig leaf. Similar things can happen in industry, for example when a company gets taken over and they close sites/fire people. I would even argue it\u2019s much more likely in industry than in academia.\n\nWhy is Japan your only possibility? You should be able to find a post-doc position in Europe or the US if that is what you want.",
+      "author": "luleigas",
+      "created": 1610266625,
+      "upvotes": 17,
+      "replies": {
+        "giqwqoi": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqwqoi/",
+          "text": "Same in Iceland. I\u2019ve in fact have received multiple applications from Australians lately",
+          "author": "Vico82",
+          "created": 1610267728,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "girfkx8": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/girfkx8/",
+          "text": "> I haven\u2019t heard of anything like this here in Europe. Au contraire, people are happy about their relatively secure jobs in academia while in industry, many people were laid off. \n\nI can second that. Even applies even to the countries that have a somewhat shaky understanding of tenure (looking at you, Denmark).\n\nI do know of one private university in Sweden that had major financial problems in 2020 (which go back to before 2020). Instead of sacking individual people, they offered all employees a generous good-bye package if they leave voluntarily. I don't know about the current status of this, though.",
+          "author": "ColourlessGreenIdeas",
+          "created": 1610286018,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "girlyrm": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/girlyrm/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1610290599,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "giq7q25": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giq7q25/",
+      "text": "While I agree the job opportunities have slowed in post-COVID Australia, can you cite your source for \"hundreds and hundreds of lecturers and professors being fired\"? I am a STEM lecturer at one of the larger Australian universities and we haven't fired a single lecturer, let alone a professor (to be a professor at an Australian Uni almost certainly means you have a permanent contract/tenure). \n\nI also feel a bit of \"tough love\" is in order regarding your comment that your degree is useless. You have a PhD in one of the most prestigious and difficult fields in the world. You clearly did not get to this point without being extremely bright and the ability to grind and work very hard. Use these strengths to your advantage. The comments/suggestions about \"non traditional\" jobs for PhDs in Physics are excellent suggestions. I'm not familiar with your exact field so I'm not sure why Japan is your only option, but surely your skills could be utilized in the US, especially in the physics-heavy California or New England.\n\nI'm only in my second year as an independent academic, so I'm still very fresh \"to the way things are\" in academia. My advice, is that unless you're willing to continue the 50-60 hour work weeks, then academia isn't for you. Don't get me wrong, I love my job, but the perceived \"prestige\" of academia is wildly overblown. You still have all the intraresearch group drama/bullshit but now it's *your* responsibility. Pay is not as great as most industry jobs. Grant writing is a nightmare. You still don't get a lot of your weekends just like graduate school. I recommend to my students that you should pursue academia only if the most important thing to you is carrying out your own ideas and learning new things, regardless of the pay and bullshit.\n\nIf Academia is still something you want to pursue, then you should be applying to every fellowship you can find. If you receive one of these, then you can essentially go wherever you want because a university isn't paying you out of pocket (this was my path for what it's worth).\n\nTL;DR you're a smart guy/gal that knows how to work hard, it isn't all doom and gloom, dust yourself off and keep going. Happy to chat anytime if you want to PM me.",
+      "author": "bubsandstonks",
+      "created": 1610249748,
+      "upvotes": 31,
+      "replies": {
+        "giqk3mw": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqk3mw/",
+          "text": ">While I agree the job opportunities have slowed in post-COVID Australia, can you cite your source for \"hundreds and hundreds of lecturers and professors being fired\"? I am a STEM lecturer at one of the larger Australian universities and we haven't fired a single lecturer, let alone a professor (to be a professor at an Australian Uni almost certainly means you have a permanent contract/tenure).\n\nI should have clarified when I mentioned hundreds of lecturers/academics being fired I was talking nation-wide and also at differing levels of experience, including casual academics and research staff/technicians (this has been the case specially in universities across NSW, but I won't mention names for the sake of anonymity). But at least in my university, I saw about 5 associate processors in physics and math get fired, despite having an impressive track record of teaching and research and having worked for several years there, and I saw a few others from the engineering department meet a different fate. A couple dozen lecturers and senior lecturers in STEM were also laid off, all within the span of a few months. All of them worked in theoretical and computational fields (e.g. computational optics/electromagnetics, nonlinear optics, etc.)\n\n>I also feel a bit of \"tough love\" is in order regarding your comment that your degree is useless. You have a PhD in one of the most prestigious and difficult fields in the world. You clearly did not get to this point without being extremely bright and the ability to grind and work very hard. Use these strengths to your advantage. The comments/suggestions about \"non traditional\" jobs for PhDs in Physics are excellent suggestions. I'm not familiar with your exact field so I'm not sure why Japan is your only option, but surely your skills could be utilized in the US, especially in the physics-heavy California or New England.\n\nAlthough I agree theoretical physics is a very difficult field, it is definitely not one of great importance in modern times, especially when you compare it to things like AI, machine learning, data science, health, biotechnology, computer vision, and others. This is self-evident from the lack of positions globally that are specifically in the area of \"theoretical physics\". \n\n>I'm only in my second year as an independent academic, so I'm still very fresh \"to the way things are\" in academia. My advice, is that unless you're willing to continue the 50-60 hour work weeks, then academia isn't for you. Don't get me wrong, I love my job, but the perceived \"prestige\" of academia is wildly overblown. You still have all the intraresearch group drama/bullshit but now it's *your* responsibility. Pay is not as great as most industry jobs. Grant writing is a nightmare. You still don't get a lot of your weekends just like graduate school. I recommend to my students that you should pursue academia only if the most important thing to you is carrying out your own ideas and learning new things, regardless of the pay and bullshit.\n\nI agree with the advice, I honestly don't feel any excitement from publishing research or conducting it, so I feel my life will be miserable if I try to force myself into it forever.",
+          "author": null,
+          "created": 1610257186,
+          "upvotes": 7,
+          "replies": {
+            "gis30p0": {
+              "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gis30p0/",
+              "text": "physicists enjoy \"spillover prestige\" into other disciplines, though - i.e. some of the founding thinkers in economic sociology were physicists or mathematicians... keep your options open and apply yourself widely!",
+              "author": "isaac-get-the-golem",
+              "created": 1610299859,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "giqlbu4": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqlbu4/",
+          "text": "NSW and ACT unis lost level C/D/E scientists and engineers from most Schools/Research Colleges. \"Tenure\" in Australian unis is not a protection against redundancy.",
+          "author": "stop-chemistry-time",
+          "created": 1610258063,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "giq7o3r": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giq7o3r/",
+      "text": "Aussie (almost) PhD here. Many from my cohort have gotten analyst jobs in a bunch of different fields (health is a big one that\u2019s hiring right now). PWC also appear to hire a lot of PhDs as consultants, I\u2019ve got friends who are engineers and applied physicists that work there; may be worth a shot!",
+      "author": "arobenator",
+      "created": 1610249719,
+      "upvotes": 6,
+      "replies": {
+        "giqjdbd": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqjdbd/",
+          "text": "Interesting to note. Are their phDs in the same field as the jobs they got (e.g. health)?",
+          "author": null,
+          "created": 1610256676,
+          "upvotes": 1,
+          "replies": {
+            "giqku6a": {
+              "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqku6a/",
+              "text": "So in health there are some with PhDs in adjacent fields (sport science, Physio) and analytics, comp sci, AI, etc - hired for their data manipulation, visualization and analysis skills rather than health-specific.\n\nI also forgot to mention the public service - lots of government divisions (eg ABS) have \u201centry level\u201d positions for PhDs due to above-mentioned data handling skills",
+              "author": "arobenator",
+              "created": 1610257710,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "giq747x": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giq747x/",
+      "text": "This is heartbreaking",
+      "author": "Ltrfsn",
+      "created": 1610249430,
+      "upvotes": 5,
+      "replies": {
+        "girc864": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/girc864/",
+          "text": "Meanwhile profs will keep on using their grants to hire even more PhDs. Cause PhDs look good on CV.",
+          "author": "radionul",
+          "created": 1610283219,
+          "upvotes": 3,
+          "replies": {
+            "girja3c": {
+              "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/girja3c/",
+              "text": "Yeah, the incentive structure is deeply broken. And it\u2019s not the \u2018marketisation\u2019 of higher education as faculty tend to believe, but exactly the problems like you\u2019ve described. Higher education looks and feels more like bureaucracy with individuals trying to maximise interest (see: public choice school take on bureaucracy) rather than private sector.",
+              "author": "cilbirwithostrichegg",
+              "created": 1610288722,
+              "upvotes": 3,
+              "replies": {
+                "girwwxk": {
+                  "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/girwwxk/",
+                  "text": "Yes, it does sometimes feel like late stage Soviet bureaucracy, where the actors themselves know the system is broken but try to keep the broken system on the road to try and milk whatever is left for their own self-interest. All while publicly complaining about the system, before declaring, \"well, there's nothing we can do, this is how it is\". For example scientists saying that they hate the H-index and how it is gamed, and then sitting on hiring committees themselves and hiring new people based on... H-index.",
+                  "author": "radionul",
+                  "created": 1610296826,
+                  "upvotes": 3,
+                  "replies": {
+                    "gis1wav": {
+                      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gis1wav/",
+                      "text": "Well put. Late-stage Soviet bureaucracy is a good way of describing it. I just wish more people could see it beyond the ideological obsession with \u2018neoliberalism\u2019 that\u2019s so common in academia.",
+                      "author": "cilbirwithostrichegg",
+                      "created": 1610299324,
+                      "upvotes": 1,
+                      "replies": {
+                        "gis3gs0": {
+                          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gis3gs0/",
+                          "text": "Well, I think it is an easy get out card for the academics. They can blame neoliberalism as an external boogeyman, and that absolves them from personal responsibility. Sure, Elsevier and Nature Springer are capitalist corporations looking to make an as large a profit as possible, but nobody forcing scientists sitting on university hiring committees to hire people who published in Nature. That's on the scientists themselves. There's an element of playing the game and then blaming external forces. Like the athlete who dopes and then says they had no choice.",
+                          "author": "radionul",
+                          "created": 1610300064,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "giq1qz5": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giq1qz5/",
+      "text": "Apply to Goldman-Sachs. I know that they like physicists. \n\nSeriously. It's a very interesting way to spend time and make a fuck tonne of money (from a graduate students' perspective anyway). [Here.](https://www.goldmansachs.com/careers/students/programs/index.html)",
+      "author": "Dr_Marxist",
+      "created": 1610246441,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "gippv45": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gippv45/",
+      "text": "Presumably your university will offer careers consultanous of some sort. Make an appointment to help you identify skills you have that would be valuable in industry. They can also help you respond to job selection criteria in a way that can still make you competitive when you dont have the typical experience.",
+      "author": "Miroch52",
+      "created": 1610240090,
+      "upvotes": 5,
+      "replies": {
+        "girc616": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/girc616/",
+          "text": "I've found these kinds of services at the university to be not very useful. I can't speak for all universities, of course.",
+          "author": "radionul",
+          "created": 1610283164,
+          "upvotes": 1,
+          "replies": {
+            "gisvy84": {
+              "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gisvy84/",
+              "text": "I found it very useful at UNSW. Obviously the scope is limited (they're not experts in every field) but I got tons of great feedback on cover letters and answering selection criteria.",
+              "author": "Miroch52",
+              "created": 1610314489,
+              "upvotes": 1,
+              "replies": {
+                "git8070": {
+                  "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/git8070/",
+                  "text": "good to hear",
+                  "author": "radionul",
+                  "created": 1610320225,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "giq7hxi": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giq7hxi/",
+      "text": "Check Facebook, Google, and Microsoft Careers, in both the internships and the full time jobs. I'm pretty sure I saw some internships there recently which looked for PhD students in photonics or related fields.",
+      "author": "valryuu",
+      "created": 1610249634,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "giqyroi": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqyroi/",
+      "text": "I am a fan of capitalism but I feel like it failed the academia\n\nLooking at this sub makes me sad",
+      "author": "ergele",
+      "created": 1610269730,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "giqzacy": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqzacy/",
+      "text": "Switching to industry after your PhD is a lot more common as you seem to think. You can also ask about experiences on r/LeavingAcademia.  \n\nIn Germany the recently was a survey of \"pre-docs\" and postdocs that I found rather interesting. About half of the people who did not yet have a PhD already planned to leave academia. This number was lower in postdocs which makes sense to me since a lot of people who intended to leave obviously did so after finishing as doing a postdoc usually doesn't bring any benefit towards industry and might even harm your chances.\n\nI personally finished my PhD in Neuroscience in March and started my industry job last week.  \nWhat really gave me the motivation was finding a job offer that would be perfect for my background and interests. Before that it felt like I need to settle for something and would have to make sacrifices, like not working in a field that actually interests me. So my advice would be to just start looking at job offers. Check out what they offer and what they are looking for. With a bit of luck you too will find a job you'll be excited to start at, which makes the transition out a lot smoother since you'll not easily get over the feeling of giving something up.\n\nI now took a permanent position and I must say, being able to actually make plans for the future because I finally know where I'll be for the next years felt great. Like, if my husband and I now would want to buy a house we could do that because we know that we'll work here. This is the complete opposite of academia, where you often don't even know where you'll be next year, let alone five years from now...",
+      "author": "LittlePrimate",
+      "created": 1610270260,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gir1jeb": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gir1jeb/",
+      "text": "I don't know exactly what you did in photonics, but you might want to look into quantum computing startups. There are quite a few now and they are rapidly expanding. The couple I know offer quite a good academia-like environment, but without many of the stressors associated to it (no teaching, no grant writing).",
+      "author": "johnie102",
+      "created": 1610272536,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gir7egz": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gir7egz/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1610278509,
+      "upvotes": 2,
+      "replies": {
+        "giv08i5": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giv08i5/",
+          "text": "I have looked into engineering (r&d, telecomm and RF) but they are extremely technical and require a lot experience with electronic circuits and equipment which I have none of (my entire university education has focused on theoretical knowledge). Also looked into data science but the requirements for above entry level jobs are usually several years of experience with multiple database systems (sql for example, cloud services) as well as familiarity with a lot of machine learning programs which I havent event touched.\n\nQuantitative finance seems to be the only option for me as it doesnt ask for much experience in the field, other than being very good at math and computing with python/matlab and the salary is generally very good even at entry level (much higher than what I could ever make in engineering)\n\nMy unis career service is pretty shit and they are limited to undergrad jobs, they wouldnt know what to do with a phD grad",
+          "author": null,
+          "created": 1610358084,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gizx1mw": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gizx1mw/",
+      "text": "Happy to chat: I made the transition from a PhD to industry, and know many others who have. Switching out of academia has been incredibly rewarding.\n\nYou do not need to go for an entry-level job, but you do need to prepare for job interviews:\n\n* Practice communicating how your research/teaching experience IS professional work experience and HAS prepared you (succinctly, and in < 90 second answers)\n* You will likely need to have a good answer prepared for \"Why are you leaving academia\" that is more about what you bring to a prospective employer than about what is 'not good' about academia\n\nThe other thing to keep in mind is that employers value different qualities that those valued in academia. An employer will see your experience and know that you are smart and capable of solving complicated problems. They might need to be convinced of other things, depending on what jobs you are looking for. E.g.\n\n* That you can communicate and work well with non-technical people,\n* That you are able to work collaboratively, and\n* That you can complete projects with short turn-around times (i.e. weeks, not years).",
+      "author": "Pentagonal_Plankton",
+      "created": 1610458181,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "giqxfll": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqxfll/",
+      "text": "What\u2019s interesting about these kinds of posts (and there are many of them on various subs) is that it demonstrates how many people will enter a field and not investigate its \u201cfragility\u201d before dedicating themselves to it. \n\nA PhD in physics is nothing to sneeze at. It is, in and of itself, a remarkable accomplishment. It is not at all related, however, to the robustness of the field or of the structure in which you receive it.\n\nAcademia in Australia has been fragile for decades. It has been being defunded since the Howard government in 2003. Physics has never been well funded in Oceania as a career in industry or at Universities. \n\nMany universities have been overextended for the same amount of time. They are often in the news for their financial woes- especially industry rags like Campus Review or the Higher Ed section of The Aus. \n\nThese subs illustrate the state of academia from the coalface. I have never seen one that claims their university is adequately funded or resourced. \n\nBefore jumping into another field, investigate what about it is important to you. And what you have which is important to it. Get to know people in the field. Join professional organizations. Do your research. \n\nYou\u2019re obviously a smart cookie. Use the investigative skills you have honed to make a decision which won\u2019t catch you by surprise years later. \n\nAs a kind of postscript: academia in the UK, Canada and the US is way worse than Oz. However you might find teaching jobs in developing countries and their educational institutions are more welcoming if you\u2019re willing to live there.",
+      "author": "ourldyofnoassumption",
+      "created": 1610268405,
+      "upvotes": 2,
+      "replies": {
+        "girci2i": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/girci2i/",
+          "text": ">What\u2019s interesting about these kinds of posts (and there are many of them on various subs) is that it demonstrates how many people will enter a field and not investigate its \u201cfragility\u201d before dedicating themselves to it.\n\nThis is interesting. The same was suggested to me after I finished my PhD. At a department meeting I was PhD representative and brought up the fact that many PhDs in the department (the vast majority) were upset by the job uncertainty. I was asked if I had looked into that before I started my PhD. At the meeting, in front of all the permanents, I responded, totally honestly, \"Yes, I did. Before accepting the PhD position I checked the CVs of all the permanent staff at this department and 90% did their PhD here, so I assumed there was some kind of promotion track.\"\n\nSilence ensued.",
+          "author": "radionul",
+          "created": 1610283465,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "gir9132": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gir9132/",
+      "text": "Dude your a quant in physics. Your incredibly hireable in a huge range of things! Honestly just don\u2019t let Covid get you down, finish your PhD (not long left) and take a much deserved break. I finished mine and felt the same, it\u2019s the people in academia honestly, I got really tired of the egos and shit.",
+      "author": "playmo___",
+      "created": 1610280152,
+      "upvotes": 2,
+      "replies": {
+        "gircb46": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gircb46/",
+          "text": "good for you, well done",
+          "author": "radionul",
+          "created": 1610283292,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "giqjpgz": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqjpgz/",
+      "text": "Yeah academia is tough.  I worked my ass off and was overloaded with courses constantly, but  like you said, I didnt bring in money so I wasnt valued.  Anyways, I work in a research group now and we have physicists to do robotics, autonomy, and even RF related projects.  There is a lot of research into solving real world problems by modeling them as physics problems.  Maybe look into research institutions.  Communications industry would be another if you know E-mag well.  Maybe RF design for electronics?",
+      "author": "meowcat187",
+      "created": 1610256909,
+      "upvotes": 1,
+      "replies": {
+        "giqkous": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqkous/",
+          "text": "I have considered these options but unfortunately I have zero experience with electronic equipment and zero knowledge of applied electromagnetics (including RF), and all the jobs expect an electrical engineering-level understanding of these things\n\nmy whole research has been centred around modelling noise using stochastic differential equations for sound-light interactions in dielectric waveguides",
+          "author": null,
+          "created": 1610257605,
+          "upvotes": 2,
+          "replies": {
+            "giqliui": {
+              "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giqliui/",
+              "text": "So is that optics? At my current job, we have like 40 phds.  Only a few people actually do what there PhD was.  But if you know all those diff eqs, the stochastic processes, and wave guides, you can apply those to other problems in industry for sure.  If you were in US I would tell you to look at Navy jobs.   Make a linkedin profile ( I did it like a month ago and had 5 pretty substantial job offers ).",
+              "author": "meowcat187",
+              "created": 1610258205,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "girc9en": {
+          "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/girc9en/",
+          "text": "I brought in money but still wasn't valued because I was not in the in-crowd.",
+          "author": "radionul",
+          "created": 1610283250,
+          "upvotes": 2,
+          "replies": {
+            "gird6sr": {
+              "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gird6sr/",
+              "text": "Well there is that too!  That sucks tho.  I liked academia a lot but it's just so toxic.",
+              "author": "meowcat187",
+              "created": 1610284052,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gir025y": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gir025y/",
+      "text": "I am planning on doing the same thing. I'm finishing my PhD in international relations and I see everybody around me extremely burnt out. Things only get worse for postdocs and assistant professors.\n\nThey have to look for grants all the time, and then making the impossible to abide by its productivity requirements. Academia takes so much of your time, as you mentioned. For, I'm sorry to say, peanuts.\n\nLooking for jobs, I saw there is opportunities for PhDs in the industry here in Europe (BTW, maybe look for positions around here). Where I'll work 36 - 40h a week, make more money and actually contribute to society.\n\nWorking as a Quant in finance will make you a lot of money, with less worked hours and better mental health. I say go for it.\n\nEdit : typos",
+      "author": "StrawberryinPizza",
+      "created": 1610271040,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gis60im": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/gis60im/",
+      "text": "I had an old calculus professor who told our class \u201cyou don\u2019t need to learn calculus because you\u2019ll use it in your daily lives, you need to learn it so you learn to think like a mathematician\u201d when you look for industry jobs don\u2019t think of yourself as needing to find something perfectly in your niche like you tend to do in academia, think of yourself as someone who thinks like a scientist at a doctorate level - and advertise yourself as such",
+      "author": "megsweg",
+      "created": 1610301322,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "giun6wl": {
+      "link": "/r/AskAcademia/comments/ku27hq/the_fragility_of_academia_and_when_to_jump_ship/giun6wl/",
+      "text": "I am a physics Undergrad. All these discussions about the bad situation in academia makes me afraid. :3",
+      "author": "Partha_CMPLearner",
+      "created": 1610348158,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "sid": "pt34tn",
+  "link": "/r/AskAcademia/comments/pt34tn/tips_for_annotating_on_laptop/",
+  "title:": "Tips for Annotating on Laptop?",
+  "text": "Hello everyone,\n\nI use a windows laptop and want to annotate my notes (which are word document typed) using textboxes. \n\nThe Preview app on Mac is great for me, because I can easily drag the textboxes with the desired text format and it\u2019s super convenient.  \n\nAnyone have any suggestions for apps similar to preview for Windows (preferably free)?\n\nThanks!",
+  "author": "HearingStriking1911",
+  "created": 1632299483,
+  "updated": 1634078887,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 0.65,
+  "comments": {
+    "hdtnv98": {
+      "link": "/r/AskAcademia/comments/pt34tn/tips_for_annotating_on_laptop/hdtnv98/",
+      "text": "In MS word. Highlight text. Click on the review tab, click add comment to annotate selected text.",
+      "author": "_clouttrout",
+      "created": 1632301176,
+      "upvotes": 9,
+      "replies": {
+        "hdwc6ih": {
+          "link": "/r/AskAcademia/comments/pt34tn/tips_for_annotating_on_laptop/hdwc6ih/",
+          "text": "I have tried that but I prefer the annotated text to be directly on the paper.",
+          "author": "HearingStriking1911",
+          "created": 1632351994,
+          "upvotes": 1,
+          "replies": {
+            "hdwcf91": {
+              "link": "/r/AskAcademia/comments/pt34tn/tips_for_annotating_on_laptop/hdwcf91/",
+              "text": "Save it as a pdf. Reopen it in adobe reader and annotate within that. \n\nIt should work the same way as preview on mac.",
+              "author": "_clouttrout",
+              "created": 1632352105,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

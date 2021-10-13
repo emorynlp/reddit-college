@@ -1,0 +1,30 @@
+{
+  "sid": "p3wjfc",
+  "link": "/r/AskAcademia/comments/p3wjfc/layman_question_how_common_is_it_for_longitudinal/",
+  "title:": "[layman question] How common is it for longitudinal psychiatric studies to include in their final analysis participants that cannot be contacted for follow-up?",
+  "text": "I am thinking specifically of Steensma et al. (2013) \"Factors Associated With Desistence and Persistence of Childhood Gender Dysphoria:A Quantitative Follow-Up Study\" where the initial sample size is 127 children and 34 did not participate in the follow-up survey (although six of those 34's parents did it for them). It seems strange for the authors to include those 34 in their analysis but that's what they did (they categorize them all as \"desisters\" with an explanation on p. 583).\n\nIs this common in these types of studies? How do researchers typically handle non-participation upon follow-up? What do human subject researchers here think of the method used in Steensma et al. (2013)?\n\nLink to paper: https://www.transgendertrend.com/wp-content/uploads/2017/10/Steensma-2013_desistance-rates.pdf",
+  "author": "ragold",
+  "created": 1628896402,
+  "updated": 1634079661,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 0.8,
+  "comments": {
+    "h8v5xdz": {
+      "link": "/r/AskAcademia/comments/p3wjfc/layman_question_how_common_is_it_for_longitudinal/h8v5xdz/",
+      "text": "Didn\u2019t read the link but sounds like an intention to treat analysis which is very common in medical research. I\u2019d say in my area the majority of clinical trials are intention to treat meaning analyzed based on numbers initially enrolled and assigned conditions.",
+      "author": "AwkwardAccountant5",
+      "created": 1628908806,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "h8v5xue": {
+      "link": "/r/AskAcademia/comments/p3wjfc/layman_question_how_common_is_it_for_longitudinal/h8v5xue/",
+      "text": "This isn\u2019t my field and I\u2019m not familiar with all the stats used, but glancing at the paper it seems ok. It looks like they\u2019re classified as desisters because they stopped seeking treatment, regardless of whether they filled out a survey. That seems reasonable. Some tests look like they\u2019re based on medical records and persister/desister coding, so that looks ok? It also looks like when the researchers are testing survey results they don\u2019t include the non-respondents.\n\nBasically, it looks like they had medical data for everyone that they used for some statistical tests, and survey data for some of those people that they tested separately. \n\nI don\u2019t know the field, so I can\u2019t comment on the findings or conclusions.",
+      "author": "cdougherty",
+      "created": 1628908812,
+      "upvotes": 4,
+      "replies": {}
+    }
+  }
+}

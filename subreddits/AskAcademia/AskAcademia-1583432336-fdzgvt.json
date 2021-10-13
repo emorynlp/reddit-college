@@ -1,0 +1,848 @@
+{
+  "sid": "fdzgvt",
+  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/",
+  "title:": "How do academics become multi-disciplinary, like Chomsky?",
+  "text": "So, what I mean by the title is this: take someone like Noam Chomsky. His PhD and a lot of his work is in linguistics, he made huge strides in that field and some of his ideas about how language works has influenced programming languages in computer science. Somewhat independently from this, he is also considered a major player in the world of anarcho-syndicalist philosophy.\n\nAs another example, though on a much smaller scale, there is a professor at my university with a PhD in math who teaches graph theory and cryptography, but once a year teaches a class on the Hebrew language.\n\nHow does one go about taking part in these two separate fields and actually be taken seriously? If someone starts publishing in another field, will people kinda look at them and be like WTF, the way Jordan Peterson is with his poor attempt at philosophy, while still being respected in his original field of psychology?\n\nThis is just something that is really interesting to me and I was wondering how it works.\n\nAny input is appreciated. Thank you.\n\n&#x200B;\n\nEdit: I believe essentially the question boils down to: How do you effectively become an academic participating in two fields?",
+  "author": "ashcans-and-dollars",
+  "created": 1583432336,
+  "updated": 1634081383,
+  "over_18": false,
+  "upvotes": 130,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "fjl03ey": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjl03ey/",
+      "text": "I think this can sometimes happen accidentally and has a lot to do with your specialization. I'm a history PhD, but ended up writing my dissertation on gender history, so I've ended up reading a lot of gender theory, sociology, and anthropology.\n\nAlso remember that disciplinary boundaries are fairly artificial. At least in the social sciences and humanities, we're often pulling from similar intellectual genealogy, so you see a lot of crossover - especially from academics who are more advanced in their career. As far as getting published in multiple fields, seems like it has a lot to do with being established as a scholar and ensuring that you've done your due diligence getting up-to-speed on theory.",
+      "author": "omegadarlin",
+      "created": 1583437311,
+      "upvotes": 143,
+      "replies": {
+        "fjl0n8y": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjl0n8y/",
+          "text": "So if hypothetically someone in Computer Science came up with a novel way to visualize census data and with this new method noticed a pattern, they could publish the visualization method in CS/Statistics/Computational Modeling/etc. and the pattern they discovered in Sociology/etc, just like, here's this thing i found, maybe it will be of interest to someone?",
+          "author": "ashcans-and-dollars",
+          "created": 1583437624,
+          "upvotes": 21,
+          "replies": {
+            "fjl15f1": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjl15f1/",
+              "text": "Overlap from hard sciences is probably harder because they have a different way of framing arguments and interpreting information. However, I think this one might work because I know a lot of Sociologists use data science. It's a matter of making sure that you speak the same language as the journal (just as a side note, this applies to journals inside one field too).",
+              "author": "omegadarlin",
+              "created": 1583437905,
+              "upvotes": 45,
+              "replies": {
+                "fjl1hr1": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjl1hr1/",
+                  "text": "Okay, that makes sense. I assume it would be a good idea to find someone more in this field and talk to them and do a co-authored paper in that kind of situation to lend a) some authority and b) the proper domain knowledge to contextualize the results?",
+                  "author": "ashcans-and-dollars",
+                  "created": 1583438094,
+                  "upvotes": 11,
+                  "replies": {
+                    "fjl1je3": {
+                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjl1je3/",
+                      "text": "Yeah, that seems like it would be ideal.",
+                      "author": "omegadarlin",
+                      "created": 1583438119,
+                      "upvotes": 5,
+                      "replies": {}
+                    }
+                  }
+                },
+                "fjlpegk": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlpegk/",
+                  "text": ">Overlap from hard sciences is probably harder because they have a different way of framing arguments and interpreting information. \n\nAnd because hard sciences data collection usually involves equipment and infrastructure. It's hard to go from, say, analyzing 12th century French literature to the particle accelerator or wet lab.",
+                  "author": "DrParapraxis",
+                  "created": 1583451444,
+                  "upvotes": 13,
+                  "replies": {
+                    "fjlucev": {
+                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlucev/",
+                      "text": "Not always, though. Corpus and big data methods for processing and analyzing huge bodies of text are just as effective on (digitized) 12th century sources as they are on the modern web.\n\n(which is to say, not all that great, but getting better each day.)",
+                      "author": "Jacqland",
+                      "created": 1583454648,
+                      "upvotes": 3,
+                      "replies": {
+                        "fjnb5gm": {
+                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjnb5gm/",
+                          "text": "Particle accelerators and wet labs pretty clearly require infrastructure and techniques that are not really in the same realm as doing data analysis.",
+                          "author": null,
+                          "created": 1583503188,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "fjlmuv4": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlmuv4/",
+              "text": "[removed]",
+              "author": null,
+              "created": 1583449819,
+              "upvotes": 10,
+              "replies": {
+                "fjlnqtj": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlnqtj/",
+                  "text": "I'm actually working in practical applications of deep learning, I just figured that  visualization would require less explaination lol.\n\nI'm glad people are doing work in this space.\n\nMy lab is very much about methods and is kinda data agnostic (started biomedical, went kinda cumulous for a bit, kinda signal processing rn, but I have some freedom for personal projects",
+                  "author": "ashcans-and-dollars",
+                  "created": 1583450385,
+                  "upvotes": 4,
+                  "replies": {}
+                },
+                "fjlo3ii": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlo3ii/",
+                  "text": "Wait, was this the CSS program at GMU?",
+                  "author": "ashcans-and-dollars",
+                  "created": 1583450613,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "fjlqtsk": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlqtsk/",
+              "text": "One of my colleagues (a CS professor) has some vision issues, and in the interest of testing his own vision created an application and used AI techniques to categorize his vision acuity. It turns out that it performs something like 80% better than what they currently use in practice. When he showed his doctor (at the University, as well), the doctor suggested that they write it up for publication in an ophthalmology conference, and when they did the paper was accepted. Now, my colleague is becoming an expert on vision, and although I don't know if he will end up doing more targeted research in the area, but that is the way it ends up happening some times.",
+              "author": "fermion72",
+              "created": 1583452350,
+              "upvotes": 9,
+              "replies": {}
+            },
+            "fjnayqh": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjnayqh/",
+              "text": "For what it's worth, the example you're describing falls roughly within social computing, a highly interdisciplinary field which pulls from and contributes to other fields. But just saying you found a pattern won't fell you published in anywhere but the most computational of fields. Social sciences care about interpreting trends. Like if the discussion section of a paper doesn't actual talk about impact and stuff then it's not a good paper in social computing or more traditional social sciences",
+              "author": "storm181",
+              "created": 1583503049,
+              "upvotes": 3,
+              "replies": {
+                "fjnt5iq": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjnt5iq/",
+                  "text": "I've been reading papers in this space recently! If this is your area, are there any you would like to share? I'm kinda exploring the space right now to find my interests",
+                  "author": "ashcans-and-dollars",
+                  "created": 1583513948,
+                  "upvotes": 1,
+                  "replies": {
+                    "fjodgwa": {
+                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjodgwa/",
+                      "text": "Without knowing too much of your specific research interests its tough to say. CHI always has great papers about visualizing data and policy. And it's never a waste of time to read through (or at least the abstracts of) best papers in top conferences like CSCW, CHI, GROUP, and FAccT. That's maybe the best way to get a feel of the breadth of work being done. Or looking through their poster catalogues if available since that will show you an abridged version of upcoming work being done",
+                      "author": "storm181",
+                      "created": 1583525554,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "fjmmmsh": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmmmsh/",
+              "text": "Yes that\u2019s not very unusual",
+              "author": null,
+              "created": 1583475302,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "fjl0s5t": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjl0s5t/",
+          "text": "This. Well said!",
+          "author": "TGMPY",
+          "created": 1583437701,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "fjmzvo1": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmzvo1/",
+          "text": "> and has a lot to do with your specialization. \n\nYeah, a lot of 'area studies' programs encourage students to be multi-disciplinary. It's pretty common in my experience for someone to specialize in, say, Old Norse literature but also dabble in paleography, archaeology, and/or folklore.",
+          "author": "truagh_mo_thuras",
+          "created": 1583492280,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "fjpk6za": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjpk6za/",
+          "text": "Yep, this in a nutshell. By nature of my research focus, I end up publishing in computer science conferences, even though I'm social science, because my research is informing the design of a new type of program.",
+          "author": "futile_cup",
+          "created": 1583553012,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fjlgsfw": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlgsfw/",
+      "text": "I miss the times when mathematics, physics and chemistry were just called \"natural philosophy\" ...",
+      "author": "actuallynotcanadian",
+      "created": 1583446351,
+      "upvotes": 40,
+      "replies": {
+        "fjllej8": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjllej8/",
+          "text": "Me too. I blame the concept of division of labour!\n\nEdit: might be a cool idea to start a subreddit with the original meaning of \"natural philosophy\". Like /r/science, but with a more technical persuasion.",
+          "author": "MasterDefibrillator",
+          "created": 1583448926,
+          "upvotes": 16,
+          "replies": {
+            "fjmq33v": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmq33v/",
+              "text": "Can we talk about the seal as deformed quadruped?",
+              "author": "degeneratehyperbola",
+              "created": 1583479043,
+              "upvotes": 3,
+              "replies": {
+                "fjmsx6z": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmsx6z/",
+                  "text": "Is there some historical reference I'm missing here? It sounds amusing.",
+                  "author": "MasterDefibrillator",
+                  "created": 1583482527,
+                  "upvotes": 3,
+                  "replies": {
+                    "fjmv6u6": {
+                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmv6u6/",
+                      "text": "It's from Aristotle's Parts of Animals and possibly also referred to in On The Soul--I don't remember. I know he fuckin said it though",
+                      "author": "degeneratehyperbola",
+                      "created": 1583485590,
+                      "upvotes": 2,
+                      "replies": {
+                        "fjmy1wc": {
+                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmy1wc/",
+                          "text": "sounds like something Aristotle would say.",
+                          "author": "MasterDefibrillator",
+                          "created": 1583489745,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fjll99q": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjll99q/",
+      "text": "The easiest and smartest way is collaboration. Talk and listen to people in other fields of interest, with an eye toward using their knowledge to help you build new areas of expertise. \n\nI see plenty of people who are successful in one field but end up embarrassing themselves by delving too deeply in another field without listening to the experts first. I'm thinking: James Watson, who helped discover the shape of DNA but should have given more thought to expounding on the nature of race and intelligence.",
+      "author": "drmarcj",
+      "created": 1583448836,
+      "upvotes": 27,
+      "replies": {
+        "fjlpon1": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlpon1/",
+          "text": "Absolutely. There is a difference between a multi-/interdisciplinary team of researchers and a single transdisciplinary scholar synthesizing diverse areas of study.",
+          "author": "capybarasleigh",
+          "created": 1583451623,
+          "upvotes": 8,
+          "replies": {}
+        }
+      }
+    },
+    "fjkwsnr": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjkwsnr/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1583435455,
+      "upvotes": 34,
+      "replies": {
+        "fjl134o": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjl134o/",
+          "text": "Thank you for the correction. I mostly hear about Chomsky from leftists/anarchists (some of whom are poli-sci people) who use things that he wrote as an example of a concept that they are trying to convey, so that makes sense.",
+          "author": "ashcans-and-dollars",
+          "created": 1583437870,
+          "upvotes": 12,
+          "replies": {
+            "fjl8z5l": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjl8z5l/",
+              "text": "Just a side-note: Chomsky is also pretty well respected in other areas of analytic philosophy, especially the philosophy of language and the philosophy of mind. He has published papers in top philosophy journals, such as *Mind*, which I often see cited by philosophers.",
+              "author": "gladsome2",
+              "created": 1583442226,
+              "upvotes": 23,
+              "replies": {
+                "fjmbvsp": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmbvsp/",
+                  "text": "What many people outside of linguistics do not understand is that his ideas are enormously controversial there, that they used to dominate the field but now they are on the decrease, leading to increasing polarization between \"Chomskians\" and the rest, and how many feel that his methods of \"introspection\" or making up sentences in his head in English (the only language he speaks btw) have led us away from empirical research on real language, and are ethnocentric as well since they assume that English basically represents all of the languages of the world, so why bother looking at the other ones? People who do real linguistic research where they collect empirical language data in real human societies do not usually have time for a side career in political critique. As much as I tend to agree with Chomsky's political stance, his scientific views don't look to stand the test of time, to tell the truth, and are deeply problematic if you care about language diversity.",
+                  "author": "encom-mcp",
+                  "created": 1583466476,
+                  "upvotes": 6,
+                  "replies": {
+                    "fjmumx8": {
+                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmumx8/",
+                      "text": "With all due respect, I don't think you understand what you're talking about.\n\nFirstly, Chomsky is/was a major proponent in doing cross lingual analysis. These are words that come straight out of his mouth.\n\nSecond, he's not really about introspection (he specifically says that you can not introspect anymore about your brain than you could about your liver), but about rationalism. He came at linguistics when it was an entirely data based field that was largely about collecting a bunch of data and then seeing what you could find in it, which isn't scientific (pure empiricism is bad, a lot of people struggle with this idea given the hold of big data and the likes). What he pushed for instead was a hypothesis driven approach, where you are starting with a hypothesis that is guiding you towards what specific kind of data you want to analyse to test it. All he did was bring the scientific method to linguistics, and it's here to stay.\n\nLastly, the whole drive behind his linguistics work is the idea that Language is a biological property, like vision, so in that sense, testing the adequacy of a sentence in your head is a perfectly valid way to explore data and test hypothesis. These are not intuitions we are dealing with, they are checks of adequacy with our inbuilt language systems. And adequacy checks are still used hugely.\n\nAnd even if you don't follow chomskian language philosophy, his robust formalisation of phrase structure grammars \n and language hierarchies are still widely used in many fields.\n\nIf you want to talk about Chomsky, you really need to read his \"syntactic structures\". It's not very long, and it lays out all his motivations and base ideas. He's too controversial a figure to get a good understanding of based on word of mouth alone.",
+                      "author": "MasterDefibrillator",
+                      "created": 1583484817,
+                      "upvotes": 5,
+                      "replies": {
+                        "fjn99ww": {
+                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjn99ww/",
+                          "text": "> If you want to talk about Chomsky, you really need to read his \"syntactic structures\"\n\nI am a professional linguist. We all read it first year undergrad. My opinion is that it is intellectually vacuous and unscientific. Most of the field agrees at this point. Read recent linguistics research. His framework won't survive when he dies and his ex-advisees have less institutional power. After being derailed for 50 years by a bunch of monolingual English speakers making up sentences in their office, with the waning of Chomskianism linguistics can be a more empirical, scientific discipline again. It's not a hypothesis if you can't test it, and it never was. People will look back on it as the worst type of pseudoscience, there with phrenology, alchemy and astrology.",
+                          "author": "encom-mcp",
+                          "created": 1583501763,
+                          "upvotes": 1,
+                          "replies": {
+                            "fjno8j5": {
+                              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjno8j5/",
+                              "text": "There's nothing uncommon or wrong that Chomsky's ideas are replaced with some other ideas. This is how science works. I don't get it why you think Chomsky is a pseudo scientist because his works can be replaced with better ones. It regularly happens all the time, and if his theories lasted for decades, it's only because his theories were pretty good, not bad or unscientific.",
+                              "author": "atrlrgn_",
+                              "created": 1583511414,
+                              "upvotes": 3,
+                              "replies": {}
+                            },
+                            "fjoseet": {
+                              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjoseet/",
+                              "text": "Okay. Your opinion is yours to have, but you didn't really address anything I said.\n\n> It's not a hypothesis if you can't test it, and it never was.\n\nIn linguistics, a grammar can be a hypothesis. You can test that hypothesis by seeing if it predicts sentences that fail an adequacy check, or if it fails to predict sentences that pass an adequacy check. The former is the preferable check for hypothesis testing because a theory that predicts things that do not occur is far worse than a theory that doesn't predict things that do occur.\n\nThe requirements of a hypothesis be that it objectively predicts something, and that that something is objectively falsifiable. Chomsky's generative grammar fills this role.\n\nQuick question: if you are a professional linguist, why  did you highlight the fact that Chomsky only speaks English as if it was some detrimental factor to being a linguist? As you should know, the vast majority of linguists only speak one language.",
+                              "author": "MasterDefibrillator",
+                              "created": 1583533901,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "fjmooqn": {
+                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmooqn/",
+                      "text": "I'm probably one of the farthest things from a \"Chomskian\", but I do think you're misrepresenting that side of the debate, which isn't fair to heaps of scholars doing rigorous work.\n\nIt's not about \"why bother looking at languages other than English\", but more like... If you start from the assumption that there is something intrinsically human about language (or something intrinsically linguistic about humans), then it shouldn't matter *what* language you examine to get at those fundamental truths/modules/switches/whatever. It's that initial assumption that most people disagree with, not the methods that follow from it.",
+                      "author": "Jacqland",
+                      "created": 1583477445,
+                      "upvotes": 6,
+                      "replies": {
+                        "fjn5mmz": {
+                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjn5mmz/",
+                          "text": "> If you start from the assumption\n\nThis is why the approach is unscientific,",
+                          "author": "encom-mcp",
+                          "created": 1583498672,
+                          "upvotes": -2,
+                          "replies": {
+                            "fjost9p": {
+                              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjost9p/",
+                              "text": "If you believe that your work relies on zero assumptions then you have no credibility as a scientist. All that means is that the assumptions are there, but you are not self aware enough to see them.\n\nAssumptions are a necessary basis of all scientific work. For example, one of the assumptions of physics is that physics behaves the same regardless of where you are in the universe. This is a primary assumption in Astrophysics: we assume that what we know of physics on earth also directly transfers to observing objects millions and billions of light years away.\n\nSo it's not surprising that you think Chomsky is unscientific if you think assumptions are unscientific.\n\nYou've really given a bad light to Chomsky detractors here, if you are indeed a professional linguist.",
+                              "author": "MasterDefibrillator",
+                              "created": 1583534125,
+                              "upvotes": 2,
+                              "replies": {}
+                            },
+                            "fjoa0l2": {
+                              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjoa0l2/",
+                              "text": "Not really? (one of) The other option(s) is starting from the assumption that language arises from some generalized process that becomes specialized with experience.\n\nObviously I'm simplifying the actual nature of the assumptions involved, but it's not unscientific to define your starting point.",
+                              "author": "Jacqland",
+                              "created": 1583523577,
+                              "upvotes": 1,
+                              "replies": {
+                                "fjoub9a": {
+                                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjoub9a/",
+                                  "text": "I think you needed to go a little harsher on the person, given that they have said elsewhere that they are a professional linguist. Someone who believes themselves to be a scientist in a professional position who doesn't appreciate or understand the significance of assumptions in scientific work is quite worrying.",
+                                  "author": "MasterDefibrillator",
+                                  "created": 1583534943,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "fjp30qh": {
+                                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjp30qh/",
+                                      "text": "I saw that comment but tbh I don't think they're telling the truth. Nobody reads Chomsky as a first year undergrad, not even students at MIT or Arizona. First year is reserved for basic tree structure, *maybe* X-bar theory. Even in second- and third-year there's no real reason to read Chomsky when Carnie and Adger exist. I think the only Chomsky I was actually required to read throughout my entire undergrad was the exchange with Skinner, in an acquisition class, and I did my undergrad in an incredibly generative department. (my-syntax-teacher-was-supervised-by-Hale levels of generative).\n\nIt's also not the way most professionals in the field would talk about their contemporaries. People certainly disagree with the ideas, vehemently, and many subdisciplines have moved on and away from the concept of a \"generative debate\" anyways, since we're answering different questions. But to frame his entire body of work as vacuous and intellectually dishonest is too far, and says more about encom-mcp's chops and professionalism than it does anything else.",
+                                      "author": "Jacqland",
+                                      "created": 1583540603,
+                                      "upvotes": 2,
+                                      "replies": {
+                                        "fjp37cg": {
+                                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjp37cg/",
+                                          "text": "Well said.",
+                                          "author": "MasterDefibrillator",
+                                          "created": 1583540732,
+                                          "upvotes": 2,
+                                          "replies": {}
+                                        },
+                                        "fjpcoa6": {
+                                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjpcoa6/",
+                                          "text": "> Nobody reads Chomsky as a first year undergrad\n\nDude, I assign Chomsky to my first year undergrads. Sorry, I work with language diversity. I believe that Chomskians are unethical because they don't give a fuck about language endangerment. I don't consider them scientific and I'm not afraid to say it. Plenty of my real linguistics colleagues do actual fieldwork or experiments rather than making sentences up.",
+                                          "author": "encom-mcp",
+                                          "created": 1583547409,
+                                          "upvotes": 0,
+                                          "replies": {
+                                            "fjphkck": {
+                                              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjphkck/",
+                                              "text": "If you're assigning a 60-year old work to first year linguistics undergrads, and using that as the platform to rail against the entirety of generative linguistics, I wholeheartedly believe you are engaging in intellectual dishonesty and sincerely hope that somebody calls you out for it IRL. You are doing a disservice to your students. And I say this as an inveterate exemplar theorist.\n\n(Syntactic Structures, the work in question, was published in 1957. The field has moved on since then).\n\nedit: Believing a group of people is unethical is not the same thing as believing their methods are unscientific. Heck, believing someones *methods* are unethical isn't the same thing as believing they're unscientific. Huge numbers of linguists don't care about language endangerment/revitalization, and that sucks, but that has very little to do with their theoretical opinions on UG. Likewise, there are a a large amount of linguists that care deeply about language endangerment/revitalization whose methods are incredibly unethical (The Summer Institute of Linguistics is the obvious example here).",
+                                              "author": "Jacqland",
+                                              "created": 1583550990,
+                                              "upvotes": 2,
+                                              "replies": {}
+                                            },
+                                            "fjvxxja": {
+                                              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjvxxja/",
+                                              "text": ">  I believe that Chomskians are unethical because they don't give a fuck about language endangerment.\n\nThis has no relevance to the topic of conversation, and further, it is not at all representative of Chomsky's own position on language endangerment.\n\nYou can listen to him talking about language endangerment right here: https://youtu.be/Y3PwG4UoJ0Y?t=1080",
+                                              "author": "MasterDefibrillator",
+                                              "created": 1583632168,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "fjw5zo2": {
+                                                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjw5zo2/",
+                                                  "text": "Actions not words. He invented a theory which makes all languages English underlyingly, so screw other languages and cultures. Most of its practitioners study only English or majority languages. He has never once done language documentation or language activism. His followers waste resources that could go to endangered languages. Trying to claim that method and ethics have no relationship to each other is a really slippery slope. We can see clearly her how crappy methods and crappy ethics reinforce each other.",
+                                                  "author": "encom-mcp",
+                                                  "created": 1583635760,
+                                                  "upvotes": 1,
+                                                  "replies": {
+                                                    "fjwdph9": {
+                                                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwdph9/",
+                                                      "text": "The idea that because someone doesn't partake in what you do means that they are against what you do is quite an alien concept to me. You're going to have to explain how that works, I can't follow any logic in it at all.\n\nAlso, please explain what these mutual resources are that are being taken up by people who don't do language conservation?\n\nYou've made a lot of claims throughout this thread, non of which you've backed up with examples, and most of which you've dropped as soon as someone has challenged them. It's very dishonest of you, and so is the claim that he invented a theory that English underlies all other languages.\n\nThe fact that you claim to teach students is quite disturbing.",
+                                                      "author": "MasterDefibrillator",
+                                                      "created": 1583637944,
+                                                      "upvotes": 1,
+                                                      "replies": {
+                                                        "fjwg92v": {
+                                                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwg92v/",
+                                                          "text": ">  please explain what these mutual resources are that are being taken up by people who don't do language conservation?\n\nUm, university teaching positions? I'm sure you are just fine that nearly all of the world's languages are endangered, but we have \"linguistics experts\" making up sentences in their offices getting the salaires that people working with minority language communities could be paid. But I'm not ok with it. There are not enough resources to subsidize pseudoscience while language are being killed off. Since the speakers are not rich and largely live in their third world, who cares? Just stick to your own privileged, ethnocentric life, and everything will be fine. Personally I'm pretty frustrated about it, so if you keep talking to me, you'll just hear more of it. I do what I can to change the situation of language endangerment by day, and vent a bit to asses on the internet at night. Go away.",
+                                                          "author": "encom-mcp",
+                                                          "created": 1583638682,
+                                                          "upvotes": 1,
+                                                          "replies": {
+                                                            "fjwjlcz": {
+                                                              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwjlcz/",
+                                                              "text": "So basically, you have generated a spite of people who do something different to you because you believe that what you do is more important and that by them pursuing their interests they are actively taking away from you pursuing yours.\n\nThere's obviously a lot of things very wrong with your position, inherently selfish and arrogant is one part, but more importantly is that you're assuming that if those people were not being funded then the funding would instead go to your interests instead.",
+                                                              "author": "MasterDefibrillator",
+                                                              "created": 1583639937,
+                                                              "upvotes": 1,
+                                                              "replies": {
+                                                                "fjwk5j5": {
+                                                                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwk5j5/",
+                                                                  "text": "> your interests instead.\n\nThe rights of endangered languages communities are like a hobby to you? My personal interests? A little defensive, are we? Are you an armchair linguist? \n\nEdit: Actually, I've had enough. Go read your Chomsky and leave me alone. I told you to go away, gonna block now.",
+                                                                  "author": "encom-mcp",
+                                                                  "created": 1583640138,
+                                                                  "upvotes": 1,
+                                                                  "replies": {
+                                                                    "fjwkip5": {
+                                                                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwkip5/",
+                                                                      "text": "Why does me pointing out that it is your interest, and that not everyone shares the same interest, make you think I'm belittling the field? Again, this is a concept that is completely alien to me, you'll have to explain it for me.\n\nAnd to be clear, I'm talking about professional interest. It's entirely possible for someone who does not work in language conservation to still be interested in it and care about it generally.",
+                                                                      "author": "MasterDefibrillator",
+                                                                      "created": 1583640345,
+                                                                      "upvotes": 1,
+                                                                      "replies": {}
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "fjpcfwd": {
+                                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjpcfwd/",
+                                      "text": "Have you checked the assumptions they start with? The point is if you start with shitty, unquestioned assumptions....",
+                                      "author": "encom-mcp",
+                                      "created": 1583547239,
+                                      "upvotes": 0,
+                                      "replies": {
+                                        "fjvypeg": {
+                                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjvypeg/",
+                                          "text": "Well, that's different to what you just said; you're now criticising the assumption itself instead of the idea of assumptions in general. Why do you think that the assumption that Language is a biologically limited or biased parameter space is shitty?",
+                                          "author": "MasterDefibrillator",
+                                          "created": 1583632404,
+                                          "upvotes": 1,
+                                          "replies": {
+                                            "fjw5hqy": {
+                                              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjw5hqy/",
+                                              "text": "Come on, you know what I meant. We are talking about Chomsky. The assumptions he made. They are dumb. If you don't question them, you are too.",
+                                              "author": "encom-mcp",
+                                              "created": 1583635509,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "fjwbkm1": {
+                                                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwbkm1/",
+                                                  "text": "That's the only assumption I know of. You're going to have to point them out yourself.",
+                                                  "author": "MasterDefibrillator",
+                                                  "created": 1583637417,
+                                                  "upvotes": 1,
+                                                  "replies": {
+                                                    "fjweyjv": {
+                                                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjweyjv/",
+                                                      "text": "Here is one funny one: That if aliens observed multiple human languages they would think they were all the same. Um, Noam, these guys invented interstellar travel and you think they can't tell the difference between German and Korean?   \nHere's another: That finite resources lead to infinite language. Chomsky should really wait on that one until he records an infinite sentence. They make such a big deal about no language having an explicit rule about how long a sentence can be, but they forgot that someone would either tell you to shut the fuck up or you would die before you finished it. Fun to imagine though.  \nThe worst assumptions are all ethnocentric crap about all languages having the same categories as English though. You should watch the Ai G clip where he interviews Chomsky and he is like \"I would love it if someone called me bilingual\" since the father of modern linguistics apparently only speaks English. But that has nothing to do with his theories....",
+                                                      "author": "encom-mcp",
+                                                      "created": 1583638251,
+                                                      "upvotes": 1,
+                                                      "replies": {
+                                                        "fjwg9db": {
+                                                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwg9db/",
+                                                          "text": "> That if aliens observed multiple human languages they would think they were all the same. Um, Noam, these guys invented interstellar travel and you think they can't tell the difference between German and Korean?\n\nThis is a reiteration of the assumption I already gave.\n\n> That finite resources lead to infinite language.\n\nFirstly, infinite is meant in two ways here. One is the way you describe, the second is the way that Infinitely new sentences can be generated that have never been generated before. I believe Chomsky Talks more about the second interpretation than the first.\n\n> Chomsky should really wait on that one until he records an infinite sentence.\n\nYou can prove that a set is infinite without showing it with brute force (an impossible task in any case). Any first year mathematician could tell you this.\n\nSo this is not an assumption.\n\n> since the father of modern linguistics apparently only speaks English. But that has nothing to do with his theories\n\nMost linguists do not speak another language. Speaking another language has nothing to do with studying another language.\n\nYou have given no examples of any new assumptions.",
+                                                          "author": "MasterDefibrillator",
+                                                          "created": 1583638686,
+                                                          "upvotes": 1,
+                                                          "replies": {
+                                                            "fjwh2sm": {
+                                                              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwh2sm/",
+                                                              "text": "Oh my god are you actually defending this stuff. What's your personal investment in it? \n\n\"Most linguists do not speak another language.\"  \nAmerican, eh? Monolingual English speaker by any chance? Oh man.",
+                                                              "author": "encom-mcp",
+                                                              "created": 1583639006,
+                                                              "upvotes": 1,
+                                                              "replies": {
+                                                                "fjwhwm3": {
+                                                                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwhwm3/",
+                                                                  "text": "I'm trying to explain basic mathematics to you, which is all we're talking about here.\n\nBut again, you have dropped your points at the first instance of a challenge to them, and this time switched to some personal attacks.",
+                                                                  "author": "MasterDefibrillator",
+                                                                  "created": 1583639318,
+                                                                  "upvotes": 1,
+                                                                  "replies": {
+                                                                    "fjwjwx3": {
+                                                                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwjwx3/",
+                                                                      "text": "Yeah well I used to work in Europe. Most linguists over there spoke 3 or 4 languages on average. And in many endangered language communities people typically spoke 3, 4, 5, even 8 or 9 languages. American linguists get all offended when people ask them how many languages they speak. It is hilarious. What are they ashamed of?   \nGood luck with your \"basic mathematics\" in a social science. Please stop defending Chomsky to me.",
+                                                                      "author": "encom-mcp",
+                                                                      "created": 1583640017,
+                                                                      "upvotes": 1,
+                                                                      "replies": {
+                                                                        "fjwk8w1": {
+                                                                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjwk8w1/",
+                                                                          "text": "> in a social science.\n\nNothing Chomsky did in linguistics has really anything to do with the social sciences. And this is the same reason that people following his line of inquiry do not steal funding from your interests, they are almost always funded by entirely different departments. For example, Chomsky's work was entirely funded by the department of defense. Do you really think that him pursuing his interests caused the DoD to not fund yours?",
+                                                                          "author": "MasterDefibrillator",
+                                                                          "created": 1583640197,
+                                                                          "upvotes": 1,
+                                                                          "replies": {}
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "fjpcj42": {
+                                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjpcj42/",
+                                  "text": "Just look up the stuff assumed by Chomskian linguistics and stop talking out of your ass.",
+                                  "author": "encom-mcp",
+                                  "created": 1583547304,
+                                  "upvotes": 0,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "fjmdf9x": {
+                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmdf9x/",
+                      "text": "I mean sure, that seems plausible to me (as someone who knows very little about linguistics). I'm not sure why you're replying to me though - I was just pointing out that Chomsky is influential in philosophy generally, not just political theory as the OP seems to think.",
+                      "author": "gladsome2",
+                      "created": 1583467600,
+                      "upvotes": 4,
+                      "replies": {
+                        "fjn5jid": {
+                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjn5jid/",
+                          "text": "Just adding some more detail to his \"influence\".",
+                          "author": "encom-mcp",
+                          "created": 1583498591,
+                          "upvotes": 0,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "fjl8qc8": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjl8qc8/",
+              "text": "Yea, to add to the earlier comment: Chomsky is someone you could cite the way you might cite Tolstoy or Vargas Llosa...or, maybe a better a example would be Camus. These are people who, depending on your field, you expect your peers to be familiar with them so it makes sense to reference them. But, for the most part, that familiarity is cultural not disciplinary.",
+              "author": "TheGreatNorthWoods",
+              "created": 1583442091,
+              "upvotes": 15,
+              "replies": {
+                "fjloz14": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjloz14/",
+                  "text": "Yes, or Sartre in mid-20th c. France.",
+                  "author": "capybarasleigh",
+                  "created": 1583451175,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fjllqdy": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjllqdy/",
+          "text": "> That's how \"On Anarchy\" and \"Manufacturing Consent\" read to me anyway\n\nI know Chomsky regards the propaganda model of media (what manufacturing consent is based on) to be one of the most rigorous and well tested models in the social sciences. But he did that work with someone else who's actually from the social sciences (I don't think any of Chomsky's linguistics work could be considered part of the social sciences, it's much closer to mathematics, computer science and philosophy).\n\nI tend to agree with that assessment.\n\nAnd then there's that often repeated fact that he is in the top 10 most cited authors in the social sciences, and the only one still alive.\n\nSo I think there's a strong argument to say that he has a lot of Multidisciplinary work that is taken seriously by the relevant specialists.",
+          "author": "MasterDefibrillator",
+          "created": 1583449123,
+          "upvotes": 8,
+          "replies": {
+            "fjlpg1n": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlpg1n/",
+              "text": "Good point! Chomsky is definitely a formal scientist, not an empirical one. Between his undergrad & PhD at Penn, he was a Harvard Junior Fellow, and used that self-structured period of study mainly to study mathematics, formal logic, and what is now cognitive psychology. Since cognitive science as a field was still coalescing, he had the opportunity to have a hand in defining it. Stanford\u2019s Symbolic Systems and NYU\u2019s Language and Mind programs are very similar to his course of study.",
+              "author": "capybarasleigh",
+              "created": 1583451471,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "fjlovfg": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlovfg/",
+          "text": "Cosign. Chomsky himself is adamant that there is a firewall between his scientific work and political writings.\n\nAs a popular writer and public intellectual, in many ways Chomsky picked up Bertrand Russell\u2019s mantle in the Anglosphere, rather precisely chronologically. Bertie had to write in the early 20th c. For a popular audience, and is generally well-respected in each area discretely, with the marked exception of his writings on history of philosophy, where he committed the cardinal sin of writing for a popular audience in his discipline but outside his field of expertise.\n\nThe Chomsky-Foucault debates on human nature from Dutch television are on YouTube if you\u2019re interested in examining his claims that his politics and linguistics are entirely unrelated. In light of his early 21st c. writings on anarchism, one could argue that Chomsky\u2019s beliefs about fundamental human goodness and creativity imply that he does believe in something like deep structure for syntax being hardwired in the neural substrates of moral cognition.",
+          "author": "capybarasleigh",
+          "created": 1583451111,
+          "upvotes": 5,
+          "replies": {
+            "fjlramq": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlramq/",
+              "text": "I believe his specific words are that he can't see any significant or tangible connection between them.\n\nI agree that his political and professional worlds are ideologically compatible, which is really the argument you're making here. But that's not really saying much, as that's the baseline to avoid hypocrisy and cognitive dissonance.",
+              "author": "MasterDefibrillator",
+              "created": 1583452652,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fjlh29b": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlh29b/",
+      "text": "Well, you can make some observations.\n\nFirst, you have to be incredibly intelligent/talented to make contributions to multiple fields. If you read the career of Chomsky, you realize he is an exceptional human being.\n\nSecond, you have to be well-respected in your home discipline. For example, Chomsky made important contributions to the field of linguistics (some say revolutionized). People outside of the field (e.g., the public and media) then start to care about what you have to say about other matters.",
+      "author": null,
+      "created": 1583446490,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "fjmypzx": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmypzx/",
+      "text": "By getting tenure 50 years ago.",
+      "author": "radionul",
+      "created": 1583490698,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "fjmovyi": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmovyi/",
+      "text": "You start in one field, and then you branch out by collaborating with academics in the other field that interests you. You can also do a PhD/MA or PhD/MS to start and to get to know your fields.",
+      "author": "injuredpoecile",
+      "created": 1583477669,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "fjlqcgs": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlqcgs/",
+      "text": "It helps to be affiliated with a prestigious institution and have tenure.",
+      "author": "LotusEagle",
+      "created": 1583452045,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "fjm850l": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjm850l/",
+      "text": "The \"intelligent inventor\" is a paper published in HBR and recieved numerous recognitions. It identified \"association\" to be a key attribute of an innovator. An example of association is when Henry Ford saw the conveyer belt in slaughterhouses and made the connection that I can use this to scale up production of cars. This \"association\" is at the heart of such multidisciplinary research.",
+      "author": "alirizvi7",
+      "created": 1583463829,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fjlvjsd": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlvjsd/",
+      "text": "I think you might also be overestimating Chomsky's work/contribution in Linguistics since the 60s. Certainly he revolutionized the field, but whether for the worse or better is something a lot of people have pretty strong opinions on. I also don't know that his ideas are currently taken quite seriously outside of a few areas, both in terms of geography (north america) or in terms of subdiscipline (generative syntax). \n\nI don't know that I would consider Chomsky ever participated in those two fields, to the same degree, *at the same time*. When he was super politically active in the 80s through the 00s, he wasn't very active in the field of linguistics.",
+      "author": "Jacqland",
+      "created": 1583455443,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "fjlrxax": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlrxax/",
+      "text": "In my view, Peterson doesn\u2019t try to be a philosopher. He\u2019s more of a pragmatic psychologist who attempts to compare multiple sources of knowledge. For example, he likes to compare religions, Jungian psychoanalysis, and political theory. It\u2019s not like he\u2019s trying to create new knowledge or a new perspective. Christian Classical Liberals have been around forever.\n\nEdit: I was downvoted without being given feedback. Stay classy. I understand intellectual honesty isn\u2019t everybody\u2019s thing.",
+      "author": "studentthrowaway9876",
+      "created": 1583453063,
+      "upvotes": 3,
+      "replies": {
+        "fjncpmg": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjncpmg/",
+          "text": "Pragmatic is a good term. There's a dynamic here that doesn't reflect well on the academic humanities: whenever people query the value of studying the liberal arts, the standard justifications are presented in terms of equipping students for a life well lived, transmitting a wellspring of vital cultural knowledge, enhancing critical thinking, furnishing the life of the mind, the empathetic powers of fiction etc. Yet whenever an academic tries to tangibly deliver on these lofty ideal for normal people, they are widely attacked by their peers (I'm thinking here of the likes of Jordan Peterson, Alain de Botton, maybe Mary Beard) \n\nIf the 'humanities perspective' is valuable in general, why are specific popularizers always attacked? If the liberal arts can be life-enhancing, why is there such scorn for academics who actually try to follow through and deliver useful wisdom for ordinary people?",
+          "author": "GretchenSnodgrass",
+          "created": 1583504314,
+          "upvotes": 2,
+          "replies": {
+            "fjo2utf": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjo2utf/",
+              "text": "Yeah, this is an eloquent way of describing what I was trying to say. People just seem so hateful over little things for no reason. Subjective truth is valuable, too. People try to hold subjective truth to objective standards, but they\u2019re missing the point. I just don\u2019t understand the ravenous hatred that people sometimes have. \n\nI\u2019m not accusing OP either, but I\u2019m talking about the people who hoped he would die painfully and slowly... and for what? What did he do to offend everybody so much?",
+              "author": "studentthrowaway9876",
+              "created": 1583519395,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "fjmz5fl": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmz5fl/",
+          "text": "> It\u2019s not like he\u2019s trying to create new knowledge or a new perspective. Christian Classical Liberals have been around forever.\n\nHe certainly believes he is. You should see the letter he wrote to his father, saying something along the lines of having discovered something no-one else has running though the entirety of human history. Delusions of Grandeur come to mind.  But to be fair, he wrote that when he was younger, maybe he's grown since then.",
+          "author": "MasterDefibrillator",
+          "created": 1583491292,
+          "upvotes": 1,
+          "replies": {
+            "fjn7k6i": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjn7k6i/",
+              "text": "I\u2019ve seen that letter. The guy is for sure egotistical and perhaps he wanted to be a philosopher (or still believes he is). I guess it\u2019s a grey area with him. I just know that he\u2019s never released any academic philosophy papers or attempted to introduce himself as a philosopher. He has used the nebulous term \u201cintellectual\u201d so who knows with him. In fairness, maps of meaning might be intended as philosophical work as well, but it\u2019s also reasonable that a Neojungian psychoanalytic would attempt a project such as that. I just don\u2019t think he has formally claimed to be breaking into the field of philosophy or released any philosophy papers, so I want to be careful before we label him as \u201cmultidisciplinary\u201d and mock his philosophy career. His Wikipedia page also says nothing about being a philosopher.\n\nDoes he wish he was a philosopher? Probably. But I don\u2019t think he is. It\u2019s a grey area at the very least and depends on how you view jungian psychology.",
+              "author": "studentthrowaway9876",
+              "created": 1583500369,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fjmwpad": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmwpad/",
+      "text": "You see... most ambassadors were linguists in the past. It's not surprising that linguists have interest in politics, history, or geography. You might be a historical linguist, a typologist, you might be a sociolinguist, and so Linguistics might also overlap with politics, history, etc... So for example if you work on language policies you've got to know the laws and the politics. My formation as a linguist included (other than Linguistics itself) the history of a particular language (and so you get to know the history of a country), anthropology, pedagogy, literature, philosophy, some mathematics and computer science. Also note that 'Linguistics itself' also includes cognitive science. So in a sense even though I write about morphosyntax I am also interested about those topics.",
+      "author": "Normal_Kaleidoscope",
+      "created": 1583487771,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fjn2o42": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjn2o42/",
+      "text": "Fritjof Capra\u2019s journey from physicist to systems theory by way of eastern spiritualism is particularly fascinating. There\u2019s plenty of videos etc of him explaining how and why. I can provide more info if anyone is interested.",
+      "author": "bbuzz31",
+      "created": 1583495702,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fjlo689": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlo689/",
+      "text": "Some of us are trained that way: I have four degrees, including two MAs in humanities fields, and my Ph.D. was interdisciplinary by design. I looked over my transcripts once and I have graduate coursework in over a dozen different disciplines (largely humanities and social science). I worked with interdisciplinary scholars as a graduate student and have taught courses in multiple fields over the last 25 years because my specialization is inherently interdisciplinary: I'm an environmental historian.  I have published in humanities, social science, and even STEM journals (though that last was on pedagogy) and often work with interdisciplinary teams or with other interdisciplinary scholars with different backgrounds (like biogeographers, anthropologists, and political ecologists). Some of us also embrace the label of \"public intellectual,\" so writing for general/lay audiences as interpreters of more technical material, on public policy, and the like.",
+      "author": "SnowblindAlbino",
+      "created": 1583450663,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fjn5t5v": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjn5t5v/",
+      "text": "At the risk of sounding like a conspiracy theorist, there's really no such thing as academic fields, they're tools for differentiating qualifications and that's basically it. They're vague general ideas that we can kinda loosely place in boxes, but in the modern day at least the lines are becoming so blurred between them and webbed together that I'm beginning to question if their existence is more problematic than it is useful.\n\nI started with Mathematics and Physics but was initially somewhat interested in the philosophy behind the sciences and how we rationally justified using the systems and philosophical thought we did, but that rarely gets discussed, rather just assumed. When trying to understand the universe, I failed my degree due to mental health issues and questioned: how can I understand the world without understanding the biological and psychological lens through which I'm looking at it, or the foundations for the tools I'm using to understand it like logic, linguistics, etc. Understanding why we've developed such psychological tools can be deepened through studying artificial intelligence and evolutionary psychology, etc. The latter of which is itself somewhat explained by game theory and principles found in machine learning, etc. Psychology is obviously tied into neuroscience, which is itself somewhat tied into computer science, biology and information theory, etc. Psychology amongst many other things seems to feed into criminology, philosophy, economics, education, politics, languages, religion, ethics, etc. Honestly it all just goes on and on and on in an enormous graph that makes you question the utility of the nodes in the first place. \n\nI guess the point I'm making is that defined fields of study are stupid, question everything. Unceasing skepticism takes you to unimaginably interesting places, to constrain it is to castrate it.",
+      "author": "Five_High",
+      "created": 1583498836,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fjlvfpy": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlvfpy/",
+      "text": "> he is also considered a major player in the world of anarcho-syndicalist philosophy.\n\nChomsky is a joke when it comes to any branch of political science.",
+      "author": "KajikiaAudax",
+      "created": 1583455367,
+      "upvotes": -3,
+      "replies": {
+        "fjlwuvy": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlwuvy/",
+          "text": "Why do you say that?",
+          "author": "ashcans-and-dollars",
+          "created": 1583456318,
+          "upvotes": 5,
+          "replies": {
+            "fjlx3ln": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjlx3ln/",
+              "text": "Because I've researched how seriously he's taken (and by that I mean Googling it for a while) and plenty of people with Ph.D's in poli-sci say Chomsky is not taken seriously.",
+              "author": "KajikiaAudax",
+              "created": 1583456480,
+              "upvotes": -6,
+              "replies": {
+                "fjmuwjf": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmuwjf/",
+                  "text": "you should read his \"objectivity and liberal scholarship\". His work details how, for systematic reasons, his kind of work will not get picked up by the people in the positions you mention. Manufacturing consent also tangentially covers this kind of filtering.\n\nChomsky would probably think of himself as a failure if he was popular in political science.",
+                  "author": "MasterDefibrillator",
+                  "created": 1583485188,
+                  "upvotes": 2,
+                  "replies": {
+                    "fjnkgeb": {
+                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjnkgeb/",
+                      "text": "> His work details how, for systematic reasons, his kind of work will not get picked up by the people in the positions you mention.\n\nChomsky's work in poli-sci doesn't get picked up because when it comes to that field he's a nutjob conspiracy theorist, always appealing to some nebulous \"they\" that he never defines; \"They do that to keep people in the dark\", \"They do that to convince you you're in danger\", \"They need someone to blame for their failed policies\", etc... \n\nHe's quite popular among high-schoolers though, kind of like Ayn Rand.",
+                      "author": "KajikiaAudax",
+                      "created": 1583509297,
+                      "upvotes": 1,
+                      "replies": {
+                        "fjos4sw": {
+                          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjos4sw/",
+                          "text": "> always appealing to some nebulous \"they\" that he never defines;\n\nOkay, you've given yourself away now. You clearly have no familiarity with his work.",
+                          "author": "MasterDefibrillator",
+                          "created": 1583533755,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "fjmka6f": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmka6f/",
+                  "text": "I don't know why you are getting downvoted, I have heard that same narrative multiple times. Chomsky gets a lot of criticism for being biased and ill informed about many topics when talking politics.",
+                  "author": "camilo16",
+                  "created": 1583473112,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fjmlwkp": {
+      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmlwkp/",
+      "text": "Jordan Peterson is respected outside of his field of origin. Not sure about philosophy specifically but certainly some.",
+      "author": "GabhaNua",
+      "created": 1583474617,
+      "upvotes": -5,
+      "replies": {
+        "fjmy36u": {
+          "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmy36u/",
+          "text": "Not academically though.",
+          "author": "truagh_mo_thuras",
+          "created": 1583489795,
+          "upvotes": 3,
+          "replies": {
+            "fjmzgki": {
+              "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjmzgki/",
+              "text": "It's pretty varied. I'm an academic and I like his work. A huge number of people cite his work. Sometime I must look to see if it his work in just in psychology that is cited or everything.",
+              "author": "GabhaNua",
+              "created": 1583491715,
+              "upvotes": 1,
+              "replies": {
+                "fjnfxb0": {
+                  "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjnfxb0/",
+                  "text": "I had a quick look on Google Scholar, and that only lists his clinical psychology work and Maps of Meaning (unsurprising, given that his more popular work isn't the sort of stuff that's normally on Google Scholar). Maps of Meaning has a decent amount of citations, but looking randomly at what's available online, its reception is decidedly mixed.\n\nPersonally, I can't take anyone seriously who makes lengthy jeremiads about Marxism and postmodernism without having any familiarity with Marxist or postmodernist theory...",
+                  "author": "truagh_mo_thuras",
+                  "created": 1583506493,
+                  "upvotes": 1,
+                  "replies": {
+                    "fjpnyaj": {
+                      "link": "/r/AskAcademia/comments/fdzgvt/how_do_academics_become_multidisciplinary_like/fjpnyaj/",
+                      "text": "He has 143 papers on google scholar. I am not sure if that is what you refer to by but it is quite a lot. Yes he has has less citations than the most cited in psychology but he is also younger too.",
+                      "author": "GabhaNua",
+                      "created": 1583556033,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

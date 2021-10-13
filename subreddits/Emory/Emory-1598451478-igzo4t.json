@@ -1,0 +1,75 @@
+{
+  "sid": "igzo4t",
+  "link": "/r/Emory/comments/igzo4t/im_making_an_app_that_helps_students_in_the_same/",
+  "title:": "I'm making an app that helps students in the same classes & majors at Emory learn from each other. The app will let you ask questions, get advice and share resources with students & upperclassmen in your major/class. Check it out, I'd love some feedback! We go live @UVA, Emory, VT & Cornell in Sept!",
+  "text": "[www.joinqwerty.com](https://www.joinqwerty.com)",
+  "author": "qwerty_uni",
+  "created": 1598451478,
+  "updated": 1634098713,
+  "over_18": false,
+  "upvotes": 21,
+  "upvote_ratio": 0.85,
+  "comments": {
+    "g2yumqe": {
+      "link": "/r/Emory/comments/igzo4t/im_making_an_app_that_helps_students_in_the_same/g2yumqe/",
+      "text": "Qwerty? Like standard keyboard layout QWERTY?",
+      "author": "No11room3",
+      "created": 1598485866,
+      "upvotes": 5,
+      "replies": {
+        "g2zpn74": {
+          "link": "/r/Emory/comments/igzo4t/im_making_an_app_that_helps_students_in_the_same/g2zpn74/",
+          "text": "Exactly, the name doesn't really have any significance except for the fact that our team is kinda quirky and qwerty rhymes lmao!",
+          "author": "qwerty_uni",
+          "created": 1598503707,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "g31niwm": {
+      "link": "/r/Emory/comments/igzo4t/im_making_an_app_that_helps_students_in_the_same/g31niwm/",
+      "text": "what's the difference between this and joining a groupme to cheat?",
+      "author": null,
+      "created": 1598550939,
+      "upvotes": 1,
+      "replies": {
+        "g31squl": {
+          "link": "/r/Emory/comments/igzo4t/im_making_an_app_that_helps_students_in_the_same/g31squl/",
+          "text": "That's a great question; so we actually have a few mechanisms in place that help prevent cheating. The biggest one is that even though you could be anonymous to your fellow users on the platform, you'd have to sign up with your school email with us to use the platform. \n\nFor a list of some of the others check out [this](https://www.joinqwerty.com/blog/honor) blog post. We're also currently working on quite a few more ways to prevent academic dishonesty on the platform, I'd be happy to keep you posted on those as well! I'd also love to hear any recommendations that you may have!",
+          "author": "qwerty_uni",
+          "created": 1598553086,
+          "upvotes": 1,
+          "replies": {
+            "g32ko43": {
+              "link": "/r/Emory/comments/igzo4t/im_making_an_app_that_helps_students_in_the_same/g32ko43/",
+              "text": "After reading the blog post all I have to say is that if you want to roll this out at so many STEM-heavy/premed-heavy schools you're going to need much tougher restrictions than an honor pledge and professor access.",
+              "author": null,
+              "created": 1598566080,
+              "upvotes": 1,
+              "replies": {
+                "g33k7xs": {
+                  "link": "/r/Emory/comments/igzo4t/im_making_an_app_that_helps_students_in_the_same/g33k7xs/",
+                  "text": "So that's what we're trying to do with the community side of it as well as the AI we're putting in on the backend. I think this is one of those things that once enforced will probably send a clearer message to people, but you're right, we do need tougher restrictions. Would you mind if I shot you a DM fielding some ideas?",
+                  "author": "qwerty_uni",
+                  "created": 1598585476,
+                  "upvotes": 1,
+                  "replies": {
+                    "g35ju2q": {
+                      "link": "/r/Emory/comments/igzo4t/im_making_an_app_that_helps_students_in_the_same/g35ju2q/",
+                      "text": "Not at all, go for it",
+                      "author": null,
+                      "created": 1598635220,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

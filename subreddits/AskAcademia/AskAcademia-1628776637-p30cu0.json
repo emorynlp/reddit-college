@@ -1,0 +1,113 @@
+{
+  "sid": "p30cu0",
+  "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/",
+  "title:": "How do you manage and keep track your citations (papers)?",
+  "text": "This is more of what are the neat tricks for the reference managers. I'm trying to find out a centralized version of having notes about a paper + easily generate a bib of it for citing. But Mendeley and Notion (my current setup for notes) has been disjoint since Notion doesn't seem to have an integration for it. \n\n&#x200B;\n\nI'm looking for alternatives, workaround, suggestions, thoughts.",
+  "author": "thnok",
+  "created": 1628776637,
+  "updated": 1634079813,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h8nmuo1": {
+      "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8nmuo1/",
+      "text": "Zotero is the answer.",
+      "author": "CptSmarty",
+      "created": 1628777290,
+      "upvotes": 23,
+      "replies": {
+        "h8o9h62": {
+          "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8o9h62/",
+          "text": "Zotero is great. Using the subfolder really helps organize everything by subject or subtopic. If you need extra I also keep an excel with the main points of papers if I want something a little more fine-grained.",
+          "author": "EpiJade",
+          "created": 1628786711,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h8nm2o2": {
+      "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8nm2o2/",
+      "text": "I used Bibtex when I was writing papers in grad school.  Every reference I ever touched got an entry in my reference database.  Cite by tag out of that and Bibtex generated the bibliography and inline citations according to the journal's style.\n\nGood and common for STEM areas, less so, I think, for others.",
+      "author": "shellexyz",
+      "created": 1628776940,
+      "upvotes": 7,
+      "replies": {
+        "h8p6eu4": {
+          "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8p6eu4/",
+          "text": "I use the BetterBibTex plugin for Zotero to insert citation (BibTex \u201ccite keys\u201d, which identify the reference in my Zotero library) in a Markdown file. This helps me to easily cite the paper when I\u2019m writing (by just typing the cite key like so `@NomadMimi2021`), which will be formatted into a proper citation and generate a bibliography when I convert the document into a docx. Same would apply for LaTex, of course. \n\nBut to actually remember what every citation \u201cis about\u201d I use the /r/Zettelkasten method! It\u2019s a bit cumbersome but it helps me massively to take and make notes and evolve my knowledge on a subject.",
+          "author": "NomadMimi",
+          "created": 1628800318,
+          "upvotes": 3,
+          "replies": {
+            "h8p6fz4": {
+              "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8p6fz4/",
+              "text": "Here's a sneak peek of /r/Zettelkasten using the [top posts](https://np.reddit.com/r/Zettelkasten/top/?sort=top&t=all) of all time!\n\n\\#1: [I wrote the book I wish I had when I started Zettelkasten](https://np.reddit.com/r/Zettelkasten/comments/nn772y/i_wrote_the_book_i_wish_i_had_when_i_started/)  \n\\#2: [A brilliant and actionable guide to better note-taking](https://np.reddit.com/r/Zettelkasten/comments/gmso12/a_brilliant_and_actionable_guide_to_better/)  \n\\#3: [I found a gem](https://np.reddit.com/r/Zettelkasten/comments/jho1em/i_found_a_gem/)\n\n----\n^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/o8wk1r/blacklist_ix/)",
+              "author": "sneakpeekbot",
+              "created": 1628800331,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h8o1v8v": {
+      "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8o1v8v/",
+      "text": "Seconding Zotero. It is pretty darn awesome in terms of functionalities, and is open-source and completely free.",
+      "author": "Estus_Is_Life",
+      "created": 1628783635,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h8r66tq": {
+      "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8r66tq/",
+      "text": "Citavi. \nYou can create a knowledge database by marking passages in PDF documents, commenting on them and sorting them into categories as you please. These same categories you can use to sort your papers into. It's incredibly helpful to keep track.\nAlso you can crate a knowledge web since it allows you to link papers cited by/citing your paper from your database.",
+      "author": "Yeastronaut",
+      "created": 1628835959,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8nq1xy": {
+      "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8nq1xy/",
+      "text": "I use mendeley",
+      "author": "ThePhysicistIsIn",
+      "created": 1628778688,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8nlo9h": {
+      "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8nlo9h/",
+      "text": "Bibdesk works for me",
+      "author": "julovi",
+      "created": 1628776757,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8nsaa9": {
+      "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8nsaa9/",
+      "text": "Readcube papers is a good option too. It is a reference manager with all the the word plug ins and stuff, but the main reason I like it, is for its PDF viewer. Its integrated right into the app so it\u2019s easy to make notes and annotate.",
+      "author": "sensorimotorneuro",
+      "created": 1628779644,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8o5fed": {
+      "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8o5fed/",
+      "text": "IF you can't remember 400 references and their main points/how it relates to your research, why even bother?",
+      "author": "EudaemonicImposter",
+      "created": 1628785095,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8on5vh": {
+      "link": "/r/AskAcademia/comments/p30cu0/how_do_you_manage_and_keep_track_your_citations/h8on5vh/",
+      "text": "RefWorks by ProQuest is pretty good.  I appreciate the Google docs & word plug ins.",
+      "author": "LibrarianStitcher",
+      "created": 1628792182,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

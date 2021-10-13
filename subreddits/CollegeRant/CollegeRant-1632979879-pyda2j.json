@@ -1,0 +1,22 @@
+{
+  "sid": "pyda2j",
+  "link": "/r/CollegeRant/comments/pyda2j/i_have_to_program_a_tamagotchi/",
+  "title:": "I have to program a tamagotchi",
+  "text": "To preface, I'm doing a programming assignment where there is also a video attached as an example of what the results should look like. Basically, we have to create a virtual pet that is the shape of a cylinder and starts shrinking over time. To stop it from shrinking, you can feed it, this increases its radius (again, cylinder). The video example makes ZERO sense! We have to calculate the pet's \"happiness,\" which is just its current volume divided by its original volume. When I did this, I got results that I expected, because I know how to do math and I feel like my program is correct. If I started with a radius of 10 and a height of 100, the starting volume is around 30,000. But when I feed it a value of 10 (increase the radius by 10), I'm left with a new volume of over 100,000. This makes sense to me, because increasing the radius drastically increases the volume because the radius is squared. When calculated the pet's \"happiness,\" I got a number around 400% after doing \\~100,000 divided by \\~30,000. But in the example video, the professor's pet's happiness only rises to 113%...how does that make any sense?!",
+  "author": "Wolf_Man_Boy",
+  "created": 1632979879,
+  "updated": 1634093922,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hetnsib": {
+      "link": "/r/CollegeRant/comments/pyda2j/i_have_to_program_a_tamagotchi/hetnsib/",
+      "text": "i think you are obsessing over this too much... just increase the desired value by 13%\n\nor increase each with separately calculated values",
+      "author": "Tight_Range_5690",
+      "created": 1632985184,
+      "upvotes": 3,
+      "replies": {}
+    }
+  }
+}

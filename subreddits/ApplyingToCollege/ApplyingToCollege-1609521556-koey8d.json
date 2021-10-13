@@ -1,0 +1,1620 @@
+{
+  "sid": "koey8d",
+  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/",
+  "title:": "A Website I Made For A2C With Simplified Common Data Sets For T30s",
+  "text": "Website: [http://commondatasets.com/](http://commondatasets.com/)\n\nSo a few months ago I wanted to code a website, so I asked this sub what to make. I got a comment saying how common data sets were too unaesthetic and difficult to navigate, so I have been working on a website that lists the common data sets of Top 30 Universities in a way that is hopefully easier to digest than the current common data sets. I honestly left out a lot of information from the CDSs and I probably made a lot of errors along the way (if you catch any please let me know so I can fix them), but this was my first ever real project that I have done outside of school, so I tried my best. I did most of this as a side project, so sorry for posting it so late along the application process, but hopefully it can be helpful to future applicants or just a cool thing to look at. The page where you compare colleges is still in the works, as it is a bit more difficult to code, so I will hopefully eventually get around to it. I just hope the site works for now as I have never done anything like this before. Thank you guys!\n\n(Also if anyone is wondering, this is a repost. First post was taken down, but I received approval from the mods to post this link this time around).\n\n(Also Also I do not want to claim everything here is 100% factual, but the numbers should all be pretty close to reality (unless I made a huge mistake somewhere), sorry it is not perfect, I hope to improve in future projects. I will get around to fixing errors later tonight or within a day or two as I am grinding through my applications right now, so I might not have the most time to make edits, either way thank you for any feedback!)\n\nEdit: Just woke up again, and thank you guys so much for all of the support and I am glad you guys seem to be enjoying it. I will try to respond to all questions/input, but sorry if I miss yours. Hopefully I can get around to working out some of the issues you guys mentioned tonight, but I apologize in advance if I can not get to it until a day or two, as I have like 4 applications I need to complete in like the next 3 days haha. Once again thank you guys for the feedback, and I am happy to be able to help out the community.\n\nEdit 2: I will try making a list with all of the things people have mentioned could benefit the site. Once I fix any issues with the site, I will try implementing the features/visual changes people recommended (might be a bit later in the month).\n\nAlso, I've realized I keep saying \"thank you\", but I genuinely mean it to each of you guys. I am really grateful for all of the feedback and support, and do not really know how else to respond haha.",
+  "author": "Waitlist_and_Reject",
+  "created": 1609521556,
+  "updated": 1634077676,
+  "over_18": false,
+  "upvotes": 1732,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "ghqnfeu": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqnfeu/",
+      "text": "Wow this is amazing! The website layout is extremely nice to look at. I've always been touting the usefulness of the CDS, and I'm the kid who made graphs for each school. The annoying part of constructing those graphs was the fact that CDSs were all in different places. Having them all collected in the same spot is very useful and powerful.",
+      "author": "Jack-Holland",
+      "created": 1609524523,
+      "upvotes": 134,
+      "replies": {
+        "ghqzhbp": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqzhbp/",
+          "text": "Thank you so much! Hopefully this can help with you graphs.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609528954,
+          "upvotes": 20,
+          "replies": {}
+        }
+      }
+    },
+    "ghqg4zo": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqg4zo/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1609521798,
+      "upvotes": 94,
+      "replies": {
+        "ghqgamk": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqgamk/",
+          "text": "Thank you! I hope it helps!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609521856,
+          "upvotes": 12,
+          "replies": {}
+        }
+      }
+    },
+    "ghqvd8a": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqvd8a/",
+      "text": "can this get a weekly best of tag? so cool!!!",
+      "author": "genuisgenuis",
+      "created": 1609527430,
+      "upvotes": 45,
+      "replies": {}
+    },
+    "ghqltpk": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqltpk/",
+      "text": "This is great! I think it would also be cool if there was a search function",
+      "author": "pussyfkr420_69",
+      "created": 1609523911,
+      "upvotes": 24,
+      "replies": {
+        "ghqzb9m": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqzb9m/",
+          "text": "I was thinking of implementing one, but I think I need a little more practice with Javascript. I will try to get one done by the time I complete the comparison page. Thank you!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609528890,
+          "upvotes": 23,
+          "replies": {}
+        }
+      }
+    },
+    "ghqkhyi": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqkhyi/",
+      "text": "God fuck you are my savior",
+      "author": "Zoom_KR",
+      "created": 1609523422,
+      "upvotes": 65,
+      "replies": {}
+    },
+    "ghqi2dq": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqi2dq/",
+      "text": "Pictures for CMU arent loading for me, but the website seems really helpful",
+      "author": "UCLASimpLord",
+      "created": 1609522523,
+      "upvotes": 15,
+      "replies": {
+        "ghqiw54": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqiw54/",
+          "text": "Thank you for the info, Ill check on that in a bit, going to go back to sleep for a little. There seemed to be an issue with the effect of capitalization in the image file names once the site was published.\n\nEdit: Issue should be resolved!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609522839,
+          "upvotes": 11,
+          "replies": {
+            "ghtlxnk": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghtlxnk/",
+              "text": "The website looks great. Images take a while to load though (likely due to being extremely high res). \n\nI would:\n\na) Enable Content Delivery Network (CDN)\n\nb) Maybe use lower res assets",
+              "author": "bbm9",
+              "created": 1609591001,
+              "upvotes": 1,
+              "replies": {
+                "ghvcdd5": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghvcdd5/",
+                  "text": "Oo alright Ill look into that thank you!",
+                  "author": "Waitlist_and_Reject",
+                  "created": 1609626602,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ghqqftw": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqqftw/",
+      "text": "none of my schools are on here and still i\u2019ve spent the last half hour going through this obsessed. very cool.",
+      "author": "CloutDaddyLloyd",
+      "created": 1609525624,
+      "upvotes": 9,
+      "replies": {
+        "ghr0lu1": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr0lu1/",
+          "text": "Haha thank you, good luck with your decisions!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609529360,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "ghqo1r0": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqo1r0/",
+      "text": "Quite useful tool for applicants. Thank you . (UChicago maybe need some extra work)",
+      "author": "Richie_bay",
+      "created": 1609524758,
+      "upvotes": 11,
+      "replies": {
+        "ghr0ee6": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr0ee6/",
+          "text": "Thank you! I struggled to find data for UChicago (I don't believe they had a CDS), so I apologize that it has such little information. If anyone can find more data for UChicago, I would appreciate it.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609529285,
+          "upvotes": 8,
+          "replies": {
+            "ghra2h8": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghra2h8/",
+              "text": "I looked around for months and I couldn\u2019t find anything of real value. It seems like UChicago isn\u2019t too keen on sharing their CDS for whatever reason....or I\u2019m just bad at looking for things",
+              "author": "SwamiTsunami",
+              "created": 1609533485,
+              "upvotes": 8,
+              "replies": {
+                "ghrzpve": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrzpve/",
+                  "text": "Yeah UChicago has been pretty aggressively pursuing the low acceptance rate/high yield combo for the last couple years as part of their (successful) bid to rise in rankings, could be that they don\u2019t want to share exactly how they\u2019re doing it lol",
+                  "author": "beccase",
+                  "created": 1609547380,
+                  "upvotes": 7,
+                  "replies": {}
+                },
+                "ghsaoah": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsaoah/",
+                  "text": "there's a statistic floating around that they enroll 80% of their incoming class from the ED applicant pools, don't know if that's true but if that rumor has any weight it might explain why they're so secretive. if that was possibly verified, i would imagine it would discourage many people applying RD.",
+                  "author": "laflame0909",
+                  "created": 1609553524,
+                  "upvotes": 6,
+                  "replies": {
+                    "ghsayi4": {
+                      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsayi4/",
+                      "text": "I thiiiiiiiink I heard in the admissions call that they take 25 percent of their class from each classification? I could be misremembering though.",
+                      "author": "SwamiTsunami",
+                      "created": 1609553674,
+                      "upvotes": 2,
+                      "replies": {
+                        "ghsbiwq": {
+                          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsbiwq/",
+                          "text": "yeah i remember that in one of their admissions zoom call events, they talked about how they take the same amount of people from every pool, however i'm not sure if that's entirely true. i think the 80% number is a bit exaggerated however its odd that ive never met a uchicago student that wasn't an ED applicant. might just be a coincidence but still.",
+                          "author": "laflame0909",
+                          "created": 1609553981,
+                          "upvotes": 3,
+                          "replies": {
+                            "ghsip9i": {
+                              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsip9i/",
+                              "text": "Same, even I haven't heard of one. The 80% number definitely sounds exaggerated but I think 60%+ could be true.",
+                              "author": "the-sideline-story",
+                              "created": 1609557892,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ghrvveh": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrvveh/",
+      "text": "This is serious great work OP- it's been needed for a long time! You should definitely drop the github repo as well- maybe in the future this could be an extension or something, that pulls up a school's cds whenever you're on their website.",
+      "author": "ashtree_c",
+      "created": 1609545232,
+      "upvotes": 6,
+      "replies": {
+        "ghs1osw": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs1osw/",
+          "text": "Thank you so much, and the extension actually sounds like a good idea. I am currently starting to learn to work on a chrome extension actually, so this could actually be a great way to take that project!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609548487,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "ghqqcod": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqqcod/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1609525592,
+      "upvotes": 10,
+      "replies": {
+        "ghr0jsj": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr0jsj/",
+          "text": "Thank you! After I try to implement some features into the site, I will definitely try expanding the list of colleges.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609529339,
+          "upvotes": 8,
+          "replies": {}
+        }
+      }
+    },
+    "ghqqdv8": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqqdv8/",
+      "text": "This is really good and super easy to navigate! If you have the willpower or time, what might be helpful or the next class of seniors is average net cost per income bracket or percent of scholarships given for students with need vs no need. Financials are a huge part of choosing colleges and any sort of key financial data point to compare the various colleges might be helpful.",
+      "author": "11annoyed_dudes",
+      "created": 1609525604,
+      "upvotes": 8,
+      "replies": {
+        "ghqzll6": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqzll6/",
+          "text": "Oo alright, seems like a smart feature to implement. I'll take note of it and add it to a list of potential features. Thank you!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609529000,
+          "upvotes": 7,
+          "replies": {
+            "ghsdyzl": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsdyzl/",
+              "text": "[this](https://www.collegetransitions.com/dataverse/merit-aid) has been pretty helpful",
+              "author": "GreenTNT",
+              "created": 1609555277,
+              "upvotes": 2,
+              "replies": {
+                "ghsh9fm": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsh9fm/",
+                  "text": "Oo thank you for that, it will make getting financial aid information a lot easier!",
+                  "author": "Waitlist_and_Reject",
+                  "created": 1609557070,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ghqka2d": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqka2d/",
+      "text": "That is actually amazing!",
+      "author": "Financial-Mail441",
+      "created": 1609523343,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "ghqo7b8": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqo7b8/",
+      "text": "what hosting service are you using for this? or are u hosting it off of your computer? \ud83d\ude42",
+      "author": "idiotgopher92",
+      "created": 1609524814,
+      "upvotes": 5,
+      "replies": {
+        "ghr0g2w": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr0g2w/",
+          "text": "I am using GoDaddy",
+          "author": "Waitlist_and_Reject",
+          "created": 1609529301,
+          "upvotes": 6,
+          "replies": {
+            "ghrmy3g": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrmy3g/",
+              "text": "Not sure if you\u2019re using a specific framework on GoDaddy but if it\u2019s just plain html/css/js... basically static, you could host it on GitHub pages for free.",
+              "author": "LaplaceC",
+              "created": 1609540308,
+              "upvotes": 5,
+              "replies": {
+                "ghshpwj": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghshpwj/",
+                  "text": "Its just plain html/css/js, I just used godaddy because I figured they would be easiest to host on and I got a deal for $12 for a whole year plus the domain was free. Thank you, I may look into the free hosting once my one year expires!",
+                  "author": "Waitlist_and_Reject",
+                  "created": 1609557329,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "gi8gz2f": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/gi8gz2f/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1609886420,
+                  "upvotes": 1,
+                  "replies": {
+                    "gi94g68": {
+                      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/gi94g68/",
+                      "text": "Yeah, i like firebase, but OP seems to be new, and IMO there\u2019s a lot less other stuff with GitHub pages. Also VCS is probably the most important thing to learn for getting a job.",
+                      "author": "LaplaceC",
+                      "created": 1609896808,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ghqwqr8": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqwqr8/",
+      "text": "I like it, but some of the graphics could use a bit of work, mainly in terms of making sure logos don\u2019t blend into their backgrounds. For example, when you click on a school to see its data, the school logo (and especially the writing) on the banner on top really blends in with the banner background. Depending on how far you plan to go with this project, a possible future addition could be adding in some facts about what common data sets even are so people can get their info without having to leave your site. Great job so far!",
+      "author": "carlyc999",
+      "created": 1609527961,
+      "upvotes": 15,
+      "replies": {
+        "ghr062m": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr062m/",
+          "text": "Thank you so much for all of you input! Yea I noticed some of banners blended in really poorly, so I may implement some sort of border or slight background to add to the aesthetic. Also I never thought of informing people on CDS's so thank you for that as well. I could add a tab at the top to inform people about what my website is. Thank you for the support and feedback, I appreciate it!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609529202,
+          "upvotes": 13,
+          "replies": {}
+        }
+      }
+    },
+    "ghqpocs": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqpocs/",
+      "text": "This is excellent, well done!",
+      "author": "Gshawn875",
+      "created": 1609525348,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "ghrble9": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrble9/",
+      "text": "this may be a dumb question ... but for the tuition info is that per year or total",
+      "author": "bananamuffinsparkle3",
+      "created": 1609534289,
+      "upvotes": 4,
+      "replies": {
+        "ghrc911": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrc911/",
+          "text": "Haha there are no dumb questions don't worry, but that is per year. Obviously the application fee and some other fees are a one time thing, but the tuition is yearly.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609534639,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "ghqn8ih": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqn8ih/",
+      "text": "this is so good!!!",
+      "author": "cindabunnn",
+      "created": 1609524451,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "ghqp0ri": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqp0ri/",
+      "text": "This is pretty cool!",
+      "author": "Athena073",
+      "created": 1609525110,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "ghqvtl1": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqvtl1/",
+      "text": "I'd suggest adding a background to each school's logo to make it distinct from the background (such as a solid white circle). \n\nAlso, have you thought about open sourcing it so others could contribute?",
+      "author": "meaningless-human",
+      "created": 1609527609,
+      "upvotes": 3,
+      "replies": {
+        "ghr0zg5": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr0zg5/",
+          "text": "Yea, some of the logos blend in too much, I may add either a background or border to them to make them pop out. And yes, someone mentioned in my previous post to open source it, and I will most likely do that once I fix issues and implement a few of the remaining features I plan on adding. Thank you for the feedback!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609529496,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "ghr0vkp": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr0vkp/",
+      "text": "Nice website! It loads fairly quickly (only the images on the main page can slow down a bit).\n\nI just want to offer two small, humble suggestions:\n\nOn the main page, the title \"A2C Common Data Sets\" can be moved to the top center, since that is where most people look for a website title. If the visual balance with the buttons \"Data Sets\" and \"Compare\" on the top left is a concern, the \"2019-2020\" part can stay in the top right and maybe as something like \"2019-2020 Data\".\n\nSeconding what carlyc999 suggested, I agree that the school names can look indistinct on the school-specific banners (e.g. MIT, Stanford, and Cornell).\n\nOverall, my two suggestions are minor and easily resolvable. In regards to what meaningless-human stated, it would also be possible for you to transition this project into a community-wide one if you make the code open-source, but this is really down to your personal preference.\n\nThanks for your contribution, and have a nice day!",
+      "author": "Ilalochezia",
+      "created": 1609529459,
+      "upvotes": 3,
+      "replies": {
+        "ghr2riq": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr2riq/",
+          "text": "Thank you for the honest feedback! \n\nYou were correct with the visual balance statement, as I put \"A2C Common Data Sets 2019-2020\" on the side to make the header balanced. It would make more sense to have A2C Common Data Sets as a title, and just leave the year on the side for balance. I will try testing out how it looks once I have time, thank you! \n\nAlso,  yea some of the banners blend in really poorly, so I will either add the same border/background to all banners, or only edit the ones that look really bad (I remember Cornell's banner definitely needs some work haha). \n\nAnd yes, I will try to eventually open source the code once I sort out some of the bugs/issues and fix the visuals. It might be towards the end of the month, and I might need some time figuring out how to do so haha. \n\nHave a nice day as well!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609530158,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "ghr1jge": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr1jge/",
+      "text": "This is so aesthetically pleasing! I would love to see it expanded to T50s as well but I know that would probably be a ton of work for you. Thank you for your time and effort!",
+      "author": "thatpunkymonkey",
+      "created": 1609529698,
+      "upvotes": 3,
+      "replies": {
+        "ghr3n26": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr3n26/",
+          "text": "Thank you! I do plan on eventually adding more colleges, but it may be later in the year.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609530492,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghr21rs": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr21rs/",
+      "text": "This is great! Was this just done using HTML and CSS? Or is there some Javascript being used as well?",
+      "author": "nickvader7",
+      "created": 1609529883,
+      "upvotes": 3,
+      "replies": {
+        "ghr3enk": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr3enk/",
+          "text": "Thank you! Mainly HTML and CSS, Javascript was used to make the square things pop out on each college's page. Also, I plan on adding more features with JavaScript later on, it is just a bit more complicated than HTML and CSS for me, so I am still kinda learning.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609530402,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghr2dih": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr2dih/",
+      "text": "U should put this as an EC, it\u2019s great work",
+      "author": "FlowerPositive",
+      "created": 1609530005,
+      "upvotes": 3,
+      "replies": {
+        "ghr3apy": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr3apy/",
+          "text": "Haha thank you, I just put coding as like a general EC, and mentioned my website as one of my projects.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609530361,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "ghr6xxr": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr6xxr/",
+      "text": "LEGEND TYSM",
+      "author": null,
+      "created": 1609531788,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "ghr9kli": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr9kli/",
+      "text": "Looks great! You should include financial aid data too, and links to the source where you are getting the info from.",
+      "author": "physicsperson",
+      "created": 1609533221,
+      "upvotes": 3,
+      "replies": {
+        "ghrctkc": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrctkc/",
+          "text": "Thank you! Most of the data is from the Common Data Sets of each college, but I did get some external data, so I can make a tab with all of the links to the CDS's for each college and the few external links I used. Also I will look into adding financial aid data, as another person mentioned it as well.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609534946,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghrfb89": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrfb89/",
+      "text": "Holy crap my guy",
+      "author": "toreimi",
+      "created": 1609536288,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "ghrne6a": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrne6a/",
+      "text": "Absolute legend! Id love to see T10 or T20 LACs and T50s over time. This is genuinely a lifesaver!!!",
+      "author": "TheBeltwayBoi",
+      "created": 1609540548,
+      "upvotes": 3,
+      "replies": {
+        "ghs0ku8": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs0ku8/",
+          "text": "Haha thanks, I will eventually try to add a separate tab for the top LACs.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609547859,
+          "upvotes": 1,
+          "replies": {
+            "ghsbe3n": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsbe3n/",
+              "text": "Cool! However, I'd love to see a tab expanded for the LACs expanded from T-20 to T-50/T-75, as I'd love to read data of great but lesser-known liberal arts colleges. Thanks!",
+              "author": "Fearless-Quit",
+              "created": 1609553908,
+              "upvotes": 2,
+              "replies": {
+                "ghsh46y": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsh46y/",
+                  "text": "op might get to it, but its gonna take them a while. the list is only showing the top 30 universities rn, much less lac's. be patient.",
+                  "author": "abuboi",
+                  "created": 1609556988,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ghrt9zr": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrt9zr/",
+      "text": "Did you hard code the information on the website or does it reference the Common Data Sets from a database through code? Just wondering\u2014excellent job so far!",
+      "author": "DharshanT",
+      "created": 1609543794,
+      "upvotes": 3,
+      "replies": {
+        "ghs1ain": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs1ain/",
+          "text": "Thank you! And I hard coded everything, I don't think I am knowledgeable enough to draw information from data bases so far haha.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609548262,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghs7h0c": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs7h0c/",
+      "text": "The Department of Education offers free data in IPEDS plus quite a lot of information on each institution at https://nces.ed.gov/collegenavigator/. This is a central CDS repo.",
+      "author": "Runner1928",
+      "created": 1609551752,
+      "upvotes": 3,
+      "replies": {
+        "ghsgtei": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsgtei/",
+          "text": "Thank you for that information, I'm sure others can benefit from it and I can use it for more data on my site!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609556821,
+          "upvotes": 1,
+          "replies": {
+            "ghsjm0w": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsjm0w/",
+              "text": "No problem and good luck! Working with education data in general and IPEDS specifically launched my career. Keep education data science in mind!",
+              "author": "Runner1928",
+              "created": 1609558412,
+              "upvotes": 2,
+              "replies": {
+                "ghsmau1": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsmau1/",
+                  "text": "Thank you so much, hopefully you're enjoying your work!",
+                  "author": "Waitlist_and_Reject",
+                  "created": 1609559945,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ght459a": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ght459a/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1609572425,
+      "upvotes": 3,
+      "replies": {
+        "ghtclzs": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghtclzs/",
+          "text": "Thank you for the information! And yea I was looking at cloudflare for SSL verification, but since I am hosting through godaddy I am not sure how to get SSL verification through other sources. I am unsure if I am missing something and can use services like certbot with godaddy, but I kind of wish I looked more into hosting services because godaddy charges a $60+ fee for their SSL. I may eventually just pay the fee out of pocket if I cant get a free SSL, but I will definitely look into it thank you!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609581077,
+          "upvotes": 1,
+          "replies": {
+            "ghtu70w": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghtu70w/",
+              "text": "Cloudflare has free ssl that works with godaddy. Highly recommend as Cloudflare also gets you good performance by caching static files",
+              "author": "dayatthebeach6",
+              "created": 1609597682,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ghqr685": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqr685/",
+      "text": "This is incredible well done",
+      "author": "govschoolkid69",
+      "created": 1609525888,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghqr74l": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqr74l/",
+      "text": "omg i love it",
+      "author": "anywaysidek",
+      "created": 1609525897,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghqu8d8": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqu8d8/",
+      "text": "Wow, really impressive!",
+      "author": "NiceBackAir",
+      "created": 1609526997,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghqusas": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqusas/",
+      "text": "well done!! I love the layout and it makes everything so much clearer!",
+      "author": "Far-Measurement",
+      "created": 1609527212,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghqva5u": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqva5u/",
+      "text": "beautiful",
+      "author": null,
+      "created": 1609527398,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghqy06z": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghqy06z/",
+      "text": "This is very helpful, thanks!",
+      "author": "DaaaYankeesLose",
+      "created": 1609528416,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghr0r4b": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr0r4b/",
+      "text": "Amazing",
+      "author": "Rayleigh077",
+      "created": 1609529414,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghr6y0v": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghr6y0v/",
+      "text": "Yo this is so good, very well made, ty",
+      "author": null,
+      "created": 1609531789,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghramsb": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghramsb/",
+      "text": "This is absolutely incredible - it\u2019ll help me so much this year!",
+      "author": "pumkinspice-depresso",
+      "created": 1609533790,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghratd2": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghratd2/",
+      "text": "this is so cool!! you should email it to people like the college essay guy. he often mentions resources like this in his videos (that's where i actually found out that the cds was a thing)",
+      "author": "mathwoman",
+      "created": 1609533881,
+      "upvotes": 2,
+      "replies": {
+        "ghrcevv": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrcevv/",
+          "text": "Oo thank you for letting me know about this! I'll look into emailing him, the more people that can find use out of this resource the better.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609534726,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "ghrcyhn": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrcyhn/",
+      "text": "This is amazing!!!",
+      "author": "Curious-Sale5293",
+      "created": 1609535019,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrd8a7": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrd8a7/",
+      "text": "this is really cool!\n\none little issue I noticed is that for some state schools (e.g. UNC) the \"Geographic Breakdown\" percentages don't sum to 100\u2014it seems, perhaps, that international students are lumped in with out-of-state students on that data set, but the display on the website separates them, leading to a total of 105%.",
+      "author": "apad201",
+      "created": 1609535166,
+      "upvotes": 2,
+      "replies": {
+        "ghrdott": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrdott/",
+          "text": "Thank you! Also for the geographic breakdowns, I believe most (if not all) colleges should have parenthesis saying \"exclude international\" next to the percentages of instate and outer state. The CDS doesnt actually display international percentages if I remember correctly, so I had to do the math separately using the admitted student demographics. Sorry if I am not making any sense or if I messed it up on UNC, I will take a look.\n\nEdit: Basically the in-state and out-of-state percentages are out of 100% but they only account for admits from the US. The international percentage is the total admitted from the entire freshman class.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609535415,
+          "upvotes": 1,
+          "replies": {
+            "ghrob6g": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrob6g/",
+              "text": "Ooh I see, I assumed they were all out of the whole class and thought the \u201c(exclude international)\u201d indication just meant that international student weren\u2019t included in the OOS percentage. That makes sense\u2014thanks for explaining.",
+              "author": "apad201",
+              "created": 1609541043,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ghrda34": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrda34/",
+      "text": "This is really helpful, thanks so much for sharing!",
+      "author": "kayc112",
+      "created": 1609535193,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghreoul": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghreoul/",
+      "text": "wow thank you so much!!!",
+      "author": "likesundayslikerain",
+      "created": 1609535966,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrflso": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrflso/",
+      "text": "This is amazing tysm! A really cool feature you could add are early decision/rea acceptance rates, I\u2019ll definitely use this in the future",
+      "author": "hard_ish",
+      "created": 1609536439,
+      "upvotes": 2,
+      "replies": {
+        "ghrftje": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrftje/",
+          "text": "Thank you! And I already have that information haha, if you go to a college's page and go under applicant pools (Should be the first header after the fast facts) you can see that EA/ED acceptance rates for the schools that I could find the information from.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609536554,
+          "upvotes": 2,
+          "replies": {
+            "ghrg0d6": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrg0d6/",
+              "text": "Oh I see it now, my b for taking a such a cursory view. Honestly great job!",
+              "author": "hard_ish",
+              "created": 1609536655,
+              "upvotes": 2,
+              "replies": {
+                "ghrgxyd": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrgxyd/",
+                  "text": "No worries, you were just trying to help, thank you!",
+                  "author": "Waitlist_and_Reject",
+                  "created": 1609537154,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ghrhazf": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrhazf/",
+      "text": "This is better than google!",
+      "author": "Less_Grapefruit_6503",
+      "created": 1609537346,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrhd5v": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrhd5v/",
+      "text": "Carnegie RD deadline is the 4th not the 1st. Scared the shit out of me for a second",
+      "author": "Dakkan10",
+      "created": 1609537379,
+      "upvotes": 2,
+      "replies": {
+        "ghrik08": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrik08/",
+          "text": "Sorry about that! I used information from the 2019-2020 Common Data Sets, so I went by the deadline displayed there. Good luck on your application, and hopefully you get in!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609537993,
+          "upvotes": 1,
+          "replies": {
+            "ghrj37s": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrj37s/",
+              "text": "Thank u but I am not getting in \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+              "author": "Dakkan10",
+              "created": 1609538280,
+              "upvotes": 2,
+              "replies": {
+                "ghrknl7": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrknl7/",
+                  "text": "You never know, tbh I've seen some real surprising admission results from people at my school. Good luck!",
+                  "author": "Waitlist_and_Reject",
+                  "created": 1609539096,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ghrhkyo": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrhkyo/",
+      "text": "Is there a public GitHub repo that people can contribute to?",
+      "author": "rwonge",
+      "created": 1609537490,
+      "upvotes": 2,
+      "replies": {
+        "ghringb": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghringb/",
+          "text": "Not yet sorry, I plan on open sourcing this later on.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609538044,
+          "upvotes": 1,
+          "replies": {
+            "ghroqki": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghroqki/",
+              "text": "Nice, could you drop me a message/pm when you do?",
+              "author": "rwonge",
+              "created": 1609541275,
+              "upvotes": 3,
+              "replies": {
+                "ghshkaa": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghshkaa/",
+                  "text": "I'll most likely make another post so people have access to the source, but I will try my best to remember to remind you!",
+                  "author": "Waitlist_and_Reject",
+                  "created": 1609557238,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ghrjaa5": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrjaa5/",
+      "text": "Can someone explain Harvard\u2019s factors of admission????",
+      "author": "sumaykalra",
+      "created": 1609538381,
+      "upvotes": 2,
+      "replies": {
+        "ghrkjud": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrkjud/",
+          "text": "So based on their CDS, it seems like they consider all factors except for class rank, religion, and demonstrated interest. They did not specify how important each factor of admission is like other schools did, instead they only mentioned what they consider and what they do not. Hope this helps!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609539043,
+          "upvotes": 2,
+          "replies": {
+            "ghrkmts": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrkmts/",
+              "text": "Ahhh I see tysm",
+              "author": "sumaykalra",
+              "created": 1609539085,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ghrkzl4": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrkzl4/",
+      "text": "super cool! are you in college or a high school student? if you don\u2019t mind answering",
+      "author": "a2c-lurker",
+      "created": 1609539270,
+      "upvotes": 2,
+      "replies": {
+        "ghs08ts": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs08ts/",
+          "text": "Thank you, and I am currently in the middle of a gap year.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609547670,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "ghrn974": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrn974/",
+      "text": "Very nice. Only suggestion is that it could be more mobile friendly",
+      "author": "nxtmonkey",
+      "created": 1609540473,
+      "upvotes": 2,
+      "replies": {
+        "ghs0c6m": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs0c6m/",
+          "text": "Thank you! I will eventually try to see if there is any way to configure it to look a bit better on mobile.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609547724,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghrnjg3": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrnjg3/",
+      "text": "amazing",
+      "author": "thecoolchicken18",
+      "created": 1609540627,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrnwd2": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrnwd2/",
+      "text": "It is not a good day to be a brown male in cs.....",
+      "author": "fallenguy1",
+      "created": 1609540821,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrny8s": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrny8s/",
+      "text": "this is actually godly",
+      "author": "knock_knock_hu_here",
+      "created": 1609540848,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrp4ar": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrp4ar/",
+      "text": "this is BEAUTIFUL\n\nthe only thing is that i dont know all of my schools\u2019 logos (oops), so it\u2019d be nice to have the names somewhere from the homepage\n\nbut i love how there are pics of each schools campus on the homepage",
+      "author": "stripedscrunchie",
+      "created": 1609541485,
+      "upvotes": 2,
+      "replies": {
+        "ghs0p7n": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs0p7n/",
+          "text": "Thank you! And if you hover over the logo on computer (I think clicking the background for mobile) it shows the schools name. I know it isn't the best system, but hopefully once I implement a search function it will be easier to access the pages for the colleges you are looking for.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609547927,
+          "upvotes": 1,
+          "replies": {
+            "ghsejqw": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsejqw/",
+              "text": "dang u rlly thought of it all :0",
+              "author": "stripedscrunchie",
+              "created": 1609555587,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ghrpu50": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrpu50/",
+      "text": "ik there are already a lot of suggestions, but could there be a sort function on the home page where you could sort the schools by tuition or undergrad size or usnwr ranking or something like that? also amazing website and i will be using it next year!!",
+      "author": "knock_knock_hu_here",
+      "created": 1609541881,
+      "upvotes": 2,
+      "replies": {
+        "ghs0tf2": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs0tf2/",
+          "text": "Sounds like a good idea! I think something like that will require me to learn a bit more JavaScript, so once I have a better understanding of the language I will try to add some cool features like that, thank you!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609547992,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghrq5f4": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrq5f4/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1609542056,
+      "upvotes": 2,
+      "replies": {
+        "ghs0yqu": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs0yqu/",
+          "text": "Thank you! And to be honest some information is from outside sources if I could not find it directly in the common data sets. Either I used CDSs from previous years or had to resort to other websites. I may go back and add asterisks to outside data as to not confuse people.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609548075,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghrqiii": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrqiii/",
+      "text": "Ay come here  \n\nthrow that \\*ss back \n\nSeriously thank you so much this such an amazing resource",
+      "author": "Careless_Witness_732",
+      "created": 1609542257,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrqr02": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrqr02/",
+      "text": "WOW THANKS FOR THIS SERIOUSLY",
+      "author": "dwabt_it",
+      "created": 1609542387,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrqzs1": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrqzs1/",
+      "text": "I just wanna give you a big ol' hug thank you for this :D",
+      "author": "Dependent_Badger_163",
+      "created": 1609542523,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrrjzb": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrrjzb/",
+      "text": "This is amazing!\n\nIs this on a GitHub repository? Maybe it can become open source and we all can chip in and make this even better!",
+      "author": "Mastermind497",
+      "created": 1609542839,
+      "upvotes": 2,
+      "replies": {
+        "ghs116f": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs116f/",
+          "text": "I am planning on releasing it to github eventually, maybe towards the end of the month, and thank you!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609548114,
+          "upvotes": 1,
+          "replies": {
+            "ghs15tq": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs15tq/",
+              "text": "Can\u2019t wait! \n\n!remindme January 31 2021",
+              "author": "Mastermind497",
+              "created": 1609548187,
+              "upvotes": 2,
+              "replies": {
+                "ghs7m6a": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs7m6a/",
+                  "text": "I will be messaging you in 29 days on [**2021-01-31 00:00:00 UTC**](http://www.wolframalpha.com/input/?i=2021-01-31%2000:00:00%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://np.reddit.com/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs15tq/?context=3)\n\n[**1 OTHERS CLICKED THIS LINK**](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FApplyingToCollege%2Fcomments%2Fkoey8d%2Fa_website_i_made_for_a2c_with_simplified_common%2Fghs15tq%2F%5D%0A%0ARemindMe%21%202021-01-31%2000%3A00%3A00%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20koey8d)\n\n*****\n\n|[^(Info)](https://np.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://np.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://np.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+                  "author": "RemindMeBot",
+                  "created": 1609551832,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "glffdd1": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/glffdd1/",
+              "text": "When you get the chance, could you lmk when you release the repo?",
+              "author": "Mastermind497",
+              "created": 1612054016,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ghrrvhs": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrrvhs/",
+      "text": "Thank you very much for this! Could you possibly also add SAT subject test requirement and if I could add one suggestion, could you possibly shift the fast facts and tables a little more to the left so as to not require scrolling to the right. Take that with a grain of salt though - not that big of a deal at all. I understand it'd also be very difficult to do the shift (done some css, and changes like that are a huge pain in the arse). Anyways, appreciate the effort. This will help big time.  \nEdit: Oh, sorry, now I seem very picky, but just one suggestion on fade in/out when hovering over each university's box: I think shortening the fade-in and adding a short fade-out would make it seem a little smoother. Sorry, trivial things. Just makes for a slightly better experience.",
+      "author": "IdyllOfficial",
+      "created": 1609543016,
+      "upvotes": 2,
+      "replies": {
+        "ghs15qu": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs15qu/",
+          "text": "Haha no worries about all of your feedback, any bit of information that can improve the website is something I appreciate. Thank you for all of the detailed information, I will add it to the list of things to take into account in the future!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609548185,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghrsp9w": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrsp9w/",
+      "text": "This is literally the best thing ive seen all week thanks so much",
+      "author": "brotherswords",
+      "created": 1609543472,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrt681": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrt681/",
+      "text": "You\u2019re literally my favorite person ever thank you",
+      "author": "thecynicaltrashbag",
+      "created": 1609543737,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghruxsr": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghruxsr/",
+      "text": "THIS IS AMAZING",
+      "author": "strawberry-apple",
+      "created": 1609544710,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghrv8ur": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrv8ur/",
+      "text": "Can you add transfer student stats?",
+      "author": "timedstudent",
+      "created": 1609544883,
+      "upvotes": 2,
+      "replies": {
+        "ghs1l0v": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs1l0v/",
+          "text": "I can try adding a bit more info under the transfer sections for each college, but I do not think CDSs show much stats for transfer students. If I am wrong, or if there is any other way to find transfer stats, I would appreciate knowing so I can add it to the site.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609548426,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghrxufi": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrxufi/",
+      "text": "Dude, this is so good! The layout is so neat and it's very nice to look at! Not to mention it's got such useful info. Thank you so much!",
+      "author": "StuckInDreams",
+      "created": 1609546333,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghry3fx": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghry3fx/",
+      "text": "Is Pomona on here?",
+      "author": "bigyikesmegaoof",
+      "created": 1609546471,
+      "upvotes": 2,
+      "replies": {
+        "ghs1pw5": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs1pw5/",
+          "text": "No sorry, I plan on adding a separate tab for LACs in the future.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609548505,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "ghrych2": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrych2/",
+      "text": "wow this is so cool! thanks for making this! if you have some time, it would be great to add the percent of students of different ethnic background (first year and undergrad). thanks again!",
+      "author": "tRexArms4",
+      "created": 1609546613,
+      "upvotes": 2,
+      "replies": {
+        "ghs1um3": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs1um3/",
+          "text": "Thank you! And I believe I already have all the data for that on the site, so I can just do the math and add the percentages next to the numbers. I can look into adding that in the future as it won't be too difficult.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609548581,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghrzdio": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghrzdio/",
+      "text": "Nice website \ud83d\udc4d. Except it gave me stress when I saw the stats for umich \ud83d\ude2c",
+      "author": "bluedeer358",
+      "created": 1609547187,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghs1qv6": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs1qv6/",
+      "text": "Just asking, how did you figure out the importance of the factors for each school? Still very helpful tho it's much appreciated.",
+      "author": "TimbsNewRoman",
+      "created": 1609548521,
+      "upvotes": 2,
+      "replies": {
+        "ghs1yq1": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs1yq1/",
+          "text": "If you are asking about the factors of admission, the common data sets actually list that information. Thank you!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609548647,
+          "upvotes": 1,
+          "replies": {
+            "ghs2aie": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs2aie/",
+              "text": "Ya and I meant how you figured those out for each school. Like how you know each school prioritizes those factors.",
+              "author": "TimbsNewRoman",
+              "created": 1609548832,
+              "upvotes": 2,
+              "replies": {
+                "ghs2pel": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs2pel/",
+                  "text": "he means the schools themselves say whats  considered in their common data set\n\nfor example if you look up \u201ccolumbia common data set 2019-2020\u201d and scroll to admissions it\u2019ll have the same info presented on OPs website",
+                  "author": "a2cfront",
+                  "created": 1609549069,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "ghs2nlr": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs2nlr/",
+                  "text": "Each school actually lists how important each factor is almost in the exact same way that my table is displayed. Sorry if I misunderstood your question, but I hope this answers it.",
+                  "author": "Waitlist_and_Reject",
+                  "created": 1609549040,
+                  "upvotes": 1,
+                  "replies": {
+                    "ghs33y9": {
+                      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs33y9/",
+                      "text": "Oh ok thanks for the clarification.",
+                      "author": "TimbsNewRoman",
+                      "created": 1609549302,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ghs41mi": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs41mi/",
+      "text": "wow, you\u2019re amazing",
+      "author": "trippythedippy55",
+      "created": 1609549838,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghs4jed": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs4jed/",
+      "text": "Thank you for your service. Someone get this human a nobel prize",
+      "author": "Anitathefab02",
+      "created": 1609550119,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghs5fsd": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs5fsd/",
+      "text": "Wow this is amazing I was meaning to do something like this but never got around to it so yeah thanks !!!",
+      "author": "Err000r__1010",
+      "created": 1609550624,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghs9ecv": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghs9ecv/",
+      "text": "Beautiful",
+      "author": "charliehobin",
+      "created": 1609552817,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghsbq09": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsbq09/",
+      "text": "Excellent work! Be proud of this and don\u2019t be afraid to show it off.",
+      "author": "VoxBoxMoo",
+      "created": 1609554092,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghseotd": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghseotd/",
+      "text": "Williams college thou \ud83e\udd7a",
+      "author": "English_Space",
+      "created": 1609555663,
+      "upvotes": 2,
+      "replies": {
+        "ghsh0ld": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsh0ld/",
+          "text": "Sorry, I will add LACs eventually \ud83d\ude29",
+          "author": "Waitlist_and_Reject",
+          "created": 1609556932,
+          "upvotes": 1,
+          "replies": {
+            "ghsh5ik": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsh5ik/",
+              "text": "\ud83c\udfc3\u200d\u2642\ufe0f\ud83d\udca8. Not me not knowing there\u2019s a difference between a LAC and a University while getting to Williams \ud83d\ude03",
+              "author": "English_Space",
+              "created": 1609557009,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ghsfyn4": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsfyn4/",
+      "text": "Is this open source?",
+      "author": "aravk33",
+      "created": 1609556348,
+      "upvotes": 2,
+      "replies": {
+        "ghsgv3s": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsgv3s/",
+          "text": "not yet, I plan on open sourcing it soon though",
+          "author": "Waitlist_and_Reject",
+          "created": 1609556848,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghsh3mu": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsh3mu/",
+      "text": "\"do you know how much i love you?\"",
+      "author": "LetThemEatCake_",
+      "created": 1609556979,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghsibqm": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsibqm/",
+      "text": "Where do people get the lists of top colleges? How do people know if their school is T10, T20, or whatever?",
+      "author": "Beardog20",
+      "created": 1609557680,
+      "upvotes": 2,
+      "replies": {
+        "ghsisyq": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsisyq/",
+          "text": "Many people use US News for rankings, but there is no definitive list of the T10's, 20's, etc. Schools like Harvard, Stanford, MIT are obviously T10 schools, but not everyone agrees on their exact ranking, as some people may put Stanford at #1, while others put it at #6. In reality Top 20, 50, or whatever number it may be refers to schools in that general level of prestige and quality of education. Like UCLA may be #22 on some lists, but most people refer to it as a T20. Hope that clears some things up!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609557947,
+          "upvotes": 1,
+          "replies": {
+            "ghsj3fu": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsj3fu/",
+              "text": "Thanks. I guess it just seems strange because different schools are better at different things, and different people have different preferences. Anyway, your website is cool",
+              "author": "Beardog20",
+              "created": 1609558109,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ghsiu9e": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsiu9e/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1609557967,
+      "upvotes": 2,
+      "replies": {
+        "ghsjcua": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsjcua/",
+          "text": "Haha thank you so much! Also I have no interest in monetizing this, as I just want it to be an easily accessible source for students to navigate and I do not want ads getting in the way (also low key I feel like it would not be legal lol).",
+          "author": "Waitlist_and_Reject",
+          "created": 1609558263,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghsjzbx": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsjzbx/",
+      "text": "Columbia stats: NA",
+      "author": "r_chance_me_538",
+      "created": 1609558630,
+      "upvotes": 2,
+      "replies": {
+        "ghsm7j1": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsm7j1/",
+          "text": "Sorry, Columbia had very little information on their stats. If  I can find more information I will update their page.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609559894,
+          "upvotes": 1,
+          "replies": {
+            "ghsmuxy": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsmuxy/",
+              "text": "Yeah I know; they don\u2019t publish their common data set. It was mostly a joke :D",
+              "author": "r_chance_me_538",
+              "created": 1609560261,
+              "upvotes": 2,
+              "replies": {
+                "ghsnemd": {
+                  "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsnemd/",
+                  "text": "Haha my bad, I interpreted your comment wrong.",
+                  "author": "Waitlist_and_Reject",
+                  "created": 1609560577,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ghsmpkl": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsmpkl/",
+      "text": "Ngl this is too sexy",
+      "author": "Santiago6583",
+      "created": 1609560175,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghsqf23": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsqf23/",
+      "text": "Nice website! Looks really good!",
+      "author": "Chupakabra312",
+      "created": 1609562300,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghsvckx": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsvckx/",
+      "text": "amazing stuff buddy, mad respect to the dedication",
+      "author": "sum_boooodeee",
+      "created": 1609565448,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghsxzm7": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsxzm7/",
+      "text": "Not sure if someone mentioned this yet, but some of the application fees are wrong. Like Stanford's isn't 75, it's 90, and Princeton's isn't 75, it's 70. I'd say it'd probably be wise to go through all the schools and verify the information just for small deviations from the Common Data Set stuff.\n\nOverall though, great website and very useful!",
+      "author": "Lt_Quill",
+      "created": 1609567336,
+      "upvotes": 2,
+      "replies": {
+        "ght0g68": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ght0g68/",
+          "text": "Thank you for letting me know, I will work on those errors tomorrow morning!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609569262,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghsypy0": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghsypy0/",
+      "text": "DUDEEEE. Being a developer myself, GREAT website. \nThe font, the click focus to display the name and logo, the CDS to match the school color, GREAT WORK MAN. GREAT, GREAT WORK. KUDOS.",
+      "author": "halogen13",
+      "created": 1609567895,
+      "upvotes": 2,
+      "replies": {
+        "ght0h9c": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ght0h9c/",
+          "text": "Haha thank you, I appreciate it!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609569285,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ght26e8": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ght26e8/",
+      "text": "Thank you soooo much!! I have been trying to research colleges for a while now and always end up giving up because i feel overwhelmed. If i could i would give you an award because you deserve it. Thank you again.",
+      "author": "BeautifulListen6351",
+      "created": 1609570671,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ght2g5x": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ght2g5x/",
+      "text": "Keep up the good work may this website blow unlike anything there on internet. \ud83d\udc4d",
+      "author": "S_A_T_A_N-IS-H_E_R_E",
+      "created": 1609570897,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ght2phx": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ght2phx/",
+      "text": "thank you!!",
+      "author": "ordinaryquan",
+      "created": 1609571126,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ght3g7x": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ght3g7x/",
+      "text": "By Jupiter this is epic",
+      "author": "seaweedWorkers",
+      "created": 1609571789,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghtkhv9": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghtkhv9/",
+      "text": "What are common data sets",
+      "author": "piedrafundamental",
+      "created": 1609589589,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghtmdyy": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghtmdyy/",
+      "text": "God tier",
+      "author": "RedditoDorito",
+      "created": 1609591432,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghtxf8d": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghtxf8d/",
+      "text": "I love this! One question, how come Dartmouth has students accepted from the waitlist but it says 0% acceptance rate?",
+      "author": "pinkimposterx",
+      "created": 1609599837,
+      "upvotes": 2,
+      "replies": {
+        "ghvbubo": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghvbubo/",
+          "text": "Good catch, I meant to say that many students accepted their waitlist offer. 0 students were actually admitted off the waitlist, I will work on fixing that error thank you!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609626320,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "ghu59lq": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghu59lq/",
+      "text": "Awesome job!\n\nI was a little sad that U Michigan has such a non-impressive image compared to the other schools.  It has beautiful buildings!  Just one example..\n\n[https://www.annarbor.org/blog/post/top-spots-for-fall-colors-on-the-university-of-michigan-campus/](https://www.annarbor.org/blog/post/top-spots-for-fall-colors-on-the-university-of-michigan-campus/)",
+      "author": null,
+      "created": 1609604408,
+      "upvotes": 2,
+      "replies": {
+        "ghvbxcg": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghvbxcg/",
+          "text": "Sorry! I wasnt applying to UMich and do not know much about the school, so I selected buildings at random. I will update the pictures if I have time, thank you!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609626365,
+          "upvotes": 2,
+          "replies": {
+            "ghwpj6e": {
+              "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghwpj6e/",
+              "text": "Thank you!!!",
+              "author": null,
+              "created": 1609653996,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ghuhugw": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghuhugw/",
+      "text": " Congrats on the site \ud83c\udf89 \nIt looks amazing, keep up the good work!",
+      "author": "ZuckEl1",
+      "created": 1609610883,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ghunmgw": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghunmgw/",
+      "text": "This is so awesome! Thank you for making this. Maybe one for top LACs can be made sometime in the future as well?",
+      "author": "NoAssociationWithYou",
+      "created": 1609613834,
+      "upvotes": 2,
+      "replies": {
+        "ghvv23y": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghvv23y/",
+          "text": "No problem! And I will be adding a top 10 LACs in a separate tab in a future update.",
+          "author": "Waitlist_and_Reject",
+          "created": 1609636618,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghvj6qp": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghvj6qp/",
+      "text": "Nice work! If you happen to need any help with development, feel free to message me. (I do a lot of backend and frontend work in my free time.) It's always nice to see someone trying to help demystify admissions.",
+      "author": "heyitsleo_",
+      "created": 1609630216,
+      "upvotes": 2,
+      "replies": {
+        "ghvuyev": {
+          "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghvuyev/",
+          "text": "Thank you so much for the offer, I really appreciate it!",
+          "author": "Waitlist_and_Reject",
+          "created": 1609636563,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ghwtrx6": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghwtrx6/",
+      "text": "Just a question for my uninitiated self, are the GPAs for each school weighted or unweighted? Seems like an easy question but I just want to make sure.",
+      "author": "XavzzNation",
+      "created": 1609655821,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ghzkcxi": {
+      "link": "/r/ApplyingToCollege/comments/koey8d/a_website_i_made_for_a2c_with_simplified_common/ghzkcxi/",
+      "text": "This is really nice, great job OP! \n\nTwo small suggestions for edits if you have time: \n\n1. Can you add the names of the schools in white text at the bottom of each photo? The buildings / pretty campuses end up looking pretty similar to each other lol. \n\n2. Can you specify on each page which year the data is from? I assume it\u2019s all from the same year (latest year data is available), but if different tables are from different years, it would be good to specify that in brackets. Or even if all the data is from the same year, just add a sentence at the top specifying the year.\n\nAgain, really nice job!!",
+      "author": "glutton2000",
+      "created": 1609704047,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

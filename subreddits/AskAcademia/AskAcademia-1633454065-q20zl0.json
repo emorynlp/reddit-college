@@ -1,0 +1,81 @@
+{
+  "sid": "q20zl0",
+  "link": "/r/AskAcademia/comments/q20zl0/is_using_the_samelike_90_similar_introduction_and/",
+  "title:": "Is using the same(like %90 similar) introduction and problem definition in an academic paper count as plagiarism?",
+  "text": "So we have created an algorithm and written a paper about it with my professor. We did all the research and compared it with the results of other algorithms that was previously used for the problem.\n\nSince the problem is same I was thinking about using the same problem definition(almost %100 similarity) and modifying the introduction(about %90 similarity) from those papers to my paper.\n\nWould doing that count as plagiarism?\n\n**Note:** I'm not sure if it is important but I am a computer science major",
+  "author": "cepci1",
+  "created": 1633454065,
+  "updated": 1634078759,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.57,
+  "comments": {
+    "hfijdun": {
+      "link": "/r/AskAcademia/comments/q20zl0/is_using_the_samelike_90_similar_introduction_and/hfijdun/",
+      "text": "Using any original content from another paper without (1) enclosing it in quotation marks and (2) citing the source is flagrant plagiarism.",
+      "author": "Chemomechanics",
+      "created": 1633461482,
+      "upvotes": 12,
+      "replies": {
+        "hfiseba": {
+          "link": "/r/AskAcademia/comments/q20zl0/is_using_the_samelike_90_similar_introduction_and/hfiseba/",
+          "text": "that sucks but thank you then I would need to write the problem with my own words",
+          "author": "cepci1",
+          "created": 1633465236,
+          "upvotes": 2,
+          "replies": {
+            "hfkbhue": {
+              "link": "/r/AskAcademia/comments/q20zl0/is_using_the_samelike_90_similar_introduction_and/hfkbhue/",
+              "text": "You can definitely mention that you\u2019re getting the problem definition from another source. What is the topic?",
+              "author": "Beor_The_Old",
+              "created": 1633491640,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hfidr5s": {
+      "link": "/r/AskAcademia/comments/q20zl0/is_using_the_samelike_90_similar_introduction_and/hfidr5s/",
+      "text": "Yes",
+      "author": "Vievite",
+      "created": 1633459029,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hfimp51": {
+      "link": "/r/AskAcademia/comments/q20zl0/is_using_the_samelike_90_similar_introduction_and/hfimp51/",
+      "text": "What you're describing is certainly plagiarism.",
+      "author": "justaboringname",
+      "created": 1633462844,
+      "upvotes": 7,
+      "replies": {
+        "hfish15": {
+          "link": "/r/AskAcademia/comments/q20zl0/is_using_the_samelike_90_similar_introduction_and/hfish15/",
+          "text": "That really kills me but thank you",
+          "author": "cepci1",
+          "created": 1633465268,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hfix91k": {
+      "link": "/r/AskAcademia/comments/q20zl0/is_using_the_samelike_90_similar_introduction_and/hfix91k/",
+      "text": "What you're describing is plagiarism.\n\n&#x200B;\n\nThat being said, in bioinformatics there is a similar thing with multiple pipelines solving the same problem. I tend to summarize the problem in similar ways to previous work, but in my own wording (often trying to summarize in fewer words than previous papers). Also cite those papers as having existed and trying to solve the problem. Then the end of your introduction can be their weaknesses in terms of their approach to the problem, and how your algorithm overcomes these issues.",
+      "author": "WockoJillink",
+      "created": 1633467292,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfjznu9": {
+      "link": "/r/AskAcademia/comments/q20zl0/is_using_the_samelike_90_similar_introduction_and/hfjznu9/",
+      "text": "Journal anti-plagiarism software will spot it and it will almost certainly be rejected without review",
+      "author": "pixiepasty",
+      "created": 1633485676,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

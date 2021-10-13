@@ -1,0 +1,38 @@
+{
+  "sid": "oxiymf",
+  "link": "/r/AskAcademia/comments/oxiymf/organizing_your_draftspracticing_writing/",
+  "title:": "Organizing your drafts/practicing writing",
+  "text": " \n\nHi everyone,\n\nI am having trouble keeping things together after I get my results from coding, in the draft stage. This is so overwhelming to know where to start, how you keep the versions, or do you get help from any website like Notion or Evernote? What are your strategies? I keep staring at google doc and being distracted because I could not plan it.\n\nAs a separate question, does anyone blog/practice writing other than scientific writing? I also thought about creating a WordPress in private mood to put myself to practice writing but still in an organized way.\n\nExcited to hear your ways!",
+  "author": "pennylane-626",
+  "created": 1628044135,
+  "updated": 1634080020,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "h7nleiv": {
+      "link": "/r/AskAcademia/comments/oxiymf/organizing_your_draftspracticing_writing/h7nleiv/",
+      "text": "Not coding related, but general scientific writing: When starting a new draft the first thing I do is plot out which sections I need (often wither with figures, or with a short comment on what type of figures I know I'm going to need), then flesh out what things I need to cover in each section, then try to write a paragraph about each of those things. At that point I'm usually in a good place to just keep going, and identify any other figures (or refinements to existing figures).\n\nIf I abandon a draft I don't delete it. I simply keep it stored in the project folder as \"Draft X\". I can always come back to these drafts for inspiration, or to steal bits of text or whatever.",
+      "author": "OrbitalPete",
+      "created": 1628065159,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h7nioft": {
+      "link": "/r/AskAcademia/comments/oxiymf/organizing_your_draftspracticing_writing/h7nioft/",
+      "text": "I automate the process for this reason. I write additional code to output my results as a file(s) containing latex tables. Then in my report I write a latex command to include specific tables from the output file directly into my report. You can do the same with any markup language as well. This way every time, I change something in my code, my report gets updated as well.\n\nTo keep track of things, I keep everything(code, code related documentation, report, personal notes, wiki, n related resources etc) organized neatly in one git repo. This way when I commit a code change, I have all the relevant tables that go into repo saved with the proper code as well.\n\nI do lil bit of non-scientific writing. I write using asciidoc n store it on a private git repo, I don't publish it.\n\nFeel free to DM me, if you are interested to know more about my process.",
+      "author": "mrxredditta",
+      "created": 1628062767,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h7ps7sg": {
+      "link": "/r/AskAcademia/comments/oxiymf/organizing_your_draftspracticing_writing/h7ps7sg/",
+      "text": "Two important reasons (among others) people get blocked in their writing.\n\n1. You have too little to say/write about. Read more, do more empirical work etc.\n2. You have too much to say/write about. Imo you should write when you have one to three paragraphs of text in your head that want to be set free. If you have 6000 words that want to get out at once, nothing you try to put in writing (i.e. letter>word>sentence>paragraph) will suffice.\n\n(1) is a huge problem in student texts overall. They often write before they have enough to say. (\"I have to write 4000 words for this assignment\", rather than \"I know a lot. Let's communicate that to the reader.\") \n\n(2) is something I struggle with sometimes. I get an idea in my head that it is too \"large\" to write about. When this happens, I leave my computer, walk around like a silly dog wagging its tail frantically and try to isolate a small enough chunk to get started (1-3 paragraphs worth of information).",
+      "author": "molobodd",
+      "created": 1628106043,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

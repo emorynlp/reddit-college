@@ -1,0 +1,57 @@
+{
+  "sid": "ppaz99",
+  "link": "/r/AskAcademia/comments/ppaz99/google_scholar_linking_to_dlibhusteduvn_what_is_it/",
+  "title:": "Google scholar linking to dlib.hust.edu.vn: What is it?",
+  "text": "In my current literature search on numerical simulation of mechanical systems, frequently Google Scholar gives me PDF links to [dlib.hust.edu.vn](https://dlib.hust.edu.vn). It demands that I log in using either \"Microsoft Office 365 Authentication\" or \"DSpace Username and Password\".\n\nThis has me concerned on several levels:\n\n* If the PDF is behind a login, why does google scholar even know about it?\n* When clicking \"Microsoft Office 365 Authentication\" I am not redirected to a Microsoft login site, but within \"asso.hust.edu.vn\" as origin. \n\nThe latter part especially has be concerned. I have two possible explanations for it:\n\n* Usage of the website requires an on-site Office account which I don't have (I am basically on the other side of the world), so Google Scholar sending me to the website is a Google Scholar bug.\n* It is a website fishing for Microsoft login credentials.\n\nAny idea what that website is and why Google Scholar links to it for PDFs?",
+  "author": "R3D3-1",
+  "created": 1631789613,
+  "updated": 1634078979,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.5,
+  "comments": {
+    "hd2masb": {
+      "link": "/r/AskAcademia/comments/ppaz99/google_scholar_linking_to_dlibhusteduvn_what_is_it/hd2masb/",
+      "text": "I\u2019m assuming you are currently located at Hanoi University of Science and Technology. If this is the case, your university\u2019s internet is providing you access through your library to the pdf. The alternative I can think of is that you are using a VPN which has somehow linked you through that university\u2019s library.",
+      "author": "Titcomb84",
+      "created": 1631796517,
+      "upvotes": 4,
+      "replies": {
+        "hd2q2io": {
+          "link": "/r/AskAcademia/comments/ppaz99/google_scholar_linking_to_dlibhusteduvn_what_is_it/hd2q2io/",
+          "text": "I am not. I am located in Austria, so quite far away, and the only active VPN connection goes to an Austrian industry partner.",
+          "author": "R3D3-1",
+          "created": 1631798370,
+          "upvotes": 2,
+          "replies": {
+            "hd2qp4g": {
+              "link": "/r/AskAcademia/comments/ppaz99/google_scholar_linking_to_dlibhusteduvn_what_is_it/hd2qp4g/",
+              "text": "Then this is quite the conundrum. Hust.edu.vn takes you to that university\u2019s page and I\u2019m assuming dlib indicates the library. When I search mine get routed through lib.XXX.edu",
+              "author": "Titcomb84",
+              "created": 1631798663,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hd2syjw": {
+      "link": "/r/AskAcademia/comments/ppaz99/google_scholar_linking_to_dlibhusteduvn_what_is_it/hd2syjw/",
+      "text": "It\u2019s possible (especially given the part of the world) that the security is not or was at some point not set up well. Either bots were allowed to crawl without logging in (some sites do this especially those that use custom google search toolbars) or it could\u2019ve been wide open at some point and fixed to require logging in between the crawl and now.",
+      "author": "Berchanhimez",
+      "created": 1631799728,
+      "upvotes": 2,
+      "replies": {
+        "hd38aui": {
+          "link": "/r/AskAcademia/comments/ppaz99/google_scholar_linking_to_dlibhusteduvn_what_is_it/hd38aui/",
+          "text": "That would explain it. Could be that the PDFs were public only for a short time only recently, got registered by google scholar, and not yet removed again from Google's database.",
+          "author": "R3D3-1",
+          "created": 1631806131,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

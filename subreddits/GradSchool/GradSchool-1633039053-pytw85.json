@@ -1,0 +1,471 @@
+{
+  "sid": "pytw85",
+  "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/",
+  "title:": "Friendly reminder that Google Drive can permanently delete all of your files at random due to suspected illegal downloading",
+  "text": "If you use a google drive location for your group and/or collaborators, because of the traffic it brings in (e.g., multiple people downloading from multiple locations), google will sometimes flag it and will sometimes just delete everything with no backups.\n\nHad a scare two years ago where our entire group folder was locked out due to suspicion and we had to email their support to gain access again. The support mentioned that they (or the algorithm?) sometimes will just delete things and told us to be careful. Since then we now use a supercomputer database with 2-3  physical/cloud backups and nightly backup snapshots of the entire folder.",
+  "author": "atmo_man",
+  "created": 1633039053,
+  "updated": 1634099991,
+  "over_18": false,
+  "upvotes": 413,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "hewr0o4": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewr0o4/",
+      "text": "The advice I heard on this sub is to keep all your important data in at least 3 places on at least 2 physical computers (where Google or Dropbox counts as a physical computer). That protects against issues like you're describing as well as any human or technical errors.",
+      "author": "bandrus5",
+      "created": 1633042801,
+      "upvotes": 128,
+      "replies": {
+        "hexnff2": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hexnff2/",
+          "text": "Seriously. Accidentally deleted tons of files through google drive (can be avoided in settings) and lucked out that the only ones without another back up were 1-2 weeks old.",
+          "author": "hales_mcgales",
+          "created": 1633058761,
+          "upvotes": 17,
+          "replies": {
+            "heywqt6": {
+              "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heywqt6/",
+              "text": "I had a similar thing happen with a cloud service in undergrad (Dropbox, I think). No idea what happened, but I just lost all of my files without warning. One day they were all there, next day they were gone. And because I was syncing from my computer, **they'd disappeared from my computer too**. I didn't have a 3rd backup for a lot of it because most of it wasn't critically important (few things are), but it's still a real bummer to lose. \n\nI don't trust cloud services anymore. I don't consider them to be a backup, I consider it nothing more than an extension of the files on my computer so I can access things from different devices. \n\nMy backups now are:\n\n1. Computer\n\n2. Time machine / full-system backup\n\n3. Harddrive\n\n4. University server in 2 places (mostly for data too large to store elsewhere)\n\n5. Git for project files",
+              "author": "officially_anxious",
+              "created": 1633092584,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "hez6p4u": {
+              "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hez6p4u/",
+              "text": "Same. Happened to me last week. Luckily I only lost one week\u2019s worth of work since I\u2019d last backed up the week prior. I can\u2019t imagine if I\u2019d lost it all.\n\nMy mentor used to say, \u201cif you lost your data today, how much would you pay to get it back?\u201d He told us to invest in external hard drives, pay for extra storage space (like with Dropbox), and buy whatever is needed to ensure things are safe. Even if it costs money now, it definitely costs less than losing everything later.",
+              "author": "WitnessNo8046",
+              "created": 1633097476,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hezft8q": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hezft8q/",
+          "text": "Thanks for this and thanks to op /u/atmo_man. I've just backed up everything on my [Box.com](https://Box.com) in addition to my usual Google Drive. That's 2 cloud storage locations plus my laptop. phew!",
+          "author": "Jack-ums",
+          "created": 1633101520,
+          "upvotes": 1,
+          "replies": {
+            "hezu75s": {
+              "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hezu75s/",
+              "text": "I don\u2019t think you quite got the intended message. \n\nCloud storage is risky. You\u2019re giving complete responsibility and control away to a company. Things very often go wrong with data: servers go down, passwords are leaked, accounts are blocked, files are deleted because you didn\u2019t upload anything for X consecutive days. Having **two** cloud backups is no better than having **one**. You\u2019re still beholden to a rather capricious entity, just now it\u2019s two entities instead of one. \n\nAnd if you fall prey to the last two options then it\u2019s rather likely you\u2019d lose *both* accounts around the same time. If you\u2019re going to have 3 copies then only 1 of those should be cloud based. The other needs to be an offline version wherever possible.",
+              "author": "officially_anxious",
+              "created": 1633107668,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hewr6lp": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewr6lp/",
+      "text": "I'm really glad you told me this... I do keep some random notes on Drive and, well, wouldn't blame 'em if they thought me suspicious.",
+      "author": "DishsoapOnASponge",
+      "created": 1633042879,
+      "upvotes": 36,
+      "replies": {}
+    },
+    "hewsdof": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewsdof/",
+      "text": "You can also switch to NextCloud -- it has all the important Google functionality except the part about keeping your files on someone else's computer.  We use it at my research lab; it's pretty awesome for teams of up to hundreds of people.  Very fine grained group-membership permissions.",
+      "author": "drzowie",
+      "created": 1633043459,
+      "upvotes": 26,
+      "replies": {
+        "heybd3u": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heybd3u/",
+          "text": "also did the switch last year. Files are stored locally in our Uni on dedicated and backed-up servers and I am not looking back.",
+          "author": "cyberonic",
+          "created": 1633076355,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "heyfv10": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heyfv10/",
+          "text": "Simple enough to set up that it can be run at home on an old laptop or Raspberry Pi.",
+          "author": "RiverThatBends",
+          "created": 1633080550,
+          "upvotes": 2,
+          "replies": {
+            "hez3eam": {
+              "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hez3eam/",
+              "text": "How can I do that ? Can you please elaborate if you don\u2019t mind ? Thank you",
+              "author": "federerusmle",
+              "created": 1633095941,
+              "upvotes": 2,
+              "replies": {
+                "hf116ok": {
+                  "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hf116ok/",
+                  "text": "If you're a new Pi user or new to Linux in general, it's probably most straightforward to use NextCloudPi (https://ownyourbits.com/nextcloudpi/).  NextCloud's user community also has instructions for loading the server on a Raspberry Pi from scratch.",
+                  "author": "RiverThatBends",
+                  "created": 1633127133,
+                  "upvotes": 2,
+                  "replies": {
+                    "hf1bbce": {
+                      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hf1bbce/",
+                      "text": "Thank you very much",
+                      "author": "federerusmle",
+                      "created": 1633132028,
+                      "upvotes": 2,
+                      "replies": {
+                        "hf1nyne": {
+                          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hf1nyne/",
+                          "text": "You\u2019re welcome. Good luck.",
+                          "author": "RiverThatBends",
+                          "created": 1633138297,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hex7wqq": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hex7wqq/",
+      "text": "Remember, if it doesn't exist in three different locations, *it doesn't exist*.",
+      "author": "rcgy",
+      "created": 1633051117,
+      "upvotes": 20,
+      "replies": {
+        "hezvfan": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hezvfan/",
+          "text": "I learned with a large batch of family photos that if many many years ago you put stuff on really cheap CD\u2019s you might want to copy it elsewhere soon.\n\nMy pictures are probably retrievable by an expert with the right tools, but I can\u2019t get to about 50%. I thought digital meant eternal.",
+          "author": "rethinkingat59",
+          "created": 1633108196,
+          "upvotes": 2,
+          "replies": {
+            "hf0rms7": {
+              "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hf0rms7/",
+              "text": "Unfortunately that is rather far from the truth :( sorry to hear; there's some great free software for data recovery, it's worth hanging onto the CDs.",
+              "author": "rcgy",
+              "created": 1633122513,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hex4cms": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hex4cms/",
+      "text": "Holy christ. Thank you... Omg",
+      "author": "DeleteriousMutations",
+      "created": 1633049407,
+      "upvotes": 13,
+      "replies": {}
+    },
+    "hexm2wr": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hexm2wr/",
+      "text": "WHAT.   \nThanks for this. I use Google Drive as my main backup....off to immediately add my files to another location.",
+      "author": "Hello_Sweetie25",
+      "created": 1633058073,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hewx4in": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewx4in/",
+      "text": "Do you have access to Box through your institution? They\u2019ve been pretty solid for my lab for a few years.",
+      "author": "Liz600",
+      "created": 1633045828,
+      "upvotes": 6,
+      "replies": {
+        "hexptk5": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hexptk5/",
+          "text": "The google drive that got flagged and almost deleted was through the university- which is why this was especially shocking\u2026lol",
+          "author": "atmo_man",
+          "created": 1633060078,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "hewxsy0": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewxsy0/",
+      "text": "Always confuses me when people only backup to the cloud and nothing else, as if the cloud is infallible ([it's not, see this vid](https://www.youtube.com/watch?v=vJ1cfb-5pHQ)). Ultimately \"the cloud\" is just another name for \"someone else's computer\". Always better to be in full control of your own backups imo, though a cloud backup never hurts as well",
+      "author": "LuutMIr9t1m",
+      "created": 1633046161,
+      "upvotes": 15,
+      "replies": {
+        "heyy0ne": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heyy0ne/",
+          "text": "Yeah I see cloud backups as the *least* reliable (only IME). If I lost everything on the cloud now it would not affect me one tiny bit because I assume it will be lost or corrupted and so nothing even vaguely important is kept there. At the very least, it should be your *backup* backup, not the main backup. \n\nI think people just like it because all the backing up is done automatically so it's the least effort, but you're not going to take much solace in the time you saved when it fails.",
+          "author": "officially_anxious",
+          "created": 1633093259,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "heybipr": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heybipr/",
+      "text": "just FYI: If you are located in the EU, you are officially not allowed to use Dropbox or GDrive or related services to store your data. So you will receive no help when there's trouble.",
+      "author": "cyberonic",
+      "created": 1633076494,
+      "upvotes": 4,
+      "replies": {
+        "heyx2eh": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heyx2eh/",
+          "text": "Even in the US, I think they go against IRB guidelines especially if sensitive data.",
+          "author": "era626",
+          "created": 1633092753,
+          "upvotes": 2,
+          "replies": {
+            "hf025gw": {
+              "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hf025gw/",
+              "text": "I think if you use something like Boxcryptor it is normally within IRB guidelines (at least for my field).",
+              "author": "lalasock",
+              "created": 1633111118,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "heyfa4p": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heyfa4p/",
+          "text": "How are those services not allowed in the EU?",
+          "author": "RiverThatBends",
+          "created": 1633080005,
+          "upvotes": 1,
+          "replies": {
+            "heyj4q8": {
+              "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heyj4q8/",
+              "text": "generally violates GDPR guidelines",
+              "author": "cyberonic",
+              "created": 1633083488,
+              "upvotes": 3,
+              "replies": {
+                "heywakn": {
+                  "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heywakn/",
+                  "text": "Canadian privacy laws also tend to frown on the use of Google services for anything that might touch on storing sensitive personal data. Less sure about Dropbox.",
+                  "author": "alvarkresh",
+                  "created": 1633092338,
+                  "upvotes": 3,
+                  "replies": {}
+                },
+                "hf0pr4r": {
+                  "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hf0pr4r/",
+                  "text": "Not disputing or trying to argue, but I genuinely don't see how they violate GDPR.\n\nI'm also not a giant fan of either service, although I used to use Dropbox quite heavily.  They're both convenient places to store things that I don't care about being displayed on the nearest billboard.  And that's about it.",
+                  "author": "RiverThatBends",
+                  "created": 1633121639,
+                  "upvotes": 1,
+                  "replies": {
+                    "hf0ucxf": {
+                      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hf0ucxf/",
+                      "text": "Personal data (including any names or similar) needs to be stored on eu servers or on servers that ensure similar data protection. In the US, this can generally not be guaranteed. This is over simplified of course.",
+                      "author": "cyberonic",
+                      "created": 1633123814,
+                      "upvotes": 2,
+                      "replies": {
+                        "hf11ls9": {
+                          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hf11ls9/",
+                          "text": "Individual users can choose to use services that don't comply with the GDPR, though, can't they?\n\nAnd you're entirely correct about the lack of data security or privacy in the US.  When it comes to protecting personal data, \"Avoid the US\" is sound advice.  (I say that as a US citizen who's thoroughly fed up with the situation here.)",
+                          "author": "RiverThatBends",
+                          "created": 1633127339,
+                          "upvotes": 1,
+                          "replies": {
+                            "hf8ocu2": {
+                              "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hf8ocu2/",
+                              "text": "Idividual users, sure, but not as employee of a University",
+                              "author": "cyberonic",
+                              "created": 1633278062,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hewz8qz": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewz8qz/",
+      "text": "THANK. YOU.",
+      "author": "TrafficNatural7476",
+      "created": 1633046871,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hey5gdp": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hey5gdp/",
+      "text": "Oh wow! I keep a lot of my documents on Google Docs when I collaborate with my PI. This is a r/LifeProTip for Grad schools for sure. I didn't know this and thank you for sharing.",
+      "author": "arbitration_35",
+      "created": 1633071067,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hexifq0": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hexifq0/",
+      "text": "What are the best ways to back up your google drive?",
+      "author": "Legitimate_Muffin656",
+      "created": 1633056228,
+      "upvotes": 2,
+      "replies": {
+        "hey784k": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hey784k/",
+          "text": "probably rclone i would think",
+          "author": "bigvenusaurguy",
+          "created": 1633072592,
+          "upvotes": 1,
+          "replies": {
+            "hezgdyy": {
+              "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hezgdyy/",
+              "text": "Duplicati is similar but easier to set up. I do use rclone (because duplicati doesn't seem to be packaged for Linux Mint) but it's harder to set up.",
+              "author": null,
+              "created": 1633101766,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hey8m9c": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hey8m9c/",
+          "text": "Spinbackup for individuals can backup @gmail.com accounts. It can't backup your edu Google drive though.",
+          "author": "Zeptun",
+          "created": 1633073836,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hez8aw1": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hez8aw1/",
+      "text": "Made a backup just because you posted this, doesn't hurt to have too many ... but it sure is hell hurts when you have too few!!!",
+      "author": "Lord_Blackthorn",
+      "created": 1633098198,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hewynf9": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewynf9/",
+      "text": "I have lost all my stuff before and don't keep anything of importance in google drive",
+      "author": "--ikindahatereddit--",
+      "created": 1633046582,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hewwn87": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewwn87/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1633045590,
+      "upvotes": -3,
+      "replies": {
+        "hewzmtl": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewzmtl/",
+          "text": "https://mashable.com/article/google-delete-drive-contents-due-to-inactivity\n\nIf Google can just decide to delete your files for not logging in enough...\n\nI think the conclusion is easily reached.",
+          "author": "alvarkresh",
+          "created": 1633047067,
+          "upvotes": 6,
+          "replies": {
+            "hex61jb": {
+              "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hex61jb/",
+              "text": "Jesus! I wonder if Dropbox or OneDrive have anything crazy like this hidden somewhere",
+              "author": "lea949",
+              "created": 1633050220,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hexq0ik": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hexq0ik/",
+          "text": "https://www.google.com/drive/terms-of-service/archived/\n\nThey can and said they might \ud83e\udd37\ud83c\udffd\u200d\u2642\ufe0f",
+          "author": "atmo_man",
+          "created": 1633060188,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hexjb9i": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hexjb9i/",
+      "text": "Damn. I did not know that. Thanks!",
+      "author": "taco___pizza",
+      "created": 1633056661,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "heykhgk": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heykhgk/",
+      "text": "Wow thanks for reminding me to buy an external hard drive!",
+      "author": "Scientism101",
+      "created": 1633084618,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "heytb2b": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heytb2b/",
+      "text": "WHAT???\n\nHoly shit, time to move to Dropbox.",
+      "author": "kronosdev",
+      "created": 1633090660,
+      "upvotes": 1,
+      "replies": {
+        "heyx1nl": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heyx1nl/",
+          "text": "You should expect all cloud services to do the same thing. It's probably in the agreement you signed/ticked/accepted that they can delete files for suspected breaches or suspected inactivity. And of course there's all the ways you can destroy your own data by accident and have it destroyed in all places it's connected to. You shouldn't rely on cloud services, they should be only one leg of your 3-legged data stool.\n\nIf your only backup is on the cloud (dropbox, google drive, etc) then you have no backups.",
+          "author": "officially_anxious",
+          "created": 1633092743,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hezbc2v": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hezbc2v/",
+      "text": "I use a NAS. They range in capability and price, but you can setup a really cheap one using a raspberry pi that should be more than adequate for word docs, pdfs, spreadsheets, and PowerPoints. \n\nMine is a Synology DS1621+ with 6 12 tb iron wolf drives on a raid 6 system. I keep backups of my movie, comic, and music collection, my photos, and all my school stuff, organized by semester. I can setup limited permission accounts for other users like my friends (to share movies, music, comics, photos) and classmates/team members (to share documents).  It\u2019s accessible from any device with an internet connection and it has apps for iOS and android. \n\nIt\u2019s been very handy in class on article nights. Instead of needing to print out everything, bring a laptop, or load everything onto my phone or tablet, I can just access each article on my phone. When I work on stuff on my computer, I open it directly from the nas, and all saves update that version. Several times during a discussion an article from a previous class has come up and I just tracked it down from my phone, opened it, and could reference it directly. \n\nWhile my personal setup is probably overkill for most people, using a nas setup, especially a Synology one since they have such useful apps, is definitely worthwhile.",
+      "author": "Nersheti",
+      "created": 1633099569,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hezfww3": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hezfww3/",
+      "text": "Pretty please folks, do use these services where applicable, but **never rely on them**, even if you're a paid customer. They have billions of customers, and paid customers make a tiny % of their income (Google esp), they don't care about you. People familiar w/ valley culture among us would know, these companies only care about B2B and esp investor money, whether you pay or not you're just there as a statistic that's presented to investors and ad-tech customers.\n\nDrive, Dropbox, etc are not backups nor reliable, because of potential issues like OP's, plus some other technicalities.\n\n[Here](https://old.reddit.com/r/GradSchool/comments/p35zsj/most_of_my_departments_building_burned_down_last/) is a comment I made about how I do my backups to Drive in a manner that makes use of the free space but without *relying* on Google or anything (tl;dr: use duplicati or rclone, both open source and free of charge, duplicati is easier).\n\nSharing stuff per se is alright, but only if you have copies of that file somewhere safe.",
+      "author": null,
+      "created": 1633101563,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hfrnwy8": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hfrnwy8/",
+      "text": "How do you efficiently download all your files from Google Drive to save them elsewhere? Do you download each file as a pdf?",
+      "author": "sunflower335",
+      "created": 1633636163,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hewv6pk": {
+      "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewv6pk/",
+      "text": "Dropbox is the best cloud",
+      "author": "Money_Nvr_Sleeps_",
+      "created": 1633044862,
+      "upvotes": -4,
+      "replies": {
+        "heyfh39": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/heyfh39/",
+          "text": "There was a time when I would\u2019ve agreed. Then they limited the service trying to drive subscriptions and made it useless.",
+          "author": "RiverThatBends",
+          "created": 1633080183,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

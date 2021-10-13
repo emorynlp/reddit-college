@@ -1,0 +1,48 @@
+{
+  "sid": "oj1kzr",
+  "link": "/r/Emory/comments/oj1kzr/cs_170_online_vs_inperson/",
+  "title:": "CS 170: online vs in-person",
+  "text": "I\u2019ve heard bad things about CS 170 from people who have taken it in person, such as lots of quizzes and homeworks. I was wondering how things are the same/different for online classes? If you\u2019ve taken CS 170, please state whether you\u2019ve taken it online or in-person and share your experience.\n\nThank u",
+  "author": "throwaway389302",
+  "created": 1626127342,
+  "updated": 1634097545,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h4z1ah1": {
+      "link": "/r/Emory/comments/oj1kzr/cs_170_online_vs_inperson/h4z1ah1/",
+      "text": "How is that necessarily \"bad\"? Just makes it demanding. If there was weak support or teaching then that maybe should be considered  \"bad\", but people should expect an intro STEM, especially CS (which like a math, chemistry, or physics is very \"do lots of practice practice outside of lecture sessions\" oriented) to be intense and have frequent assessments. I doubt a CS class going online would change things either(because code can easily be submitted electronically and otherwise) but I'm curious to see if I'll be wrong.  Also please do remember that many courses were simply lightened due to Covid conditions generally and not merely because they were online. \n\nLike if everyone is pretty much on campus and can attend in person CS labs to get help, and can access other on campus resources, the course may end up different than during Covid online or not. Students simply have the infrastructure to support them in meeting the demands of a more intense course.",
+      "author": "oldeaglenewute2022",
+      "created": 1626129233,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "h4zvom9": {
+      "link": "/r/Emory/comments/oj1kzr/cs_170_online_vs_inperson/h4zvom9/",
+      "text": "I took it online and I'd posit it's probably relatively similar to the in-person experience. \n\nWe had weekly coding quizzes which were 45 minutes long outside of class time, in addition to the two lectures and the lab. The quizzes start off hard, but you get better at them throughout the semester. However, they are definitely a time crunch if you don't have any coding experience since you have to write several short programs within that time frame.  You can do well at them if you prepare though, even if you have no programming background.\n\nWe also had weekly homeworks, which weren't too hard but took a bit of time. They required you to come up with a coding question based on the concepts you learned that week and then code one possible answer to that question. The questions and codes could be fairly simple, and we usually had to do two of those per week.\n\nThere were also larger coding projects where you'd have to apply your knowledge to more intensive problems. Usually there'd be 5-7 codes per project. One project's longest question involved using the turtle to draw a simple medieval town exactly in proportion to the example drawing. Stuff like that. They were usually fairly straightforward, but a few codes could be a little tricky.\n\nLabs sometimes require you to code something in a group, but the assignments are often a much more complex version of that week's lesson and very difficult for beginners. You are often forced to meet briefly after class to finish, but the lab teacher gave us all the answer at the end of lab class and then we just had to code them. It was annoying, but tolerable.\n\nNo tests, so that was the sum total of the class grading.  Lectures usually involved the professor coding and narrating while sharing his screen. I actually found that style to be very effective, as watching him implement a code step-by-step was easy to understand and replicate. \n\nThe class is obviously very work intensive, but I think that's just how it is. Intro stem classes are weeders at Emory.",
+      "author": "katsteve",
+      "created": 1626145280,
+      "upvotes": 3,
+      "replies": {
+        "h507sw8": {
+          "link": "/r/Emory/comments/oj1kzr/cs_170_online_vs_inperson/h507sw8/",
+          "text": "Are you a stem major? Also, how many hours of work do you typically do for the class weekly?",
+          "author": "throwaway389302",
+          "created": 1626153062,
+          "upvotes": 1,
+          "replies": {
+            "h50ctj8": {
+              "link": "/r/Emory/comments/oj1kzr/cs_170_online_vs_inperson/h50ctj8/",
+              "text": "I'm a business major, so some STEM, some humanities. I took 2 CS courses just to get a feel for programming.\n\nI took CS 170 like a year ago and honestly I don't remember how many hours I put in, but it was more than any of my other classes (although admittedly I was taking fairly easy courses otherwise). Sorry, pretty much all the info that I had was put into my first post.",
+              "author": "katsteve",
+              "created": 1626156915,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

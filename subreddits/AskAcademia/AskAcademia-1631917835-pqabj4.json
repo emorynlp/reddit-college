@@ -1,0 +1,31 @@
+{
+  "sid": "pqabj4",
+  "link": "/r/AskAcademia/comments/pqabj4/industry_funded_phd_in_uk/",
+  "title:": "Industry funded PhD in UK",
+  "text": "Hi all, \n\nI often see people are funded by some company in the UK. I am looking to apply for a machine learning PhD, is there a place that can see a list of companies where you can apply for these sorts of things? Or how would you get those fundings? thanks!",
+  "author": "Living-Dust-2905",
+  "created": 1631917835,
+  "updated": 1634078957,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "hd9re18": {
+      "link": "/r/AskAcademia/comments/pqabj4/industry_funded_phd_in_uk/hd9re18/",
+      "text": "Company-funded PhDs in the UK are still usually done through a university. EPSRC offers iCASE awards, where they fund a portion of a studentship and a company tops it up. Part of the program includes time hosted by the company. You actually can find a list of companies that are eligible for iCASE awards here: [https://epsrc.ukri.org/skills/students/industrial-case/intro/](https://epsrc.ukri.org/skills/students/industrial-case/intro/)\n\nHowever, you don't apply to the companies for these; you have to find a university that has put together a proposal with the company. You can get a full list of institutions with *active* iCASE awards here, just to get a sense of scale of the program: [https://gow.epsrc.ukri.org/NGBOListSchemeOrgs.aspx?SchemeId=43](https://gow.epsrc.ukri.org/NGBOListSchemeOrgs.aspx?SchemeId=43)\n\nMost postings for iCASE studentships should get posted to [jobs.ac.uk](https://jobs.ac.uk), which is a job board for pretty much every position in UK academia. You can search specifically for iCASE and see that there are current posts to apply for (THIS is the most important link in this post): [https://www.jobs.ac.uk/search/?keywords=icase&location=](https://www.jobs.ac.uk/search/?keywords=icase&location=)\n\nI note the usual window for PhD applications is more like Nov-Feb, so I recommend setting up alerts from [jobs.ac.uk](https://jobs.ac.uk) so you can keep an eye on new posts.",
+      "author": "Vievite",
+      "created": 1631922528,
+      "upvotes": 7,
+      "replies": {
+        "hdbcmkk": {
+          "link": "/r/AskAcademia/comments/pqabj4/industry_funded_phd_in_uk/hdbcmkk/",
+          "text": "Thank you! Really appreciated it.",
+          "author": "Living-Dust-2905",
+          "created": 1631959427,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

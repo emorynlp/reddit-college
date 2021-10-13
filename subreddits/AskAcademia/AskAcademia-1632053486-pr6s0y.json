@@ -1,0 +1,219 @@
+{
+  "sid": "pr6s0y",
+  "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/",
+  "title:": "In your field, how would you design the ultimate digital paper-reading assistant?",
+  "text": "For example, in computer science it might be helpful to have a tool that will keep track of variable name definitions in equations (i.e., highlight all instances of the variable and give definition upon hovering). That way, you don't have to keep searching backwards for what *z* represents.\n\nI'm curious what the most annoying part of papers in other fields are. We have so many cool tech tools at our disposal but reading PDFs of papers is still pretty non-interactive.",
+  "author": "amoeba_grand",
+  "created": 1632053486,
+  "updated": 1634078922,
+  "over_18": false,
+  "upvotes": 36,
+  "upvote_ratio": 0.91,
+  "comments": {
+    "hdgidy3": {
+      "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdgidy3/",
+      "text": "In biology, I'd love a tool that fetches the relevant text when the materials and methods says \"X was performed as previously described [cites old article]\". We too frequently have to jump back through a decade of papers to find small but important methodological details. It would be even better if more journals actually enforced writing clear methods sections in the first place, and stop including them in word counts...",
+      "author": "Sant_Darshan",
+      "created": 1632056633,
+      "upvotes": 25,
+      "replies": {}
+    },
+    "hdh63b9": {
+      "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdh63b9/",
+      "text": "Linguist here. I would like language info upon hovering on the language name. Language family, where it is spoken, morphological type and dominant syntactic order. I work in morphology and syntax so these would be my preferences, but other basic descriptions such as phoneme inventory would be needed too, imo.",
+      "author": "Normal_Kaleidoscope",
+      "created": 1632067455,
+      "upvotes": 9,
+      "replies": {
+        "hdikz7r": {
+          "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdikz7r/",
+          "text": "My first thought was how amazing and clean glosses could look if PDFs were interactive. You could even gloss single words or short phrases in-line with the text of the paper if they weren't critical to the argument you were making which wouldn't *always* be appropriate but it certainly would be convenient when it made sense to do so.",
+          "author": "onsereverra",
+          "created": 1632087914,
+          "upvotes": 3,
+          "replies": {
+            "hdkh7ca": {
+              "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdkh7ca/",
+              "text": "Yeah maybe also explanations about what glosses mean.  Well with experience they're easy to remember and such, but maybe less experienced people would benefit from this",
+              "author": "Normal_Kaleidoscope",
+              "created": 1632126303,
+              "upvotes": 2,
+              "replies": {
+                "hdkpy9w": {
+                  "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdkpy9w/",
+                  "text": "I think this would be definitely useful if the language used for data in the paper has any less-common grammatical features that aren't being discussed in the body of the paper but show up in glosses just due to being present in a lot of sentences (silly example that I don't think would actually be confusing to anyone since dual number is familiar to most linguists but e.g. a language that puts a singular-dual-plural distinction on its verb morphology, but the paper is about tense-marking morphology; it'd be helpful to put an explanation of what the abbreviation for \"dual\" means directly in the gloss for anyone who might be unfamiliar with it).",
+                  "author": "onsereverra",
+                  "created": 1632134245,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hdh6emn": {
+          "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdh6emn/",
+          "text": "Also acronyms perhaps. Acronyms related to theoretical concepts aren't always introduced.",
+          "author": "Normal_Kaleidoscope",
+          "created": 1632067587,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hdghsvw": {
+      "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdghsvw/",
+      "text": "I\u2019d like to have a FOSS version of LiquidText, with support for local syncing, mathjax support, image-to-latex.",
+      "author": "mechanical_poet",
+      "created": 1632056302,
+      "upvotes": 8,
+      "replies": {
+        "hdh4md6": {
+          "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdh4md6/",
+          "text": "LiquidText is love. LiquidText is life!",
+          "author": "quadroplegic",
+          "created": 1632066847,
+          "upvotes": 1,
+          "replies": {
+            "hdh5770": {
+              "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdh5770/",
+              "text": "Too bad they\u2019re forcing a subscription with a very expensive syncing service ($100/year for 1GB or something).",
+              "author": "mechanical_poet",
+              "created": 1632067086,
+              "upvotes": 1,
+              "replies": {
+                "hdh6a3a": {
+                  "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdh6a3a/",
+                  "text": "They aren\u2019t forcing that at all. That\u2019s for their \u201clive\u201d version, with syncing and things I don\u2019t need. If they eliminate the Pro tier, I\u2019ll sharpen my pitchfork right alongside you!\n\nAlso, if I were a lawyer or something, I\u2019d buy the $10/mo sub and be fine. As it is, I really just use it on my iPad, so I don\u2019t need the shiny (and difficult to implement) multi-device collaborative mode",
+                  "author": "quadroplegic",
+                  "created": 1632067534,
+                  "upvotes": 1,
+                  "replies": {
+                    "hdh8ig5": {
+                      "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdh8ig5/",
+                      "text": "Whether they are forcing it is subjective. \n\nI perceive it as forcing because ALL major competitors have syncing, which is mostly an essential feature nowadays. LT is also making it particularly difficult to back up projects, which makes things worse if there\u2019s no sync.",
+                      "author": "mechanical_poet",
+                      "created": 1632068467,
+                      "upvotes": 1,
+                      "replies": {
+                        "hdhenmd": {
+                          "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdhenmd/",
+                          "text": "Could you let me know what the competitors are (and maybe why they're better) so I can check them out?",
+                          "author": "Lollipop126",
+                          "created": 1632071000,
+                          "upvotes": 1,
+                          "replies": {
+                            "hdherak": {
+                              "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdherak/",
+                              "text": "I know flexcil and marginnote.",
+                              "author": "mechanical_poet",
+                              "created": 1632071042,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hdherrs": {
+          "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdherrs/",
+          "text": "What is so good about LiquidText and how do you use it?",
+          "author": "Lollipop126",
+          "created": 1632071047,
+          "upvotes": 1,
+          "replies": {
+            "hdhlzzl": {
+              "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdhlzzl/",
+              "text": "It\u2019s good when you need to read multiple papers simultaneously. You can make excerpts from multiple documents into a single free-form workspace, which are linked to the original source. It\u2019s also good when you need an infinite workspace to work with complex problems.\n\nBut I\u2019ve gradually stopped using it due to frustration with many bugs and glitches, like random non-removable inking/texts; invisible/non-editable excerpts, pen thickness reverting to default, and a lot more. These are small issues that add up the frustration quickly. \n\nIt also suffers a lot of the lack of quality of life improvements. For example, the inking has worse quality than other good note-taking apps. The text editing is very cumbersome to use. The lack of OCR makes navigating a large workspace painful.\n\nI\u2019ve sent a lot of detailed feedbacks to the developer during the last 4 years. But nothing really changed during the course. Now they\u2019ve come up with an extremely expensive service to enable syncing, which are also quite buggy, slow, and have security/privacy concerns. \n\nI really hope its technology being picked up by the open source community. So the brilliant ideas from LT aren\u2019t going to be ruined by poor development and business decisions.",
+              "author": "mechanical_poet",
+              "created": 1632073832,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hdh78po": {
+      "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdh78po/",
+      "text": "Anything that is able to take 4,000 words out of an introduction and finds the sentence actually related to the topic being presented.",
+      "author": "lucaxx85",
+      "created": 1632067938,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hdi73ff": {
+      "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdi73ff/",
+      "text": "Have a search bar for mathematical symbols! Like I don't want to snoop around your 40 page paper looking for the definition of Gamma_{alpha,\\mathfrak{B}}. I have slowly gotten more radical with this: on long papers I refuse not to provide a symbol table at the end of the paper, it's ridiculous to have scientists waste their day away trailing definitions for symbols.\n\nLatex-math notes would be so cool and handy.\n\nFor tablets: notes that open up to a whiteboard-style thing you can scribble on.\n\nEnabling double/triple view where you can quickly open a second 'tab' (or partition the pdf viewer in 2) so that you can quickly see which equation/definition/theorem/etc is being referenced without having to scroll back and forth. Some pdfs even are generated with hyperlinks on eq. references, these could simply open a tab/division.\n\nFor double column papers on a phone, have a button that disables horizontal movement, so you can scroll down a column easily.\n\nAlso for phones: no scrolling bar popping in and out of existence, making you suddenly skip 40 pages because of a misstouch. No need for scrolling bar, just put a decently sized page number thingy on top: if you need to scroll like a lot, then tap on the number thingy and scroll through the page numbers till your destination!\n\nGod damn, I didn't know I felt so passionately for these things.",
+      "author": "fuckwatergivemewine",
+      "created": 1632082099,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hdhc46e": {
+      "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdhc46e/",
+      "text": "In archaeological reports, it would be nice to have something which could remind me what each Stratigraphical Unit actually is: they're usually presented once at the beginning of the paper, and then referred to further on when you've forgotten about them",
+      "author": "Dctreu",
+      "created": 1632069952,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hdhm3ld": {
+      "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdhm3ld/",
+      "text": "Please tell me a tool for tracking variable names like you described exists. I hate searching for that shit.",
+      "author": "RexBox",
+      "created": 1632073871,
+      "upvotes": 4,
+      "replies": {
+        "hdhsfe1": {
+          "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdhsfe1/",
+          "text": "Actually, the folks at Semantic Scholar made a really neat proof of concept of this: https://chi2021demo.scholarphi.org. If we're lucky, maybe they'll implement it for public use!",
+          "author": "amoeba_grand",
+          "created": 1632076364,
+          "upvotes": 7,
+          "replies": {
+            "hdhvawv": {
+              "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdhvawv/",
+              "text": "This is a dream...",
+              "author": "RexBox",
+              "created": 1632077510,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hdias2w": {
+      "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdias2w/",
+      "text": "For math papers, a program that automatically looks for and displays in a sidebar all definitions, lemmas and theorems that are used in a proof. It can be quite tedious when a proof contains 10 steps that amount to \"by lemma x.y.z. we have blah blah\". Modern PDF readers at least link to the lemmas, but when you have to use say 3 lemmas at once and each has 2-4 assumptions, it just becomes needlessly headache-inducing to follow an argument.",
+      "author": "Aliudnomen",
+      "created": 1632083609,
+      "upvotes": 4,
+      "replies": {
+        "hdj4u6q": {
+          "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdj4u6q/",
+          "text": "I agree, this would be really useful.\n\nBeginning to think that the solution isn't to build wrappers on top of papers to make them easier to read, but change the whole format of a paper. Because otherwise I have no idea how an automated program would know how to parse a math paper to do as you said.\n\nBut I have no idea how that might look like.",
+          "author": "TrostAft",
+          "created": 1632096967,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hdj5ft5": {
+      "link": "/r/AskAcademia/comments/pr6s0y/in_your_field_how_would_you_design_the_ultimate/hdj5ft5/",
+      "text": "I\u2019m not sure if this already exists and it isn\u2019t for reading an individual paper as much.\n\nBut I\u2019d love to see or be able to build up my own web of references. A visualisation of how different ideas/concepts have progressed, would be great for a lit review or documenting your research.",
+      "author": "Sup3rBl4ck",
+      "created": 1632097257,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

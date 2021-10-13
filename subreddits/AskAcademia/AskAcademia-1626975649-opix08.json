@@ -1,0 +1,31 @@
+{
+  "sid": "opix08",
+  "link": "/r/AskAcademia/comments/opix08/phd_at_home_institution/",
+  "title:": "PhD at home institution",
+  "text": "Hi everyone, I\u2019m a rising senior at a R1 university interested in pursuing a PhD in computer science to research machine learning or causal inference on graphs/networks. I received a PhD offer to join a professor who has a great publishing record (h index >60, i10>180) at my current institution. This potential advisor and I work incredibly well together, and I think I could learn a lot from him. Additionally, if I join this PhD program, I\u2019d be coming in as a PhD candidate (ie, don\u2019t have to take qualifying exam) since I\u2019ve already done well in all the graduate courses. \n\nThe downsides however are that my current school isn\u2019t the highest ranked in the field (csrankings in 40-60 range depending on the AI/ML subfield) and that my potential advisor\u2019s application interests are more biomedical focused while my mine are more so in the social sciences. They do some social science applications of ML, for example on social networks, but they are less common than their work in the bio field. \n\nIf I accept this position, I get to avoid the stress and headache of going through the application process. But on the other hand, my current research mentors are confident that my application would be competitive enough for a top CS program like CMU or MIT. I do like being \u201cthe big fish in the small pond\u201d however and can certainly see myself enjoying this program.\n\nIn terms of my future career goals, I am open to both academia and industry research. I am not tied to one or the other. With these factors in mind, should I accept this position? Will not going to a school with as much prestige hurt my future career prospects? And are there any other factors I should take into account when making this decision? Thank you in advance.",
+  "author": "getrekt899",
+  "created": 1626975649,
+  "updated": 1634082461,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.5,
+  "comments": {
+    "h65jvk1": {
+      "link": "/r/AskAcademia/comments/opix08/phd_at_home_institution/h65jvk1/",
+      "text": "So the issue you'll have is that you're best served targeting either industry or academia, and trying to be highly qualified for both will leave you stretched very thin. For example, getting a PhD level internship one summer is excellent for industry aspirations and pointless for academic. Your schools ranking is plenty sufficient for industry and you'll be well positioned to compete for jobs outside of a few positions at elite level companies (e.g. Some Netflix entry level salaries in ML start at 200k+ but are hella hard to land unless you're at a top 5 school since they recruit directly out of a few specific labs), but it doesn't sound like that's your interest. Regardless, it can be useful to go to a university proximal to the companies that you want to work for since it increases the ease of building connections there, the key to the PhD job hunt. \n\nIn contrast, in academia it's virtually impossible to land a faculty job at an institution higher than where your PhD is from. You can overcome the limit by getting a higher ranked post doc, but the CS market is competitive enough that you aren't *required* to do a post doc if your have a sufficiently awesome PhD. That being said, ML is becoming a bit academically saturated and the competitiveness is quickly rising. \n\nTo be competitive in academia, you'll want to be landing grants and awards and publishing a whole bunch. All of that is easier to do at more prestigious schools due to higher funding, better connections, decreased levels of publication scrutiny, cronyism in reviewer panels, and more paper writing support programs. In addition, the higher ranked schools have more graduates established as faculty members at universities, which makes it easier to get your CV past the first round, and letters of recommendation mean more coming from famous researchers. I mean, one of our applicants this year had a LOR from a nobel prize winner. Similarly, the dean of our college straight up told the CS department he wouldn't approve any non-R1 hires ever again because the \"questionable\" degree quality of some faculty hired is \"impacting our universities reputation\".",
+      "author": "downsideleft",
+      "created": 1626977185,
+      "upvotes": 7,
+      "replies": {
+        "h68ancg": {
+          "link": "/r/AskAcademia/comments/opix08/phd_at_home_institution/h68ancg/",
+          "text": "I second this comment - totally accurate.",
+          "author": "MarineProf",
+          "created": 1627032358,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

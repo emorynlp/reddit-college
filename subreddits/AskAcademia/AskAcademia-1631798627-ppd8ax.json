@@ -1,0 +1,38 @@
+{
+  "sid": "ppd8ax",
+  "link": "/r/AskAcademia/comments/ppd8ax/reading_papers/",
+  "title:": "Reading Papers",
+  "text": "Hi everyone,\n\nI am an incoming PhD student and I am trying to figure out what\u2019s the best approach I should take in terms of reading papers.\n\nCurrently I do the following:\n1) I read the abstract, introduction, and conclusion to see if it is relevant to what I want to research on \n2) If the paper is relevant, I read it completely and I highlight with different colours (like red for main argument, green for sub arguments, blue for previous literature, pink for methodology, yellow for results, etc)\n3) After reading it the first time, I read it again and take notes. I have a template on notion and I write down things like keywords, year of publication, notes from literature, etc. Moreover I reply to the following questions:\n\u2022 What is the main argument?\n\u2022 What are the sub-arguments?\n\u2022 Are the authors successful in proving their argument?\n\u2022 How is the argument new?\n\u2022 Does the argument make sense?\nFinally, I write down the questions I have that could potentially lead to research ideas\n\nHowever, to read one paper like this it takes me three or more hours and I feel like it is not efficient. What do you recommend me doing?\n\nFurthermore, I took a class in statistics during my undergrad but we got up to linear regression (theoretically, I do not really know how to plot it on R, Stata or similar) and I usually have no idea of what\u2019s going on when the authors explain their quantitative methodologies. What should I do? I am going to use qualitative methods in my research so I am not even going to take a quant class in my first PhD year. The main issue for me is understanding why xx author has used yy methodology. Is there a quick way to understand this? I am in social sciences if it helps.\n\nThank you!",
+  "author": "mp141093",
+  "created": 1631798627,
+  "updated": 1634078971,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 0.86,
+  "comments": {
+    "hd2trt6": {
+      "link": "/r/AskAcademia/comments/ppd8ax/reading_papers/hd2trt6/",
+      "text": "I think you\u2019re doing it the right way for starting out.\n\nIt simultaneously gets easier and harder as you progress. I can read through a paper and get a good understanding of what they did, what they found, and how reliable their interpretation is based on the data in about 15 to 20 minutes now. However the more papers you read the more the number of papers you have to read increases exponentially. I usually end up at least wanting to look at about 20 to 30 references in every paper I read now. \n\nAs far as taking notes/highlighting things, I think that\u2019s good to do when starting out. Now that my research is going I really only highlight things that are directly relevant to my research. I try to keep them organized in an Excel table.\n\nAlso a good place to start out when you have a general idea of the topic you\u2019re interested in is review articles",
+      "author": "hcreek81",
+      "created": 1631800094,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hd3y8j8": {
+      "link": "/r/AskAcademia/comments/ppd8ax/reading_papers/hd3y8j8/",
+      "text": "https://youtu.be/g8qatelVS7c\n\nOne of the best vlogs for PhD students.\nYour welcome.",
+      "author": "Hamlex",
+      "created": 1631816545,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hdl9tz6": {
+      "link": "/r/AskAcademia/comments/ppd8ax/reading_papers/hdl9tz6/",
+      "text": "Read review papers and attend conferences/webinars. They offer comprehensive review of recent work and have citations which you can refer to for specific evidence. Reading one original article at a time is not only inefficient but a potential waste of time. If you don't have a choice, consider EndNote, Mendeley or Excel to keep track of papers and their contribution/novelty. Have a nice day :)",
+      "author": "Aronaldo97",
+      "created": 1632145911,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

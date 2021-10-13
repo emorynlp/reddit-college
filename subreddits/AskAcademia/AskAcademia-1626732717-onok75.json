@@ -1,0 +1,39 @@
+{
+  "sid": "onok75",
+  "link": "/r/AskAcademia/comments/onok75/academic_paper_pdf_to_immersive_reading_mode/",
+  "title:": "Academic Paper PDF to \"Immersive Reading Mode\"",
+  "text": "I like to use immersive readers (e.g. Pocket, Instapaper, Chrome/Edge/Safari Reader Modes) for web content like news articles and blog posts. Is anyone using a service that converts academic paper PDFs to those immersive reader views?\n\nI want to digest papers more regularly. This is what I do today:\n1. Find out about a new paper, at conferences, on online forums, or from teammates. I add them to a \"read later\" folder. Sometimes, I reach tens of papers in this backlog folder. \n2. I try to find time I can block out for reading. I print out all papers in the folder at once, then read. It'd be great to go green, but academic papers are written in such small text that it's very difficult for me to read, even on external desktop monitors. \n3. Printed papers are great for taking notes, but I often want to send them over to friends and teammates. This is another fragmented experience.  \n\nDo you know a service or a set of services that can help me achieve this experience?\n1. See a list of papers in a content feed on a mobile phone. Pick promising ones from the list and add them to a reading list (e.g. Share -> Add to Pocket). \n2. Open each academic paper in an immersive reading mode. Will probably read abstract, introduction, results figures, conclusion, just to determine if I want to read in depth. Filter out 80%+ papers this way, and just print out remaining 20% for deep reading. \n\n   2.1. Immersive readers like Pocket support text-to-speech. Would be even better if I can listen to abstracts while jogging in the park so that I can fit in that extra productivity in daily routine. \n\n   2.2. If there are no good solutions, I am willing to give up figures as well. Getting only text will be inconvenient as I will need to open the paper on computer later, but I can at least filter papers down to \"interesting enough to read on computer\" list while I am on my mobile phone.",
+  "author": "productceo",
+  "created": 1626732717,
+  "updated": 1634082495,
+  "over_18": false,
+  "upvotes": 7,
+  "upvote_ratio": 0.89,
+  "comments": {
+    "h5u297j": {
+      "link": "/r/AskAcademia/comments/onok75/academic_paper_pdf_to_immersive_reading_mode/h5u297j/",
+      "text": "13\" iPad Pro is the GOAT for reading papers imo. It's A4 size in portrait mode so its like reading a printed paper, the screen is nice, the zoom/scroll functions are smooth, annotations are great, and Apple's piss-poor multitasking is kind of a benefit since it means its harder to get distracted. Its just so, so much better than trying to read papers on a laptop or desktop. Not cheap though admittedly (but the 2018 model is fine).\n\nFor managing a reading list just do whatever you like. I personally just save everything into a few Dropbox folders and sync them across my devices but you could do the same in (e.g.) Zotero or Mendeley or whatever. Just create tags for papers that you want to read next, it will function as a reading list. Or if you are using an iPad reading app like PDFExpert then you can just send directly to that.\n\nI'm kind of puzzled by your use of the phrase \"immersive reading\" though. If you open a PDF in a decent PDF reader then it will automatically be set to full screen without ads/junk/whatever. I don't really understand what you mean by \"converting PDFs to immersive reading mode\" or \"being prepared to give up figures\". Like, what is you are actually wanting that you cant get in a standard PDF viewer?\n\n\n> 2.1. Immersive readers like Pocket support text-to-speech. Would be even better if I can listen to abstracts while jogging in the park so that I can fit in that extra productivity in daily routine.\n\nSounds like a horrible idea to me personally but yeah there's apps for this.",
+      "author": null,
+      "created": 1626751823,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "h5t2gev": {
+      "link": "/r/AskAcademia/comments/onok75/academic_paper_pdf_to_immersive_reading_mode/h5t2gev/",
+      "text": "Something that comes to mind is hypothes.is but that does not offer everything you want. Some years ago I found something called Paperly but I must admit I've never tested it",
+      "author": "CBornes",
+      "created": 1626733842,
+      "upvotes": 2,
+      "replies": {
+        "h5t2nn4": {
+          "link": "/r/AskAcademia/comments/onok75/academic_paper_pdf_to_immersive_reading_mode/h5t2nn4/",
+          "text": "Thanks for the suggestion. I will look them up!",
+          "author": "productceo",
+          "created": 1626733935,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

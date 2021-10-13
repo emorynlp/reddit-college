@@ -1,0 +1,160 @@
+{
+  "sid": "pcqpre",
+  "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/",
+  "title:": "Undergrad Research and Non-disclosure agreement",
+  "text": "I have been working in a research group for 3 months. My supervisor is not from my University. He is conducting the research as he is an Alumni here and wants to give back to the community. I am a second-year undergrad student who joined the team with the aim to get acquainted with [research.  FYI](https://research.FYI) there are no financial benefits here. Recently, he gave us an NDA to sign where he stated the restrictions of sharing data outside the team, announced him a lead researcher, and the rest of us co-researcher. He also mentioned that he has the full authorship and can terminate the project anytime if he feels [necessary.  As](https://necessary.As) I have been working here for 3 months, I have shared a lot of ideas. That doesn't really matter. But my question is, is it necessary to sign such NDA for independent research in undergraduate? Is it an indication that I should probably leave?",
+  "author": "shasmistic",
+  "created": 1630081577,
+  "updated": 1634079471,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 0.92,
+  "comments": {
+    "hakqvmp": {
+      "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hakqvmp/",
+      "text": "Unless you\u2019re researching something sensitive, an NDA is a good sign that somebody involved wants to commercialize whatever you\u2019re researching. Not necessarily a red flag, but you should definitely ask your supervisor for more information if you feel unsure about this. In theory if you sign an NDA he could terminate the project then publish it all on his own, but unless he\u2019s a real scumbag he wouldn\u2019t do something like that.",
+      "author": "CootaCoo",
+      "created": 1630082601,
+      "upvotes": 16,
+      "replies": {}
+    },
+    "hamzjg3": {
+      "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hamzjg3/",
+      "text": "I'm more struck by the supervisor being an alumni not part of the university? Could you clarify that- is this research affiliated with the university at all? Who funds it? What space/facilities/equipment does it use? It reads pretty sketchy to me.",
+      "author": "AwkwardAccountant5",
+      "created": 1630118762,
+      "upvotes": 5,
+      "replies": {
+        "hau5krt": {
+          "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hau5krt/",
+          "text": "It's an independent research. I am a CS student and we use open source stuff. We are developing a software and the development doesn\u2019t really require anything too costly. He made up a team and assigned us some work to get acquainted, that's it. If the research needs funding in future, the school alumni club has a fund for that too. But till date, I don't think it's necessary to get funds.",
+          "author": "shasmistic",
+          "created": 1630264142,
+          "upvotes": 1,
+          "replies": {
+            "hauti4y": {
+              "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hauti4y/",
+              "text": "I don't think I understand waht \"independent research\" means. Who pays his salary and his team?",
+              "author": "AwkwardAccountant5",
+              "created": 1630274567,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "han66he": {
+      "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/han66he/",
+      "text": "Lots of red flags. Does this person have an established publication and mentorship record?",
+      "author": "fwafwa",
+      "created": 1630122479,
+      "upvotes": 6,
+      "replies": {
+        "hau5nic": {
+          "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hau5nic/",
+          "text": "Yes, he does. He is a renowned academician.",
+          "author": "shasmistic",
+          "created": 1630264175,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "hal1qhp": {
+      "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hal1qhp/",
+      "text": "It's not typical for student researchers to sign NDAs, but it's not totally unheard of either if the research sponsor requires it or if the subject of the research is something classified or otherwise needing extra protections.  I would expect that in those cases it would be really clearly explained to you exactly why in this case an NDA was required.  And I'm having a hard time imagining a situation where an alumni is somehow allowed to do that kind of classified or highly-sponsor-controlled research at a university with university students without being an employee of the university.\n\nSo - this \\*could\\* \\*maybe\\* be okay but I'm skeptical.  You would be well within your rights to talk to someone - a student ombudsperson, your advisor, a department administrator, someone like that - about your concerns to get some outside perspective on what's going on here.",
+      "author": "Amaranthesque",
+      "created": 1630086920,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hank5io": {
+      "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hank5io/",
+      "text": "Is this NDA a [data use agreement (DUA)](https://www.umass.edu/research/guidance/data-use-agreements) for PII and/or classified info? If not, this is problematic; that sounds more like he's recruiting students to do free work expressly with the hopes of commercializing the results. However, there are definitely legitimate (and necessary) for NDA-like documents in academic research groups. They should always be very clear about what exactly is being restricted and what authority is ordering it, like an IRB or federal agency. It would be pretty unusual for an NDA-type document to solely exist at a PI's demand.\n\nPersonally, I don't think it's the best idea for an undergraduate project to work with restricted data, but it's not a red flag. Ideally, you want to be able to share your work in progress frequently and eventually publish to get feedback and improve your research and communication skills, and that's simply more difficult under some DUAs. \n\nBut, this whole situation with the actual supervisor sounds more sketchy. Does he have a current academic affiliation? Does he have a proven track record of good research and mentorship?",
+      "author": "aggressive-teaspoon",
+      "created": 1630132024,
+      "upvotes": 2,
+      "replies": {
+        "hau640g": {
+          "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hau640g/",
+          "text": "Yes, he has an academic affiliation, pretty renowned Professor. And, I assume the purpose of the NDA is for the chances of commercialization of what we are developing right now.",
+          "author": "shasmistic",
+          "created": 1630264371,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hapz9io": {
+      "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hapz9io/",
+      "text": "Everything about the NDA is fine I guess except the full authorship. But how can he/she have full authorship while acknowledging you as researchers. \n\nI suggest you speak to student support before signing that document",
+      "author": "Advanced-Hedgehog-95",
+      "created": 1630181044,
+      "upvotes": 2,
+      "replies": {
+        "hau6lo0": {
+          "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hau6lo0/",
+          "text": "I am confused about the authorship as well.\nHe said we are co- researchers but he has the full right to terminate the project if he feels necessary. And that's what hit me.",
+          "author": "shasmistic",
+          "created": 1630264583,
+          "upvotes": 1,
+          "replies": {
+            "hau7ofr": {
+              "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hau7ofr/",
+              "text": "He can terminate it if he wants but you should still be able to put that as experience. This should not be negotiable unless you are paid good money.\n\nIt may be the person is just trying to protect IP. Like I said it is better to discuss with student support before signing anything",
+              "author": "Advanced-Hedgehog-95",
+              "created": 1630265050,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hamdgzx": {
+      "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hamdgzx/",
+      "text": "Wait, so if you continue working on this project you can't add it to your resume?\n\nIf you aren't getting money or recognition out of this, why are you putting in the time and effort? Not saying you shouldn't, just curious.",
+      "author": null,
+      "created": 1630107683,
+      "upvotes": 1,
+      "replies": {
+        "hau6d43": {
+          "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hau6d43/",
+          "text": "There's no financial benefits but eventually, I will have a paper published ig. That's why I have decided to put the effort and meanwhile, get myself acquainted with Research stuff.",
+          "author": "shasmistic",
+          "created": 1630264481,
+          "upvotes": 1,
+          "replies": {
+            "haudj1y": {
+              "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/haudj1y/",
+              "text": "Doesn't publishing the paper violate the NDA in the worst way?",
+              "author": null,
+              "created": 1630267552,
+              "upvotes": 1,
+              "replies": {
+                "haudumx": {
+                  "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/haudumx/",
+                  "text": "How? The data should be kept confidential before publication. If it's never published, how would this work be meaningful?!",
+                  "author": "shasmistic",
+                  "created": 1630267688,
+                  "upvotes": 2,
+                  "replies": {
+                    "hauxg38": {
+                      "link": "/r/AskAcademia/comments/pcqpre/undergrad_research_and_nondisclosure_agreement/hauxg38/",
+                      "text": "I misread your post. I thought not only the data, but everything derived off it was covered under the NDA.",
+                      "author": null,
+                      "created": 1630276365,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

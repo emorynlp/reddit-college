@@ -1,0 +1,46 @@
+{
+  "sid": "opaema",
+  "link": "/r/AskAcademia/comments/opaema/mendeley_formatting_references_incorrectly_help/",
+  "title:": "Mendeley formatting references incorrectly! Help - PhD due soon!",
+  "text": "Have completed my PhD and checked all of the references. Unfortunately, all of them seem to have shifted one down (i.e. reference 1 is showing as reference 2). When I right click on each reference and use the Mendeley tool in Word, it shows that it's the correct reference. However, it's just displaying the wrong citation in-text. Anyone had a similar problem?\n\nMacbook Pro (M1), Word, Office 365 if that helps.",
+  "author": "plasticinema",
+  "created": 1626946103,
+  "updated": 1634082470,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h647bbt": {
+      "link": "/r/AskAcademia/comments/opaema/mendeley_formatting_references_incorrectly_help/h647bbt/",
+      "text": "Save it, then try to highlight all your text (there should be a command for this), then \"update fields\"",
+      "author": "CheeseWheels38",
+      "created": 1626954512,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h644p8y": {
+      "link": "/r/AskAcademia/comments/opaema/mendeley_formatting_references_incorrectly_help/h644p8y/",
+      "text": "Yes, it's when you have copied and lasted text containing a ref from one place to another. You will need to shift it back and then move it without the ref and then you won't lose the sequence.",
+      "author": "Shinchynab",
+      "created": 1626952669,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h68jbk0": {
+      "link": "/r/AskAcademia/comments/opaema/mendeley_formatting_references_incorrectly_help/h68jbk0/",
+      "text": "May I ask how you survived using Mendeley on M1? I\u2019m using M1 too and it is so buggy. I cannot ever go full screen if I want cite. Have you found a solution to this?",
+      "author": "givemeyourdonut",
+      "created": 1627039547,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h66nmc4": {
+      "link": "/r/AskAcademia/comments/opaema/mendeley_formatting_references_incorrectly_help/h66nmc4/",
+      "text": "Fuck word use LaTeX. And good luck solving the problem",
+      "author": "CBornes",
+      "created": 1626994901,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

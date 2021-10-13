@@ -1,0 +1,83 @@
+{
+  "sid": "mg03mf",
+  "link": "/r/Emory/comments/mg03mf/how_good_is_emory_qss/",
+  "title:": "How good is Emory QSS?",
+  "text": "I'm considering doing the QSS major, but I'm concerned about being uncompetitive in the job market against the MIT, CMU, Stanford folks for data science jobs. I'm sure I could work harder and self study a lot of material, but I was wondering if the support system and class rigor in general from Emory would be sufficient in getting me where I want to be. \n\nI'm also considering going the QSS+BBA route to carve a niche for myself. But I'm not sure how much work it actually is (worried about sinking my gpa or ECs). If someone can comment on this I'd appreciate it too.",
+  "author": "kingloogie79",
+  "created": 1617053438,
+  "updated": 1634098654,
+  "over_18": false,
+  "upvotes": 11,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "gsqspl8": {
+      "link": "/r/Emory/comments/mg03mf/how_good_is_emory_qss/gsqspl8/",
+      "text": "An important distinction to keep in mind is that it's called a Quantitative Sciences major, and not a Data Science major. Since Emory is a liberal arts school, there is an emphasis on understanding what and why you are doing things rather than just loading up on technical skills. \n\nI can't recommend the intro course QTM110 enough, as it's really fantastic for understanding the underlying ideas and developing an intuition for different quantitative ideas. This definitely sets the QSS major apart and adds value to yourself in the job market, because classes on purely technical skills are so widely available online nowadays. \n\nAs for your question, the QSS major has a bunch of different tracks and as a result the major can be tailored to your interests. Depending on what you use QSS for, you could do the major and not get very deep into coding at all, so it's important to make sure you are taking classes in the more technical computer realm as well. For example, a psych major could use QSS to strengthen research skills and interpretation of data, rather than coding machine learning algorithms. In general, classes are made up of students with a wide variety of interests. \n\nI can't speak for the BBA+QSS program but if you have any other questions, feel free to dm!",
+      "author": "gr___",
+      "created": 1617060712,
+      "upvotes": 8,
+      "replies": {
+        "gssa41j": {
+          "link": "/r/Emory/comments/mg03mf/how_good_is_emory_qss/gssa41j/",
+          "text": "Thanks for the reply! So I take it QSS is more of a statistics and data interpretation major?  I'd consider digging heavily into coding as well, but I was concerned cus I'd heard Emory wasn't fantastic for CS. I was hoping the coding education from QSS would be pretty strong but I guess it wouldn't really make sense.  \n\n\nIf Emory focuses heavily on the \"why\", I'm assuming it's slightly weaker in the technical aspect right? I would agree that the why is more important in today's age, as the technicality is easy to develop over time. Could you speak a little bit more about QTM 110? Perhaps about the workload\u2014 is it a lot? Highly quantitative? What are some of the core ways it's changed the way you think?",
+          "author": "kingloogie79",
+          "created": 1617099079,
+          "upvotes": 1,
+          "replies": {
+            "gsvnlm5": {
+              "link": "/r/Emory/comments/mg03mf/how_good_is_emory_qss/gsvnlm5/",
+              "text": "Yep, I'd say that QSS focuses more on applying data to various fields. There is also the Applied Math and Stats major in the same department which gets a lot more into the math, as the name suggests. \n\nEmory CS is not name-brand, but I'd say it gets the job done. The intro CS courses are, however, in Java so you would have to supplement learning Python on your own, especially python for data science. You can check out the different courses at [atlas.emory.edu](atlas.emory.edu)\n\nI saw in one of your other comments that you aren't sure yet about your exact interests, and in this case, I think that Emory QSS would be a great choice. The QSS major gives you a ton of options, because it can be combined with a track in a wide variety of fields. If you've already decided that you want to do pure data science, there are probably other programs better suited to that. However, the QSS major is perfect if you have multiple academic interests, and also great if you have an interest in combining a business degree with quant skills bc I've heard that that program is pretty good. I'd say it's also a safer choice in the sense that if you end up not wanting to do pure data science, you're not stuck in a specific major but instead can apply the skills in a different direction and make them useful. \n\nI'll come back and talk more about QTM110 in another comment",
+              "author": "gr___",
+              "created": 1617162533,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gsqz8vs": {
+      "link": "/r/Emory/comments/mg03mf/how_good_is_emory_qss/gsqz8vs/",
+      "text": "You are talking about an area that is pretty damned competency driven, not prestige driven so it is unlikely you'll just pit against people from those schools especially since data scientists will likely go into a wide variety of fields (vs. a tried and true engineer or CS major).  Either you're competent or not and it is up you to become competent enough to have whatever skills jobs ask for. If you look on the QTM website, not only is there an unusually rigorous core and a pretty strong APPLIED and interdisciplinary electives. In addition to that, it has super strong professional development infrastructure vs. most ECAS majors (including other STEMs).  I'd say you'd have to try pretty damned hard to come out of that program uncompetitive.  \n\nWhat I would say is that if you are worried about being less PREPARED (and not just this vague idea of competitiveness ) because those places often have more consistently rigorous instruction (as in even an \"easier\" instructor may be considered rigorous at a school that pours less resources into an analogous program) choose courses, professors, and co-curricular, and EC opps wisely.  Maybe when there is a choice of professors for a course, don't always choose the easier ones. Or maybe pick your battles (areas that you are willing to be challenged and develop in) so that you are super strong in a particular area you may want to work or go to grad school in.  \n\nEither way, from my understanding, QTM majors and courses isn't a particularly \"let us put on kid gloves because this isn't Stanford or somewhere with an older program\" type of department. It looks VERY serious about challenging and making sure students are well trained when they come out. It isn't just banking on the prestige of Emory (again, this isn't good enough for employers in areas like data science anyway. The applicant needs evidence they are trained well and school name doesn't suffice) or Emory being selective so employers trusting students. \n\n Take a look at the core and consider that the majority of QTM majors are concentrating in a social science. I get the feeling that Emory is one of the few places that can convince an ever increasing number of social science leaning students to take:Calc 1(which has been intensified apparently), Linear algebra, a calc2/3 hybrid, 2 data based workshop courses (qtm 150/1), QTM 110 (a conceptually rigorous course on research methods and not just calculations and data wrangling), and other core courses that actually use the math learned earlier. And then afterwards, having to choose among more project oriented or quantitatively rigorous electives.  The program is not a joke especially considering that its primary audience is those that a place like Stanford may consider \"fuzzies\"(humanities and social sciences people). \n\n Honestly I would suspect that since it is accompanied by a disciplinary concentration, you'd end up competitive for a wider range of careers and/or grad school programs than a typical data science major. I'm prone to being honest if an Emory program falls short but QTM is young and can probably (despite growing pains and imperfections) already stack up to peers with older programs.  And it must have a draw for a reason if social science majors who often claim they wanna dodge math continue to flock to it (even after they ADDED new courses to the core) in higher numbers every year.  I note this everytime I think about QTM: It is going to produce an awful lot of social scientists better trained and more marketable to employers than the standard natural and physical science majors at Emory.\n\n And while I wouldn't view QTM/BBA as some magical niche (please be more creative if you can. People trying to slap too supposedly high yield disciplines together is not special at Emory or probably not many other selective Us), the GPA thing shouldn't be your concern. A \"decent\" GPA out of this type of program will likely open many well-compensated doors. View it like engineering. Your pairing should allow you to develop well (in depth) in your area of interest and not have to scramble to check off a bunch of course requirements and flippantly choose courses or professors. Choose something where scheduling won't interfere with quality control at the very least.  If you have to compromise the rigor and quality of your most important courses or dodge the best professors to keep a reasonable GPA, you are taking on too much.",
+      "author": "oldeaglenewute2022",
+      "created": 1617064275,
+      "upvotes": 6,
+      "replies": {
+        "gsr0cxp": {
+          "link": "/r/Emory/comments/mg03mf/how_good_is_emory_qss/gsr0cxp/",
+          "text": "This^. My sister is a student at CMU studying Statistics and Machine Learning. QSS isn\u2019t going to spoon feed you because it needs to cater to a large field of students and research interests, but it also won\u2019t limit you. And I can assure you that Emory QSS students can get the same spots as Stanford and other schools in terms of employment opportunity if you have the right skills and market yourself well.",
+          "author": "The_Turing_Machine",
+          "created": 1617064889,
+          "upvotes": 6,
+          "replies": {
+            "gsst12z": {
+              "link": "/r/Emory/comments/mg03mf/how_good_is_emory_qss/gsst12z/",
+              "text": "Maybe you wouldn't mind explaining how a lot of your QSS courses were run? Especially some of the better ones. That way they can hear something from the horses mouth lol.",
+              "author": "oldeaglenewute2022",
+              "created": 1617112084,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "gssf9q3": {
+          "link": "/r/Emory/comments/mg03mf/how_good_is_emory_qss/gssf9q3/",
+          "text": "Hi Oldeaglenewute. I've been keeping up with a lot of your comments on Emory from CC to Reddit and I appreciate your advocacy for the school. First thanks for the response! \n\nI guess something I'm concerned about is the relative obscurity of Emory's QSS program. I know Emory was a pioneer in this, so wouldn't it make sense for the school to be well known in it? Perhaps it's just within my NYC bubble, but I hadn't heard of Emory's QSS strength until I started thoroughly researching the school, adding to my prejudice (I initially applied to do banking). But I have to ask, what methods do you use to evaluate the rigor of Emory's core? Have you taken the classes? A data scientist yourself? You likely know more than me;  I'm looking for ways to evaluate courses in the future.\n\nOriginally, I started considering the QSS major just to broaden my skill set for banking and consulting. However, as I've learned more about data science paths, I've started leaning towards it more. My problem right now is more research I've done about various majors and career pathways, the more sporadic my interests have become, hence, why I was thinking of the BBA + QSS route for incredible flexibility. I thought it would be most fitting because of my interests in them both. I enjoy reading and thinking business, while I find data science really cool (especially machine learning if it really pops off :D).",
+          "author": "kingloogie79",
+          "created": 1617103632,
+          "upvotes": 2,
+          "replies": {
+            "gssql12": {
+              "link": "/r/Emory/comments/mg03mf/how_good_is_emory_qss/gssql12/",
+              "text": "when you say \"obscurity\" that is a prestige and visibilty concern which you then go.on to reveal when you say \"I haven't heard of it in the NYC area\" but truth is it doesn't matter If YOU heard of the school or the program.  EMPLOYERS need the familiarity or trust or judgement to decide who they want. I'm saying you don't really need that hypervisibility in this type of field (even in those banking areas, anyone with a more quantitative than average background is going to have a wider range of options than others who don't. Most places do NOT have a hypervisible data science program. They just don't. Do you just say \"well I'm concerned about anywhere except these 4-5 schools? I dunno, seems students from elsewhere are doing fine). QTM grads are getting good internships, jobs, and grad school placement because the curriculum is very intensive.   I think they had an article about how one student found an internship they did almost too easy vs. what they learned and learn to do. THAT is what matters in this type of field.  These places aren't gonna care where you come from if you cannot do the tasks laid out in the job description and you should only concern yourself about whether or not you can learn those.\n\nAlso, you can go look up course materials.  Go donate your course materials to something like course hero or that new studocu website and you can at least find materials from the core courses (and maybe some electives). If you have the bandwidth, you can compare to other schools.  You can use syllabi, p-sets, and exams to figure it out.  The typical things I expect from a rigorous STEM type of curriculum is reliance on a solid amount of p-sets(bonus if a student designed research project is involved or if psets require students to engage primary literature or even popular articles in a meaningful way), tests that don't rely on MCQs and tend to ask more open ended questions (QTM 110 is an example and asks you to often critique a research study set up or to design one for a scenario).  You can tell when materials are assessing higher ordered(analysis, application, creativity, etc) skills versus lower ordered (fact regurgitation, repetition of practice problems but with different numbers) without even taking the course and a lot of courses I saw for QTM have these elements PLUS the bonuses I discussed likely because it focuses on applications in a wide amount of fields (and not just data science for the sake of data science) and wants students to understand data and research in CONTEXT and not just be coders who do whatever with some numbers they are given.\n\nThink \"skills these classes and co-curriculars can build\" and not \"has NYC heard of this specific UG program yet?\".  Most undergraduate programs anywhere, even elites, are not particularly renowned(they are known for research productivity in grad divisions and often their healthcare systems) yet students from the schools that don't have a hypervisible program (or a program at all) manage to get whatever if they are well trained in the areas the job descriptions lay out.\n\nAlso please keep an open mind about something outside of freaking consulting or banking. A data science degree can pay well and lead you to some more \"interesting\" places that may have more of a positive impact.  The obsession over those two safe areas at elite universities worries me so much because I know alum can earn well while doing good when they get certain degrees (they can also do more life long learning in some other sectors more easily) plus you help schools like Emory out when you go do well in less saturated sectors ;) . It is good to establish a track record of excellence and a network outside of those two because you open up doors for those who wanna go to the school and enter spaces that the student body did not pursue as aggressively (or at all) before.",
+              "author": "oldeaglenewute2022",
+              "created": 1617110810,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

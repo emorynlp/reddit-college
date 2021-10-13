@@ -1,0 +1,368 @@
+{
+  "sid": "q568ky",
+  "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/",
+  "title:": "Just saw that the research paper I have been working on for a year is published by someone else. Whats should I do?",
+  "text": "I have been told to post on this subreddit. Looking for advice on what should be the best course of action and if any one ever faced this issue I would like to learn from their experience.\n\nI have been working on a project and hoping to publish a paper for more then a year. I have been often asking about advice regarding it on a fee subreddits because my uni professors did not had expertise in this field. As a result I made mistake of asking stranger in internet if they could go over my paper and review it since I could not get it reviewed from my uni. I shared the paper with 2 people via email but they are the not the one to publish.\n\nToday I saw someone has it published on Hindawi.com\n\nI am shocked and heartbroken. The paper contains images of my home. It mentions a custom dataset that I never made public and only reside with me. I have pushed this paper to a private github repo before it was submitted here. I also own the overleaf doc on which it was written and it contains history of it. I have also have history of conversation with a researcher on whose method it was inspired from. \n\nI planned to submit my paper to upcoming CVPR. What would be the best course of action for me to take it down and claim ownership? Thank you",
+  "author": "AhmedZubairGCU",
+  "created": 1633865091,
+  "updated": 1634078379,
+  "over_18": false,
+  "upvotes": 286,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "hg3m1su": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3m1su/",
+      "text": "You should talk to your university's legal department. They might be able to help.",
+      "author": "RecklessCoding",
+      "created": 1633871683,
+      "upvotes": 203,
+      "replies": {}
+    },
+    "hg3dx3k": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3dx3k/",
+      "text": "Contact the editor/editorial team of the journal. If they have any integrity, they'll take it down. Give them ample evidence of your ownership\n\nI'm not familiar with hindawi, but if it's a predatory journal, then your chances of having it taken down are extremely slim unfortunately\n\nHere is a similar question answered on Quora,\n\nhttps://www.quora.com/What-can-I-do-if-I-see-my-research-paper-stolen-and-the-publisher-is-violating-the-Ethics-and-Malpractice-Policy-which-states-they-have-to-retract-it",
+      "author": "H4R81N63R",
+      "created": 1633866568,
+      "upvotes": 224,
+      "replies": {
+        "hg3qezs": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3qezs/",
+          "text": "Hindawi was acquired by Wiley this year. [(Link to newspaper article in German)](https://www.boersenblatt.net/news/wiley-kauft-hindawi-160687)\n\nSince they are now owned by Wiley, you should have ample opportunities to get the article taken down not only because of academic fraud, but also simply because of copyright. I don't think they will continue hosting an article after receiving notice that they commit copyright infringement, especially if the article also contains photos that you took. I don't know what is the best way to approach them though.",
+          "author": "territrades",
+          "created": 1633873956,
+          "upvotes": 155,
+          "replies": {
+            "hg49m34": {
+              "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg49m34/",
+              "text": "I agree, and now would be a good time to register for a copyright. It is inexpensive and you can do it yourself. The act of creation gives you the copyright but it must be registered before you can sue.",
+              "author": "dmlane",
+              "created": 1633882777,
+              "upvotes": 32,
+              "replies": {}
+            },
+            "hg49rkp": {
+              "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg49rkp/",
+              "text": "\u201cIntellectual theft? Get the fuck out of here with that shit\u2026wait\u2026copyright infringement?! Take it down now! NOW!\u201d",
+              "author": "Defiant-Canary-2716",
+              "created": 1633882844,
+              "upvotes": 24,
+              "replies": {}
+            },
+            "hg427qg": {
+              "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg427qg/",
+              "text": "That's like... the S\u00fcddeutsche Zeitung buying InfoWars.",
+              "author": "zen_arcade",
+              "created": 1633879514,
+              "upvotes": 40,
+              "replies": {}
+            }
+          }
+        },
+        "hg3p48s": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3p48s/",
+          "text": "That's a borderline predatory (read: totally predatory) publisher. Any chance of getting feedback from them is next to none.",
+          "author": "zen_arcade",
+          "created": 1633873301,
+          "upvotes": 44,
+          "replies": {}
+        }
+      }
+    },
+    "hg4gogo": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4gogo/",
+      "text": "Emphasize the copyright issue more than the research ethics aspect.  Sad to say, \u201cbeing scooped\u201d is sometimes regarded as part of the game.  Whenever you\u2019re talking to the ethics/editorial people, don\u2019t let it sound like this is a case of \u201cwe were working on similar things and they beat me to press.\u201d  \u201cThis was a draft manuscript of mine that was provided for comment and the individuals submitted it as their own, a clear case of copyright violation.\u201d",
+      "author": "Decisionsota",
+      "created": 1633885847,
+      "upvotes": 27,
+      "replies": {}
+    },
+    "hg4arvu": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4arvu/",
+      "text": "What country are you in? You could submit a copyright notice to the journal.",
+      "author": "johnnydaggers",
+      "created": 1633883287,
+      "upvotes": 24,
+      "replies": {
+        "hg4b4uz": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4b4uz/",
+          "text": "I am from Pakistan. I have emailed them detailing what proof I have. If it does not bear any fruits, I would look into this",
+          "author": "AhmedZubairGCU",
+          "created": 1633883446,
+          "upvotes": 31,
+          "replies": {}
+        }
+      }
+    },
+    "hg3l0vx": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3l0vx/",
+      "text": "Had something similar happen to a colleague. Being brief, your chances are slim. Do not ever share your research with anyone not involved, the academic community is usually not so morally inclined as some make it to be.",
+      "author": "SoFarAndThrowAway",
+      "created": 1633871096,
+      "upvotes": 86,
+      "replies": {
+        "hg3zuia": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3zuia/",
+          "text": "This is sad but true. I am sometimes accused of being paranoid about people stealing work, but it happens all the time. So sorry this happened to the OP.",
+          "author": "professorbix",
+          "created": 1633878424,
+          "upvotes": 35,
+          "replies": {}
+        },
+        "hg7opfy": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg7opfy/",
+          "text": "> Do not ever share your research with anyone not involved\n\nUnless you share it in a way that formally establishes the ownership of the research. In some fields, that's the default way of working - for example, Math researchers put their papers on arXiv before they send them to journals.",
+          "author": "ColourlessGreenIdeas",
+          "created": 1633947911,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hg3p9vq": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3p9vq/",
+      "text": "This is actually scarier than most Halloween horror stories. I'd ask help from your University's legal department, they should contact the publisher and ask them to remove the publication. Hopefully everything will go well, and then you'll be able to publish it elsewhere.",
+      "author": "sorrytosaythis_but",
+      "created": 1633873382,
+      "upvotes": 40,
+      "replies": {}
+    },
+    "hg44fbr": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg44fbr/",
+      "text": "This guy might care: https://www.linkedin.com/in/matthodgkinson\n\nHead of Editorial Policy and Ethics.\n\nIf not, contact others using LinkedIn to find them.\n\nEdit: you might get better traction with someone lower on the food chain bringing it up internally to upper management",
+      "author": "AFresh1984",
+      "created": 1633880493,
+      "upvotes": 39,
+      "replies": {
+        "hg4cb0p": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4cb0p/",
+          "text": "Nice find, thank you. I have sent an email to the ethics related issues email id of hindawi. Lets see what is their response.",
+          "author": "AhmedZubairGCU",
+          "created": 1633883957,
+          "upvotes": 14,
+          "replies": {
+            "hg4ko9q": {
+              "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4ko9q/",
+              "text": "Don\u2019t forget to edit your original post with outcomes \ud83d\ude04",
+              "author": "AXLPendergast",
+              "created": 1633887495,
+              "upvotes": 14,
+              "replies": {}
+            },
+            "hg4wxlq": {
+              "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4wxlq/",
+              "text": "Good luck OP! Not Hindawi, but I did know a friend-of-a-friend who had her paper stolen and published. She was able to show (through drafts) that it was hers, get the false one taken down, and publish it herself. It was a very stressful time for her, and probably for you too.\n\nYou should file for copyright while you wait for hindawi to respond. It takes time. It's only like $75 USD I think? but it can give you a lot of leverage against the journal.",
+              "author": "Hot_Spinach7691",
+              "created": 1633892526,
+              "upvotes": 8,
+              "replies": {}
+            },
+            "hg7h1fw": {
+              "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg7h1fw/",
+              "text": "You might want to copy the academic editor of the paper on that email. If he is anything serious, he might support you once seeing that they are not the authors of the paper.",
+              "author": "phiupan",
+              "created": 1633941004,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hg5io0p": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg5io0p/",
+      "text": "In addition to the journal, contact the institution the other person belongs to.  If they have a Research Integrity Officer that\u2019s your person, if not, start with their legal department and they\u2019ll point you to the right person. \n\nJournals and institutions both work slowly but they can work in parallel, and you don\u2019t need to wait for one to finish before you start in with the other.",
+      "author": "Amaranthesque",
+      "created": 1633901450,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hg651ki": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg651ki/",
+      "text": "Contact the editorial team ASAP. Be prepared to provide an original copy of your work with the document properties showing that it's been your work for some time as well as any other evidence of your ownership.\n\nI'm sorry you had to go through this.",
+      "author": "fresnel_lins",
+      "created": 1633911717,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hg3y0w0": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3y0w0/",
+      "text": "Who are the authors? Contact their institution(s) and kick up as big a stink as possible. This isn\u2019t on.",
+      "author": "StrepPep",
+      "created": 1633877586,
+      "upvotes": 23,
+      "replies": {}
+    },
+    "hg6pein": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg6pein/",
+      "text": "Because no one else has said this yet, never share a work in project with anyone. I have heard so many horror stories and sadly this is another one. A friend of mine told me that once she presented a working paper in a conference and found out that it was later submitted in a journal in a different language - the guy in the audience copied everything and translated it and got published. It\u2019s really bad.",
+      "author": "Minori_Kitsune",
+      "created": 1633921883,
+      "upvotes": 3,
+      "replies": {
+        "hg78hrl": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg78hrl/",
+          "text": "> never share a work in project with anyone.\n\nWell, not with anyone you don't know *in person*. \"I know this guy on reddit\" isn't the same. At all, ever.",
+          "author": "iugameprof",
+          "created": 1633933748,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hg3c73j": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3c73j/",
+      "text": "[removed]",
+      "author": null,
+      "created": 1633865306,
+      "upvotes": 23,
+      "replies": {
+        "hg3fnmx": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3fnmx/",
+          "text": "Naughty naughty",
+          "author": "DesertAlpine",
+          "created": 1633867774,
+          "upvotes": 7,
+          "replies": {}
+        }
+      }
+    },
+    "hg3u3az": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3u3az/",
+      "text": "Step 1. Never trust the Chinese. I'm sure many are honest researchers but many clearly are not. I had my work stolen as well by two separate Chinese labs that came by and took pictures of my poster without my permission and ran away. (Because they forged new data I couldn't do anything about it, the idea was so abstract that literally nobody else in the world should have been working on it, it had never been done before and really off the charts, they somehow did the exact same thing in the same way using the same obscure outcomes, but claimed much larger effects).\n\nStep 2. This might actually be a legal thing that your university might want to step in on. It's going to open a shit storm on you though so be prepared with your good original, date and time stamped notes and history. I would start with your institution, they probably have some designated department for dealing with academic fraud and dishonesty, who would know better what to do.\n\nEdit: hate on me all you want people, China makes up literally about 90-95% of all scientific paper retractions and that's only the ones that get caught. Out of the 7 Chinese papers I have reviewed, literally all of them had forged data, plagiarism, or other forms of academic dishonesty. And yes, after finding and pointing these out to the editor they all agreed and rejected the papers. Science is not a game and there is no place for political correctness in this industry. Call out the bad behavior and correct it before it ruins people's lives and careers.",
+      "author": "ActionXPotential",
+      "created": 1633875769,
+      "upvotes": -25,
+      "replies": {
+        "hg4vn11": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4vn11/",
+          "text": "One of the best ways to prevent scooping is to post papers to arXiv before sharing outside your team. This has saved more than 2 people I know. Sorry it's too late for your paper, and your grant went unfunded, but hope you have better experiences with research in the future. \n\nFor whatever it's worth to people reading this later, I haven't had the same experience as you with the \"Chinese papers\" I've reviewed. Maybe it's journal/field-dependent. A number of my colleagues who I've shared code with are Chinese internationals, and I have received the appropriate citations and acknowledgments.\n\nYikes, your post history though\n\n>Dude it's a problem. Like a bad problem. Some Chinese company paid my father about 30% over his market value and paid for his furniture just to let the house sit unoccupied. Why? Is this purely for financial gain or are they **preparing for eventual American invasion. Seed those houses with soldiers over decades and boom, you have units everywhere all at once. That's my conspiracy and I'm sticking to it.**",
+          "author": "Hot_Spinach7691",
+          "created": 1633891986,
+          "upvotes": 7,
+          "replies": {
+            "hg5enwo": {
+              "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg5enwo/",
+              "text": "Yes I have had bad experiences. Many. And It's not papers with all Chinese authors it's papers from China. At least in my field it's such a huge problem that everyone knows not to trust the reports coming from Chinese institutions. Literally we ignore them. I honestly don't know why it's so prolific in my field but it is honest to God bad. The bad ones are usually transparent though, because they tout large effects with no variability in a field where the rest of the world has small effects and large variability. I won't back down on my statements. \n\nThe work from Chinese institutions is simply not reproducible in my field. I have learned this the hard way several times. Maybe it's different in other areas, but from where I stand it's a plague in biomedical research. Not to mention that all but 1 time that my institutions have fired people for misconduct it has been Chinese PIs. You can't expect people to ignore these things when it happens so often that we see it with our own eyes.\n\n I for one, am very upset with a country that does little to nothing to stop the academic dishonesty, theft of intellectual property, or prolific cheating across every aspect of life. It doesn't make me hate people of Chinese ethnicity, only a country that allows it's people to negatively affect everyone else.",
+              "author": "ActionXPotential",
+              "created": 1633899740,
+              "upvotes": 2,
+              "replies": {
+                "hg69p28": {
+                  "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg69p28/",
+                  "text": "> Not to mention that all but 1 time that my institutions have fired people for misconduct it has been Chinese PIs. \n\nSince you did mention it, aren't these predominantly Chinese-Americans or at least permanent residents by the time they reach PI status? \n\nFor others interested in biomedical research, you can take a look for yourself at the [list of people currently sanctioned by the Health and Human Services for research misconduct.](https://ori.hhs.gov/content/case_summary)",
+                  "author": "Hot_Spinach7691",
+                  "created": 1633914033,
+                  "upvotes": 1,
+                  "replies": {
+                    "hg6dn85": {
+                      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg6dn85/",
+                      "text": "I'm not sure tbh. I think that you have to have citizenship to get tenured positions, but I could be wrong.",
+                      "author": "ActionXPotential",
+                      "created": 1633915941,
+                      "upvotes": 0,
+                      "replies": {
+                        "hg700mq": {
+                          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg700mq/",
+                          "text": "You do not need citizenship for tenured positions. Many tenured faculty are citizens of foreign countries.",
+                          "author": "demosthenes83",
+                          "created": 1633927763,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hg3umzu": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg3umzu/",
+          "text": "Well I wrote it on overleaf. I think the paid version has all the history. Which can be helpful. However I do have some proof that it belongs to me before it was submitted. It is almost copied word by word just it is edited a bit by an academic editor.",
+          "author": "AhmedZubairGCU",
+          "created": 1633876026,
+          "upvotes": 3,
+          "replies": {
+            "hg70byt": {
+              "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg70byt/",
+              "text": "It might be worth contacting Overleaf and asking if that would be available (and maybe even if they'd help you get that information without paying) so you can show your proof from a third party.\n\nThis sort of thing is also where something like a private repository with gitlab or  such can be used as easy proof of ownership, as well as providing a nice revision history - even for documents.",
+              "author": "demosthenes83",
+              "created": 1633927960,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "hg40hlj": {
+              "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg40hlj/",
+              "text": "I am not sure what overleaf is, but things usually have a time stamp associated with edits. Previous versions in word for example, etc... If you don't mind me asking what was the general realm of work? I just reviewed a paper from that journal/publisher and want to make sure it's not the one I looked at.",
+              "author": "ActionXPotential",
+              "created": 1633878723,
+              "upvotes": 2,
+              "replies": {
+                "hg40qke": {
+                  "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg40qke/",
+                  "text": "Overleaf is an online Latex editor which provide templates for formats of different journals etc. The paper was based on image processing.",
+                  "author": "AhmedZubairGCU",
+                  "created": 1633878840,
+                  "upvotes": 3,
+                  "replies": {
+                    "hg7omwx": {
+                      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg7omwx/",
+                      "text": "Overleaf has an internal git feature that is sometimes automatically turned on, especially if you logged in with your university email and your university has a subscription to the pro features of overleaf. It might be running automatically regardless. My point is, there is a very strong chance that all of your edits are timestamped.",
+                      "author": "notadoctor123",
+                      "created": 1633947851,
+                      "upvotes": 2,
+                      "replies": {}
+                    },
+                    "hg4i3g4": {
+                      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4i3g4/",
+                      "text": "Ok definitely not what I reviewed. Sorry this happened to you. It's an unfortunate part of science that can indeed happen. It's a shame that a minority of people are comfortable ruining the lives of others like this. I had a hard time publishing my work after two Chinese labs stole my ideas. The editors kept saying it wasn't novel and inconsistent with recent reports that were obviously lies and forged data.",
+                      "author": "ActionXPotential",
+                      "created": 1633886439,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "hg4ayan": {
+              "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4ayan/",
+              "text": "Did you share the overleaf link with them?",
+              "author": "optimization_ml",
+              "created": 1633883366,
+              "upvotes": 1,
+              "replies": {
+                "hg4b031": {
+                  "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4b031/",
+                  "text": "Not yet",
+                  "author": "AhmedZubairGCU",
+                  "created": 1633883388,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hg4eyr4": {
+      "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4eyr4/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1633885118,
+      "upvotes": -4,
+      "replies": {
+        "hg4w06b": {
+          "link": "/r/AskAcademia/comments/q568ky/just_saw_that_the_research_paper_i_have_been/hg4w06b/",
+          "text": "Jesus",
+          "author": "RainZhao",
+          "created": 1633892138,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

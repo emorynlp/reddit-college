@@ -1,0 +1,110 @@
+{
+  "sid": "pakhyx",
+  "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/",
+  "title:": "Relations between academics and universities",
+  "text": "Hi all,\n\nMy last 24h project was a google scholar crawler searching for connections (paper co-authors) between academics and their connection with universities (i just look at the mail domain), I wrote a crawler and i write all results to a graph database (neo4j). \n\nI use the data in order to find connection between the university in which i did an internship (and i hope soon i'll be research engineer there) and the university in which i would start a PhD.\n\nDo you think that a web service like [connectedpapers.com](https://connectedpapers.com) but with connection between academics and universities is something interesting? Otherwise this project will die alone on my hard disk",
+  "author": "SK33LA",
+  "created": 1629800323,
+  "updated": 1634079497,
+  "over_18": false,
+  "upvotes": 100,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "ha5dx4u": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha5dx4u/",
+      "text": "It would be very interesting and revealing IMO",
+      "author": "awkardlyjoins",
+      "created": 1629804638,
+      "upvotes": 28,
+      "replies": {}
+    },
+    "ha6ewqi": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha6ewqi/",
+      "text": "In my opinion, everyone who is interested in academia/research and has even the slightest interest in data science would like to see this type of evaluation.\n\nPlease inform us with a new post when the website is online!",
+      "author": "SirCarney",
+      "created": 1629822145,
+      "upvotes": 19,
+      "replies": {}
+    },
+    "ha5gc3t": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha5gc3t/",
+      "text": "This would be really interesting, please share!",
+      "author": "Holokyn-kolokyn",
+      "created": 1629806158,
+      "upvotes": 12,
+      "replies": {}
+    },
+    "ha5jnzx": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha5jnzx/",
+      "text": "Yup, interesting, definitely share.",
+      "author": "deserveanupvote",
+      "created": 1629808087,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "ha7j0ku": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha7j0ku/",
+      "text": "thank you all for the interest shown to the idea, I never imagined such upvote.  \nRight now i just have a slow crawler (it was just a proof of concept) and i make raw queries directly to the db, I don't think would be useful release the code right now.  \nI plan to have in september a frontend (basic at that stage, highly instired by ConnectedPapers) with a faster crawler. I'll make a new post when i have news :)",
+      "author": "SK33LA",
+      "created": 1629838060,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "ha6si1x": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha6si1x/",
+      "text": "Yes I'd like to see it. One thing academics need to do is cite their competitors and getting a better list of those would be useful.",
+      "author": "lednakashim",
+      "created": 1629827549,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ha7y77t": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha7y77t/",
+      "text": "I'm curious what queries people here might run on the data?",
+      "author": "dcgrey",
+      "created": 1629844505,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ha8w8j3": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha8w8j3/",
+      "text": "At the very least you should post your code on github as a portfolio piece",
+      "author": "Quant_Liz_Lemon",
+      "created": 1629860224,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ha5uoo7": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha5uoo7/",
+      "text": "I have been towards something similar with a friend of mine - though we didn't really get to that part yet. Message me if you'd like to team up eventually!",
+      "author": "taratataw",
+      "created": 1629813560,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ha69p5n": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha69p5n/",
+      "text": "Would definitely be interesting to check out!",
+      "author": "truthfulsnack",
+      "created": 1629820000,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ha7f04s": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/ha7f04s/",
+      "text": "fantastic idea! i bet you're about to be very successful in your education and career coming up with ideas like that.",
+      "author": "Key-Law-3682",
+      "created": 1629836440,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hac301f": {
+      "link": "/r/AskAcademia/comments/pakhyx/relations_between_academics_and_universities/hac301f/",
+      "text": "I don't super get what you mean?",
+      "author": "doornroosje",
+      "created": 1629922050,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "sid": "q2babj",
+  "link": "/r/GradSchool/comments/q2babj/question_about_citation_managers/",
+  "title:": "Question about citation managers",
+  "text": "So managers like Zetoro are great, but is there a manager that can handle online documents? I don\u2019t like having to download every paper I read, they are way too many to keep in my hard rive.\n\nThanks!",
+  "author": "HighlyMeditated",
+  "created": 1633487604,
+  "updated": 1634099881,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hfk58o4": {
+      "link": "/r/GradSchool/comments/q2babj/question_about_citation_managers/hfk58o4/",
+      "text": "Pretty sure Zotero has the option to not include a physical file. What I do is copy the DOI number from a paper I want, enter it into Zotero, and it will pull the info from there. I have it set to automatically download the pdf if it\u2019s available (pretty sure you can turn that off), but if there\u2019s no pdf it opens the paper in your browser. Maybe you should look into that.",
+      "author": "You_Stole_My_Hot_Dog",
+      "created": 1633488383,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hfkdqwb": {
+      "link": "/r/GradSchool/comments/q2babj/question_about_citation_managers/hfkdqwb/",
+      "text": "With zotero, there's a chrome plug in which let's you click a button and it'll take what it can from the page, citation information, the pdf if its available, a snapshot if it's just a webpage. This should save just to the zotero cloud system, not your computer.",
+      "author": "72-27",
+      "created": 1633492933,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hfki26g": {
+      "link": "/r/GradSchool/comments/q2babj/question_about_citation_managers/hfki26g/",
+      "text": "Check out Readcube. It's entirely cloud-based, so you don't have to download anything, and can read documents on multiple devices.",
+      "author": "drizdar",
+      "created": 1633495599,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,694 @@
+{
+  "sid": "dnf1zm",
+  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/",
+  "title:": "Protecting data during travel to China?",
+  "text": "I\u2019m giving an invited lecture at the major medical university in Beijing next month. I\u2019ve heard some horror stories (MD Anderson!) about data theft during travel to China and will be taking a \u201cpersonal\u201d laptop without data or IP on it. I\u2019m less certain what best practices are for cell phones and for accessing email while abroad. Suggestions (STEM)",
+  "author": null,
+  "created": 1572102537,
+  "updated": 1634081195,
+  "over_18": false,
+  "upvotes": 150,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "f5adnro": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5adnro/",
+      "text": "I'd honestly just bring a pre-paid cell phone, set up an automated email message saying you're traveling and will be back on whatever date, don't access your normal work email at all, and then have a throwaway email account that you can use for emergencies, or if your students need to contact you.",
+      "author": "r3dl3g",
+      "created": 1572105512,
+      "upvotes": 109,
+      "replies": {
+        "f5br7fq": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5br7fq/",
+          "text": "Yes and see if your department will loan you a fresh installed laptop and wipe it when you return.\n\nI would not take a personal laptop.",
+          "author": "Ut_Prosim",
+          "created": 1572124769,
+          "upvotes": 39,
+          "replies": {
+            "f5cqw5j": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5cqw5j/",
+              "text": "\"wipe it when you return\"\n\nHa ha! Good luck with that wipe! There's now malware that can infect \"bios\", and even tiny sized bad-USB devices can be plugged into the mother board from the interior, so you won't even notice that anything's plugged into your computer. \n\n(This could be EASILY done by someone at customs, or hotel staff while you're out of your room, etc...)",
+              "author": "Orbital_Dynamics",
+              "created": 1572139407,
+              "upvotes": 10,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "f5armtp": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5armtp/",
+      "text": "My university has a big thing on this: \n\n\"Don't do anything in China\" was basically the gist of it. If you check your email your login credentials will be compromised and they extract passwords. Don't login to grading software, as it will give them access to your student's papers and assignments. We are not to take personal phones or computers, but both are provided at no cost during all Chinese travel. Basically, we were told that anything taken into China will be considered compromised completely, as they are pretty sophisticated in basically all respects, and go after foreign academics pretty hard.\n\nSo take a clean university computer and don't log in to anything while you're there. Otherwise, consider everything compromised and report back to IT on return and they'll change all your logins, and check for duplicate passwords and reset those too.\n\nIt's totally over the top, but I think it's very reasonable. Let's say a student writes an article on the economic implications of China's Uighur repression on international trade with Muslim countries. I check my email, China gets the login, they get my grading login, they start reading papers and a student's family gets picked up for treason.\n\nIt's not that big of a jump, and China has the capabilities and personpower.",
+      "author": "thegeneralstrike",
+      "created": 1572112475,
+      "upvotes": 75,
+      "replies": {}
+    },
+    "f5adbvy": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5adbvy/",
+      "text": "You can assume that they are scanning all devices and extracting whatever data they can, and they are very sophisticated about how to do so effectively.  They may also install spyware that you will carry home with you.\n\nExport control is within my purview and my recommendation to faculty is to bring no device containing anything you do not want the Chinese government to have, including research results, PII on your students, your research, your own PII, your stored passwords, your browsing history, etc.  We advise people to take university laptops that have been wiped clean with only the information needed for their travel and presentation.  I strongly recommend against bringing a personal laptop or smartphone.",
+      "author": "bigrottentuna",
+      "created": 1572105347,
+      "upvotes": 181,
+      "replies": {
+        "f5ag32c": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5ag32c/",
+          "text": "I second this, get a loaner laptop and phone, pre-program whatever you need it in. Otherwise yeah, assume the Chinese government knows everything on there. \n\nNot to be nationalist or anything, but there\u2019s a reason why their \u201cnew lunar rover\u201d was just NASA\u2019s Opportunity with Lunokhod-1 wheels. They copycat EVERYTHING.",
+          "author": null,
+          "created": 1572106711,
+          "upvotes": 103,
+          "replies": {}
+        },
+        "f5ay05x": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5ay05x/",
+          "text": "> Export control is within my purview and my recommendation to faculty is to bring no device containing anything you do not want the Chinese government to have, including research results, PII on your students, your research, your own PII, your stored passwords, your browsing history, etc.\n\nIt absolutely boggles my mind that *this* is the recommendation, instead of \"don't go.\"\n\nI'm all for academic research being \"inclusive\" and collaborative across the globe, but why play nice with an entire nation that doesn't play by the rules everyone else does?\n\n>Our university computers here on campus are routinely--often multiple times per day--port-scanned from Chinese IP addresses.\n\nI managed several of these -- it was *thousands* of times per day. US university IP addresses are under constant attack.",
+          "author": "Overunderrated",
+          "created": 1572115155,
+          "upvotes": 63,
+          "replies": {
+            "f5bd6f3": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bd6f3/",
+              "text": "My personal recommendation is, \u201cDon\u2019t go,\u201d but except where limited by law, I cannot tell faculty where they can and cannot travel.  We value academic freedom.",
+              "author": "bigrottentuna",
+              "created": 1572120105,
+              "upvotes": 29,
+              "replies": {
+                "f5behux": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5behux/",
+                  "text": "That's fair. \n\nAcademics (like the general population) tend to be pretty ignorant of IT security. At least you're doing the due diligence of informing them of the real risks.\n\nOne look at ssh login attempt logs on any university IP address should be eye opening.",
+                  "author": "Overunderrated",
+                  "created": 1572120529,
+                  "upvotes": 14,
+                  "replies": {
+                    "f5bgux3": {
+                      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bgux3/",
+                      "text": "I agree.  Just watching the portscans on my own computer is astonishing.",
+                      "author": "bigrottentuna",
+                      "created": 1572121260,
+                      "upvotes": 6,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "f5cuse1": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5cuse1/",
+              "text": "There\u2019s 2 reasons. \n\n1) China is a major R&D player. There is genuine Chinese innovation. \n\n2) Money. There\u2019s a lot of money and economic opportunities in China.",
+              "author": "SGexpat",
+              "created": 1572141909,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "f5ayk95": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5ayk95/",
+              "text": "I understand this sentiment, but we owe it to the Chinese researchers who are trying just to make a difference and do research who might not otherwise be able to travel, network, and present.",
+              "author": "duhrake5",
+              "created": 1572115396,
+              "upvotes": 10,
+              "replies": {
+                "f5az58k": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5az58k/",
+                  "text": "I get that sentiment as well, but do we really *owe* these researchers anything? The same organizations funding them to do research in the first place is funding outright theft of all manner of IP. From that point of view it seems much more ethical to attend conferences in impoverished countries that aren't facilitating IP theft.",
+                  "author": "Overunderrated",
+                  "created": 1572115635,
+                  "upvotes": 31,
+                  "replies": {
+                    "f5azl0v": {
+                      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5azl0v/",
+                      "text": "And if they were punished for their state's behavior \u2014 or at least effectively shunned \u2014\u00a0then perhaps the state would change the behavior. (One can dream.)",
+                      "author": "restricteddata",
+                      "created": 1572115770,
+                      "upvotes": 14,
+                      "replies": {}
+                    },
+                    "f5bbqor": {
+                      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bbqor/",
+                      "text": "[deleted]",
+                      "author": null,
+                      "created": 1572119644,
+                      "upvotes": -5,
+                      "replies": {
+                        "f5bcqmr": {
+                          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bcqmr/",
+                          "text": "This is very well documented and their efforts appear to be more comprehensive, state-run, and effective than any other at present.",
+                          "author": "bigrottentuna",
+                          "created": 1572119950,
+                          "upvotes": 9,
+                          "replies": {
+                            "f5bdbuy": {
+                              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bdbuy/",
+                              "text": "[deleted]",
+                              "author": null,
+                              "created": 1572120165,
+                              "upvotes": -7,
+                              "replies": {
+                                "f5bhszm": {
+                                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bhszm/",
+                                  "text": "You aren't trying hard enough.  Try googling, \"China hard drive scans at border\".\n\nHere are some things I found by looking at the top ten hits, it took me all of a couple of minutes to find them, skim them, and copy the links here:\n\n* [https://www.cnet.com/news/china-is-reportedly-scanning-tourists-phones-with-malware/](https://www.cnet.com/news/china-is-reportedly-scanning-tourists-phones-with-malware/)\n* [https://www.wired.com/story/china-distributes-spyware-border/](https://www.wired.com/story/china-distributes-spyware-border/)\n* [https://www.nytimes.com/2019/07/02/technology/china-xinjiang-app.html?nl=todaysheadlines&emc=edit\\_th\\_190703?campaign\\_id=2&instance\\_id=10618&segment\\_id=14877&user\\_id=b4d22ca30060c79012b05813b3140366&regi\\_id=601627780703](https://www.nytimes.com/2019/07/02/technology/china-xinjiang-app.html?nl=todaysheadlines&emc=edit_th_190703?campaign_id=2&instance_id=10618&segment_id=14877&user_id=b4d22ca30060c79012b05813b3140366&regi_id=601627780703)\n* [https://www.theguardian.com/technology/2008/may/15/computing.security](https://www.theguardian.com/technology/2008/may/15/computing.security)\n* [https://www.reddit.com/r/security/comments/8ofiiw/chinese\\_border\\_police\\_installed\\_software\\_on\\_my/](https://www.reddit.com/r/security/comments/8ofiiw/chinese_border_police_installed_software_on_my/)",
+                                  "author": "bigrottentuna",
+                                  "created": 1572121684,
+                                  "upvotes": 13,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "f5bdp1j": {
+                          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bdp1j/",
+                          "text": "[deleted]",
+                          "author": null,
+                          "created": 1572120280,
+                          "upvotes": 0,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "f5azaxt": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5azaxt/",
+                  "text": "You don\u2019t owe anything to anyone... especially when morals are being jeopardized",
+                  "author": "JustModusOperandi",
+                  "created": 1572115691,
+                  "upvotes": 4,
+                  "replies": {}
+                }
+              }
+            },
+            "f5bar17": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bar17/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1572119344,
+              "upvotes": 1,
+              "replies": {
+                "f5h5yle": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5h5yle/",
+                  "text": "> Well if this was how we handled these things then there also wouldn't be an exchange between the US and Germany, as there has been definite proof that the NSA spied on German citizens and government officials.\n\nAt the very least China is more blatant about it. They want you to know that they're watching you. When my advisor went to a conference there, they always had at least one person flagrantly following/watching him.",
+                  "author": "Mezmorizor",
+                  "created": 1572200715,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "f5bm9r6": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bm9r6/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1572123204,
+          "upvotes": 5,
+          "replies": {
+            "f5bx408": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bx408/",
+              "text": "That's a safe bet.  I believe it is illegal to use VPNS in China, but I haven't found evidence of anyone being arrested for using one.",
+              "author": "bigrottentuna",
+              "created": 1572127055,
+              "upvotes": 2,
+              "replies": {
+                "f5cugnd": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5cugnd/",
+                  "text": "Not arrested, but my institute lost their VPN for at least several months last year after a professor (or a few...) used it to access Facebook from China.",
+                  "author": "AstraGlacialia",
+                  "created": 1572141691,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "f5dtpqg": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5dtpqg/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1572159410,
+          "upvotes": 2,
+          "replies": {
+            "f5j93ry": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5j93ry/",
+              "text": "I cited a bunch of articles in another reply.  They were easy to find with a simple google search.",
+              "author": "bigrottentuna",
+              "created": 1572222926,
+              "upvotes": 0,
+              "replies": {
+                "f5m4mto": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5m4mto/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1572286471,
+                  "upvotes": 0,
+                  "replies": {
+                    "f5m6jzy": {
+                      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5m6jzy/",
+                      "text": "A region in the north of China.  In other words, this is something the Chinese government is doing.\n\nEdit: Are you working for the Chinese government?  You seem too deeply invested in your obviously wrong position and I am having trouble understanding why any rational, honest person would argue the point so strenuously.",
+                      "author": "bigrottentuna",
+                      "created": 1572287028,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "f5b1b74": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5b1b74/",
+          "text": "Not trying to be a dick here, but we all know that all our national governments are doing this around the world? Why do people think we all have affordable smartphones? To make us better humans?",
+          "author": "reversechinlock",
+          "created": 1572116254,
+          "upvotes": -8,
+          "replies": {}
+        },
+        "f5ahk7f": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5ahk7f/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1572107515,
+          "upvotes": -17,
+          "replies": {
+            "f5aib7w": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5aib7w/",
+              "text": "Nope.  I have done secure computing research and had many briefings on these issues, including recently from federal agents in my current role as chief research officer for my campus.  This is not paranoia, it is fact.  They don't necessarily scan every single device, but if yours were ever out of your hands, even just in your hotel room while you went out to dinner, it is possible that they have done so.\n\nMy favorite security training was one that ended with a  video featuring the the former head of the KBG standing next to the sign for one of our national labs, saying that before he became head of the KGB he personally oversaw spy activities related to that lab and (paraphrased), \"We know the name of everyone who works here, where you live, what time you leave for and return home from work, what you do in your spare time, the names of your family members, where your kids go to school, your hobbies, and everywhere you travel, including every trip abroad.  We will do whatever it takes to get information from you, and we are very good at it.\"  Anyone who thinks China is any less aggressive in pursuing their national interests is sadly mistaken.\n\nI personally know a German/American researcher who, while visiting Beijing for a research conference and a few extra days as a tourist, was followed from landmark to landmark and repeatedly approached by two young Chinese men with very good English and very weak cover stories, who offered to take him out drinking.  The only thing missing was the hot young Chinese woman who was really into western men.  I assume she would have shown up later.",
+              "author": "bigrottentuna",
+              "created": 1572107929,
+              "upvotes": 35,
+              "replies": {
+                "f5ap8cr": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5ap8cr/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1572111398,
+                  "upvotes": -2,
+                  "replies": {
+                    "f5apopg": {
+                      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5apopg/",
+                      "text": "I specifically avoided talking about that because this isn't a political discussion sub.",
+                      "author": "bigrottentuna",
+                      "created": 1572111610,
+                      "upvotes": 18,
+                      "replies": {
+                        "f5atbpv": {
+                          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5atbpv/",
+                          "text": "[deleted]",
+                          "author": null,
+                          "created": 1572113275,
+                          "upvotes": -7,
+                          "replies": {
+                            "f5avbfa": {
+                              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5avbfa/",
+                              "text": "All world powers are aggressive in their pursuit of their national interests.  Their means of doing so vary depending upon their respect for international law and human rights.  I do not want to get into a comparison that is irrelevant to the basic point, which is that China is known to scan and clone the devices of travelers.",
+                              "author": "bigrottentuna",
+                              "created": 1572114070,
+                              "upvotes": 12,
+                              "replies": {
+                                "f5ay14z": {
+                                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5ay14z/",
+                                  "text": "[deleted]",
+                                  "author": null,
+                                  "created": 1572115167,
+                                  "upvotes": 2,
+                                  "replies": {
+                                    "f5b3v18": {
+                                      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5b3v18/",
+                                      "text": ">I didn't want to start a discussion\n\nAnd yet you were still asking such pointed questions.",
+                                      "author": "r3dl3g",
+                                      "created": 1572117039,
+                                      "upvotes": 7,
+                                      "replies": {
+                                        "f5b9c00": {
+                                          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5b9c00/",
+                                          "text": "[deleted]",
+                                          "author": null,
+                                          "created": 1572118803,
+                                          "upvotes": 2,
+                                          "replies": {
+                                            "f5baapt": {
+                                              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5baapt/",
+                                              "text": "First you bring up US security issues, when US security has absolutely nothing to do with the question.\n\nThen you bring up Russia and conflate it to China, when Russia hadn't been mentioned in the conversation at all.\n\nIt smacks of whataboutism, which is one of a number of means which Russian and Chinese elements on this site use to derail any conversation that could be seen as anti-Chinese or anti-Russian.",
+                                              "author": "r3dl3g",
+                                              "created": 1572119132,
+                                              "upvotes": 6,
+                                              "replies": {
+                                                "f5bfhet": {
+                                                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bfhet/",
+                                                  "text": ">First you bring up US security issues, when US security has absolutely nothing to do with the question.\n\nNo need to be so defenisve, I'm just interested in whether this was specific to the mentioned countries because we don't get any such briefings at our Universities. And the US interested me in particular because it's a world power and I have been there a couple of times.\n\n>Then you bring up Russia and conflate it to China, when Russia hadn't been mentioned in the conversation at all.\n\nHe talked about Russia. He mentioned the KGB several times and how they \"know everything\".\n\n> It smacks of whataboutism, which is  one of a number of means which Russian and Chinese elements on this site  use to derail any conversation that could be seen as anti-Chinese or  anti-Russian.\n\nWell, it's not - at least not intended, I'm genuinly interested. Is this why my comments are getting downvoted?",
+                                                  "author": "cyberonic",
+                                                  "created": 1572120811,
+                                                  "upvotes": 0,
+                                                  "replies": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "f5ajemf": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5ajemf/",
+              "text": "Oh sweet child",
+              "author": "TheWinStore",
+              "created": 1572108537,
+              "upvotes": 9,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "f5amy36": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5amy36/",
+      "text": "All of the advice given has been good. Specifically, the thought of using a freshly \"wiped\" laptop with only needed materials for the trip.\n\nTo this is add: limit access to any kind of cloud accounts from your device. Don't install Dropbox, and don't \"remember\" your email or Google password in the web browser. Basically, consider what someone could access if they opened your computer and poked around in Firefox/Chrome: could they get at your work/personal email? Banking? Shared Google drive?\n\nConsider using \"incognito\" or \"private\" mode for all use of your web browser. Note that this will not encrypt/protect your browsing (though VPN will), but if someone opened your computer, there would be no saved passwords for E-mail or other sites.\n\nAdditionally, use your institution's VPN service when accessing the web. Not only will it get you around the website \"blacklist\" in China, but it will add a significant layer of security to your web browsing.",
+      "author": null,
+      "created": 1572110355,
+      "upvotes": 32,
+      "replies": {
+        "f5gbesu": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5gbesu/",
+          "text": "I\u2019d recommend not using a VPN at all.",
+          "author": "baummer",
+          "created": 1572191469,
+          "upvotes": 0,
+          "replies": {
+            "f5h3khi": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5h3khi/",
+              "text": "No? Most universities have this service in place for their students and faculty.\n\nI get that there have been some sketchy commercial/free VPN providers out there. I wouldn't advise to use just \"any\" VPN, but what about the one provided through one's university?",
+              "author": null,
+              "created": 1572200026,
+              "upvotes": 2,
+              "replies": {
+                "f5xj8ik": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5xj8ik/",
+                  "text": "I\u2019m speaking more specifically to China\u2019s laws on this.",
+                  "author": "baummer",
+                  "created": 1572541658,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "f5ap2br": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5ap2br/",
+      "text": "Find out who at your University handles export control and contact them; they will know the requirements for your University, and best practices in general.",
+      "author": "Amaranthesque",
+      "created": 1572111318,
+      "upvotes": 18,
+      "replies": {}
+    },
+    "f5avrxt": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5avrxt/",
+      "text": "This isn't just specifically for China, but recommended guidelines for traveling to any meeting/conference outside of the home country. Always ask your IT department specifically for a travel laptop, don't carry your personal or work laptop.",
+      "author": "slovenacsrbin",
+      "created": 1572114248,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "f5am2dz": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5am2dz/",
+      "text": "I just wouldn\u2019t present in China tbh",
+      "author": "amanofoneway",
+      "created": 1572109969,
+      "upvotes": 36,
+      "replies": {}
+    },
+    "f5bfubd": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bfubd/",
+      "text": "Could you clue me in on the MD Anderson thing? I worked at a CC in the US, moved to China and lived there about 6 months before coming back to the US working at a CC again. I didn\u2019t have any issues while living in China, using my personal laptop and accessing bank accounts, personal emails, etc. I worked with tons of other Americans too and same thing. Have I missed something?",
+      "author": "knewtoff",
+      "created": 1572120972,
+      "upvotes": 4,
+      "replies": {
+        "f5bhu01": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bhu01/",
+          "text": "No, you haven't. It happend in the USA, not in China. Check the top-level comment by [mediocre-spice](https://www.reddit.com/user/mediocre-spice/).",
+          "author": "cyberonic",
+          "created": 1572121696,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "f5apb1y": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5apb1y/",
+      "text": "The MD Anderson thing was about Chinese researchers working in Houston, not MD Anderson researchers traveling to China, and was as much about conflicts of interest as data theft. Use a VPN, regular security protocols, take any sensitive material off, etc, but I don't know that you need a burner phone and laptop like some of these comments are saying.",
+      "author": "mediocre-spice",
+      "created": 1572111435,
+      "upvotes": 8,
+      "replies": {
+        "f5aq8ng": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5aq8ng/",
+          "text": "Do you have a source for your information, or are you just spit-balling?  I have been briefed on these activities and it is far more involved than you imagine.  Think classic spy-ring activities, with recruiters and cells and moles.",
+          "author": "bigrottentuna",
+          "created": 1572111853,
+          "upvotes": 7,
+          "replies": {
+            "f5b2wi3": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5b2wi3/",
+              "text": "> have been briefed on these activities and it is far more involved than you imagine.\n\nYou are also not presenting a source. Just saying.",
+              "author": "cyberonic",
+              "created": 1572116766,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "f5aw1jq": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5aw1jq/",
+              "text": "Sure. Here's the [Houston Chronicle](https://www.houstonchronicle.com/news/houston-texas/houston/article/MD-Anderson-fires-3-scientists-over-concerns-13780570.php), & [NYTimes article](https://www.nytimes.com/2019/04/22/health/md-anderson-chinese-scientists.html). The high profile case at MD Anderson OP is worried about and anything I can find or have ever heard about involves Chinese researchers in the US or Americans who send things they shouldn't to Chinese collaborators or downloaded something by email (phishing, spyware to get your passwords, etc). Aka, the risk is the same whether you're traveling or at home. If you have sources that show laptops are regularly being physically taken from hotel rooms, feel free to share.",
+              "author": "mediocre-spice",
+              "created": 1572114349,
+              "upvotes": -3,
+              "replies": {
+                "f5axrku": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5axrku/",
+                  "text": "Those articles are specifically about that incident and only reveal the tip of the iceberg about that particular case.  It is meaningless to argue that because they didn\u2019t discuss something and you never stumbled across information about it, it doesn\u2019t happen.",
+                  "author": "bigrottentuna",
+                  "created": 1572115056,
+                  "upvotes": 5,
+                  "replies": {
+                    "f5b573k": {
+                      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5b573k/",
+                      "text": "[deleted]",
+                      "author": null,
+                      "created": 1572117455,
+                      "upvotes": 1,
+                      "replies": {
+                        "f5bb3gl": {
+                          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bb3gl/",
+                          "text": "Not at all.  Those are excellent sources for the information they provided.  His/her mistake was thinking that information they did not provide does not exist.",
+                          "author": "bigrottentuna",
+                          "created": 1572119491,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "f5brseo": {
+                      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5brseo/",
+                      "text": "Do you have an article/any evidence on what you're describing?",
+                      "author": "mediocre-spice",
+                      "created": 1572125027,
+                      "upvotes": -3,
+                      "replies": {
+                        "f5bwzef": {
+                          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bwzef/",
+                          "text": "I cited some in response to another comment.  Google something like, \"China hard drive border scan\" and you will find some.",
+                          "author": "bigrottentuna",
+                          "created": 1572126959,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "f5fg20s": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5fg20s/",
+      "text": "InfoSec officer here.\n\n* Get a cheap phone and use it exclusively for network and sharing.\n* Do not use your personal or office-personal laptop. Borrow a beater bitch from your IT or someone.\n* Do not let your devices out of sight or allow it to be manipulated by anyone else.\n* Take minimal data and applications with you. Wipe (hard-erase) the rest of your hard drive.\n* 5 minute screen lock. Manual lock whenever you leave your laptop, but don't leave it, please.\n* Use network as little as you can. If someone's not dying, don't bother.\n* You WILL get attacked. It's a matter of when and risk level. Rule 1 of InfoSec is \"there is no absoulte security - everything eventually falters but you can make it way more troublesome for the attacker than your data is worth.\"\n\nAsk at r/AskNetsec for more details.",
+      "author": "lunaticneko",
+      "created": 1572182118,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "f5czqsp": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5czqsp/",
+      "text": "China has recently used multiple iPhone zero day vulnerabilities that would sell for a million plus on the black market. They most likely have several for Android to. I would take a burner phone with a disposable number.",
+      "author": "TenderfootGungi",
+      "created": 1572145928,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f5ahf0d": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5ahf0d/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1572107435,
+      "upvotes": -1,
+      "replies": {
+        "f5aj832": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5aj832/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1572108439,
+          "upvotes": 40,
+          "replies": {
+            "f5asr1m": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5asr1m/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1572113000,
+              "upvotes": -1,
+              "replies": {
+                "f5ay75c": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5ay75c/",
+                  "text": "This is not entirely true, but more importantly it wouldn't be unrealistic to consider your laptop compromised by just accessing a network in China.",
+                  "author": "sabas123",
+                  "created": 1572115238,
+                  "upvotes": 12,
+                  "replies": {
+                    "f5b6wxa": {
+                      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5b6wxa/",
+                      "text": ">This is not entirely true\n\nSource?",
+                      "author": "cyberonic",
+                      "created": 1572118049,
+                      "upvotes": 3,
+                      "replies": {
+                        "f5bbmwa": {
+                          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bbmwa/",
+                          "text": "There are subsystems in modern cpu's (just look at IME/PSP) that are still able to run while the device is considered \"off\". Vulnerabilities in these systems are a large deal and exploitation is nearly impossible to detect.\n\n\nhttps://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine.pdf",
+                          "author": "sabas123",
+                          "created": 1572119598,
+                          "upvotes": 13,
+                          "replies": {
+                            "f5be0i5": {
+                              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5be0i5/",
+                              "text": "Wow, this is cool, thanks!",
+                              "author": "cyberonic",
+                              "created": 1572120315,
+                              "upvotes": 3,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "f5akcou": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5akcou/",
+          "text": "Were your devices ever out of your possession during your stay there (like in the hotel room while you went to dinner)?  Did you ever connect to the internet?  Our university computers here on campus are routinely--often multiple times per day--port-scanned from Chinese IP addresses.  I shudder to think what happens to any foreign computer connected to a Chinese internet service.",
+          "author": "bigrottentuna",
+          "created": 1572109046,
+          "upvotes": 11,
+          "replies": {
+            "f5bxmaz": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bxmaz/",
+              "text": "Sorry if this is off topic, but would this matter in an airport? Like if I had a layover in Hong Kong, should I not connect my phone to the airport internet?",
+              "author": "avidbirdpointerouter",
+              "created": 1572127400,
+              "upvotes": 3,
+              "replies": {
+                "f5d0lfg": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5d0lfg/",
+                  "text": "Hong Kong is different (for now). China does not have absolute control of the internet with their Great Firewall there.",
+                  "author": "valryuu",
+                  "created": 1572146670,
+                  "upvotes": 3,
+                  "replies": {}
+                },
+                "f5bz9u6": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5bz9u6/",
+                  "text": "I don't know.  I would personally bring a pay-as-you go cheapie and leave the smart-phone at home.",
+                  "author": "bigrottentuna",
+                  "created": 1572128089,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "f5aq7lg": {
+              "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5aq7lg/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1572111841,
+              "upvotes": -1,
+              "replies": {
+                "f5augda": {
+                  "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5augda/",
+                  "text": "Hotel safes only keep out basic thieves; they wouldn\u2019t even slow down government agents.  VPN use is a violation of Chinese law.  While they probably have no need to mess with you, that one act could open you up to a world of trouble there, the least of which would include seizure of your devices.",
+                  "author": "bigrottentuna",
+                  "created": 1572113737,
+                  "upvotes": 3,
+                  "replies": {
+                    "f5av1ef": {
+                      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5av1ef/",
+                      "text": "> VPN use is a violation of Chinese law.\n\nThere hasn't been a single report of a non-Chinese person getting in trouble for this. Foreigners living there have been using them for years without issues.",
+                      "author": "cyberonic",
+                      "created": 1572113961,
+                      "upvotes": 7,
+                      "replies": {
+                        "f5awzcs": {
+                          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5awzcs/",
+                          "text": "Most speeders don\u2019t get caught either.  I\u2019m sure you are safe using a VPN there as  a foreigner, right up until they want something from you bad enough.",
+                          "author": "bigrottentuna",
+                          "created": 1572114731,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "f5dxy2n": {
+          "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5dxy2n/",
+          "text": "Me too. I had a blast. Used my own data roaming, didn\u2019t connect to public WiFi and the rest followed.",
+          "author": "lifeinblue",
+          "created": 1572161479,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "f5alvu2": {
+      "link": "/r/AskAcademia/comments/dnf1zm/protecting_data_during_travel_to_china/f5alvu2/",
+      "text": "Wow, did not know this was a thing, what a fraud country.\n\nIf you want them to give them a taste of their own medicine just keep your lecture and some material that they would be embarassed to have stolen, like a bunch of gibberish word documents or chinese porn with the overlay \"I know what you crowns are doing, sneaky sneaky crowns\".",
+      "author": "smilingbuddhauk",
+      "created": 1572109881,
+      "upvotes": -8,
+      "replies": {}
+    }
+  }
+}

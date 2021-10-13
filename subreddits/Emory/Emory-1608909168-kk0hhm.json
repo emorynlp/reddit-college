@@ -1,0 +1,75 @@
+{
+  "sid": "kk0hhm",
+  "link": "/r/Emory/comments/kk0hhm/how_is_cs_at_emory/",
+  "title:": "How is CS at Emory?",
+  "text": "I know this question was answered a lot before, but I read that after the separation of the computer science department from Math, the cs is improving and, unlike previous years, will be more than a theory-based course? Does class 2023, 2022 really feel that difference?",
+  "author": "Any-Description2960",
+  "created": 1608909168,
+  "updated": 1634098793,
+  "over_18": false,
+  "upvotes": 12,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "ggzyy0u": {
+      "link": "/r/Emory/comments/kk0hhm/how_is_cs_at_emory/ggzyy0u/",
+      "text": "I too was worried about the CS department here at Emory when I was originally choosing schools. I've given my fair share of thoughts, but god knows I'll do it again. \n\nThe Computer Science department at Emory is, in my opinion, stellar. Not to say there are no downfalls to the department, but I have overall had a great experience so far. Now let me explain why:\n\n1) **Courses:** So Emory does not actually offer a ton of different elective options compared to CS focused schools, but the courses it do offer are IMO all high quality. Of course different professors vary, but every class I've taken so far has been intentional with what is sought out to do. You cover basically every fundamental that a CS major should know, and the classes will put you on the right track for a career in CS (outside of class effort is still required as is with any school). Classes tend to have a good chunk of overlap that reiterate a lot of important concepts. So all your required classes genuinely teach you something you really need to know. If those were the only courses you'd take, you'd be very well equipped in terms of theoretical knowledge. You will also pick up practical skills, from Java, to C, to Data Structures and Algorithms. You will become a proficient coder on the way to gaining all the theory. \n\n2) **Professors:** So in terms of Emory CS profs, there are some shining stars that everyone tends to love, there some that aren't viewed so great. I've had 5/5 star professors and 1/5 stars in my time so far, and they all were tied in the fact that they wanted their students to succeed. The difference came in their social ability, their presentation, and their class structure. Some classes also are just naturally hard so professors who teach that tend to get a negative bias. Every professor I had was nice, held office hours (to varying levels of usefulness), and was very kind to their students. They also tend to have quite interesting research, and Emory is quite used to working with undergrads, so research is quite accessible and I highly encourage it. Overall, the professors at Emory are great, we hold them to very high standards, but compared to your average state school, they blow them out of the water.\n\n3) **Emory:** So Emory as a whole provides a bunch of opportunities, cool projects to work on, lot of cross discipline stuff, we have our data science major (dubbed QSS) and there's a lot of cool stuff going on there. As a CS major who learns how to program, you'll have tons of demand on campus for various different departments, and being apart of a smaller program, it's a lot less institutional compared to say bio or chem at Emory, so you tend to be more of a fresh face compared to all the pre meds and b school kids (all <3 for them though). \n\nSo to summarize, Emory's CS core courses equip you with theoretical knowledge that should prep you to some degree for the job hunt and cover all your fundamentals, the professors are great (albeit some better than others and there are a handful of BAD profs out there don't get me wrong), and Emory is a vibrant campus that CS is not dominant in, so you'll have tons of cross discipline opportunities to really apply CS skills. \n\nSome things I'm hoping to see/have not yet seen\n\n1) **Projects:** While I have had CS programming projects (even a few I could put on my resume), I have not had anything substantial. Emory is still very theory based compared to some other schools. Despite this, from what I've seen so far, the upper levels are far more project based, and QSS (aka data science) is very project based. So my guess as to their philosophy is to teach the theory initially, and use the electives for projects. Example being CS 329, where they build a chat bot using machine learning and stuff. \n\n2) **Extra Curriculars:** This is actually gaining a lot of traction. Initially, aside from diversity groups, all CS students had was HackEmory. They kind of only do our hackathon and that's about it. This is starting to change. We have a competitive programming team, we have a more social CS club forming, and there's talks of a robotics team. The amount of things CS students can do outside of class was not that great to be honest at first, but it sounds like things are changing for the better, it's definitely on an upward trend.\n\n3) **Career Services:** So I'll be real, I have not used the career services as much as I should have. But I don't see Facebook or Google coming to campus all that often. While I personally have had relatively little trouble finding internships, Emory has not done much in terms of supporting their kids in this aspect. In their prospectus however, they are seeking to change that, and provide better career services for their students, so I'm looking forward to that change.\n\nI could go on and on, if you're worried about Emory CS being useless, I can tell you first hand that I'm a better developer because of it. If you have any more questions, feel free to PM!",
+      "author": "SupahWalrus",
+      "created": 1608915582,
+      "upvotes": 13,
+      "replies": {
+        "gh09uh8": {
+          "link": "/r/Emory/comments/kk0hhm/how_is_cs_at_emory/gh09uh8/",
+          "text": ">We have a competitive programming team, we have a more social CS club forming, and there's talks of a robotics team\n\nwait what?",
+          "author": "incognitoshadow",
+          "created": 1608922828,
+          "upvotes": 3,
+          "replies": {
+            "gh0dvu8": {
+              "link": "/r/Emory/comments/kk0hhm/how_is_cs_at_emory/gh0dvu8/",
+              "text": "Dr. Choi and Dr. Grigni seem to be spear heading the competitive programming club (ICPC). I got an email about a social CS club that was gauging interest. And I heard a few people mention robotics. To be frank ive not seen anything in a year or so, but Emory did indeed used to have one, so it might need some reviving, which I\u2019d be totally down to do. PM me if you want more info",
+              "author": "SupahWalrus",
+              "created": 1608925386,
+              "upvotes": 3,
+              "replies": {
+                "gh0epoh": {
+                  "link": "/r/Emory/comments/kk0hhm/how_is_cs_at_emory/gh0epoh/",
+                  "text": "Random, do you think the establishment of that club has anything to do with the success with stuff like this (beating Stanford at anything CS related is impressive for a tiny/burgeoning program like Emory's)?:  [https://news.emory.edu/stories/2020/08/er\\_alexa\\_prize/campus.html](https://news.emory.edu/stories/2020/08/er_alexa_prize/campus.html)\n\nEither way, I feel like it's a good thing because it seems most career/prof. development comes from CS pursuing experiential opps (which could include these competitions).  I also feel like it is a good way to build the program's reputation or at least increase its visibility (which could make it easier to recruit both strong faculty and students to a program not known as a traditional strength at Emory). Plus it helps to build a strong community and culture around large and fast growing departments.  Lots of depts like econ, chem, and QTM have super strong infrastructure to build community.",
+                  "author": "oldeaglenewute2022",
+                  "created": 1608925872,
+                  "upvotes": 3,
+                  "replies": {
+                    "gh0g03e": {
+                      "link": "/r/Emory/comments/kk0hhm/how_is_cs_at_emory/gh0g03e/",
+                      "text": "I remember reading that article while back and being pleasantly surprised. It definitely has a part in it, in particular Dr. Choi. He's done a lot of good work for the department. Emory's CS department being able to punch far above its weight combined with how lucrative CS can be is definitely forcing the school's hand with the number of people trying out the initial courses. It's been routinely an issue of not having enough spots in classes, and figuring a few years ago only about 60 or so kids graduated with a CS degree, the rocket-like growth of the major is really pushing the school to start catering towards it with clubs and good profs.\n\nI also think another point is that a lot of the bio, chem, and neuro research at Emory (all popular pre-med fields) are becoming increasingly digital. Programming has become quite routine as an undergrad task, and I found a lot of pre-meds in higher level CS courses (200 level). So they also boost the demand for a good CS program, not to mention all the b school kids who minor in CS as well (haven't met as many though).\n\nI hope the trend continues. Emory's lack of engineering seems to be its limiting factor, so a focus on CS might help prod its numbers along that way.",
+                      "author": "SupahWalrus",
+                      "created": 1608926547,
+                      "upvotes": 3,
+                      "replies": {
+                        "gh0hhuf": {
+                          "link": "/r/Emory/comments/kk0hhm/how_is_cs_at_emory/gh0hhuf/",
+                          "text": "Yeah, I honestly think that QTM's success is the lighter that has sort of started a fire that has pushed people (including the life sciences types who typically only identify as pre-health or something) to at least try more computational and quantitative things.  I do remember the presidential prospectus alluding to enhancing the computational/technology infrastructure overall and investing in that dept.  \n\nIt may just the right time for things like that and for Emory to take advantage of the moment you are describing (where bio, neuro, and all of that leaning more digital and computational) to do something interesting despite lack of engineering.  I imagine there are alternative ways to build a strong applied sciences contingency without one and to also pad things like early and mid-career salaries of ECAS graduates.  Hell, places like Georgetown manage to do it without a particularly strong STEM (they lack a stand alone engineering program as well) contingency at all so anything is possible (though Georgetown is admittedly helped by location and generally having a better connected/more aristocrat associated student body from the get go that allows them to be a target for things like IBs without being in the NE/or some top tier Ivy). If Emory succeeds with it, it would show that the school is doing a lot and not just the recruitment and that you can actually feed a range of students in terms of background into high paid careers.  It also doesn't hurt to develop alternative pathways to a well paid career outside of classical finance consulting, IB, etc.  Doing it is STEM/stats ain't the worst idea and is arguably aligned more with the liberal arts (those jobs would likely be more interdisciplinary in nature but heavily rely on computational and math skills). Metro Atlanta becoming more relevant for tech jobs doesn't hurt for any of this either (meaning Emory better start establishing industry connections with undergrad units).",
+                          "author": "oldeaglenewute2022",
+                          "created": 1608927435,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "gh3zlh3": {
+              "link": "/r/Emory/comments/kk0hhm/how_is_cs_at_emory/gh3zlh3/",
+              "text": "Ik I'm very late here but I'm the captain of the competitive programming team so if anyone wants any details feel free to PM me!",
+              "author": "SteveMineru",
+              "created": 1609021958,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

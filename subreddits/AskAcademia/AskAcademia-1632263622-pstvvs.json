@@ -1,0 +1,113 @@
+{
+  "sid": "pstvvs",
+  "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/",
+  "title:": "Why do NSF grants seem to always go to academics rather than industry? Why are there no \u201cpure research\u201d private companies that subsist on grants?",
+  "text": "Lots of private companies get research grants but typically for engineering. Who decided that purely scientific research should be done through universities with all of their baggage? (no offense meant)",
+  "author": "TakeOffYourMask",
+  "created": 1632263622,
+  "updated": 1634078893,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 0.71,
+  "comments": {
+    "hdrzfgy": {
+      "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hdrzfgy/",
+      "text": "There\u2019s no money to be made in what youre describing as \u201cpurely scientific\u201d research, which I\u2019ll assume is really just fundamental research. So most companies really only do research that has application or development opportunities that will make them money.\n\nOn the flip side, governments don\u2019t want to fund research that will only help one company profit. When they do fund corporate research, it normally comes with stipulations about sharing outcomes and technology, etc.\n\nTo your point though, there are \u201ccompanies\u201d that exist mostly on federal funding but most are funded through DOD and they\u2019re non-profits (RAND, Mitre, Battelle).",
+      "author": "Low_On_Coffee",
+      "created": 1632264696,
+      "upvotes": 28,
+      "replies": {
+        "hdsjus1": {
+          "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hdsjus1/",
+          "text": "[Tons and tons of for profit companies primarily profit from defend funding.](https://en.wikipedia.org/wiki/List_of_defense_contractors) Lockheed Martin, Booz Allen Hamilton, Raytheon, Northrup Grumman are the major US ones with majority defense profits.",
+          "author": "mediocre-spice",
+          "created": 1632274405,
+          "upvotes": -2,
+          "replies": {
+            "hdt9uoc": {
+              "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hdt9uoc/",
+              "text": "The original question was about grants, and u/Low_On_Coffee was listing companies that rely on grant funding for fundamental scientific research.\n\nThe companies you list are primarily suppliers of equipment, and definitely not involved in the \u201cpurely scientific research\u201d OP was asking about.",
+              "author": "WoodwardHoffmannRule",
+              "created": 1632289071,
+              "upvotes": 13,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hdsh5ax": {
+      "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hdsh5ax/",
+      "text": "There are actually a lot of companies that exist 90% on NIH and NS grants, particularly common in the medical device field. These companies will have full time grant writers, mostly PhD employees, and do lots of speculative research. To win the grants, especially NIH, they need a target product at the end of the research, though.  The companies tend to be small, hire primarily through university connections, pay less than average, and are highly unstable.",
+      "author": "downsideleft",
+      "created": 1632273116,
+      "upvotes": 18,
+      "replies": {
+        "hdss2pk": {
+          "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hdss2pk/",
+          "text": "This is the correct answer. Look up SBIR mills",
+          "author": "tryatriassic",
+          "created": 1632278395,
+          "upvotes": 8,
+          "replies": {}
+        }
+      }
+    },
+    "hdsjmlm": {
+      "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hdsjmlm/",
+      "text": "Companies have no interest in the basic research NSF funds because it's not profitable. Tons of federal agencies heavily fund private corporations through contracts. There are also requirements to share the results publicly, which companies are generally not interested in.",
+      "author": "mediocre-spice",
+      "created": 1632274296,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hds3if9": {
+      "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hds3if9/",
+      "text": "The private companies decided to leave it to the universities.\n\nNo for-profit company is going to waste time on what you call \u201cpurely scientific research\u201d. For-profit companies are largely interested only in what makes them money in the next 1-5 years.\n\nThe way you\u2019re framing the question makes it sound like you might suspect a conspiracy between universities and the federal government to exclude private business from research grants, but that\u2019s not the case.",
+      "author": "WoodwardHoffmannRule",
+      "created": 1632266613,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "hdspwwi": {
+      "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hdspwwi/",
+      "text": "Industry-University Cooperative Research Centers Program . That program funds centers (usually at universities) to foster research collaboration between industry and universities. Translational or Commercialization grants also operate at the nexus of basic and applied.",
+      "author": "StorageRecess",
+      "created": 1632277320,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hdtg2mh": {
+      "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hdtg2mh/",
+      "text": "Universities aren\u2019t producing research to turn a profit, for one thing. And why don\u2019t you think firms have \u201cbaggage\u201d?",
+      "author": "isaac-get-the-golem",
+      "created": 1632293942,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hdtg109": {
+      "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hdtg109/",
+      "text": "A company by law has to be a viable going concern - this means able to generate enough money to pay wages, suppliers and taxes etc. Grants do not cover all the costs of an organisation, so for example wouldn't cover the cost of HR and payroll. Nor should they. The taxpayer shouldn't be paying for a company's corporate functions. No one, research funders or investors, is going to give money to a company that may not be able to stay in business for the duration of the funding plus won't be able to provide any return on the investment by developing a product. Funders want RoI just as much as venture capitalists, just not in financial form back to them (or only indirectly through increasing GDP and then a possible increase in their budgets).\n\nUniversities and research institutes are different, they have multiple streams of income which ensure they are financially sustainable (more or less) and they are there as a public good, designed to do early stage research with some translation activity such as spin outs. Grant funding is specifically designed for this arena and universities and research institutes are set up to comply with the terms of funding and also cover the things that grants don't cover.",
+      "author": "ACatGod",
+      "created": 1632293903,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hduguud": {
+      "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/hduguud/",
+      "text": "A company is meant to be profitable. Federal grants are, by definition, not meant to be profitable. They're meant to cover the expenses of the research, but nothing else. When you submit a grant, you have to provide a budget justification for every dollar you request. Likewise, every dollar you spend needs to be justified. There's no room for profits, just salary.",
+      "author": "ProfOnTheMove",
+      "created": 1632319855,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "he10xfp": {
+      "link": "/r/AskAcademia/comments/pstvvs/why_do_nsf_grants_seem_to_always_go_to_academics/he10xfp/",
+      "text": "I've seen several companies apply for and occasionally get awarded biomedical research grants (regular grants, not SBIRS), usually for advanced preclinical research. \n\nIt's not super common for 2 reasons:\n\n1)They tend to not score that well at peer review. Part of that is that they don't have the typical metrics of success reviewers are used to, like prior publications and a history of grant funding. They also tend to be kind of lousy at grant writing since they don't do it often. \n\n2) There are a lot strings attached to government research grants that companies don't want to deal with. There are a lot of restrictions on what grant money can be spent on, and if the government suspects you're breaking the rules they can audit you. Also anything patentable that comes out of the grant the government retains certain 'government purpose rights' to.",
+      "author": "carpecaffeum",
+      "created": 1632441053,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

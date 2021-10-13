@@ -1,0 +1,289 @@
+{
+  "sid": "bkpixz",
+  "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/",
+  "title:": "Why publish a 'new method' paper if you're not going to share the method?",
+  "text": "A bit of a rant, plus a genuine question.  I work in a life sciences subfield where I deal quite a bit with image processing for data collection (high-throughput phenotyping).  It's a quickly-growing area of interest, and papers are regularly published about new ways to count/assess/quantify characteristics from images.  Obviously, these methods involve some sort of code - MATLAB, Python, etc. - but so few authors cite any sort of Github repo or any other method of sharing.  Frustratingly, none of the authors I've ever reached out to have responded to my requests for code.  This has happened a few times now, and more often than not I'm forced to re-write some program based on the sparse description in the paper (not a small feat for someone with a non-CS background). \n\nIt just seems counterintuitive to me that a 'new method' paper wouldn't actually share the new method.  Isn't that the point, accelerating the field of study and whatnot?  There's some new journals that are moving in the right direction - not allowing submissions without proof of data and code in a repository, for example - and those who are committed to open-source programs, which is great.  But, seriously: why the allowance of people to keep their 'new method' secret?",
+  "author": "mysticdolphin95",
+  "created": 1557002243,
+  "updated": 1634081207,
+  "over_18": false,
+  "upvotes": 155,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "emijlwc": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emijlwc/",
+      "text": "This used to be the case in astronomy but is a lot less so these days. It seems to be from somewhat of a culture shift, and one that probably hasn't hit the life sciences in the same way just yet. Ideally, the new method would be something to share. But I suspect that for many people, it's a way to do something that then they can publish and then they can cite with their own work. You'd think that gaining outside citations would be a plus but I figure that a lot of people would rather try to squeeze what they can themselves out of the method.\n\nThe analogy I can think of now in astronomy is the sharing of observational data. It's gotten a lot better now but people like to sit on their data and squeeze what they can out of it. Of course, if you share your data (perhaps after some proprietary period so you can get first crack out of your science), then you can gain citations and help the broader field. But that's not always been the case and there are still plenty of sub-fields where people feel it's better to keep their own data, talk about the amazing stuff that one can do with them, and then just keep publishing results from them themselves.",
+      "author": "themeaningofhaste",
+      "created": 1557003306,
+      "upvotes": 52,
+      "replies": {
+        "emk0wj1": {
+          "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emk0wj1/",
+          "text": "Observers data share largely because telescopes are enabling it and requiring it.  Codes and simulation data mostly don't get shared because it's a ton of work to get codes to the point where sharing is worthwhile, which is occasionally (but not usually) a good use of time.  So there's a huge selection bias where public codes often get a huge return on going public, but they were selected as codes people were looking for.\n\nIndeed, I have (at least) one methods paper where I didn't release the code, but certainly did release the method.  I just didn't have the time to take the code from where I could make it work to where someone I don't know with only a README file could make it work correctly ~50% of the time.  It remains on my 'to-do' list, but until it's likely at least a couple people would want to use it, it's hard to prioritise it.\n\nAnd of course I wouldn't mind sharing sim data, but nobody gives away dozens of Tb of space for that, either.  If you're funded to host some giant sim for everyone, it can be workable, but that's not generically done.",
+          "author": "WilyDoppelganger",
+          "created": 1557059423,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "emimmjd": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emimmjd/",
+      "text": "I too am in the life sciences and this shit is real.  Methods papers are pretty meaningless.  No one ever shares their code.  It is no wonder so many life science papers get such little citation.",
+      "author": "RexScientiarum",
+      "created": 1557005275,
+      "upvotes": 25,
+      "replies": {}
+    },
+    "emitppw": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emitppw/",
+      "text": "I'd bet the code is not in a usable for for anyone else. It's not my field, but I know my code is a total mess.",
+      "author": "Average650",
+      "created": 1557010244,
+      "upvotes": 24,
+      "replies": {}
+    },
+    "emirx5h": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emirx5h/",
+      "text": "Do you have any idea how much extra work it is to write a code that is actually publishable, so that user-users (i.e., people who have no idea how the method works) can use it for their data and obtain meaningful results? It's more work than writing the paper itself. \n\nI don't think it has anything to do with \"not wanting to share\", but it's more a question of priorities. Do I want to tell people about this cool thing I was finally able to calculate because I wrote that code? Or do I want to build a code for people to do their own cool things? Most of the time you can't do both because you have other cool things waiting,",
+      "author": "rpfflgt",
+      "created": 1557009013,
+      "upvotes": 24,
+      "replies": {
+        "emivh3g": {
+          "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emivh3g/",
+          "text": "I think there is a middle ground between publishing ready-to-use software and refusing to share any code at all.\n\nOrganizing source and data files in a directory structure that makes sense, writing a short readme, documenting the data format, slapping [Matt Might's CRAPL license](http://matt.might.net/articles/crapl/) on everything, creating an archive and publishing it somewhere takes one or two hours and can be very helpful.",
+          "author": "scozy",
+          "created": 1557011518,
+          "upvotes": 16,
+          "replies": {
+            "emix3ig": {
+              "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emix3ig/",
+              "text": "I agree wholeheartedly.  Also: I love the CRAPL license.",
+              "author": "mysticdolphin95",
+              "created": 1557012765,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "emkiq41": {
+              "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emkiq41/",
+              "text": ">Organizing source and data files in a directory structure that makes sense\n\nWhich should take no time since it should be well organized as you are working on the project all along. ;)",
+              "author": "ManInBlackHat",
+              "created": 1557074755,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "emix14i": {
+          "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emix14i/",
+          "text": "Ha, yes - I do know how much work it is!  Getting code into releasable form is a pain in the ass, for sure.\n\nBut: I'd still say that something functional (or, even, mostly functional) and available is more valuable than something 100% finished.",
+          "author": "mysticdolphin95",
+          "created": 1557012717,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "emkikr7": {
+          "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emkikr7/",
+          "text": ">Do you have any idea how much extra work it is to write a code that is actually publishable, so that user-users (i.e., people who have no idea how the method works) can use it for their data and obtain meaningful results? \n\nI'm going to push back on that idea. I agree that it's a lot of work to write well documented code and takes a lot of time. However, just make the repository open source on GitHub or similar on day one and keep that in mind as you are writing the code. Bad code code has a tendency to produce bad results and closed source software cannot be inspected or reviewed by others. If your results are dependent upon that code, then you should share it with others.",
+          "author": "ManInBlackHat",
+          "created": 1557074647,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "emiigr2": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emiigr2/",
+      "text": "Is it NIH-funded? They\u2019d be obligated - if not required - to share if it is.",
+      "author": "duhrake5",
+      "created": 1557002597,
+      "upvotes": 7,
+      "replies": {
+        "emij053": {
+          "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emij053/",
+          "text": "Nah, not an NIH-funded field, generally.  I work with plants.",
+          "author": "mysticdolphin95",
+          "created": 1557002926,
+          "upvotes": 4,
+          "replies": {
+            "emijepj": {
+              "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emijepj/",
+              "text": "Do they have any government funding? Just one avenue that could force them to share it",
+              "author": "duhrake5",
+              "created": 1557003179,
+              "upvotes": 4,
+              "replies": {
+                "emik5ul": {
+                  "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emik5ul/",
+                  "text": "Thinking back on it, all the encounters I've had have been with non-U.S. based researchers - but they may have federal funding too!",
+                  "author": "mysticdolphin95",
+                  "created": 1557003658,
+                  "upvotes": 3,
+                  "replies": {
+                    "emj87as": {
+                      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emj87as/",
+                      "text": "The EU also has a data sharing policy .",
+                      "author": "OizysAndMomus",
+                      "created": 1557021971,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "emikck7": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emikck7/",
+      "text": "Have you reached out to the journals these methods were published in? Or directly to the lead author (not last author)?",
+      "author": "wondert",
+      "created": 1557003769,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "emim0xc": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emim0xc/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1557004880,
+      "upvotes": 15,
+      "replies": {
+        "emiqoz8": {
+          "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emiqoz8/",
+          "text": "Yeah, I think it's definitely a field-specific question.  In mine, the end result (or, interesting research question) is \\*not\\* the method - the method is just a tool.  For example: I just read a paper in which a method to count fungal spores from images of microscope slides was detailed.  They go over the algorithm, how the program works, etc...they just don't provide the code.  The problem they solved was that counting spores takes a long time by hand - not really an 'interesting result', per ce, just a more efficient way to accomplish a laborious task.  They're not going to publish work based on this method alone, but they'll definitely save a lot of time in their lab.   \n\nIn a lot of what I read (specific to this rapidly-expanding plant science subfield), authors are always eager to mention that their method is time-saving and widely applicable to other researchers.  It irks me that, though that may be true, no one but them is able to benefit from it.",
+          "author": "mysticdolphin95",
+          "created": 1557008144,
+          "upvotes": 9,
+          "replies": {}
+        },
+        "emjhx3k": {
+          "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emjhx3k/",
+          "text": "Why not just license the code and require a citation? Science isn't about the scientist.  If you publish your algorithm, that helps other people do research -- why is it zero sum though? That is, why does it make it harder for you to publish? I'm TT at an R1 and no one has ever told me that my ability to get tenure depends on other people not publishing stuff. In fact, in my field, we actually like it when people cite us. I kinda thought that was universal.\n\nAlso, if you don't provide the code, and you don't make it clear how your code works, how exactly are the reviewers supposed to assess your method / evaluate your work to determine if it merits publication?",
+          "author": "pizzystrizzy",
+          "created": 1557030772,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "emiz95v": {
+          "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emiz95v/",
+          "text": "> . It would be a bit unreasonable to expect them to upload their entire source code when this is basically their life's work.\n\nIt isn't quite 100% theirs though, unless they code it on their own time with 100% their own resources. The University owns a share as does the public though the funding source. They couldn't sell it or start a company without a massive lawsuit. This is the same reason why Richard Hendricks had to show he built middle out compression algorithm at home and not on Hooli computers during work.",
+          "author": "ucstruct",
+          "created": 1557014453,
+          "upvotes": 8,
+          "replies": {
+            "emj2rd4": {
+              "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emj2rd4/",
+              "text": "Completely agree.  If it\u2019s work you got paid to do by a University or a public granting agency, they I think you should be obligated to share it if you want to publish with it. \nOtherwise what\u2019s the point of funding this work? Are we paying professors and researchers to pad their own CVs? Or should they be producing public goods?\n\nEdit: I\u2019m in life sciences btw and only recently did people in my field start making their raw data public when they published.  \nHowever most people still sit on any analyzed data that other researchers might use, meaning I have to rerun thousands of hours of analyses that someone else already did. What a waste of resources.",
+              "author": "Lamalaju",
+              "created": 1557017427,
+              "upvotes": 6,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "emjvude": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emjvude/",
+      "text": "The authors could share their codes, but they have zero responsibilities. You should be able to write the code from scratch if  the method is explained properly which I am assuming it is. You have everything to write the code, I think it's fair enough.\n\nI support sharing everything, but I wouldn't be pissed if somebody doesn't share its code.",
+      "author": "atrlrgn_",
+      "created": 1557051787,
+      "upvotes": 3,
+      "replies": {
+        "emjzc17": {
+          "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emjzc17/",
+          "text": "I mean, sure - a good chunk of my MS was just re-writing code! - but...why?  Seems like a bit of a waste of time to re-invent the wheel.  They're publishing in non-CS journals where it's doubtful their audience has the skills to recreate their work.",
+          "author": "mysticdolphin95",
+          "created": 1557057378,
+          "upvotes": 1,
+          "replies": {
+            "emk10r9": {
+              "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emk10r9/",
+              "text": "I see your point and I agree with you, but still it's entirely up to the authors. They share the scientific part of their studies and that's what they must do. Sharing the rest of their work would make much easier everything without any doubt, but it's completely normal from an ethical point of view. \n\nAlso, you aren't re-inventing the wheel. They provide the every detail of the wheel. You wanna use their wheel, which is completely normal but you don't have a right to complain when they don't share it with you.",
+              "author": "atrlrgn_",
+              "created": 1557059567,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "emjdhyh": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emjdhyh/",
+      "text": "I dunno what the norms are in other fields, but I generally request replication code when reviewing if a novel/unusual method is used and reject if the answer is no. How else could I possibly even assess whether the method was sound in the first place? In my view, if you publish papers but decline to publish data and code, you aren't really doing science.",
+      "author": "pizzystrizzy",
+      "created": 1557026437,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "emje7uv": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emje7uv/",
+      "text": "I've definitely seen this in the engineering fields. Probably the most infuriating ones as of late have shown detailed screenshots, plots and graphs, and generated designs, from a not just closed-source, but 100% proprietary code that is only used internally to their organization. From what I can tell, it's basically an advertisement for one of the capabilities of their company.\n\nThe other side to this, is that I am often frustrated to see code in a paper, where a mathematical explanation would be of more general use. I have read many papers and books which give code listings (or downloads) in ancient versions of Fortran or worse, Basic, which may require significant work to implement in a more recent language. Others use Matlab, which is not freely available, especially outside the academic community.\n\nWhen we consider the longevity of the paper, it's a fine line to walk. It may be quite difficult to express a complex algorithm, especially from a program that implements other libraries, in mathematical or algorithm notation. On the other hand, can you expect your reader 25 years from now to have a compatible version of Python/Matlab/etc, along with all the same libraries and dependencies needed? \n\nMaking something open-source can also raise some hackles within a department. The PI wants to walk a fine line between publishing results, and making all the tools for producing those results (and future research possibilities) public. I think this is somewhat generational, with younger PIs perhaps seeing open-sourcing work as a publication or contribution in its own right. Plus, they may be more savvy to the many possible types of license.",
+      "author": null,
+      "created": 1557027063,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "emk4dbl": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emk4dbl/",
+      "text": "Not publishing code and forcing competing labs to spend a year replicating it is insurance against getting scooped on the next publication. It is very often the case that what's scientifically rigorous and good for the field is not what is good for one's career. \n\n&#x200B;\n\nIn my chemistry phd, I listened to collaborators at the top of their field speak plainly about including only enough methods details for reviewers to accept the paper. Include any more than that, and you're shooting your lab in the foot. Probably the most disheartening moment/realization of my phd. But this is what we get when replication/confirmation of results is unpublishable, and job competition is insane and based on that pub list.",
+      "author": null,
+      "created": 1557063177,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "emj82wv": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emj82wv/",
+      "text": "What journals?  If you have federal funding you are required to make datasets, code, animals, cell lines etc available and are also required to have a plan for this in your grant.",
+      "author": "OizysAndMomus",
+      "created": 1557021864,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "emjnz41": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emjnz41/",
+      "text": "I feel you",
+      "author": "TheValyrianBiologist",
+      "created": 1557038419,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "emk4hgo": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emk4hgo/",
+      "text": ">  Isn't that the point, accelerating the field of study and whatnot?  \n\nThis really is why I got into academia in the first place (I'm in CS). I quickly became disillusioned with it, though, since so few papers show code. Luckily, the papers from the top people in my field do post code and cite their repo, or someone else creates an excellent repo and shares it. It truly is a problem, and it's good that some journals and conferences like KDD ask for implementation details. I always try including either a GitHub link or the code for the most crucial parts of my papers.",
+      "author": "FlyingQuokka",
+      "created": 1557063289,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "emkhl6c": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emkhl6c/",
+      "text": "My perspective as someone who also develop methods for image processing.\n\nIt's technically impossible what you require. I don't have funds to hire someone with a degree in IT to take care of my codes to make them shareable. My codes are most likely command line scripts that have not been written down, that I'll be forced to re-implement by the time the review comes around.",
+      "author": "lucaxx85",
+      "created": 1557073912,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "emj4fq0": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emj4fq0/",
+      "text": "Hopefully i can shed some light on this since i work and do research in ML... chances are the method isnt new at all. Most likely theyre applying a well known algorithm to something that hasnt been well tested in the past. Unless the paper youre reading is from MIT, Stanford, CMU, or a couple other big name schools or the tech giants i can almost guarantee you they didnt do anything novel. Just look at papers they cite and use the algorithms in there and not their own implementation.\n\nEDIT: Another thing to note is that if it is a well known algo then it becomes normal for the algo not to be explained. The writer expects the reader to have a degree of competency in ML and that explaining the algo to people who already know it is unnecessary. Since you mentioned image processing, its entirely possible that they didnt thoroughly explain the CNN they used since CNNs have been around for several years now.",
+      "author": "MonstarGaming",
+      "created": 1557018840,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "emj58ew": {
+      "link": "/r/AskAcademia/comments/bkpixz/why_publish_a_new_method_paper_if_youre_not_going/emj58ew/",
+      "text": "I would contact the journal.  It's not science if they refuse to share published code.  That's part of the point of publishing.",
+      "author": "dampew",
+      "created": 1557019500,
+      "upvotes": -1,
+      "replies": {}
+    }
+  }
+}

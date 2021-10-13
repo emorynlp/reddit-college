@@ -1,0 +1,56 @@
+{
+  "sid": "pmz680",
+  "link": "/r/AskAcademia/comments/pmz680/comparing_research_paper_graph_with_mine/",
+  "title:": "Comparing research paper graph with mine",
+  "text": "Hello,\n\nI have made a program on Monte Carlo simulation of light propagation and now I want to compare my result (like fluence vs depth graph) with the research paper one. What I did is -\n\nFirst I used the Matlab Grabit function to extract the datapoints of the research article's graph and then I normalized it by diving the whole points by the maximum value. Also, its y-axis is on a log scale (base 10).\n\nThen I normalized my graph by the same procedure and plotted it by taking the log10 of the y axis.\n\nIs this the correct procedure? Because when I am plotting them on the same window I think the paper's datapoints are again converted to log scale.\n\nIs there any other way to compare both graphs?",
+  "author": "anmous11",
+  "created": 1631474425,
+  "updated": 1634079215,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "hclv76y": {
+      "link": "/r/AskAcademia/comments/pmz680/comparing_research_paper_graph_with_mine/hclv76y/",
+      "text": "Are you plotting exactly the same data for the same conditions?\n\nCan you try using the grabit function on your own data and pretend it's from the paper? Then plot it against a fresh run. It'll let you know if you're taking a log in the wrong spot.",
+      "author": "racinreaver",
+      "created": 1631478524,
+      "upvotes": 2,
+      "replies": {
+        "hcm8mcx": {
+          "link": "/r/AskAcademia/comments/pmz680/comparing_research_paper_graph_with_mine/hcm8mcx/",
+          "text": "Are you plotting exactly the same data for the same conditions?\n\nYes the same data for the same conditions.\n\nI extracted the data from my plot and then plotted against the fresh run and the same problem occurred. I found out that the axes were not checked for the log",
+          "author": "anmous11",
+          "created": 1631484068,
+          "upvotes": 1,
+          "replies": {
+            "hcmfief": {
+              "link": "/r/AskAcademia/comments/pmz680/comparing_research_paper_graph_with_mine/hcmfief/",
+              "text": "There ya go! Glad it was an easy fix and not a data error. :)\n\nI've found whenever I'm doing something auto-ingesting data I start with something of my own, because then I know any errors are my fault.",
+              "author": "racinreaver",
+              "created": 1631487014,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hclshvb": {
+      "link": "/r/AskAcademia/comments/pmz680/comparing_research_paper_graph_with_mine/hclshvb/",
+      "text": "Email the author and ask for the original data so that you can plot it yourself.",
+      "author": "Space_Elmo",
+      "created": 1631477440,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcmx4se": {
+      "link": "/r/AskAcademia/comments/pmz680/comparing_research_paper_graph_with_mine/hcmx4se/",
+      "text": "Is there no way to reproduce their results? That would always be a safer bet.",
+      "author": "Groundbreaking-Air73",
+      "created": 1631495225,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

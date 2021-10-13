@@ -1,0 +1,88 @@
+{
+  "sid": "q5e0yg",
+  "link": "/r/GradSchool/comments/q5e0yg/note_taking_how_do_you_organize_all_of_it_digital/",
+  "title:": "Note taking \u2014 how do you organize all of it? Digital or handwritten?",
+  "text": "I\u2019m in my first year of a science PhD, and am quickly realizing that as is expected in grad school, there are ton of papers/textbooks/etc that I am reading, as well as tons of course notes that I regularly refer back to. I think I take pretty good notes\u2014 but I take a lot of them, and they\u2019re all strictly handwritten (I\u2019ve always preferred reading a physical paper than something on a screen). However, I\u2019m realizing that I will have way too many notes to be able to easily refer back to something (I regularly look through 7-8 notebooks at a time which is a lot to be carrying around) , so I\u2019m thinking about shifting to digital note taking.\n\nHow do you all take notes? Are there are products or softwares that you use? Do any of you still use handwritten notes? What about when reading papers? I don\u2019t think I could switch to purely typed notes, so do you have any recommendations for things that feel the most \u201cnatural?\u201d\n\nAlso: A bonus would be a software that works on both Windows and Apple (I might be able to borrow my brothers iPad for note-taking, but I have a windows laptop).",
+  "author": "pumpkinator21",
+  "created": 1633891478,
+  "updated": 1634099765,
+  "over_18": false,
+  "upvotes": 8,
+  "upvote_ratio": 0.91,
+  "comments": {
+    "hg58aix": {
+      "link": "/r/GradSchool/comments/q5e0yg/note_taking_how_do_you_organize_all_of_it_digital/hg58aix/",
+      "text": "I handwrite my notes using Goodnotes on my iPad. it's easy to organize and it recognizes handwriting as text, so it's easily searchable. I mostly read articles or digital books for class, which I can take screenshots of and incorporate into my notes as needed.\n\nI also use Zotero for citation management!",
+      "author": "lavenderc",
+      "created": 1633897118,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hg5np2f": {
+      "link": "/r/GradSchool/comments/q5e0yg/note_taking_how_do_you_organize_all_of_it_digital/hg5np2f/",
+      "text": "Handwritten but I'm a historian so handwriting helped commit things to memory. I'd think in more \"technical\" disciplines that digitizing would have more succinct advantages. But you do you.",
+      "author": "PhosgeneCowboy",
+      "created": 1633903664,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hg69uxx": {
+      "link": "/r/GradSchool/comments/q5e0yg/note_taking_how_do_you_organize_all_of_it_digital/hg69uxx/",
+      "text": "I pretty much store all of my information in Obsidian, whether that\u2019s lecture notes, programming syntax, or research article annotations.  \n\nI\u2019ll type directly into Obsidian during lectures. \n\nI usually copy and paste the syntax from all of my projects in R into Obsidian with hash tags of what the syntax accomplishes so I can quickly refer back to for future projects. \n\nFor articles, I\u2019ll highlight important parts on my iPad while I\u2019m reading using GoodNotes, then import that pdf into Zotero to go and add annotations to those highlights. I\u2019ve got a workflow that allows me to extract my annotations from Zotero and import them into Obisidan using Zotfile/mdnotes. \n\nIn conclusion, check out Obsidian. It\u2019s a game changer.",
+      "author": "dankjedata",
+      "created": 1633914114,
+      "upvotes": 2,
+      "replies": {
+        "hgdj4j8": {
+          "link": "/r/GradSchool/comments/q5e0yg/note_taking_how_do_you_organize_all_of_it_digital/hgdj4j8/",
+          "text": "How long did it take you to get a hang of Obsidian? I seem to have issues with Zotero/citations, and can't find good resources to help me solve my issues. \n\nI never thought of putting code in there.\n\nDo you use the community plug-ins? Their warning scared me but I feel like I'm missing out on useful tools lol",
+          "author": "Anti-Itch",
+          "created": 1634058470,
+          "upvotes": 1,
+          "replies": {
+            "hgelc0n": {
+              "link": "/r/GradSchool/comments/q5e0yg/note_taking_how_do_you_organize_all_of_it_digital/hgelc0n/",
+              "text": "It didn\u2019t take me much time at all because I basically followed [this guy](https://youtube.com/playlist?list=PL5fd4SsfvECy0zzf8Cyo20ZoipEt6YeL3) like a prophet in terms of digital work flows. He taught me everything I needed to know about Obsidian, Zotero, plug-ins, and even Rmarkdown. Amazing resource.",
+              "author": "dankjedata",
+              "created": 1634074079,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hg54209": {
+      "link": "/r/GradSchool/comments/q5e0yg/note_taking_how_do_you_organize_all_of_it_digital/hg54209/",
+      "text": "For reading books/articles/other sources, use a citation manager for note-taking. I use Zotero but others have had success with EndNote, Mendeley, and a few others. All sources & notes are stored on the cloud, they're searchable, and you can organize everything into separate folders & collections. I started using Zotero about halfway through my first year as a PhD student and it was a complete game changer.",
+      "author": "moraleclipse_",
+      "created": 1633895447,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hg6g9p6": {
+      "link": "/r/GradSchool/comments/q5e0yg/note_taking_how_do_you_organize_all_of_it_digital/hg6g9p6/",
+      "text": "I take reading notes and lecture notes. It might seem excessive, but in my field it's the easiest way for me to keep everything organized for future reference in discussions/research.\n\nAs I'm reading articles or books I jot notes on a sheet of paper as I work through the document. Once I'm finished, I type them up in Word so they're easier to read, but also because the act of going over them as I type helps me commit it to memory. That's what I bring to seminars/lectures (I print it out so I can add more notes in class, which I later add to my doc). \n\nThen, during class, I write notes as the discussion moves along (keeping track of valid points in the discussion as well as my own personal observations/questions to explore later). After class, I type those notes up and save them on my computer. \n\nIt's a time consuming process, but it works with my learning style and locks it into my memory.\n\nEdit: I save the docs on my computer, each class has a folder, and each file is \"Week # Discussion\" or \"Week # Reading\"",
+      "author": "Current_North1366",
+      "created": 1633917200,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hg72e1p": {
+      "link": "/r/GradSchool/comments/q5e0yg/note_taking_how_do_you_organize_all_of_it_digital/hg72e1p/",
+      "text": "computer science phd. I haven't taken notes since first year in undergrad.",
+      "author": "ning7",
+      "created": 1633929300,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hgdjixo": {
+      "link": "/r/GradSchool/comments/q5e0yg/note_taking_how_do_you_organize_all_of_it_digital/hgdjixo/",
+      "text": "For class notes, I typically use OneNote so everything is in one place. If not directly in there, I import the Samsung note I took on my Galaxy Tab as a file printout so everything is together. \n\nFor papers, like lots of others, I use Zotero. I take notes on my tablet and use zotfile to bring it back to Zotero on my computer. It really is amazing and easy to use. It's also way better than Mendeley in my opinion, which I was using in undergrad. \n\nI tend to keep everything on my computer somewhere, because I notice I easily lose paper notes. I only really use paper for scratch notes now.",
+      "author": "Anti-Itch",
+      "created": 1634058638,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

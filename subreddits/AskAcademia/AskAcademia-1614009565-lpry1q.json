@@ -1,0 +1,479 @@
+{
+  "sid": "lpry1q",
+  "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/",
+  "title:": "What are your best academic writing tips?",
+  "text": "I'm a first year UK PhD student in meteorology. Currently, I'm trying to write my first formal progress report which (if you don't know) is just a summary of my project, my progress up to yet, my methods and my future plans.\n\nI'm having a bit of writer's block - maybe it's the impostor syndrome but I feel less able to write a good piece of work. I'm doubting everything I write and struggling to come up with a good way to start and finish my writing.\n\n**So what are your best academic writing tips?**\n\nOne thing I picked up from a Nature workshop is to make your reader understand why something is important, rather than saying \"this is important because...\"\n\nFor example:\n\n* \"Identifying flaws in weather models is important because it enables meteorologists to make direct improvements.\"\n\nvs\n\n* \"Identifying flaws in weather models equips meteorologists with the knowledge to make direct improvements to the forecasts, which could increase the lead time on evacuation decisions.\"",
+  "author": "draaj",
+  "created": 1614009565,
+  "updated": 1634080707,
+  "over_18": false,
+  "upvotes": 197,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "gocp1n7": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocp1n7/",
+      "text": "Idea 1:\nMake a presentation, with the intro, methods, results and you conclusions/ future work. About 30 slides. Then each slide becomes the subject of a paragraph or two. The slide pictures can become the basis for  your figures.\n\nIdea 2:\nFree write with no editing for a set amount of time. Leave the typos, don\u2019t worry about flow. Just put Ref where you need a reference - look it up later. Edit for the same time again. This should get you out of writers block.\n\nIdea 3: put together your result figures. Start by writing the methods that support these figures. Then write a description of the figures (aka the results). Add in the conclusion sentences (as in your example). Then what does someone need to know to understand your results (intro). Finally where do your results fit into others work (discussion).\n\nIdea 3 is how I write now, 1 and 2 how I did it when I was younger.\n\nYou won\u2019t write perfect sentences first time. It doesn\u2019t matter. You make passes through the document picking up things each time. Try and have an activity when you proofread (updating references or finding acronyms).\n\nFind your writing hour when you write best. Guard it and use it. Do easy things like figures and proofreading when you are tired.\n\nPlease excuse any typos I\u2019m on a phone and this was a lot to type!\n\nIf imposter syndrome sneaks up tell the voice - fine maybe I shouldn\u2019t be here but that\u2019s not for me to decide. If they let me stay they know better than me and so I deserve to stay. You have better things to do with your time than judging yourself - such as writing!\n\nEdit: you can fix bad sentences once they are written. You could go through and check for the \u2018mistakes\u2019 the nature course told you about - after it\u2019s written. Write first, edit second.",
+      "author": "PristineAnt9",
+      "created": 1614010268,
+      "upvotes": 133,
+      "replies": {
+        "god0xf8": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/god0xf8/",
+          "text": ">You won\u2019t write perfect sentences first time. It doesn\u2019t matter.\n\nThis is so important. When I get stuck during writing it's usually because I keep starting and deleting the same sentence trying to write the perfect sentence right away which is almost impossible to do. Writing one or two bad sentences down and improving from there is so much easier. I will even sometimes write a deliberately bad sentence because it takes away all that pressure. I can only go up from there and starting is really easy because the first step is just making it gramatically correct and then you are usually already coming up with a way better sentence or a good follow-up.\n\nAlso, if English isn't your first language, deepl.com is really helpful. I don't suggest you write in a different language and then translate to English. But sometimes you write a sentence that just seems off and it's hard to put your finger on why. If you let deepl translate that sentence to your native language, it will be much easier to spot if you used a suboptimal word or insinuated not quite what you were trying to convey. This also really helps when you have a hard time simplifying an overly complicated sentence.",
+          "author": "leSchaf",
+          "created": 1614015394,
+          "upvotes": 25,
+          "replies": {}
+        },
+        "gocrnhx": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocrnhx/",
+          "text": "I love idea 1! I find it way easier to plan my argument in a deck for a presentation than in an outline. It just feels more intuitive to organize my thoughts spatially. I\u2019m totally going to use that.\n\nI also write evidence, references, analysis, etc on index cards and then group them together to create my outlines. Similar to the presentation idea but the tactile mode helps me interact with the information in a new way so I use it to get unstuck.",
+          "author": "jfoth",
+          "created": 1614011425,
+          "upvotes": 7,
+          "replies": {
+            "gocuzmn": {
+              "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocuzmn/",
+              "text": "You might like writing out your sentences, printing them then chopping them up and reorganising them.\n\nWhatever works! And change when one method stops working for you. I also like changing location if I spend too long somewhere stuck. Even the bed to the couch if you are stuck at home.",
+              "author": "PristineAnt9",
+              "created": 1614012878,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "godt5e0": {
+              "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godt5e0/",
+              "text": "If you weren't already aware, the approach you're describing with index cards is called Zettelkasten! There are a few softwares like Roam Research that help you digitize that.",
+              "author": "hellokoalaa",
+              "created": 1614027598,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "godw2h8": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godw2h8/",
+          "text": "This. This. This. A million times this. I know these principles yet still need to remind myself from time to time. Maybe I should get it tattooed on my arm where I can see it while I write!",
+          "author": "AretZorn",
+          "created": 1614028897,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "goe867y": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goe867y/",
+          "text": "For number 2, use the dictation tool in Word. Helps a lot for me.",
+          "author": "thuja_plicata",
+          "created": 1614034415,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gocwzc7": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocwzc7/",
+      "text": "The main thing I've learned is that trying to sound smart usually backfires. Smart people communicate as simply and efficiently as possible. Sometimes that requires 'big words', but usually it doesn't. When somebody starts using fancy words in an effort to seem smart it usually had the opposite effect, and the reader will have the feeling that the complicated writing is hiding a lack of important information. Overcomplicated scientific writing is a relic of an elitist, bygone era.\n\nAs a small example, when using a word like 'utilize', stop and ask whether 'use' would have worked. In most cases, 'use' is the better word. \n\nWhen people say they're stuck trying to communicate something in writing, I ask what it is they're trying to say and they can usually say it to me simply, eloquently and clearly off the top of their head. Just do that, but in writing. It's that simple.",
+      "author": "EmileDorkheim",
+      "created": 1614013736,
+      "upvotes": 49,
+      "replies": {
+        "goeb8ay": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goeb8ay/",
+          "text": "Yes, for the love of god, to \"utilize\" is to turn something into a utility. You don't utilize a conventional methodology--you use it. If you're proposing a new method, you are now utilizing something that until now was not a utility. /rant",
+          "author": "bigboybanhmi",
+          "created": 1614035872,
+          "upvotes": 10,
+          "replies": {
+            "gofrtxx": {
+              "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gofrtxx/",
+              "text": "Happy cake day!",
+              "author": "mossyriverbank",
+              "created": 1614065368,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gocuvuk": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocuvuk/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1614012833,
+      "upvotes": 19,
+      "replies": {
+        "godkysp": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godkysp/",
+          "text": "Outlining is usually how I always start writing. If I can picture my main argument/idea and a general sense of what needs to be in the literature review. I start with a basic intro sentence and outline each section. Sometimes I find that I actually end up writing complete paragraphs once I get in the groove. I also tend to write the intro and methods first, since those are easiest (read: less boring) than the lit review.",
+          "author": null,
+          "created": 1614023973,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "goctuul": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goctuul/",
+      "text": "This tip changed my life: Aim for active voice as much as possible. In the case of your example: \n\n\u201cWhen scientists are able to identify flaws in weather models they can improve their forecasts, which can increase the lead time for making evacuation decisions.\u201d\n\nEdited to add:\n\nAlso, don\u2019t be afraid of short sentences:\n\n\u201cWhen scientists identify flaws in weather models, their forecasts can improve. With better forecasts, officials can make critical evacuation decisions earlier in the course of an adverse weather event.\u201d",
+      "author": "imalittleflumpus",
+      "created": 1614012385,
+      "upvotes": 34,
+      "replies": {
+        "godbxz0": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godbxz0/",
+          "text": "Your examples do not illustrate active versus passive voice, but they do illustrate the importance of using simple descriptive verbs focused on action versus using helper or state of being verbs (which tend not to add meaning to a sentence other than grammatical meaning).  \n\nActive and passive voice constructions refer to whether a sentence construction puts an entity capable of being an agent in the main subject positon versus using an inanimate object (usually to conceal agency of the actual agent).  Both the original and your revised sentence use an active voice construction: \"Scientists are...\" versus \"scientists identify....\" Identify is better because it carries both grammatical and semantic meaning.  \n\nFor example:\n\nI broke the vase (active: I is the main subject noun and is a person capable of breaking something).\n\nThe vase was broken (passive: vases do not break themselves, eh? This construction conceals who broke the vase, to escape blame perhaps.)\n\nMany sciences prefer passive voice to describe experiments to give scientific writing the appearance of being unbiased by human action (e.g. A regression analysis was run to determine...).  \n\nOf course, there is an even better option that sidesteps this whole debate entirely which is to put the most important information in the main subject and verb:\n\nIdentifying flaws in weather models improves forecasts enabling officials to make critical evacuation decisions earlier during adverse weather events. \n\nI also removed or slimmed down a bunch of extra clutter in the sentence - which is my favorite tip for improving academic writing - get rid of the words that don't add meaning to a sentence:)",
+          "author": "thetornadoissleeping",
+          "created": 1614020003,
+          "upvotes": 26,
+          "replies": {
+            "goedncg": {
+              "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goedncg/",
+              "text": "Ah yes, thank you! I absolutely meant \u201cactive verbs\u201d not \u201cactive voice.\u201d Thank you for this refresher.",
+              "author": "imalittleflumpus",
+              "created": 1614037047,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gocqmkl": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocqmkl/",
+      "text": "Identify your key results, insert the figures that show those results, write sections around the results, see where that leaves you in terms of needing to explain the background and future work.",
+      "author": "Broric",
+      "created": 1614010971,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "goczl6g": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goczl6g/",
+      "text": "> Identifying flaws in weather models is important  \n\nGenerally I avoid saying something important unless it's something that I REALLY wanna highlight. To quote my adviser, everything in your paper is important otherwise it shouldn't be in there.\n\nAnyway, my writing approach is:\n\n1. Outline the paper\n2. Insert figures and tables or whatever results that I wanna talk about\n3. List what I wanna talk about for each figure and table. Be as detailed as possible. For example, use 'Parameter A increases parabolically with respect to Parameter B because blah blah blah' and don't be like 'Talk about trend of A vs B'.\n4. Do the intro, methodology, etc\n5. Turn the points that I listed in Step 3 into complete sentences and paragraphs\n\nImo Step 3 is the most important because it gives me the opportunity to really think about what I wanna present without having to worry about other things such as the language, sentence structure, etc.",
+      "author": "SubcooledBoiling",
+      "created": 1614014839,
+      "upvotes": 9,
+      "replies": {
+        "godovko": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godovko/",
+          "text": "This is my method too.",
+          "author": "raspberriesp",
+          "created": 1614025713,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "goczz0u": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goczz0u/",
+      "text": "Something that worked for me when I was struggling to start my dissertation was to set a goal of writing 250 words a day. 250 felt very attainable and when I did complete my goal for the day (5 days a week) I would feel accomplished for the day. It was much better than knowing I had a blank manuscript waiting for me pushing a deadline.\n\nAs others have said, the words can come from anywhere. Start where you feel you can write 250. I\u2019d usually have a thought towards the end where to do another 250, but I\u2019d save it for the next day to feel some momentum.",
+      "author": "prfadsv",
+      "created": 1614015005,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "gocstyj": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocstyj/",
+      "text": "A handy article with some suggestions:\n\n[https://www.cell.com/matter/fulltext/S2590-2385(19)30394-7](https://www.cell.com/matter/fulltext/S2590-2385(19)30394-7)",
+      "author": "cranfordEIC",
+      "created": 1614011941,
+      "upvotes": 8,
+      "replies": {
+        "gocuatq": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocuatq/",
+          "text": "One of my main takeaways from this article:\n\n>\" A reasonable goal after a first draft is to check the word count, then cut 10%\u201315% for the second edit. \"\n\nThis is very useful for me as someone with a convoluted writing style - I often need to go back and make my work more concise.  Thanks for sharing!",
+          "author": "draaj",
+          "created": 1614012578,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "gocuw1t": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocuw1t/",
+          "text": "This link does not work for me. Would you mind trying again?\n\nFigured it out. In case others have trouble:\nhttps://www.cell.com/matter/fulltext/S2590-2385(19)30394-7",
+          "author": "nonojustno",
+          "created": 1614012836,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "god5ku3": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/god5ku3/",
+      "text": "Accept that good writing takes time and multiple drafts. Write something, set it down, work on something else, then come back to it. Get feedback. Iterate.",
+      "author": "LeopoldTheLlama",
+      "created": 1614017218,
+      "upvotes": 7,
+      "replies": {
+        "goeakvy": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goeakvy/",
+          "text": "Article Manuscript_Draft 15_Version 2_FINALFINAL\n\nArticle Manuscriot_Draft 15_Version 2_FINALFINALFINAL\n\nArticle Manuscript _Draft 15_Version 2_IPROMISETHISISTHEFINALDRAFTANDIMNOTGOINGTOEDITITANYMORE",
+          "author": "drwarrengphd",
+          "created": 1614035559,
+          "upvotes": 7,
+          "replies": {
+            "goew2gp": {
+              "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goew2gp/",
+              "text": "Git wants to be your friend.",
+              "author": "captainhamption",
+              "created": 1614046193,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "god6h6u": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/god6h6u/",
+          "text": "I value feedback but I can't help but feel discouraged when I have a lot of comments on my work. The suggestions are usually great and improve my writing though. How do you get around this feeling of discourage?",
+          "author": "draaj",
+          "created": 1614017616,
+          "upvotes": 2,
+          "replies": {
+            "gofamng": {
+              "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gofamng/",
+              "text": "It gets easier I promise. Critical feedback is par for the course with academia. No matter how accomplished or widely published a person is, the right collaboration will always offer insight and depth to improve a piece of work. As was said above, the first, second, and even third drafts often suck and that\u2019s ok. I try to view in-depth feedback as how my colleagues and supervisors show they care about the work and my development.\nThis being said, imposter syndrome is always looming and it can be easy to find/hold onto evidence that you just aren\u2019t good enough. Try not to feed that monster.",
+              "author": "alittlelife_90",
+              "created": 1614053732,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "god7mhj": {
+              "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/god7mhj/",
+              "text": "For me, what has helped is getting into the mind-set that early drafts of a paper suck and need a lot of work before they get better. Getting a lot of comments and changes on early drafts is just the way of things, and its not a reflection of your ability as a writer but rather it is just a part of the process. Even a great first draft is often miles away from being a great final product and it usually takes an outside perspective to be able to see that. \n\nI'm not saying its always easy to see it this way, but it definitely helps to try to adopt this mindset.",
+              "author": "LeopoldTheLlama",
+              "created": 1614018117,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "godizzq": {
+              "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godizzq/",
+              "text": "The good news is that since you're in your first year, you have plenty of time to take this feedback on board and improve your writing over time. It's a process!\n\nFor me, it's important how you approach the feedback. If you mindlessly make the suggested changes as quickly as possible to \"get it out of they way\", you won't improve. IMO it's important to consider *why* the feedback was given, so that you can do it better next time.",
+              "author": "dajoli",
+              "created": 1614023111,
+              "upvotes": 1,
+              "replies": {
+                "goeaseg": {
+                  "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goeaseg/",
+                  "text": "Totally agree. But, what about the times the feedback is not helpful? For example, just highlighting a sentence without comment or explanation, or just \u201crewrite\u201d as a comment without more guidance as to what can be improved. I feel much of the editing and feedback process is spent trying to figure it out what your supervisor meant (also no help if you ask for an explanation). Or maybe I just have a bad experience.",
+                  "author": "odradeandthesea",
+                  "created": 1614035661,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "god1dqy": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/god1dqy/",
+      "text": "If you\u2019re looking for a book reference as well, I recommend Academic Writing for Graduate Students by Swales and Feak",
+      "author": "letsinternet",
+      "created": 1614015575,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gocx5e7": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocx5e7/",
+      "text": "I really like to use quillbot when something doesn't sound quite right. It's not always working but it does give me an idea on where I can improve",
+      "author": "power2go3",
+      "created": 1614013810,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gocxjij": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocxjij/",
+      "text": "Prof Whitesides has a [great little guide](https://www.tulane.edu/~lamp/whiteside.pdf) on outlining academic papers, with the intention that this outline should actually be made in the planning stages of a project rather than after the fact. Still, I think it brings a lot of clarity to the process from an expert.",
+      "author": "rishi42",
+      "created": 1614013980,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "godd9y1": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godd9y1/",
+      "text": "Read articles in your discipline with an eye for form as well as content and model your own writing after it. Pay attention to how writers in your field write introductions/conclusions, how they integrate evidence, where and how they refer to sources, how they transition between ideas, stylistic choices like 1st versus 3rd person, active versus passive voice (and where and how these constructions are used), etc.  What seems pretty universal in writing in your field? What aspects show variation in style and what is the range of variation?  Then imitate and practice.  Can you write an intro. that uses the same strategy as your favorite writer in your field? Then try a different strategy, then combine them, and so on. This will help you be more conscious of your writerly choices and the allowable range of expression for your own discipline.\n\nEdit: also, no one writes a good first draft out of the gate, so relax and be nice to yourself.  In my field, we have a saying: \"writing is revision.\"  A shitty first draft is ok, desirable even (I  am stealing the phrase shitty first draft from writer Anne LaMott  who says that the shitty first draft is what leads to brilliant 3rd drafts:)",
+      "author": "thetornadoissleeping",
+      "created": 1614020582,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "godfwha": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godfwha/",
+      "text": "A lot of great tips already here. I was gifted this book a few years back by a great mentor and it changed my writing significantly: [**https://eloquentscience.com/**](https://eloquentscience.com/)\n\nIt's also available via Springer Link if your university has a subscription. It has the plus to being written for Atmospheric scientists, so very much along your field too!",
+      "author": "Prukutu",
+      "created": 1614021749,
+      "upvotes": 3,
+      "replies": {
+        "godj8vf": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godj8vf/",
+          "text": "Coincidentally, the author is a close mentor of mine. I also have a copy!",
+          "author": "draaj",
+          "created": 1614023221,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "goe077s": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goe077s/",
+      "text": "Best advice I got when I was young, from a senior editor, was write for your audience.  I might expand this to say know who you're writing for and then that helps you to figure out what level of knowledge you can assume they have, which in turn should influence your style, level of explanation, words, etc.  For a general audience, assume they know nothing about your subject.",
+      "author": "gutfounderedgal",
+      "created": 1614030737,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "god9k56": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/god9k56/",
+      "text": "Google Helen Sword",
+      "author": "CBornes",
+      "created": 1614018960,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "godfzw7": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godfzw7/",
+      "text": "In grad school, I would often explain it out loud to a friend or coworker. I found I could explain it in person pretty naturally, but for some reason struggled to write it out.  So I would just hit record on my phone, and then afterward I would listen to it and write down what I said. The easiest way to a first draft.\n\nAs others mentioned, it is way easier to re-write than to write the first draft (which is why it is not good practice to do them both at the same time!), so this method got me started with something to work with.",
+      "author": "Sacuna9999",
+      "created": 1614021790,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "godwtip": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godwtip/",
+      "text": "Avoid comma-laden multipart sentences. Effective writers are able to communicate most arguments in one sentence phrase. Not always. Sometimes rearranging a sentence cuts commas too and also makes it more readable. It makes a real difference. Example:\n\n1. To influence departmental culture change, anti-racism must be embedded in curricula. \n\n2. Anti-racism must be embedded in curricula to influence departmental culture change. \n\nCan you see the difference? This was a problem I had early on. It isn't always applicable - but try to find commas to remove and sentences to break up!",
+      "author": "tacobellisadrugfront",
+      "created": 1614029229,
+      "upvotes": 2,
+      "replies": {
+        "godwyqv": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godwyqv/",
+          "text": "Commas are one of my weak points, I find myself putting them everywhere. This is really good advice",
+          "author": "draaj",
+          "created": 1614029296,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "godc6wt": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godc6wt/",
+      "text": "Apart from the general advice (which is all very important), here are some resources that I found useful. However, I must emphasize just how important good planning is before writing anything. I prefer to look up citations while planning, not writing. That way, when I write, I don't have to break my flow.\n\n**Online resources**\n\n* [This academic phrase bank](http://www.phrasebank.manchester.ac.uk/introducing-work/): useful if you think you're repeating yourself or if what you're writing doesn't sound interesting enough.\n* [These strong verbs](https://wordvice.com/recommended-verbs-for-research-writing/): English is a big and beautiful language; use this list so you don't repeat the same words.\n* [Notes on academic writing](http://gabbay.org.uk/blog/paper-writing.html): general tips targeted at academics and students\n* [power thesaurus](https://www.powerthesaurus.org/): excellent thesaurus in case you find yourself looking for a word that escapes you\n\n**Books**\n\n* The Elements of Style (William Strunk Jr.): particularly if you're not good at writing\n* A Plain English Handbook: even if you're good at writing, helps you write better in easy-to-understand English\n* They Say/I Say (Gerald Graff and Cathy Birkenstein): great pointers on how to structure an argument, which might be particularly useful to you if you're struggling to write\n* Storytelling with Data (Cole Nussbaumer Knaflic): how to create good visualizations that aren't there just for appearances, but tell a good story",
+      "author": "MaxOLG",
+      "created": 1614020109,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "god6p6z": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/god6p6z/",
+      "text": "* For writers block start with a high level outline, then gradually fill in more and more detail and sub bullets.  Eventually all you have to do it convert into prose. \n\n* Khan Academy has a series from Pixar on storytelling.  Obviously you have to do a lot of work yourself to figure out how to make it relevant for academic writing, but the principles are incredibly valuable and I have found it to be a good life skill.",
+      "author": "Ethnographic",
+      "created": 1614017713,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "godo26e": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godo26e/",
+      "text": "This book was a fantastic resource for me. Although it is designed primarily for writing about systems, it is a great guide to writing. Harris, D. (2012). Writing human factors research papers: A guidebook. Ashgate Publishing, Ltd..",
+      "author": "Dark_DoubleD",
+      "created": 1614025349,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "godrnfa": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/godrnfa/",
+      "text": "Assume nobody wants to read what you write, even if they are paid to do so. Convince them it's worth reading.",
+      "author": "slobajker19",
+      "created": 1614026933,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "goefl01": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goefl01/",
+      "text": "Take detailed notes on all the papers you read as you progress through your program. Save them. Maybe even summarize them in a word doc. Keep them organized. All this will come in *very* handy when it's time to write your dissertation. That's just what I wish I had done in retrospect now that I'm writing my dissertation. \n\nFor things I do that actually help me personally: I like the pomodoro method for writing. And I like to break my writing up, where I assign a certain amount of pages per day or week and just crank it out. I also write all day but take frequent breaks throughout the day. Good luck!!\n\nEdit to add my best tip! Just *write*. Don't try to make it fancy, just word vomit on the page to get started and clean it up later! Sometimes when I have writers block, I just type it out as if I'm telling a friend about it and then go back and edit to 'fancify' it.",
+      "author": "chlcwelc",
+      "created": 1614037999,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "goehhl1": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goehhl1/",
+      "text": "The best thing you can do to improve your writing is to read a lot of the discourse (i.e. your discipline\u2019s scholarship) you want to produce and pay notice to how arguments are structured (i.e. train yourself to metacognitively observe how the texts *says* what it says.)\n\nEdit: spelling. B/c I can theorize the rhetorical features of a text, but am missing a spelling gene or two.",
+      "author": "Soybeans-Quixote",
+      "created": 1614038956,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "goeokns": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goeokns/",
+      "text": "Remember your job is to tell me something I dont know that I'd be interested in learning.  Telling me about your day is pointless, telling me you found something I have been looking for is awesome.",
+      "author": "bjos144",
+      "created": 1614042471,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "goepk2x": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goepk2x/",
+      "text": "Just write. Get what you think is a good idea down, then read it, analyze, change it, re-word it etc. Find examples of similar things online that sound well written to you and use them as guides. Eventually you stop having to re-write things as much....\n\n&#x200B;\n\nFake it til you make it.",
+      "author": "airwalker12",
+      "created": 1614042952,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "got1s2x": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/got1s2x/",
+      "text": "What really helps me write is to make a first draft without worrying at all about how it sounds. Sometimes I will even just make this first draft on paper because that helps me just move forward with getting a full draft down. Once the draft is there it is way less intimidating to edit it into something more final than it is to try to write on a blank page!",
+      "author": "AthenaAktipis",
+      "created": 1614324565,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gocuobz": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocuobz/",
+      "text": "Little trick I make extensive use of: www.thesaurus.com. \nE.g. I know a better word exists but can't think of it, I look up the words that do come to mind and quickly find the word that exactly describes what I was going for.",
+      "author": "s060340",
+      "created": 1614012743,
+      "upvotes": 1,
+      "replies": {
+        "gocyod1": {
+          "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gocyod1/",
+          "text": "I suppose for non-english primary language speakers this might help but it will also make your writing sound like a high school student trying to use SAT words. Simpler is better and more complicated words should only be used if they are technical ones and you are writing to a technical audience.",
+          "author": "Stereoisomer",
+          "created": 1614014454,
+          "upvotes": 2,
+          "replies": {
+            "goczppe": {
+              "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goczppe/",
+              "text": "Indeed I am a non-native English speaker but the point is not to use more complicated words, but more succinct ones.",
+              "author": "s060340",
+              "created": 1614014894,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "goesxid": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/goesxid/",
+      "text": "Imagine you're trying to explain absolutely everything to a houseplant. Academics seem to worry more about page count than actual readability. \n\nStart by explaining everything over and over a trillion times. \n\n\"The identification\" becomes \"analysis and categorization\"\n\"Flaws\" becomes \"unidentified irregularities\" or so\n\"Weather\" becomes \"climate elements\"\nRinse and repeat \n\n\"Analysis\" becomes \"studious investigation\"\n\"Categorization\" can become \"categorical sequential arrangement\"\n\nHence you should fill a page with a single three word sentence. \n\nSome day we will change the way this is done. Maybe by presenting a short documentary or a great short explanation.\n\nThesaurus be your friend.",
+      "author": "WeAreGodzilla",
+      "created": 1614044621,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "god8pq0": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/god8pq0/",
+      "text": "1. Don't use linking words (however, moreover, to the contrary, in comparison yada yada yada that all websites with \u201cwriting tips\u201d suggest) unless absolutely necessary. \n2. Short simple sentences.\n3. Active voice.\n4. The way you formulate the sentence the first time is almost never the best one.\n5. Try reading the sentence out loud.",
+      "author": "gleisner_robot",
+      "created": 1614018590,
+      "upvotes": -1,
+      "replies": {}
+    },
+    "gsapdd0": {
+      "link": "/r/AskAcademia/comments/lpry1q/what_are_your_best_academic_writing_tips/gsapdd0/",
+      "text": "Always give credit to other writers if you use their ideas. \n\nFor more tips and help with academic writing, contact me via WhatsApp/call +25479457200",
+      "author": null,
+      "created": 1616770146,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

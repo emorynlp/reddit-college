@@ -1,0 +1,22 @@
+{
+  "sid": "pnim90",
+  "link": "/r/AskAcademia/comments/pnim90/help_with_exporting_abstracts_systematic_review/",
+  "title:": "Help with exporting abstracts, systematic review and Covidence",
+  "text": "So I'm currently doing a systematic review and meta-analysis but I'm stuck on the process of searching for journals and then exporting the abstracts so that I can convert it into a RIS file and import into covidence and start the screening process. The only site which allows me to export the title keywords and abstract seems to be scopus. I've tried to use refworks but I'm not sure how this works to be honest. What is the best way to find journals and export the abstract in order to use it on covidence?? Thanks!",
+  "author": "forthese2",
+  "created": 1631549602,
+  "updated": 1634079103,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hcpiztl": {
+      "link": "/r/AskAcademia/comments/pnim90/help_with_exporting_abstracts_systematic_review/hcpiztl/",
+      "text": "When I used covidence I saved my database results as endnote files and then created a folder on endnote with the results from all of the databases I searched. Then I was able to import the endnote file into Covidence and all of the information was preserved. The only thing I had to manually record was how many results I got from each database, since when I added them to endnote it did not preserve that info.",
+      "author": "hellokoalaa",
+      "created": 1631551128,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

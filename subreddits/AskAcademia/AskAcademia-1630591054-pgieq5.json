@@ -1,0 +1,57 @@
+{
+  "sid": "pgieq5",
+  "link": "/r/AskAcademia/comments/pgieq5/level_up_before_starting_a_phd/",
+  "title:": "Level up before starting a PhD",
+  "text": "Hi, I like mathematics but I wanted to ask for advice to get more mature in math and also to be able to at least read the edge of development nowadays in math.\n\nMy background in math is:\n\n* Basic set theory\n* Basic Logic and how to write proofs.\n* Discrete Mathematics (graphs, trees and things usually reviewed in computer science course)\n* Linear algebra (Long time ago I studied it, like I know basic operations with matrices barely remember what a field is)\n* Calculus (I studied it back in college also recall a multivariable calculus but my memory is blurry)\n* Differential Equations (Just standard means of solving them)\n* Statistics and probability (I cannot recall any of this)\n* Complex analysis (Really difficult for me, remember seeing things like integration and differentiation on the complex functions find zeroes on functions and stuff like that, barely remember this)\n\nWhat I want to get into:\n\n* Discrete Geometry\n* Number theory\n* Topology\n\nThe problem is that I just have bits of the knowledge and my formality is not that good besides sometimes I feel I stumble abstractions that are hard to get. And I wanted to know your recommendations to patch holes in my knowledge and become better at math and be able to do research in the area. (I'm going to start my PHD and I feel like everyone is math mature except me).",
+  "author": "one_bit_dev",
+  "created": 1630591054,
+  "updated": 1634079428,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.63,
+  "comments": {
+    "hbbfy6e": {
+      "link": "/r/AskAcademia/comments/pgieq5/level_up_before_starting_a_phd/hbbfy6e/",
+      "text": "Not a math professor, but am an engineering professor.  \n\nRead.  Read read read.  Then read some more.  Find a topic you like and read 100 papers about it.  Then read 100 more.",
+      "author": "PolarCredenza",
+      "created": 1630591628,
+      "upvotes": 10,
+      "replies": {
+        "hbbwqak": {
+          "link": "/r/AskAcademia/comments/pgieq5/level_up_before_starting_a_phd/hbbwqak/",
+          "text": "Thank you I think that approach of just getting into it could work.",
+          "author": "one_bit_dev",
+          "created": 1630598625,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hbbu04t": {
+      "link": "/r/AskAcademia/comments/pgieq5/level_up_before_starting_a_phd/hbbu04t/",
+      "text": "Is your PhD a math PhD?\n\nThe way that math PhD courses typically divide up in your first couple of years are largely along the lines of analysis and algebra, basically resting on real analysis and modern algebra. You have neither.  Does your program have pre-grad level catch-up courses? Those have become a lot more common. It's going to be a real struggle to deal with graduate analysis and algebra without the undergraduate background. To my eye, your efforts should be aimed at shoring that up.",
+      "author": "amnioticsac",
+      "created": 1630597532,
+      "upvotes": 3,
+      "replies": {
+        "hbbx7tx": {
+          "link": "/r/AskAcademia/comments/pgieq5/level_up_before_starting_a_phd/hbbx7tx/",
+          "text": "It is really a computer science PhD but the group that I'm joining work with those topics and almost all the people there have a Math bachelors and sometimes a masters in math while mine was an engineering bachelor with a MS in computer science. Thank you for your advice I'll check those topics.",
+          "author": "one_bit_dev",
+          "created": 1630598819,
+          "upvotes": 3,
+          "replies": {
+            "hbccawd": {
+              "link": "/r/AskAcademia/comments/pgieq5/level_up_before_starting_a_phd/hbccawd/",
+              "text": "I'd particularly focus on algebra - you're going to need it if you're doing topology, even in a CS setting, if the application is techniques of topology in data science, like homotopy.",
+              "author": "amnioticsac",
+              "created": 1630604778,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

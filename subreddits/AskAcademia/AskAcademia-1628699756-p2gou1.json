@@ -1,0 +1,83 @@
+{
+  "sid": "p2gou1",
+  "link": "/r/AskAcademia/comments/p2gou1/intellectual_property_of_grant_idea/",
+  "title:": "Intellectual property of grant idea",
+  "text": "I left my postdoc due to toxic environment. I had a fundable (scores were already out, but NOA not official) grant as a PI that to me and my mental health were not worth the 2-3 years with my mentors. However in my new position I am encouraged to pursue my own research and grants, and admittedly the grant idea is my dream idea. Without me the idea and hypotheses would not have come up in the lab, and I have the understanding of the inner workings of the study components and population. Do I have any case at all for intellectual property, or is this something that falls under a university blanket statement that any idea or invention created while conducting research there is the university's? Conversations with my postdoc mentors have been evasive/vague about the future of the project.",
+  "author": "grunger1929",
+  "created": 1628699756,
+  "updated": 1634079914,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h8jwzrh": {
+      "link": "/r/AskAcademia/comments/p2gou1/intellectual_property_of_grant_idea/h8jwzrh/",
+      "text": "Look at your employment contract. 99.99% of the time your IP would belong to your employer. Grants go to the employing institution, in this case the Uni, not you. You can continue working on your idea (nobody owns an idea), just realize the grant is gone as far as you're concerned.  Patents and whatever belong to the uni too, if there's been a filing. Come up with a twist on you idea and get your own grant.",
+      "author": "tryatriassic",
+      "created": 1628700469,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h8k3wp4": {
+      "link": "/r/AskAcademia/comments/p2gou1/intellectual_property_of_grant_idea/h8k3wp4/",
+      "text": "Was this recent (like in the last cycle)? Call the program official and see if it's possible to do an institution transfer. No guarantees (especially if the former mentor plays hardball), but over the years I've helped post-docs in your exact situation.",
+      "author": "carpecaffeum",
+      "created": 1628703424,
+      "upvotes": 3,
+      "replies": {
+        "h8kdhr3": {
+          "link": "/r/AskAcademia/comments/p2gou1/intellectual_property_of_grant_idea/h8kdhr3/",
+          "text": "I already withdrew the applications. My new position is research (hospital based) but can't contribute 100% of my time and training to the post doc fellowship in this position (also no longer a post doc technically). PO was clear that it wouldn't transfer in that situation but was clear I could resubmit as another type of grant in my new position.",
+          "author": "grunger1929",
+          "created": 1628707364,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h8koyux": {
+      "link": "/r/AskAcademia/comments/p2gou1/intellectual_property_of_grant_idea/h8koyux/",
+      "text": "You need to look at your contract but most likely it belongs to the university. It's a common mistake that people make in thinking that because they came up with the idea they did most of the work and therefore deserve the IP. However, this is incorrect. \n\n1) your employer has invested significantly more money and resource into the idea than you have. They provided the adminstrative support that enabled you to get the grant, the facilities you do your work in, health and safety,   overheads, salaries of support staff and potentially your salary. \n\n2) protecting IP can be expensive (into the tens of thousands of dollars once you factor everything in) and they will be the ones paying the lawyers and the fees. They will also be the ones developing a strategy to leverage the IP and develop the business model.\n\n3) a discovery/idea/proof of principle/process/product does not a commercially viable product make. To bring something to market requires investment and specialist knowledge and expertise which the university will provide or solicit and are in a significantly better position to get VC funding (if needed) than a postdoc dipping their toe into the tech transfer pool for the first time.",
+      "author": "ACatGod",
+      "created": 1628712088,
+      "upvotes": 2,
+      "replies": {
+        "h8kwxdz": {
+          "link": "/r/AskAcademia/comments/p2gou1/intellectual_property_of_grant_idea/h8kwxdz/",
+          "text": "My IP is basically an idea/theory/hypothesis, but not tech etc. There were instruments created to start the study but nothing officially finished and no data collected. There isn't a product to market.",
+          "author": "grunger1929",
+          "created": 1628715423,
+          "upvotes": 1,
+          "replies": {
+            "h8kxfsg": {
+              "link": "/r/AskAcademia/comments/p2gou1/intellectual_property_of_grant_idea/h8kxfsg/",
+              "text": "If there's no commercial product what would be the point of establishing IP rights?",
+              "author": "ACatGod",
+              "created": 1628715623,
+              "upvotes": 1,
+              "replies": {
+                "h8kyd7b": {
+                  "link": "/r/AskAcademia/comments/p2gou1/intellectual_property_of_grant_idea/h8kyd7b/",
+                  "text": "That's partly what I meant the post to be about. Idk anything about IP rights nor if it would even cover or matter in this situation. So it seems from your perspective this isn't an IP issue to begin with?",
+                  "author": "grunger1929",
+                  "created": 1628716001,
+                  "upvotes": 1,
+                  "replies": {
+                    "h8mk07b": {
+                      "link": "/r/AskAcademia/comments/p2gou1/intellectual_property_of_grant_idea/h8mk07b/",
+                      "text": "IP rights are there to incentivise invention and innovation. It allows an inventor (this can be a company/organisation) to retain rights over an invention/discovery and make a profit. There are different IP rights for different things eg patenting, copyright, trademark. Each IP right works differently and there are rules on what you can and can't protect. You can't patent something that's already in the public domain, while copyright automatically comes into existence for any novel piece of writing (including software code). Even what I'm writing now is copyrighted. The t&C's of Reddit will tell you who owns it. \n\nIf there's no intention to create something you wish to commercialise there's little point in getting into IP rights. One exception to this might be if you're creating something you're intending to make open source and share about. There you would apply an appropriate license. This isn't to make you money, it's to stop someone else monetising your idea and then leveraging the IP rights they've established to block people from using the thing you put out there.",
+                      "author": "ACatGod",
+                      "created": 1628750651,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,453 @@
+{
+  "sid": "bwptjv",
+  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/",
+  "title:": "New research suggests that metrics that are used to measure academic success, such as the number of publications, number of citations, and impact factor, have become targets and follow Goodhart\u2019s Law, according to which, \u201cwhen a measure becomes a target, it ceases to be a good measure.\u201d",
+  "text": "The original study can be found here: https://academic.oup.com/gigascience/article/8/6/giz053/5506490\n\nAbstract:\n\n**Background**\n\n> The academic publishing world is changing significantly, with ever-growing numbers of publications each year and shifting publishing patterns. However, the metrics used to measure academic success, such as the number of publications, citation number, and impact factor, have not changed for decades. Moreover, recent studies indicate that these metrics have become targets and follow Goodhart\u2019s Law, according to which, \u201cwhen a measure becomes a target, it ceases to be a good measure.\u201d\n\n**Results**\n\n> In this study, we analyzed >120 million papers to examine how the academic publishing world has evolved over the last century, with a deeper look into the specific field of biology. Our study shows that the validity of citation-based measures is being compromised and their usefulness is lessening. In particular, the number of publications has ceased to be a good metric as a result of longer author lists, shorter papers, and surging publication numbers. Citation-based metrics, such citation number and h-index, are likewise affected by the flood of papers, self-citations, and lengthy reference lists. Measures such as a journal\u2019s impact factor have also ceased to be good metrics due to the soaring numbers of papers that are published in top journals, particularly from the same pool of authors. Moreover, by analyzing properties of >2,600 research fields, we observed that citation-based metrics are not beneficial for comparing researchers in different fields, or even in the same department.\n\n**Conclusions**\n\n> Academic publishing has changed considerably; now we need to reconsider how we measure success.",
+  "author": "randomusefulbits",
+  "created": 1559661081,
+  "updated": 1634080110,
+  "over_18": false,
+  "upvotes": 382,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "epzaeq2": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzaeq2/",
+      "text": "I had never heard of Goodhart's law before but that is so spot-on. I think in common parlance, it's called \"gaming the system\".",
+      "author": null,
+      "created": 1559661739,
+      "upvotes": 80,
+      "replies": {
+        "epzqxdq": {
+          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzqxdq/",
+          "text": "People come up with metrics given the current incentive structure. So for academics, if you assume people are hesitant to push forward work until they believe it\u2019s highly critically sound, then number of papers is a good metric. People aren\u2019t as afraid of saying the wrong thing if it gets them a paper",
+          "author": "LetThereBeNick",
+          "created": 1559670938,
+          "upvotes": 22,
+          "replies": {}
+        },
+        "esof6mr": {
+          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/esof6mr/",
+          "text": "\u201cCommon parlance\u201d\nShut the fuck up lol",
+          "author": "thomasfranz",
+          "created": 1562166340,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "epzbkvs": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzbkvs/",
+      "text": "I was thinking the other day that my university has screwed it up a bit because on the one hand everyone goes on about 'team science' and 'collaboration!' and then on the other at appraisal only counts 1st and last author publications.\n\nSo someone emails you with an idea and it's basically: sorry, not to be a dick but I literally can't justify that.",
+      "author": "dl064",
+      "created": 1559662412,
+      "upvotes": 41,
+      "replies": {}
+    },
+    "epzencx": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzencx/",
+      "text": "There are quite a few interesting figures here but none of it supports the stated thesis. This Goodhart's \"Law\" (which is really just a vague quip some guy made once) supposes that metrics lose utility once people start exploiting them. In this case that would mean that research metric success has become decoupled with \"real\" research success. In essence, to provide evidence to the thesis one would have to show that the two quantities are no longer statistically correlated.\n\n*Nothing in this paper remotely demonstrates that. Nothing in it even tries to.*\n\nOf course if one WERE to try and do such a thing one would have a bit of a tautological difficulty as how does one assess \"real\" research success without employing a metric? I suppose one would maybe poll people in a field and ask them who they feel are the top researchers and then see if those people also have the top h-indices or the like (I suspect they largely would, invalidating the thesis).\n\nInstead this paper basically just shows that more people are publishing shorter papers , with more co-authors and self-cite more. Again, this does nothing to validate their alleged point.",
+      "author": "cantgetno197",
+      "created": 1559664150,
+      "upvotes": 45,
+      "replies": {
+        "epzyfjv": {
+          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzyfjv/",
+          "text": "Very astute point. Without another metric of research success, how do you show that another metric ain't so good?",
+          "author": "TakeOffYourMask",
+          "created": 1559675023,
+          "upvotes": 10,
+          "replies": {}
+        }
+      }
+    },
+    "epzcvme": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzcvme/",
+      "text": "I agree with everything except a *Very Hard Disagree* On \"shorter papers\" in biology as an issue. At least in my field papers are now *gigantic* and the smallest publishable unit is the equivalent of 3-5 papers from 25 years ago. And what used to be 3 papers spread over 6 years (concept/problem isolation, innovation, and finally molecular/genetic mechanism) are now one single paper because without mechanism nowadays you might as well just publish your data on Facebook (sarcasm but...).\n\nAs far as author lists growing, I think that is understandable  because papers have to explain so much now there could easily be 20 different experimental techniques used (including in silico). So author lists include all of the people who had the expertise to do those different experiments quickly and reliably. It's difficult for one lab to produce to all of the different kinds of data needed to tell some stories in biology today so there are a lot of collaborating authors. More data = more authors.\n\nAnd as far as gaming the system, I know I'll get down voted for saying this, but this is actually a case where journal impact and citations/paper matters - a short paper written to pad a resume will not get published in a high impact journal, and a dozen short papers with no citations in low impact journals could also say something. I'm not disagreeing that our metrics suck. But it feels like surely the papers are not shorter *and* with more authors now compared to 20 years ago?",
+      "author": "pastaandpizza",
+      "created": 1559663154,
+      "upvotes": 28,
+      "replies": {
+        "epzfhjm": {
+          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzfhjm/",
+          "text": ">  Very Hard Disagree On \"shorter papers\" \n\nYeah, totally agree. The paper length have been extended for my field too. Actually, I had some metrics from a \"top-journal\" in my field. It's just one journal but still something.",
+          "author": "atrlrgn_",
+          "created": 1559664627,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "epzf3rw": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzf3rw/",
+      "text": "It is a measure but it is simply not that precise. If you compare two academics in the same fields with 5000 citations and 100 citation, it is obvious that the one with 5000 citations is better. However, it does not properly work for two academics with 100 and 150 citations. \n\nIt does not have to be a genius to figure out that the current evaluation system is far from perfect. I find a bit unnecessary to repeatedly state this unless you propose a new way, which I do not see very often (not that I am an expert or whatever).\n\n*************** \n\nBesides everything, isn't it already too obvious? \n\n>  Moreover, by analyzing properties of >2,600 research fields, we observed that citation-based metrics are not beneficial for comparing researchers in different fields, or even in the same department.",
+      "author": "atrlrgn_",
+      "created": 1559664414,
+      "upvotes": 10,
+      "replies": {
+        "eq0cr3x": {
+          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq0cr3x/",
+          "text": "I think the evaluation system is often terrible, but not so much because we use number of papers and citations as metrics. I think these two are some of the better metrics that we have. They are of course sometimes misleading. I know somebody from my sub-field who has published a lot of highly cited papers that are all essentially worthless, but I find such cases quite rare. More problematic is the fact that we often don't consider differences between fields in how often people publish when judging somebody's publication record, and differences in the sizes of fields when judging somebody's citation count.\n\n&#x200B;\n\nWhere I think our evaluation system is really bad is when it is arbitrary, when it relies on outdated ideas of how a career should progress, when it does not take into account differences in fields and countries, and when it contains unfair positive feedbacks mechanisms. For example, people start to be judged very harshly if they have not landed a good position within some number of years of their PhD, even if they have spent that time extremely productively. People are criticized (and very often denied funding) in their funding applications if they have not received funding previously, and rewarded if they have. People are judged negatively if they have not published in Nature or Science, even if they work in a field in which publishing in these journals is very uncommon. \n\n&#x200B;\n\nI could go on, but I need to get back to writing my next paper.",
+          "author": null,
+          "created": 1559682216,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "epzlydc": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzlydc/",
+      "text": "This \u201cstudy\u201d is a hot steaming pile garbage and certainly doesn\u2019t show what it claims to. A couple overarching massive flaws:\n\n1. They don\u2019t compare changes in # of papers or # of coauthors over time to changes in population. Their plot of # of papers looks a lot like a plot of the # of people in the world. At no point in the paper do they control for the effect of the increased number of researchers. At no point do they address the sharp decline in the past 15 years.\n2. They make no effort to measure the quality of a paper, and yet claim that people are optimizing for metrics instead of improving. You need to actually give an indication that the quality of research isn\u2019t increasing to show that.\n3. Their data analysis practice is abysmal. They misleadingly cut axes and rescale plots. They don\u2019t measure correlation, statistical significance, or effect size. They don\u2019t discuss the fact that the trends they\u2019re talking about sometimes only exist in some time periods and not others. They put Plot 10 in a paper, which is a horrible abomination that I still can\u2019t figure out how to read.\n\nNow for a point-by-point refutation....\n\n>First, these results support Goodhart\u2019s Law as it relates to academic publishing: the measures (e.g., number of papers, number of citations, h-index, and impact factor) have become targets, and now they are no longer good measures. By making papers shorter and collaborating with more authors, researchers are able to produce more papers in the same amount of time. Moreover, we observed that the majority of changes in papers\u2019 properties are correlated with papers that receive higher numbers of citations (see Fig.\u00a0S13). Authors can use longer titles and abstracts, or use question or exclamation marks in titles, to make their papers more appealing. Thus, more readers are attracted to the paper, and ideally they will cite it, i.e., academic clickbait\u00a0[45]. These results support our hypothesis that the citation number has become a target. Consequently, the properties of academic papers have evolved in order to win\u2014to score a bullseye on the academic target.\n\nOf course the number of citations and coauthors has gone up, there are more researchers and papers than ever before! At no point did you ever present # of papers per author per year, so don\u2019t make any claims about it. I am 100% sure you could get the actual number in one line of code, and the fact that you choose not to when it\u2019s central to your narrative is a massive red flag.\n\nAdditionally, you never consider the alternative hypothesis that writing quality of research papers has improved. Many research papers from the early 1900s are awful to read, incredibly dry, tedious, and poorly written. The fact that papers are shorter and more willing to engage in common rhetorical techniques like using questions in titles is a good thing in my mind. Writing papers that people want to read means writing better research papers.\n\nThe analysis in this paper in no way demonstrates Goodhart\u2019s Law. To do that you need to show that an increase in metric is not due to an increase in performance.\n\n>It is worth noting that while the study\u2019s results provide evidence that many citation-based measures have become targets, there also may be other factors that influence academic publication trends. For example, the academic hypercompetitive environment itself may prompt an increase in productivity\u00a0[81], hence increasing the number of papers. However, this claim contradicts the findings of Fanelli and Larivi\u00e8re that researchers\u2019 individual productivity did not increase in the past century\u00a0[52]. Nevertheless, it is important to keep in mind that there may be other underlying factors that contributed to the observed results.\n\nGee, you think? Shame other than this throwaway paragraph you don\u2019t actually seriously consider any alternatives to the narrative you\u2019re peddling.\n\n>Second, we observed that over time fewer papers list authors alphabetically, especially papers with a relatively high number of authors (see Results of Paper Trends section and Figs\u00a04 and\u00a0S5). These results may indicate the increased importance of an author\u2019s sequence number in the author list, which may reflect the author\u2019s contribution to the study. This result is another signal of the increasing importance of measures that rate an individual\u2019s research contribution.\n\nThis isn\u2019t something you can meaningfully measure across all fields. Different fields have different conventions. Virtually every mathematics paper in the world today has alphabetical authorship or random authorship. In any event, this is barely a discernible trend in your plot and you made no effort to quantify the effect size or show that it was statistically significant. In the past 40 years, it looks like the needle has barely moved at all in terms of % of papers that have alphabetical authorship (Fig. 4).\n\n>Third, from matching papers to their L0 fields of study, we observed that the number of multidisciplinary papers has increased sharply over time (see Fig.\u00a06). It is important to keep in mind that these results were obtained by matching keywords to their corresponding fields of study. Therefore, these results have several limitations: first, not all papers contain keywords. Second, the dataset may not extract keywords from papers in the correct manner. For example, we found some papers contained keywords in their online version but not in their offline version (see Results of Paper Trends section). It is also possible that in some fields it is less common to use keywords. Therefore, the papers\u2019 keywords may be missing in the datasets, and the presented results may be an underestimate of the actual number of multidisciplinary studies. Nevertheless, we observed a strong trend in increasing numbers of multidisciplinary papers.\n\nThis is totally disconnected from the rest of the analysis and never mentioned again. Is it supposed to be meaningful?\n\n>Fourth, from seeing sharp increases in both the maximal and mean number of self-citations (see Results of Paper Trends section and Figs\u00a07,\u00a09,\u00a010, and\u00a0S12), it is clear that citation numbers have become a target for some researchers, who cite their own papers dozens, or even hundreds, of times. Furthermore, we observed a general increasing trend for researchers to cite their previous work in their new studies. Moreover, from analyzing the percentage of papers without citations after 5\u00a0years, we observed that a huge quantity of papers (>72% of all papers and 25% of all papers with \u22655 references) have no citations at all (see Fig.\u00a09). Obviously, many resources are spent on papers with limited impact. The lack of citations may indicate that researchers are publishing more papers of poorer quality to boost their total number of publications. Additionally, by exploring papers\u2019 citation distributions (see Fig.\u00a010), we can observe that different decades have very different citation distributions. This result indicates that comparing citation records of researchers who published papers during different periods can be challenging.\n\nNo, it\u2019s not clear that people are deliberately citing themselves to game research metrics. Self-citation will increase with no change in behavior if the number of people per paper increases, which you\u2019ve already shown. Controlling for this is a basic prerequisite for drawing a meaningful inference, and it\u2019s a shame you didn\u2019t do that. It will also increase with increased specialization, since if I write 5 papers on a single topic and you write 5 papers on 5 different topics it is quite reasonable to assume my papers will show more self-citation than yours. You did show that the percentage of interdisciplinary papers is increasing, this might be a good place to reference that fact.\n\nIn order to make claims about \u201csome researchers\u201d you need to actually track to see if that\u2019s a stable group of people over time or not. Shame you didn\u2019t bother to do that either. This is data analysis 101, and you\u2019re failing it. You\u2019re also failing it in other ways, such as changing the scale of plots that are being compared and cutting axes off arbitrarily.\n\nWhat Figure 9 actually shows is that the percentage of papers with no citations in 5 years has plummeted. I don\u2019t understand how they can possibly write this with a straight face. Both of these numbers hit their all-time low between 2000 and today. In 1900 it was ~98% and today it\u2019s ~75%. That\u2019s good, right? Why are you presenting this like it\u2019s a bad thing?",
+      "author": "StellaAthena",
+      "created": 1559668229,
+      "upvotes": 19,
+      "replies": {
+        "epzm1d0": {
+          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzm1d0/",
+          "text": "\n>Fifth, by exploring trends in authors (see Results of Author Trends section and Figs\u00a011,\u00a012,\u00a013,\u00a0S14,\u00a0S15, and\u00a0S16), we observed an exponential growth in the number of new researchers who publish papers. We also observed that young career researchers tend to publish considerably more than researchers in previous generations, using the same time frames for comparison (see Fig.\u00a011). Moreover, young career researchers tend to publish their work much more in conferences in the beginning of their careers than older researchers did in previous decades (see Fig.\u00a0S15). We also observed that young career researchers tend to collaborate considerably more in the beginning of their careers than those who are older (see Fig.\u00a012). Furthermore, we see that the mean percentage of researchers as first authors early in their career is considerably less than those in previous generations (see Fig.\u00a013). In addition, authors\u2019 median sequence numbers typically increase over time, and the rate is typically faster for young career researchers (see Fig.\u00a0S16). These results emphasize the changes in academia in recent years. In a culture of \u201cpublish or perish,\u201d researchers publish more by increasing collaboration (and being added to more author lists) and by publishing more conference papers than in the past. However, as can be observed by the overall decline of researchers as first authors, young career researchers may be publishing more in their careers but contributing less to each paper. The numbers can be misleading: a researcher who has 5 \u201cfirst author\u201d claims but has published 20 papers may be less of a true contributor than one with 4 \u201cfirst author\u201d claims and 10 published papers.\n\nThis looks like pretty damn linear growth to me. If I draw a vertical line on plot 11 and compare where it intersects the curves, it seems like the curves are evenly spaced. Do you want to provide actual numbers? Ideally for to an actually exponential curve?\n\nThis is another area where field-specific breakdowns are important: CS researchers publish a lot younger than philosophers, and there\u2019s a lot more (as a percentage) computer scientists today than 80 years ago. Also, publishing in conferences in CS is a better thing than publishing in journals, generally speaking. Again, the importance of journals varies by field. The fact that this stuff isn\u2019t analyzed is annoying, but the fact that it\u2019s not referenced is indefensible.\n\nI like the bit where you claim some people are \u201ctrue contributors\u201d and other people are not. Presumably they\u2019re false scientists?\n\nI\u2019m about half way through the discussion section, but I\u2019m tired of writing this. Maybe I\u2019ll come back later and finish writing a critique. But my thoughts on this paper are very simple:\n\n**The existence of this paper is the best evidence presented by this paper in the decline of research quality and the increase in \u201cfad\u201d or \u201cclick-bait\u201d research**.",
+          "author": "StellaAthena",
+          "created": 1559668276,
+          "upvotes": 13,
+          "replies": {
+            "eq0tx2j": {
+              "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq0tx2j/",
+              "text": "Will you write this up as a response for the journal? Seems a very useful intervention..",
+              "author": "gurtysnark",
+              "created": 1559694276,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "eq0882f": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq0882f/",
+      "text": "At least in the social sciences, the number of citations/publications has ceased to have any real meaning and should not be used as a metric for success or influence.  My doctoral program did not teach us this, but a colleague who attended a large program said they were taught to be strategic by doing the following:\n\n* Create a \"research group\" comprised of your friends in the discipline in which members take turns researching and writing, yet normally only the PI does any work, and the rest are just thrown on the publication (the others may proofread/edit so that ethically they can say they contributed); members of the group are then expected to return the favor to the others by adding them to their publications they did no work for.\n* Start their own online journal, and/or guest edit for an established journal, and/or become an editor of an established/top tier journal (dependent on what stage you are at in your career), and prioritize publishing your friends' work--especially if they are up for promotion or tenure, or some other review.  Friends are then expected to do the same for them.\n* Edit an anthology in which you invite your friends to publish first--not the experts in the field.  If friends are busy and can't write a chapter at that time, they recommend friends of friends, which then extends your circle of people  who owe you or are going to cite you back.  The actual experts in the field are last to be invited, but since it is quick and easy for them to put something together they often contribute, and this gives the anthology credibility.\n* Cite friends' work by finding a way to make their work relevant to yours so that they will then cite you back.  Sometimes this requires the literature review to go on a tangent, but if you cite Joe, Joe will cite you back in three months when he submits his pub.\n\nThere are two people in my department whom I can clearly see subscribe to the above model (the colleague who told me about it, plus another colleague not affiliated with this friend), and it is annoying when the latter tries to brag about the number of pubs he has knowing he only wrote or contributed to about 1/4 of them--and has very little knowledge on the content (proven by me, because one is my research area and he hasn't got a clue when I try to discuss it with him.)   Meanwhile, I'm the sucker plugging away on my sole authored publications.\n\nOrdinarily I would not care about any of this because if you can live with yourself knowing you are playing this game then that's on you, but our department keeps raising the bar on the number of required publications for raises or promotions because they **see the number of annual pubs and citations going up each year**.  The system is practically forcing academics to follow my colleague's model if we want raises.\n\nMaybe others don't think this is unethical, but it doesn't sit well with me.\n\nWe have a new faculty member who started fall 2017 and my friend has really taken to him, and my colleague and a couple of his friends added this young PhD to their publications.  This young PhD just won our university's pre-tenure research award.  He is obviously being groomed to join the circle.  There is no way he did anything on those pubs because he was finishing his dissertation last year.  I'm sure I will see one or more of my colleague's names on the publications coming out of the young PhD's dissertation...\n\nI prefer to measure success by asking: Did your work make a positive change?",
+      "author": "AcademicX",
+      "created": 1559679878,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "eq0kjob": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq0kjob/",
+      "text": "It has been known for a while that the impact factor is useless because you can easily manipulate it as a publisher by publishing more reviews, inviting high profile authors and selecting on perceived impact with a high rejection rate.\nHowever, it is still regarded as a good parameter by the researchers themselves.\nSo silly.",
+      "author": "BlueEmpathy",
+      "created": 1559686983,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "epzaxzj": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzaxzj/",
+      "text": "I have a lot of feelings about indices/rankings/ratings which can be summed up as, they're all bullshit, and I think it's a real shame that the ranking craze has taken over the world (obligatory Romer at World Bank shoutout). Mainly my beef is with the fact that people, even eminently qualified insiders who should know better, keep trying to measure shit that we don't need to measure. Like, what journals are good journals is known to anyone who is active in a field. If you're not sure about subfield journals, you can call up a friend in that subfield and find out. Committees can form a reasonable idea of your work output from looking at your CV. Why do we need these impact factors and h-indices and sundry?",
+      "author": "thegreenaquarium",
+      "created": 1559662049,
+      "upvotes": 10,
+      "replies": {
+        "epzjyn4": {
+          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzjyn4/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1559667140,
+          "upvotes": 5,
+          "replies": {
+            "epzmwo1": {
+              "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzmwo1/",
+              "text": "The existence of metrics does not invalidate the existence of bias (and apparently many people here do not understand this). If a committee member does not care for your field, they will continue to not care for your field irrespectively of any decent papers you published in it, and it will affect your chances. What metrics do do, however, is create the illusion of objectivity, which can lead to people thinking they are more objective than they are or otherwise, blatantly biased or irregular decisions flying under the radar. \n\nMy thesis is, you can't get away from discretion, judgment, metis, what have you in these decisions, this project is flawed from the start, and in our metric-obsessed age we are better served by abandoning it than continuing to hold on in hopes that it will work out somehow. Trust qualified people to make decisions they're qualified to make and judge them on these decisions, not on the shorthand they're couched in.",
+              "author": "thegreenaquarium",
+              "created": 1559668755,
+              "upvotes": 3,
+              "replies": {
+                "epzphba": {
+                  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzphba/",
+                  "text": "> What metrics do do, however, is create the illusion of objectivity,\n\nI think you are spot on here. I also think many people underestimate or ignore the human dimensions of creating the metrics in the first place -- why do we pick the metrics we do, how are they constructed, how are they used, who decides and why, etc. etc. Metrics in most forms are not nearly as ideal or objective as they seem to be.",
+                  "author": "a_large_plant",
+                  "created": 1559670151,
+                  "upvotes": 3,
+                  "replies": {
+                    "epzq1uc": {
+                      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzq1uc/",
+                      "text": "I think it's high time that we developed a subdiscipline of statisticians who are not acneous math geniuses, but who understand the math and how it would work in some specific applied context. Discipline-specific methods people were supposed to fill this niche, but apparently the message is still getting lost in translation.",
+                      "author": "thegreenaquarium",
+                      "created": 1559670462,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                },
+                "epzrri7": {
+                  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzrri7/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1559671388,
+                  "upvotes": 3,
+                  "replies": {
+                    "epzssx7": {
+                      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzssx7/",
+                      "text": "> \nYou cannot do this, though. Science is a competition for resources and you have to quantify who is better. \n\nSure you can. You can qualify it. Quantifying impact (or \"impact\", regarding most of the metrics that are quantified) is a super recent development, science inclusive. People have been making executive decisions in all fields for centuries without having access to a universal (or \"universal\") measuring stick. From what I've seen, people still make money decisions this way, and the quantitative metrics only really work in finance (and even then, with a big sensitivity gap).\n\n> And they would be unemployed because 99% of research I've ever seen has zero value\n\nThat these metrics essentially mask rank bullshit is 110% my point, thank you.\n\nI won't even address the low-hanging fruit that is your dichotomy science/art.",
+                      "author": "thegreenaquarium",
+                      "created": 1559671959,
+                      "upvotes": 1,
+                      "replies": {
+                        "epzvxie": {
+                          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzvxie/",
+                          "text": "[deleted]",
+                          "author": null,
+                          "created": 1559673680,
+                          "upvotes": 2,
+                          "replies": {
+                            "epzwj00": {
+                              "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzwj00/",
+                              "text": "I'm a grad student, but I've been in a position where my supervisor's per-annum publication record affected their and subsequently my employment, yes.\n\n> You cannot have access to government-level funding and capital investments without a simple and universal quantifier. \n\nWas this handed on stone tablets to Moses on Mt Sinai, or was this a policy created by people who can create a different policy if so inclined?\n\n> \nThey have been making the decisions without access to funding, however. \n\nlol",
+                              "author": "thegreenaquarium",
+                              "created": 1559674011,
+                              "upvotes": 1,
+                              "replies": {
+                                "eq00yrx": {
+                                  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq00yrx/",
+                                  "text": "[deleted]",
+                                  "author": null,
+                                  "created": 1559676325,
+                                  "upvotes": -1,
+                                  "replies": {
+                                    "eq031sj": {
+                                      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq031sj/",
+                                      "text": "That supervisor had a 40 year career in the field, but the (non-US) institution she worked at was undergoing a leadership change and the new leadership instituted counterproductive publication requirements. I agree that she's not Esther Duflo, but my field is big enough that it needs the contribution of lesser folks too.\n\n> \nIt's a policy created by the same people who give the resources, so it might as well be the word of god. \n\nThis is a bizarre state of mind.The people who give resources are just people, therefore they can be persuaded, cajoled, forced, and you can become one of them. \n\nThat said, you are getting mired in the details of my personal work history and what other people do. My point is that there is a wide range between doling out resources based on h indices and\n\n>  just gave away money\n\nMy point is that **using a non-quantitative measure of success =! \"just giving away money\"**",
+                                      "author": "thegreenaquarium",
+                                      "created": 1559677392,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "eq06dli": {
+                                          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq06dli/",
+                                          "text": "[deleted]",
+                                          "author": null,
+                                          "created": 1559678990,
+                                          "upvotes": 0,
+                                          "replies": {
+                                            "eq06lju": {
+                                              "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq06lju/",
+                                              "text": "ok",
+                                              "author": "thegreenaquarium",
+                                              "created": 1559679095,
+                                              "upvotes": 1,
+                                              "replies": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "epzdtzi": {
+          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzdtzi/",
+          "text": "Because even in good or bad journals there are good and bad papers. The paper with 1000 citations in a journal that has on average 2 per paper is authoritative more than the paper with 20 citations in a good journal",
+          "author": "ThePhysicistIsIn",
+          "created": 1559663692,
+          "upvotes": 4,
+          "replies": {
+            "epze2ug": {
+              "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epze2ug/",
+              "text": "Good papers in bad journals and bad papers in good journals seem like improbable edge cases.",
+              "author": "thegreenaquarium",
+              "created": 1559663831,
+              "upvotes": 1,
+              "replies": {
+                "epzeys1": {
+                  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzeys1/",
+                  "text": "It happens all the time in my field, there are huge variations. Some stuff is incremental and gets 0-2 citations, some things are revolutionary and get cited for decades later",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1559664335,
+                  "upvotes": 9,
+                  "replies": {
+                    "epzgiou": {
+                      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzgiou/",
+                      "text": "> some things are revolutionary and get cited for decades later\n\nsurely you don't need an index to tell you what papers in your field are revolutionary and cited for decades?",
+                      "author": "thegreenaquarium",
+                      "created": 1559665213,
+                      "upvotes": 1,
+                      "replies": {
+                        "epziczt": {
+                          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epziczt/",
+                          "text": "One sort of index I do find value in is like a \"trending\" sort of index -- papers that get more cites over time, are picking up steam, etc. -- It can be hard to know those off the top of your head but it can be interesting to see which papers are becoming *increasingly* important and beginning to shape thinking in the field.",
+                          "author": "a_large_plant",
+                          "created": 1559666260,
+                          "upvotes": 2,
+                          "replies": {}
+                        },
+                        "epzlabi": {
+                          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzlabi/",
+                          "text": "Sure I do - with thousands of papers many of them have similar names, how can I tell it it\u2019s the OG? Sure if it\u2019s the revolutionary one- but then we dont need a CV, we know those people already. It\u2019s for people who are middle-range and have a couple papers with a hundred cites that this and the h index can help out with.",
+                          "author": "ThePhysicistIsIn",
+                          "created": 1559667868,
+                          "upvotes": 2,
+                          "replies": {
+                            "epzlyj8": {
+                              "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzlyj8/",
+                              "text": "Interesting, thanks for the insight.",
+                              "author": "thegreenaquarium",
+                              "created": 1559668232,
+                              "upvotes": 1,
+                              "replies": {
+                                "epzqrbi": {
+                                  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzqrbi/",
+                                  "text": "You might find this insightful :  [https://www.nature.com/news/the-top-100-papers-1.16224](https://www.nature.com/news/the-top-100-papers-1.16224) \n\nThe vast majority of peer-reviewed science is never cited. Though, in my own meta-analysis over a few thousand papers, I found the median of my dataset to have 20 citations, with a median IF of 3.",
+                                  "author": "ThePhysicistIsIn",
+                                  "created": 1559670844,
+                                  "upvotes": 2,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "epzjsf3": {
+                  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzjsf3/",
+                  "text": "Nature and Science, the top two scientific journals have the most redacted papers by a huge margin",
+                  "author": "k0np",
+                  "created": 1559667044,
+                  "upvotes": 3,
+                  "replies": {
+                    "eq0nfal": {
+                      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq0nfal/",
+                      "text": "They're probably also the most carefully/widely read",
+                      "author": "Alfred_cock_itch",
+                      "created": 1559689153,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                },
+                "eq0r7fr": {
+                  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq0r7fr/",
+                  "text": "Perhaps, though I come from a field where all papers* go to the same four journals, so there's very little indication of quality.\n\n*actually only 95% of papers.",
+                  "author": "WilyDoppelganger",
+                  "created": 1559692117,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "epzf6dv": {
+          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzf6dv/",
+          "text": "> Committees can form a reasonable idea of your work output from looking at your CV. Why do we need these impact factors and h-indices and sundry?\n\nQuantifying metrics prevent nepotism, personal relationships and conflict of interest.",
+          "author": "atrlrgn_",
+          "created": 1559664455,
+          "upvotes": 11,
+          "replies": {
+            "epzgfi6": {
+              "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzgfi6/",
+              "text": "do they though?",
+              "author": "thegreenaquarium",
+              "created": 1559665166,
+              "upvotes": 10,
+              "replies": {
+                "epzi2qh": {
+                  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzi2qh/",
+                  "text": "Yeah that's another thing, there is always a work around it.",
+                  "author": "atrlrgn_",
+                  "created": 1559666098,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            },
+            "epzi6ld": {
+              "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzi6ld/",
+              "text": "How?",
+              "author": "a_large_plant",
+              "created": 1559666160,
+              "upvotes": 3,
+              "replies": {
+                "epzkc64": {
+                  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzkc64/",
+                  "text": "Let's say there is an open faculty position. The dean of a faculty (or whoever hires faculty members or somebody who has powerful ties) wants to hire the person A. They can claim A is a better fit for the open position because of [insert some bullshit here]. If the dean is powerful enough to affect the other members of the committee, then A could be selected among much better candidates. If the metrics are quantified, then it wouldn't be that easy to hire A. Some members of the committee could categorically reject hiring A because of the metrics. In that case, the dean wouldn't do anything but accept the outcome. \n\nIt doesn't have to be about a powerful, evil guy anyways. The faculty may want to hire B who has just graduated from their department among much better and experienced candidates. They can easily hire B if there are no quantified metrics.",
+                  "author": "atrlrgn_",
+                  "created": 1559667349,
+                  "upvotes": 7,
+                  "replies": {
+                    "epzkp2q": {
+                      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzkp2q/",
+                      "text": "Hmm I do see where you are coming from, however I guess I disagree primarily because the underlying assumption here is the metrics are correct or the best way to make these decisions. There is a human element to determining the metrics and deciding which will be included in review, as well, and unless a pure reliance on the metrics is codified in hiring practice, I'm still uncertain they could entirely override a single-minded dean, chair, committee, etc.\n\nI'd be interested if anyone else has thoughts on this. too.",
+                      "author": "a_large_plant",
+                      "created": 1559667545,
+                      "upvotes": 8,
+                      "replies": {
+                        "epzm5p4": {
+                          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzm5p4/",
+                          "text": "I am not saying metrics are the best way to do it, but  it is the reason of quantifying the metrics. After all, it is proposed to decide who is good and who is bad without personal biases or opinions. \n\nI am not familiar with the hiring process, so I actually do not know how the system works. Anyways, I am usually in favour quantifying everything as much as possible, although I agree that it is impossible to quantify everything.",
+                          "author": "atrlrgn_",
+                          "created": 1559668344,
+                          "upvotes": 5,
+                          "replies": {
+                            "epzn2wy": {
+                              "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzn2wy/",
+                              "text": "Yes, fair enough. Personal opinions, however, can be really important in hiring -- that's why references and in-person interviews can go a long way. They can show you something about candidates that metrics can't capture; help you better understand if a person will succeed in the department, with their new colleagues, etc. It can be hard to turn these things into metrics.",
+                              "author": "a_large_plant",
+                              "created": 1559668848,
+                              "upvotes": 1,
+                              "replies": {
+                                "eq02p6z": {
+                                  "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq02p6z/",
+                                  "text": "> Yes, fair enough. Personal opinions, however, can be really important in hiring\n\nI can't agree more, it is a tricky process especially if it is a universitiy funded by the tax money. Tbh, I don't know what would be the best way, but I see your points very well. Hopefully I made myself clear, as well.",
+                                  "author": "atrlrgn_",
+                                  "created": 1559677211,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "eq0do3t": {
+                          "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq0do3t/",
+                          "text": "> because the underlying assumption here is the metrics are correct or the best way to make these decisions.\n\nThey're not really.  They're a CYA tool.  \n\n/u/atrlrgn_ wrote, \"Quantifying metrics prevent nepotism, personal relationships and conflict of interest.\", but what they actually do is provide a *plausible deniability* that such a thing didn't happen.\n\nAnd remember from the organization's point of view, they're not necessarily wanting to hire the best person for every job.  They want to hire the \"good enoughest\" person for the job with the least hassle and risk.  Using the seemingly objective metrics provides a lot of cover.",
+                          "author": "grandzooby",
+                          "created": 1559682739,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "eq05ci0": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/eq05ci0/",
+      "text": "Sort of obvious, but good to hear it regardless",
+      "author": "Bahlam357",
+      "created": 1559678503,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "epzg9lr": {
+      "link": "/r/AskAcademia/comments/bwptjv/new_research_suggests_that_metrics_that_are_used/epzg9lr/",
+      "text": "I mean just Look at p-hacking......",
+      "author": null,
+      "created": 1559665075,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

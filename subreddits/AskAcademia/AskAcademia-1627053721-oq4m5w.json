@@ -1,0 +1,58 @@
+{
+  "sid": "oq4m5w",
+  "link": "/r/AskAcademia/comments/oq4m5w/university_administrative_assistant_usa_asking/",
+  "title:": "University administrative assistant (USA) asking for advice on data collection and organization.",
+  "text": "Please advise if there is a another sub that is better for this question.\n\nI'm a newly hired admin assistant in a program that is a candidate for accreditation.  I am working with the program director to collect and organize all the data we need to present to the accreditation committee. This data is mostly in the form of faculty peer evaluations and student course evaluations. My background is in education, but this is the first time I've worked with this amount of data. I'm dealing with both qualitative and quantitative data. The program director is pleased with my work in Excel and using Qualtrics, and she says she's glad she hired someone with a good sense of how to quantify data. But I feel like there are probably easier, more efficient ways to do this task than what I'm doing.\n\nMy question is this: Does anyone have a recommendation for an online course or a book I could get that would help me learn how to do this kind of work? I honest don't know what the name of this specific field of study is. I talked to the program director, and she said we have $1000 annually in the budget for my \"staff development\".  I want to take the initiative to better learn how to do my job even though the program director is satisfied. I just want to figure out how to make all of our jobs a little easier.\n\nAny advice anyone has is greatly appreciated.",
+  "author": "Fyrnsidere_Cultor",
+  "created": 1627053721,
+  "updated": 1634082453,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 0.81,
+  "comments": {
+    "h69b9du": {
+      "link": "/r/AskAcademia/comments/oq4m5w/university_administrative_assistant_usa_asking/h69b9du/",
+      "text": "The psychology, education, and business departments at your university probably (they should) have courses on collecting and analyzing this type of data. Fees for staff are usually quite modest (or even free) so your $1000 would go a long way, and you could start accruing credits that could contribute toward a masters degree.\n\nWithout knowing more specifically, we couldn't tell you exactly where to look.  Different types of data require different types of analysis (e.g. looking at a difference in means vs a difference in proportions).",
+      "author": "Decisionsota",
+      "created": 1627054019,
+      "upvotes": 3,
+      "replies": {
+        "h6dvg74": {
+          "link": "/r/AskAcademia/comments/oq4m5w/university_administrative_assistant_usa_asking/h6dvg74/",
+          "text": "Thanks for your reply, I will definitely inquire about courses with the university.\n\nThe type of data I'm collecting is student course evaluation surveys and professor peer review surveys. Some questions are essay style, but most are qualitative on a scale from 1 to 5.",
+          "author": "Fyrnsidere_Cultor",
+          "created": 1627147560,
+          "upvotes": 1,
+          "replies": {
+            "h6ggeum": {
+              "link": "/r/AskAcademia/comments/oq4m5w/university_administrative_assistant_usa_asking/h6ggeum/",
+              "text": "The term you're looking for is \"research analytics.\"  It's often taught in business schools.",
+              "author": "matthewsmugmanager",
+              "created": 1627203562,
+              "upvotes": 1,
+              "replies": {
+                "h6gp8ai": {
+                  "link": "/r/AskAcademia/comments/oq4m5w/university_administrative_assistant_usa_asking/h6gp8ai/",
+                  "text": "Thank you, that's exactly what I needed to know!",
+                  "author": "Fyrnsidere_Cultor",
+                  "created": 1627211879,
+                  "upvotes": 2,
+                  "replies": {
+                    "h6irvsx": {
+                      "link": "/r/AskAcademia/comments/oq4m5w/university_administrative_assistant_usa_asking/h6irvsx/",
+                      "text": "Sometimes it's called \"market analytics,\" just fyi.\n\nGlad I could help!",
+                      "author": "matthewsmugmanager",
+                      "created": 1627251718,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

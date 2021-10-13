@@ -1,0 +1,13 @@
+{
+  "sid": "p2zssx",
+  "link": "/r/AskAcademia/comments/p2zssx/help_exporting_atlasti_file_to_excel_with_all/",
+  "title:": "Help! Exporting Atlas.ti file to Excel, with all data? (sociology, Research Associate, USA)",
+  "text": "Working on a time crunch, I isolated only survey responses and their survey ID numbers into several Atlas files for research assistants to code - and now need to find a way to get all of this back together and attach survey IDs back to the remaining survey variables (that aren't in the Atlas files) prior to conducting the analysis.\n\nIs there any way for me to export the data (whether to Excel, which I'd prefer, but could also use SPSS or Stata if needed) in a way that the text responses AND their unique IDs (again, not the IDs that Atlas assigned each item, but the IDs that they were imported with) come along with the file?",
+  "author": "Sad-Succotash-1526",
+  "created": 1628774803,
+  "updated": 1634079833,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {}
+}

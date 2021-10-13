@@ -1,0 +1,326 @@
+{
+  "sid": "o8tkww",
+  "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/",
+  "title:": "Depressed over mistakes in master's thesis",
+  "text": "Hi all,\n\nSo this week I successfully completed my master's thesis and I'm preparing myself for the defence that scheduled to take place in a couple of days. I was going over my paper and I noticed two mistakes re the interpretation of a the P-value under a null hypothesis in my paper.\n\nSafe to say that I'm panicking now and I'm worried that this will adversely impact the grade I receive following the defence. I know it doesn't invalidate my results necessarily ( I continued the interpretation of both tests as with the correct interpretation), but I just feel so awful about. I emailed my supervisor to let him know in advance, but does anyone have any experience with something like this and have any advice on how I can stop feeling like the effort I put in has been for nothing?\n\n**EDIT\nThank you all for your kind comments - my fears have been allayed for now at least. Fingers crossed I can improve for the defence.",
+  "author": "TheWokeMiskoken",
+  "created": 1624785077,
+  "updated": 1634081387,
+  "over_18": false,
+  "upvotes": 125,
+  "upvote_ratio": 0.93,
+  "comments": {
+    "h379ei7": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h379ei7/",
+      "text": "I'm yet to see a student thesis that doesn't contain errors. Relax, I'm sure it's fine and you sound like a great student.",
+      "author": "The-very-naughtyduck",
+      "created": 1624792470,
+      "upvotes": 129,
+      "replies": {
+        "h37belh": {
+          "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h37belh/",
+          "text": "I'll not lie, this comment made my tear up slightly. Like most people, the last 12 months have been difficult for me with the pandemic, academic pressure and some personal bereavement. Just having someone telling me that it sounds like I'm doing my best made all the difference to my day. Thank you stranger.",
+          "author": "TheWokeMiskoken",
+          "created": 1624794176,
+          "upvotes": 58,
+          "replies": {
+            "h398tz0": {
+              "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h398tz0/",
+              "text": "To add, the fact you\u2019re aware of the mistakes *now* is great! It means you can head them off in your defence, you won\u2019t be blindsided. Good luck!",
+              "author": "sitdeepstandtall",
+              "created": 1624831302,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h3733b0": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h3733b0/",
+      "text": "Without knowing more it is hard to answer, but if it does not invalidate your results I would think it is something you could simply point out and stated you will correct. This is what advisors are for. Hopefully your advisor can guide you on this. Don\u2019t sweat it. A masters is about years of work, not a perfect thesis.",
+      "author": "Arhgef",
+      "created": 1624786451,
+      "upvotes": 62,
+      "replies": {
+        "h373s13": {
+          "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h373s13/",
+          "text": "Basically, the coefficients in my model were statistically significant, which I pointed out, but in my stupidity i wrote that \"I fail to reject the null hypothesis\" when it should've been \"reject\". Similar error in a robustness test.\n\nI don't think they invalidate my results, because my further discussions are as though I have correctly interpreted these p-values - it's nearly more of a typo error I think.\n\nThanks for your response. I know it's not the end of the world, but it just sucks so much that I'll probably get penalised for stupidity. Just feels rotten after the months of work that went into it.\n\nHopefully my supervisor understands.",
+          "author": "TheWokeMiskoken",
+          "created": 1624787139,
+          "upvotes": 23,
+          "replies": {
+            "h37i20z": {
+              "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h37i20z/",
+              "text": "You probably won't be penalized for a typo, dude. Typically students get a chance to correct stuff in their thesis after the committee gives them notes after the defense and before it's meant to be handed in to the program.",
+              "author": "icantfindadangsn",
+              "created": 1624799126,
+              "upvotes": 44,
+              "replies": {
+                "h38526o": {
+                  "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h38526o/",
+                  "text": "I didn't know this! In our university we had to submit first and then do the defense and then I thought that was it! This would be a huge relief if true, thanks for making that clear!",
+                  "author": "TheWokeMiskoken",
+                  "created": 1624811659,
+                  "upvotes": 5,
+                  "replies": {
+                    "h385whg": {
+                      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h385whg/",
+                      "text": "Even for a PhD, let alone a masters, the general idea is that you complete the thesis, defend it, and are typically given some feedback to address. The feedback doesn't mean you failed. It means \"congratulations on your successful defense! Before you submit the final copy to be printed and kept in the library, you should probably address A, B, and C as we discussed.\"",
+                      "author": "deong",
+                      "created": 1624812079,
+                      "upvotes": 12,
+                      "replies": {}
+                    },
+                    "h38d5ph": {
+                      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h38d5ph/",
+                      "text": "You're welcome. You should check your program requirements because those matter more than what I say is typical, but it's likely you'll have a chance to fix your mistake!\n\nBut don't fret either way. If you ever go back and read the document, you'll find more mistakes. It is inevitable. The day I got the bound copy of my dissertation I was just thumbing through and seeing how it looked and found a typo.\n\n-__-\n\nAlso congrats on your upcoming defense!",
+                      "author": "icantfindadangsn",
+                      "created": 1624815602,
+                      "upvotes": 1,
+                      "replies": {}
+                    },
+                    "h3a8nxq": {
+                      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h3a8nxq/",
+                      "text": "Doubt you'll be able to get away without revisions. I don't know anyone who has. I had to do a minor rewrite my thesis based on feedback. I added a few pages and shifted the focus slightly. \n\nI recommend you address the error in your presentation to cut off any criticism that may come up.",
+                      "author": "davesoverhere",
+                      "created": 1624851599,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "h376g4t": {
+              "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h376g4t/",
+              "text": "Be a rock star at your defense and you will be just fine--Good Luck!!!",
+              "author": "ObjectiveAnalysis643",
+              "created": 1624789741,
+              "upvotes": 10,
+              "replies": {
+                "h376wtk": {
+                  "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h376wtk/",
+                  "text": "Thanks, appreciate it!",
+                  "author": "TheWokeMiskoken",
+                  "created": 1624790176,
+                  "upvotes": 2,
+                  "replies": {
+                    "h378e0g": {
+                      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h378e0g/",
+                      "text": "It happens. We all make mistakes. The fact that you found out yourself and even contacted your supervisor speaks to your integrity. You got this!",
+                      "author": "Peppermooski",
+                      "created": 1624791554,
+                      "upvotes": 5,
+                      "replies": {
+                        "h37b9nz": {
+                          "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h37b9nz/",
+                          "text": "Appreciate your comment, thanks so much!",
+                          "author": "TheWokeMiskoken",
+                          "created": 1624794063,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "h384uqy": {
+              "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h384uqy/",
+              "text": "Don't worry at all, no one will care about a mistake this small, especially if the surrounding discussion makes it clear what you meant to write. Plus you'll likely get to correct it.",
+              "author": "TheSwitchBlade",
+              "created": 1624811556,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "h3846xx": {
+              "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h3846xx/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1624811223,
+              "upvotes": 2,
+              "replies": {
+                "h384jqg": {
+                  "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h384jqg/",
+                  "text": "I think he means he wrote \"I fail to reject\" when he meant to write \"I reject\"",
+                  "author": "TheSwitchBlade",
+                  "created": 1624811401,
+                  "upvotes": 5,
+                  "replies": {}
+                },
+                "h384hfs": {
+                  "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h384hfs/",
+                  "text": "Apologies maybe it wasn't clear. I wrote that I \"fail to reject\" the null hypothesis when I should've written that I \"rejected the null hypothesis\".",
+                  "author": "TheWokeMiskoken",
+                  "created": 1624811370,
+                  "upvotes": 3,
+                  "replies": {
+                    "h38e42n": {
+                      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h38e42n/",
+                      "text": "Ah okay, thanks!",
+                      "author": "Hardcore90skid",
+                      "created": 1624816057,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                },
+                "h384t0w": {
+                  "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h384t0w/",
+                  "text": "I think they meant it should have been \u201cI reject the null hypothesis\u201d not \u201cfail to reject the null hypothesis\u201d. I.e. It\u2019s the \u201cfail to\u201d that\u2019s the typo, not \u201creject\u201d.",
+                  "author": "sacardia",
+                  "created": 1624811532,
+                  "upvotes": 3,
+                  "replies": {
+                    "h38e1xf": {
+                      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h38e1xf/",
+                      "text": "Oooh, okay, thank you",
+                      "author": "Hardcore90skid",
+                      "created": 1624816028,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h37jz3u": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h37jz3u/",
+      "text": "Honestly, I don't know if this is going to make you feel better or worse, but I doubt they will even notice. If they do notice and bring it up during your defence can explain then. If it makes no difference to your interpretation of your results it really doesn't matter so don't feel awful its a honest mistake. You should see the state of some papers I have proof read from Post Docs :)",
+      "author": "bigsass15",
+      "created": 1624800346,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "h37912e": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h37912e/",
+      "text": "I submitted my PhD thesis with two pages missing. The examiner realised it was an error, said the rest of the thesis was good enough thay two missing pages wouldn't change the overall quality.\n\nYour examiners will be able to pick up from the rest of your writing that that was a mistake. The phrase 'there are typographical errors which are to be expected in a work of this size' may be used, but it should not negate the entire rest of your thesis. Good luck.",
+      "author": "Awkward_Dog",
+      "created": 1624792134,
+      "upvotes": 17,
+      "replies": {
+        "h37bhck": {
+          "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h37bhck/",
+          "text": "That's a great phrase, thank you for the kind words!",
+          "author": "TheWokeMiskoken",
+          "created": 1624794239,
+          "upvotes": 5,
+          "replies": {
+            "h37naj9": {
+              "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h37naj9/",
+              "text": "Also don't rush to point out the mistake to them. Either wait until you get to that section in the discussion or let them raise it and let them know you've spotted it and intend to correct it.\n\nIf you rush to point it out and barely let them get settled it has the effect of undermining their confidence in you. This is your work and you must take ownership of it. If your opening gambit is to make sure they know everything that's wrong with it, that's a strong message that you don't believe in the work that you're presenting.\n\nI know you're dying inside and have convinced yourself that you're the worst, but even when you can't have faith in yourself let other people come to their own conclusions about you and don't spend your time trying to make sure they know you're the pits. You're not, and they are experienced researchers who are perfectly capable of forming their own opinion about how good or bad a thesis is. \n\nThis is a little mistake, shit happens, it's not the end of the world or your thesis. Good luck!",
+              "author": "ACatGod",
+              "created": 1624802321,
+              "upvotes": 8,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h3867m0": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h3867m0/",
+      "text": "Even phd theses contain mistakes and typos. I've seen minor (somebody writing \"Authours\" instead of Authors) and major. It's part of the process and is not a problem.",
+      "author": "Prudent_Astronomer_4",
+      "created": 1624812232,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "h37qydu": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h37qydu/",
+      "text": "I submitted my dissertation about 2 weeks ago. After submitting I went over it and noticed a couple of huge mistakes. I was worried and panicking but thankfully I passed with good marks. This is why I'd say to relax and I'm sure you'll be fine. A couple of mistakes won't fail you because everyone does that.",
+      "author": "Open_Philosopher",
+      "created": 1624804358,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h38edh3": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h38edh3/",
+      "text": "Its fine. They ask you, you explain it, then you correct it in final edits before you graduate. \n\nIve never heard of anyone not making edits post defense.",
+      "author": "PiLigant",
+      "created": 1624816185,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h38icrx": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h38icrx/",
+      "text": "No worries. You got this!",
+      "author": "gabe89san",
+      "created": 1624818127,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h3945fg": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h3945fg/",
+      "text": "You\u2019re giving your committee a lot of credit. I purposefully put dumb things/jokes in my dissertation just to see if anyone noticed and no one did\u2026 like everyone else has said, you\u2019ll have a chance to make edits and you can explain in your defense. You got this!",
+      "author": null,
+      "created": 1624828911,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h39iq6x": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h39iq6x/",
+      "text": "I thought first submissions of a thesis were a rough draft. I submitted mine missing a whole paper I needed to review, and an entire results section knowing I needed to redo major portions of it but I just didn\u2019t have time to ask my advisors about those sections before my defense. There were also MANY mistakes in it that I didn\u2019t catch myself but my advisors did - this includes silly mistakes I should have caught but also mistakes in interpreting my literature and terminology of another field I was using wrong.\n\nAnd I still passed! My advisors did not care at all that I had some changes I needed to make. It\u2019s pretty rare that you pass without revisions anyways. I promise you\u2019ll be fine - don\u2019t sweat it :)",
+      "author": "cracrag",
+      "created": 1624836701,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h39r2tl": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h39r2tl/",
+      "text": "Hello, I sent in a first author publication and had wrong interpretations for my values + my conclusion hahaha. I got my reviews back and fixed it. Making mistakes is normal. Just know you can always pick yourself back up.",
+      "author": "givemeyourdonut",
+      "created": 1624841423,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h39u9h2": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h39u9h2/",
+      "text": "You can't change the past, but the future can be better :-)",
+      "author": "WildlifePhysics",
+      "created": 1624843218,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h395vvv": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h395vvv/",
+      "text": "I would either, write a bullet point list of mistakes you've noticed (corrections) print it out and hand copies to the panel at the start of your defence- or if you do a PowerPoint add a slide at the start or end with the same list.\n\nThis is really the point of doing a defence (something that is perfect does not need defending) so you have nothing really to worry about- in fact they will be happy to see that you have noticed and are addressing any mistakes.",
+      "author": "Commercial-Sir3385",
+      "created": 1624829785,
+      "upvotes": 2,
+      "replies": {
+        "h39ilus": {
+          "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h39ilus/",
+          "text": "Completely second this. I\u2019m in arts, and a corrections list at your defence looks conscientious and engaged. They\u2019ll likely put one together anyway (typos, clarifications, cite my best friend here, etc)",
+          "author": "p1ckl3s_are_ev1l",
+          "created": 1624836632,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h4hajj9": {
+      "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h4hajj9/",
+      "text": "How did it go OP!!",
+      "author": "sophisticatt",
+      "created": 1625756409,
+      "upvotes": 1,
+      "replies": {
+        "h9oy2b6": {
+          "link": "/r/AskAcademia/comments/o8tkww/depressed_over_mistakes_in_masters_thesis/h9oy2b6/",
+          "text": "Hey there! Sorry I just came back after a hiatus from Reddit!\n\nIt went fantastically! I was forthcoming about my errors in the defence when I was asked if there was anything about my paper that I thought that I could improve upon. My examiners were really complementary of my paper, and in the end I was awarded a 9/10 for my work!! I was left speechless, honestly so surprised by that result!!\n\nThanks to everyone on here for keeping my spirits up when I doubted myself, sometimes it's the love of strangers that can get you through the roughest of times \u2665\ufe0f",
+          "author": "TheWokeMiskoken",
+          "created": 1629483725,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

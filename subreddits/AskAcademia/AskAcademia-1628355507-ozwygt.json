@@ -1,0 +1,83 @@
+{
+  "sid": "ozwygt",
+  "link": "/r/AskAcademia/comments/ozwygt/incoming_first_year_phd_student_with_an_idea_for/",
+  "title:": "Incoming first year PhD student with an idea for a new technology, how do I proceed?",
+  "text": "Hi everyone,\n\nI'm an incoming first year PhD student in Computational Biology. I've been thinking a lot about an assay that I believe would be transformative if it were to be developed. I've pitched the idea to a couple trusted mentors in the biotech space who think it is a good idea. We all think it might work in theory, but the hesitation is that it would be somewhat expensive to prove the concept (at the very least, 10X Genomics scRNA-seq is required).\n\nNow that I'm starting my PhD, I am thinking this might be a good idea to pursue this idea further. But, in my program, first year PhD students do 3 rotations, which doesn't give me much room to work on this idea during my first year.\n\nMy question is, should I even bother pitching this idea to rotation PIs during my first year? What should my strategy be to working on this? Should I be worried about spilling the beans on all the details before I fully join a lab for my thesis project? It's hard to believe someone would just steal my idea, but I know academia can be pretty cutthroat. At the same time, I'd prefer to begin working on this as soon as possible.\n\nAny advice at all would be greatly appreciated. Thanks in advance.",
+  "author": "aventus100",
+  "created": 1628355507,
+  "updated": 1634079983,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "h82y416": {
+      "link": "/r/AskAcademia/comments/ozwygt/incoming_first_year_phd_student_with_an_idea_for/h82y416/",
+      "text": "No, don\u2019t pitch it during rotations. No one is going to let you work on it during rotations. They still might not let you work on it once you\u2019ve joined a lab, either, but they absolutely won\u2019t let you start on it before you join their lab.",
+      "author": "WoodwardHoffmannRule",
+      "created": 1628360340,
+      "upvotes": 5,
+      "replies": {
+        "h831k5l": {
+          "link": "/r/AskAcademia/comments/ozwygt/incoming_first_year_phd_student_with_an_idea_for/h831k5l/",
+          "text": "Is there anything I can do now to get the ball rolling? Should I pitch the idea to the rotation PIs or members of their lab to get more feedback so I can at least continue to think about it? I've been itching to get this to work for the past half-year and am bummed I need to set it aside for another year",
+          "author": "aventus100",
+          "created": 1628361963,
+          "upvotes": -1,
+          "replies": {
+            "h8341z9": {
+              "link": "/r/AskAcademia/comments/ozwygt/incoming_first_year_phd_student_with_an_idea_for/h8341z9/",
+              "text": "Certainly don\u2019t mention it to anyone who\u2019s not a potential PI for you, that\u2019s just asking for someone to steal your idea. \n\nIt\u2019s still REALLY likely that no PI is going to let you work on it during grad school at all if it\u2019s relatively expensive and not directly related to research they already do. Their grant money isn\u2019t just a pot of cash for grad students to do whatever they want with.",
+              "author": "WoodwardHoffmannRule",
+              "created": 1628363151,
+              "upvotes": 3,
+              "replies": {
+                "h851bjp": {
+                  "link": "/r/AskAcademia/comments/ozwygt/incoming_first_year_phd_student_with_an_idea_for/h851bjp/",
+                  "text": "\"Their grant money isn\u2019t just a pot of cash for grad students to do whatever they want with\".\n\nThis.  This is the reality.  It is hard to do even a small project that is not directly under the funding umbrella (and as you know, we can twist that beyond recognition!).\n\nBut an expensive, off topic project with no prelim data?  Nah.",
+                  "author": "Life_time_learner",
+                  "created": 1628400640,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            },
+            "h832ra8": {
+              "link": "/r/AskAcademia/comments/ozwygt/incoming_first_year_phd_student_with_an_idea_for/h832ra8/",
+              "text": "Well one thing you could do is research IP and see if your university has a tech transfer office that's available to talk to you. \n\nOur translation office loves, loves, talking to potential entrepreneurs and helping our scientists develop ideas but not every tech office takes the same approach. They can help you understand what you'll need to do to create something with commercial viability and they may even be able to point to funding you could get. We actually have a translation fund which offers smallish grants to support proof of principle/development of ideas. \n\nThinking about the translation aspects as early as possible, well before you're at the point of wanting to do the commercialisation, is vital. \n\nAs for pitching to PIs, possibly there's a middle ground of establishing how they feel about this kind of work before getting into the details of the project. Some PIs love this stuff and others take a much more traditional view of research and only want to know what papers you're going to produce.\n\nETA you might want to be careful about how much you tell people and share it about. Obviously you don't want someone stealing your idea, but also you need to be careful that you don't effectively publish it and then the university won't be able to get IP protections. Without IP protection you're dead in the water. The legal term is \"prior art\" and you can't patent if there is prior art.",
+              "author": "ACatGod",
+              "created": 1628362528,
+              "upvotes": 2,
+              "replies": {
+                "h86opsq": {
+                  "link": "/r/AskAcademia/comments/ozwygt/incoming_first_year_phd_student_with_an_idea_for/h86opsq/",
+                  "text": "This is great advice. Thank you",
+                  "author": "aventus100",
+                  "created": 1628440996,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h84oh31": {
+      "link": "/r/AskAcademia/comments/ozwygt/incoming_first_year_phd_student_with_an_idea_for/h84oh31/",
+      "text": "I think it's quite possible you would find PI who would let you work on it. As a PI i would consider it. In the grand scheme some single cell is not so much money compared to say 1 year of mousework that leads to inconclusive results! But don't spill the beans during your rotations. Instead more generally get a sense is the PI someone who would be interested inGiving you the freedom to pursue this kind of project?? Generally these are senior PI with good funding.\nOr possibly early stage with a lot of start up $...",
+      "author": "schizontastic",
+      "created": 1628392502,
+      "upvotes": 1,
+      "replies": {
+        "h86p34v": {
+          "link": "/r/AskAcademia/comments/ozwygt/incoming_first_year_phd_student_with_an_idea_for/h86p34v/",
+          "text": "Thanks for the advice. When discussing rotations with PIs I'll try to gauge how open they would be to a technology development pilot project such as this one, without offering too much details.",
+          "author": "aventus100",
+          "created": 1628441167,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

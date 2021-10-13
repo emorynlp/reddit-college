@@ -1,0 +1,30 @@
+{
+  "sid": "pakxup",
+  "link": "/r/AskAcademia/comments/pakxup/overwhelmed_by_undefined_project/",
+  "title:": "Overwhelmed by Undefined Project",
+  "text": "I am at loss. My co-supervisor is not an expert in the proposed project field. For example, he is a chemist and the research field in Bioinformatics. \n\nInitially, at the start of the project, the co-supervisor asked me to collect molecule data from the databases to apply some machine learning models for future drug discovery prediction. But when I started reading I was Overwhelmed and was unable to find the data which would be worthwhile for publishable.\n\nNow I feel I am at loss. Co-supervisor is pushing me without any specific suggestion. I am perfectly proficient in machine learning but unable to find proper data is hampering my research.",
+  "author": "ch1253",
+  "created": 1629802347,
+  "updated": 1634079510,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "ha5aw6z": {
+      "link": "/r/AskAcademia/comments/pakxup/overwhelmed_by_undefined_project/ha5aw6z/",
+      "text": "Get specific with them about what you can't do. Say \"I m having trouble with this specific thing - I can't work out how to work around it. I need guidance\". Give them a specific example if you can. \n\nIf they can't help directly, or work you through the example, they should be arranging training with someone who can.",
+      "author": "OrbitalPete",
+      "created": 1629802561,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "haddlfr": {
+      "link": "/r/AskAcademia/comments/pakxup/overwhelmed_by_undefined_project/haddlfr/",
+      "text": "The unfortunate answer is that you don't have sufficient foundation in the underlying biology/chemistry for this project. You need to understand the biology/chemistry/thermodynamics to have any hope of trying to make something of publicly available data. \n\nYou need to do a deep deep dive into the literature.",
+      "author": "entropyStable",
+      "created": 1629942336,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

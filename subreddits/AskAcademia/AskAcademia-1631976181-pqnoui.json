@@ -1,0 +1,39 @@
+{
+  "sid": "pqnoui",
+  "link": "/r/AskAcademia/comments/pqnoui/is_sciteai_worth_the_money/",
+  "title:": "Is scite.ai worth the money?",
+  "text": "Hi guys, \nI work in the social sciences and have been trying out scite.ai but not sure it\u2019s going to be useful for a non-STEM person him assuming the bulk of their analysed papers will be hard sciences because that is how academia works :_( \n\nCost seems a bit steep and I have no uni budget to buy a sub. What do you think? Invaluable tool for research or wait until it\u2019s more developed/cheaper?",
+  "author": "MotherAccount",
+  "created": 1631976181,
+  "updated": 1634078949,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.5,
+  "comments": {
+    "hdc82nx": {
+      "link": "/r/AskAcademia/comments/pqnoui/is_sciteai_worth_the_money/hdc82nx/",
+      "text": "What scite does is really cool: they classify citations as supportive/contrasting. This has tons of potential uses in systematic reviews, citation evaluations, that sort of thing. Its also a potential boon for Metascience research.\n\nHowever, for an individual researcher, it probably doesn't provide much value. Why would you need to see contrasting/supporting citations? if its just the literature-support tools you are after, why not just use Google Scholar, Microsoft Academic, or if your university has a subscription, the Web of Science or Scopus?",
+      "author": "wise_garden_hermit",
+      "created": 1631977803,
+      "upvotes": 3,
+      "replies": {
+        "hdddqvg": {
+          "link": "/r/AskAcademia/comments/pqnoui/is_sciteai_worth_the_money/hdddqvg/",
+          "text": "That\u2019s the advice I\u2019m after - it\u2019s kinda cool having a plug-in that directs to a webpage that clips the actual paragraph where the cited work is referenced. It saves a bunch of clicks and scanning through papers though. Not sure it\u2019s worth the dosh just for that.",
+          "author": "MotherAccount",
+          "created": 1631995166,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hdpw8h0": {
+      "link": "/r/AskAcademia/comments/pqnoui/is_sciteai_worth_the_money/hdpw8h0/",
+      "text": "Hey!  \nI work at [scite.ai](https://scite.ai) (but not here to try to convince)  \n\n\nWe do have a ton of non-STEM (esp. social sciences, linguistics, etc.) work. I wouldn't say the bulk of our work is STEM, it's relatively evenly distributed within disciplines that publish in journals (some things like Humanities are really book heavy so ya we are missing those sources in a lot of cases).  \n\n\nIf you wanted to DM me, I could maybe see if the problems you are trying to solve are good fits with scite? Because it is kind of as u/wise_garden_hermit said where it really shines is if you need to understand how literature is being received by other authors, how it's been criticised or reproduced etc. Also if the cost is a bit steep and you are unaffiliated with a uni i'd be happy to give you a discount to help you use it.  \n\n\nOne thing we are doing that is new that might help... is we are trying to help people find out how particular things are being talked about when they are cited, like how are methodologies used and stuff like that (ie. [https://scite.ai/search/citations](https://scite.ai/search/citations)) \n\n&#x200B;\n\nhope that helps",
+      "author": "darosati",
+      "created": 1632233053,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "sid": "ptr1p0",
+  "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/",
+  "title:": "When under pressure from the industry, how can I protect myself/coauthors?",
+  "text": "Our group (western Europe) has submitted a review on a device that generates a lot of money (i.e. multibillion $ industry). Our results speak against the use of said device, with low confidence in the evidence presented.\n\nSince the inception of the study, we have been queried multiple times by a VP of the relevant company through email, asking us to share our data (which we refused). Since submission, the VP is asking for a meeting in person and there are rumors of them not being happy about our results (which are BTW still unpublished). We did not respond. In the meantime, the company also reached to our head of dept. to express that they were worried about our work.\n\nThey are obviously treading very carefully so we can't accuse them of exerting pressure on us. But we are worried about the risk of retaliation on publication (i.e. legal action). Our boss told us not to worry and discouraged us from seeking legal advice. Neither the study nor our group are financially supported. How can we protect ourselves? Are there organisms specializing in / providing (free?) researcher protection?",
+  "author": "Raoul314",
+  "created": 1632387062,
+  "updated": 1634078863,
+  "over_18": false,
+  "upvotes": 73,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "hdy5jfa": {
+      "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdy5jfa/",
+      "text": "Write it up and publish it on arxiv or similar repo of your field... you can retract the paper but the first version will forever be memorialized in the repo.\n\nedit: I assume you know you should write the paper in academic term.. that is, you never straight out claiming something like \"Machine A does not do task B\", but rather \"From our experimental data, the finding failed to reject hypothesis of Machine A does not do task B at significance value of xx%\"",
+      "author": "advanced-DnD",
+      "created": 1632393357,
+      "upvotes": 47,
+      "replies": {
+        "hdy7rkb": {
+          "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdy7rkb/",
+          "text": "Major journals in our field do not accept preprint publication, unfortunately :-(",
+          "author": "Raoul314",
+          "created": 1632395058,
+          "upvotes": 5,
+          "replies": {
+            "he0nhqp": {
+              "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he0nhqp/",
+              "text": "Most major medical journals now accept submissions that were previously submitted to bioRxiv or medRxiv.",
+              "author": "dapt",
+              "created": 1632434859,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hdyyflq": {
+      "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdyyflq/",
+      "text": "As long as you are not making any unsubstantiated claims in your paper, you should be personally safe from legal retaliation. Scientists are usually pretty good at this, but be *very* careful with your language. \"Data presented in this paper MAY suggest\", etc. \n\nThey may take action against the university, but I doubt it. I've been through this recently with a multi-billion dollar company, and I actually engaged with the company at every point of the process. This essentially gives the company opportunity in advance of publication to point out potential flaws and criticize the work. At the very least, this allows you to hedge against those weaknesses in your writing.",
+      "author": "redoran",
+      "created": 1632408901,
+      "upvotes": 22,
+      "replies": {
+        "hdzaih3": {
+          "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdzaih3/",
+          "text": "I was also going to say, one of the reasons they may be angry may have to due with not being able to see the data, or even being afforded the courtesy of a response, and then having a paper published about their product.\n\nI would also be extremely careful about alleging anything beyond what has actually happened as OP mentions that the company's \"not being happy\" is a rumor. The only thing I will say with absolute confidence here is to not spread that the company \"may be targeting you\", while IANAL, that is the most dangerous thing I see here (slandering a company without evidence would be a quick ticket to a defamation suit, and regardless of the quality of the study, would likely call it into question as well).",
+          "author": "the_Q_spice",
+          "created": 1632413985,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "hdztfg9": {
+          "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdztfg9/",
+          "text": "I agree with you. Unfortunately, engaging with companies during studies must be disclosed and is viewed as  _very_  suspicious in our field (medicine).",
+          "author": "Raoul314",
+          "created": 1632421746,
+          "upvotes": 3,
+          "replies": {
+            "he00d8k": {
+              "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he00d8k/",
+              "text": "That is totally not true.  Many multi center trials (Womens Health Initiative ) for one was done with a drug company.\n\nI have done tons of studies with reagents and or mice given to me by companies\n\nDislcosing the exact nature of the relationship and how bias was prevented is part of the deal.",
+              "author": "PersephoneIsNotHome",
+              "created": 1632424631,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "he050mg": {
+              "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he050mg/",
+              "text": "It's not clear to me that simply discussing a study with industry merits disclosure. Of course if you are provided anything (i.e. funding, resources, speaking gigs, etc.) then you need to disclose that, however discussion with a company does not necessarily create the appearance of a conflict. \n\nWith that said, I am also in a medical discipline (more or less in the oncology space), so I am aware of the implications of working with industry. Having to disclose something though does not make someone untrustworthy - to the contrary, almost every accomplished investigator has disclosures. I agree with the other poster - disclosing the nature of the relationship is key, as well as removing yourself from any situation where potential bias would impact the science (double blinded study designs, independent reviewers of data/images, regulatory oversight etc.). If a study is strongly susceptible to investigator bias, it probably wasn't a very robust design to begin with.",
+              "author": "redoran",
+              "created": 1632426626,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "hdzqdw9": {
+          "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdzqdw9/",
+          "text": ">  I actually engaged with the company at every point of the process.\n\nThis is a very smart decision. Just realize you're very much outgunned.",
+          "author": "tryatriassic",
+          "created": 1632420485,
+          "upvotes": 1,
+          "replies": {
+            "he03m21": {
+              "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he03m21/",
+              "text": "You aren't outgunned, they have no idea what your data is, they have no information, just because they have a bunch of lawyers means nothing if they have no idea what is or isn't substantiating your claims.",
+              "author": "Psyc5",
+              "created": 1632426002,
+              "upvotes": 1,
+              "replies": {
+                "he05902": {
+                  "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he05902/",
+                  "text": "Oh dear child. It isn't about who has the 'better data', it's about who has the money and lawyers on retainer. Hint: it ain't the academics ...",
+                  "author": "tryatriassic",
+                  "created": 1632426741,
+                  "upvotes": -1,
+                  "replies": {
+                    "he05v2k": {
+                      "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he05v2k/",
+                      "text": "Academics do have lawyers on retainer they work for Universities with lawyer, not on retainer, but hired by them. So it seems it is you who have no idea what you are talking about, not to mention it is very easy to write in a non-exclusive way that makes claims broad, non-specific and non-confirmatory. Like scientists do all the time.\n\nDo you know what the last line of a paper never is \"This has been thoroughly solved and concluded, we never need any more funding for this topic\".",
+                      "author": "Psyc5",
+                      "created": 1632427045,
+                      "upvotes": 3,
+                      "replies": {
+                        "he0fh5v": {
+                          "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he0fh5v/",
+                          "text": "Last time I'll engage: it's not about who'll win a lawsuit, it's about dealing with the stress and cost.",
+                          "author": "tryatriassic",
+                          "created": 1632431341,
+                          "upvotes": -1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hdy9bzd": {
+      "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdy9bzd/",
+      "text": "Does your University have a lawyer?",
+      "author": "soytitties",
+      "created": 1632396168,
+      "upvotes": 9,
+      "replies": {
+        "hdyaebt": {
+          "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdyaebt/",
+          "text": "Yes, but we're not directly affiliated. We're staff at a teaching hospital.\nOur hospital has lawyers, but they won't do anything without support from our boss (who's not an author and doesn't care)",
+          "author": "Raoul314",
+          "created": 1632396890,
+          "upvotes": 9,
+          "replies": {
+            "hdz0r9w": {
+              "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdz0r9w/",
+              "text": "Union maybe?",
+              "author": "soytitties",
+              "created": 1632409882,
+              "upvotes": 6,
+              "replies": {
+                "hdzan72": {
+                  "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdzan72/",
+                  "text": "Good idea! I'll enquire about that.",
+                  "author": "Raoul314",
+                  "created": 1632414037,
+                  "upvotes": 4,
+                  "replies": {}
+                }
+              }
+            },
+            "he00jas": {
+              "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he00jas/",
+              "text": "You will also have an office of research integrity and probably tech transfer or some equivalent name.\n\nThey will both know the ins and outs of this and it will not be their first rodeo",
+              "author": "PersephoneIsNotHome",
+              "created": 1632424703,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "hdzqnaf": {
+              "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdzqnaf/",
+              "text": "So your boss has nothing to lose. He's not gonna get sued, so of course he doesn't care. Zero skin in the game unlike you ...",
+              "author": "tryatriassic",
+              "created": 1632420594,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hdzg3gs": {
+      "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdzg3gs/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1632416261,
+      "upvotes": 5,
+      "replies": {
+        "hdztwof": {
+          "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdztwof/",
+          "text": "Thank you for your input. We plan to release the data after publication. For context, this is not happening out of the blue. Several small studies recently published were negative. But our review would probably have much more impact, so that's the reason for all of this I guess.",
+          "author": "Raoul314",
+          "created": 1632421944,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hdzq6rp": {
+      "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdzq6rp/",
+      "text": "I've dealt with this kind of situation personally - very similar situation. The company *may* decide to sue authors and/or the organization for slander, in which case you will have to deal with it if you like it or not. It's not about winning the lawsuit, but all about putting pressure on you.  \n\nLawsuits are expensive and time consuming, and cause a lot of stress. Now the company will probably not want to be involved in a lawsuit either because it will attract negative attention. You may get a letter from a law firm demanding you withdraw your paper or publish a corrigendum to take out the name of their product / company, *or else*...  \n\n> Our boss told us not to worry and discouraged us from seeking legal advice  \n\nYour boss is an idiot, sorry to say. I'm not sure what the right course of action is, but opening up a line of communication to the company is probably not a bad start.",
+      "author": "tryatriassic",
+      "created": 1632420401,
+      "upvotes": 5,
+      "replies": {
+        "he0mxw3": {
+          "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he0mxw3/",
+          "text": "> The company may decide to sue authors and/or the organization for slander\n\nFor what it's worth, I can't recall any instance of a company sueing an academic group for slander, as in actually taking them to court.\n\nThough on the balance of probabilities, it likely has happened at some point. But it's certainly rare.",
+          "author": "dapt",
+          "created": 1632434609,
+          "upvotes": 1,
+          "replies": {
+            "he316p4": {
+              "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he316p4/",
+              "text": "Probably because threats from a big law firm are all that's needed in the vast majority of cases",
+              "author": "tryatriassic",
+              "created": 1632486825,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "he1a446": {
+      "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he1a446/",
+      "text": "I find the constellation a bit odd... if it's you researching, how does the firm know?\n\nSoooo... Did your lab do the research all by yourselves, or are you somehow contract-bound, or are have you bought the instrument in some kind of service-agreement?\n\nIf it's the first, well, you might publish what you want, but it might be good to talk to your head of dept first. IF the firm will do something in a kind of revenge act, it's likely your whole institution will suffer... that is, if your institution needs the firm for regular supplies or other devices. \nHowever, if you aren't making any wild claims and just present your data, i don't see how a paper would ruin careers of coworkers... i have only heard that of petty academic PIs.\n\nIf still in doubt, ask your coworkers to think about if they want the authorship, or if they'd like to skip this one.\n\nIf it's the latter, you probably just have no way of avoiding to talk with them. If contract-bound, it's their research aswell. They have a right to decide what happens with it, as sad as that may be. If the contract has a clause to make publishing mandatory, you still should meet up with them.\n\nIf you are having some kind of service-agreement, read that first! Word by word. It might be, that parts of the agreement disallow you from publishing some things.",
+      "author": "Das-Oce-a-lot",
+      "created": 1632445438,
+      "upvotes": 2,
+      "replies": {
+        "he1fc96": {
+          "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he1fc96/",
+          "text": "No, we are not contract/agreement-bound in any way and we did everything ourselves. The firm learned about our paper coincidentally through another author that we queried for data. That's why we're completely in the blue right now.",
+          "author": "Raoul314",
+          "created": 1632447925,
+          "upvotes": 1,
+          "replies": {
+            "he1h2ez": {
+              "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he1h2ez/",
+              "text": "I also got now that you do a review, which i think makes things easier.\n\nYou should probably really reach out to the firm, and at least listen to what they have to say. Probably, as others mentioned, they will then point out weak spots in the reviewed papers, which might help you.\n\nHowever, as you don't create new data, and everything is already available, i don't see why they should be really putting pressure on you. It's probably that they are really concerned because they don't know what you need it for.\n\nAfter meeting, you probably know what to do.\n\nElse, about the disclosure... if you disclose meetings with a firm, about whose device you publish negative data, why in the world should that be seen as fishy?\n\nComing from the medical field myself, and first, as you have clinical studies, affiliations and disclosures are really common, and second, as i said, negative data...",
+              "author": "Das-Oce-a-lot",
+              "created": 1632448746,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hdzzy0r": {
+      "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/hdzzy0r/",
+      "text": "You have a legal Dept.\n\nIf you are saying something like \"implanted insulin pumps do not have better blood sugar regulation that 2 x a day testing and manual injection\" then you better had the design , N stats and data to back that up, but you probably don't have a problem.\n\nIf you say AMCE insulin pumps are worse that Zenith insulin pumps that is a really different thing.\n\nHow is the study being conducted without any financial support?",
+      "author": "PersephoneIsNotHome",
+      "created": 1632424452,
+      "upvotes": 1,
+      "replies": {
+        "he068fv": {
+          "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he068fv/",
+          "text": "In the medical field, most researchers are unpaid and investing their own free time to publish. Especially reviews, which are high impact and often not supported financially.\nAs for the legal dept yes of course. Except that we'll have to bypass our boss to get internal counseling, which probably won't go too well for us.",
+          "author": "Raoul314",
+          "created": 1632427229,
+          "upvotes": 1,
+          "replies": {
+            "he097yn": {
+              "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he097yn/",
+              "text": "What country are you in?\n\nAnything you do that is an actually study has to be sanctioned by ethics boards and even meta-analysis that involved human data are subject to that .\n\nA review is not typically high impact in my country.  Even systematic reviews.\n\nYou can go to your office of research or research ethics and to whomever deals with tech transfer etc.\n\nYou research librarian, who does this kind of shit for a living can at least point you to the relevant internal guidelines and standards for whatever kind of review you are doing.\n\nIn the \"medical field\" most people are paid for their clinical duties, but at teaching hospitals also have to have mentoring , teaching service and scholarly activity, and CME.  You don't get paid every time you go to a CME class but it is part of the deal.\n\nIf you are doing a review, I would be very careful. This not a study.  You should at least find out how to do a proper systematic review.",
+              "author": "PersephoneIsNotHome",
+              "created": 1632428641,
+              "upvotes": 3,
+              "replies": {
+                "he0bw7l": {
+                  "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he0bw7l/",
+                  "text": "Ok, thanks for the pointers. Going to the librarian is a good idea. However, the corresponding author is widely considered an expert in systematic review and meta analysis who gets to speak at major events in the field. As for myself, it's not my first rodeo either. It is however the first time we have to interact with a company directly about our research.",
+                  "author": "Raoul314",
+                  "created": 1632429801,
+                  "upvotes": 1,
+                  "replies": {
+                    "he0eeal": {
+                      "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he0eeal/",
+                      "text": "Then your corresponding author is likely to know what they are talking about",
+                      "author": "PersephoneIsNotHome",
+                      "created": 1632430879,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "he3svtd": {
+      "link": "/r/AskAcademia/comments/ptr1p0/when_under_pressure_from_the_industry_how_can_i/he3svtd/",
+      "text": "I've been in a similar situation where a company threatened legal action if we published our research. We wrote a curt letter saying we were confident our research was legal and wished them the best of luck. They never did anything after that. I think the hope was to bully us rather than actually spend money on a lawsuit.",
+      "author": "Radiant-Tax",
+      "created": 1632499208,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

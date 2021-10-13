@@ -1,0 +1,57 @@
+{
+  "sid": "plwm89",
+  "link": "/r/AskAcademia/comments/plwm89/lost_original_copies_of_old_files_am_i_screwed/",
+  "title:": "Lost original copies of old files, am I screwed?",
+  "text": "So I recently moved and the shipping company lost a box with all my old hard drives. I now realize that these had all my raw data for 3 of my publications from a few years ago. I have graduated and moved on but my lab didn't have a central storage for data. Some data may be on miscellaneous computers still around the lab but a lot of it is definitrly lost now. How likely is it that someone contacts me one day asking for raw data files from my old publications? I've never been contacted before but unsure how common that is.  I'm stressed and praying to god that I don't get screwed by this... I had saved my files of multiple drives but they were all shipped together during my move. I know I'm an idiot. :(",
+  "author": "kirkbent22",
+  "created": 1631318260,
+  "updated": 1634079337,
+  "over_18": false,
+  "upvotes": 29,
+  "upvote_ratio": 0.92,
+  "comments": {
+    "hcdlth6": {
+      "link": "/r/AskAcademia/comments/plwm89/lost_original_copies_of_old_files_am_i_screwed/hcdlth6/",
+      "text": "If you didn't do anything fishy...very unlikely. I have never been contacted for raw  data on over 60 papers. Anyways, that's a corresponding author problem. Not yours.",
+      "author": "Chemastery",
+      "created": 1631318905,
+      "upvotes": 32,
+      "replies": {
+        "hcdmo06": {
+          "link": "/r/AskAcademia/comments/plwm89/lost_original_copies_of_old_files_am_i_screwed/hcdmo06/",
+          "text": "Yeah nothing fishy. Just worried because my old lab doesnt keep a central database. Anyways, I guess I just got to hope for the best. I did locate a project file that I saved on a google drive which has the data I used for graphics in two papers, although it isnt the raw data.",
+          "author": "kirkbent22",
+          "created": 1631319329,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "hcdnd40": {
+      "link": "/r/AskAcademia/comments/plwm89/lost_original_copies_of_old_files_am_i_screwed/hcdnd40/",
+      "text": "Are you the PI or just a junior researcher? Either way you're not screwed but as a junior researcher a) you don't own that data and there's an argument you shouldn't even have had it and b) it's the PI's responsibility to ensure they are able to produce the data if needed years later. The fact they don't have proper processes and policies in place and the data isn't stored on a secure, backed up network is 100% on them. \n\nThe only potential issue is if there's identifiable data on research participants on there. In that instance you may well be on the wrong side of both the ethics approval and data protection law depending on your jurisdiction.",
+      "author": "ACatGod",
+      "created": 1631319676,
+      "upvotes": 10,
+      "replies": {
+        "hcdnk2i": {
+          "link": "/r/AskAcademia/comments/plwm89/lost_original_copies_of_old_files_am_i_screwed/hcdnk2i/",
+          "text": "This was during my PhD, I am now a postdoc in a different group. There is no issue with ethics, my work was related to solar cells to no participants.",
+          "author": "kirkbent22",
+          "created": 1631319772,
+          "upvotes": 7,
+          "replies": {
+            "hcdo10w": {
+              "link": "/r/AskAcademia/comments/plwm89/lost_original_copies_of_old_files_am_i_screwed/hcdo10w/",
+              "text": "Marvellous. Forget about it. It's on the PI to ensure they maintain lab records and even in the worst case scenario where the data were needed for an academic misconduct investigation, it would ultimately be the PI copping it for not having maintained proper records. You should never have been able to walk out the door with the only copy (although we all know it happens). You're all good.",
+              "author": "ACatGod",
+              "created": 1631320010,
+              "upvotes": 13,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

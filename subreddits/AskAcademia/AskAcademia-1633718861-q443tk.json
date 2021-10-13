@@ -1,0 +1,39 @@
+{
+  "sid": "q443tk",
+  "link": "/r/AskAcademia/comments/q443tk/is_there_a_way_to_search_pubmed_or_google_scholar/",
+  "title:": "Is there a way to search PubMed or Google Scholar and list only the journal names and number of articles from the search query?",
+  "text": "I'm interested in looking at which journals are publishing certain types of papers. In PubMed I can sort by journal but I can't find a way to collapse all the results down to just see the journals and how many articles were found.",
+  "author": "postdochell",
+  "created": 1633718861,
+  "updated": 1634078594,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hfy2z6r": {
+      "link": "/r/AskAcademia/comments/q443tk/is_there_a_way_to_search_pubmed_or_google_scholar/hfy2z6r/",
+      "text": "Webscraping might help?",
+      "author": "uwrallyx",
+      "created": 1633755446,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hfyve7i": {
+      "link": "/r/AskAcademia/comments/q443tk/is_there_a_way_to_search_pubmed_or_google_scholar/hfyve7i/",
+      "text": "Have you tried the OA web service or any of the other ncbi APIs ?\n\nHere for the OA service: [https://www.ncbi.nlm.nih.gov/pmc/tools/oa-service/](https://www.ncbi.nlm.nih.gov/pmc/tools/oa-service/)\n\nHere for the general resources: [https://www.ncbi.nlm.nih.gov/pmc/tools/developers/](https://www.ncbi.nlm.nih.gov/pmc/tools/developers/)",
+      "author": "domAtOx",
+      "created": 1633776796,
+      "upvotes": 1,
+      "replies": {
+        "hfzgpdd": {
+          "link": "/r/AskAcademia/comments/q443tk/is_there_a_way_to_search_pubmed_or_google_scholar/hfzgpdd/",
+          "text": "I have not I'll give it a try thanks!",
+          "author": "postdochell",
+          "created": 1633789620,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

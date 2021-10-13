@@ -1,0 +1,81 @@
+{
+  "sid": "okver1",
+  "link": "/r/AskAcademia/comments/okver1/thesis_writing_lost_with_no_way_out/",
+  "title:": "Thesis Writing - Lost with no way out",
+  "text": "Hello all, \n\nI'm a second year masters student in Belgium working on my MS thesis (I study development/ecology). Unfortunately my advisor is a busy PhD student who has never held this position before, and is uninterested in helping/unable to help me, leaving me largely alone in this process. I'm in desperate need of advice concerning thesis writing, specifically concerning citations. In my academic career I've written countless papers with countless citations but I'm this finding volume of information is overwhelming. \n\nFor instance......\n\nMy thesis concerns gender. In one chapter, I start with a general discussion of what gender is and move on eventually to the theoretical framework I'm using. When I write, for example, a sentence concerning unequal divisions of labor - something referenced in quite literally every piece of literature I have reviewed - how many authors do I cite? How do I keep track of where all these ideas come from? I've read probably 25 papers for this chapter. \n\nWhen you're writing a literature review, how do you manage to keep up with everything you've read, and how do you manage to properly attribute every idea you include? So many articles I've write include the names of at LEAST three articles after what seems to be every single sentence they write, and I have NO idea how to replicate that. I am totally hitting a wall here and I'm not sure how to move forward. \n\nApologies in advance if my question is unclear, and thank you for your help!",
+  "author": "ScaredMastersStudent",
+  "created": 1626363663,
+  "updated": 1634082533,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "h5boj57": {
+      "link": "/r/AskAcademia/comments/okver1/thesis_writing_lost_with_no_way_out/h5boj57/",
+      "text": "I don\u2019t have much to add except that I find it very strange that you are being advised by someone who doesn\u2019t have a PhD. Is that common where you are?",
+      "author": "Overall_Designer7502",
+      "created": 1626384813,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h5agob2": {
+      "link": "/r/AskAcademia/comments/okver1/thesis_writing_lost_with_no_way_out/h5agob2/",
+      "text": "So a good first rule is that you want to cite, as much as possible, primary sources. That is, you want to cite the study that actually did the work and found the thing, rather than the guy that mentioned that guy that did the work and found the thing,e.g. In some review. \n\nThis may require a wee bit of hunting, you basically click through references until you discover a primary source. But it is good practice.\n\nThis may not always be possible or feasible, but shoot for it as much as possible.\n\nRegarding how many references to put after a statement? If a finding has been replicated in many original studies, you'd be doing it a bit of a disservice to only include one reference. While reading the literature, you will get a general sense of some findings that keep getting repeated and echo throughout it. For these statements, locate the primary sources (people who actually did the work) and cite them. \n\nRead those original studies. Reading the entire paper is not necessarily needed, but abstract, bits of the intro, the figures in the results, and (my favorite cheat sheet) the discussion.\n\nWhat was their methodology? Was the sample big enough to grant enough statistical power? You don't have to address all these questions all of the time, but critically evaluating some aspects of the literature is a great way to write a thesis. Sprinkle a bit of that here and there. \n\nYou may find that the repeated finding is echoed through the literature for a reason, or you may even find that there isn't much original research behind the finding and people just keep citing each other because they don't actually properly read the studies they cite. This sadly can also happen. \n\nRemember, research is about discovering new things! And you will discover some new things while researching for your thesis. You will know how the landscape looks like and be able to discuss it.\n\nAnd finally, just remember, you cannot possibly read everything that has ever been published, ever. You'd need more than one lifetime to do this. I'm sure you have some word count /limit as well. At some point, it will have to end. It won't cover everything because no single piece of work ever does.\n\nHope this helps a bit.",
+      "author": "Chaos_Fractalz",
+      "created": 1626365853,
+      "upvotes": 3,
+      "replies": {
+        "h5apyu7": {
+          "link": "/r/AskAcademia/comments/okver1/thesis_writing_lost_with_no_way_out/h5apyu7/",
+          "text": "> So a good first rule is that you want to cite, as much as possible, primary sources. That is, you want to cite the study that actually did the work and found the thing, rather than the guy that mentioned that guy that did the work and found the thing,e.g. In some review. \n\nThis leads to an important and closely related concept, which is the idea that you want to cite **seminal work** when it comes to a big idea.\n\nSo taking for example the idea of unequal divisions of labor between genders, while a lot of authors have done work on that subject, there are likely a few specific papers that lay the groundwork for most modern understanding, which everyone cites and which all other work on that topic is in some way compared to or against. Those seminal papers are the ones you want to cite when introducing a broad, field-defining idea like this. All of those other papers are the ones you would cite to make *specific* points about that big idea.\n\nNote that this idea of \"seminal\" does not necessarily mean \"most valuable\". Often a seminal paper is the one which first describes a new idea, theory, or observation, even though later work may provide more profound insights. The seminal paper is simply the paper which is most *impactful* on the rest of the field - which is why it will have 100s or 1000s of citations while those \"more valuable\" papers may only have dozens of citations. In this case, you want to cite the seminal paper in proximity to the \"big idea\" so that your reader can follow that citation to the big impact on the field, and work forward from there.\n\n---\n\nThis said, note that in your choice of citation you also get to make some manner of educated judgment as to what other papers might have made a large enough contribution, in your opinion, to be considered also important enough to be cited for the same general idea. For example, you might state the concept of unequal divisions of labor, then cite the seminal paper(s) on the topic and also cite 1-2 papers which are not as widely-cited but are integral as motivation for your own work. By citing those other papers, you are advancing the idea that such papers should also be considered important (if perhaps not seminal, per se) because they provide the direct motivation for your own work, and in your opinion of course your own work is important thus these papers should be as well.\n\nHopefully this helps you narrow down from 25 papers to a more manageable 3-5. Don't worry about citing a lot; focus on citing *well* and making sure any ideas you are citing are relevant to the points you want to make, not just being cited because you feel like you need to write more words about stuff.",
+          "author": "nuclearslurpee",
+          "created": 1626369755,
+          "upvotes": 2,
+          "replies": {
+            "h5ce3kj": {
+              "link": "/r/AskAcademia/comments/okver1/thesis_writing_lost_with_no_way_out/h5ce3kj/",
+              "text": "This was helpful to read. 'Seminal papers' is a very useful term. In a way, I think of them as 'classic'.\n\nIt may seem self evident but at the end of the day, the papers you will choose to cite depend on the point(s) you are trying to make. So I guess it is a good idea to also try and avoid irrelevant papers for the sake of including them, if they add nothing to your overall point. For example, I'm writing a paper about whether a new method is better to identify X in brain networks. I want to start a paragraph that outlines the gap in the research I'm trying to cover, and the narrative will be that there are all these methods, but they're not addressing what mine is addressing. It's unlikely that I would need to start listing a bunch of methods that tried to identify Y instead of X, just for the sake of populating my paper with references. So relevance helps narrow it down.",
+              "author": "Chaos_Fractalz",
+              "created": 1626397548,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5aujnx": {
+      "link": "/r/AskAcademia/comments/okver1/thesis_writing_lost_with_no_way_out/h5aujnx/",
+      "text": "Using reference manager software can help when you have many citations to do. Use references relevant to your argument. A sentence like 'many studies have shown that gender is .. \" needs many citations. A sentence like 'it is possible to extract meaning from text' needs only one example even if more exist. A sentence like 'both pigs and monkeys have tails' could use a reference on monkeys and a reference on pigs, but does not need more. For big ideas, try to find the oldest paper that clearly had it. That's the one to cite, but perhaps also a review paper that talks the latest developments. Counting the number of references for every statement makes no sense. Also, if, for a given statement, you already cite something from lab A, you don't need to add all the other studies from that same lab, but you can add one from another lab, because it is important to know whether findings hold up across labs.",
+      "author": "sclbmared",
+      "created": 1626371683,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h5ck1nx": {
+      "link": "/r/AskAcademia/comments/okver1/thesis_writing_lost_with_no_way_out/h5ck1nx/",
+      "text": "Your advisor is a PhD student? Yikes...",
+      "author": "phenomenologist83",
+      "created": 1626400661,
+      "upvotes": 4,
+      "replies": {
+        "h5g0hal": {
+          "link": "/r/AskAcademia/comments/okver1/thesis_writing_lost_with_no_way_out/h5g0hal/",
+          "text": "so I do a PhD in Belgium, and I am not allowed to be anyone's official thesis advisor, only unofficially. There is always a professor who is your official advisor. Can't you contact them?",
+          "author": "doornroosje",
+          "created": 1626470187,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h5bgelz": {
+      "link": "/r/AskAcademia/comments/okver1/thesis_writing_lost_with_no_way_out/h5bgelz/",
+      "text": "\" When I write, for example, a sentence concerning unequal divisions of labor - something referenced in quite literally every piece of literature I have reviewed - how many authors do I cite? \"\n\nWhat I would do in your place, is to cite two to five authors that are the most cited regarding this theme.\n\n\"how do you manage to keep up with everything you've read, and how do you manage to properly attribute every idea you include?\" Why not underline the idea in the article? You can do it in pdf.",
+      "author": "tarmelinha",
+      "created": 1626381232,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

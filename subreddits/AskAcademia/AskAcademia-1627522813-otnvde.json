@@ -1,0 +1,335 @@
+{
+  "sid": "otnvde",
+  "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/",
+  "title:": "Why don't colleges hire programmers?",
+  "text": "I think that universities could really use a sort of \"floating\" programmer who picks up odd projects from any employee who needs programming assistance. There are a couple of reasons that this position is needed:\n\n1. Academics aren't always good programmers, and they often don't have the time to write quality code. (Full-time programmers don't also publish papers, so why should academics do both?) In college, I was always surprised by the simple programming tasks that PhD scientists couldn't (or wouldn't) do. This can be a serious hindrance for data-heavy research.\n2. Universities already use such \"floating\" programmers, but haphazardly. The go-to programmers are usually:\n   1. CS profs: A couple statisticians once came to my data science prof for help reading a .sav file into R. Seriously. This same CS prof was approached by a hard sciences student who needed a basic Linux command...and the student's prof had sent him.\n   2. CS undergrads: Not a bad idea, but students graduate, and then the project just hangs there. Sure, you can get a whole new team when the old team leaves, but it's inefficient to spend so much time catching up new people instead of making project progress. As an example, an engineering prof at my alma mater was running a small-scale STEM speakers bureau, but she had to quit after a couple years because she lost the CS students who maintained the website.\n   3. Grad students and postdocs: These are usually no better at programming than tenured researchers are, and they certainly don't have more time on their hands!\n\nSo let's hear it straight from the horse's mouth: why don't universities hire \"floating\" programmers?",
+  "author": "nonworkrelatedacct",
+  "created": 1627522813,
+  "updated": 1634082398,
+  "over_18": false,
+  "upvotes": 6,
+  "upvote_ratio": 0.8,
+  "comments": {
+    "h6wm8zy": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6wm8zy/",
+      "text": "Most universities refuse to hire tenure track faculty and instead use adjuncts. Why would those same universities hire a permanent programmer when then can just contract as needed? Cut costs where they can and avoid permanent spending line.",
+      "author": "Impossible_Breakfast",
+      "created": 1627523378,
+      "upvotes": 31,
+      "replies": {
+        "h6y1367": {
+          "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6y1367/",
+          "text": "Can I ask about your first sentence there?  I know it\u2019s just a leading to your discussion of hiring programmers, but it sparked a question.  \n\nI\u2019m not challenging the growth trend for using contingent faculty, but I wasn\u2019t aware the most universities were refusing tenure hires.  Is this something that\u2019s been documented by the Chronicle or somewhere?  And by \u201cmost\u201d are we just talking a smidge over 50% or is it a lot higher than that?\n\nI ask because this isn\u2019t true among our peers (because we\u2019re continuing to deal with retention cases), and our PhD graduates and postdocs are getting tenure track jobs.  But that\u2019s just one slice of higher ed and I don\u2019t really have my pulse on hiring across the sector.  I just realized I may be really out of touch.\n\nI\u2019m not being combative, I\u2019m genuinely interested in knowing the source/former numbers on this.",
+          "author": "FeatofClay",
+          "created": 1627558910,
+          "upvotes": 4,
+          "replies": {
+            "h6y58ih": {
+              "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6y58ih/",
+              "text": "I'm not OP but I'll hop in. I'm assuming the person who made the comment is from the US, where academia is 100000x worse (hyperbole) than anywhere else in the world right now when it comes to supply and demand, job security and availability, work-life balance, etc. I'm sure there are well documented statistics about declining numbers of TT positions in the US but it's not representative of the whole world imo. Even in Canada we're hiring tons of permanent positions and it's not shrinking. But to say we'll all end up like the US in the coming years when it comes to academia is unfortunately probably not a very unrealistic prediction due to just overall trends (amount of people with PhD's increasing and stuff like that).",
+              "author": "fireguyV2",
+              "created": 1627561483,
+              "upvotes": 5,
+              "replies": {
+                "h6y6aqf": {
+                  "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6y6aqf/",
+                  "text": "Oh, you know, I was making the assumption that the comment was referring to the United States. Which was a little narrow-minded on my part.  I guess I should clarify: my perception is that a refusal to hire tenure-track faculty is not an attribute shared by most universities in the US, But my window on US higher education is it comprehensive.   Whether the original poster was citing data from the United States or from some different set of institutions, I\u2019d appreciate them sharing the cite or source So I can address this gap and my own understanding of current hiring.  \n\nIt also occurs to me that perhaps OP was referring to hiring freezes adopted by so many institutions during pandemic, but at my institution that applied to all positions, not just tenure track.",
+                  "author": "FeatofClay",
+                  "created": 1627562087,
+                  "upvotes": 3,
+                  "replies": {}
+                },
+                "h6y6jas": {
+                  "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6y6jas/",
+                  "text": "Yep, I am from the US, and I would agree that we aren't representative of the world as a whole. I can't speak for all universities, but a the few that I've worked at in the past ten years have been highly dependent on contract/adjunct-based positions to teach classes and are more than willing to let tenure track lines die off if someone retires or leaves the university. When I moved universities my tenure track line at my initial institution decided to terminate the position and opted to hire some adjuncts to cover the classes I was teaching there. At my new institution we've had a few retirements and instead of filling those positions let them die off as well. All of these decisions were budgetary based and part of larger trend in academia in the US where financial concerns make contingent faculty appealing. Tenure is also a secondary reason for contingent faculty. The overall number of contingent faculty vary by institution type and even department. \n\nAnd here are some links to a couple of stories that talk about the overall trend:\n\n[https://tomprof.stanford.edu/posting/951](https://tomprof.stanford.edu/posting/951)\n\n[https://insidescholar.org/the-rise-of-adjunct-faculty/](https://insidescholar.org/the-rise-of-adjunct-faculty/)",
+                  "author": "Impossible_Breakfast",
+                  "created": 1627562221,
+                  "upvotes": 4,
+                  "replies": {}
+                },
+                "h711zey": {
+                  "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h711zey/",
+                  "text": "I'm not in academia not do I have a graduate degree, but even as an undergrad I could see an obvious source for the US's academic job market saturation and inhuman working conditions. Quite simply, American culture unnecessarily romanticizes higher ed. Why is our student debt crisis so bad? Because students are *willing* to pay $100,000+ for a degree. More and more, degrees are becoming \"expensive pieces of paper.\" Students care way more about grades and credentials than they do about learning. In addition to budget constraints, another reason universities prefer adjuncts over TT is that in this market, universities can sell prepackaged course material (the adjunct has little to no input, and the pay is not enough to incentivize improvement to this system), usually online, that the student could easily find for free on the Internet. But we don't realize this because we measure ourselves by our academic \"achievements.\" (I put that in quotes because, is it really an achievement to learn a field \"for the exam\" only to promptly forget it before graduation day?) How do we value a degree more than good, honest, hard-working self-teaching?\n\nAnyway, there's your daily dose of pessimism. :) Rant over.",
+                  "author": "nonworkrelatedacct",
+                  "created": 1627607682,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h6wuovg": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6wuovg/",
+      "text": "These positions already exist. I have worked with people whose role is exactly what you describe at two different institutions. Usually the title is something like research software engineer.",
+      "author": "dinvgamma",
+      "created": 1627527585,
+      "upvotes": 17,
+      "replies": {
+        "h6xgw89": {
+          "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6xgw89/",
+          "text": "Yep, and there's even a [Society of Research Software Engineering](https://society-rse.org/) to promote and support this career path.",
+          "author": "polyphonal",
+          "created": 1627542147,
+          "upvotes": 8,
+          "replies": {}
+        }
+      }
+    },
+    "h6wm2e6": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6wm2e6/",
+      "text": "Money? Depending upon the budgetary structure of the campus, you\u2019d have to consider who would pay for the position.",
+      "author": "profpetitfours",
+      "created": 1627523289,
+      "upvotes": 14,
+      "replies": {
+        "h712d0i": {
+          "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h712d0i/",
+          "text": "Yeah, that makes sense. And since each research project is funded separately, paying the programmer's salary would be a logistical nightmare. \n\nIf the college somehow managed to scrap together enough money from other sources, though, surely that wouldn't break any \"rules\" regarding how research is funded? It'd just be partially self-funded research in that case, and universities do that all the time.",
+          "author": "nonworkrelatedacct",
+          "created": 1627607862,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h6x4d9z": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6x4d9z/",
+      "text": "Who's paying for it? I definitely agree that it's a very beneficial idea, but the current funding schemes in academia don't support that well. \n\nI know a decent number of academic software engineers. They're explicitly *not* floating; they are hired by a lab out of that lab's grant funding. \n\nTo spin this out further---even under current funding schemes, funding to make sure that previously published code stays up to date just isn't there.",
+      "author": "aggressive-teaspoon",
+      "created": 1627533087,
+      "upvotes": 7,
+      "replies": {
+        "h713kyx": {
+          "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h713kyx/",
+          "text": "So what happens when the project for which the programmer was hired, ends? Are the programmers usually contractors for this reason?",
+          "author": "nonworkrelatedacct",
+          "created": 1627608434,
+          "upvotes": 1,
+          "replies": {
+            "h727doe": {
+              "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h727doe/",
+              "text": "fixed term contract (not sure what the US term for this is), we have funding for x years, your contract is therefore for x years",
+              "author": "IntLawprof",
+              "created": 1627633553,
+              "upvotes": 2,
+              "replies": {
+                "h72ueap": {
+                  "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h72ueap/",
+                  "text": "The US term for this is the same. :)",
+                  "author": "nonworkrelatedacct",
+                  "created": 1627650472,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "h714svr": {
+              "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h714svr/",
+              "text": "Not sure; I've not been at any one institution long enough to really follow up. That said, I imagine several could be shifted to other projects since those kinds of labs tend to have multiple large project running simultaneously and the programmer's salary is frequently getting funded piecemeal across several grants at any given point. \n\nAlso, I will say that most academic programmers I know were not looking to stay in that kind of position forever. Many used it to help transition from traditional SWE to academic research or vice versa.",
+              "author": "aggressive-teaspoon",
+              "created": 1627609011,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h6xdfud": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6xdfud/",
+      "text": "Actually, in Sweden, we do hire professional programmers and call them *research engineers*. Last year, I hired someone who with 10+ years of industry experience to work on a project. After the project ends, I plan to keep him around. Some of our biggest labs even have multiple permanent 'in-house' programmers (with difference expertises) to help researchers with their projects.\n\nIn the UK, at least the two CS departments I was in also hired 'programmers.' Their title. Last year, I hired someone who with 10+ years of industry experience to work on a project. After the project ends, I plan to keep him around. Some of our biggest labs even have multiple permanent 'in-house' programmers (with different expertise) to help researchers with their projects spend less time programming implementations (or learning how-to) and more time doing fundamental research. In the UK, their role was much more limited to either non-research work (e.g. making a website for a project, a tool needed for teaching) or heavily specialised technical work but never in between.",
+      "author": "RecklessCoding",
+      "created": 1627539387,
+      "upvotes": 8,
+      "replies": {
+        "h713v9o": {
+          "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h713v9o/",
+          "text": "That's really interesting. So you've seen research engineers in both national labs and at universities? And what differentiated the \"non-research\" programmers from the \"heavily specialized technical\" ones - their education level? Or did they just kind of \"fall into\" one role or the other?",
+          "author": "nonworkrelatedacct",
+          "created": 1627608571,
+          "upvotes": 1,
+          "replies": {
+            "h7b03s4": {
+              "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h7b03s4/",
+              "text": "Yes.\n\nI would say it kind of fall into one role or the other, but prior experience helps. People who end up being technical directors in animation labs or game developers, they have prior industrial experience in similar roles as you need someone to be able to support and not hinder you.",
+              "author": "RecklessCoding",
+              "created": 1627819617,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h6xjdzs": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6xjdzs/",
+      "text": "Some do. We have a programmer on our team but it's essentially a CS postdoc, and I suspect that's the root of rhe problem, what good programmer wants to work for a postdoc salary? Also given budget constraints it's important that our STEM phds at least learn workable programming skills.\n\nIf we really need it we contract out.\n\nI suspect many PIs wouldn't be keen on a 'floating' programmer, if we need something done, we need it done, we can't take a ticket and wait for the floater to have time to deal with it, this is why the PI on the STEM project I work on pays for a dedicated IT staffer for our project.",
+      "author": "IntLawprof",
+      "created": 1627544268,
+      "upvotes": 6,
+      "replies": {
+        "h7141q0": {
+          "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h7141q0/",
+          "text": "Good point about project urgency! The per-project hiring definitely favors consultants rather than FT.",
+          "author": "nonworkrelatedacct",
+          "created": 1627608651,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h72utrv": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h72utrv/",
+      "text": ">Academics aren't always good programmers, and they often don't have the time to write quality code.\n\nYou're under a weird assumption that we can't code sufficiently ourselves. We can.\n\nSure, it's not \"quality\" code, but it's perfectly functional.\n\nNot to mention, if I'm in a genuine situation where I need a high-quality high-fidelity code, I'll buy one of the industry-standard software packages instead.\n\n>So let's hear it straight from the horse's mouth: why don't universities hire \"floating\" programmers?\n\nBecause it's significantly easier to teach grad students how to bang out a functioning code than it is to teach programmers how to recognize what the data is saying. Floating programmers don't fundamentally understand the physics at work; they understand the *math*, but they take it for granted that the mathematical models they're building into the code are correct, and they don't have the wherewithal to know when those models are being pushed too far afield of their core assumptions.",
+      "author": "r3dl3g",
+      "created": 1627650699,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h7b3rli": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h7b3rli/",
+      "text": "I'm a research programmer in a university. I replaced another research programmer because he got sent off to the IDF.\n\nI don't even have a CS background, I'm a Physics MSc graduate who just happens to really like programming.",
+      "author": "vardonir",
+      "created": 1627822167,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h6wuey0": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6wuey0/",
+      "text": "The real reason is that grants treat programmers like they have 1980s salaries. Funders don\u2019t pay enough for universities to hire competent programmers, so we\u2019re at the equilibrium you identified.",
+      "author": "nevernotdating",
+      "created": 1627527439,
+      "upvotes": 7,
+      "replies": {
+        "h6wx4pv": {
+          "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6wx4pv/",
+          "text": "Because someone in a non-CS field rarely needs someone with state-of-the-art skills. For example, I work with data science in environmental engineering which is decades behind current CS teachings.\n\nThe definition of 'quality' code here varies... Performant in so far as operability or efficiency? Novelty in so far as the application or computer science?",
+          "author": "imaginekat29",
+          "created": 1627528888,
+          "upvotes": 6,
+          "replies": {
+            "h6x0mdm": {
+              "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6x0mdm/",
+              "text": "At this point, with a white hot data science and software engineering markets, I\u2019d say it\u2019s hard to find and keep even competent programmers.\n\nThey aren\u2019t like students or RAs who care about your field. Most will just move on to the best paying job.",
+              "author": "nevernotdating",
+              "created": 1627530844,
+              "upvotes": 8,
+              "replies": {
+                "h714uoz": {
+                  "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h714uoz/",
+                  "text": "True, most businesses even have a hard time keeping SWEs and data scientists. A lot of people do enter these fields just for the money, but in my experience, they burn out quickly. Maybe a research software engineering role, as u/dinvgamma and u/polyphonal reference, is better for an \"academically inclined programmer\" than for your stereotypical SWE. In my experience, a lot of SWEs (and certainly most CS undergrads\u2014I have a CS degree) are absolute tech whizzes (I mean IT, not CS) but not so great at other academic subjects (math, hard sciences, spelling and grammar, writing, etc.).",
+                  "author": "nonworkrelatedacct",
+                  "created": 1627609036,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "h714ar7": {
+              "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h714ar7/",
+              "text": "So, do you just not following software engineering best practices like version control and automated testing?",
+              "author": "nonworkrelatedacct",
+              "created": 1627608770,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "h6yt3z2": {
+          "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6yt3z2/",
+          "text": "This is a real problem. When I was doing my PhD, I was at a university with a center in my discipline (biostats). They hired a couple \"floating\" programmers to help pitch in with research projects, sketch out pipelines, help grad students figure out what training they needed. Retaining them was really hard. I think during my PhD, they entire staffing turned over twice. To pay the kinds of salaries needed for retention will rival full prof salaries, and that just won't fly. \n\nThis university also had a major high-performance cluster computer, and being funded separately, they've had more success paying and retaining consultants.",
+          "author": "StorageRecess",
+          "created": 1627572790,
+          "upvotes": 3,
+          "replies": {
+            "h71530l": {
+              "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h71530l/",
+              "text": "You'd think, with such ballooning tuition rates (and administrative salaries!), it wouldn't be so difficult to pay a little more for what's supposed to be the core mission of a university\u2014research.",
+              "author": "nonworkrelatedacct",
+              "created": 1627609146,
+              "upvotes": 2,
+              "replies": {
+                "h718mpw": {
+                  "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h718mpw/",
+                  "text": "Oh good god, I can\u2019t even get authorizations to spend my own grant money for things without hours of paperwork. And without spending it, they don\u2019t get overhead. This \u201crun it like a business\u201d mentality ruins even free money for higher ed.",
+                  "author": "StorageRecess",
+                  "created": 1627610862,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "h714791": {
+          "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h714791/",
+          "text": "This is why the saturation in the academic job market baffles me: the pay is absolute crap.",
+          "author": "nonworkrelatedacct",
+          "created": 1627608724,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h6y2z7i": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6y2z7i/",
+      "text": "It's fairly common with big grants to hire developers as a line item in the budget. The easiest grants for this are often from government initiatives to commercialize basic research. Essentially, you do the research and the grant pays for developers to make a proof of concept tool/software based on your work. The end goal is to spin-out and build an impact story / IP revenue stream for the university but commercial success is essentially never a requirement dumped on the researchers. If you're not bad at pitching research, it's a decent way to just build tooling for your work.",
+      "author": "Radiant-Tax",
+      "created": 1627560111,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h6xhg86": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6xhg86/",
+      "text": "It is a great idea for universities to hire professional programmers, but they won\u2019t. The reason is they have limited budgets and doing quality work is not a priority to university administrators. When they hire somebody they are not interested in the quality of that person\u2019s scholarship but in how much measurable prestige (e.g. glamour journal publications) and third party funding that person will bring in. Good research practices do not help with what university administrations care about so they have no reason to want to hire programmers.",
+      "author": "CaptainCornerCamper",
+      "created": 1627542616,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h6y0f16": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h6y0f16/",
+      "text": "I agree it\u2019s likely a money thing. I work at a public institution, and there\u2019s a lot of scrutiny on what we\u2019re spending on administration. Adding positions at the central level is something we\u2019re really reluctant to do, unless it\u2019s absolutely required such as for compliance. And there\u2019s been a lot of those lately so even useful positions would make us more effective and efficient become \u201cnice to have, but no.\u201d\n\nIt\u2019s a programmer\u2019s aim was to help researchers, I don\u2019t know if it\u2019s a hassle/allowable to pay for a part of a floating programmer\u2019s time from sponsored research grants.  That\u2019s not really my area.",
+      "author": "FeatofClay",
+      "created": 1627558466,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h739kpd": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h739kpd/",
+      "text": "We have one in our research group, job title \"research engineer\". But it's a struggle every year to find the money to cover his salary. He does some teaching, but only 10% of his time - so he can do the programming! - so we can only pay 10% of his salary from tuition. The kind of work he does is not the kind of work that you can get a research grant to fund, so instead the resr of us have to put his salary together by putting 5% of his time on one research grant, 10% of his time on another. Still, I wouldn't expect his job to be safe if financial times get hard in the future.",
+      "author": "radams78",
+      "created": 1627657615,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h7bj6fm": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h7bj6fm/",
+      "text": "It would be nice to have a floating programmer around to do things but most of my professors at my grad school work at big companies and are extremely competent programmers. The also look over clubs and since most work full time or did work full time in industry they also help with coding competitions and etc. I may be biased because I\u2019m in the CS department but I feel this assumption that professors can\u2019t code isn\u2019t true. \n\nI also disagree with point one. As a CS graduate student I can guarantee that I\u2019ve never met a cohort mate who couldn\u2019t program and passed their classes. Maybe the reason the people you asked couldn\u2019t program was because they aren\u2019t CS specific PhDs who focused in something like software engineering? What did you ask them to program?",
+      "author": "lilgamergrlie",
+      "created": 1627830298,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h7014a5": {
+      "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h7014a5/",
+      "text": "Yes, I would love to have someone like that. But we don't have money for a position like that. We can't offer salaries that are competitive with tech companies.",
+      "author": "fwafwa",
+      "created": 1627590928,
+      "upvotes": 1,
+      "replies": {
+        "h715jaw": {
+          "link": "/r/AskAcademia/comments/otnvde/why_dont_colleges_hire_programmers/h715jaw/",
+          "text": "And I think I would love to *be* someone like that. My current job is somewhat similar, but the pay <$17/hr (low COL area, but still). It's frustrating to love what you do but make a Walmart salary for it. :(",
+          "author": "nonworkrelatedacct",
+          "created": 1627609365,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

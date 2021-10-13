@@ -1,0 +1,66 @@
+{
+  "sid": "p10kxw",
+  "link": "/r/AskAcademia/comments/p10kxw/qualitative_research_experience/",
+  "title:": "Qualitative research experience",
+  "text": "I\u2019m a BSc Psychology graduate set to begin a MSc cog neuro by research this October. This will provide experience in advanced quantitative analysis training as well as using EEG programming and software. However, I would also like to improve and build on qualitative research skills. Any advice on how I might be able to?",
+  "author": "LunaSpaceGirl",
+  "created": 1628512545,
+  "updated": 1634079956,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h8aiky9": {
+      "link": "/r/AskAcademia/comments/p10kxw/qualitative_research_experience/h8aiky9/",
+      "text": "Hi there , I'm a fellow BSc graduate in Psychology and have worked on a bunch of qualitative research projects (both with children and adults). I'm also going for a more quantitative master's with quite a bit of cognitive neuroscience courses.\n\nFirst of all, my question to you would be: What exactly do you want to build the qualitative research skills for? Are you expecting to conduct mixed methods research in the future and that this content will not be covered in your further studies?\n\nIn my experience, it is much harder (if not impossible) to \"learn\" qualitative research on your own. This is mostly because a very large part of it is talking to and working with the people you're collecting the data on. Thus, it would be best if you could participate in an ongoing qualitative project at your university, even if it's just transcribing the interviews or group discussions without participating in the \"field phase\" yourself. However, as I have gone through this experience (missing the \"field phase\"), I have to warn you that this will most likely come with a feeling of \"detachment\" from the data, and this makes it considerably harder to really do the interpretation/analysis work. Ideally, you'd at least have video or audio to give you a broader picture of the interviewees. I suppose one thing you can do on your own is familiarizing yourself with the [MAXQDA software](https://www.maxqda.com/), which is the most widely used for qualitative data, afaik.\n\nMaybe you can find decent open source data online, which you could then analyze with MAXQDA. Typically, you would do \"text coding\" (i.e., structuring what was said into different topic categories which help answer your research question/s), and then there's various options for evaluation and interpretation: Word clouds, tables, and quotes would be the most common ones. Check out the correspoding MAXQDA website, their tutorials are quite good.\n\nHope that helped a bit. I'm happy to answer any further questions :)",
+      "author": "bartimaeus122",
+      "created": 1628520634,
+      "upvotes": 3,
+      "replies": {
+        "h8aswsz": {
+          "link": "/r/AskAcademia/comments/p10kxw/qualitative_research_experience/h8aswsz/",
+          "text": "Hi, thank you so much for your reply - it\u2019s pretty much covered all that I was inquiring about. I\u2019m more so interested as my postgrad won\u2019t cover it and I\u2019d like to pursue a mixed-methods approach in the future. I will take your advice and ask to participate in qualitative projects at my uni. I will also have a look at the MAXQDA software you have mentioned. Thanks again :)",
+          "author": "LunaSpaceGirl",
+          "created": 1628525160,
+          "upvotes": 2,
+          "replies": {
+            "h8avu2k": {
+              "link": "/r/AskAcademia/comments/p10kxw/qualitative_research_experience/h8avu2k/",
+              "text": "You're welcome, and best of luck with your studies/projects :)",
+              "author": "bartimaeus122",
+              "created": 1628526415,
+              "upvotes": 2,
+              "replies": {
+                "h8azelu": {
+                  "link": "/r/AskAcademia/comments/p10kxw/qualitative_research_experience/h8azelu/",
+                  "text": "Same to you!",
+                  "author": "LunaSpaceGirl",
+                  "created": 1628527930,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h8ay8qj": {
+      "link": "/r/AskAcademia/comments/p10kxw/qualitative_research_experience/h8ay8qj/",
+      "text": "Hi there! I'm a primarily qualitative researcher, so let me try to help you out.\n\nThere's many different forms of qualitative research, so it depends. If you're in the US, I know CQR texts (any of them really) by Clara Hill and/or Sarah Knox are super helpful. The UK focuses a lot more on abstract qual. research - think narrative frameworks, heuristic inquiry, autoethnography, grounded theory, etc.\n\nTry to narrow down where you would be using these qual research skills, what kind of projects are you looking for, if it's purely qual in nature or mixed-methods?\n\nJoin in any qualitative research project to get a hands-on feel: unlike quant work, qualitative structures are much harder to truly grasp unless you actually do it. Help with interview transcription, just sit in through the data analysis process\n\nMAXQDA is great.\n\nMoreover, practice reading and critical evaluation of texts: qual research highlights a rich contextual experience, so read as much as you can, reflect on your own biases/opinions around the texts, understand how to pick and  thread themes, how to connect data points, and connect it to literature. \n\nHope this helps, and good luck!",
+      "author": "casualtherapist",
+      "created": 1628527434,
+      "upvotes": 4,
+      "replies": {
+        "h8b1f1d": {
+          "link": "/r/AskAcademia/comments/p10kxw/qualitative_research_experience/h8b1f1d/",
+          "text": "Hi, really appreciate your reply. I think the common theme is to just get into a qual research group and learn from experience like you\u2019ve said so yourself. I\u2019m in the UK and from my undergraduate I\u2019m more so familiar with grounded theory and interpretative phenomenological analysis. Your last paragraph is really good advice which I\u2019ll definitely take into account, thank you!",
+          "author": "LunaSpaceGirl",
+          "created": 1628528777,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

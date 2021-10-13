@@ -1,0 +1,64 @@
+{
+  "sid": "djx48m",
+  "link": "/r/Emory/comments/djx48m/emory_unplugged/",
+  "title:": "Emory Unplugged",
+  "text": "It\u2019s quite disappointing that my first post on this subreddit is a criticism. The WiFi this semester is absolutely atrocious, and is as sluggish as a sloth on antihistamines. Additionally, the Ethernet option is disabled, though it could potentially deal with signal strength issues. I don\u2019t know if the issue is Emory throttling internet speeds either, or if it may have something to do with bandwidth. In stark contrast, the much more populated Georgia Tech enjoys internet speeds just shy of 1 Gbps on Ethernet.\nFor me, the problem manifests not only as high gaming latency and video streaming at 360p, but also leads to premature terminations of timed online canvas assessments. More frequently, even if the internet connection seems to be mediocre the connection becomes unstable, resulting in a huge fluctuating range of broadband speeds.\nPlease share if you have been facing similar problems, and I\u2019m sure it would be possible to resolve this predicament with combined student efforts.\n\nYours truly,\n\nA very agitated sophomore.",
+  "author": "RetromarSXV",
+  "created": 1571448410,
+  "updated": 1634098727,
+  "over_18": false,
+  "upvotes": 20,
+  "upvote_ratio": 0.92,
+  "comments": {
+    "f4bcrrb": {
+      "link": "/r/Emory/comments/djx48m/emory_unplugged/f4bcrrb/",
+      "text": "Does anyone have an explanation why connecting to EmoryUnplugged is such a pain? I'm taking about the \"connect-disconnect-connect-disconnect-connect (finally)\" issue",
+      "author": "phraps",
+      "created": 1571510443,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "f48uyh4": {
+      "link": "/r/Emory/comments/djx48m/emory_unplugged/f48uyh4/",
+      "text": "Emory 'better to use the ethernet plug' has always been a problem, but let us not be uppity and expect internet to compare well to Tech lol.  It's Tech...would be a damned shame if their infrastructure didn't shine in areas they specialized in academically.  Getting even half way decent compared to them may involve simply inviting a CS major friend from there to fix Emory's life.",
+      "author": "oldeaglenewute2022",
+      "created": 1571449620,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "f48w6x4": {
+      "link": "/r/Emory/comments/djx48m/emory_unplugged/f48w6x4/",
+      "text": "Just checking: Does this happen everywhere? ResHall \\*and\\* campus buildings like WML or Cox? Have you reported this via the ticketing system? Have you gone by the STS to talk to someone?\n\nSome bits of info I don't know how to present to you other than in this manner:\n\n* If I understand current events properly, it is possible there is a wireless upgrade going on in certain places, replacing many of the APs to get 802.11a\\[\\] out there. Hopefully the APs near you get replaced soon and that helps you out a bit.\n* If this is recent, there was a network wide problem resulting in a Major Incident around Wednesday. I assume since you are posting today, that this is still an issue for you. But heads up that things have been been working sub-optimally lately.\n* Ethernet is not an option because the physical hardware that would connect to those wires was removed from the buildings about 6 or 7 years ago. That was when 802.11n got rolled out if memory serves. Some of the newer buildings don't even have the ports in the walls.\n\nIf you truly are having issues with things like 360p video, then I would encourage you to reach out for someone to help you troubleshoot your problem. Personally, I stream 1080p video over wireless with great effect. (well, minus a particular error that I know is a hardware issue for me that I'm just stubbornly ignoring.)\n\nIn addition, I would double check the Canvas timeouts are because of network problems versus a security policy that automatically signs you out of Canvas after a certain amount of idle time. The system doesn't necessarily recognize active typing as activity, but page refreshes. That is technically a different issue than something network related. Not being dismissive, just covering my bases to help you have as much info as possible when you report a problem.\n\nHope something from all that helps.",
+      "author": "EmoryTechLab",
+      "created": 1571450616,
+      "upvotes": 7,
+      "replies": {
+        "f48yvhs": {
+          "link": "/r/Emory/comments/djx48m/emory_unplugged/f48yvhs/",
+          "text": "So the problems persist in various buildings not limited to ResHalls, such as Atwood, Callaway, and the PAIS buildings. And as for canvas, the page gets reloaded when disconnecting from and subsequently reconnecting to the network. Normally I get a dialog box which says that all changes not saved will be lost, but during these connection issues the dialog box is bypassed. \n\nAdditionally, there seems to be less of a problem on Apple devices than Windows, as my windows computer takes multiple attempts to even connect to Emory Unplugged, but my iPhone connects quite easily, though the internet speed is still quite sub-optimal. Once connected, I don\u2019t reach download speeds of even 2 Mbps normally, and 5 Mbps on \u201cbest\u201d days. I can\u2019t sustain 1080p for more than 2 seconds before the video buffers.\n\nI had issued a ticket through housing operations once previously, but received no response.\nI will make an effort to reach out to STS. Are there any user sided troubleshooting techniques that you may know of?\n\nAnd I welcome all suggestions, even if they may be dismissive.",
+          "author": "RetromarSXV",
+          "created": 1571452744,
+          "upvotes": 5,
+          "replies": {
+            "f4l9do9": {
+              "link": "/r/Emory/comments/djx48m/emory_unplugged/f4l9do9/",
+              "text": "Ticket through Housing is not the way to go for technical problems. They are more for issues like holes in walls, leaking pipes, etc. \n\nFor any technology related issues, visiting the STS or calling the Service Desk at 404-727-7777 is the needed process to report something. (However, calling the Service Desk with something like this will most likely get you sent to the STS.)\n\nI've been out of computer support for a while and am not as familiar with the network as I used to be. But things I would verify in general:\n\n* Restart the computer completely. Not just sleep. (As silly as it might sound, this used to legitimately solve things for MacOS users. Folks used to restart their computer only once a month or longer.)\n* Apply any system updates\n* Check for wireless adapter driver updates\n* Verify connection in both academic and residential areas since they are technically different networks. (You've done this it sounds like. But if anything in this list changes, I'd test again to be certain.)\n* I'd check the Wireless Adapter Settings, like Power:\n\n **Wi-Fi Power Settings (Windows 10)**\n\n1. Right-click Start.\n2. Click **Power** Options.\n3. Click Additional **Power** Options on the right.\n4. Click Change Plan Options on the currently selected **power** plan.\n5. Click Change Advanced **Power Settings**.\n6. Click **Wireless Adapter Settings**.\n7. Under \u201c**Power** Saving Mode\u201d change \u201c**Setting**\u201d to Maximum Performance on both \u201cOn battery\u201d and \u201cPlugged in\u201d\n\nThen I would visit the STS to see if they have heard of any ongoing issues that might be relevant to your  particular situation.",
+              "author": "EmoryTechLab",
+              "created": 1571664128,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "f4ay6xb": {
+      "link": "/r/Emory/comments/djx48m/emory_unplugged/f4ay6xb/",
+      "text": "I\u2019ve never had internet issues. In my dorm I get almost 100 up down. And in the library and even out on the quad my slowdown is not noticeable at all. Maybe it\u2019s my WiFi card but the WiFi here has literally been as good as my internet back home\n\nEdit: the windows connecting issue is a thing, I think it\u2019s the nature of the security software they have. But after that it\u2019s lightning fast on my windows laptop",
+      "author": "SupahWalrus",
+      "created": 1571503510,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

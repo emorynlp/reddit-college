@@ -1,0 +1,30 @@
+{
+  "sid": "q6rof5",
+  "link": "/r/ApplyingToCollege/comments/q6rof5/data_science_economics/",
+  "title:": "Data science + economics",
+  "text": "Hello everyone,\n\nI am about to start college next year and I hoped to hear some advices on what course should I choose. My two main interests are data science and economy. I'd say I have strong background in maths and programming and I have also done some data science projects over the last year or so. As for economics, I have only recently begun showing interest towards it, but I am really enjoying it (we don't study it at school). My initial plan was to combine these two, studying one as an undergraduate, and then the other on masters. To my understanding, much more common path is DS\u2192Econ, but I was wondering if vice versa was also possible and recommended because there are better options for Econ than DS for undegraduate studies in my country. Thanks",
+  "author": "Jarkela",
+  "created": 1634060946,
+  "updated": 1634072725,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hgdq5rq": {
+      "link": "/r/ApplyingToCollege/comments/q6rof5/data_science_economics/hgdq5rq/",
+      "text": "Study statistics or operations research. It is easier to apply those to economics than to go the other way; and, most economists will say the stats is the hardest part of their coursework.  Furthermore, both areas are used heavily in economics, have significant overlap, and underlie most of data science. (Much of \"data science\" is just rebranding stats/OR methodology.)\n\nAdd in some coding in R and Python and you should be set.",
+      "author": "minimuminfeasibility",
+      "created": 1634061350,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hgdqgxh": {
+      "link": "/r/ApplyingToCollege/comments/q6rof5/data_science_economics/hgdqgxh/",
+      "text": "Take courses in both and decide later how you will configure your studies. In the US, an econ major with added math/CS courses would do the trick, a minor if available. Data science as an official course of major or minor study is relatively new and not labeled as such at all colleges. Grad school and/or various certificate options in data science also exist in the US. I don't know how it would work in your home country, but I see nothing wrong with majoring in econ with data science either on the side (a minor/double major or a relatively equivalent mash-up of math and CS electives) or for grad school.",
+      "author": "elkrange",
+      "created": 1634061475,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

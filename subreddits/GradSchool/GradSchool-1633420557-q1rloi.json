@@ -1,0 +1,39 @@
+{
+  "sid": "q1rloi",
+  "link": "/r/GradSchool/comments/q1rloi/data_science_rise_in_astrophysics/",
+  "title:": "Data science rise in Astrophysics",
+  "text": "I have a small question and I would highly appreciate inputs of more experienced ones.\n\nNowadays, everyone I see is using data science in some sense in their research in Astrophysics (pure theoretical Astrophysics is no more fancy imo). My doubt is if the above statement is correct, why do these guys enter into academia at first place and not in industry? Whole day they would be debugging something on their computer and I am pretty sure, none of these guys read or have read books. They would skim the research papers just to get some idea and then keep doing their programming. So, what is it with astrophysics field happening nowadays. Is this how it all operates?\n\nAny input is highly valued and appreciated.",
+  "author": "ACcog",
+  "created": 1633420557,
+  "updated": 1634099912,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "hfgwayz": {
+      "link": "/r/GradSchool/comments/q1rloi/data_science_rise_in_astrophysics/hfgwayz/",
+      "text": "Yeah, pretty much.\n\nA very small group will be doing observations manually or working in instrumentation, but for the rest, you either get given observed data (observation) or you construct your data (theory). In either case, it's nothing but a file of numbers and your actual job is to write code to analyse those numbers so you can then draw conclusions from it.\n\nIt's that last part that makes astrophysics different to generic data science. Astrophysicists apply astrophysical knowledge of astrophysical objects to astrophysical data. Yes, the day-to-day operations are mostly code-writing, but you cannot actually write that code unless you have a sufficient physics+astrophysics background. A generic data scientist cannot come in and start working as an astrophysicist because they won't have that background to inform them of what kinds of data science are possible or appropriate. \n\nAnd also, just because astrophysicists do a lot of coding doesn't mean they'd be competent data scientists. Astro is a pretty hacky field with most people being self-taught in basically all areas of programming and statistics. Our programs are not very pretty and are not made to industry standard. These are by-and-large not people with statistics or CS degrees and the quality of work reflects that. Astrophysics graduates are not especially in-demand for industry data science / statistics / programming jobs, and that is even more obvious if the job application involves any kind of technical exam because we will usually fail those miserably.\n\nEdit: also, we're not just skim reading papers and then moving on with whatever we want regardless. Every single paper in my field that comes out will inform how I do things. They all inform what analyses I make and how I make them. That's where the physical knowledge comes in. They way in which you analyse your data depends **entirely** on the object of study, and so it depends **entirely** on your knowledge of the physics of that object.\n\nEven something as simple as applying an average requires that you know what an \"appropriate\" average is. Say I give you one of my black hole accretion disks to analyse. How would you average values within that simulation? Radially? Azimuthally? Will you be destroying important information by doing so or directly contradicting the MHD equations (i.e. rather fundamental physics)? Do you even know what the MHD equations are, or what the conditions on the magnetic field are? If not, you cannot do any form of intelligent data analysis.",
+      "author": "officially_anxious",
+      "created": 1633435187,
+      "upvotes": 4,
+      "replies": {
+        "hfq7ijd": {
+          "link": "/r/GradSchool/comments/q1rloi/data_science_rise_in_astrophysics/hfq7ijd/",
+          "text": "I think you\u2019re being a little pessimistic about employability in data science. Half the astrophysicists I know left the field and work as data scientists. Sure they have to learn version control and proper coding but none of that is very complicated. Otherwise your comment rings true.",
+          "author": "groplittle",
+          "created": 1633614228,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "hfh1zqp": {
+      "link": "/r/GradSchool/comments/q1rloi/data_science_rise_in_astrophysics/hfh1zqp/",
+      "text": "My phd is in machine learning and computer vision , applied to civil engineering (though am a computer scientist myself) and I think you're making a very broad assumption around a kernel of truth.\n\nOn one hand, yes, data science is sexy and hot topic and it's easier to get funding for. That doesn't mean the astrophysicists who use it don't know enough about astrophysics to be using it. I didn't know anything about wastewater treatment 6 years ago, but knew more about statistical modeling than the people who did. Science is a cooperative field, and these projects require interdisciplinary teams.\n\nBut data science is a tool, and it's a tool that has been very underutilized in most natural sciences so far. \"Classical\" astrophysics is not going to go away, but you have to realize that for example neural networks, are an extremely powerful tool that can do something that no amount of pen-and-paper calculations can possibly replicate. Neither obsoletes the other, both are essential to further our understanding.\n\nBut if you want to be at the forefront of science, you have to be able to do *some* statistical modeling. That's just how computer-aided science works. If you want to stay in theoretical works, that's possible, but funding is thin.",
+      "author": "PityUpvote",
+      "created": 1633438440,
+      "upvotes": 3,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "sid": "pyio4y",
+  "link": "/r/GradSchool/comments/pyio4y/math_phd/",
+  "title:": "Math PhD",
+  "text": "Is it possible to go to grad school and earn a phd in an area of calculus and base all your classes/ work on equation based math and never take another proof based math such as abstract algebra?",
+  "author": "Itchy-Top",
+  "created": 1633004621,
+  "updated": 1634100336,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.63,
+  "comments": {
+    "heupin4": {
+      "link": "/r/GradSchool/comments/pyio4y/math_phd/heupin4/",
+      "text": "Doing calculus all day and never doing a single proof is basically just doing your PhD in literally anything except math. Calculus is probably the most applicable thing in mathematics. Sounds like you want to do a PhD in transportation science or something",
+      "author": "gentleboys",
+      "created": 1633011350,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "hew2q3j": {
+      "link": "/r/GradSchool/comments/pyio4y/math_phd/hew2q3j/",
+      "text": "Basically no. You can of course avoid abstract algebra (I can somewhat sympathise as I didn't do well in algebra either), but you can't avoid proofs. I do applied math and for example, my first-year project was on a problem in computational statistical physics, i.e. very applied. However, it was also very analysis-heavy and involved a lot of proving bounds on the bias and variance of estimators. \n\nAlso, don't be fooled into thinking that applied math == no theory or proofs. The distinction between pure and applied is a bit artificial and there is a lot of interplay between the two. In more applied math, we often rely on results from researchers working in more pure or theoretical fields, so that requires having the necessary theoretical background to understand those results. \n\nAlgebra may not be to your taste, but how much analysis have you done? Something analytical like probability, analysis of pdes, or numerical analysis might be more to your liking.",
+      "author": "shiva_not_tha_god",
+      "created": 1633031888,
+      "upvotes": 7,
+      "replies": {
+        "hex8y1s": {
+          "link": "/r/GradSchool/comments/pyio4y/math_phd/hex8y1s/",
+          "text": "Thank you. That is a great summary. I love analytics.  I need to try a grad class and see how that goes.   Maybe ease in rather than jumping full in",
+          "author": "Itchy-Top",
+          "created": 1633051618,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "heuc4l7": {
+      "link": "/r/GradSchool/comments/pyio4y/math_phd/heuc4l7/",
+      "text": "No. You don\u2019t get your PhD in a \u2018non- proof based area\u2019. Higher mathematics is entirely proof based. Even advanced calculus is all based on proofs. Epsilons, Deltas, Open sets and so on.  Where do you think all the stuff you like in Calculus comes from?  It\u2019s all proved rigorously. It\u2019s still fine to specifically not like Abstract Algebra, but even then you will likely need to know the basics, and pass an exam in Intro Graduate Algebra.",
+      "author": "Mega_Dragonite96",
+      "created": 1633004811,
+      "upvotes": 17,
+      "replies": {
+        "heuejmi": {
+          "link": "/r/GradSchool/comments/pyio4y/math_phd/heuejmi/",
+          "text": "What about a PhD in Applied Mathematics? e.g. studying fluid flow or something",
+          "author": "officially_anxious",
+          "created": 1633006142,
+          "upvotes": 1,
+          "replies": {
+            "heufs2d": {
+              "link": "/r/GradSchool/comments/pyio4y/math_phd/heufs2d/",
+              "text": "Even that involves advanced Math. A lot of Fluid Dynamics guys I know, have proof based courses in tensor geometry and PDE\u2019s. A myth is that Applied math is not proof based, but this isn\u2019t true. In the course of your work, you often encounter certain PDE\u2019s which don\u2019t have a clear analytical solution. Usually you have to understand regularity conditions and how to deal with them, which often relies on theoretical results.",
+              "author": "Mega_Dragonite96",
+              "created": 1633006784,
+              "upvotes": 10,
+              "replies": {
+                "hexadkz": {
+                  "link": "/r/GradSchool/comments/pyio4y/math_phd/hexadkz/",
+                  "text": "Yes. All the applied mathematicians in my department have rigorous proofs in their applied math classes.",
+                  "author": "lesbianpearls",
+                  "created": 1633052308,
+                  "upvotes": 1,
+                  "replies": {}
+                },
+                "heug6gv": {
+                  "link": "/r/GradSchool/comments/pyio4y/math_phd/heug6gv/",
+                  "text": "I did my undergrad in Applied Mathematics and we managed to avoid rather a lot of proofs, and of course Applied Mathematics is the best path into an Applied Mathematics PhD, so I can't imagine they'd require intense proofs on the level of a Pure Math PhD. I'm in fluid dynamics myself (around black holes, hence astro) and certainly don't use proofs. \n\nNone of my friends currently doing Applied Math PhDs do any sort of proof work either. But then maybe that's just how Applied Math PhDs work in the UK, US, and Australia (two countries without PhD coursework), maybe it works differently for your country. I'm assuming you must be an Applied Math PhD student - how much of your work is proof-based?",
+                  "author": "officially_anxious",
+                  "created": 1633006992,
+                  "upvotes": -3,
+                  "replies": {
+                    "heuhjtl": {
+                      "link": "/r/GradSchool/comments/pyio4y/math_phd/heuhjtl/",
+                      "text": "I\u2019m in the US, so maybe it varies in the sense of what you mean by \u2018applied math\u2019. It\u2019s quite a vast field. People who do mathematical physics tend to do a lot of theoretical stuff like Random matrix theory, mathematical relativity and analytical study of the Schrodinger equation. Someone modeling bio-locomotion mathematically might not use too many proofs.",
+                      "author": "Mega_Dragonite96",
+                      "created": 1633007679,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "heuex7x": {
+              "link": "/r/GradSchool/comments/pyio4y/math_phd/heuex7x/",
+              "text": "That\u2019s kind of what I was wondering I think but imagine like the other response, I would still have to do more of abstract algebra type stuff",
+              "author": "Itchy-Top",
+              "created": 1633006339,
+              "upvotes": 1,
+              "replies": {
+                "hevqdln": {
+                  "link": "/r/GradSchool/comments/pyio4y/math_phd/hevqdln/",
+                  "text": "I\u2019m doing a phd in applied maths, and did a masters too. I didn\u2019t do maths at undergrad so am still not great at proofs. \n\nIn the masters we did a bit of proofs but very little, could get by without being great at it. Now in the phd I very rarely do anything proof based. It\u2019s much more modelling stuff, statistical analysis. At the phd level you can work on what you want, so just don\u2019t work on abstract stuff. If you bosh out a few decent applied papers then job done",
+                  "author": "rainbowWar",
+                  "created": 1633026699,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "heuetd3": {
+          "link": "/r/GradSchool/comments/pyio4y/math_phd/heuetd3/",
+          "text": "I have always love math.  I\u2019m great at problem solving and numbers etc.  to close out my bachelors I had to take abstract and I failed it.  It made me hate math.  Like detest it.   I was tutoring someone in calculus and it reminded me what I loved.  But I guess it can just be a hobby then, lol.   Thanks for your insight",
+          "author": "Itchy-Top",
+          "created": 1633006283,
+          "upvotes": 1,
+          "replies": {
+            "heumvt8": {
+              "link": "/r/GradSchool/comments/pyio4y/math_phd/heumvt8/",
+              "text": "What you truely like is probably the use/application of math but not math as a research subject itself. Researching math, i.e. finding new math, unavoidably relies on rigorous proofs, because this is just the way math is done. So it seems to me that what you like is to play with math that already exist. For that probably you should look at other quantitative subjects (physics, engineering, quantitative finance, etc.), where the focus is to use math to get things done, instead of a PhD in math itself.",
+              "author": "astrok0_0",
+              "created": 1633010177,
+              "upvotes": 11,
+              "replies": {}
+            },
+            "heujczm": {
+              "link": "/r/GradSchool/comments/pyio4y/math_phd/heujczm/",
+              "text": "Not a mathematician myself but in a proof-based field\u2014to me it sounds like you\u2019d enjoy pursuing an engineering degree more. My sister is an engineer and loves math but detests proof work (whereas I\u2019m a type of computational scientist and love proof work but am not so big on solving equations, ha).",
+              "author": "NaturalesQuaestiones",
+              "created": 1633008549,
+              "upvotes": 7,
+              "replies": {
+                "hexales": {
+                  "link": "/r/GradSchool/comments/pyio4y/math_phd/hexales/",
+                  "text": "This, OP. There\u2019s nothing wrong with going into more applied fields, either!",
+                  "author": "lesbianpearls",
+                  "created": 1633052414,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hexa8gc": {
+      "link": "/r/GradSchool/comments/pyio4y/math_phd/hexa8gc/",
+      "text": "I\u2019m in a Math PhD. It\u2019s definitely going to be all proofs. If you want something more calculations based, I\u2019d suggest looking into sciences or engineering. It would have to be something applied. You can do applied math in graduate school math programs but you\u2019ll be spending most of your classes doing proofs.",
+      "author": "lesbianpearls",
+      "created": 1633052238,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "heuvzqg": {
+      "link": "/r/GradSchool/comments/pyio4y/math_phd/heuvzqg/",
+      "text": "Do an engineering phd or maybe applied physics, not math. You still use and do a lot of cool math but you generally defer the most challenging proofs to mathematicians (although not always depending on your specialty)",
+      "author": "GoVikes_FuckCovid",
+      "created": 1633014107,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hevh5ry": {
+      "link": "/r/GradSchool/comments/pyio4y/math_phd/hevh5ry/",
+      "text": "Maybe a PhD in applied mathematics is what you're looking for?\n\nhttps://math.asu.edu/degrees/graduate/applied-mathematics-phd",
+      "author": "raistlin65",
+      "created": 1633022855,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

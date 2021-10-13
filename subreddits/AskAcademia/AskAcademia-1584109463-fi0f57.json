@@ -1,0 +1,408 @@
+{
+  "sid": "fi0f57",
+  "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/",
+  "title:": "My colleague just destroyed the writing of my latest paper",
+  "text": "I'm 34 and I've got 8 first author papers out (out of the others with my name of it there are at least another 5 where I contributed also to writing quite a bit). Therefore I hoped that I learned to write decently enough. However, I know I'm not particularly good and, until I was in high school, I always had super-low marks in writing (4 or 5 out of 10, with 6 the passing vote).\n\nNow, I've been tasked to do a job (and to write a paper about it) that I don't believe much in. So I keep asking my colleague (same \"level\" but life scientist instead of physical scientist) what she and the PI would like to have written in the paper.\n\nToday, I asked this colleague if I could have feedback on my work. And... she basically told me (in a positive way, she was trying to help me not to criticize me) to rewrite it from scratch. \"Just copy the methods from the previous papers so that it finally follows a logical structure, and I'll take care about modifying the text to a publishable form\". \n\nI'm lost. After 10 years in doing this job I'm still not able to produce a \"decent\" paper.  WTF am I supposed to do?",
+  "author": "lucaxx85",
+  "created": 1584109463,
+  "updated": 1634081667,
+  "over_18": false,
+  "upvotes": 122,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "fkefk1x": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkefk1x/",
+      "text": "Are you pursuing any training in writing? There are lots of great books for improving academic writing, including Writing Your Journal Article in 12 Weeks, The Scientist\u2019s Guide to Writing, Write It Up!, and more. You could also look at general writing guides like The Elements of Style, On Writing Well, and others.\n\nI\u2019m not assuming that you\u2019re a bad writer, but we all have room for improvement. Writing is a craft that we need to practice a lot to do it well.",
+      "author": "john1781",
+      "created": 1584112134,
+      "upvotes": 55,
+      "replies": {
+        "fkegudk": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkegudk/",
+          "text": "I also recommend \"How to Run a Paper Mill\". It's a very entertaining read about how to structure and plan your scientific writing.",
+          "author": "notadoctor123",
+          "created": 1584112905,
+          "upvotes": 23,
+          "replies": {
+            "fkepup0": {
+              "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkepup0/",
+              "text": "Thanks for sharing\u2014I hadn\u2019t heard of that. Found a pdf of it [here](http://adrianbowyer.com/inge/docs/pmill.pdf).",
+              "author": "john1781",
+              "created": 1584118202,
+              "upvotes": 9,
+              "replies": {}
+            }
+          }
+        },
+        "fkeps74": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkeps74/",
+          "text": "I'm an English teacher who has helped professors publish their work in English. Writing is a skill that takes time and dedication (and error correction) to master. I second everyone's recommendations here. One book I particularly like is Swales' and Feak's Academic Writing for Graduate Students. I know you're not a student, but it will still be helpful- even after teaching academic English for years, this book helped my writing as well!. Maybe get a tutor to go through the book with you. Then, I'd go into more specific science writing books.",
+          "author": "franandzoe",
+          "created": 1584118162,
+          "upvotes": 15,
+          "replies": {}
+        },
+        "fkehf6f": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkehf6f/",
+          "text": "I mean... I know I'm a bad writer. Not grammar-wise, more style and concepts organization. I never managed to get a passing vote in writing tests all of my life (that's why I went for something math-related as soon as I was out of high school!)\n\nBut I thought I was decent enough by now for scientific writing, given that it's pretty linear",
+          "author": "lucaxx85",
+          "created": 1584113243,
+          "upvotes": 5,
+          "replies": {
+            "fkeppjp": {
+              "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkeppjp/",
+              "text": "As others have said, this could be field-specific. I'm a neuroscientist, I have a good friend who's a physicist, and it's remarkable how different the writing in our respective fields are. Manuscripts in the biological sciences are typically more colloquial and conversational, less jargony, with a noticeably more reader-friendly (in my opinion) Introduction and Discussion.\n\nPhysics papers are meant for no-fun physics nerds.",
+              "author": "rick2882",
+              "created": 1584118120,
+              "upvotes": 15,
+              "replies": {
+                "fkerzc8": {
+                  "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkerzc8/",
+                  "text": "What do you know, I'm writing a neuroscience paper. The thing I hate about neuroscientists is how long their discussions and introductions are. And just how freakin many references they use. I really don't understand it.\n\nI'm reading another paper from someone else in that group where, despite being targeted at a neuroscience paper, has the problem that \"they only accept 50 references while we're at 75 at the moment\". How on earth do you get to 50 references to begin with?? :D :D",
+                  "author": "lucaxx85",
+                  "created": 1584119448,
+                  "upvotes": 3,
+                  "replies": {
+                    "fkflxsh": {
+                      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkflxsh/",
+                      "text": ">they only accept 50 references while we're at 75 at the moment\n\nThis is exactly the problem we're having right now. We've decided to submit with 58 references (I literally just minimized this reddit window to check) to a journal that has a 50 reference limit. \n\n> The thing I hate about neuroscientists is how long their discussions and introductions are. \n\nFunny, that's what I love most about neuroscience papers. I find them scholarly and philosophical precisely *because* of all the discussions and implications of the findings.",
+                      "author": "rick2882",
+                      "created": 1584137345,
+                      "upvotes": 9,
+                      "replies": {}
+                    },
+                    "fkg6fos": {
+                      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkg6fos/",
+                      "text": "References are used to provide context, evidence and support for your argument and/or research. Perhaps it's because I'm coming from library science, but I find your attitude towards references quite alarming!",
+                      "author": "whereismydragon",
+                      "created": 1584151111,
+                      "upvotes": 7,
+                      "replies": {
+                        "fkh7z8r": {
+                          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkh7z8r/",
+                          "text": "What's alarming about it? As I said, I've got quite a different background. But to me it's important to be clear and to the point. If you give 30 references of course they're going to be pointless. You're just appealing to authority hoping that the list is so long that no one's going to check it. It's clear if you've actually read all them, it wasn't specifically for this paper anyway. (50 papers will take something like 75 \"equivalent  full working days\" to be fully understood. Did you start working for this paper 4 years ago??? Or did you just skip through the abstract\\^) What are authors trying to achieve by name dropping? \n\nI think that it's fundamental for references to be on point. Unless you're doing a literature review, they should be like 10, not more than that.",
+                          "author": "lucaxx85",
+                          "created": 1584191640,
+                          "upvotes": 2,
+                          "replies": {
+                            "fkijyy3": {
+                              "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkijyy3/",
+                              "text": "> If you give 30 references of course they're going to be pointless. You're just appealing to authority hoping that the list is so long that no one's going to check it.\n\nNo, this is really not what's going on. Please try to avoid generalizing your own preferences and what might be the preferences of your discipline, and try to avoid assigning some kind of moral worth to your having these preferences.",
+                              "author": null,
+                              "created": 1584221800,
+                              "upvotes": 2,
+                              "replies": {}
+                            },
+                            "fkym2ph": {
+                              "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkym2ph/",
+                              "text": "This isn\u2019t a great way to look at references. In science you\u2019re expected to cite any fact you write about, at least if it\u2019s not common knowledge. This is for the benefit of the reader, especially other scientists who may be exploring a particular subject.\n\nGiving multiple citations provides a comprehensive background to the fact you\u2019re writing about. For example, if I wanted to say \u201ctemperature controls sex determination in this turtle\u201d I\u2019d need to go back and find the *original* reference that discovered this fact. This tells the reader when and under what circumstances the fact was discovered. I then might want to throw in a citation for another paper that went more in-depth, and a more modern paper that recently proved the fact as well, just to show a rough timeline of the documentation of this phenomenon. Authors will sometimes cite a key review that goes over all of the details of the fact to ensure their support is comprehensive.\n\nIf you fail to include citations to key papers that support your \u201cfact\u201d, it could be seen as doing a poor job of research/purposely excluding information/creating a bias. It\u2019s considered irresponsible and could lead to your paper being rejected. \n\nYou need to take citations more seriously.",
+                              "author": "ducbo",
+                              "created": 1584651445,
+                              "upvotes": 1,
+                              "replies": {
+                                "fl0jbym": {
+                                  "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fl0jbym/",
+                                  "text": ">It\u2019s considered irresponsible and could lead to your paper being rejected.\n>\n>You need to take citations more seriously.\n\nI've been in this field for ten years, and I've got an h-factor of 10. I'm a terrible writer but I am pretty sure I'm a decent enough scientist. Am I free to believe that some social conventions are outright silly? My belief is that I should cite only what contributes to my paper and not every single fact tangentially related to my field. \n\nBy the way, as an algorithm person in a medical group I publish both in engineering journals, medical journals and in neuroscience ones.  The fact that the top engineering journal for my field has an impact factor of 3 and \"average\" neuroscience one of 7 reflects different quality or different social standards? Are engineers less rigorous?",
+                                  "author": "lucaxx85",
+                                  "created": 1584708206,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "fl0m9j5": {
+                                      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fl0m9j5/",
+                                      "text": "> My belief is that I should cite only what contributes to my paper and not every single fact tangentially related to my field.\n\nOh, I totally agree there. But in the example I gave, I don't think that 1-3 citations for a fact like that would be excessive. Some journal's standards differ (they limit the # of citations) as well, and editors will tell you if you're just being silly with too many citations.\n\n> The fact that the top engineering journal for my field has an impact factor of 3 and \"average\" neuroscience one of 7 reflects different quality or different social standards? Are engineers less rigorous?\n\nI don't think its fair to say any field is less rigorous, but I imagine it might have to do with the type of research. Not a neuroscientist myself, but the \"high impact\" papers I've seen from neuro/developmental journals tend to integrate a lot of concepts and have a \"broader\" theme. So they're more likely to cite and be cited. My buddies in engineering tell me that they publish a lot more (like, for a bio PhD student 3 publications is considered good, but for an engineer, it might be more like 5-8) and their publications tend to answer 1 specific question. If my sense is right on this, it might just come down to differences in the scope/directedness of the literature in each field?",
+                                      "author": "ducbo",
+                                      "created": 1584710471,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "fkesbok": {
+              "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkesbok/",
+              "text": "Do you think that your attitude towards your own writing makes you more hypersensitive to any perceived negative criticism to said writing? As others have said, it could be a stylistic difference between the sciences and you are being hypercritical of your own writing, even when you talk about it, you mention how it pushed you at the opposite direction. However, scientific writing, as linear as it is, is still writing, which is why you might have this mental block of still not being good enough.\n\nYou're probably perceiving a difference in writing styles: they're a different kind of scientist, thus they were trained to read and write in a completely different way than you are; as a criticism of your own writing and thus you're upset, thinking that just like all the other times your writing didn't measure up, this is what is happening. Take everyone's advice, ask another math-related person to look at your writing and as this person for specific examples of how to improve your writing. This way you get two perspectives and you will see that it's not your writing that is the issue, you wouldn't have gotten this far if it was. But rather, your perception of how others view your writing and you as an extension of that.",
+              "author": "cat_barista",
+              "created": 1584119654,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        },
+        "fkemvyz": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkemvyz/",
+          "text": "Those are excellent books. It's easy to write a lot without learning how to write. It takes a conscious effort of deliberate practice to actually improve your writing.",
+          "author": "needlzor",
+          "created": 1584116470,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "fkykzbo": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkykzbo/",
+          "text": "Seconding Heard\u2019s \u201cThe Scientist\u2019s Guide to Writing\u201d!",
+          "author": "ducbo",
+          "created": 1584650817,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fkedzz7": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkedzz7/",
+      "text": "im only undergrad level so this is purely anecdotal, but when i was working with some chemistry friends of mine the way they wrote was very different to life scientists. maybe get an opinion from somebody in your faculty",
+      "author": null,
+      "created": 1584111194,
+      "upvotes": 216,
+      "replies": {
+        "fkehqzr": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkehqzr/",
+          "text": "Good advice here.",
+          "author": "thuja_plicata",
+          "created": 1584113435,
+          "upvotes": 58,
+          "replies": {
+            "fkeiaar": {
+              "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkeiaar/",
+              "text": "I agree, this is a big grain of salt to consider. It could be cool to learn and draw from their different methods (maybe even enhance the writing norm in your field), but that feedback does not mean that your writing is substandard!",
+              "author": "musictheoryaugmented",
+              "created": 1584113756,
+              "upvotes": 19,
+              "replies": {}
+            }
+          }
+        },
+        "fkejvjb": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkejvjb/",
+          "text": "I had to do a postgrad certificate in education (from psychology -> neuroscience -> genetics previously), and I absolutely hated it. I passed the course fine, but it was just miles from where I'm comfortable. I never really grasped how I'd get an A one essay and a C the next. To be clear, this was 2018, and I was 32 odd.",
+          "author": "dl064",
+          "created": 1584114692,
+          "upvotes": 11,
+          "replies": {}
+        }
+      }
+    },
+    "fkeeg98": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkeeg98/",
+      "text": "There are definitely different styles of writing for different areas, so perhaps that factored in here. Does your university have a writing center? I have found it unbelievably helpful to get feedback (from those who are not familiar with my field) on error patterns and organization. It helps with the current effort but also lets me see my bad habits so I can be aware when writing the next paper.",
+      "author": "caaichal",
+      "created": 1584111470,
+      "upvotes": 37,
+      "replies": {}
+    },
+    "fkemvq6": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkemvq6/",
+      "text": "Eh, your writing in this post isn't bad.  \n\nI'm of the opinion that many scientists think that only their way of writing is ok, and all other styles are bad.  This is why some PIs can't handle not \"editing\" (i.e. completely re-writing, rather than editing via comment) their students (including post-docs) writing.  \n\nI'm a research scientist, meaning not a PI, as it wasn't a route I felt like taking, yet I have quite a few years of experience beyond a postdoc and a few dozen papers under my belt.  My PI and I just write completely differently.  I personally think he is overly vague and repetitive, whereas he thinks I am overly terse and too complicated.  He edits my papers, I roll my eyes, make sure my thoughts are still in there, edit back sentences that I think he went overboard on, and call it a day.  It's writing.  \n\nThe only thing that irks me too much is when people are vague in results sections and also insert what I think are discussion sentences into the results.  I find sentences like \"When we added x to y, we saw z (p = 0.003), therefore y made z)\" very frustrating. A lonely p value without any description, especially when it's probably coming from some internal contrast after a complicated mixed-effects model, based on looking at the figure.  Then also the \"therefore,\" which is pure speculative discussion and doesn't belong in the results where it can taint a reader's ability to self-interpret.  \n\nThat said, even this is just style, and there are many journals where the results and the discussion are combined!  A very bad decision, in my opinion, but I guess it makes it easier to write and easier to convince readers of your viewpoint.\n\nSorry, I got off-topic.  It's probably style.  Don't imposter syndrome yourself.",
+      "author": "forever_erratic",
+      "created": 1584116466,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "fkehtmw": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkehtmw/",
+      "text": "You might not be doing anything wrong, TBH. Publishing norms can vary wildly.",
+      "author": null,
+      "created": 1584113479,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "fkeg7p5": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkeg7p5/",
+      "text": "> Now, I've been tasked to do a job (and to write a paper about it) that I don't believe much in. \n\nI'm a mediocre writer as well, but this might be more of the root case than anything else. It's really hard to write a good paper that you aren't really interested in writing in the first place (or that you get burned out on while writing).",
+      "author": "ManInBlackHat",
+      "created": 1584112530,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "fkef19f": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkef19f/",
+      "text": "I'm a biologist that had a great collaboration with a physical chemist.  Her field structured and wrote their papers completely differently. \n\nClinicians and people in the \"soft\" sciences are a whole other thing...",
+      "author": "cheesymm",
+      "created": 1584111821,
+      "upvotes": 13,
+      "replies": {
+        "fkegb4d": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkegb4d/",
+          "text": ">Clinicians and people in the \"soft\" sciences are a whole other thing...\n\nArguably the writing is harder since there's less of a script or structure to follow.",
+          "author": "ManInBlackHat",
+          "created": 1584112588,
+          "upvotes": 12,
+          "replies": {
+            "fkeh4m6": {
+              "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkeh4m6/",
+              "text": "This is not true at all. Every discipline has a structure. It just varies a lot by field. Clinical papers are particularly precisely structured.\n\nWhen I teach scientists technical writing one of the main things I'm teaching is how to identify the structure of various types of scientific arguments and how to identify which is most appropriate for their data.\n\nI just wanted OP to know they weren't necessarily a bad writer,  just that styles vary and theirs might not be what is expected for the discipline they are writing for right now.",
+              "author": "cheesymm",
+              "created": 1584113072,
+              "upvotes": 6,
+              "replies": {
+                "fkenope": {
+                  "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkenope/",
+                  "text": "Clinically yes, in fact the ones I read even have a prescribed abstract as well. Depending on the discipline, clinical papers are prescriptive down to what should be  in which paragraph (e.g., \"\\[Illness\\] continues to be a concern in \\[region\\] with \\[number\\] new cases every year...\").\n\nHowever, while I can tease out common structures in social science papers (the so-called \"soft sciences\"), it's more of a sketch than a very rigorous framework where it's just a matter of filling paragraphs in with the right information.",
+                  "author": "ManInBlackHat",
+                  "created": 1584116938,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fkekaqy": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkekaqy/",
+      "text": "Our school has professional staff whose charge is to support faculty development both as writers and as teachers of writing.  Does your school have anything like this?",
+      "author": "lucianbelew",
+      "created": 1584114939,
+      "upvotes": 4,
+      "replies": {
+        "fkerjt4": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkerjt4/",
+          "text": "Sadly not. I'm in a research hospital and we don't have this kind of staff, sadly. (Also, when I was at the university, if this service was available it wasn't published for sure)",
+          "author": "lucaxx85",
+          "created": 1584119192,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fkevdhe": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkevdhe/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1584121467,
+      "upvotes": 4,
+      "replies": {
+        "fkeviis": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkeviis/",
+          "text": "Yeah, I might have slipped that",
+          "author": "lucaxx85",
+          "created": 1584121550,
+          "upvotes": 2,
+          "replies": {
+            "fkgt0fl": {
+              "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkgt0fl/",
+              "text": "Well I'm not sure about you, but I write much better about things that I actually feel confident about haha. Maybe there are other problems here... best of luck!",
+              "author": "quohr",
+              "created": 1584172851,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fkef2wq": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkef2wq/",
+      "text": "I'm in life sciences and although I dont have papers published yet, I'm im the process of writing three. I'm currently doing up a diagnostics paper and my supervisor basically told me to copy the structure of a similar paper she did previously. Like the same layout, same description if methods just \"in my own words\" but not too different from the base. \nIt's weird, it takes time, especially if english isn't your first language. \n\nMost of what my supervisors care about is structure and layout rather than content. So they want the paper to tell a clear and interesting story in a logical manner. Not fussy, reduced jargon, simple explanations of why you did it, what was done, how it was done, what was found and what does it mean. Dont know if that helps you but it's my 0.02c.",
+      "author": "Diddly_eyed_Dipshite",
+      "created": 1584111848,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fkemie6": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkemie6/",
+      "text": "Anecdotal, but I mailed my prof. a manuscript I'd been working on for a long time.\n\nHis reply was: \"It's not readable right now. Furthermore I want to see x added.\"\n\nI was literally destroyed at that moment, because it took me so long. Saw him the next day and mentioned how I should continue. He just replied: \"O, accept the changes and add a paragraph about x. Then submit it.\" He had only made like 8 changes in sentences or words so I was like:  WTF? And he's not the guy who would submit a POS paper so I guess he had a bad day when writing the mail.",
+      "author": "FugitiveFromHeaven",
+      "created": 1584116250,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fkegigt": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkegigt/",
+      "text": "Try showing your paper to someone in your field and ask for their opinion. \n\nAt the same time start writing the paper from scratch.",
+      "author": "omeow",
+      "created": 1584112709,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fkem1h8": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkem1h8/",
+      "text": "Hire a writing tutor with expertise in your field. You need to get better at this now if you wish to advance in your career. Writing is the number one method of communication. A tutor can help you train your mind to do this work effectively so that you can communicate your work to your colleagues.",
+      "author": "that_tom_",
+      "created": 1584115969,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fkfnyvi": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkfnyvi/",
+      "text": "Sounds like there\u2019s a discipline difference here. I\u2019m not sure how seriously you should take her criticisms honestly. If you\u2019ve successfully written papers in your field (which you have x8), then you\u2019re fine. \n\nWhen I receive comments like that (the whole thing needs to be rewritten) it usually means the person just missed the whole point of the paper. I seriously doubt it is actually in need of rewriting.",
+      "author": "Mallornthetree",
+      "created": 1584138662,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fkfofin": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkfofin/",
+      "text": "what field is this?",
+      "author": "non-troll_account",
+      "created": 1584138967,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fkfya4t": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkfya4t/",
+      "text": "That sounds really tough. I second the advice about getting another opinion from someone in your field, because there are massive stylistic differences between disciplines. \n\nThat said, all writing that is done with the purpose to inform needs to be based on a logical flow of information. A story. A framework that gets flushed out. I have two pieces of advice for how to learn and practice this. \n\nThe first is to make very broad and concise outlines for every section of your paper. For example, you open the document and start with \u201cINTRO: 1) we know X about this thing 2) but we don\u2019t know Z 3) this is a problem because.. 4) in this paper, we did P and Q to address the gap in knowledge and 4) this was the result. Then add the detail underneath each main point. Sometimes I surprise myself when I realize some piece of information makes more sense in a different location. Give yourself space to play with the order of ideas, then bake the structure into the \u201cbones\u201d of your paper. \n\nSecond, understanding how compelling stories are told will help you. Read fiction. This sounds like silly advice but I\u2019m 100% serious. Find a genre that works for you - murder mysteries, sci-fi, fantasy, romance, whatever it is. You will start to absorb structural elements of storytelling that will really help you understand how to fit ideas together. \n\nAny old coworker can fix your grammar the week before you submit.  But fixing the bones of a paper is a job most people are unwilling to do. So focus on learning how to do that part. \n\nYou can learn how to write better! Read more!",
+      "author": "GeneticsSchemetics",
+      "created": 1584145411,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fkg1g02": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkg1g02/",
+      "text": "Different disciplines write differently.",
+      "author": "Inner-Stay",
+      "created": 1584147594,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fkg2kwo": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkg2kwo/",
+      "text": "So, my biggest take away from my undergrad writing in science is to start with the big picture and focus down into the specific topic. Writing is a skill, it's possible to get better with practice. Also, there are big differences depending on the field and that could be what is going on here. You can do it. \ud83d\udda4",
+      "author": "bishpleese",
+      "created": 1584148393,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fkgf13y": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkgf13y/",
+      "text": "I would try to get a second opinion before doing anything. I am not saying you should dismiss your colleague's feedback (after all, she did took her time reading your paper and providing said feedback) but there are some people whose perception of 'good' writing is very off the mark.\n\nWhen I was doing my undergrad, I had two modules with two professors who wrote like shit. I am not being arrogant or petty, but their writing was appalling (which did not help the fact that most of their papers severely lacked in terms of content). This was something widely known in the department and some of their colleagues even teased them about it. However, and despite all evidence of the contrary, they both thought that they were incredibly good at writing and always were severely harsh to those who did not write like them (students and colleagues alike). \n\nSo... get a second opinion. If people still have problems with your writing then I would suggest reading literature, mainly adventure novels and books aimed at divulging knowledge (history/physics/quantum physics). Both genres are known for being tailored to be understood by a wide sector of the population with no prior knowledge and thus they will help you create a template as to how to write in an accessible manner. The last group will be particularly useful for your academic papers as those works have to maintain a delicate balance between accessibility and academic/scientific rigour.",
+      "author": "KirosSeagil",
+      "created": 1584157777,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fkggury": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkggury/",
+      "text": "Hey! I\u2019ve edited theses before for ESL PhD students and I\u2019m happy to help by looking at yours, DM me.",
+      "author": "1TKavanaugh",
+      "created": 1584159332,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fkevtl8": {
+      "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkevtl8/",
+      "text": "though this doesnt help with the current project, your question seems to be a bit bigger than that, so: \n\nif you already got 8 first authored papers accepted and published, why not take the opinions of those (24?) reviewers over one single other person's?",
+      "author": "BlancheDevereux",
+      "created": 1584121732,
+      "upvotes": 0,
+      "replies": {
+        "fkewioo": {
+          "link": "/r/AskAcademia/comments/fi0f57/my_colleague_just_destroyed_the_writing_of_my/fkewioo/",
+          "text": ">if you already got 8 first authored papers accepted and published, why not take the opinions of those (24?) reviewers over one single other person's?\n\nBecause the fact that it made it way to the publication doesn't mean that the language was perfect or even \"good\". Also... I do remember how many back and forths of revisions it went throught...",
+          "author": "lucaxx85",
+          "created": 1584122143,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

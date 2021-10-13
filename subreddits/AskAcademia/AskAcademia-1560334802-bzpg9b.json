@@ -1,0 +1,487 @@
+{
+  "sid": "bzpg9b",
+  "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/",
+  "title:": "An unacceptable paper I rejected was accepted. Might this be a predatory journal?",
+  "text": "Recently I got a paper to review from an unknown journal. I researched it and I found out that the editor of this journal is a famous, big, completely legit, publisher of a scientific society.  However the journal was a brand new one, one of the open source ones that claim to focus on rapid publication, provided that the research is sound while not making judgments on future significance on the paper (no IF yet).  Therefore I accepted to review.\n\n&#x200B;\n\nI tried not to be harsh in the review, as the journal is small and the authors were from a very small non -reasearch focused team, like it was their first paper ever. But the paper was completely wrong, in all aspects. English was terrible, structure was surreal and, anyway, what they tried to do was completely wrong (they misunderstood the basics of what they were doing work). Just to give you an example, the abstract was written like they were telling a story, and it included sentences like \"we used [script.sh](https://script.sh) to generate data file processedData.bin\" (where [script.sh](https://script.sh) , it appears, is a script they developed and nowhere they stated what it was doing and how). I was not very harsh in the review but I was very clear in the \"comments to the editor\".\n\n&#x200B;\n\nDespite this clear, huge problems, I was informed that the paper was accepted pending a \"major\" revision, but what they asked them was very simple. I'm pretty puzzled by this behavior. Should I start thinking that this reputable editor is behaving like a predatory one?",
+  "author": "lucaxx85",
+  "created": 1560334802,
+  "updated": 1634081932,
+  "over_18": false,
+  "upvotes": 107,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "eqvo8hh": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqvo8hh/",
+      "text": "> I researched it and I found out that the editor of this journal is a famous, big, completely legit, publisher of a scientific society.\n\nAh. Well, maybe fire them an email to make sure that they *know* they are the editor of this journal. Scam journals will just take good people in the field and adhere them to the board without their knowledge. Or, they convincingly construct false personas that do not exist at all but have a very convincing (fake) CV.\n\nPredatory journals (and just garbage journals) are a plague. If you think you're a part of one, you probably are.",
+      "author": "Dr_Marxist",
+      "created": 1560347622,
+      "upvotes": 92,
+      "replies": {
+        "eqwm8ok": {
+          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwm8ok/",
+          "text": "This was my first thought as well.",
+          "author": "AgoRelative",
+          "created": 1560358806,
+          "upvotes": 8,
+          "replies": {
+            "eqwtvee": {
+              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwtvee/",
+              "text": "Interesting - I didn't think of this, but thanks, now I will be more aware.",
+              "author": "Ashen_Light",
+              "created": 1560361476,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "eqv2bjm": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqv2bjm/",
+      "text": "Did the editor base their decision only on your review?\n\nHave you seen other reviewers' comments, if there are any?\n\nAre you possibly from a different (sub)field than authors + editor?\n\nDoes publication cost significantly more money than other open access articles?\n\nBecause it's open access, have you checked already published articles for similar \"clearly wrong\" approaches?",
+      "author": "cyberonic",
+      "created": 1560339597,
+      "upvotes": 41,
+      "replies": {
+        "eqvd2i1": {
+          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqvd2i1/",
+          "text": "\n1) There were 2 reviews. In the revision letter the editor just used the automated reply.\n2) There is a 2nd reviewer. His review is not in depth. He also says that the language should be completely fixed, makes some identical criticisms as me (do not mention scripts by name. do say what such scripts do). Weirdly enough, he doesn't criticize (or even comments at all) on the methods or the results of the study, which are plain wrong.\n3) Yes, the subfield is completely spot-on. BTW, the paper is very on the basics of the field, not on a sub-sub-niche.\n4) I've googled it now and it costs 1,500$. High-ish, IMHO, for a brand new, unknown journal, but not high in general.\n5) No, I didn't actually. Especially because it markets itself as a kind of plos-one, publishing everything from pure math to particle physics to bioinformatics. So, most titles of the last issues are about topics I don't even know what they mean.",
+          "author": "lucaxx85",
+          "created": 1560343789,
+          "upvotes": 16,
+          "replies": {
+            "eqw0b2x": {
+              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqw0b2x/",
+              "text": "Sounds like a crummy journal.\n\nEditorial control isn\u2019t tight. They may be using \u201caccepted pending major revisions\u201d as a way to politely say no.",
+              "author": "aelendel",
+              "created": 1560351717,
+              "upvotes": 10,
+              "replies": {}
+            },
+            "eqw1ijl": {
+              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqw1ijl/",
+              "text": "It costs $1500(!!!!!) to publish???  For a journal you've never heard of? With no impact factor to speak of?  Do you know the editor?  How does this not scream predatory journal?  \"No, no replication data or code, but I can tell you that I named the relevant files script.sh and mycode.r, so you should be able to replicate easily enough.\" AYFKM????  What's next, \"I reviewed the literature, and while I haven't included that review, I did save it in a file called litreview.md, so...\"\n\nThis is absolutely bananas. There are open access journals that are free or significantly cheaper than $1500.  No reputation + exorbitant fees + absolute garbage writing + not listening to referees.... I mean, come on now.",
+              "author": "pizzystrizzy",
+              "created": 1560352114,
+              "upvotes": 34,
+              "replies": {
+                "eqwgjpt": {
+                  "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwgjpt/",
+                  "text": "$1500 is pretty standard for open access fees.  [Here's Elsevier's price list for their journals](https://www.elsevier.com/__data/promis_misc/j.custom97.pdf)",
+                  "author": "rlrl",
+                  "created": 1560356827,
+                  "upvotes": 13,
+                  "replies": {
+                    "eqwi802": {
+                      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwi802/",
+                      "text": "There is no reason they have to charge. The journal with the third highest impact factor in the humanities (according to one measure) is open access and charges no fees.  As for (the for-profit business with $3.2 billion in annual revenue) Elsevier, https://www.the-scientist.com/the-nutshell/elsevier-published-6-fake-journals-44160 . There is a difference between their journals and the pure predatory journals, don't get me wrong, but I consider them to be in a third category of (mostly) legitimate but nevertheless predatory.",
+                      "author": "pizzystrizzy",
+                      "created": 1560357399,
+                      "upvotes": 0,
+                      "replies": {
+                        "eqwtj27": {
+                          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwtj27/",
+                          "text": "[deleted]",
+                          "author": null,
+                          "created": 1560361358,
+                          "upvotes": 7,
+                          "replies": {
+                            "eqwuxkw": {
+                              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwuxkw/",
+                              "text": "I didn't argue that. Rather, I argued that that fact, plus all of the other factors I identified, together imply it is a predatory journal.",
+                              "author": "pizzystrizzy",
+                              "created": 1560361840,
+                              "upvotes": -1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "eqwcwkj": {
+                  "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwcwkj/",
+                  "text": "This might be an ignorant question (first year grad student) - aren't any journals who require you to pay to publish considered predatory? That was always my understanding. Let alone $1500!! Is there any legitimate reason why anyone would pay to publish?",
+                  "author": "AcrobaticOpinion",
+                  "created": 1560355692,
+                  "upvotes": 8,
+                  "replies": {
+                    "eqweqdn": {
+                      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqweqdn/",
+                      "text": "Well open access journals that don't have external funding don't charge libraries fees for access, so they pay their bills by charging author fees.  The benefit is that anyone can access your work, so it potentially will get cited more, and you are supporting the open access movement. The drawback is that you (or your funder) have to pay, and predatory journals can more easily pretend to be legit. But some are certainly legit, e.g., all the PLoS journals.\n\nStill, $1500 sounds crazy to me. And everything else about this screams predatory. In any event, I wouldn't review for any journal edited by someone I haven't personally met (in large part because I don't get much out of it and I already do enough reviewing as is), which I think is a good way to insulate you from exposing yourself to the associational risk. I'd also be wary of submitting to any journal edited by someone neither I nor any of my colleagues didn't personally know. Every field is different but in mine it is pretty easy to identify predatory journals and vanity publishers...",
+                      "author": "pizzystrizzy",
+                      "created": 1560356263,
+                      "upvotes": 11,
+                      "replies": {
+                        "eqwihxm": {
+                          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwihxm/",
+                          "text": "Ah okay, thank you! That explains a lot for me. Man, that's rough. I get why those journals have to charge, but that system pushes researchers (especially newer/younger ones with less funding) to publish in limited access journals, thus perpetuating the cycle. There has to be a better model out there to disseminate research.",
+                          "author": "AcrobaticOpinion",
+                          "created": 1560357490,
+                          "upvotes": 3,
+                          "replies": {
+                            "eqwjqxm": {
+                              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwjqxm/",
+                              "text": "I think (although I'm just assuming here) that it is easier in fields in which most research is funded by grants -- I'm assuming that not everyone who pays those fees has to pay from their own bank account.  Otherwise a couple publications amounts to a pretty serious salary cut.  But still it amazes me that most research gets disseminated by for-profit businesses that require the actual experts to pay and provide free labor in vetting the research.  If the editors were also volunteers, the only money you'd need is to pay for servers and maybe a grad student or two to serve as editorial assistants -- and wealthy institutions can certainly cover those kinds of costs, especially because they benefit in various ways from doing so.",
+                              "author": "pizzystrizzy",
+                              "created": 1560357920,
+                              "upvotes": 4,
+                              "replies": {}
+                            }
+                          }
+                        },
+                        "er3ld8w": {
+                          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er3ld8w/",
+                          "text": "It really depends on the field. Flagship medical journals like JAMA or The Lancet charge $5000 for open access, and no one bats an eye about the price.",
+                          "author": "nevernotdating",
+                          "created": 1560465989,
+                          "upvotes": 2,
+                          "replies": {
+                            "er40hlr": {
+                              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er40hlr/",
+                              "text": "That would be nearly one month of salary for me. Must be nice. Shifting the burden from libraries to researchers so that non-academics still get to make a profit by exploiting someone else's labor isn't the kind of thing we are big fans of in the social sciences. We have to read too much Marx in grad school I guess.\n\nBut for real, if public money is being used to line the pockets of some Elsevier exec, that sounds like waste and corruption to me.  Then again, ghostwritten manuscripts also seem unethical to me, so I suspect the disciplinary values in fields that produce JAMA and Lancet pubs just seen way way different than those in my field...",
+                              "author": "pizzystrizzy",
+                              "created": 1560477789,
+                              "upvotes": 1,
+                              "replies": {
+                                "er40wsf": {
+                                  "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er40wsf/",
+                                  "text": "Applied science isn\u2019t about scholarship at the very highest levels \u2014 it\u2019s about money and impact, period. If a research group shows the efficacy of some new anti-hypertension medication or cancer therapy or whatever, all of the stuff you discussed doesn\u2019t matter. Open access fees, medical (ghost) writing, paying for faster peer review, etc. Too many lives could be improved and too much money could be made (or saved) to worry much about anything other than the veracity of the research.",
+                                  "author": "nevernotdating",
+                                  "created": 1560478120,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "er427fk": {
+                                      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er427fk/",
+                                      "text": "But we have *free* open access journals with peer review generally turned around within a month.  What is added value that that $5k actually pays for?  Its like everything else in medicine in this country -- you pay exponentially more for less. The difference is just in whether you let parasites expropriate funds from the public and/or the sick.  But I digress...",
+                                      "author": "pizzystrizzy",
+                                      "created": 1560479121,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "er42lii": {
+                                          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er42lii/",
+                                          "text": "It\u2019s certainly extortionate, but in my experience with flagship medical journals is that you get 10x the citations and national media calling you for interviews, so just paying the fee is a no brainer...",
+                                          "author": "nevernotdating",
+                                          "created": 1560479435,
+                                          "upvotes": 2,
+                                          "replies": {
+                                            "er42zj1": {
+                                              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er42zj1/",
+                                              "text": "Sure but if they didn't charge, people would still cite the stuff and media would still care.  One guy in my cohort published his seminar paper from our intro core class in Science (earning pure envy/hatred from the rest of us). It wasn't open access but its been cited 1500+ times over the last couple years and he got plenty of media. And the research didn't cost anything but his time.",
+                                              "author": "pizzystrizzy",
+                                              "created": 1560479739,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "er438ii": {
+                                                  "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er438ii/",
+                                                  "text": "This is true - I also couldn\u2019t afford to publish open access in grad school, so I made due. However, grant-funded researchers don\u2019t care about open access fees. What\u2019s $5k when you have a $500k budget? It\u2019s the same reason why business travelers will pay $15 for in room wifi at a hotel - it\u2019s not their money anyway. If academic truly thought open access wasn\u2019t worth it, they wouldn\u2019t pay.",
+                                                  "author": "nevernotdating",
+                                                  "created": 1560479921,
+                                                  "upvotes": 1,
+                                                  "replies": {
+                                                    "er445ai": {
+                                                      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er445ai/",
+                                                      "text": "Right. I mean, when you separate payers from buyers, you get all sorts of systematically distorted market decisions.  I'd certainly pay whatever if someone else was giving me infinite money for my research costs. \n\nI love open access, just not for profit open access. I also upload everything to SSRN (or if appropriate arXiv) and to my personal website so it gets indexed by Google scholar. So far no publisher seems to have noticed. Sort of a DYI open access...",
+                                                      "author": "pizzystrizzy",
+                                                      "created": 1560480625,
+                                                      "upvotes": 1,
+                                                      "replies": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "er42lc4": {
+                                      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er42lc4/",
+                                      "text": "I mean let me put it another way. Suppose the government limited or banned grant money being paid to publishers. We can even go crazy in this hypothetical and imagine nationalizing these publishers.  Do you really think in that world the dissemination of scientific discoveries would be significantly hampered?  That money gets charged bc the government is willing to pay it, not because it secures anything useful.",
+                                      "author": "pizzystrizzy",
+                                      "created": 1560479431,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "er43k4a": {
+                                          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er43k4a/",
+                                          "text": "Just saw this. Sure, but the US is built on public-private corruption. We literally founded our government to make existing business owners more money. Even now, the government contracts out as much as it can. I don\u2019t think we\u2019re gonna see nationalization anytime soon in academic publishing. And even if we did - it would be a terrible, onerous experience, as anyone who\u2019s published government reports can tell you.",
+                                          "author": "nevernotdating",
+                                          "created": 1560480164,
+                                          "upvotes": 1,
+                                          "replies": {
+                                            "er44ghs": {
+                                              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er44ghs/",
+                                              "text": "Yeah I mean, I'm not really for nationalization, the government would find a way to corrupt the process. But if for profit publishers were just ~~guillotined~~banned whatever, and research institutions had to figure it out, I have full confidence that they'd figure it out.",
+                                              "author": "pizzystrizzy",
+                                              "created": 1560480834,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "er49yhr": {
+                                                  "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er49yhr/",
+                                                  "text": "Maybe, but universities are notoriously corrupt and wasteful as well.\n\nLook, I think academics are a little spoiled on this issue. You\u2019re paying a few thousand dollars out of your institutional money to have your paper freely accessible to the public FOREVER.\n\nArtists have no such luck! Documentarians or independent directors have maybe a few months of their work to be featured on Netflix or Hulu before it\u2019s deleted forever. Sure, you could still find a Blu-Ray, but how would you know the artistic work even existed?\n\nAcademic publishers, in conjunction with academic database companies (which are admittedly often the same), guarantee that your work will be searchable and accessible forever. That\u2019s a pretty big deal.",
+                                                  "author": "nevernotdating",
+                                                  "created": 1560484863,
+                                                  "upvotes": 1,
+                                                  "replies": {
+                                                    "er52w3x": {
+                                                      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er52w3x/",
+                                                      "text": "My point though is that we have a natural experiment already done. In fields not flush with this kind of money, there are high quality high impact factor open access journals that don't charge. They exist because academics made them exist.  All that gets accomplished without some parasitical entity extracting funds from the process.",
+                                                      "author": "pizzystrizzy",
+                                                      "created": 1560516671,
+                                                      "upvotes": 1,
+                                                      "replies": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "erbto5j": {
+                          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/erbto5j/",
+                          "text": "I really don't get the point of this type of journal though - its far easier than spending $1500 to publish at any journal and host your materials and white paper/draft on OSF or AsPredicted for exactly the same effect.",
+                          "author": null,
+                          "created": 1560693661,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "eqwid54": {
+                      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwid54/",
+                      "text": "No, plenty of legitimate journals have publication fees (though many will waive if you can't pay). See for example the authors fees for a journal in my field:\n\n[https://seg.org/Publications/Journals/-Geophysics/Information-for-Authors/Instructions-to-authors#authorFees](https://seg.org/Publications/Journals/-Geophysics/Information-for-Authors/Instructions-to-authors#authorFees)\n\n&#x200B;\n\n$1500 is a lot, though.",
+                      "author": "awizardisneverlate",
+                      "created": 1560357446,
+                      "upvotes": 5,
+                      "replies": {
+                        "eqwv4gi": {
+                          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwv4gi/",
+                          "text": "$1500 is a lot of money, but it's not a huge charge in my field for supporting open access.  For example, [BMC Neurology](https://bmcneurol.biomedcentral.com/submission-guidelines/fees-and-funding) is about $2400.  The reviews are rigorous, the manuscripts are legitimate (i.e. not on [Beell's list](https://beallslist.weebly.com/)).  We often budget for publication costs in our grants.",
+                          "author": "guynamedgrandma",
+                          "created": 1560361908,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "eqwm3l2": {
+              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwm3l2/",
+              "text": "Ok, I understand why it sounds weird to you. Aside from checking other articles (that are similar to yours) I have no idea what to think of it. I'd send the articles to colleagues after publication, consult with them and if they agree, send the journal a letter urging a retraction/correction",
+              "author": "cyberonic",
+              "created": 1560358756,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "eqv7ay6": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqv7ay6/",
+      "text": "The determination - that an unacceptable paper was accepted - is a feeling that I often share about the manuscripts I review.  What I often miss is that good editors are skilled a helping authors cultivate a better manuscript.  I'm usually pleasantly surprised by the time the process is over.\n\n&#x200B;\n\nPredatory journals are typically pay-to-play (and use the term \"open source\" to justify that), are relatively new, often lack journalistic focus, employ editors who aren't as accomplished as one might expect for someone in that role, and decline only the most problematic articles.  I know open source journals are common in some fields, but ones that are commonly understood as \"desirable\" publication targets are likely better staffed (editorial board).",
+      "author": null,
+      "created": 1560341635,
+      "upvotes": 17,
+      "replies": {
+        "eqvbpta": {
+          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqvbpta/",
+          "text": ">The determination - that an unacceptable paper was accepted - is a feeling that I often share about the manuscripts I review. \n\nYes but... This time it was like totally out of range. Indeed my review was very short because I read it and just said: \"not a scientific paper to begin with\". So I just highlighted the 2 *huge* flaws, the lack of logical flow, and the fact that english language was completely wrong.\nBy the way, I've seen the full review and the editor did not add anything, he just used the automated reply. Reviewer #2 just wrote down 2 lines about things to fix, without going in depth about anything.",
+          "author": "lucaxx85",
+          "created": 1560343301,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "eqvkw8w": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqvkw8w/",
+      "text": "Predatory journals often claim to have members on their editorial team who are not actually on the team at all. I would contact this bigwig to confirm and express your concerns.",
+      "author": "nc_bound",
+      "created": 1560346463,
+      "upvotes": 17,
+      "replies": {}
+    },
+    "eqv3fhk": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqv3fhk/",
+      "text": "It just sounds like the editor disagreed with you. Their job is to use their discretion to mitigate overly positive or negative reviews based on their experience and expertise. Without seeing the paper it is hard to say if you were being harsh but the editor seems to have thought so. Did you see the other reviewer(s) comments?\n\nBottom line, in my opinion, is if they send it to review it isn\u2019t a predatory journal (not to say it is a good journal and maybe you\u2019d think twice before submitting there).",
+      "author": "Nidulans",
+      "created": 1560340062,
+      "upvotes": 14,
+      "replies": {
+        "eqwjhqu": {
+          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwjhqu/",
+          "text": "Including the *name* of a script without describing the function of the script is something most undergrads wouldn't even do.  I'm wondering if the authors even have science degrees or if they are engineers.",
+          "author": "gull_faxi",
+          "created": 1560357827,
+          "upvotes": 9,
+          "replies": {}
+        }
+      }
+    },
+    "eqx0qfy": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqx0qfy/",
+      "text": "You fear that the paper will ultimately be published without having achieved the minimum quality level that you, as the reviewer, would have accepted. If I were in your position, I would certainly inform the editor that, because of this, I respectfully request to not be named as a reviewer in the acknowledgements. Also, it seems like you would not be the appropriate candidate to review a resubmission, since you would repeat your original requests that were not explicitly communicated to the authors by the editor..",
+      "author": "zerofunhero",
+      "created": 1560363792,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "eqv5l16": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqv5l16/",
+      "text": "It certainly sounds predatory to me - and I think you know that. I would avoid doing more reviews for these people.\n\nThis paper sounds like it should have been rejected out of hand, yet it was accepted pending major review? I think it's silly.",
+      "author": "ThePhysicistIsIn",
+      "created": 1560340942,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "equzzyn": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/equzzyn/",
+      "text": "Some predatory journals claim to have famous and reputable editors, while the people themselves have no idea that their names are being used in this way and are not actually involved with these journals. So it can still be a predatory journal even if it's flaunting big names. If I were you, I'd look at the publishing house, rather than the editor, and check if the publishing house is on this list: https://beallslist.weebly.com/ \n\nIf the journal is legit in principle, it's still possible that a paper can get into \"major revision\" status, even if one of the reviewers rejected it. Just wait for the revision. You'll get to see the other reviewers' comments and that usually helps you understand why the editor made a certain decision. \"Major revision\" doesn't usually mean the paper is accepted yet. It can still be rejected after a revision. And if the authors don't address the comments appropriately, you can still reject it a second time.",
+      "author": "rpfflgt",
+      "created": 1560338614,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "eqw9ymj": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqw9ymj/",
+      "text": "Sounds a lot like my experience with MDPI journals. There's a lot of pressure on the editors to publish as many papers as possible so the publisher can get that sweet APC $. \nIf you're unhappy with the review process, consider refusing to review articles for this journal/publisher in the future.",
+      "author": "hahahahawoo",
+      "created": 1560354768,
+      "upvotes": 1,
+      "replies": {
+        "eqwvwrw": {
+          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwvwrw/",
+          "text": "Really? MDPI publishes some nice papers in my field.",
+          "author": "IHTFPhD",
+          "created": 1560362178,
+          "upvotes": 2,
+          "replies": {
+            "eqy4tag": {
+              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqy4tag/",
+              "text": "MDPI has journals that publish good papers. The problem is I'm increasingly thinking we are all being taken for a ride. While I know good legitimate papers, and have good legitimate colleagues, in those journals, overall they are so, so close to a predatory publishing house that I can't support them.\n\nI've had bad reviewing experiences with MDPI as well. Just read some of these articles on MDPI -- I found them eye-opening and difficult to square with the good papers I've seen. I think their ability to get traction on a good reputation for a couple of their journals (on the backs of a small subset of good papers) has allowed them to expand their more ridiculous practices without many people noticing.\n\nhttps://en.wikipedia.org/wiki/MDPI#Controversies\n\nhttps://transformativelearning.nl/2018/12/04/publish-and-perish-how-the-commodification-of-scientific-publishing-is-undermining-both-science-and-the-public-good/\n\nBased on that blog post just look at the November 2018 issue *Sustainability* -- no reasonable journal should have this many papers being published per issue. **There are 508 papers in this issue**. One issue! It's insane. And this is just *one* of MDPI's 200+ journals. Seems insanely fishy to me and just way, way too many red flags.",
+              "author": "a_large_plant",
+              "created": 1560377544,
+              "upvotes": 2,
+              "replies": {
+                "er328b9": {
+                  "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er328b9/",
+                  "text": "*Sustainability* isn't regarded as horrible, but it is viewed with a grain of salt compared to other journals in the field. I know a couple people that publish / review for the journal (it gives a APC wavier to reviewers as well IIRC) and it seems to be considered a third tier journal or so for work that isn't quite cutting edge or incredibly niche.",
+                  "author": "ManInBlackHat",
+                  "created": 1560454437,
+                  "upvotes": 2,
+                  "replies": {
+                    "er32hvl": {
+                      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er32hvl/",
+                      "text": "I don't disagree at all. My point is that it is considered legitimate, and does publish good papers here and there. What is frightening to me, though, is that it maintains legitimacy, even as a lower-tier journal -- and MDPI maintains legitimacy more generally -- while clearly practicing absurd publishing practices like 500+ articles per issue and relatively high fees on top of that.",
+                      "author": "a_large_plant",
+                      "created": 1560454591,
+                      "upvotes": 1,
+                      "replies": {
+                        "er34dc3": {
+                          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er34dc3/",
+                          "text": "I can't say I disagree, but I've gotten the impression the journal survives in part because it fills a need that no other journal really does. Pretty much everyone I know at least  skims the journal to see what is going on and it's not that uncommon to see it appear on people's CVs either. Again, some of it is so niche that some articles have very limited broad appeal, but on the same token, they are relevant enough to be published somewhere. \n\nThat being said, I'd be really interested to see how many people actually end up paying 1700 CHF to publish in it. Giving reviewers an APC waiver is a really good way to ensure timely reviews and incentivize them to publish in the same journal.",
+                          "author": "ManInBlackHat",
+                          "created": 1560455654,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "eqy7lek": {
+                  "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqy7lek/",
+                  "text": "Oh wow, I had no idea. I only read 2-3 journals that are published in MDPI, and they are fine, just a bit low-impact (~2 IF). I had no idea the publisher had so many controversies",
+                  "author": "IHTFPhD",
+                  "created": 1560378697,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "eqygy8h": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqygy8h/",
+      "text": "One thing I don\u2019t understand - rapid publication - isn\u2019t that role basically already served by preprints?",
+      "author": "echoGroot",
+      "created": 1560383121,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eqv8zb8": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqv8zb8/",
+      "text": "I think I'm missing perhaps the context for why the OP is using the word \"predatory\". What does he mean by this?",
+      "author": null,
+      "created": 1560342294,
+      "upvotes": 1,
+      "replies": {
+        "eqval8v": {
+          "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqval8v/",
+          "text": "This term is generally used for journals that prey on inexperienced scientists asking them (lots of) money to publish their papers in journals with no scientific merit, by posing as legitimate scientific journals",
+          "author": "lucaxx85",
+          "created": 1560342903,
+          "upvotes": 15,
+          "replies": {
+            "eqwywdr": {
+              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqwywdr/",
+              "text": "Huh, I'm honestly baffled by existence of predatory journals, because it'd imply that you can be an active scientist and not know where papers from your field are published and which journals are highly regarded. How does it even work? If you're doing research as an undergrad, then you're not going to publish on your own, your supervisor will pick the journal. If you're a grad student, then either you're publishing with your supervisor or you can just ask your colleagues about the journal you want to publish in, if you're not sure about it. And if you've finished your PhD and still don't know where to publish, then you probably have no future in the academia anyway...",
+              "author": "yoreh",
+              "created": 1560363192,
+              "upvotes": 3,
+              "replies": {
+                "eqy1wh1": {
+                  "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqy1wh1/",
+                  "text": "Some people just pay to publish to stack their CVs.",
+                  "author": "IIII1111II1IllII1lI",
+                  "created": 1560376541,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "eqx0s2g": {
+                  "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqx0s2g/",
+                  "text": "Believe it or not, even experienced scientist sometimes unknowingly publish in a predatory journal because apparently they can be very convincing. Hopefully the situation and awareness is better these days.",
+                  "author": "Lady_of_Ironrath",
+                  "created": 1560363809,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "eqvgcs8": {
+              "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/eqvgcs8/",
+              "text": "Thanks",
+              "author": null,
+              "created": 1560344933,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "er06qw1": {
+      "link": "/r/AskAcademia/comments/bzpg9b/an_unacceptable_paper_i_rejected_was_accepted/er06qw1/",
+      "text": "Im an undergrad so im no expert but if theyre publishing blatantly bad work then i would think they are not legit",
+      "author": "turbotron9000",
+      "created": 1560411734,
+      "upvotes": -1,
+      "replies": {}
+    }
+  }
+}

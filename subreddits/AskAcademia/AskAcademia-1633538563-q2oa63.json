@@ -1,0 +1,82 @@
+{
+  "sid": "q2oa63",
+  "link": "/r/AskAcademia/comments/q2oa63/computer_science_using_other_peoples_code_and/",
+  "title:": "Computer science: Using other people's code and expanding on it for masters thesis?",
+  "text": "Background: Computer science, USA, Masters.\n\nHey all!\n\nI'm doing some work in reinforcement learning (Machine Learning) and there's a benchmark that I have in mind right now that I intend to expand on. The focus of my study is twofold:\n\n1) \"what happens if we add X on to this benchmark?\", \n2) How we address some of the issues that would come about by adding X? \n\nThe aforementioned code is on github, and is itself part of someone else's thesis and I would, of course, cite the original author. I feel like I'm justified in doing so because of the scope, and intention of my thesis but I'm not sure... I have it on my agenda to talk to my advisor, but I would also like to boil it down later and publish it in a conference so I'd like to \"do it right\" from the start.\n\nThe code is under the MIT license, and I've found a question on S/O that answers my question but I'd just like to hear other people's opinions and have a discussion: [Is it unethical to use a published code in my PhD thesis work?](https://academia.stackexchange.com/a/131078/147292)",
+  "author": "iamquah",
+  "created": 1633538563,
+  "updated": 1634078742,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hfmi2to": {
+      "link": "/r/AskAcademia/comments/q2oa63/computer_science_using_other_peoples_code_and/hfmi2to/",
+      "text": "With the detail provided, this sounds fine for master's thesis. Nothing seems unethical as you plan to appropriately cite the original code and the MIT license is quite flexible regarding reuse. As long as you make the \"delta\" clear in your thesis (and in any corresponding outcome like a paper or posting your extended benchmark), then it should be fine.\n\nI have had a case of this happening more or less exactly. I co-supervised a thesis that added a new case to my own MIT-licensed code. They actually published their addition as a branch of my code, so it's all together on GitHub. But yes, no concerns regarding reuse (even if I wasn't co-supervising).",
+      "author": "Vievite",
+      "created": 1633539783,
+      "upvotes": 4,
+      "replies": {
+        "hfmk8hi": {
+          "link": "/r/AskAcademia/comments/q2oa63/computer_science_using_other_peoples_code_and/hfmk8hi/",
+          "text": "> Nothing seems unethical as you plan to appropriately cite the original code and the MIT license is quite flexible regarding reuse\n\nGotcha!\n\n> As long as you make the \"delta\" clear in your thesis (and in any corresponding outcome like a paper or posting your extended benchmark), then it should be fine.\n\nFor sure! How about beyond the master's thesis? Like for a conference?",
+          "author": "iamquah",
+          "created": 1633540670,
+          "upvotes": 1,
+          "replies": {
+            "hfmlwew": {
+              "link": "/r/AskAcademia/comments/q2oa63/computer_science_using_other_peoples_code_and/hfmlwew/",
+              "text": "Well I mention a paper, that would include conference proceedings.",
+              "author": "Vievite",
+              "created": 1633541349,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hfmm8bn": {
+      "link": "/r/AskAcademia/comments/q2oa63/computer_science_using_other_peoples_code_and/hfmm8bn/",
+      "text": "There\u2019s nothing at all wrong with it, but I recommend going into it with a more well-defined idea than, \u201cWhat happens if\u2026?\u201d",
+      "author": "bigrottentuna",
+      "created": 1633541484,
+      "upvotes": 2,
+      "replies": {
+        "hfmnyny": {
+          "link": "/r/AskAcademia/comments/q2oa63/computer_science_using_other_peoples_code_and/hfmnyny/",
+          "text": "You're right. I do have a strong belief of what will happen! Part of the motivation of my question is that it's so easy to introduce bugs into RL programs, and if my focus is not on implementing a new algorithm. Instead, I'm focusing on modifications that can be applied (in theory) to any algorithm",
+          "author": "iamquah",
+          "created": 1633542195,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hfmsf4h": {
+      "link": "/r/AskAcademia/comments/q2oa63/computer_science_using_other_peoples_code_and/hfmsf4h/",
+      "text": "Your thesis is about answering some question. The code is just a tool. It is not the result and it is not the question.\n\nIt's like asking if you're allowed to use a microscope that someone else bought for their own thesis and then just left it in the lab with a note saying anyone can use if it they want.\n\nYes... yes you are.",
+      "author": "Otherwise_Camera_95",
+      "created": 1633544121,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfmhjs4": {
+      "link": "/r/AskAcademia/comments/q2oa63/computer_science_using_other_peoples_code_and/hfmhjs4/",
+      "text": "Academia? More like HACKademia lol amirite?",
+      "author": "terd_gooplehaven",
+      "created": 1633539568,
+      "upvotes": -2,
+      "replies": {
+        "hfminjn": {
+          "link": "/r/AskAcademia/comments/q2oa63/computer_science_using_other_peoples_code_and/hfminjn/",
+          "text": "F in the chat",
+          "author": "iamquah",
+          "created": 1633540019,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "sid": "piloln",
+  "link": "/r/AskAcademia/comments/piloln/some_questions_about_compensation_in_regards_to/",
+  "title:": "Some questions about compensation in regards to research and professorship.",
+  "text": "I am currently doing cybersecurity research at a local Uni (highschooler), and I have been contemplating whether I would like to pursue an academic career or a more corporate one. I also am deciding what path to take in grad school, and whether a Ph.D. is a good option for my plans.\n\nA big factor for me is income, so my questions are as follows:\n\nDo/can you get paid for research as a student? (Grad vs undergrad?) If so, I have heard it is very meager (have only heard it in regard to PhDs), is this true?\n\nHow much does a good professor get paid? Junior vs Tenured?\n\nCan you be a tenured researcher without being a professor, or is research just something bundled in with being a professor?\n\nNote: I am specifically referring to computer science in the US.",
+  "author": "amag420",
+  "created": 1630876981,
+  "updated": 1634079385,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hbqocyd": {
+      "link": "/r/AskAcademia/comments/piloln/some_questions_about_compensation_in_regards_to/hbqocyd/",
+      "text": "Grad students in STEM can/do get paid to do research (\"research assistantship\" (RA) or something similar). In addition to getting a monthly salary, these positions often cover tuition as well.  It's more common in PhD students, but MS students can be RAs too - it would depend on the specific professor if they want to hire MS students or only PhD students.\n\nUniversities usually have grad student salaries posted on their websites so check the universities you are interested in.  At my institution, grad students make about $2700 per month (this is for 50% time, which is the most they can \"work\" during the academic term).\n\nAs for professors salaries, universities also have salary scales posted on their websites.  For some state institutions, you can find out how much a specific person earned.  So you could look up search the salaries of the profs in the CS dept at the different Univ of CA campuses at [https://ucannualwage.ucop.edu/wage/](https://ucannualwage.ucop.edu/wage/).  Private institutions do not publish their faculty/staff (actual) salaries, but you can expect the larger private institutions pay their faculty more than the state institutions.\n\nI would hazard that you can make more in industry, but a tenured prof position has more stability and possibly the flexibility to do research in the area that you want to do (rather than whatever the company wants you to do).  As a tenured prof, you'd also have to teach classes, advise students, serve on committees, and/or write grants for funding.  You wouldn't be able to advance from an assistant prof to associate prof to full prof if you don't do all of that.  I don't know if there is such a thing as a tenured researcher - if you can get on a long-term funded grant, then there may be some stability but it wouldn't be a tenured position (that is, un-fireable).",
+      "author": "ApricotBandit",
+      "created": 1630881662,
+      "upvotes": 4,
+      "replies": {
+        "hbtsv56": {
+          "link": "/r/AskAcademia/comments/piloln/some_questions_about_compensation_in_regards_to/hbtsv56/",
+          "text": "Interesting, that gives me a little more hope for pursuing grad school all the way through to a Ph.D. I do notice that some of the professors at top-tier institutions make a significant living to say the absolute least, does one need prestige in the industry before you reach the higher ends of the salary range?\n\nTenure definitely is attractive but I'm not sure I would enjoy staying at the same institution for decades anyway.\n\nThanks for the information!",
+          "author": "amag420",
+          "created": 1630947474,
+          "upvotes": 1,
+          "replies": {
+            "hbw3awz": {
+              "link": "/r/AskAcademia/comments/piloln/some_questions_about_compensation_in_regards_to/hbw3awz/",
+              "text": "Not sure about CS but some people go directly from grad school to being a professor while others work in industry for a while (say 5-10 yrs) before joining academia. Then there are some cases where someone retires from industry (say after 30 years) and joins academia late in life.  Obviously someone in this latter situation would be hired as a full professor w/ tenure right off the bat (based on their experience in industry) rather than start as a junior professor, and likely would get a high salary as well.  \n\nNot everyone has to go into industry first - a professor who makes a lot of progress in (ground-breaking) research can advance from assistant through to full professor and get a high salary.  Although some professors stay at one institution their whole working career, others do move around (and up).  That is one way they end up with higher salaries.  Also, if you are a tenured professor at one institution and look to move to another university, you'd be considered for a tenured position at the new university.  You wouldn't drop back to a junior prof position.",
+              "author": "ApricotBandit",
+              "created": 1630986451,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

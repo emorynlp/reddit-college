@@ -1,0 +1,879 @@
+{
+  "sid": "m1rbt4",
+  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/",
+  "title:": "Is PhD regret a thing?",
+  "text": "Just wondering if anyone has ever felt like getting a PhD was ultimately the wrong move for them and why.",
+  "author": "mrmh2217",
+  "created": 1615358109,
+  "updated": 1634081362,
+  "over_18": false,
+  "upvotes": 130,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "gqg3v2c": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg3v2c/",
+      "text": "I really regret getting a PhD.\n\nI'm in the UK and went to a top school, top of my class, but it seems to have closed more doors than it opened. I'm now a data scientist, but having a math/stats/programming PhD doesn't help that much. I should have become an accountant or plumber; I think I'd be far, far happier.",
+      "author": "Least_Curious_Crab",
+      "created": 1615385785,
+      "upvotes": 66,
+      "replies": {
+        "gqh3xql": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqh3xql/",
+          "text": "Shocking how often I hear this lol. You don\u2019t enjoy data science? Why?",
+          "author": "tomsmith856",
+          "created": 1615400295,
+          "upvotes": 25,
+          "replies": {
+            "gqkbqg9": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqkbqg9/",
+              "text": "It's not the work; it's the people. \n\nMangers believe that ML is a silver bullet that is going to print blank checks. They don't understand that you won't get Google level results on a shoestring budget, no matter how good you are. It's even worse when you have a PhD because people hold this childish notion that you can throw ANY project at somebody with a PhD, give them no resources, a ridiculous time frame and still get world-class results.\n\nPlus its super easy to bullsh*t in data science - your given a project and you respond with a realistic deadline. But you idiot colleague says they can do it in 1/4 of the time. They just threw the data at sklearn. Doesn't matter if the model is remotely right, or if the data was correctly cleaned. The only metric that mattered was that your colleague was faster than you are. They are obviously the better data scientist. In any other field they'd be outed. \n\nAnother pet hate I have is that everybody expects you to know all the answers all of the time!\n\nThen there is this PhD phenomenon (I don't have a name for it). I have however witnessed many times, or been subject to, the following example: A PhD and a BS candidate both working in similar roles, same company/department. Both need training on a new tech/topic. BS candidate has their handheld throughout the entire process, sent on courses etc., during work hours. PhD was expected to self-train in their own time. The difference in salary between the two was negligible. Excuses made for BS candidate, \"they can't take on project X; they don't have the training\". But when it comes to a PhD candidate, you are told: \"you have a PhD, you're supposed to be able to train yourself! Just get it done\". And when you do pull it out of the bag, you are told: \"So what? You're a PhD, we expect brilliant work from you. THat's WhAT wE PaY YOu fOR!\", meanwhile BS candidate is praised to the hills for completing a paid-for course during working hours. When it came to bonus time, guess who got a raise and who didn't?! (I'll leave this as an exercise to the dear reader). I had no idea that the PhD would be such a burden.\n\nFinally most of the decent jobs are in expensive cities. Even with a decent salary UK living costs are a joke. \n\nI swear blind half the people I've worked for have been lobotomised beforehand.",
+              "author": "Least_Curious_Crab",
+              "created": 1615463966,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "gqhc69c": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhc69c/",
+          "text": "Is your company hiring PhDs?",
+          "author": "Popeychops",
+          "created": 1615403606,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "gqhnuhp": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhnuhp/",
+          "text": "Move to industry, every single field wants a data scientist. That\u2019s the field to be in these days. :)",
+          "author": "apole2308",
+          "created": 1615408564,
+          "upvotes": 7,
+          "replies": {
+            "gqhtqat": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhtqat/",
+              "text": "[removed]",
+              "author": null,
+              "created": 1615411090,
+              "upvotes": 11,
+              "replies": {
+                "gqi0zn2": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqi0zn2/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1615414292,
+                  "upvotes": 1,
+                  "replies": {
+                    "gqi4t44": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqi4t44/",
+                      "text": "[removed]",
+                      "author": null,
+                      "created": 1615416106,
+                      "upvotes": 6,
+                      "replies": {
+                        "gr0fi3f": {
+                          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gr0fi3f/",
+                          "text": "I\u2019m a medical doctor and I have papers published in q1 journals where I wrote all the software and did the machine learning parts. I learned data science from books, coursera and udemy lmao.",
+                          "author": "quemacuenta",
+                          "created": 1615816077,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "gqkcct1": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqkcct1/",
+                      "text": "Managers don't want to pay PhD salaries. Nor do they believe you'll stick around in the long run, so yes they will go with the non-PhD - especially if said boot camper is full of confidence...",
+                      "author": "Least_Curious_Crab",
+                      "created": 1615464455,
+                      "upvotes": 5,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "gqkb0if": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqkb0if/",
+              "text": "I am in industry. Data science means too many different things to too many different people. It's not a great career choice.",
+              "author": "Least_Curious_Crab",
+              "created": 1615463383,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gqhrijc": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhrijc/",
+          "text": "That\u2019s what I\u2019ve heard is the case in the USA too. My sister works at space x. Got here bachelors and went straight to work. The PhD student that came in came in making a little more than a student with a bachelors but my sister has had time to bring her salary up over the years and makes more. It makes sense. She has more experience doing the actual job than the PhD student does. At least as space x a PhD doesn\u2019t get you a manager position. It just means you come in slightly higher than a BS or MS hire.",
+          "author": "drpicoloco",
+          "created": 1615410115,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gqfq9ta": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqfq9ta/",
+      "text": "For me yes, I spent about four years getting this degree and others in my field spent four years progressing in the practical field. They are more established and made a name for themselves. The expectations of a postdoc as well being being treated poorly really made me feel a bit of regret. Not to put you off it, I also think it depends on the group and support you get during your PhD. I was left to do things on my own with very little guidance so I felt so lost during the whole thing, I couldn\u2019t believe I finished the when I did. There were a lot of tears throughout the whole thing, and even when I last amended my thesis! I never felt like I had direction and somehow mustered up a thesis.",
+      "author": "apole2308",
+      "created": 1615377234,
+      "upvotes": 83,
+      "replies": {}
+    },
+    "gqg2rsb": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg2rsb/",
+      "text": "A friend of mine used to say that we'd committed 'financial suicide' by getting our PhDs, so I guess yes =).\n\nI've never regretted getting mine, but it was the process I enjoyed - not what it led to.",
+      "author": "TADodger",
+      "created": 1615385221,
+      "upvotes": 26,
+      "replies": {
+        "gqho48b": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqho48b/",
+          "text": "I took a \u00a310k salary drop per year to do this PhD",
+          "author": "apole2308",
+          "created": 1615408673,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gqfpwda": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqfpwda/",
+      "text": "Me, haven't even finish mine and I'm regretted. Yet, I can't leave because I'm *that* close to get out with something to prove that I have endured this BS.",
+      "author": "My_dog_eats_flipflop",
+      "created": 1615376936,
+      "upvotes": 23,
+      "replies": {
+        "gqhclgl": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhclgl/",
+          "text": "I left ABD, about halfway through the dissertation. Life is so much better now. I got to pick a city to move to, find a decent job, and buy a house within 5 years of quitting.\n\nI don't particularly regret doing a PhD program, but I regret not leaving earlier. There's so much opportunity cost to getting a PhD, and even more if you finish, hope to land a TT job but don't.",
+          "author": "ilovemacandcheese",
+          "created": 1615403779,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "gqffaln": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqffaln/",
+      "text": "Many are disheartened by job opportunities and the overall BS of post-doc life, but I have never met anyone who regretted getting the degree.",
+      "author": "molobodd",
+      "created": 1615367078,
+      "upvotes": 94,
+      "replies": {
+        "gqgo9g4": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgo9g4/",
+          "text": "Well I think OP doesn\u2019t necessarily mean regret I the full sense we mean it.  But something like, I made the wrong choice and wasted 5 years of my life.  Yes, you get a doctorate degree which is still great but you still wasted 5 years of your life.  \n\nI got my doctorate and went to a mid tier (25-40 rank) school.  There were definite people that clearly went because they just viewed it as the next step without having the real passion for the science or topic.  They get halfway through and pass their orals and then realize it\u2019s better to just power through.  They end up getting a job that doesn\u2019t really need to Ph.D.\n\nOn the other hand, I personally questioned the value of my degree.  Initially applying for jobs while I had no experience yet.  It felt like I could have done myself better if I just jumped in with a BS.  Within the 5 years of getting my doctorate I could reach the same point professionally, gotten paid more and received industrial experience.  It really makes you question what\u2019s the point?  With that said, there are certain companies and positions and career paths where a Ph.D. Is useful or needed",
+          "author": "Visco0825",
+          "created": 1615394547,
+          "upvotes": 25,
+          "replies": {
+            "gqhzx4w": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhzx4w/",
+              "text": "Just not sure how it's ever a waste of 5 years of your life if you can make people address you as Dr.",
+              "author": "Empire_Collapsing",
+              "created": 1615413807,
+              "upvotes": 3,
+              "replies": {
+                "gqii162": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqii162/",
+                  "text": "Right?! As I tell my high school students, \"After considerable effort, I have earned a truly gender-neutral form of address!\"",
+                  "author": "jamey1138",
+                  "created": 1615422888,
+                  "upvotes": 7,
+                  "replies": {
+                    "gqij0ij": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqij0ij/",
+                      "text": "\ud83d\ude0e\ud83d\ude0e\ud83d\ude06\ud83d\ude06",
+                      "author": "Empire_Collapsing",
+                      "created": 1615423420,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                },
+                "gqi0vss": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqi0vss/",
+                  "text": "Yea but professionally in industry your position is more important than education.  No one actually goes around calling you \u201cDr. X\u201d, at least in my industry.  Someone in a position hire than me has more clout than me, regardless if I have a PhD and they don\u2019t.",
+                  "author": "Visco0825",
+                  "created": 1615414242,
+                  "upvotes": 3,
+                  "replies": {
+                    "gqi2irr": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqi2irr/",
+                      "text": "Yeah, I meant more in an ideal philosophy type way. Not egotistical call me a Dr. You supposedly know some stuff now, yanno?",
+                      "author": "Empire_Collapsing",
+                      "created": 1615415015,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gqjjrzc": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqjjrzc/",
+          "text": "Really? I worked in industry for several years before transitioning to academia, and I'd say 50% of phds I met regretted the decision.",
+          "author": "downsideleft",
+          "created": 1615444277,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gqfxcxo": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqfxcxo/",
+      "text": "Yes. Every day for six years, well maybe not first and last semesters, I told my therapist I was going to quit. That probably would have been a better choice, but I was stubborn. Now I\u2019m stuck in academia having been outside of corporate for 10 years. The job market and the job are hard and not very lucrative.",
+      "author": "Crazy-Analyst",
+      "created": 1615382187,
+      "upvotes": 29,
+      "replies": {}
+    },
+    "gqfzfng": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqfzfng/",
+      "text": "Yes, despite getting the golden ticket of a tenure track job and then tenure. I likely could have made more with just my undergrad degree. I could have picked where I wanted to live to an extent. I wouldn\u2019t have lived my 20s in suspended animation. I wouldn\u2019t have debt (that\u2019s on me). Most importantly, I doubt my mental health would be as bad as it is. I dealt with anxiety pre-PhD, but not depression.",
+      "author": "profpetitfours",
+      "created": 1615383417,
+      "upvotes": 28,
+      "replies": {
+        "gqhfxn9": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhfxn9/",
+          "text": "How could you get a job after your undergrad degree? What skills did you have then?",
+          "author": "schnebly5",
+          "created": 1615405179,
+          "upvotes": 2,
+          "replies": {
+            "gqho3oa": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqho3oa/",
+              "text": "I had an econ degree and four plus years of office/administrative work as a student. Given what I counsel my students on now, I likely could have gotten an entry level office, non-profit, or government job and made about what I made as a new assistant prof (50K) either at that time or shortly after. I didn't have good academic or career advisors as an undergrad who could talk me through what my options were, so I defaulted to grad school.",
+              "author": "profpetitfours",
+              "created": 1615408667,
+              "upvotes": 8,
+              "replies": {
+                "gqi48dx": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqi48dx/",
+                  "text": "just to play devil's advocate, isn't working as an assistant prof. much more interesting and intellectually stimulating than an entry level office job?",
+                  "author": "schnebly5",
+                  "created": 1615415829,
+                  "upvotes": 2,
+                  "replies": {
+                    "gqi4ecq": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqi4ecq/",
+                      "text": "No, for me, it was not. It was soul crushing and I spent most of my first four years being miserable and making poor personal decisions.",
+                      "author": "profpetitfours",
+                      "created": 1615415908,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gqflvjc": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqflvjc/",
+      "text": "I think i regret buying into the PhD / Academia trope.  I hate that the PhD led me to academia for a career.",
+      "author": "invisible760",
+      "created": 1615373379,
+      "upvotes": 54,
+      "replies": {
+        "gqg70wm": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg70wm/",
+          "text": "Same.  After 20 years, full tenured prof, I left for industry and have never been happier.",
+          "author": "Superdrag2112",
+          "created": 1615387342,
+          "upvotes": 13,
+          "replies": {
+            "gqgj7wm": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgj7wm/",
+              "text": "How difficult was it to move industry when you are already a professor? And what motivated you to leave since you had already crossed the difficult phase of postdoc and tenure etc.?",
+              "author": "KS_tox",
+              "created": 1615392617,
+              "upvotes": 3,
+              "replies": {
+                "gqgs5sv": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgs5sv/",
+                  "text": "It was strangely easy, but I was prepared to make the leap.  I applied to 4 positions on indeed.com and got interviews at two of them.  My department did not give merit-based raises for 10 years and one cost of living increase.  We were increasingly being asked to more with less resources despite being a cash cow for the U.  Myself and two other productive full professors left within 5 years.  They now have two full profs left and are having to slash their program.  It was a very difficult decision; I gave up tenure and a pension.  Glad I did it tho!",
+                  "author": "Superdrag2112",
+                  "created": 1615396114,
+                  "upvotes": 8,
+                  "replies": {
+                    "gqhuhuf": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhuhuf/",
+                      "text": "May I ask what PhD you have?",
+                      "author": "Cat_woman8",
+                      "created": 1615411425,
+                      "upvotes": 2,
+                      "replies": {
+                        "gqi117h": {
+                          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqi117h/",
+                          "text": "Statistics.  Graduated 2000 from UC Davis.",
+                          "author": "Superdrag2112",
+                          "created": 1615414312,
+                          "upvotes": 4,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "gqihrwk": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqihrwk/",
+                      "text": "Do you feel like you've gone backwards or forward or sideways in terms of your career?\n\nDo people call you prof or dr or Mr?",
+                      "author": "Doprrr",
+                      "created": 1615422748,
+                      "upvotes": 1,
+                      "replies": {
+                        "gqiuo2f": {
+                          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqiuo2f/",
+                          "text": "Sideways; I doubled my professor salary but don\u2019t have quite the same prestige and freedom as I had.  I\u2019m an adjunct at the U of MN, so still am \u201ckind of\u201d a professor, but people call me Dr (if I ask them to) at work.",
+                          "author": "Superdrag2112",
+                          "created": 1615429510,
+                          "upvotes": 3,
+                          "replies": {
+                            "gqjsyef": {
+                              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqjsyef/",
+                              "text": "Apologies for the line of questions, someone this senior leaving for industry is pretty interesting to me. \n\nBut what do you mean by prestige? And why is it important to you? Freedom is pretty self explanatory.",
+                              "author": "Doprrr",
+                              "created": 1615450232,
+                              "upvotes": 2,
+                              "replies": {
+                                "gqkfrw6": {
+                                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqkfrw6/",
+                                  "text": "I always thought being a prof would be \u201ccool\u201d; elbow patches on tweed coats, pontificating, solving the worlds problems, professional society accolades, etc.  And it kind of was!  In the industry I\u2019m on teams where experts (real experts too: surgeons, etc) are a dime a dozen and I\u2019m often just a statistician; a high level one, but a statistician nonetheless.  In some ways it\u2019s liberating: I\u2019m a smaller cog in the machine rather than the main driving force in the project.",
+                                  "author": "Superdrag2112",
+                                  "created": 1615466938,
+                                  "upvotes": 3,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gqg07po": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg07po/",
+          "text": "I mean, academia is not your only option with a PhD \ud83e\udd37\u200d\u2640\ufe0f",
+          "author": "TheScienceMothra",
+          "created": 1615383845,
+          "upvotes": 21,
+          "replies": {
+            "gqhjbqb": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhjbqb/",
+              "text": "No, but most of the non-academic options don't require a PhD, and 5-7+ years of work experience would've been more valuable than the PhD.",
+              "author": "roseofjuly",
+              "created": 1615406622,
+              "upvotes": 8,
+              "replies": {
+                "gqhsfcq": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhsfcq/",
+                  "text": "Can you pitch your PhD experience as work experience? Depend on your field.",
+                  "author": "drpicoloco",
+                  "created": 1615410514,
+                  "upvotes": 2,
+                  "replies": {
+                    "gqkgayu": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqkgayu/",
+                      "text": ">A lot of the time its seen as a negative from all angles.   \n  \n>  \n>I call this one Schrodinger \"grad student\": If you pass your PhD and go into industry, nobody cares for your experience: \"It WAs JuST SchOOL\". But if you dropped out of a PhD and try to go into industry then its: \"OMG you couldn't even PAss SChoOl!?\".",
+                      "author": "Least_Curious_Crab",
+                      "created": 1615467297,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                },
+                "gqpj3bj": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqpj3bj/",
+                  "text": "This assumes you can get that first job. In some fields, PhD research requires a completely different skill set than undergrad coursework and you can open up a lot of options.",
+                  "author": "mediocre-spice",
+                  "created": 1615569026,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "gqg4b9o": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg4b9o/",
+              "text": "It's the most realistic option for most of using your training actually matters to you.",
+              "author": "ActionXPotential",
+              "created": 1615386011,
+              "upvotes": -19,
+              "replies": {
+                "gqg4vd9": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg4vd9/",
+                  "text": "Government, NGOs, startups, industry...\n\nI'm in STEM so maybe its different, but I'm getting the hell out of academia once I graduate. Although I say that now, 2 years into a 7 year degree \ud83e\udd37\u200d\u2640\ufe0f",
+                  "author": "TheScienceMothra",
+                  "created": 1615386288,
+                  "upvotes": 21,
+                  "replies": {
+                    "gqg7i8p": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg7i8p/",
+                      "text": "If I could find a job in any of those areas in my geographic location, I would leave in a heartbeat. I am in molecular neuroscience and none of my skill sets are sought after in industry or government. The few positions available don't pay much better or offer any better job security. Academia is unfortunately the best option",
+                      "author": "ActionXPotential",
+                      "created": 1615387570,
+                      "upvotes": 7,
+                      "replies": {
+                        "gqgcl28": {
+                          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgcl28/",
+                          "text": "Why don't you move to where the jobs are, if you want to leave academia so badly?",
+                          "author": "TheScienceMothra",
+                          "created": 1615389826,
+                          "upvotes": 9,
+                          "replies": {
+                            "gqilq4d": {
+                              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqilq4d/",
+                              "text": "Having a family means I need to consider them in my decisions. Can't leave unless the lady can, which is at least 2-3 years. Even then, moving to the coast (usa) where most industry jobs are (we are in the south), comes with higher cost of living and often a dramatic reduction in pay for the lady; she has options to start between 350-700k/year here, or around 250-350k/year on coastal cities. That is a huge loss in pay for the family just so I can have a job away from academics. Also, due to health reasons, we shouldn't be far from other family. So unless there are any biotech companies in the south or south side of the Midwest in need of yet another molecular neuroscientist, I am afraid I feel stuck at the academic institutions. In my city in particular, there are only two start-up and both are not hiring, I checked, every PhD in this town has checked. \n\nSo, am I willing to move? Kind of, with major limitations associated with having a life partner. Am I willing to leave her to pursue industry? Absolutely not. That would be dumb for several reasons.",
+                              "author": "ActionXPotential",
+                              "created": 1615424869,
+                              "upvotes": 1,
+                              "replies": {
+                                "gqj8kqh": {
+                                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqj8kqh/",
+                                  "text": "Wow! What does she do for a living?\ud83e\uddd0",
+                                  "author": "mrmh2217",
+                                  "created": 1615437554,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "gqk8c6j": {
+                                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqk8c6j/",
+                                      "text": "Medicine.",
+                                      "author": "ActionXPotential",
+                                      "created": 1615461508,
+                                      "upvotes": 2,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "gqgbp9h": {
+                          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgbp9h/",
+                          "text": "What do you consider your skill sets?",
+                          "author": "nemicolopterus",
+                          "created": 1615389474,
+                          "upvotes": 3,
+                          "replies": {
+                            "gqh3rny": {
+                              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqh3rny/",
+                              "text": "Rodent neurosurgery, general molecular analysis, RT, Western blots, multiplex variants of such, cloning, immunohistochemistry, microscopy, in vivo imaging, behavior assessments, cell culture, in vitro assays, gene therapy, redox, and of course basic statistics.\n\nOutside of cloning and gene therapy experience my skill sets are not coveted by industry.",
+                              "author": "ActionXPotential",
+                              "created": 1615400231,
+                              "upvotes": 3,
+                              "replies": {
+                                "gqha0rj": {
+                                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqha0rj/",
+                                  "text": "Dude are you kidding me??? You have a great skill set for industry. I know people who do exactly that. Don't get tunnel vision and sell yourself short. Just because your PhD says  molecular neuroscience does not mean your pigeon-holed for that field of science. When companies look at PhD, they want someone who's familiar with the scientific process.\n\nI'm probably a little biased since I'm in Boston, but employers would kill for applicants like you here. And I'm sure at other biotech hubs around the world. My advice would be to consider your skill set outside what you normally think of and illustrate that on your resume.",
+                                  "author": "JHDog93",
+                                  "created": 1615402711,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "gqh0vl9": {
+                          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqh0vl9/",
+                          "text": "You have more skills than you realize. You know how to evaluate scientific research for quality, you are probably a very fast learner, you have experience writing and communicating about complex topics, and you know the ins and outs of how science gets done. You may have also written custom code for data analysis (common for neuroscience grads). These are all marketable skills. Consider careers at startups, consulting firms, nonprofits, etc. There are many organizations in dire need of the skills that PhDs have, even if that doesn't include bench work. Source: recently got my PhD in neuroscience and I am currently interviewing for remote positions in science writing.",
+                          "author": "Killer_Sloth",
+                          "created": 1615399140,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "gqgi9y3": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgi9y3/",
+                  "text": "Not really. In my industry, actually it really helps because I am dealing with obscure research papers and internal documents all day long that have some quite complicated research in it, which definitely needs a PhD level knowledge. Also, my PhD is a good selling point for my company when we are submitting tenders to companies and governments.",
+                  "author": "KS_tox",
+                  "created": 1615392230,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gqgvlld": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgvlld/",
+      "text": "Yes. I would say I felt that way until about five years post-graduation. The trauma I endured, I had no idea if it was worth it or not. But, now I'm a tenured department chair. I love my job, and I couldn't have achieved it without the degree. It's only been recently that I can say that it was worth it for me. I just wish it wasn't so damn awful to get here.",
+      "author": "yourmomdotbiz",
+      "created": 1615397416,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "gqhgvvs": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhgvvs/",
+      "text": "About to finish a humanities PhD at an elite institution. I'm not 100% sure I regret it--I had a lot of positive experiences (along with a lot of negative ones), grew a lot as a person, and met some of the most wonderful people in my life. But at the very least, I wish I'd started preparing from day 1 of my graduate studies for a non-academic career path. I'm now trying to apply for non-academic jobs, and I feel like I'm almost in a worse position than if I were just getting my BA.\n\nA big part of me also wishes I'd instead pursued graduate studies in a field that has more career options (e.g. therapy/social work or education).",
+      "author": "possiblegirl",
+      "created": 1615405585,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gqfarf7": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqfarf7/",
+      "text": "I wonder this. My mh has been in the toilet for a while.",
+      "author": "CaptainLameO",
+      "created": 1615362654,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "gqfzjbq": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqfzjbq/",
+      "text": "So far all of my friends including me , don\u2019t regret getting a PhD cause it\u2019s required to get the job we wanted. \nWhether that\u2019s medical research, academia path, or me getting a research industry job in Europe for competeing with just a masters is sorta hopeless since there are lots and lots of masters out there. PhD makes you unique and gave me the edge I needed to land a job.\n\nI didn\u2019t enjoy it at the end and it was fun in the beginning but it was necessary for my career path.  \n\nIf you pick a career path where you don\u2019t need a PhD then I can see people regretting it. Cause it\u2019s a lot of years of mental torture lol for something that isn\u2019t necessary.\n\nALOT OF THE REGRETFUL , IDK WHAT TO DO WITH MY PHD posts seems to have the pitfall of the poster didn\u2019t really think about what they would do with a PhD in that field, and what the job market would be , you don\u2019t want to finish and think what next.... that\u2019s the worst thing to do. The entire PhD you should be building your resume into the perfect candidacy for the next job through networking, awards, side jobs, extracurriculars etc. etc.",
+      "author": "RaddishEater666",
+      "created": 1615383475,
+      "upvotes": 17,
+      "replies": {
+        "gqg04ob": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg04ob/",
+          "text": "What is your field anyways?",
+          "author": "joshnico_",
+          "created": 1615383800,
+          "upvotes": 4,
+          "replies": {
+            "gqg1a77": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg1a77/",
+              "text": "Mechanical engineering, why?",
+              "author": "RaddishEater666",
+              "created": 1615384427,
+              "upvotes": 4,
+              "replies": {
+                "gqg3etn": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg3etn/",
+                  "text": "Nothin just wanted to know",
+                  "author": "joshnico_",
+                  "created": 1615385552,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "gqg8gvv": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg8gvv/",
+                  "text": "What job did you get into after your PhD? What kind of research?",
+                  "author": "swordof",
+                  "created": 1615388009,
+                  "upvotes": 2,
+                  "replies": {
+                    "gqgga3h": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgga3h/",
+                      "text": "Research job at a energy company, I\u2019m in process engineering now, which means  some projects are green energy some projects are oil specifc",
+                      "author": "RaddishEater666",
+                      "created": 1615391445,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "guq0ovt": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/guq0ovt/",
+          "text": "If you do a PhD in a theoretical field, you generally don't have the option of getting industry / government jobs. If you want to stay in your field, you effectively have to get one of a very limited number of academic jobs. Just going by sheer numbers, most who want these won't get them and will end up having to switch fields.\n\nAlso many do PhDs between their early to late twenties which is already a period where people grow a lot as a person, and your priorities are likely to shift during this time. What you most want out of life at the time you start a PhD might not be the same as what you want out of life 5 - 6 years later.",
+          "author": "thequirkynerdy1",
+          "created": 1618580044,
+          "upvotes": 1,
+          "replies": {
+            "guq2xuo": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/guq2xuo/",
+              "text": "Thats the caveat of getting a phd in a theoretical field then, it\u2019s something you should still look into before choosing. In fact since a phd isnt a long term job option it probably should weigh in your decision making process a little.\n\nDespite your theory people change alot and they might not know what they want, my university grad program did a study and found most students dont shift their focus from their goal.\n\nFurthermore its better to prep and be open minded about other paths than to wait and see what\u2019s available at the end.\n\nMy overall point is to really capitalize on getting a good job after phd, you need to start building resume and contacts when you start \n\n\nAlso one common factor ive found among profesors is the majority knew they wanted to be a professor early on , high school, under grad and basically drove their whole professional career to become one",
+              "author": "RaddishEater666",
+              "created": 1618581121,
+              "upvotes": 1,
+              "replies": {
+                "guqftyu": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/guqftyu/",
+                  "text": "In my case actually, I spent a long time thinking I wanted to be a professor - from before undergrad until late PhD when I changed my mind. I can't say definitively how typical that was, but I've also had a number of friends who have changed their minds during the PhD.\n\nIt might also be more common for people in theoretical fields to end up developing feelings of \"how am I contributing to the world?\" and as a result move into something else. If the study you mentioned was just within your grad program, I'd be curious to see a similar study done across different fields.\n\nI actually found it very doable to break into an industry role after my PhD, but I definitely had feelings that I'd be further along had I stayed in one area. Also I don't think these feelings are specific to changing fields after a PhD - I would imagine most people who undergo a career change after putting years of work into one field would share similar sentiments.",
+                  "author": "thequirkynerdy1",
+                  "created": 1618586813,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gqgw6e9": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgw6e9/",
+      "text": "Yes. At the time when I joined my program, it seemed like the right thing. But I hate so much of it every day, and I have no intentions of going for a TT position at an R1. I love teaching and messing around with data, which is the only reason I'm trying to stick it out. But I think about quitting every day.\n\nI wonder where I would be if I hadn't grown up in an environment that glorified STEM and academia above all else.",
+      "author": "bandinterwebs",
+      "created": 1615397604,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gqhii3z": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhii3z/",
+      "text": "Definitely. Could have gotten a job, made good money, and gotten married but nope, gotta do that PhD and now I have a low-paying postdoc job with no money and am single. But this is life, just gotta move on I guess.",
+      "author": "SubcooledBoiling",
+      "created": 1615406273,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gqfkf6a": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqfkf6a/",
+      "text": "It usually depends on your experience. People from toxic labs often regret going though this experience since that shit can leave a lasting impact.  \nPeople who had a positive experience or at least didn't suffer hard abuse and end up in another job sometimes seem to have some soft regret in terms of \"starting the job without a PhD earlier would have left me in a better place\". I myself am one of those. I generally had a great experience and learned a lot but since my job wouldn't even require a Master degree I of course wonder what could have been if I would have started there earlier. A friend of mine did a Bachelor degree in biology and started working as a technician afterwards and while again she does not really completely regret studying she often voices that she would have preferred to get related education (which you could be paid for) instead of going into dept. It's more a \"in hindsight\" thing, there aren't that many jobs that require a PhD, so we kind of have to settle for something lower, meaning there's a lot of \"what it's\" going through our heads.\n\nI also suspect this is a bit more common in Germany, where we have to do a Bachelor and Master degree to be able to start a PhD, which of course leaves us with a lot more job opportunities \"pre-PhD\" than in countries where you decide between both degrees and basically compare Bachelor-level job market with post-PhD job market when discussing you options before and after.",
+      "author": "LittlePrimate",
+      "created": 1615371973,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "gqh8ib9": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqh8ib9/",
+      "text": "100% regret the entire thing.",
+      "author": null,
+      "created": 1615402102,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gqfcnrl": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqfcnrl/",
+      "text": "Not being sarcastic, but I think this is the end state for most (say about 75%) PhDs.",
+      "author": "jimmythemini",
+      "created": 1615364482,
+      "upvotes": 22,
+      "replies": {}
+    },
+    "gqg0ikw": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqg0ikw/",
+      "text": "I\u2019m wonder when they\u2019ll take it back!",
+      "author": "amishius",
+      "created": 1615384011,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gqh9ads": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqh9ads/",
+      "text": "Definitely! That is how I am feeling right now!",
+      "author": "Defiant_Transition_6",
+      "created": 1615402414,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gqhivp8": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhivp8/",
+      "text": "I\u2019m sure some people regret getting a PhD, however I certainly don\u2019t. You simply can not get the position I have without a terminal \u2018D\u2019 degree. Of course I left academia after my post-doc for industry, now looking back with the benefit of time that was an extremely wise and life changing decision on my part.    \n\n\nDegrees can open doors, it\u2019s up to you to choose which of those doors to walk through.",
+      "author": "Jobs-",
+      "created": 1615406429,
+      "upvotes": 3,
+      "replies": {
+        "gqkgfz4": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqkgfz4/",
+          "text": ">Degrees can open doors\n\nThey also close doors.",
+          "author": "Least_Curious_Crab",
+          "created": 1615467391,
+          "upvotes": 1,
+          "replies": {
+            "gqkkzmo": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqkkzmo/",
+              "text": "I personally think the idea that a PhD locks you out from a lot jobs is pretty overblown on Reddit, at least for the STEM degrees, but thats just my opinion.",
+              "author": "Jobs-",
+              "created": 1615470167,
+              "upvotes": 2,
+              "replies": {
+                "gqkl67e": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqkl67e/",
+                  "text": "Maybe it's different in other parts of the world, but in the UK, with a STEM PhD, I've found it to be a negative. It really isn't valued outside of very niche areas. In the UK we don't particular treat our engineers and scientist that well as it is. \"Engineer\" is not a protect  title for example.. accountants and plumbers get more respect.",
+                  "author": "Least_Curious_Crab",
+                  "created": 1615470269,
+                  "upvotes": 1,
+                  "replies": {
+                    "gqkm3jm": {
+                      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqkm3jm/",
+                      "text": "You make a good point, there could very well be and likely are regional/country differences. I can only speak from my own admittedly pretty narrowly focused experience being in the US and working in industry.   The specific field I\u2019m in pays quite a bit more in the US than in Europe so when I see talk of opportunity costs and lost wages for getting a PhD, it certainly does ring true for me or really anyone in my field.",
+                      "author": "Jobs-",
+                      "created": 1615470779,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gqhj97p": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhj97p/",
+      "text": "I don't regret getting a PhD.\n\nBut I do think I could've been equally happy with my career path and my current job if I had stopped after a master's (or even a bachelor's), and I'd probably be further ahead in my career with 4-6 more years of work experience under my belt.\n\nAnd this is coming from someone who works in a non-academic job that actually requires a PhD (or at least for which having one makes one much more competitive for the jobs in this field), and who loves that job.",
+      "author": "roseofjuly",
+      "created": 1615406591,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gqhr0vk": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhr0vk/",
+      "text": "I hated the experience and my mental health was affected.... I\u2019m glad it\u2019s over, but I don\u2019t regret it. I landed a tenure track job at a state school and love working with students and the research I\u2019m able to do because of this job. While doing my PhD I sought out opportunities to do research in equity and tech and equity and computer science despite the discouragement of my advisor. It wasn\u2019t her main line of work so she had no interest. So I had to do a lot of it in secret. I was able to do an internship in Silicon Valley too. I was ready to jump into industry if it came down to it. If you do a PhD simultaneously prepare for a related career that you\u2019d love as much as being a prof. You have to feel passionate about this \u201cbackup\u201d option so you don\u2019t feel like a failure. If you\u2019re in the natural sciences industry is always an option but it requires extra prep if you\u2019re in the social sciences. I\u2019m interested in humanities success stories but the humanities PhD path looks even more challenging. Most of the humanity PhD students I knew had to work full time jobs while doing their PhD.",
+      "author": "drpicoloco",
+      "created": 1615409903,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gqihosn": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqihosn/",
+      "text": "A close friend of my wife earned a PhD in neurobiology, just like both of his parents, and then dropped out of his post-doc less than a year in. He's now a pharmacists (and has earned a Doctor of Pharmacy degree while working in that field), and he's happy as a clam there. But I think it's fair to say that he has often wished he had gone straight to the career that makes him happy.\n\nAround the same time he was getting his PhD, I dropped out of my PhD program in ecology. There were a bunch of reasons why I did that, but the biggest was because it was super clear to me, even in 2001, that the job market for academic researchers in fields like ecology is absolutely awful, and I didn't want to do that.\n\nThat said, I defended my dissertation in education five months ago, and am submitting my final revisions next week. I got this PhD while continuing to work full-time as a high school teacher, and I don't know if I'll ever end up in a job that cares that I have a PhD: I did this only because I wanted to-- or, rather, because I had questions that I absolutely needed to figure out how to answer. It was absurdly difficult to do while continuing to work, but it was also incredibly rewarding, even if I don't ever look to see what if any doors it opens to my career.",
+      "author": "jamey1138",
+      "created": 1615422700,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxu22rz": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gxu22rz/",
+      "text": "I often find myself regretting my decision to study a PhD intensely. It was a study that involved a lot of critical social theory and was about protest movements - and utterly irrelevant to any type of career outside of academia.\n\nI more or less had a nervous breakdown, failed in my intention to develop an academic career for various reasons, and feel that the whole thing (which I passed) has acted as a millstone round the neck of my CV and lifetime employment opportunities ever since.\n\nI wish I had studied a one year vocational Masters instead. Financial Management or a conversion Computer Science MSc instead.",
+      "author": "wj_gibson",
+      "created": 1620811855,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h4sw6bj": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/h4sw6bj/",
+      "text": "100% yes. I got an English PhD with the goal of becoming a professor. Completed the degree with many accolades but couldn't find a job. I eventually had to leave academia and now work an office job that I could have done with a B.A.  I truly feel that this has ruined my life.  It is a complete mindfuck to spend so many years working toward something one cares deeply about--to receive constant encouragement from academia--and then, at the end of it all, to see it thrown away and deemed valueless. I can't even go back to my old research as a personal enterprise anymore; it's too depressing to look at.",
+      "author": "traanquil",
+      "created": 1626006659,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gqhhjth": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhhjth/",
+      "text": "yes, even after getting it.",
+      "author": "normabelka",
+      "created": 1615405868,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gqhog1z": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhog1z/",
+      "text": "I'm happy I finished my PhD, overall, but there are a lot of uncertainties about the future of my career. For me, it helps a lot to remind myself that I'm doing something I care about and I don't have to settle or commit to someone else's idea of what my career should be.\n\nMy PhD years also include some of my fondest memories, some great life experiences, and many amazing friends, and I'm forever grateful for meeting them all while in my program. My time in the lab, however, and with my adviser and coworkers was sometimes miserable, true. Looking at this thread, and at my own experiences, I think the key is to make sure you have a life outside your immediate research group and work. At our school, there was a TGIF on Fridays and everyone would go and have a beer and chat with grad students in different departments, which was great. People also made time to party occasionally, or go out into nature and hike or swim or travel. Others had young supportive partners, or hobbies like gaming, trivia, and MtG.\n\nWhen I see regret, I usually see two cases. One is the people who dedicated everything to a toxic adviser and research group, which sometimes doesn't even result in a degree. If an adviser is mean, has people quitting or lodging complaints against him a lot, that's a real red flag, but sadly many will ignore it or think their experience will be different. This goes for PostDocs, too. \n\nThe second case involves people who go for the PhD out of some sense of challenge or accomplishment, not because they love the field. There were a surprising amount of people who seemed to just want to prove something, who never ever went to colloquium or volunteered to help on student visit day or cared much about teaching their classes. On the one hand, I get it - it's a lot of time and work and sometimes it's too much BS. But on the other hand, if you don't like teaching or hearing talks about the subject, what are you there for? In they end, they often ended up bitter and worn out and saying \"it was all meaningless\" in the end.\n\nTLDR: people need to ask themselves if they're really interested in their field, or what their motivations for getting into a PhD are. Thinking ahead helps a lot. Also, take care of yourself god damnit.",
+      "author": "DrSpacecasePhD",
+      "created": 1615408810,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gqhqgft": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhqgft/",
+      "text": "yes, because nothing is worth the humiliation/depression/anxiety/etc..",
+      "author": "fixed-point-learning",
+      "created": 1615409658,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gqgpvwy": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgpvwy/",
+      "text": "A PhD is an academic qualification showing that someone is able to function at a high level and get stuff done. I think a lot of people confuse it with common sense. For example, I\u2019m a PhD but I regularly alienate and hurt people (including myself), however I am able to get stuff done. In my defense I come from a pretty tough background and didn\u2019t have much help developing into a functional person. I hope that one day I can be better, but less bad would be great too! \n\nTl/dr I guess what I\u2019m trying to say is that people from a variety of backgrounds can get PhDs, and that\u2019s a very good thing, but a PhD isn\u2019t a winning ticket.",
+      "author": "marinegeo",
+      "created": 1615395190,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gqhbs8s": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhbs8s/",
+      "text": "Yes. I got a software/business based job I could have gotten out of undergrad. The 8 year phd translated to roughly 3 years of industry experience. 50+ papers out of phd counted for nothing. Also deep regret for enabling my old PI.",
+      "author": "lednakashim",
+      "created": 1615403446,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqhoa16": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhoa16/",
+      "text": "Yes, kinda.\n\nThe phd closes a lot more doors than it opens, and at the beginning of your career it is actually easier to get a job as a BS/MS rather than a PhD. Plus compared to your friends who didnt do a PhD you will be several years behind in life milestones - my friends who didnt do PhDs are married, have kids, own houses, and have well-paying jobs by early 30s. You'll have a lot of catching up to do post-PhD which is tough. The PhD only really becomes an asset mid to late-career.",
+      "author": "PM_ME_GRANT_PROPOSAL",
+      "created": 1615408740,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqhze5g": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqhze5g/",
+      "text": "So far no. Is it hard, yes. But I also don't have my heart set on a job in academia or work in a traditional lab setting. I wouldn't have the opportunity to learn and grow in the way I am now. I took a huggeeee pay cut but I'm much happier than I was in the corporate world.\n\nSomeone told me to think of it like developing a new brain/way of thinking rather than just letters in you name. I feel like I'm becoming an expert in the thing I want to be able to communicate with people.\n\nMaybe I'm green behind the ears but as stressful as it is, I can picture an end that makes it worth it.",
+      "author": "_Shug",
+      "created": 1615413571,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqi1dov": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqi1dov/",
+      "text": "Probably depends on what your PhD is in. I don\u2019t regret mine in bioengineering but I\u2019m certainly not taking in a ton of cash lol.  \n\nMany People in any career have huge regrets. \u2018Physician regret\u2019 and \u2018physician burnout\u2019 is a huge problem with doctors. But it depends on specialty. I know a few lawyers that made a lot of money but hate their job and left it for less money but something they liked more.\n\nI think a lot of people get phds expecting to get a big salary and are mad when that doesn\u2019t happen so they say they regret it. Don\u2019t get a PhD if you just want to make a lot of money.",
+      "author": "stefonsshindiggs",
+      "created": 1615414477,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqim9sk": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqim9sk/",
+      "text": "Yes.\n\nYears of lost salary and benefits, an insane about of moving which is hard on family and relationships, no job security , poor pay and worse hours.",
+      "author": "AdoraBellDearheart",
+      "created": 1615425161,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqj2h4g": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqj2h4g/",
+      "text": "Any PhD here never experienced PhD regret?",
+      "author": "overlapping_gen",
+      "created": 1615433765,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqggq2k": {
+      "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqggq2k/",
+      "text": "Regret is not really a measurement for achievements, if you hurt someone, or break the law then we consider regret. You get a phd because you want to know something, not because you're looking for a good it job. You get a phd because you have a goal that requires a lot of knowledge. If you just want a high paying job then build your career path upwards",
+      "author": "riduser",
+      "created": 1615391616,
+      "upvotes": -2,
+      "replies": {
+        "gqgkpzz": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgkpzz/",
+          "text": "Well, no, you might well regret an achievement because of its opportunity cost. (I regret getting really good at Call of Duty when I was young.) Also, people's reasons for getting a PhD may not survive the process. The academic market could collapse when the student really wanted to go into academia. A person's goals could change, the program could not live up to their hopes, or they might not have accurately considered the costs and benefits of the program.",
+          "author": "colorblooms_ghost",
+          "created": 1615393173,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "gqgzqol": {
+          "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqgzqol/",
+          "text": "Most of the (11) PhD students I advised saw it as a means to an end: a way to get a good job in the U.S.  There were a few notable exceptions, but in my experience in a STEM field many (half or more) are there to cash in when they graduate.",
+          "author": "Superdrag2112",
+          "created": 1615398772,
+          "upvotes": 3,
+          "replies": {
+            "gqh2koy": {
+              "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqh2koy/",
+              "text": "I don't think it's the correct motivation for a phd, that's why they regret it. Sure, it's a way to potentially cash in, but not through a job in some office somewhere. It's not a crash course in how to deal with HR interview questions, it's a complex venture to achieve unknowninformation about a certain subject. I knew very successful people who dropped out the moment they discovered what they were looking for. Going for a phd to get a high paying job in a business focused organization is not a smart way of getting that job. It's not the PHD's fault, it's the student's.",
+              "author": "riduser",
+              "created": 1615399779,
+              "upvotes": 6,
+              "replies": {
+                "gqh3urf": {
+                  "link": "/r/AskAcademia/comments/m1rbt4/is_phd_regret_a_thing/gqh3urf/",
+                  "text": "Agreed.",
+                  "author": "Superdrag2112",
+                  "created": 1615400263,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

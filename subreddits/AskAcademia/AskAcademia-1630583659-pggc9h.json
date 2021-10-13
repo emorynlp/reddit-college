@@ -1,0 +1,184 @@
+{
+  "sid": "pggc9h",
+  "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/",
+  "title:": "Is it okay to disclose anonymous reviews?",
+  "text": "I got rejected by a conference (EMNLP 2021) but I still want to put this on arxiv and my github, where I also want to post the anonymous reviews I got. Since they are anonymous, I think it's okay to publish them?",
+  "author": "tae898",
+  "created": 1630583659,
+  "updated": 1634079427,
+  "over_18": false,
+  "upvotes": 12,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "hbb0p8w": {
+      "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbb0p8w/",
+      "text": "This may be field specific (and may differ for journals vs conferences), but communication with editors and reviewers is usually considered confidential unless otherwise noted. Obviously, not everyone adheres to this policy, but I think it's a good one - openness should be established as journal/conference policy (or reviewer decision) rather than leaving it to individual authors who are likely to be biased in the reviews they choose to make public. That said, posting brief excerpts from the reviews is not uncommon, so maybe just do that?",
+      "author": "late4dinner",
+      "created": 1630584247,
+      "upvotes": 25,
+      "replies": {
+        "hbb1iyi": {
+          "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbb1iyi/",
+          "text": "Thanks for your reply. \n\nI want to post the full reviews I got from the three anonymous reviewers, though. Not sure now if I should do this ... haha",
+          "author": "tae898",
+          "created": 1630584712,
+          "upvotes": -21,
+          "replies": {
+            "hbc3gj8": {
+              "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbc3gj8/",
+              "text": "Everyone is telling you not to do it haha",
+              "author": "Semantix",
+              "created": 1630601271,
+              "upvotes": 27,
+              "replies": {
+                "hbc59ut": {
+                  "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbc59ut/",
+                  "text": "exactly hahaha. I won't do it! guys stop disliking my comments lol",
+                  "author": "tae898",
+                  "created": 1630601983,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "hbbuega": {
+              "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbbuega/",
+              "text": "haha",
+              "author": "10mmMasterRace",
+              "created": 1630597697,
+              "upvotes": 12,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbb0z73": {
+      "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbb0z73/",
+      "text": "There are three reasons I'll say no:\n\n1. Why do you want to publish the reviews? That is not a common practice (except for journals where open peer review is the norm), and readers of your work will not be expecting to see the reviews.\n2. You do not hold the copyright in the reviews, and hence you do not have the legal right to republish and distribute them. arXiv's submission terms require that either \"The Submitter is an original author of the Work\" or \"If the Work was created by multiple authors, that all of them have consented to the submission of the Work to arXiv,\" and you would not meet these requirements.\n3. Peer reviews (except in journals with open peer review) are traditionally confidential, and the reviewers would be quite surprised to see their reviews posted publicly. They would likely have written the review differently if they expected it was for a broad audience, instead of specifically for you and for the editors.",
+      "author": "capnrefsmmat",
+      "created": 1630584407,
+      "upvotes": 62,
+      "replies": {
+        "hbb1vvc": {
+          "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbb1vvc/",
+          "text": "Thank you for your reply.\n\n1. I want to do this since arxiv preprints are not peer-reviewed. I want to show them that this paper was rejected and that the people reading this should take it with a grain of salt.\n2. Alright. I thought those rules might apply differently to the anonymous reviews.\n3. Is it really confidential? I thought now that things like openreview are getting more popular, the \u201canonymous\u201d reviews are more open to the public ...",
+          "author": "tae898",
+          "created": 1630584909,
+          "upvotes": -22,
+          "replies": {
+            "hbb2ah7": {
+              "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbb2ah7/",
+              "text": "Copyright applies to anonymous reviews the same way it does to any other work. And yes, reviews are typically confidential. There are sites like OpenReview, but the question is: Did the reviewers who wrote *these specific reviews* expect them to be published, or did they expect them to only be visible to you and the conference committees?",
+              "author": "capnrefsmmat",
+              "created": 1630585130,
+              "upvotes": 26,
+              "replies": {
+                "hbb38i0": {
+                  "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbb38i0/",
+                  "text": "On EMNLP guidelines and FAQs, I can't find any rules on the reviews being open to the public. hmm ...",
+                  "author": "tae898",
+                  "created": 1630585630,
+                  "upvotes": -15,
+                  "replies": {
+                    "hbc2ilt": {
+                      "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbc2ilt/",
+                      "text": "No reviewer expects their reviews to be posted publicly unless they explicitly agree to that. Regardless of whatever fine print you can find, it's just basic professional ethics and courtesy. If I found my confidential reviews on someone's website I'd wonder what is wrong with that person.",
+                      "author": "a_large_plant",
+                      "created": 1630600905,
+                      "upvotes": 21,
+                      "replies": {}
+                    },
+                    "hbcya0o": {
+                      "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbcya0o/",
+                      "text": "If top comment is asking you to not do it, seriously don't do it.",
+                      "author": "aladinmothertrucker",
+                      "created": 1630613531,
+                      "upvotes": 12,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "hbd1v5f": {
+              "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbd1v5f/",
+              "text": "Anonymity has nothing to do with intellectual property. The conference commissioned those reviews, they own the copyright. You don't have rights over the IP and cannot publish them. \n\nIf I wrote a book you couldn't publish it and claim it was ok because you didn't put my name on it.",
+              "author": "ACatGod",
+              "created": 1630614939,
+              "upvotes": 6,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbb9w3r": {
+      "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbb9w3r/",
+      "text": "Absolutely not. You do not have the authors\u2019 (of the reviews) permission to publish those reviews.",
+      "author": "bigrottentuna",
+      "created": 1630588948,
+      "upvotes": 28,
+      "replies": {}
+    },
+    "hbc00k2": {
+      "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbc00k2/",
+      "text": "Thank all of you for the replies.\n\nI guess I haven't thought about this thoroughly.",
+      "author": "tae898",
+      "created": 1630599931,
+      "upvotes": 19,
+      "replies": {}
+    },
+    "hbe5fz1": {
+      "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbe5fz1/",
+      "text": "The other problem is that this may damage your own reputation. You presumably feel that the reviewers were unfair, harsh or biased - but suppose that they were correct and there are major problems with your work which you are unable to recognise or accept? If so it is surely better that your future employers should not see these reviews!",
+      "author": "pixiepasty",
+      "created": 1630633184,
+      "upvotes": 6,
+      "replies": {
+        "hbfbqqw": {
+          "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbfbqqw/",
+          "text": "I think the reviewers were very fair, and I like their reviews. This was the biggest reason why I wanted to make them public so that even more people can see it.\n\nNonetheless, I won't do it since I've learned how this works now.",
+          "author": "tae898",
+          "created": 1630659899,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hbbmim1": {
+      "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbbmim1/",
+      "text": "I think reviewers would write better reviews if they knew they could be anonymously dragged for absurd statements in a public forum and there are certain choice quotes from negative reviews of my own papers that I'd love to feature somewhere like the dust cover of my book :P\n\nThat said, it's very much *not* considered acceptable to publicly share other people's reviews. Perhaps one day...",
+      "author": "Radiant-Tax",
+      "created": 1630594412,
+      "upvotes": 7,
+      "replies": {
+        "hbbwcae": {
+          "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbbwcae/",
+          "text": "At the same time, i'd never accept to peer review anymore, because I'd be afraid that any time I critiqued much more influential people I might receive negative repurcussions.",
+          "author": "doornroosje",
+          "created": 1630598471,
+          "upvotes": 4,
+          "replies": {
+            "hbcfruk": {
+              "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbcfruk/",
+              "text": "Even if it remained anonymous? The proposal is that we could publish Reviewer #2's review, but not reveal who they were (assuming no text analyzer links it to you somehow). Maybe that's still enough to dissuade you, but I wouldn't expect negative repercussions to be a factor.",
+              "author": "LoopMoopNoop",
+              "created": 1630606191,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbdb0yb": {
+      "link": "/r/AskAcademia/comments/pggc9h/is_it_okay_to_disclose_anonymous_reviews/hbdb0yb/",
+      "text": "Most people seem to coming down on one side of this issue, but let me voice a different view: In some sectors of my field anonymous reviews have unfortunately become a way for a small group with institutional power to block any new evidence that contradicts their claims, with no accountability at all. As an alternative practice, I have started just introducing myself at the beginning of reviews, and then I don't write anything that I am not prepared to be held accountable for. Personally I think that unprofessional and unscientific anonymous reviews are fair game for citing, especially considering that nobody is being identified by name. If you are writing things in your reviews that you would be ashamed of if they were made public, then that's perhaps not the best indication that you are a constructive or fair reviewer.",
+      "author": "encom-mcp",
+      "created": 1630618988,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

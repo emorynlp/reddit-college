@@ -1,0 +1,39 @@
+{
+  "sid": "q55lz0",
+  "link": "/r/AskAcademia/comments/q55lz0/ieee_tbme_final_paper_edited/",
+  "title:": "IEEE TBME - Final Paper Edited?",
+  "text": "Sorry, this probably isn't the best subreddit for this, but I can't find a more suitable one, nor does this appear to break the rules, so I'll give it a shot. \n\nMy paper got accepted for publication in IEEE Transactions on Biomedical Engineering, and I have been asked for final files of my work. \n\nDoes anyone here know if IEEE TBME does the editing themselves, or do they just check your paper to see if it follows the general guidelines and approve it? \n\nI'm split. If I look at their recent publications, they're all clearly professionally edited, there is also this content in the email: \n\n> IMPORTANT-Please be sure that all files are the final version and that each item in the list below is included and uploaded in a SINGLE session on Manuscript Central. Once you make your final submission, you will not be able to add or change files until you **receive page proofs from IEEE**. Also, the handling of your manuscript is done primarily by the Editorial Staff at IEEE; If you have questions please contact: xxxxxxxxx\n\nHowever, alternatively, they also ask for this:\n\n> B) 1 publication-ready pdf of manuscript (single-space, double-column format; see below for details under ONLINE PREPRINT). Templates can be found at\nhttps://www.embs.org/tbme/for-authors/\n\n>Please note that you will also see a copy of your accepted PDF when uploading your final material, which will also be sent to IEEE production for comparison purposes to the final version.  However, the final camera-ready copy mentioned above is still required.\n\nI'm asking myself, \"why do I need to submit a photo-ready copy if they're editing themselves?\" My guess is (probably obviously) for a pre-print copy (which is new to me, not done that before), but I'm doubting myself and want confirmation. I don't want to upload an unrefined copy if it's going to be published, as-is.\n\nI used to upload my papers in LaTeX form, and put in the effort to get them really refined, but in recent years I switched to Word to avoid fights with advisors over ease of editing, and because there was no need to put in the effort myself when the professionals edited it themselves anyway. \n\nI would email the guy in the email for confirmation, but despite first submitting this paper in the start of March, I only have 10 days to submit the final files (and 4 are already gone). Seems fair.",
+  "author": "01010100111011011011",
+  "created": 1633862134,
+  "updated": 1634078391,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hg3avbq": {
+      "link": "/r/AskAcademia/comments/q55lz0/ieee_tbme_final_paper_edited/hg3avbq/",
+      "text": "If any journal doesnt have their own typesetters, that would be a huge red flag",
+      "author": "DeepSeaDarkness",
+      "created": 1633864266,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hg3mzt2": {
+      "link": "/r/AskAcademia/comments/q55lz0/ieee_tbme_final_paper_edited/hg3mzt2/",
+      "text": "The PDF you submit will be uploaded as a pre-print onto IEEE Xplore without any changes within a few days of submitting your accepted paper. A typesetter will then format your paper to the TBME format that appears in the print journal, and the PDF on IEEE Xplore will eventually be replaced with the typeset version once your article is assigned an issue number, which may be in several months. IEEE likes to move quickly with the final page proofs, and they pretty much copy/paste your content into the journal format, so you will want to make sure you have already addressed all errors in grammar, figures, tables, equations, and so forth because you will have limited opportunity to revise when approving the final proofs. In my experience, they do not substantially edit the actual content of the paper when typesetting, since IEEE expects that submissions already be fairly polished.\n\nSource: have published with IEEE journals before.",
+      "author": "curetes",
+      "created": 1633872207,
+      "upvotes": 3,
+      "replies": {
+        "hg5d3us": {
+          "link": "/r/AskAcademia/comments/q55lz0/ieee_tbme_final_paper_edited/hg5d3us/",
+          "text": "Thanks. That's what I assumed.",
+          "author": "01010100111011011011",
+          "created": 1633899087,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

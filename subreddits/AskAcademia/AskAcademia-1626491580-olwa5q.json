@@ -1,0 +1,48 @@
+{
+  "sid": "olwa5q",
+  "link": "/r/AskAcademia/comments/olwa5q/what_to_do_when_reviewer_gives_vagueconfusing/",
+  "title:": "What to do when reviewer gives vague/confusing recommendations on a submitted math paper",
+  "text": "I recently graduated with a Math PhD, and I recently received  my reviewer's remarks for a paper I submitted several months ago.   I am no longer professionally in academia but intend to continue my research on the side.  This was my first sole author paper,  and though all the results and proofs are my own, I had a good bit of guidance from my advisor at the time on setting it up.  Even though I received my terminal degree and consider myself pretty good with the actual research portion of academic work, the logistics behind publication is something that I am still a novice on, and most of my other experience with publishing was working with more experienced people in my field.\n\nThe good news is that the reviewer recommended the paper for publication (and it was in a top journal), but I am having trouble figuring out how to resolve an issue.  Their biggest concern was a series of proofs leading to a central result that they were too technical and inelegant, to the point that they claimed they skipped reading them.  The reviewer recommended a more intuitive approach, But I can't even understand what he means by it, since at a first glance the path he suggested happened to be, as I could tell, exactly the approach by some other authors which would mean, well plagiarism.  See, it turned out that the result in question also happened to be proved independently in another paper by different authors that was submitted only a few weeks before mine, but using very different methods: theirs was more abstract and intuitive, but mine involved an explicit construction, so I figured that there could still be some merit in the technique and kept my own proofs. Now it seems like he finds the construction itself to be too clunky to be worth it.\n\nHave other people run into things like this?  Specifically vagueness in recommendations or suggestions that would result in removing large chunks of a paper... I am considering just deleting the proofs and citing the other authors (it's a big result, but not the main one), but I am also just not sure what the reviewer is even expecting.  If I were still a student, I would just ask my then advisor for advice.  Is this still ok to do?  Part of me feels embarrassed about it as well, since I am now not technically his student...",
+  "author": "Lagrange-squared",
+  "created": 1626491580,
+  "updated": 1634082519,
+  "over_18": false,
+  "upvotes": 12,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h5h9fdx": {
+      "link": "/r/AskAcademia/comments/olwa5q/what_to_do_when_reviewer_gives_vagueconfusing/h5h9fdx/",
+      "text": "Of course there\u2019s nothing wrong with asking your advisor (now your colleague) for advice. \n\nI think your reasoning is compelling; the two proofs by different authors are contemporaneous, and there are advantages to your proof that merit retaining it in your paper. But unfortunately, you must elaborate your proof to the reviewer to the point that they\u2019ll read it or convince the editor that this isn\u2019t necessary. If this isn\u2019t possible, you\u2019ll probably need to move to another journal or, as you note, abandon your own proof. \n\nI think if you dispassionately present your case to the editor and clearly articulate the advantages of your proof, you might have a chance at acceptance. For best results, keep your responses extremely measured and practical (as is your question here, which is a good sign).\n\nEdit: I\u2019ll add that reviewers are often inarticulate, hurried, brusque, and subjective, but they often have a good sense of whether a paper has a weakness. If the author can respond suitably to the objection, then approval and publication usually proceeds smoothly.",
+      "author": "Chemomechanics",
+      "created": 1626493383,
+      "upvotes": 12,
+      "replies": {
+        "h5j07nd": {
+          "link": "/r/AskAcademia/comments/olwa5q/what_to_do_when_reviewer_gives_vagueconfusing/h5j07nd/",
+          "text": "Thanks for the suggestions.  I finally emailed my former advisor to see his take on it.  For all other requested revisions I could figure out if the reviewer had a legitimate point or was missing something, and was confident in how to respond.  \n\nAgreed on the hurriedness/ brusqueness.  It took me a few days to build up some thick skin and look objectively at some of the comments without taking it personally.  The reviewer was actually generally pleased with the main result, and there weren't too many other requested corrections, so I feel like I did relatively well for a first draft.  This one revision just through me in for a loop because the reviewer actually said he didn't read this particular section.  I had to figure out what theorems he was specifically talking about.",
+          "author": "Lagrange-squared",
+          "created": 1626537872,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h5ij31t": {
+      "link": "/r/AskAcademia/comments/olwa5q/what_to_do_when_reviewer_gives_vagueconfusing/h5ij31t/",
+      "text": "Yes, it's worth asking your advisor. Second, how did the editor respond to the reviewer? It's been my experience the editor points to specific comments made my reviewers to direct your revisions. With that said, it's also *okay* to respond to a reviewer (in my field), explaining why you are *not* adopting their suggestion. Finally, given that the alternate proof emerged concurrently with yours, do you reference it in your manuscript? Such a response by a reviewer might be dealt with by a few sentences in the introduction where you both reference the other proof and suggest how your proof furthers the field and later in the discussion where you more explicitly juxtapose your technique vs. theirs.",
+      "author": "Teacher_",
+      "created": 1626529031,
+      "upvotes": 2,
+      "replies": {
+        "h5j3wrn": {
+          "link": "/r/AskAcademia/comments/olwa5q/what_to_do_when_reviewer_gives_vagueconfusing/h5j3wrn/",
+          "text": "The editor had a general \"please look through the reviewer's comments and respond accordingly\" type statement.    For some of the other comments by the reviewer, I would clarify something in the text but still defend my reasoning.    \n\n\nI did refer to the alternate proof, and explained briefly why I was still including my own approach in manuscript, but he seemed not to notice? As another commenter mentioned, he might have been rushed.  The other option I have, it seems, is to point it out to the reviewer, and then perhaps see if I can make my own approach far more efficient.",
+          "author": "Lagrange-squared",
+          "created": 1626539613,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

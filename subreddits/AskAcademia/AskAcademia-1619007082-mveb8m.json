@@ -1,0 +1,569 @@
+{
+  "sid": "mveb8m",
+  "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/",
+  "title:": "Reviewing the n-th paper about an overdone topic. What should I say?",
+  "text": "I'm reviewing for a high impact medical journal. A group submitted a paper where they use artificial intelligence to solve a specific (technical, non-diagnostic) task. This task is perfectly suited for artificial intelligence. Indeed the first papers that tried it and succeeded were from 2016. \n\nIn this paper the authors try the latest fad in neural network design and they conclude that... this one works. Like the 200 previous others with less fancy techniques. \n\nWhat can I say? It's technically correct. But if it were a math journal I'd be asking for many experiments to be performed so that it shows what are the differences between this solution and the state-of-the-art ones. But here it's a medical journal, no one cares about math. Should I recommend acceptance? Then why not another 200 ones that say \"this thing that works also works if I paint my PC green\"? Should I recommend rejection just because they bored me?  Should I ask for further tests? Which ones? They already demonstrated quite well that \"it works\". Just not that it works any different from how it's known to do!  And anyway... I don't want to be the asshole reviewer!",
+  "author": "lucaxx85",
+  "created": 1619007082,
+  "updated": 1634080503,
+  "over_18": false,
+  "upvotes": 266,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "gvbmffm": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbmffm/",
+      "text": "This reminds me of [this](https://pubs.acs.org/doi/abs/10.1021/acsnano.9b00184) beautiful article titled \"Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect?\". I do not want to spoil the fun read.",
+      "author": "agrumpyguy",
+      "created": 1619012642,
+      "upvotes": 202,
+      "replies": {
+        "gvcerqw": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvcerqw/",
+          "text": "Oh my god. Thank you so much for this absolutely wonderful paper. I was crying of laughter while waiting for my girlfriend at the train station.\n\nIt also illustrates my feeling about most of the papers I review very very well.",
+          "author": "NilsTillander",
+          "created": 1619025043,
+          "upvotes": 54,
+          "replies": {
+            "gvcxkcc": {
+              "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvcxkcc/",
+              "text": "That article most have so many fans. I'm amazed that no one has snagged the usermame /u/Hu-GO-BD.",
+              "author": "dcgrey",
+              "created": 1619033004,
+              "upvotes": 8,
+              "replies": {
+                "gvczpfo": {
+                  "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvczpfo/",
+                  "text": "Someone talkin' 'bout me?",
+                  "author": "Hu-GO-BD",
+                  "created": 1619033924,
+                  "upvotes": 27,
+                  "replies": {
+                    "gvd08nr": {
+                      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvd08nr/",
+                      "text": "Haha, happy zeroth cake day!",
+                      "author": "dcgrey",
+                      "created": 1619034155,
+                      "upvotes": 11,
+                      "replies": {
+                        "gvd2tzf": {
+                          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvd2tzf/",
+                          "text": "Thank you!",
+                          "author": "Hu-GO-BD",
+                          "created": 1619035259,
+                          "upvotes": 8,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gvfhva8": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvfhva8/",
+          "text": "OMG this is gold! How have we never heard of this?",
+          "author": "ThePhysicistIsIn",
+          "created": 1619088620,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "gvbd9uh": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbd9uh/",
+      "text": "It is perfectly acceptable and appropriate that you recommend publication in a lower-impact journal if you feel the authors' work is correct but not sufficiently novel. You should substantiate this by comparing to other, similar works in your report.",
+      "author": "Hapankaali",
+      "created": 1619007568,
+      "upvotes": 316,
+      "replies": {
+        "gvbm1go": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbm1go/",
+          "text": "I've done this before several times. If you list the 8-10 other similar papers in similar or lower impact journals, the editors usually get the point.",
+          "author": "boonamobile",
+          "created": 1619012447,
+          "upvotes": 127,
+          "replies": {}
+        },
+        "gvbp5fx": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbp5fx/",
+          "text": "A few journals in my field explicitly ask if a paper is novel and different, and, if the reviewers feel it is not, they must provide three substantially similar papers.\n\nI think this is a good way to handle it.  I\u2019d respond with something like \u201cthis paper is technically correct but the very similar methods has been validated and published (examples 1, 2, 3) so I don\u2019t think this paper adds a lot of new information that our readers would find impactful.\u201d",
+          "author": "Decisionsota",
+          "created": 1619013970,
+          "upvotes": 80,
+          "replies": {
+            "gvbzcfc": {
+              "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbzcfc/",
+              "text": "> \"this thing that works also works if I paint my PC green\"\n\nBut, the PC was Green! \n\nGreen!!!",
+              "author": "gobucks314",
+              "created": 1619018562,
+              "upvotes": 41,
+              "replies": {
+                "gvdjpcq": {
+                  "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvdjpcq/",
+                  "text": "\"The extant literature heretofore has neglected to consider the impact of green housing on computational accuracy. Black body radiation is a well-documented phenomenon...\"",
+                  "author": "Decisionsota",
+                  "created": 1619042667,
+                  "upvotes": 23,
+                  "replies": {
+                    "gvdjztg": {
+                      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvdjztg/",
+                      "text": "I absolutely love this. :)",
+                      "author": "gobucks314",
+                      "created": 1619042804,
+                      "upvotes": 4,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gvc534o": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvc534o/",
+          "text": "I\u2019d argue if they\u2019re the first ones to demonstrate this working then it likely is sufficiently novel, it\u2019s just boring and low hanging fruit in the eyes of OP. \n\nThere may be a techniques specific journal that might be more appropriate, rather than suggesting it may not be novel enough.",
+          "author": "challengemaster",
+          "created": 1619020993,
+          "upvotes": 22,
+          "replies": {}
+        },
+        "gvd5god": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvd5god/",
+          "text": "Hell when I was first taught to write papers one of the first thing you look at is if there are multiple other papers doing the same thing you are writing.",
+          "author": "annacat1331",
+          "created": 1619036390,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gvbk4pm": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbk4pm/",
+      "text": "\"The authors propose using method X to solve the specific task. However, they do not show how using method X compares with using the previously published methods Y or Z which had already successfully been used for the specific task. Due to this, the impact of this paper is quite minor and not worth publishing in this tremendous journal.\" is what I would write",
+      "author": "3d_extra",
+      "created": 1619011464,
+      "upvotes": 31,
+      "replies": {}
+    },
+    "gvbduk5": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbduk5/",
+      "text": "I'm not from science field, but generally you could comment that it doesn't really make a significant contribution, they need to show how their approach is somehow better than the other ones you mentioned. \n\nIf their literature review is sufficiently extensive then they should have mentioned those studies and show how their study fills a necessary gap. If they didn't, then their gap wasn't sufficiently identified and is thus not original enough. \n\nMaybe they have a good explanation but just didn't explain it well, or maybe they submitted it to the medical journal thinking they wouldn't find a reviewer like you who knows their stuff and can see through their BS.",
+      "author": "bluethirdworld",
+      "created": 1619007919,
+      "upvotes": 89,
+      "replies": {}
+    },
+    "gvbhf8z": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbhf8z/",
+      "text": "For some journals you score in categories, one of which is novelty. \n\nIt sounds like this is VERY incremental and not novel. I'd express your concerns and ask that they revise the manuscript to highlight the novel aspects over the state of the art. \n\nWhat makes this algorithm better suited? Anything? Does it have pros/cons vs the other papers you mention. Can it potentially do stuff they can't?\n\nif the answer to all of that is no, I'd probably reject or push it down to a more junior journal.",
+      "author": "Broric",
+      "created": 1619009999,
+      "upvotes": 21,
+      "replies": {}
+    },
+    "gvbe48q": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbe48q/",
+      "text": "Some journals I've reviewed for will explicitly ask \"is it in the top 10% of papers in this field\", and for that the answer is an easy 'no' even if the paper is completely sound. Even if not, It's fine to just say that the study is good and you have no problems with it, but don't think it adds much new to the field, and mention some other papers that are very similar. In the end it's the editors' decision anyway to accept or reject so don't feel bad about it.",
+      "author": "JHT230",
+      "created": 1619008085,
+      "upvotes": 45,
+      "replies": {}
+    },
+    "gvbqwnq": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbqwnq/",
+      "text": "Don't have an answer for OP but novelty always seemed a strange requisite for publication to me. Isn't the goal of research to produce a foundational knowledge base we can draw from? Novelty requirements seem to lead to overselling which I find pretty distasteful. Idk I'd rather have a many studies that point to something being robust.",
+      "author": "Cllassick",
+      "created": 1619014803,
+      "upvotes": 39,
+      "replies": {
+        "gvbt9e1": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbt9e1/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1619015888,
+          "upvotes": 34,
+          "replies": {
+            "gvc23qo": {
+              "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvc23qo/",
+              "text": "Just googling, there's apparently a new journal [ReScienceX](https://www.nature.com/articles/d41586-020-01328-2) that will be devoted to replication studies.\n\nSo maybe the high-end journals can still focus on novelty and pushing the limits of science, while journals like this one can be a source for replication and validation of prior work.",
+              "author": "Statman12",
+              "created": 1619019745,
+              "upvotes": 12,
+              "replies": {
+                "gvc3tao": {
+                  "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvc3tao/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1619020459,
+                  "upvotes": 14,
+                  "replies": {
+                    "gvepo1v": {
+                      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvepo1v/",
+                      "text": "Absolutely. The paper replicating a novel approach is just as important as the paper proposing it.",
+                      "author": "lolmasher",
+                      "created": 1619064410,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "gve2st1": {
+              "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gve2st1/",
+              "text": "I do think there's a difference between replication studies and incrementally-different studies that are _trying_ to be novel (by using slightly different methods) but are failing. \n\nA replication study should aim to reproduce the findings of a previous study; this is attempting _not_ to do that, but rather to demonstrate that \"our very-slightly-different method is better\", which isn't a replication study and _also_ isn't novel. It's in a no-mans-land of not worthwhile in either regard.",
+              "author": "MoonlightsHand",
+              "created": 1619052021,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "gvctin5": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvctin5/",
+          "text": "So, I work in a translational field and I see both why it's relevant and why it isn't.\n\nWhen I read medical/neuroscience studies I'm always longing for more data (more data points, different kind of analyses etc...etc...etc...). So I see why people are proposing to move to the \"novelty is not a criteria\" trend.\n\nBut when I read a math-based paper, or even a technological one like this one.. Novelty is *the* only thing that matter. Say you've demonstrated that technology A can provide images with 1 mm resolution. The only other papers about technology A that might ever be of interest to the scientific community are \n\n* the first demonstration was false\n* technology B can have better resolution\n\nHaving dozens of papers about technology A running on a PC that's painted green providing what it was already known to provide... It doesn't really matter",
+          "author": "lucaxx85",
+          "created": 1619031268,
+          "upvotes": 10,
+          "replies": {
+            "gvdxlj7": {
+              "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvdxlj7/",
+              "text": "*or cheaper\n\nThough in general, yes. There's not a huge amount of value in something that generally does the exact same thing as something that already exists.",
+              "author": "Mezmorizor",
+              "created": 1619049430,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gvbif6u": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbif6u/",
+      "text": "> this one works. Like the 200 previous others with less fancy techniques.\n\nIs the new method distinct from the previous AI methods employed? If so, then it can be valuable contribution.\n\n> What can I say? It's technically correct. But if it were a math journal I'd be asking for many experiments to be performed so that it shows what are the differences between this solution and the state-of-the-art ones.\n\nAs you say, this isn't a math journal. But you can still ask about relative performance. Did they just say \"We're testing out algorithm Z\" or did they say, \"Current state of the art are algorithms W, X, and Y, we're interested in assessing algorithm Z.\" If not the latter, ask them to do so.\n\nAnother thing that you could ask about is sample sizes (perhaps again compared over the methods, as appropriate). From my limited experience with them, ML methods are somewhat \"data hungry\", so if one is better in small samples, or one really excels when n gets large enough, that could be useful to know.\n\n> Should I recommend rejection just because they bored me?\n\nUnless you think that your interest should be the arbiter of what constitutes publishable science, then no. That doesn't mean you need to favorably review this paper, but recommending rejection because you weren't interested doesn't strike me as a viable rationale.",
+      "author": "Statman12",
+      "created": 1619010552,
+      "upvotes": 25,
+      "replies": {}
+    },
+    "gvbmwuj": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbmwuj/",
+      "text": "It depends on the publication criteria for the journal that you are reviewing for. If novelty and high impact are important for that journal, I would send a seperate comment to the editor that says something along the lines of, \"While the work presented here is technically, and possibly scientifically, correct, the work does not rise to the novelty and impact suitable for this journal. I recommend rejection based on these grounds, and resubmission to a more suitable journal.\"",
+      "author": "gradmole",
+      "created": 1619012883,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gvbhe91": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbhe91/",
+      "text": "An unoriginal paper is not going to have high impact, and in math if something is already done I would reject unless the proof technique was much better, in the sense of simpler or more efficient or constructive or what have you. And even then I would recommend reject at a top journal, unless it was clearly an independent (ie roughly simultaneous) discovery",
+      "author": "l_lecrup",
+      "created": 1619009984,
+      "upvotes": 23,
+      "replies": {
+        "gvce2nc": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvce2nc/",
+          "text": "Should you actually consider the quality of a journal when deciding to reject? Aren't you simply inflating the impact factor of big journals like that?",
+          "author": "noknam",
+          "created": 1619024748,
+          "upvotes": 4,
+          "replies": {
+            "gveqd5b": {
+              "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gveqd5b/",
+              "text": "People tend to publish in the journals they review for.\n\nIt's in their interest to inflate the impact factor for those journals.\n\nThe system is broken.",
+              "author": "lolmasher",
+              "created": 1619064854,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "gvf9pb7": {
+              "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvf9pb7/",
+              "text": "This may be something that varies from subject to subject. The other person who replied to you is entitled to their opinion, but I think there is nothing unethical about a hierarchy of publication venues. The very top journals in mathematics (eg Annals of Mathematics) aim to publish only papers that solve or make substantial progress on problems that are quite fundamental and should be of interest to a wide selection of mathematicians. Below that are the top journals in each particular field. For me that's probably the Journal of Combinatorial Theory Series B. As you go down the hierarchy, papers get either more niche or less strong, or a bit of both. This hierarchy helps us sort through the reams and reams of published papers in our (enormous) field. I am unconvinced that there is anything unethical about this - I have reviewed papers for a very wide range of these journals, I doubt that I receive any benefit from doing so. At any rate, impact factor is pretty meaningless for us.",
+              "author": "l_lecrup",
+              "created": 1619080883,
+              "upvotes": 3,
+              "replies": {
+                "gvfb36o": {
+                  "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvfb36o/",
+                  "text": "I guess that if it's a journals intention to keep the IF high then they would state such a criteria for the  reviewer, making at least OP's current dilemma go away.",
+                  "author": "noknam",
+                  "created": 1619082263,
+                  "upvotes": 2,
+                  "replies": {
+                    "gvfidum": {
+                      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvfidum/",
+                      "text": "Out of interest, here's a quote from a recent rejection I received: \"I conclude that this paper does not meet the high standards of significance and broad interest required of the manuscripts published in this journal\" :)",
+                      "author": "l_lecrup",
+                      "created": 1619089043,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gvbqfwz": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbqfwz/",
+      "text": "According to what you said this paper  is more on an AI model than anything else. Perhaps more suited for CS journals?",
+      "author": "Normal_Kaleidoscope",
+      "created": 1619014584,
+      "upvotes": 5,
+      "replies": {
+        "gvbsy4o": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbsy4o/",
+          "text": "Most AI models being published in non-CS scientific journals are in those journals because they are not novel AI techniques, they appeal far more to the readers on the science end, and, frequently, they are not very rigorous from a CS perspective.",
+          "author": "giantsnails",
+          "created": 1619015746,
+          "upvotes": 7,
+          "replies": {
+            "gvbtwnd": {
+              "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbtwnd/",
+              "text": "I see... Makes sense. If I interpreted OP correctly, something similar happened to me. A linguistics paper using AI, I mean it was cool but the results brought no new insights.",
+              "author": "Normal_Kaleidoscope",
+              "created": 1619016178,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "gvbwttu": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbwttu/",
+          "text": "There is little of interest for a CS journal. It's a \"we took one of the most famous latest invention in CS and applied it to this task\" paper. Which do have their place!! The world is full of algorithms that never find a real world application. The thing is... The task was already solved with prior techniques....",
+          "author": "lucaxx85",
+          "created": 1619017464,
+          "upvotes": 9,
+          "replies": {
+            "gvc0fkl": {
+              "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvc0fkl/",
+              "text": "If that is the case, then in their paper, they would need to show why those other studies don't perform this task as well, and why their method is better. It sounds like their literature review is weak and the novelty of their research is not clearly defined. If this is the case, it would be 100% fair to recommend major revisions and resubmission where they need to clearly address why their method is better. I would also recommend comparative studies to current methods to clearly show their method performs better.\n\nYou are an expert in your field and a reviewer. It is your responsibility to ensure what this journal is publishing is good science. Never feel like you are being an asshole reviewer as long as you are backing up what you are saying.  For example, cite the references that perform similar work.",
+              "author": "Nobutadas",
+              "created": 1619019033,
+              "upvotes": 4,
+              "replies": {
+                "gvcbpus": {
+                  "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvcbpus/",
+                  "text": "> For example, cite the references that perform similar work. \n\nI second this",
+                  "author": "Normal_Kaleidoscope",
+                  "created": 1619023773,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gvbxurb": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbxurb/",
+      "text": "Perfectly acceptable to say that its not a suitable fit for the journal and explain why.",
+      "author": "IntLawprof",
+      "created": 1619017913,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gvbypmk": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbypmk/",
+      "text": "My research field is Artificial Intelligence. There is a problem which stems from the deep learning revolution for which many papers don't present any kind of novelty: the authors design a neural network for a specific task, demonstrate that it works (within its boundaries) and that's it. One of my PhD supervisors used to tell me that when we evaluate these kind of papers, we should be aware of the technical **and** the scientific contribution that a piece of work contains. What have we learned on a technical, engineering level from what you are telling us in this paper? Why did things work and why did others not? On a broader point of view, how does this work enhance our scientific understanding of the problem we are trying to frame? Simply telling \"this empirically chosen set of hyperparameters work\" is not enough.\n\nIn my opinion, in a situation such as the one you described, a lack of novelty would be sufficient to not accept a paper in a high-impact journal, unless (as others have already mentioned) the authors are able to argue about how does their work fit in and advance the state-of-the-art of applied ML. Publishing in a non-CS field should not be an excuse to make it less scientifical.",
+      "author": "nexos90",
+      "created": 1619018293,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gvc535k": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvc535k/",
+      "text": "Say what you really think.",
+      "author": "TakeOffYourMask",
+      "created": 1619020993,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gvcf8a8": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvcf8a8/",
+      "text": "I'm in computational biology. For a medium to high impact journal, I'd want to see either a contribution on:\n\n- the biological side (this computational technique improves accuracy/allows us to see this biological thing that we couldn't see before)\n- the theoretical computational side (the algorithm itself is sufficiently novel or there are really interesting theoretical mathematical results included in the paper)\n- the practical computational side (this computational technique is a lot faster or needs significantly lower computing resources which makes this technique a considerable improvement over existing ones in the field).\n- otherwise makes some good argument for novelty. For example, if it opens up further avenues of research by connecting two fields, or provides an orthogonal validation of earlier techniques. \n\nIf the results don't show any of these, then I'd say that it was technically correct but not sufficiently novel.",
+      "author": "LeopoldTheLlama",
+      "created": 1619025238,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gvbhsex": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbhsex/",
+      "text": "I would recommend revise and resubmit asking them to clarify or strengthen what unique contribution their work makes.",
+      "author": "Fleur-duMal",
+      "created": 1619010204,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "gvbrbvi": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbrbvi/",
+      "text": "As someone who applies AI to an engineering subdiscipline, the cookie cutter AI papers really grind my gears. If the authors are able to explain and prove why their method is able to achieve the performance it does (i.e., tried different methods with different underlying structure and fitting approaches), then it's worth a high impact journal because it will help us understand how different data structures impact method selection. If they just opened up a ML text, opened a random page and said let's try this one, definitely relegate it to a lower impact journal.",
+      "author": "imaginekat29",
+      "created": 1619015000,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gvcpxy3": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvcpxy3/",
+      "text": "The question is not does another method do this; the question you should ask is, what utility does this method provide over the previous methods. If the previous methods worked but due to complexity the inference process was too slow for in the loop use and this fixes that problem great. If it shows drastic improvement in robustness towards expected perturbations for the application great. If it shows drastic reduction in data requirements great. All reasons to consider publishing it. \n\nIf they haven't clearly explained in the paper why it is better I would reject for not demonstrating the utility over previously published methods. Papers like this should get rejected before even being sent out to review.",
+      "author": "entropyStable",
+      "created": 1619029758,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gvc4sm9": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvc4sm9/",
+      "text": "Just say that it isn't novel and reject.",
+      "author": "rohanps",
+      "created": 1619020868,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gvc248w": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvc248w/",
+      "text": "Shitcan. There\u2019s plenty of crappy medical research being done that\u2019s at least finding new, exciting, and useful ways to be terrible. After all, if the authors can\u2019t be bothered to explain how their research found something better, faster, or cheaper (or not), why should you bother to say nice things about it?",
+      "author": "doublestuf27",
+      "created": 1619019751,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gvce3on": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvce3on/",
+      "text": "I would just say that it isn't novel and you doubt many would benefit from reading it but I wouldn't worry about rejecting or accepting. If the editors have some 'novelty' standard that they want to maintain then they can decide to reject based on your review, if they don't then that's good too. It doesn't hurt the rest of the field in any way, assuming the paper isn't wrong.\n\nI would definitely not ask for more work in the revisions (except maybe better citations to prior work). I don't think anybody in the target readership of this paper cares about how it compares to other approaches, and you probably don't either (since you seem pretty sure it's about the same). So why force them to do extra work that benefits nobody?",
+      "author": "DevFRus",
+      "created": 1619024759,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gvcfccq": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvcfccq/",
+      "text": "Do they talk about related work at all? Do they atleast mention why this new method is better? Here\u2019s the thing, with AI, even if it\u2019s 0.005% faster than state of the art, it\u2019s considered a big deal. I guess when you think about the grand scheme of things, with big data, even a tiny percent can make a difference. But also AI has a bad habit of p-hacking for these tiny differences too.",
+      "author": "cm0011",
+      "created": 1619025285,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gvcjaf2": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvcjaf2/",
+      "text": "When I review, I typically do not recommend acceptance or rejection unless specifically asked - that's the editor's job. My job is to point out the novelty (or lack thereof) of the work and to critique the scientific rigor.\n\nIf you are specifically asked, then there's absolutely nothing wrong in recommending rejection due to a lack of novelty.\n\n>Should I ask for further tests?\n\nYes, absolutely, if these tests highlight the novelty of this study.",
+      "author": "rick2882",
+      "created": 1619026942,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gvcy9oj": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvcy9oj/",
+      "text": "What is the latest fad in neural network design you're referring to?",
+      "author": "falsomovimento",
+      "created": 1619033307,
+      "upvotes": 2,
+      "replies": {
+        "gvd3vtf": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvd3vtf/",
+          "text": "They just used a normal GAN to improve the loss.\n\nWhich is a good idea but... This task was already working well",
+          "author": "lucaxx85",
+          "created": 1619035710,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gvd8uml": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvd8uml/",
+      "text": "Sounds very boring but, well, technically it is new knowledge\n\nYou could reject on the basis that it doesn't add a big enough of a contribution to be added, since there have been already 200-ish new methods that does the same. What is the novelty about this one, or what does it do better than the previous, already published methods?\n\nConclusions/scope of the paper being too limited could result in a rejection I believe",
+      "author": "math_chem",
+      "created": 1619037834,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gve3pz8": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gve3pz8/",
+      "text": "Just reject it by saying that it's too similar to previous papers in the field and that it doesn't do enough to advance science",
+      "author": "drwarrengphd",
+      "created": 1619052487,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gvenqob": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvenqob/",
+      "text": "I would pass and let someone with more technical knowledge review it although if you cannot logically follow their methodology one wonders if a medical journal is appropriate.\n  There is a ton of math n stats in med research.",
+      "author": "TSIDATSI",
+      "created": 1619063220,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gveq4c0": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gveq4c0/",
+      "text": "Personally, I completely disagree with the notion that novelty is important. This is how replication crises happen, folks, among other things.\n\nYour job, as a reviewer, is to lend your expertise to assessing the rigor of the methods and the conclusions.  The editor can decide whether it's a good fit for the journal. I think you should focus on whether anything is incomplete, provably wrong, or insufficient to draw the conclusions they do. Novelty should not come into the picture. Novelty does not make good science. Science does not require great novelty. Ask for clarity, make helpful suggestions for improving the paper (while remembering that this is not your paper, but their paper), get the info needed to discern whether the methodology is sound and conclusions, if any, are warranted. Please let peer review be peer review, not gatekeeping, nor editorializing.\n\n/2cents",
+      "author": "StephenSRMMartin",
+      "created": 1619064696,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gvf99wd": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvf99wd/",
+      "text": "> Should I recommend rejection just because they bored me? \n\nYour wording in other parts of your post (e.g., \"the latest fad in neural network design\") suggests that you're not a fan of (and probably overly familiar with) deep learning, to say the least. That's perfectly fine, but if **that** is the main reason that the paper bored you (instead of actually bad writing), then you should not recommend rejection.\n\n> Should I ask for further tests? **Which ones?** \n\nYour asking this makes me think your review won't be fair: your mindset is \"let's look for reasons to reject.\" If that's the case, it would be ethical to consider withdrawing from reviewing the paper in question.\n\n>They already demonstrated quite well that \"it works\". Just not that it works any different from how it's known to do!  \n\n\"They already demonstrated quite well that it works\" is a *direct contradiction* of \"should I ask for further tests?\"\n\nAre their results significantly better than the related literature (perhaps accuracy, inference time, memory requirements)? Is there novelty in the framework design? These are the things you should be looking for.",
+      "author": "TheCockatoo",
+      "created": 1619080472,
+      "upvotes": 2,
+      "replies": {
+        "gvfg4q2": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvfg4q2/",
+          "text": "Actually I work with AI and I've programmed a network similar to theirs as a tutorial when learning 2 years ago. So common their task is in my field.\n\nActually I was asking here for a reason not to reject! Which tests should I ask to prove that it works better than one of the many freely available gits that I can download",
+          "author": "lucaxx85",
+          "created": 1619087124,
+          "upvotes": 2,
+          "replies": {
+            "gvgh0s9": {
+              "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvgh0s9/",
+              "text": ">Which tests should I ask to prove that it works better than one of the many freely available gits that I can download\n\nDo they have tests showing that they beat state-of-the-art baselines in this particular application?",
+              "author": "TheCockatoo",
+              "created": 1619107063,
+              "upvotes": 2,
+              "replies": {
+                "gvgjbrv": {
+                  "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvgjbrv/",
+                  "text": "They implement and  train a similar network and a different loss, and the proposed model works better than these 2 alternatives",
+                  "author": "lucaxx85",
+                  "created": 1619108037,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gvbh5g9": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvbh5g9/",
+      "text": "I would recommend to accept, but in your confidential note to the editor, paraphrase what you said here.  The editor can then weigh the technical merit vs. the lack of novelty and make a decision for the journal.",
+      "author": "141421",
+      "created": 1619009850,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gvcdraa": {
+      "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvcdraa/",
+      "text": "It really bothers me that when reviewing a paper I can't write a general comment to the editor describing exactly issues like this.",
+      "author": "noknam",
+      "created": 1619024617,
+      "upvotes": 1,
+      "replies": {
+        "gvef3j9": {
+          "link": "/r/AskAcademia/comments/mveb8m/reviewing_the_nth_paper_about_an_overdone_topic/gvef3j9/",
+          "text": "That's surprising to me! I never peer-reviewed journals but i've reviewed conference papers and for those I've had a special textbox dedicated for private comments to the editors. Seemed like a neat feature at the time that I thought everyone would have...",
+          "author": "IcedRoren",
+          "created": 1619058320,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

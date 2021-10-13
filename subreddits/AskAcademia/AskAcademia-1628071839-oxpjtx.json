@@ -1,0 +1,63 @@
+{
+  "sid": "oxpjtx",
+  "link": "/r/AskAcademia/comments/oxpjtx/how_important_are_recent_references_in_a_paper/",
+  "title:": "How important are recent references in a paper?",
+  "text": "I'm writing a paper with quite a few references (50ish)\n\nVery few of the references are from 2020-2021 (even those are largely websites I'm referring to), and the rest are all from the mid 2010s and late 2000s.\n\nWould this be considered a bad thing by the reviewers of a conference?\n\n(Field is computer science, conference I'm submitting to takes place in December 2021)",
+  "author": "IncorrectCoffee",
+  "created": 1628071839,
+  "updated": 1634080019,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "h7o4x5g": {
+      "link": "/r/AskAcademia/comments/oxpjtx/how_important_are_recent_references_in_a_paper/h7o4x5g/",
+      "text": "I would be a little concerned in a fairly fast paced field like CS if there weren't many recent references. It suggests you aren't familiar with the current state of the field and that you're largely focussed on principles and foundational results which will have been modified and iterated on over time plus there will have been new discoveries/findings.",
+      "author": "ACatGod",
+      "created": 1628080332,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "h7ntw5z": {
+      "link": "/r/AskAcademia/comments/oxpjtx/how_important_are_recent_references_in_a_paper/h7ntw5z/",
+      "text": "I'm not in CS, but in my area it's more important that the references be core to the paper. The age doesn't matter. In a practical sense, the last paper I published used references from the 70's (a couple) to some published immediately before I sent mine in for review.\n\nBy the way, in my area (psychology), 50'ish references for a conference paper would be a lot!",
+      "author": "rockyfaceprof",
+      "created": 1628072672,
+      "upvotes": 6,
+      "replies": {
+        "h7pps65": {
+          "link": "/r/AskAcademia/comments/oxpjtx/how_important_are_recent_references_in_a_paper/h7pps65/",
+          "text": ">By the way, in my area (psychology), 50'ish references for a conference paper would be a lot!\n\nAgree. At some point, an overuse of sources makes the text less focused, and the important stuff is lost in the totality of it all (and allows for less room for the rest of the text). I often suggest to my students to look at some high-impact journals and see how established researchers do it (min-max) regarding number of references.",
+          "author": "molobodd",
+          "created": 1628105009,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h7pmqiy": {
+      "link": "/r/AskAcademia/comments/oxpjtx/how_important_are_recent_references_in_a_paper/h7pmqiy/",
+      "text": "It differs between fields. In anything CS-related, I would expect a majority of the references to be 5 years or newer. (In Latin, many will be 50+ years old.)",
+      "author": "molobodd",
+      "created": 1628103726,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h7o1p2x": {
+      "link": "/r/AskAcademia/comments/oxpjtx/how_important_are_recent_references_in_a_paper/h7o1p2x/",
+      "text": "Generally, it is considered good practice (at least in my field, which is ecology) to cite the first reference to have made a certain point, and then it is also excellent to cite more recent progress in the field. It's kind of an unfortunate trend that people forget to cite that first source - at least up to a point of the development of the field.\n\nSome 3 general pointers about citations are summarized here: [https://youtu.be/emlZf38VUiw](https://youtu.be/emlZf38VUiw)",
+      "author": "Matthias_Rillig",
+      "created": 1628078389,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h7qny4v": {
+      "link": "/r/AskAcademia/comments/oxpjtx/how_important_are_recent_references_in_a_paper/h7qny4v/",
+      "text": "I am in social sciences and try to stay within 10 years. In CS I would say more like 5 years.",
+      "author": "Cold_Principle_9980",
+      "created": 1628119986,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

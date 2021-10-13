@@ -1,0 +1,71 @@
+{
+  "sid": "ptt109",
+  "link": "/r/AskAcademia/comments/ptt109/writing_code_makes_me_feel_unproductive/",
+  "title:": "writing code makes me feel unproductive",
+  "text": "Does anyone else feel this way? Like I can spend an entire working day on a few lines of code and feel like I've made very little progress? \n\nAm I alone in feeling this way?",
+  "author": "Nuclear_Fermion",
+  "created": 1632396023,
+  "updated": 1634078873,
+  "over_18": false,
+  "upvotes": 7,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hdys6yr": {
+      "link": "/r/AskAcademia/comments/ptt109/writing_code_makes_me_feel_unproductive/hdys6yr/",
+      "text": "I certainly felt this way when I had to teach myself how to use R while in lockdown last year. I was given a genomic dataset of tens of thousands of SNP markers and somehow, by myself, had to figure out how to produce my first molecular ecology PhD chapter at the end of it.\n\nI was coding every day for 3 months. Literally started with \"how to get my .csv file into R.\" Some days it took me 8 hours just to write a few lines of code because I was learning how to install a package or write a function or figure out an error message. Some days progress was better, other days the hefty mistakes and dead-ends resulted in so much lost time that I deleted my lines and started again (more than once).\n\nAfter 3 months, I finally had all my results, and a full script with over 1,000 lines of code (not much to many fields, but certainly for me). Then I discovered a mistake was made early in my data filtering process...that meant re-doing it from the beginning. Except, because I had learned so much, annotated my entire script, and gained solid coding experience in a short time frame, I completed the re-run of my script from scratch in 3 days.\n\nMoral is - a few lines of code after a day doesn't necessarily mean much in the ways of productivity because it still fits into the bigger picture somewhere. Some of my most problematic or challenging code were a few lines here and there, and figuring them out were some of my bigger 'eureka' moments from my entire PhD. Research and coding is like eating an elephant - one small bite at a time. I'm sure you have shown productivity in many ways, so keep at it!",
+      "author": "Neyface",
+      "created": 1632406227,
+      "upvotes": 13,
+      "replies": {
+        "he04yo2": {
+          "link": "/r/AskAcademia/comments/ptt109/writing_code_makes_me_feel_unproductive/he04yo2/",
+          "text": "I'm just starting to learn R for grad school. Thank you for this!",
+          "author": "Anarchy_Lurker",
+          "created": 1632426600,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "he12p5q": {
+          "link": "/r/AskAcademia/comments/ptt109/writing_code_makes_me_feel_unproductive/he12p5q/",
+          "text": "This is a great response\n\nFor OP: so, I learned coding due to rotation troubles & covid. I was a molecular biologist (100% bench; pathogen work) that was turned into a data analyst in 3-4mo (enviromental omics!). I had to adapt to survive grad school. No bash, python, R experience, and I was expected to perform a RNAseq analysis & present results to my program. Ugh...\n\nBut at the beginning, coding was awful. I cried a lot because I drowned in errors the whole time & it seemed that I wasn't being productive compared to the hella benchwork I'd complete in one day. Also, sitting in one place in a non-fast environment was unfamiliar to me. But I emphasize: The coding world is completely different! Every line is triumph, and you build a repetiore of trouble shooting, functions, conditions, etc, that only you'd obtain if..... you sat at the computer for hours. \n\nSo keep trucking, every hour you are figuring out your coding is hella valuable in the end. And you will become quicker in time. Fyi -- I still have days where I'm stuck on a few lines of code. It's just the nature of the beast. It's not unproductive because I'm powerhousing through it regardless & adding the experience to my \"memory library of coding\"",
+          "author": "crazyparrots",
+          "created": 1632441901,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hdyb8wt": {
+      "link": "/r/AskAcademia/comments/ptt109/writing_code_makes_me_feel_unproductive/hdyb8wt/",
+      "text": "Depends on the code, I suppose. There are times that a few lines of code means it's been a very productive day. Especially if that code is to help automate my marking ...",
+      "author": "Vievite",
+      "created": 1632397445,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "he0lefy": {
+      "link": "/r/AskAcademia/comments/ptt109/writing_code_makes_me_feel_unproductive/he0lefy/",
+      "text": "I am in CS, I do graphics programming, which is on the harder end of the spectrum. I have years of experience, I consider myself a good programmer.\n\nI have spent 6 months rewriting the same 100 lines of code in a pet project because I cannot get it to work, despite the fact I can describe the algorithm to you from memory.\n\nSome stuff is just complicated and takes time effort and a little luck.",
+      "author": "camilo16",
+      "created": 1632433931,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "he16yhg": {
+      "link": "/r/AskAcademia/comments/ptt109/writing_code_makes_me_feel_unproductive/he16yhg/",
+      "text": "Depends entirely on the few lines of code. For me, I've had days where a few lines of code shaves *hours* off of my workload.",
+      "author": "r3dl3g",
+      "created": 1632443943,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "he3jle9": {
+      "link": "/r/AskAcademia/comments/ptt109/writing_code_makes_me_feel_unproductive/he3jle9/",
+      "text": "writing code can feel very productive, especially when you are trying to get a very specific graph generated or data set parsed. Its almost like solving a puzzle and tends to be very satisfying upon completion. \n\nOn the other hand, that does not mean the process is not frustrating. The main progress you make is the development of a skillset that is especially rare in some fields in academia.",
+      "author": "the42up",
+      "created": 1632495333,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

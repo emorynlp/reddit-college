@@ -1,0 +1,155 @@
+{
+  "sid": "p2jrju",
+  "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/",
+  "title:": "How do you manage your literature and references?",
+  "text": "Hi all,\n\nI have many PDFs (articles, reports and other literature) in various folders, and most of them are also in Endnote, which I have always used as a reference manager. However, the references in Endnote are not linked to the PDFs (most of the references were downloaded from journals' pages, but Endnote can find the PDFs for only \\~30% of the references I have in there) and I do not have any 'tag' for the papers. My plan to fix and have a more organized library is the following:\n\n* Re-download references directly from journals (hoping that Endnote this time might find the PDFs for these)\n* Link remaining PDFs manually, putting all PDFs (including the ones from the point above) in one folder\n* Link PDFs to NVivo, so to add different tags to the same article and to search more easily through the literature\n\nHowever, this manual process seems to me very slow and easily prone to mistakes. Therefore, a few questions:\n\n1. Can this process be automated somehow? Looking into the future, how do you go with downloading individual PDF and references and keeping the literature tidy?\n2. Are there other options for having all PDFs in one folder (possibly with file names corresponding to \"author year title\"), linked to a reference management software (Mendeley, Endnote, or Zotero?), linked to NVivo?\n3. More in general, **how do you manage your literature?**\n\nThank you!",
+  "author": "fc442",
+  "created": 1628708722,
+  "updated": 1634079884,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 0.86,
+  "comments": {
+    "h8kkwe1": {
+      "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8kkwe1/",
+      "text": "Zotero is the answer to all questions lol.",
+      "author": "CptSmarty",
+      "created": 1628710402,
+      "upvotes": 24,
+      "replies": {
+        "h8kp782": {
+          "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8kp782/",
+          "text": "I have used Citavi and Endnote, but my current istitution has Zotero by default on all computers. I just started using it yesterday and omg. It is so smart! Why did no one ever tell me?! It parses all info with the browser plugin, throws it into your pre-specified folder, including doi and the PDF. No manual work required, except possibly fix an all-caps name here and there. I'm thoroughly sold on it.",
+          "author": "VermilionSpecter",
+          "created": 1628712187,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "h8klm2i": {
+          "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8klm2i/",
+          "text": "Can you elaborate please?",
+          "author": "fc442",
+          "created": 1628710694,
+          "upvotes": 1,
+          "replies": {
+            "h8l8zl3": {
+              "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8l8zl3/",
+              "text": "Zotero is like a resource manager, you can install it as a plug-in on your laptop or pc. Once ran, depending on browser, such as chrome, there is a \u201cZ\u201d bookmark tab. Every website and journal that you have full access to can be saved into Zotero. You can organize them into specific folders to group together journal papers. You can then generate bibliography for each of them automatically according to whatever citation style you need. There are editable entries where you can make notes about the folder or the journal you found. Whenever you need a certain journal, you can easily search for it within zotero, and zotero will pull up pdf version of the journal (so long as you have full access to these journals)",
+              "author": "Proper-Weather520",
+              "created": 1628720496,
+              "upvotes": 7,
+              "replies": {
+                "h9i74bx": {
+                  "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h9i74bx/",
+                  "text": "Thank you for your detailed suggestion!\r  \n\r  \nDo you know whether it is possible to download not only citation and pdf from chrome (via Zotero Connector), but also any supplementary text/data of a paper?\r  \n\r  \nI have tried to change the translator's hidden preferences ([https://zotero.org/support/preferences/hidden\\_preferences](https://zotero.org/support/preferences/hidden_preferences)) but still cannot manage on various websites.",
+                  "author": "fc442",
+                  "created": 1629356180,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "h8oj0jq": {
+          "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8oj0jq/",
+          "text": "Commenting to remember to start using zotero. Currently not using any reference manager and it\u2019s going to start causing issues",
+          "author": "tiespiderman",
+          "created": 1628790524,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h8lca32": {
+      "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8lca32/",
+      "text": "It's called Zotero and it's amazing. End of the love story",
+      "author": "methomz",
+      "created": 1628721952,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "h8n8uqu": {
+      "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8n8uqu/",
+      "text": "Zotero. Brilliant. also that it prints out the ref-list in the desired format.\n\nBesides i download most of the literature (as a pdf or convert it to pdf), for reasons that i switch universities and sometimes, had no (instant) access to papers, - yes can have when asked but too lazy .. those files, I add into a folder-structure (basically year and course), and when i am good (not all time lol) naming scheme like year-author-shortnameoftopic.\n\nsearching them, working on linux, i use grep, recursively (grep -nrwi searchterm .) to go through all these pdfs, that's the quickest way that i found. - and since i study next to job i must be crazily quick.",
+      "author": "sunnyseasun",
+      "created": 1628770214,
+      "upvotes": 4,
+      "replies": {
+        "h8n96um": {
+          "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8n96um/",
+          "text": "to add, was trying several software-based things (not like zotero, that's a ref management system), with more functionality like e.g. getting full text in, or abstracts, or images .. well that was too much effort, first to learn them, second to make them run on my system .. third to simply use them.\n\nzotero is one click and it's there, when im good (ah .. when it's time for the article) then also using the tagging a little.\n\nHad been doing 3 (different) studies and zotero and its files (i export them from time to time to store them somewhere) still works, perfect.",
+          "author": "sunnyseasun",
+          "created": 1628770414,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "h9i78px": {
+          "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h9i78px/",
+          "text": "Thank you!\r  \n\r  \nDo you know whether it is possible to download not only citation and pdf from chrome (via Zotero Connector), but also any supplementary text/data of a paper?\r  \n\r  \nI have tried to change the translator's hidden preferences ([https://zotero.org/support/preferences/hidden\\_preferences](https://zotero.org/support/preferences/hidden_preferences)) but still cannot manage on various websites.",
+          "author": "fc442",
+          "created": 1629356281,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h8makni": {
+      "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8makni/",
+      "text": "Zotero. I have thousands of references and PDFs. I sync across multiple computers. It is free so students can use it. I pay for the premium package to support their work and for increased storage.",
+      "author": "fwafwa",
+      "created": 1628743977,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8lkaew": {
+      "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8lkaew/",
+      "text": "Mendeley can watch certain folders for new papers, organizes it in their library and copies/renames them to a new central folder. The online plugins are also very nice. \nI use it but have my own simple folder structure of long-read, short-read, important and methods to organize my reading.",
+      "author": "Acrobatic-Plantain28",
+      "created": 1628725612,
+      "upvotes": 6,
+      "replies": {
+        "h8lyi91": {
+          "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8lyi91/",
+          "text": "I too use Mendeley, it works reasonably well for auto-extracting author lists and other data from pdfs (straight import from the downloads folder). If I get around to taking notes, I do so in Evernote. \n\nWithin Mendeley, I have a completely idiosyncratic folder structure, loosely sorted by project. It works well enough for me, but I doubt it would be legible to anyone else. If a paper has been sitting somewhere for longer than a couple weeks, often it's just easier to use the search function.",
+          "author": "wirrbeltier",
+          "created": 1628732295,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h8m0sz2": {
+      "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8m0sz2/",
+      "text": "I love EndNote. I've created a library of over 2000 references and it integrates perfectly into Word.",
+      "author": "junkdun",
+      "created": 1628733459,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8mg62l": {
+      "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8mg62l/",
+      "text": "Helloooo. Zotero. Obviously.",
+      "author": "orange_antelope",
+      "created": 1628747744,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8mvrdw": {
+      "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h8mvrdw/",
+      "text": "I'm an Endnote user, but manually link pdfs with citations as a part of my work flow. I like that it forces me to slow down and pay attention. I also have a naming scheme (last name of first author_pub date_title) that makes my reference library fairly searchable if for some reason I cannot use Endnote.",
+      "author": "dexwin",
+      "created": 1628760602,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h9ek6tk": {
+      "link": "/r/AskAcademia/comments/p2jrju/how_do_you_manage_your_literature_and_references/h9ek6tk/",
+      "text": "If you never used a tool and is for a master thesis I would suggest the build it features of MS-Words. \n\nThis is what i suggest to my students: [https://francescolelli.info/thesis/how-to-use-references-in-word-a-few-tips-and-suggestions-for-your-thesis/](https://francescolelli.info/thesis/how-to-use-references-in-word-a-few-tips-and-suggestions-for-your-thesis/)  \n\nIf you have a more long term project I would suggest something more professional",
+      "author": "flelli",
+      "created": 1629291438,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

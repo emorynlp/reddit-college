@@ -1,0 +1,78 @@
+{
+  "sid": "p48cdo",
+  "link": "/r/AskAcademia/comments/p48cdo/does_a_research_paper_in_the_engineering_field/",
+  "title:": "Does a research paper in the engineering field have to be novel?",
+  "text": "Hi, \n\nI recently read a paper where the authors applied a new type of machine learning approach for controlling their machines. I am fascinated by this approach and would like to also apply the same approach to my machine (which is a similar type). \n\nNow, if I want to publish a research paper about this work, can it be justified as another practical research paper that indeed has the same technical approach but is applied to a different machine? Or how would you deal with this?",
+  "author": "Fun-Moose-3841",
+  "created": 1628948915,
+  "updated": 1634079600,
+  "over_18": false,
+  "upvotes": 8,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h8wu9tw": {
+      "link": "/r/AskAcademia/comments/p48cdo/does_a_research_paper_in_the_engineering_field/h8wu9tw/",
+      "text": "I am a bit confused by this statement:\n\n>but is applied to a different machine\n\nare you referring to the physical machine? I.e. you reproduced their model in a different hardware configuration? If so, then it does not warrant a paper. \n\nNow, if you find an issue with the reproduction (e.g. similar specs machine has significant different results), improve the algorithm, or use their method and applying it to a different application domain, then there might be *something* that warrants a publication. If you frame it as part of a larger project, then you might be able to get a workshop paper out of it. In any major AI conference (as the bar is higher than workshop papers), it will be a straightforward rejection.",
+      "author": "RecklessCoding",
+      "created": 1628950127,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "h8x4hip": {
+      "link": "/r/AskAcademia/comments/p48cdo/does_a_research_paper_in_the_engineering_field/h8x4hip/",
+      "text": "The bar you have to overcome is \"routine engineering work.\" When I referee a paper that seems to build incrementally on a previous paper, I ask whether a skilled engineer could have simply read the previous paper and performed the new work essentially on autopilot, with no insights or breakthroughs that would benefit the field. If someone published a paper on applying machine learning to machine model 6070 and your work applies the same techniques to machine model 6080, then the results are probably routine and publishable only in the lowest-quality (potentially predatory) journals or conferences.\n\nHowever, if you found a paper on machine learning applied to tomato defect detection during sorting and adapted the framework to monitor chicken wing color during roasting (these are actual examples!), that could constitute novel work. You'll want to carefully articulate the differences in the context, your aims, your methods, your experiments, your metrics for success, and the conclusions and implications you identified from those of the previous paper. Depending on the details, the journal, the editor, and the referees, this could be very challenging. It's a very common hurdle that comes up in manuscript submission.\n\nMake sure to clearly cite and describe any and all previous work; do not attempt to obtain acceptance by omitting mention of other studies. Reviewers get absolutely furious when they find previous relevant work that the authors didn't cite.",
+      "author": "Chemomechanics",
+      "created": 1628954825,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h8x0m0s": {
+      "link": "/r/AskAcademia/comments/p48cdo/does_a_research_paper_in_the_engineering_field/h8x0m0s/",
+      "text": "There has to be a degree of novelty, but engineering is not nearly as laser-focused on novelty as other fields. The only thing better than data is more data.",
+      "author": "r3dl3g",
+      "created": 1628953102,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h8wzxbv": {
+      "link": "/r/AskAcademia/comments/p48cdo/does_a_research_paper_in_the_engineering_field/h8wzxbv/",
+      "text": "There has to be *some* novelty to it, or else there\u2019s no reason for anyone to read your paper rather than the original. It can be something simple, like \u201cThe authors showed that this approach works for cat photos. Here we show that it also works for dog photos.\u201d Something that simple would probably get you a conference publication at best. \u201cHere we show that it works for 97% of photos stored on Flickr\u201d would get you into a respectable journal because you\u2019ve greatly expanded the utility. \u201cHere we show that replacing their core learning model with a qubit-based system not only recognizes cats but makes the cat from the photo appear and walk across your keyboard\u201d would get into a top-tier journal because you\u2019ve invented a novel methodology and showed that it solves a more general and arguably useful problem. So yes, you need some difference in order to publish, and that difference plays a key factor in where & how you publish.",
+      "author": "TooTallForPony",
+      "created": 1628952789,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h8wvkt7": {
+      "link": "/r/AskAcademia/comments/p48cdo/does_a_research_paper_in_the_engineering_field/h8wvkt7/",
+      "text": "No, research does not have to be completely novel - replicating experiments is important in every area of science. The bias in favor of novel results is a form of publication bias, sometimes called \"repeat study bias\", that means a survey of the literature gives a misleading picture. If 19 attempts to replicate an experiment succeed and 1 fails, that one is the only one that would be published. \n\nSee for example https://www.cambridge.org/core/journals/political-analysis/article/abs/publication-biases-in-replication-studies/EA053746A49877FA119856FD05BE58D7",
+      "author": "radams78",
+      "created": 1628950771,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8ykd2h": {
+      "link": "/r/AskAcademia/comments/p48cdo/does_a_research_paper_in_the_engineering_field/h8ykd2h/",
+      "text": "No, just do it with a hint of a new idea (could talk to your prof how much novelty sufficed). could be that you will not come to the same results (which is more common than one thinks in ML) - then, you will elaborate why (not), and that's a novelty.",
+      "author": "sunnyseasun",
+      "created": 1628977932,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8zzg9u": {
+      "link": "/r/AskAcademia/comments/p48cdo/does_a_research_paper_in_the_engineering_field/h8zzg9u/",
+      "text": "Of course",
+      "author": "chochochocho12345",
+      "created": 1629005100,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8x6nrc": {
+      "link": "/r/AskAcademia/comments/p48cdo/does_a_research_paper_in_the_engineering_field/h8x6nrc/",
+      "text": "Nope",
+      "author": "eggplant_wizard12",
+      "created": 1628955775,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

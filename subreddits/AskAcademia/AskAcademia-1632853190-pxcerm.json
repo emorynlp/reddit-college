@@ -1,0 +1,167 @@
+{
+  "sid": "pxcerm",
+  "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/",
+  "title:": "New Master's after PhD? How dumb is this?",
+  "text": "I have a PhD in Political Science -got it 5 years ago this Spring. I'm also now 41 and thinking \"now-or-never\" with career shuffling. I've been picking up a bunch of adjunct work and doing small consultant contracts, like building academic programs/certificates, course design, survey construction and administration. I also have a metric ton of service and I am very active on campus. However, I've published \\*nothing\\* academic since my dissertation because . . . well, I find it excruciatingly dull and slowly but surely turning into a bunch of wankery in many fields. Yes, I should have known I'd grow to hate academic research/writing, but I THOUGHT I loved it. So, downvote away. \n\nAnyhow, I was thinking of going back to school for a master's in some more applied policy work, perhaps in GIS/Environmental Planning/Economic-Urban Development. I LOVE teaching, but the way things are in my market (Boston metro) securing a stable, full-time teaching job is extremely difficult, especially when I'm openly curmudgeonly about publishing. With that in mind, I can continue to adjunct at least a couple of courses to scratch that teaching itch. Has anyone thought of this, or have friends/colleagues who have done something like this? Thanks!",
+  "author": "Soakin_and_Pokin",
+  "created": 1632853190,
+  "updated": 1634078818,
+  "over_18": false,
+  "upvotes": 15,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "heml4fc": {
+      "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/heml4fc/",
+      "text": "Is the goal of going back for your Masters to get a teaching job somewhere or to move into a non-academic role? If it\u2019s the first then I don\u2019t know if a masters will make you more competitive at this point. If it\u2019s the second wouldn\u2019t it make more sense to try to get your foot in the door somewhere at a similar but probably higher pay as a masters to get a few years experience? Have you tried applying for these types of jobs, you might already be more competitive then your realize. With your PhD you\u2019ll likely be apply to learn quickly and will be competitive for lateral movement once you get some practical experience under your belt. I could be totally wrong here, just my 2cents!",
+      "author": "Advanced-Doughnut-61",
+      "created": 1632854401,
+      "upvotes": 12,
+      "replies": {
+        "hemsz5r": {
+          "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/hemsz5r/",
+          "text": "Goal is to snag a few credentials and network -most of the professional masters programs I've skimmed in my area are pretty intense with the networking. But what you say is a great point. I'm brainstorming how to get creative with turning my academic CV into a resume, especially with skills.",
+          "author": "Soakin_and_Pokin",
+          "created": 1632857607,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hen1uqv": {
+      "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/hen1uqv/",
+      "text": "I did a master's with the plan to change career after a PhD and several years in academia. I absolutely loved doing my masters, and while I might have managed the career change without it, I think A) I landed a better job because of it and B) I'm better at my job because of it. \n\nPersonally, I say go for it.",
+      "author": "ACatGod",
+      "created": 1632861584,
+      "upvotes": 6,
+      "replies": {
+        "henaytc": {
+          "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/henaytc/",
+          "text": "Ohhhhh that's great! Congrats. What did you change to, if you don't mind me asking?",
+          "author": "Soakin_and_Pokin",
+          "created": 1632865437,
+          "upvotes": 1,
+          "replies": {
+            "hep36dn": {
+              "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/hep36dn/",
+              "text": "I'm gonna be a bit vague to preserve my anonymity and say it's not a million miles away from what you're proposing, although I was hardcore STEM before. The career track you're looking at has a lot of potential avenues and I ended up in one of them, working at a research institute where I'm now quite senior.",
+              "author": "ACatGod",
+              "created": 1632899910,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "henbcrb": {
+      "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/henbcrb/",
+      "text": "I think GIS is really interesting. If you can do something concrete and applied like that, and you want to, I say got for it.",
+      "author": "IndieAcademic",
+      "created": 1632865608,
+      "upvotes": 3,
+      "replies": {
+        "heotugq": {
+          "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/heotugq/",
+          "text": "One thing I\u2019ve wondered \u2014 what does GIS do that free map / geography packages in more versatile software don\u2019t (e.g. ggmap, choroplethr, maps, etc. packages in R, + integration with any number of stats packages / software if you need to fit models that respect spatial autocorrelation w/ e.g. a GP)? Used ArcGIS very briefly in ugrad and found it much more frustrating to use than whatever packages in R or Python + something like Stan.",
+          "author": "--MCMC--",
+          "created": 1632892812,
+          "upvotes": 2,
+          "replies": {
+            "heqhmag": {
+              "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/heqhmag/",
+              "text": "GIS is a field, not a specific software. Though we have software called that (like ArcGIS and QGIS) use of different methods is common with those softwares used for finishing touches for cartographic representation. \n\nI have had to take classes in R, C++, JavaScript, and Python to get my undergrad minor in GIS. The most basic course that most take in GIS is just the surface and is basically just how the software works (intro to GIS means just that). Learning how all of the different methods and softwares interact and are used together to answer geographic questions is more of what you get out of a full degree.",
+              "author": "the_Q_spice",
+              "created": 1632930709,
+              "upvotes": 3,
+              "replies": {
+                "heqiq7o": {
+                  "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/heqiq7o/",
+                  "text": "Ah gotcha. So someone can pursue a program of study in GIS and only ever use free, open-source packages in popular programming languages?",
+                  "author": "--MCMC--",
+                  "created": 1632931149,
+                  "upvotes": 1,
+                  "replies": {
+                    "heqit8u": {
+                      "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/heqit8u/",
+                      "text": "Yup, they may teach you one program, but after that, it is easy to learn others. \n\nI learned on ERDAS and ArcMap, took 3 years of classes related to both. Taught myself QGIS, SNAP toolbox, and Envi (not open source, but still used a ton) in a few days each. They offer the same thing, just different flavors. \n\nLike it is a lot faster to run most analysis in ArcGIS Pro due to their recent addition of hardware acceleration, which is why it is used a lot more frequently. You can do that in programming, but it really doesn\u2019t make sense unless you are needing to do it repetitively. By the time you are done with debugging, you likely would have finished in Arc (basically you are paying for the company to do that for you).",
+                      "author": "the_Q_spice",
+                      "created": 1632931183,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "heprm3a": {
+              "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/heprm3a/",
+              "text": "Well, I'm thinking of an MS degree that focuses on GIS analysis. I know someone who got an MS from Ga Tech focusing on GIS and she has since gotten some lucrative analyst positions at tech companies. Her undergraduate degree was somewhat fluffy, so it was her MS work that opened that door.",
+              "author": "IndieAcademic",
+              "created": 1632919095,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "heoqvqc": {
+      "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/heoqvqc/",
+      "text": "You don't need another degree to do those jobs, necessarily. I've known environmental planners with all variety of degrees, and GIS analysts with history degrees. If you find it interesting, go for it!",
+      "author": "Backyardfarmbabe",
+      "created": 1632890841,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hemr8r3": {
+      "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/hemr8r3/",
+      "text": "> Yes, I should have known I'd grow to hate academic research/writing, but I THOUGHT I loved it. So, downvote away.\n\n...Who hurt you?\n\nHonestly, this to me sounds like you have been in school for most of the past 40 years, and you're simply terrified of leaving school and are looking for excuses to stay. There is absolutely no reason for you to get any other degree in the fields you list when you have a poli sci PhD. A masters in GIS is overkill; you can take a few GIS-focused classes, the kind that many working professionals take in their free time, and you're done. You will get very little value-add, both in terms of what you'll learn and in terms of what it'll add to your resume, from a masters in any vague policy field, environmental planning and urban development included. If you want to work in policy, get an internship. What you urgently need is non-academic work experience.",
+      "author": "thegreenaquarium",
+      "created": 1632856905,
+      "upvotes": 9,
+      "replies": {
+        "hemvmfo": {
+          "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/hemvmfo/",
+          "text": "I was being playful. Sometimes redditors will downvote you and/or come at you because \"you're a dumbass for not knowing better\" or something like that. \n\nI actually wasn't in school for my whole life! I worked for about 6 years in the corporate world before going back to school. At least I knew I hated corp life from the get-go . . . I just liked the paycheck. \n\nI get the logic of your mini-psychoanalysis, but I'm not scared, outside of normal trepidation from pondering career changes. I really don't want to take classes or pursue a degree if I don't have to, so, I like your idea of grabbing a few courses, at the most. The internship thing feels weird, tho. Not necessarily bc of having a terminal degree already, but just being some \"old\" bloke skulking internships.     \n\nFWIW, I have had at least one friend get a new masters after PhD. He wanted to change tack to survey work on climate and enviro-stuff from his background in political theory. However, he didn't leave academia or his position. It was for love of the game and also building the dossier he wanted for getting from associate to full.",
+          "author": "Soakin_and_Pokin",
+          "created": 1632858740,
+          "upvotes": 2,
+          "replies": {
+            "henl00b": {
+              "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/henl00b/",
+              "text": "> The internship thing feels weird, tho. Not necessarily bc of having a terminal degree already, but just being some \"old\" bloke skulking internships.\n\nYou'd be in relatively good company. It's hard to make it in the policy field if you don't have relevant work experience. Your corporate experience may put you in good stead, depending on what it is, although if you've been out of the workforce 5+ years it'll still be a hard sell. \n\nI mean, there's nothing wrong per se with getting a masters (or 10) - it's just not going to add much to your profile if you already have a PhD, you're not going to learn anything in it, and it's more or less going to be an expensive waste of time. I personally love expensive wastes of time and engage in them regularly, though.",
+              "author": "thegreenaquarium",
+              "created": 1632869999,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "heoxvte": {
+      "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/heoxvte/",
+      "text": "I\u2019ve got my PhD and going back for a masters in GIS and cartography. I like my job now but I want to add skills in case I want to do other things. Online doesn\u2019t offer much in the ways of networking but it adds possible programs.",
+      "author": "Bendy_Dwyatt",
+      "created": 1632895665,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "heovfi5": {
+      "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/heovfi5/",
+      "text": "*\"a bunch of wankery\"*... I've gotta say, that's a nice use of that word... an adjective, noun... whatever it may be. I commend you on its use. Just sayin'.",
+      "author": "Beer_30_Texas",
+      "created": 1632893915,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "heqgtcv": {
+      "link": "/r/AskAcademia/comments/pxcerm/new_masters_after_phd_how_dumb_is_this/heqgtcv/",
+      "text": "I am in the field of planning and GIS via geography right now (currently getting an MA in Geography). \n\nVery few programs would accept a post doc MA or MS who are looking to pad a resume, it is antiethical to the current philosophy of geography.\n\nLooking into certificate courses would be the best step as those are designed as professional certifications rather than academic degrees. If you don\u2019t like research, you would be very disappointed in going into a planning field for a research degree. \n\nEnvironmental stuff even more. Even the professional work is practically research, just more in the application side. It is also likely you would be required to take a number of pre requisite courses which could elongate the degree quite a bit. \n\nOverall it would be possible either way, but if it aligned  with your previous work and education you will have a much better time in it. Fully changing tracks though will be extremely difficult.",
+      "author": "the_Q_spice",
+      "created": 1632930398,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

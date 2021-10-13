@@ -1,0 +1,564 @@
+{
+  "sid": "naoi57",
+  "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/",
+  "title:": "\"Make all the figures before you start writing the paper\" is terrible advice",
+  "text": "Biomedical sciences student here. I am curious what people think of this statement. Personally, I have heard it from many PIs, including my own, leading me to believe it is a common bit of philosophy throughout academia.\n\nBased on my experience, this has been garbage advice. Sure, you need to know your data, and you need to have it analyzed before you start writing. But I have found that the story only comes together when pen hits paper, and some parts of the story end up needing to be emphasized while others can be ignored. In the past, I tried to stick to pre-made figures and maintain the expectation that they weren't going to change. Ultimately I found that this unnecessarily constrained the story I ended up being able to tell and became a waste of time since I just remake the figures anyway.",
+  "author": "diagana1",
+  "created": 1620825641,
+  "updated": 1634080625,
+  "over_18": false,
+  "upvotes": 232,
+  "upvote_ratio": 0.89,
+  "comments": {
+    "gxuosg7": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxuosg7/",
+      "text": "It's a give and take. You need to start somehwere. \n\nI like putting the story together with figures first (these are just mock figures). I then write a draft of the results and continuously change the figure panels to make it all mesh. \n\nI 100% agree that sticking to pre-made figures is not good and forcing the writing to fit your premade figures is silly. All of my advisors agree with that statement too.",
+      "author": "tiebow5",
+      "created": 1620826890,
+      "upvotes": 180,
+      "replies": {
+        "gxvbfdj": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvbfdj/",
+          "text": "100% this. Iterative process is the best way to go, and having all data in front of you/a general flow to the paper in mind helps writing. The early draft of figures helps with deciding that general flow in my experience..!",
+          "author": "dovaahkiin_snowwhite",
+          "created": 1620836576,
+          "upvotes": 37,
+          "replies": {}
+        }
+      }
+    },
+    "gxup7jt": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxup7jt/",
+      "text": "Theres a reason lots of people use that advice: it works. No the figures wont be perfect, but you need an order of events that makes sense, and figures allow you to present that story. Same reason shows put together a storyboard. \n\nI dont believe your PI meant that the figures shouldnt change at all while writing; if he did thats taking this too far, you're right.",
+      "author": "Rapdakskjvjamfus",
+      "created": 1620827091,
+      "upvotes": 219,
+      "replies": {
+        "gxurxqu": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxurxqu/",
+          "text": "Yes, exactly. For my students, I even describe the idea of making the figures as making story boards for their paper.",
+          "author": "CrustalTrudger",
+          "created": 1620828356,
+          "upvotes": 67,
+          "replies": {
+            "gxv26oh": {
+              "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxv26oh/",
+              "text": "Agree with both of these. Plus if you write really clean and well-commented code, adjusting a figure is usually no big deal.",
+              "author": "EpicDestroyer52",
+              "created": 1620832791,
+              "upvotes": 22,
+              "replies": {
+                "gxwiwik": {
+                  "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxwiwik/",
+                  "text": "This is extremely field-specific. Most of us don't write code.",
+                  "author": "EmeraldIbis",
+                  "created": 1620854316,
+                  "upvotes": 4,
+                  "replies": {
+                    "gxwxsxu": {
+                      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxwxsxu/",
+                      "text": "I don't think it's \\*that\\* field-specific. Nobody should be making their figures in Excel or (god forbid) Google Sheets. I use MATLAB for some things and R for others, and having clean code helps me just drop in new data and get updated figures.",
+                      "author": "justaboringname",
+                      "created": 1620861187,
+                      "upvotes": 9,
+                      "replies": {
+                        "gxxhm2m": {
+                          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxxhm2m/",
+                          "text": "That works great until you're doing collaborations where other members don't use the same stuff as you. The reason spreadsheet software is so popular is because everyone uses it.\n\nLike, I do work in JMP, save as a SVG, and then do touchups in Illustrator, but I don't expect all my collaborators to maintain all the same licenses. For stuff that's bouncing back and forth, excel is really the only option I've found that everyone can handle.",
+                          "author": "racinreaver",
+                          "created": 1620870711,
+                          "upvotes": 6,
+                          "replies": {
+                            "gxy1yoh": {
+                              "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxy1yoh/",
+                              "text": "This is why you use matplotlib. Then you can complain that all your collaborators are wrong and feel justified in it.",
+                              "author": "Mezmorizor",
+                              "created": 1620882634,
+                              "upvotes": 5,
+                              "replies": {}
+                            },
+                            "gxxl8d4": {
+                              "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxxl8d4/",
+                              "text": "I wish I could upvote this \ud83d\udcaf",
+                              "author": "bernsybee",
+                              "created": 1620872526,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        },
+                        "gxxl75e": {
+                          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxxl75e/",
+                          "text": "Biomedical sciences (Micro/Immuno) and have always used Graphpad/Prism to make my figures and run stats. I don\u2019t work with large data sets often, mostly ELISAs, animal infections, growth curves and GP is great for me. I\u2019ve dabbled with R and it is a lot more flexible but I haven\u2019t really run into a situation where I could just use GP yet.",
+                          "author": "Pathological_RJ",
+                          "created": 1620872510,
+                          "upvotes": 4,
+                          "replies": {}
+                        },
+                        "gxxxlsw": {
+                          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxxxlsw/",
+                          "text": "In PChem, Origin seems to be the go to graphing software.",
+                          "author": "Hoihe",
+                          "created": 1620879612,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "gxylqhw": {
+              "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxylqhw/",
+              "text": "> the idea of making the figures as making story boards for their paper\n\nVery interesting!",
+              "author": "aqjo",
+              "created": 1620900140,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gxvdlh8": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvdlh8/",
+          "text": "I agree. For newer scientists, its rather difficult to develop coherent narrative without having the associated diagrams, charts, or figures ahead of time. I've been in science long enough to know newer scientists who don't do this ultimately generate incoherent garbage. And... if you're writing a manuscript, you should already some of your data in some assimilable format. Drag and drop them into a powerpoint and use that as a proxy for your final figure. If your narrative needs to change, it takes minutes to move things around in your powerpoint.",
+          "author": "RokuApprentice",
+          "created": 1620837447,
+          "upvotes": 17,
+          "replies": {
+            "gxwjrnl": {
+              "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxwjrnl/",
+              "text": "I don't really get it honestly. Of course I have all of my data analyzed and presented in graphs in advance, but what's the point of constructing figures that are almost certainly going to have to be changed later?\n\nI just make a bullet point list - fig. 1 will contain this this and this, fig. 2 will contain this, this and this, etc. Then I write the full text, reordering my list as I go, and finally make the figures at the end.\n\nPerhaps I'm confused and people here are simply referring to making the graphs? But I always make them directly after acquiring new data...",
+              "author": "EmeraldIbis",
+              "created": 1620854691,
+              "upvotes": 4,
+              "replies": {
+                "gxx15rt": {
+                  "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxx15rt/",
+                  "text": "The reality is... the more experienced you are, the less things ultimately change... if at all. Things need to move because the narrative lacks polish. In a perfect world, how you develop your manuscript is irrelevant. Maybe you're a fantastic scientific writer. That's great! However for the vast majority of young scientists, developing narrative without an outline is difficult... and developing an outline is difficult without visual queues. That's why professors ask students to develop the figures first. \n\nA majority of students have trouble developing transitions, and they tend to present their work as a temporal assessment of the order in which they accomplished the work. Sometimes the last experiment ends up becoming FIG1, and that's hard for many young scientists to see. Now, again, maybe you're a very talented writer, and that's great! Certainly each mentor needs to engage each mentee differently. But, in a generalizable way, it's not unreasonable for the PI to ask the trainee to develop the figures first.",
+                  "author": "RokuApprentice",
+                  "created": 1620862800,
+                  "upvotes": 8,
+                  "replies": {}
+                },
+                "gxxi5y6": {
+                  "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxxi5y6/",
+                  "text": "A figure is more than just a plot of data; it's usually a way to simplify the presentation of complex topics into a coherent, easy to digest narrative. People read papers first, and it's important they can get the gist of your paper in just a few figures. Data straight from experiments rarely can do that.",
+                  "author": "racinreaver",
+                  "created": 1620870981,
+                  "upvotes": 4,
+                  "replies": {}
+                },
+                "gxxz8o3": {
+                  "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxxz8o3/",
+                  "text": "Maybe this is different in your field, but in my experience academia is full of things that you do even if you know they are \"almost certainly going to have to be changed later.\" I've never seen a paper go out that didn't have at least a few round of revisions for both the figures and the writing.\n\n> I just make a bullet point list - fig. 1 will contain this this and this, fig. 2 will contain this, this and this, etc. Then I write the full text, reordering my list as I go, and finally make the figures at the end.\n\nOne big mistake I made early in grad school was assuming that it was enough to just have a good idea of how figures would look, and that it wasn't worth my time to actually create them. But having an actual figure created is much more useful because otherwise it's a lot more difficult for others (especially your advisor) to give you good feedback. This is especially true when you are an inexperienced and don't have as much experience communicating your ideas.",
+                  "author": "raoadityam",
+                  "created": 1620880702,
+                  "upvotes": 3,
+                  "replies": {}
+                },
+                "gxy2lhn": {
+                  "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxy2lhn/",
+                  "text": "I feel like the figure advice in general is very field specific honestly. It's hard for me to imagine what a figure even would be outside of the data in a readable form and a diagram of the experimental set up. Of course you do the figures first here. You wouldn't even know you have publishable data if you didn't get the figures 95% done anyway.",
+                  "author": "Mezmorizor",
+                  "created": 1620883108,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gxvw10z": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvw10z/",
+          "text": "I've even heard this advice as \"sketch all of your figures by hand\" before collecting the data. In that sense, results figures kind of have to be associated with a hypothesis.",
+          "author": "iliveinsalt",
+          "created": 1620845020,
+          "upvotes": 9,
+          "replies": {}
+        },
+        "gxvrmx8": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvrmx8/",
+          "text": "Yeah I usually just ask for rough draft figures for this point--it's ok if they're not beautiful publication-ready figures, but they should describe the data well enough to put together a story.",
+          "author": "ke_marshall",
+          "created": 1620843212,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "gy0ixcy": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gy0ixcy/",
+          "text": "I think it's field specific, it makes a lot of sense in natural history. It's hard to go back and create figures to fit after the fact and it's usually evident that someone did when you read the paper that the figures were an afterthought.",
+          "author": "Nandinia_binotata",
+          "created": 1620933973,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gxurl5q": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxurl5q/",
+      "text": "I am a proponent of the \"start with the figures\" philosophy, but this seems a too literal / strict interpretation of this advice, i.e., I've never taken it to mean that all the figures must be completed before you start writing and that these can't change or be dropped as you write. For me at least, the process of making figures happens in concert with the data analysis and exploration process, and so is essential for fleshing out what story the data is telling. That being said though, I always end up making lots of figures that are not used. Many times they were essential for crystallizing a thought process, but they end up being a means to an end, not an end product that is useful for the final paper. At best some of them might show up in a presentation, or maybe the supplement, but many just end up on the scrap heap and that's fine because something was learned from their creation. Similarly, virtually none of the figures stay unaltered during the writing process that follows and in many cases it will become necessary to make new figures during the writing process as you realize certain things need graphical explanation or support.\n\nSetting all the above aside, what I usually tell my students is that the above works for me, but the writing process is pretty personal and different strategies will work for different people. I want them to make figures as this is an easy way for us to have a conversation about their data and for us to work through the analysis process together, but if the \"make the figures for the paper first\" thing isn't working for them as a strategy or is hindering their progress, trying something else is fine. More important is having some sort of strategy in place, as without it, you're just waiting for the writing process to happen and that's never good.",
+      "author": "CrustalTrudger",
+      "created": 1620828197,
+      "upvotes": 49,
+      "replies": {
+        "gxx8s6w": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxx8s6w/",
+          "text": "This. Plus you need to \\*figure\\* out what works best for you. My advisor starts with the intro. Seems logical to my logical brain, but I've discovered I really need to start with the figures to help me craft the story. Figures can end up changing a lot for various reasons, and many get cut or sent to supplemental. So don't waste a bunch of time making things pretty until you're fairly certain they will make it into the paper (or paper presentation). Also, use reproducible techniques (e.g., ggplot package in R) to create your figures so it's easier to change things down the road. I started with the intro on one of my papers and I've ended up having to cut so much useless info because my figures/results didn't support the story my figures were telling. As others have mentioned, the writing process becomes easier the more you do it.",
+          "author": "rf439",
+          "created": 1620866433,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "gxv7ain": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxv7ain/",
+      "text": "Amateurs. I write the paper before I write the paper. That way, when I'm ready to start the paper, the paper is already written!",
+      "author": "01010100111011011011",
+      "created": 1620834879,
+      "upvotes": 41,
+      "replies": {
+        "gxvifru": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvifru/",
+          "text": "That strategy certainly beats my idea to master lucid dreaming so all my research is done in my sleep.",
+          "author": "notadoctor123",
+          "created": 1620839413,
+          "upvotes": 11,
+          "replies": {}
+        }
+      }
+    },
+    "gxuwq52": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxuwq52/",
+      "text": "My experience comes from biology where not only is this a good strategy for writing a paper it's good for starting a project. Make up figures on a whiteboard of how the project could play out. Can you make sense of all the possible outcomes? Are there some answers that are better than others? If all the possible answers are interesting and interpretable then you have a good project design. If only some answers give you intelligible answers then you have a poor(er) design.   \n\n\nOnce you have data, drafting the figures gives you an outline of the paper. This is how people read papers. Often they just look at the figures to scrape the information they are interested in. It's the storyboard and the hard data that determines what you ultimately can say.",
+      "author": "Jobediah",
+      "created": 1620830486,
+      "upvotes": 22,
+      "replies": {
+        "gxvl0pd": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvl0pd/",
+          "text": ">Can you make sense of all the possible outcomes? Are there some answers that are better than others?\n\nThese are a huge help in research. I came from a niche of research where you were committed to a single experimental set-up for often 3-6 months. This necessitated our lab being sure we had a fairly optimal design before initiating the experiment, and a large part of that was done by asking the questions: \"what would be the primary figure you would include in a publication from this experiment?\", \"how would you interpret that data/figure?\", \"are there  interesting findings if your data does not look like that figure (or can there be while not leaving your experimental objective)?\", and then \"how do we make sure to test the right experimental variables/controls to properly get to that figure?\"\n\nI've found that projects that have shorter turn-arounds allow so many individual experiments to be run, that some researchers fail to really learn and internalize this type of thinking. For them, it can be easy to simply run another experiment, sometimes even at low cost. But when it comes to making sense of the data, it can end up being a little bit post hoc ergo propter hoc if they weren't specifically thinking of how their data would/could be interpreted at the end of the experimental series.",
+          "author": "BangarangRufio",
+          "created": 1620840475,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "gxuxfa1": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxuxfa1/",
+      "text": "It\u2019s shorthand for \u201cmake an outline (well)\u201d. I find writing a paper is a dual process: constructing a narrative AND evaluating what, precisely, your data support. If you just go for the narrative, it\u2019s all but inevitable that you will include conclusions and inferences not completely supported by your data. Mocking up a few figures helps with the dual task. It also reacquaints you with data that you may not have looked at in depth for some time. \n\nAs others have said, it\u2019s a starting point. The complex and nuanced stories we usually have to tell have a habit of changing on you as you pull them together. This is *one* technique to help you get to a shitty first draft. And by shitty I don\u2019t mean poorly thought out or scraped off the floor - I mean a first pass at pulling together the threads of your work.\n\nETA: YMMV. As I tell my trainees: until you find your own method and voice, borrow mine. It\u2019s had some of the kinks worked out.",
+      "author": "ccots",
+      "created": 1620830789,
+      "upvotes": 11,
+      "replies": {
+        "gxvfcms": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvfcms/",
+          "text": "> It\u2019s shorthand for \u201cmake an outline (well)\u201d.\n\nIndeed-- I'm in the humanities and teach a lot of interdisciplinary research capstones for undergrads. While many of the papers I/they write have *no* figures at all, \"start with a good outline\" isn't just advice but a requirement in my classes. And by \"good outline\" I'm usually talking a detailed sentence outline that might run 20% the length of the final product.",
+          "author": "SnowblindAlbino",
+          "created": 1620838159,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gxv32jh": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxv32jh/",
+      "text": "I make all the figures and do all the analyses before starting writing. You need a story first and that comes from the interpretation of your results!",
+      "author": "eggplant_wizard12",
+      "created": 1620833156,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gxuuhxj": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxuuhxj/",
+      "text": "It's highly field dependent, as well as dependent on the sheer volume of data you need to chew on (the more numbers you deal with, the more a graph becomes necessary to remotely grasp what the data is saying), but in my experience I'd say it's so obvious as to be less advice, and more \"if you're not doing it this way you're literally doing it wrong.\"\n\nThat's not to say that *every* graph and figure has to be made in advance, as occasionally you do run into a situation where you need a \"novel\" graph in order to illustrate some point. But generally speaking all of your major and/or \"core\" graphs should be made in the analysis phase, to the degree that you probably want all of your graphs to be made by your post-processing and analysis software.\n\nGranted, I'm in a field where the graphs genuinely don't change in terms of overall formatting from paper to paper, so I'm a bit spoiled, but still.",
+      "author": "r3dl3g",
+      "created": 1620829508,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gxxd2i8": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxxd2i8/",
+      "text": "Personally, by the time I am ready to actually write a manuscript, the data has been presented at conferences as either talks or posters. Meaning the figures already exist.  \n\nMost data needs to be plotted pretty soon after data collection, otherwise the next steps you take are uncertain-- at least in my field.  \n\nSo the figures may not be polished, and I may get ideas for additional figures or details to add to current figures as I write, but for the most part, my figures come into being before my text does. \n\nI also like to outline papers, and a great way to do this is to plan what figures are needed to tell that story. \n\nAlso, I pretty generally disagree with the statement: \n>But I have found that the story only comes together when pen hits paper...\n\nThis sounds like a terribly inefficient way to write.\n\nThis is why you present to your research group, in your department seminars, at meetings, in graduate student groups. If you can talk through your story first, tell it verbally, you will have a much easier time writing.  \n\nYes, the arguments in your paper become more refined and well developed as you write, but I don't see how you can even begin to write a paper with out a roadmap (at least in your head) of where you're headed.",
+      "author": "TourmalineTart",
+      "created": 1620868512,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gxvfb23": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvfb23/",
+      "text": ">I tried to stick to pre-made figures and maintain the expectation that they weren't going to change\n\nyou were being overly literal in how you interpreted their advice. They weren't saying that you can't ever make edits.",
+      "author": "RollWave_",
+      "created": 1620838142,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gxwrw9g": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxwrw9g/",
+      "text": ">Based on my experience, this has been garbage advice.\n\nWhat the... no? Absolutely not. I'm sorry, but you're wrong about this being \"garbage advice\".\n\nIt certainly isn't the only way to do things, but it's a good way to do it for a simple reason. What do you think the readers of your paper/thesis will look at? The (probably quite dull) technical word soup, or the pretty pictures?\n\nPeople give you the advice to make all the figures first for a simple reason - you need to tell your story with the figures alone. Someone needs to be able to understand your paper from just the figures, because they will read the abstract, read the conclusion, view the figures, then scan the body for details to answer the remaining questions they have about your work.\n\nWe aren't writing novels here. The body of the text won't be entertaining. It should contain the details needed to reproduce our experiments, and the argument we're trying to make, written using words. But if that argument isn't obvious from your figures, people won't be willing to agree with your conclusions! The argument you write must, therefore naturally flows from viewing the figures, so producing them first will make your job a whole lot easier.\n\n If you think you should focus on writing the body of text and enjoy writing prose, good for you. Come back to me when you're writing your thesis literature review and let me know how many papers you read linearly, in their entirety, from abstract to conclusion! (It won't be many.)",
+      "author": "Popeychops",
+      "created": 1620858408,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gxv7weo": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxv7weo/",
+      "text": "Is it possible you're putting too much effort into the figures?\n\nMy view is that I have a bunch of figures, like dozens, and it tells me which parts of the story are compelling, and then I write, and as I write I change figures and the story.",
+      "author": "willbell",
+      "created": 1620835125,
+      "upvotes": 3,
+      "replies": {
+        "gxvdru7": {
+          "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvdru7/",
+          "text": "i second this.\n\n&#x200B;\n\nI make a rough tables beforehand  so I can see what I want to emphasize, and make everything nice at the end.  Making it nice at the end saves time so that I can be consistent across tables and text, but having the results formatted at the beginning helps me organize the paper.",
+          "author": "DrCrappyPants",
+          "created": 1620837518,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gxvz6ku": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvz6ku/",
+      "text": "Nope, it's good advice. I should be able to read your figures alone and know what your conclusions are.  Everything else is built around that.  The writing (in any part of the paper) should not change your data or its interpretation at all.",
+      "author": "scintor",
+      "created": 1620846300,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gxv7q4k": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxv7q4k/",
+      "text": "Our group does something called a \"pre-paper talk\", which is basically a research pitch we give before writing anything.  This helps organize your thoughts and overall narrative, but only in slides used to communicate the ideas (which can sometimes be re-purposed into paper figures).\n\nThis helps save time and effort from getting peer feedback early in the process, rather than waiting until after you've written an actual draft.\n\nYMMV based on your field and research practices, though.",
+      "author": "fumblesmcdrum",
+      "created": 1620835055,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxv7z2e": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxv7z2e/",
+      "text": "If you use a reproducible approach (in R for example), it doesn't even matter because you can make quick adjustments on the fly if necessary.",
+      "author": "Naffster",
+      "created": 1620835155,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxvlyc1": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvlyc1/",
+      "text": "Do start with the figures, but remember Bobby Shaftoe's motto - display adaptability. They're not set in stone, just meant to provide tentative structure for the story.",
+      "author": "Belzeturtle",
+      "created": 1620840861,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxvs3gy": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvs3gy/",
+      "text": "Works for me, everytime!",
+      "author": "marinegeo",
+      "created": 1620843403,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxw9c5y": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxw9c5y/",
+      "text": "It\u2019s actually pretty decent advice. The PI isn\u2019t telling you to make beautiful final figures that are submission quality. They\u2019re advising you to lay out a plan for your manuscript. A rough ideas of what you want to present and how you want to present it. An outline of what figures you\u2019d need is a great guidepost. You write around what you think you would present, and then adjust as you go. It\u2019s a fluid and evolving process.",
+      "author": "Eab11",
+      "created": 1620850317,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxv53kr": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxv53kr/",
+      "text": "My advisor makes us put together a slideshow presentation before we write anything. That way we easily move ideas around and change them while coming up with the \"story\" before we actually write. It becomes a visual outline.\n\nI'm not a huge fan of this approach but apparently it works.",
+      "author": "poniesgirl",
+      "created": 1620833989,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxv8nl8": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxv8nl8/",
+      "text": "I think it depends on how you write papers. Personally I find it very useful because it suits my writing approach, and this is how I usually do it. \n\n1. Assuming that I have done all the analysis and looked at all the figures / tables, then the first thing that I will do is to think about the story that I want to tell based on the analysis. \n2. Once I have that I will move on to the structure of the paper and think about what I want to include in the paper (and generate more figures / tables if necessary). \n3. After that I put all of the figures into the paper, then start outlining what I want to say about each figure. I will go in as much details as possible at this step because I find it easier to think about the important takeaways from the figures when my mind is still fresh. \n4. Once that's done, I will go and work on the Intro / Methodology etc. Additionally, because I have already analyzed the figures, I can write my Intro to cater it to the story that I want to tell. \n5. Finally, I come back to the outlines that I have earlier and put them together into proper sentences and paragraphs.",
+      "author": "SubcooledBoiling",
+      "created": 1620835433,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxvftud": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvftud/",
+      "text": "I think it\u2019s good advice tbh. It gives you a framework for writing. Obviously it\u2019s flexible, so if you have a better idea, you can still change.",
+      "author": "omgpop",
+      "created": 1620838352,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxvh2vv": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvh2vv/",
+      "text": "Yea my advisors also advocate this strategy.  I'm in physics for context. The idea is that your figures should essentially tell your story, so once you have the idea of which figures your using and in what order, then you kind of have a skeleton built for the paper and you can fill in the details that make up the actual story. Of course, along the way you might find you need additional figures. It's just a method for getting moving in the right direction.",
+      "author": "PhysicsVanAwesome",
+      "created": 1620838857,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxvoexn": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvoexn/",
+      "text": "Its like storyboarding - you need initial figures to get your story in place, but no narrative goes through multiple writers/editors without things changing.  I learned that it's easier to rip out any emotional attachment to the initial figures and be prepared to throw hours in exchange for a smoother writing experience",
+      "author": "sneakyturtle852",
+      "created": 1620841880,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxvvmqn": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxvvmqn/",
+      "text": "It sounds like you are the one saying the figures can never change, which is an overly rigid interpretation. \n\nI would say ESPECIALLY for students it is important to start with the figures, and to see what the story you can build out of your data is. You don\u2019t want to write a paper and then cherry pick only the data that fits what you wrote, you want to take a critical scientific look at your results and see what is true about them, even if some of it isn\u2019t what you thought would happen, and write about that.",
+      "author": "neuropainter",
+      "created": 1620844859,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxw15su": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxw15su/",
+      "text": "Yes!   Make the figures first.  The figures with their legends should be able to stand independently \u2014 it is all many people will read.   The rest of the paper is just background, context and details for the figures.  (and tables)",
+      "author": "bu11fr0g",
+      "created": 1620847041,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxw35bs": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxw35bs/",
+      "text": "I tend to think of my figures as my manuscript outline. I like to have them first so I know how the general flow of the paper will be and what data I\u2019m going to include. Of course it\u2019s fluid and sometimes I realize I want to talk about the data differently or group pieces together differently. But I always start with draft figures of some sort to guide me as I\u2019m writing.",
+      "author": "westrox11",
+      "created": 1620847794,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxx4g12": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxx4g12/",
+      "text": "I hate making figures and usually make them last. At least, I only make ugly-as-hell figures when I'm interpreting the analysis and only fix them up when I know which figures I'm going to include in the final publication.",
+      "author": "Miroch52",
+      "created": 1620864375,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxuuaja": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxuuaja/",
+      "text": "It is excellent advice ... that should be thrown away once you actually start writing the paper.\n\nThere are some parts of a paper you can write in advance, but you don\u2019t really know what story you are going to tell until you have analyzed your data, and ideally the figures should tell the story on their own. Getting the figures right is therefore some of the most important work of writing the paper. BUT in the process of writing, sometimes you have insights that change the way you understand the data or how you want to present it, leading you to change the figures. \n\nI once wrote a paper and while putting together the talk about it I had a flash of insight about a new, better way to present the ideas. I ended up with a much better presentation based on completely different figures. The paper was mostly mathematical proofs and the talk ended up being mostly conceptual figures explaining the ideas in the proofs. Had I stuck with the original figures, it would have been a dud (honestly, I was even bored creating the original presentation). Instead, several people told me afterward it was their favorite conference talk.\n\nBottom line: it is helpful to think about the story you want to tell and how to tell it through the figures before you start writing in earnest, sort of like storyboarding your paper, but be open to changing them as you go along.",
+      "author": "bigrottentuna",
+      "created": 1620829416,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gxuz47a": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxuz47a/",
+      "text": "I think writing is an extremely personal process and you have to try what works for different people before finding your method. \n\nI don't like making my figures first, but I like making my section/subsection/subsubsection. I like writing my abstract first, even though many people say not to. Overall you need to write a cohesive story for your paper to be on its way to be good, but there's not one way that works. \n\nI think the \"make your figures before writing the paper\" is just another advice like this. Making your figures gives you an idea of where and how you want to take this paper. It gives you the story you need",
+      "author": "Murderous_squirrel",
+      "created": 1620831505,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxv2s7j": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxv2s7j/",
+      "text": "I agree with most of the comments here, but in my experience, Figure 1 or maybe 2 (depending on the length of the paper) might change dramatically depending on the type of narrative and how it evolves during the writing process. These are usually intro figures and depend heavily on the written intro. Chemistry PhD candidate here (chem bio) which I think publication-wise should be relatively similar.",
+      "author": "diozuk09",
+      "created": 1620833039,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxva8hr": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxva8hr/",
+      "text": "I usually make figures first and write to them, because I feel it helps papers write themselves. I do sometimes update figures depending on how the text evolves, but I feel it gives me an easier start. Everyone's style is different though. Some people do better building an outline and writing to that, others do better sorta writing and letting the paper evolve on its own. For me, I feel the latter serves creative writing better than scientific writing, but at it's core it's mostly a matter of preference and how to get \\*you\\* to write more efficiently.",
+      "author": "esoterick0515",
+      "created": 1620836092,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxwe4di": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxwe4di/",
+      "text": "Make all the figures and have a conclusion ready? Now THAT would be a good advice lol",
+      "author": "Stomaninoff",
+      "created": 1620852291,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxwk1mu": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxwk1mu/",
+      "text": "My understanding has always been that 'draft out your figures before you write the paper' is more of a guide to performing research, rather than documenting it. It certainly helps to storyboard with figures, but that's not its primary purpose - it's writing a roadmap of your work, in publishable figure form.\n\nWhen I 'draft all my figures' for a new piece of work, I'm trying to build a paper boat using the minimum quantity of data figures to establish a point. I tend to use the [MatPlotLib xkcd plugin](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xkcd.html) to make absolutely clear what's a 'data goes here' figure, and sometimes we've even written decision trees about what to do with what data outcome. But if I can't make the boat float without a particular figure, then we have to include that experiment. If I can't work out where a particular figure would go in the paper, I have to ask myself why I'm doing the experiment as part of this piece of work.\n\nYour mileage may vary, and the degree to which your work is 'thought out' will be incredibly dependent on sub-discipline, country of employment and funder. That said, I've seen *lot* of research done, (in the UK, by friends and collaborators, mostly with gilt-edged charity funding) that would have benefited from a very early figure draft, because the combination of anxiety and completionism leads to unsustainable project drift.",
+      "author": "Hasefet",
+      "created": 1620854811,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxwwjx3": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxwwjx3/",
+      "text": "Making figures allows you to see trends in your data, so you can see your \u201cstory.\u201d  I always give this advice to my students, and I\u2019m sticking by it. \ud83d\ude42",
+      "author": "boldolive",
+      "created": 1620860589,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxx3886": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxx3886/",
+      "text": "It\u2019s field dependent. While I agree in spirit, in math some things just cannot be put into a figure. Usually the story is built around theorems so there\u2019s that.",
+      "author": "geometer2015",
+      "created": 1620863804,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxx7x0t": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxx7x0t/",
+      "text": "I think the main idea is to use them as points around which you outline and flow your content. The rough sketches come up first. The neat vectors and properly plotted graphs come later.\n\nI work in CS however and my views may be different.",
+      "author": "lunaticneko",
+      "created": 1620866016,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxxy3gu": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxxy3gu/",
+      "text": "The most effective strategy is going to vary based on the student, the advisor, the project, etc etc. But in almost all circumstances you are going to iterate on both the figures and the writing many times. I have often found that having a set of preliminary figures before I start writing is very useful, and it really helps me to facilitate that spark when \"pen hits paper\" that you described. But I also work in computational biology where iterating over figures is pretty fast, so I think that is probably a big part of why the \"make the figures before you start writing the paper\" works for me. Regardless, I wouldn't be so hasty to dismiss this as \"terrible advice\", it sounds like it just wasn't an effective strategy for you.",
+      "author": "raoadityam",
+      "created": 1620879936,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxy9xgd": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxy9xgd/",
+      "text": "\"Based on my experience\".  Just to enlighten me, would you care to expound o this a bit?\n\nMine is author of over 250 research articles, 20+ book chapters and a couple of books.  I teach how to write papers, and indeed go with the \"do the figures first\" method.  Nobody says these are set in stone, but if you cannot storyboard the article you cannot write it.",
+      "author": "Life_time_learner",
+      "created": 1620889070,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxyn8he": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxyn8he/",
+      "text": "By the time my experiments are done, the methods sections are almost always written. Then I attack the figures. That way, I combat the dreaded blank page issue that generally stalls my writing",
+      "author": "ScientistLiz",
+      "created": 1620901464,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxyuu0w": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxyuu0w/",
+      "text": "You should make figures before you start writing. There's a reason why visualization is often one of the first steps in data science. It gives you a good idea of the stories you could tell and how you should approach the paper. \n\n*However* you don't need to make ALL of the figures before you start. If you find there's a better figure, or a better way to make a figure, don't worry about making changes.",
+      "author": "Dr_Silk",
+      "created": 1620907052,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gy10ow4": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gy10ow4/",
+      "text": "Terrible's a bit of an overstatement. It works well for me, sure I have to make changes sometimes after but it helps move things along, and doing something is better than doing nothing.",
+      "author": "Director-Square",
+      "created": 1620941615,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxwxdz6": {
+      "link": "/r/AskAcademia/comments/naoi57/make_all_the_figures_before_you_start_writing_the/gxwxdz6/",
+      "text": "This piece of advice is probably why I find myself needing to go to the supplement for half of the relevant figures.",
+      "author": "VoiceofTheMattress",
+      "created": 1620860985,
+      "upvotes": -2,
+      "replies": {}
+    }
+  }
+}

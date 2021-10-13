@@ -1,0 +1,65 @@
+{
+  "sid": "p3tn1e",
+  "link": "/r/AskAcademia/comments/p3tn1e/google_scholar_correctly_links_a_new_citation_but/",
+  "title:": "Google Scholar correctly links a new citation, but does not add '+1' to the count.",
+  "text": "Hi,\n\nA master's thesis cited my paper yesterday which google scholar linked correctly. But the problem is that even though the new citation has been linked to my account and my paper, the number of citations has not increased by a count of 1. For example, my paper had 2 citations before this new thesis cited it. Now it has 3. But the total count under \"Cited by\" against my paper still shows '2', not '3'. When I click on '2' to view the links citing it, it shows 3 items instead of just 2, with the new thesis in the list. Strangely, upon a simple google scholar search of my paper that was cited, it does show \"Cited by 3\" under its name. It is just that scholar is not adding +1 to my citation count even when it links the thesis that cites my paper. Has something like this happened to anyone before?",
+  "author": "Own_Bus6209",
+  "created": 1628887120,
+  "updated": 1634079651,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 0.78,
+  "comments": {
+    "h8umgt7": {
+      "link": "/r/AskAcademia/comments/p3tn1e/google_scholar_correctly_links_a_new_citation_but/h8umgt7/",
+      "text": "After searching google and reddit this is the closest thing to support I could find, but I can't access the page to make sure. You might try some variations of the url if it lets you in.\nhttps://support.google.com/scholar/contact/general\n\nI am unsure how purdue owl is expected to help with this.",
+      "author": "IncompUtilitarian",
+      "created": 1628899198,
+      "upvotes": 4,
+      "replies": {
+        "h8utyn7": {
+          "link": "/r/AskAcademia/comments/p3tn1e/google_scholar_correctly_links_a_new_citation_but/h8utyn7/",
+          "text": "Thank you for your reply. I dropped an email to google-scholar help. I think it takes time to update. WIll wait to see if it updates in a week or so",
+          "author": "Own_Bus6209",
+          "created": 1628902889,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "h8wzt7x": {
+          "link": "/r/AskAcademia/comments/p3tn1e/google_scholar_correctly_links_a_new_citation_but/h8wzt7x/",
+          "text": "> I am unsure how purdue owl is expected to help with this.\n\nThe moderators of this subreddit just have a bot which automatically flairs posts based on keywords. I'd warrant the word \"citation\" is what triggered it.",
+          "author": "MFA_Nay",
+          "created": 1628952737,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h8utb2y": {
+      "link": "/r/AskAcademia/comments/p3tn1e/google_scholar_correctly_links_a_new_citation_but/h8utb2y/",
+      "text": "It may be it takes some time for it to update. It could also be that the scholar page only counts peer-reviewed citations? but the most likely answer is it will be updated in a week or less.",
+      "author": "entropyStable",
+      "created": 1628902558,
+      "upvotes": 10,
+      "replies": {
+        "h8uu9v0": {
+          "link": "/r/AskAcademia/comments/p3tn1e/google_scholar_correctly_links_a_new_citation_but/h8uu9v0/",
+          "text": "Thanks entropyStable! I believe so too. I think I should just wait for a couple of weeks!! I am still in my phd, and every time i get an update about someone citing my work excites me far too much!! Lol! So poor that can't afford to leave out even 1 citation!",
+          "author": "Own_Bus6209",
+          "created": 1628903041,
+          "upvotes": 5,
+          "replies": {
+            "h8vr02r": {
+              "link": "/r/AskAcademia/comments/p3tn1e/google_scholar_correctly_links_a_new_citation_but/h8vr02r/",
+              "text": "Honestly I get ya. When I set up my LinkedIn profile, I get super excited when I receive the email of someone looking at my profile.",
+              "author": "cops_n_robbers",
+              "created": 1628921416,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

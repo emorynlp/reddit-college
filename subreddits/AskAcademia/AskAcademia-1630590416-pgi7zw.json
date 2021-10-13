@@ -1,0 +1,49 @@
+{
+  "sid": "pgi7zw",
+  "link": "/r/AskAcademia/comments/pgi7zw/thoughts_on_joplin_as_an_evernote_alternative/",
+  "title:": "Thoughts on Joplin as an Evernote Alternative?",
+  "text": "Like a lot of people, I'm bummed about what happened to Evernote. it served as my everything notebook, not just for academic things but also I kept recipes, notes on articles, exercise logs, etc.\n\nI have attention deficit so it was good to have everything handy and even offline in an app. I don't think one note will serve the purpose, and it takes a lot of space. I liked that Evernote also had a web browser version.\n\nIs Joplin a good alternative? I need something more than a note taking app.\n\nEdit: it might not be. I need a good PDF reader. Also, I liked that you can upload scans with Evernote. I'm just not sure if it's worth the cost. Most people say it is not worth it. ",
+  "author": "OutsideFly",
+  "created": 1630590416,
+  "updated": 1634079430,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "hbddx8e": {
+      "link": "/r/AskAcademia/comments/pgi7zw/thoughts_on_joplin_as_an_evernote_alternative/hbddx8e/",
+      "text": "Just thought I would mention if you are looking for other suggestions. It will depend on your exact needs, but check out notion ([https://www.notion.so/](https://www.notion.so/)) . It is super flexible, and it does allow uploading of PDFs, but I haven't used that function too much so I can't state how well it will perform. It has both browser and an app.",
+      "author": "sensorimotorneuro",
+      "created": 1630620311,
+      "upvotes": 1,
+      "replies": {
+        "hbdit52": {
+          "link": "/r/AskAcademia/comments/pgi7zw/thoughts_on_joplin_as_an_evernote_alternative/hbdit52/",
+          "text": "thanks! notion has been brought up before, but I think I read somewhere that it doesn't use tags? And so as a \"filing\" system isn't not useful? Not sure how accurate this is.",
+          "author": "OutsideFly",
+          "created": 1630622540,
+          "upvotes": 2,
+          "replies": {
+            "hbdrr8n": {
+              "link": "/r/AskAcademia/comments/pgi7zw/thoughts_on_joplin_as_an_evernote_alternative/hbdrr8n/",
+              "text": "I mean it's super flexible, so depends on exactly what you need. It's kind of a blank slate at first, so there is a bit of a learning curve. But for example you can make lists and each item in the list has a tag. Each item could be it's own page or a file or whatever.",
+              "author": "sensorimotorneuro",
+              "created": 1630626773,
+              "upvotes": 1,
+              "replies": {
+                "hbducbc": {
+                  "link": "/r/AskAcademia/comments/pgi7zw/thoughts_on_joplin_as_an_evernote_alternative/hbducbc/",
+                  "text": "awesome! thank you!",
+                  "author": "OutsideFly",
+                  "created": 1630628004,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "sid": "p2mfim",
+  "link": "/r/AskAcademia/comments/p2mfim/finance_guy_wanted_to_get_into_math/",
+  "title:": "Finance guy wanted to get into math",
+  "text": "Hello everyone,\n\nI am currently a fourth-year student in business administration, majoring in finance, and I want to continue my studies in the mathematical field to build quantitative financial models (very math/CS oriented). I wonder if I could enter a master's degree in the mathematical field or if I need a bachelor's degree in math before... Is a bachelor's degree in math would be relevant in your honest opinion? I'm pretty solid in finance with an average of A-.\n\nThank you for your help!",
+  "author": "Size-Key",
+  "created": 1628716837,
+  "updated": 1634079904,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h8m9pr0": {
+      "link": "/r/AskAcademia/comments/p2mfim/finance_guy_wanted_to_get_into_math/h8m9pr0/",
+      "text": "You need a considerable amount of math to get a mathematically based MS such as statistics or applied math, let alone pure math. To name the most basic: calculus 1-3, linear algebra, and either analysis or probability/mathematical statistics... depending what you want to do. Analysis for applied/pure math and probability for stats. Again, these are prerequisites for mathematically based MS programs at the bare minimum. \n\nFor CS you need a considerable number of CS courses such as databases and algorithms and discrete math.\n\nPerhaps you may want to look at MS in analytics or MS data science or MS in quantitative methods if your math background is light. These are usually offered by the school of professional studies for those who work in the day.",
+      "author": "SellingRunePickaxe",
+      "created": 1628743447,
+      "upvotes": 3,
+      "replies": {
+        "h8nk5cb": {
+          "link": "/r/AskAcademia/comments/p2mfim/finance_guy_wanted_to_get_into_math/h8nk5cb/",
+          "text": "Thank you so much for your answer and your time! Much appreciated!",
+          "author": "Size-Key",
+          "created": 1628776063,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h8mnqac": {
+      "link": "/r/AskAcademia/comments/p2mfim/finance_guy_wanted_to_get_into_math/h8mnqac/",
+      "text": "I\u2019m a finance guy who got into math. You may not strictly need a bachelor\u2019s in math to get into a quantitative master\u2019s program, but you certainly need 2-3 semesters of math courses. The math & stats you took for your finance degree don\u2019t cover much and are too easy. Additionally, you\u2019ll have to know programming to get into most mathematical finance programs. The bottom line is that you will have to spend an additional year or two to get considered. As SellingRunePickaxe suggests, you may want to consider other programs.",
+      "author": "Southern-Bluebird-76",
+      "created": 1628753700,
+      "upvotes": 2,
+      "replies": {
+        "h8nk5ma": {
+          "link": "/r/AskAcademia/comments/p2mfim/finance_guy_wanted_to_get_into_math/h8nk5ma/",
+          "text": "Thank you so much for your answer and your time! Much appreciated!",
+          "author": "Size-Key",
+          "created": 1628776067,
+          "upvotes": 1,
+          "replies": {
+            "h8ovrxo": {
+              "link": "/r/AskAcademia/comments/p2mfim/finance_guy_wanted_to_get_into_math/h8ovrxo/",
+              "text": "No problem. Feel free to message me if you have questions.",
+              "author": "Southern-Bluebird-76",
+              "created": 1628796073,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

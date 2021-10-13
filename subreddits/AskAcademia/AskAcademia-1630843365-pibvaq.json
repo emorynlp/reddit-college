@@ -1,0 +1,96 @@
+{
+  "sid": "pibvaq",
+  "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/",
+  "title:": "Ubuntu on Mac or PC?",
+  "text": "I want to use Python, Spyder, Anaconda, R, RStudio and software packages for writing code and doing stats by running on large datasets.\nWorkplace offers a choice between Mac or PC  or I get my own machine.\n\nI'm really comfortable with Ubuntu, so what are the ways I can have command line based user experience for above mentioned tasks using Mac or PC? What's the most sensible thing to do here?  I'm open to all suggestions including Virtual Machine, etc.",
+  "author": "polkapokemon",
+  "created": 1630843365,
+  "updated": 1634079395,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hbohn17": {
+      "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/hbohn17/",
+      "text": "I would have a talk with IT, because realistically your choices are limited to what they're willing to maintain. Within Windows, you could activate WSL if you need to run a script using libraries/modules that are only available for Linux. I never had the pleasure to have a Mac, so can't comment on that. And ideally you could buy a PC and have it as dual-boot, if your IT is OK with it (mine isn't). Even more ideally you could have a server with Ubuntu, or rent some resources on the cloud, and remote to it from your machine (which can then be any os).",
+      "author": "bioruffo",
+      "created": 1630845093,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hboreyb": {
+      "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/hboreyb/",
+      "text": "MacOS is a Unix system, and has a terminal and Unix command line built in. It ships with Python (though maybe you\u2019ll want to install a more recent version), and all those other software packages are also available. If that\u2019s insufficient you could install a Linux distribution, either replacing MacOS, dual-booting alongside it, or running in a virtual machine.",
+      "author": "milo-trujillo",
+      "created": 1630850534,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hbp7j8r": {
+      "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/hbp7j8r/",
+      "text": "I used various flavors of linux for a very long time, and now I use Mac. Mac is unix-based, so everything you know about a command line interface works pretty much like you expect it to. I always have a terminal open and do a lot from it. I would recommend just using the Mac. If you're really tied to Ubuntu, then get the Mac and dual-boot.",
+      "author": "ProbabilisticWorld",
+      "created": 1630857803,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hbpfv6y": {
+      "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/hbpfv6y/",
+      "text": "I would get the Mac, which is based on BSD Unix, and will feel much closer to Ubuntu natively than Windows. All the software you mentioned is available on MacOS.",
+      "author": "mleok",
+      "created": 1630861477,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hbst6ep": {
+      "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/hbst6ep/",
+      "text": "A PC is the better choice for easily running Ubuntu, newer Macbooks (e.g. post 2016) have a lot of problems with running Linux.",
+      "author": "suchbrain",
+      "created": 1630930267,
+      "upvotes": 2,
+      "replies": {
+        "hbtj14n": {
+          "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/hbtj14n/",
+          "text": "Even in dual booting?",
+          "author": "polkapokemon",
+          "created": 1630943223,
+          "upvotes": 1,
+          "replies": {
+            "hbttdmx": {
+              "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/hbttdmx/",
+              "text": "Yep even with dual boot. In the most extreme example the new M1 Macbooks are pretty much unusable at present for regular stuff. There are people working on getting Linux running on them but there's a lot that has to be figured out about how they work.",
+              "author": "suchbrain",
+              "created": 1630947698,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbpezko": {
+      "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/hbpezko/",
+      "text": "Oracle VirtualBox.",
+      "author": "Belzeturtle",
+      "created": 1630861088,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hbpgn9n": {
+      "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/hbpgn9n/",
+      "text": "I would probably go for the Mac machine personally, you'll probably have less headaches than with Windows. That said all of the things that you want to work with should work with both Mac and Windows.\n\nThe reason I'd particularly want to stay away from Windows is unless you're using WSL2 which I'd highly advise if you go that route Anaconda/pip can behave very weirdly on default Windows. I'm talking dependency level stuff where you think you have one version of say a particular library installed but in reality it's another which doesn't really happen on the UNIX side. I know I dropped it entirely because I was having issues with things I was developing that took a long time to really figure out what was going on, it's been some time so who knows if whatever it was was fixed by now but I'd avoid it.\n\nWSL2 is really great though if you use just that, it allows you to have multiple operating systems if you want in Windows Terminal (Ubuntu/Debian/etc.) which if you really only want to use Ubuntu you could get away with just that but it will all be command line. It can be a bit awkward with Docker though which can require extra configuration.\n\nI guess it really depends on what you're looking for and how locked down you are. I imagine most departments are fine with WSL2 but not as fine with dual boot necessarily unless you ask them about it. This is all of course depending on how hardcore you are about wanting to use Ubuntu exclusively.",
+      "author": "kefkai",
+      "created": 1630861826,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hc8v54y": {
+      "link": "/r/AskAcademia/comments/pibvaq/ubuntu_on_mac_or_pc/hc8v54y/",
+      "text": "If you're working on properly \"large\" datasets you're probably going to be using cloud or cluster computing resources, in which case either Mac or Windows are fine since you'll be doing most stuff thru SSH/VPN.\n\nWindows + WSL2 cannot be beat in terms of cost, plus if you need to do any work with GPUs there is no CUDA on Mac. But thats for local work.\n\nEdit: i always pick a Mac when its paid for by the workplace since they are always well made. Don't want some dinky Acer machine that IT sends you lol",
+      "author": "yaboylilbaskets",
+      "created": 1631231030,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

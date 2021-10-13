@@ -1,0 +1,90 @@
+{
+  "sid": "q4mbgl",
+  "link": "/r/GradSchool/comments/q4mbgl/please_give_me_honest_opinion_regarding_dropping/",
+  "title:": "Please give me honest opinion regarding dropping out",
+  "text": "I am a 24yr old, I got accepted into a really good 1-year MPA school and also doing a certification of advanced study for data analytics in public policy. To be honest, I have no interest in public policy, public administration, or the government at all. I don't really care about the public good. I only chose it because I want to do something with computers and data. The problem with my certification for advanced study is that it is data analytics for public policy, so it's really hard for it to be applicable to other sectors like the tech industry. Also, employers will seek out people who actually have a Data science or compsci major over my public administration major.\n\nThis is why I am contemplating on going back to my alumni university to get a compsci bachelors degree. It will only take me 2 years, assuming my prerequisites are out of the way.\n\nI graduated undergraduate with a human biology degree and have no debt. But with this masters, each semester is over $20,00, and i am already have $30,000 out in loans. Going back to my alumni university means I only have to pay for in-state undergraduate tuition.",
+  "author": "annamango",
+  "created": 1633789378,
+  "updated": 1634099793,
+  "over_18": false,
+  "upvotes": 11,
+  "upvote_ratio": 0.87,
+  "comments": {
+    "hfzsid6": {
+      "link": "/r/GradSchool/comments/q4mbgl/please_give_me_honest_opinion_regarding_dropping/hfzsid6/",
+      "text": "It sounds like you \"settled\" for something that really doesn't fit your interests *at all.* I would recommend dropping out immediately if you have no interest in the program or the potential career paths it may open up for you.\n\nI've never understood why so many people enroll in programs that they have no interest in. I've seen it in undergrad and grad school alike. Especially if you are paying any amount out-of-pocket, you're wasting your time and money when you could be doing something you are interested in. Even if you have to go back and upgrade you high school grades, life is too short to spend that kind of money to do things you don't want to do.",
+      "author": "Laovvi",
+      "created": 1633795148,
+      "upvotes": 13,
+      "replies": {}
+    },
+    "hg0mn0p": {
+      "link": "/r/GradSchool/comments/q4mbgl/please_give_me_honest_opinion_regarding_dropping/hg0mn0p/",
+      "text": "I wouldn't stay in an expensive Master's program where I don't like the main topic areas. You would be much better off with a Master's Degree in Data Science or Informatics than restarting over with a bachelor's in computer science. That said, it is expensive to do a professional Master's program as you've stated.\n\nI would also consider taking a year to work a retail job, building programming skills, and looking for data science jobs (if that works for your personal circumstances). It will help you better understand the job market, what you need to build on to succeed, etc. Boot camps have a mixed reputation for hiring for sure, but it has much less to do with the credential. It's because many walk away not having the skills needed to get through interviews.",
+      "author": "a-perpetual-novice",
+      "created": 1633808490,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hg127hb": {
+      "link": "/r/GradSchool/comments/q4mbgl/please_give_me_honest_opinion_regarding_dropping/hg127hb/",
+      "text": "Unless you plan to work for a few years in public policy to get some data experience before branching out (or trying to), then yes, you should drop out right now before you waste another 20k+interest on a degree that will do nothing for you. There are so many other things you can spend that money on.",
+      "author": "miniry",
+      "created": 1633815334,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hg17d58": {
+      "link": "/r/GradSchool/comments/q4mbgl/please_give_me_honest_opinion_regarding_dropping/hg17d58/",
+      "text": "I would advocate for doing a master's in tech rather than get another bachelor's.\n\nAlso the government has a cyber corps program and can fund a degree in tech/data science. There may be a brief service requirement but it beats paying 50k",
+      "author": "beepbooplazer",
+      "created": 1633817716,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hfzhsna": {
+      "link": "/r/GradSchool/comments/q4mbgl/please_give_me_honest_opinion_regarding_dropping/hfzhsna/",
+      "text": "Why not do a boot camp?",
+      "author": "Big_Faithlessness625",
+      "created": 1633790143,
+      "upvotes": 0,
+      "replies": {
+        "hfzi4tw": {
+          "link": "/r/GradSchool/comments/q4mbgl/please_give_me_honest_opinion_regarding_dropping/hfzi4tw/",
+          "text": "Employers are not usually fond of bootcamps. I\u2019m willing to spend $50k more on education. So I\u2019m am thinking about getting a compsci degree instead.",
+          "author": "annamango",
+          "created": 1633790307,
+          "upvotes": 5,
+          "replies": {
+            "hfznddi": {
+              "link": "/r/GradSchool/comments/q4mbgl/please_give_me_honest_opinion_regarding_dropping/hfznddi/",
+              "text": "Not what I've heard or experienced but do you man, it's your money.",
+              "author": "Big_Faithlessness625",
+              "created": 1633792782,
+              "upvotes": 2,
+              "replies": {
+                "hg06mne": {
+                  "link": "/r/GradSchool/comments/q4mbgl/please_give_me_honest_opinion_regarding_dropping/hg06mne/",
+                  "text": "It is true if you want to do a field like DS/ML/AI and not general software stuff. Because the first principles or DS/ML/AI are stats based, not programming. You need to know the theoretical statistical basis of the algorithms in order to properly use them effectively without treating them as a model.fit() black box.",
+                  "author": "ice_shadow",
+                  "created": 1633801379,
+                  "upvotes": 6,
+                  "replies": {
+                    "hg0ejj5": {
+                      "link": "/r/GradSchool/comments/q4mbgl/please_give_me_honest_opinion_regarding_dropping/hg0ejj5/",
+                      "text": "I get what you\u2019ve done and support you in it. When I was your age I did a masters in something I didn\u2019t want to do. Now aged 31 I\u2019m back doing what I want. Good luck",
+                      "author": "K-A-Mck",
+                      "created": 1633804881,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

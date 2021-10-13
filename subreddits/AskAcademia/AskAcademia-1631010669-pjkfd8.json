@@ -1,0 +1,38 @@
+{
+  "sid": "pjkfd8",
+  "link": "/r/AskAcademia/comments/pjkfd8/what_are_the_cons_of_publishing_an_accepted_paper/",
+  "title:": "What are the cons of publishing an accepted paper to arxiv and how does one do it legally?",
+  "text": "Hi, I am a young NLP\\* researcher from Russia, and this year I wrote my first paper, which was accepted to [EMNLP 2021](https://2021.emnlp.org/) main conference. I was wondering about three things concerning publishing my paper to arxiv.\n\n&#x200B;\n\n1. How do I do it so that it wouldn't break the copyright that I transferred to ACL?\n\nThe copyright transfer agreement looks like this:\n\n>Copyright to the above work (including, without limitation, the right to publish the work in whole or in part in any and all forms and media, now or hereafter known) is hereby transferred to the Association for Computational Linguistics (ACL), effective as of the date of this agreement, on the understanding that the work has been accepted for presentation at a meeting sponsored by the ACL and for publication in the proceedings of that meeting. However, each of the authors and the employers for whom the work was performed reserve all other rights, specifically including the following: (1) All proprietary rights other than copyright and publication rights transferred to ACL; (2) The right to publish in a journal or collection or to be used in future works of the author's own (such as articles or books) all or part of this work, provided that acknowledgment is given to the ACL and a full citation to its publication in the particular proceedings is included; (3) The right to make oral presentation of the material in any forum; (4) The right to make copies of the work for internal distribution within the author's organization and for external distribution as a preprint, reprint, technical report, or related class of document.\n\nI searched on the web, and some answers say I should \"include a copyright notice of ACL\". What does that mean?\n\n&#x200B;\n\n2. Say I do publish my paper to arxiv, then whenever someone cites it as an arxiv publication (instead of EMNLP publication, which is Scopus), will those citations \"count\" by various citation indexing sources?\n\n&#x200B;\n\n3. Are there any other things I should be taking into consideration?\n\n&#x200B;\n\nSorry if my question is silly, I don't ever understand those legal questions.\n\n\\* NLP stands for Natural Language Processing, part of Computer Science / Machine Learning (today)",
+  "author": "valodick",
+  "created": 1631010669,
+  "updated": 1634079366,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hbwzhgn": {
+      "link": "/r/AskAcademia/comments/pjkfd8/what_are_the_cons_of_publishing_an_accepted_paper/hbwzhgn/",
+      "text": "Posting on arXiv is \"external distribution as a preprint\" and should be allowed. However, you shouldn't be trying to decipher this legalese but just ask your supervisor about what the standard is in your field and/or this journal.",
+      "author": "Hapankaali",
+      "created": 1631010989,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "hbx1t1g": {
+      "link": "/r/AskAcademia/comments/pjkfd8/what_are_the_cons_of_publishing_an_accepted_paper/hbx1t1g/",
+      "text": "In general post-review pre-preprints can be submitted to ArXiv. The guidelines for many journals are summarized here: [https://v2.sherpa.ac.uk/romeo/](https://v2.sherpa.ac.uk/romeo/)\n\nJust change the layout of your paper if you are using the layout of the conference/journal and submit that version to ArXiv.",
+      "author": "ko_nuts",
+      "created": 1631012765,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hc127vu": {
+      "link": "/r/AskAcademia/comments/pjkfd8/what_are_the_cons_of_publishing_an_accepted_paper/hc127vu/",
+      "text": "You should be able to submit the version sent in initially to the conference for reviews to arXiv. Add a link/notice to the published version\n\nThe one you submit for publication should not be posted.",
+      "author": "rgbhsv",
+      "created": 1631081628,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

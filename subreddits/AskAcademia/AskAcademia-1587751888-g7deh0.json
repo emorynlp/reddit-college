@@ -1,0 +1,106 @@
+{
+  "sid": "g7deh0",
+  "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/",
+  "title:": "Using Reddit to recruit research participants online: advantages, disadvantages, academic validation, and other relevant insights",
+  "text": "Researchers have been using Reddit to recruit participants for a while now.\n\nRecently, given the current circumstances that are pushing people to recruit participants and conduct experiments online, this source is becoming more useful than ever.\n\nBecause of this, I wanted to share [a relevant paper]( https://journals.sagepub.com/doi/abs/10.1177/0894439316650163) that I published a while back, which discusses the use of Reddit in research. I remembered it after getting an email from my university about switching to running experiments online, which made me realize that this paper could be helpful to some people here.\n\nAbstract:\n\n> Recruiting participants is a necessary step in many studies. With the advent of online research techniques, scientists are looking for new places where participants can be recruited online, in order to overcome the limitations of current sources and avoid the issues associated with sample overuse. The social media website \u201cReddit\u201d is a potential source for recruitment, as it allows for free and rapid data collection from large samples, while enabling researchers to target specific populations when needed. The ability to recruit for free is especially important because it enables students and early career researchers, for whom even low recruitment costs can be prohibitive, to benefit from the opportunity of conducting research that they otherwise would not be able to. The current article therefore aims to bring this prospective, untapped resource to the attention of the research community. The article discusses current online recruitment sources and their limitations, provides an overview of Reddit, validates its use for research purposes, examines participation data from previous studies which recruited through Reddit, highlights its advantages and limitations as a participant pool, and suggests guidelines that can improve recruitment and retention rates for scientists looking to use Reddit for their research.\n\nThe paper can be found here: https://journals.sagepub.com/doi/abs/10.1177/0894439316650163 (non-paywalled versions available via Google Scholar: https://scholar.google.com/scholar?cluster=11355958646191061289)\n\nAlso, here\u2019s a selection of some of the articles that have referenced this paper when discussing their use of Reddit to recruit participants:\n\n* [Passive and Active Social Media Use and Depressive Symptoms Among United States Adults](https://www.liebertpub.com/doi/full/10.1089/cyber.2017.0668)\n* [Are Daily Stand-up Meetings Valuable? A Survey of Developers in Software Teams](https://link.springer.com/chapter/10.1007/978-3-319-57633-6_20)\n* [Political orientation and physical health: The role of personal responsibility](https://www.sciencedirect.com/science/article/abs/pii/S0191886919300054)\n* [Game-like personality testing: An emerging mode of personality assessment](https://www.sciencedirect.com/science/article/abs/pii/S0191886919301266)\n* [The Love of Large Numbers Revisited: A Coherence Model of the Popularity Bias](https://www.sciencedirect.com/science/article/pii/S0010027719302422)\n\nWhat are your thoughts on using Reddit this way? Any previous experience with it that you'd like to share, or insights/tips that you think could benefit others?",
+  "author": "randomusefulbits",
+  "created": 1587751888,
+  "updated": 1634081748,
+  "over_18": false,
+  "upvotes": 121,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "fogte8p": {
+      "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/fogte8p/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1587756765,
+      "upvotes": 19,
+      "replies": {
+        "foh2h3m": {
+          "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/foh2h3m/",
+          "text": "Glad I could help, and good luck with your research!",
+          "author": "randomusefulbits",
+          "created": 1587759773,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "fohg054": {
+      "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/fohg054/",
+      "text": "**Counterpoint:** In my field (broadly AI/ML), this is potentially harmful and leads to [biased outcomes](http://brenthecht.com/publications/goldstandards_CSCW2015.pdf) (I'm not a co-author; it's just a super awesome paper) especially when such online recruitment is used as algorithmic gold standards to train models.",
+      "author": "anctheblack",
+      "created": 1587765329,
+      "upvotes": 14,
+      "replies": {
+        "fohqz31": {
+          "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/fohqz31/",
+          "text": "A biased sample can definitely be an issue in any field.\n\nThat said, Reddit-based samples are just like any other sample in this regard, in that, if you use it, you should try to minimize bias in the selection of participants, while also accounting for any remaining bias in your analysis, and acknowledging it openly in situations where it\u2019s not possible to eliminate it entirely (which is almost always the case).\n\nAs such, the main question isn\u2019t whether Reddit is a perfect source of participants, but rather how it compares to other available sources. While ideally research would be based on entirely unbiased samples, there are a lot of reasons why this isn\u2019t usually feasible. When this happens, we need to weigh the pros and cons of each of the available options, and pick the best one, while trying to minimize potential issues.\n\nAlso, in reference to the paper that you linked (which I think is great, based on an initial look): the main argument seems to be against biased samples in general and against a specific type of biased sample that\u2019s frequently used\u2014Amazon\u2019s Mechanical Turk\u2014rather than against online recruitment. Similar issues would likely arise from offline recruitment of such a biased sample.",
+          "author": "randomusefulbits",
+          "created": 1587770952,
+          "upvotes": 7,
+          "replies": {
+            "fojmwpl": {
+              "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/fojmwpl/",
+              "text": "Some more questions - Just trying to be provocative, not destructive - Isn't MTurk an online recruitment strategy? Doesn't your paper have MTurk as a keyword to compare against? Is there any evidence that Reddit samples are \"better\" or \"less-biased\" than MTurk samples? \n\nI would like to offer that the \"feasibility\" excuse is a rather dated one. I understand why researchers do it and I have been guilty of it myself. But, we do it because it's convenient and because we have deadlines and because we need to get tenure and promotion instead of spending time actually trying to recruit within communities of interest. Academia's incentives are rather perverse ones. \n\nFor instance, one of the biggest problems in AI happens when we use this excuse to recruit biased samples to develop models for specific contexts e.g. developing predictive models for say, bail setting algorithms in criminal justice instead of working with justice departments or police departments because the latter is hard and it takes a long time to develop participatory models of collaboration with such communities.\n\n[Here's](https://twitter.com/jennaburrell/status/1194680359927062530) an excellent twitter thread about some well known people talking about such issues.",
+              "author": "anctheblack",
+              "created": 1587824918,
+              "upvotes": 1,
+              "replies": {
+                "fojqw36": {
+                  "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/fojqw36/",
+                  "text": "**Regarding the MTurk questions**\n\nMTurk *is* an online recruitment strategy, but they're not saying that we should stop using online recruitment; the sample that they compare the MTurk sample against was also recruited online and is also biased. Rather, they're pointing out the fact that it's important to properly address the bias in samples that we use, whether they were recruited online or offline. As they say in the discussion:\n\n> \"The implications of this work extend beyond the use of AMT in gold standard development to problematizing the use of gold standards as a whole. While AMT has become the de facto gold standard generation engine in many areas of computer science, our work suggests that many of the same concerns with regard to shared knowledge may apply to the development of gold standards using other means (e.g. undergraduate students). Researchers and practitioners should carefully consider their specific knowledge tasks and the audience of their research and systems when deciding how to develop gold standards.\"\n\n**Regarding feasibility**\n\nI disagree with your assessment of the situation.\n\nYes, there are cases where \"easier\" samples are used simply out of convenience, and this can definitely be an issue in a lot of situations.\n\nHowever, there are also many cases where online recruitment is the only way to reach the target audience, or where offline recruitment methods will be just as biased, if not more so.\n\nOverall, there are certainly cases where a Reddit-based sample should be avoided in favor of alternative options, based on factors such as the type of research that you're conducting. But, that doesn't mean that Reddit should be avoided in all cases, and there are many situations where using it is the best course of action.",
+                  "author": "randomusefulbits",
+                  "created": 1587827469,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fohexej": {
+      "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/fohexej/",
+      "text": "Maybe post this over in r/samplesize ?",
+      "author": null,
+      "created": 1587764798,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "foilwx9": {
+      "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/foilwx9/",
+      "text": "One tip is to check the rules of the sub you're posting to. Don't just post your survey everywhere because that's spam.\n\nBecause of the rules, it can actually be a little hard to use Reddit to reach your intended audience. A lot of people want to survey college students, but over at r/college we don't allow surveys and will remove them **every single time**. It's a community for college students to talk to each other, not to be barraged with surveys.",
+      "author": "NoxiousQuadrumvirate",
+      "created": 1587790028,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "fohnkmh": {
+      "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/fohnkmh/",
+      "text": "Congratulations on your paper it looks really interesting. Way to spoil it for the rest of us who thought that we had this untapped resource all to ourselves! \ud83d\ude1d",
+      "author": "manic_panic",
+      "created": 1587769031,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "fohznaf": {
+      "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/fohznaf/",
+      "text": "Thanks for posting. Extremely timely given both the current circumstances and the need for research specific to the current circumstances. (E.g., new human subjects research guidelines in this time of social distancing)",
+      "author": "Alice_and_the_cat",
+      "created": 1587775753,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "fonc899": {
+      "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/fonc899/",
+      "text": "I used facebook's group to reach thousand of partecipants in 3 scientific papers until now. I found it very worthy and quite easy if you just know a bit of facebook's algorithm. I think reddit should be used in the same way. I hope to do it one day, soon.  \nPS obviously biases are around the corner, always, so be careful ;)",
+      "author": "w0rkingmem0ry",
+      "created": 1587916676,
+      "upvotes": 3,
+      "replies": {}
+    }
+  }
+}

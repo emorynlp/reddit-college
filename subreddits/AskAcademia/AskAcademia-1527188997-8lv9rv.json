@@ -1,0 +1,270 @@
+{
+  "sid": "8lv9rv",
+  "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/",
+  "title:": "How did you get good at statistics?",
+  "text": "Unfortunately, my program has no requirement for statistics, and my undergraduate stats class was a joke, so I feel like a toddler when stats come up in any conversation, seminar, or paper. I want to learn, but I'm really unsure how to start. I can do some basic R, but really only to organize data frames and so forth. I really don't want to be applying to postdocs while still having this issue.\n\nI would especially like to hear from people who felt like they were extremely behind and managed to catch up.",
+  "author": "doctor_robocop",
+  "created": 1527188997,
+  "updated": 1634081976,
+  "over_18": false,
+  "upvotes": 98,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "dziqvhx": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dziqvhx/",
+      "text": "My biggest regret about my graduate education is that I did not take more advanced methods and stats courses. I did what was required and then I didn't seek out any additional training, because I saw myself as a qualitative researcher and, honestly, I felt like I wasn't any good at stats and just didn't \"have it,\" whatever it was.\n\nNow I teach the methods and stats courses in my department and I actually really enjoy it - I think in part because I know what it's like to dread those courses and now that I can see how it all fits together, I want to take a different approach with my students...\n\nAnyway. Your interest in learning more about stats is admirable and you should definitely pursue it. For starters, look at courses offered by other departments - you might be able to count these towards your elective requirements, or you might just have to tack them on top of whatever else you're required to take. There are also workshops you can attend, and you might be able to get funding from your program for this sort of thing. For example, [ICPSR](https://www.icpsr.umich.edu/icpsrweb/sumprog/) runs summer workshops on how to work with some of their data sets and you can often end up with something publishable. Sometimes there are statistical and methodological workshops at academic conferences, e.g. our major academic conference runs Weds-Saturday, but on the Tuesday there are usually 3-4 \"preconference workshops\" and there's almost always one about a quant analysis technique.\n\nFinally, there's tons of resources online. My husband is a stats guy and recently switched over to R, and he did it entirely through free online tutorials. I can ask him if he has specific recommendations and edit this post later, but a quick Google will bring up tons of resources. I like [this one by Kieran Healy](http://socviz.co/), but it focuses more on ways to visually represent your data than on the actual statistical techniques - still, a neat resource to have.",
+      "author": "playingdecoy",
+      "created": 1527191791,
+      "upvotes": 49,
+      "replies": {}
+    },
+    "dzitzgg": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzitzgg/",
+      "text": "A good book to walk you through general statistics is Andy Field and Jeremy Miles Discovering Statistics with R book.  The code is a bit out date now but Field does a great job of walking through statistics from simple tests to regression models to multivariate analysis.  Then to upgrade your code skills R for Data Science: Import, Tidy, Transform, Visualize, and Model Data by Hadley and Grolemund will get you caught up on the tidyverse and current suggested best practices for coding in R.  Then Chang's R Graphics Cookbook: Practical Recipes for Visualizing Data I would suggest because good visualizations do require a bit of learning.  One you learn to make visualizations this way though, you will never go back to stock options.",
+      "author": "engelthefallen",
+      "created": 1527194666,
+      "upvotes": 17,
+      "replies": {}
+    },
+    "dzit6yb": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzit6yb/",
+      "text": "I sort of caught up with a mixture of some very good MOOCs:\n\n* [improving your statistical inferences](https://www.coursera.org/learn/statistical-inferences) by Eindhoven University of Technology is fantastic\n* [inferential statistics](https://www.coursera.org/learn/inferential-statistics) by University of Amsterdam is great\n* [statistical inference](https://www.coursera.org/learn/statistical-inference/) by John Hopkins is also great\n\nAnd working through my own statistical problems by asking people on stats.stackexchange and other forums.",
+      "author": "needlzor",
+      "created": 1527193929,
+      "upvotes": 15,
+      "replies": {
+        "dziyjhj": {
+          "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dziyjhj/",
+          "text": "Another vote here for the UofAmsterdam MOOC. Am currently taking it to both improve employability and due to personal interest and for the first time since maths was ruined for me aged 14, I'm actually enjoying 'doing numbers'.",
+          "author": "Stroopcat",
+          "created": 1527199140,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "dziqkb1": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dziqkb1/",
+      "text": "I got into it out of necessity. I learned R to handle a huge amount of information and just sort of...learned on the job. I am not from a field that does data work as a rule. I mean we do, but in a sort of funny way. So I just read lots of internet threads and free books and figured it out while I was doing my PhD.\n\nLearning stats is huge in the humanities. There are so, so many people who do basically all qualitative work. And that's great, but it also means that this massive skillset is hugely underutilized by basically everyone. It also means that \"with proficiency goes employment\", people who can do stats in novel ways are highly employable as academics.",
+      "author": "Dr_Marxist",
+      "created": 1527191506,
+      "upvotes": 11,
+      "replies": {
+        "dzj23pe": {
+          "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzj23pe/",
+          "text": "What do you use stats for in the humanities?",
+          "author": "riggorous",
+          "created": 1527202913,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "dziw1ng": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dziw1ng/",
+      "text": "TLDR; Just look up how to do what you need to do in a stats book and do it, repeat until others start coming to you for help.\n\nI thought I was extremely behind on stats during my PhD. Even though I had taken stats as an undergrad and a biostats class as a masters student, I just didn't feel comfortable with it. My program had access to a \"good stats class\" and so I took it but was the same as all the others I had just with a little more detail. \n\nThen I talked to a psychologist buddy of mine that did stats for a lot of people in very honest terms about how I didn't feel like I knew stats. What he told me was there are three types of people when it comes to stats: (1) statisticians/mathematicians who are true experts who understand the theory of what is going on, (2) people who don't feel like they know statistics, and (3) people who know they aren't statistical experts but know enough about stats to follow the instructions of the first group in the books they write telling the rest of us how to do stats. It's really rare to be in group 1 if you aren't primarily a mathematician. \n\nJust learn to focus on the basics and look up the answers to make sure you are right on the simplest level: \n\n* Find a how to do stats handbook you like for your field.\n* Think about stats before you do the experiment (e.g. what kind of data is this? what kind of tests do we meet the assumptions to use.) **this is the most important thing; A stats expert is mainly someone that knows to think about the stats before the experiments**\n* Collect some of the data you need and check to make sure your initial assumptions are correct. This is also a good time to do a power analysis (which I just look up how to do every time I have to) and do initial checks for normality and the other stuff required for your test. If you run into a problem here look in your handbook how the people in group 1 solve the problem and try that. \n*  Finish collecting your data. \n* Do a final check your data meets all your tests assumptions.\n* Run the test\n* If you are really new to this find a friend or colleague with more experience from group 1 or 3 and offer to buy them a warm caffeinated or cold alcoholic beverage if they will listen to what you did and check for mistakes. \n* Repeat until other people come to you for help (and don't forget to collect your beverage), which means you are the expert now. \n",
+      "author": "GuyNBlack",
+      "created": 1527196650,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "dziqot7": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dziqot7/",
+      "text": "I think most people learn statistics as they go. Pick a textbook; take an online course, supplement this with excessive googling (which would bring you to wikipedia, stackexchange, and random lectures from different stats courses all over the world). But most importantly, try to use R to solve some actual practical problems from your field. Get some data and try to analyze the hell out of it.\n\nAlso, register at https://stats.stackexchange.com and read the submissions daily. Try to ask questions. Try to answer questions, then see how same qustions are answered by other people. r/statistics/ is similar, but in my experience much less forgiving for a newcomer.\n\nStatistics is a strange field: it has a theoretical side, and a practical side, which are not always in a good agreement. Also there are schools of thought who bitterly fight with each other. Finally, methods used by different fields are sometimes very different. The only way to \"learn it\" is to keep learning it on a daily, or at least weekly basis, picking stuff here and there, and trying it out.",
+      "author": "ampanmdagaba",
+      "created": 1527191621,
+      "upvotes": 5,
+      "replies": {
+        "dzjb31o": {
+          "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzjb31o/",
+          "text": "> Statistics is a strange field: it has a theoretical side, and a practical side, which are not always in a good agreement. Also there are schools of thought who bitterly fight with each other. \n\nBiology doesn't have more theoretical vs. more applied areas of research? Or any competing paradigms?",
+          "author": "Statman12",
+          "created": 1527212820,
+          "upvotes": 1,
+          "replies": {
+            "dzjfa1t": {
+              "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzjfa1t/",
+              "text": "It does, but that's what strange about stats (to me at least, as a non-mathematician): it's formally a branch of math, but it feels more like a science, maybe closer to physics in spirit. Say, there's the H0 formalism that clearly works in practice, yet people earnestly argue about what it actually means. That sounds eerily similar to physics.\n\nBut then again, I'm not a true mathematician (even though I do teach statistics).",
+              "author": "ampanmdagaba",
+              "created": 1527217504,
+              "upvotes": 2,
+              "replies": {
+                "dzjzfyw": {
+                  "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzjzfyw/",
+                  "text": ">  it's formally a branch of math\n\nIt may have started out that way, but I think it\u2019s sufficiently distinct by this point. Unless you\u2019re being very broad with \u201cMath\u201d, but at that point you\u2019d have to include Physics, Computer Science, Engineering, and probably more. And I think it absolutely is a science: the science of data. It\u2019s more quantitative than some sciences, and in some cases one can prove things like a mathematician, but we\u2019re not mathematicians, and mathematicians are not statisticians.\n\nAnyway, wasn\u2019t my intention to be confrontational here, just struck me as odd/interesting to see Stats being labeled as peculiar in this way. Cheers.",
+                  "author": "Statman12",
+                  "created": 1527251771,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "dzisg0n": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzisg0n/",
+      "text": "Not as advanced as R but I got reasonably OK at SPSS with Andy Field's books. He explains the principles behind the tests in mostly layman's language so that helps me a lot, being ESL. For a crash course in SPSS that gets you results without actually needing to understand what you're doing \\(i.e 'press here then there then write down whatever number's in that column' type\\), Julie Pallant's SPSS survival manual does the job",
+      "author": "MuhammadYesusGautama",
+      "created": 1527193231,
+      "upvotes": 3,
+      "replies": {
+        "dziz6qx": {
+          "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dziz6qx/",
+          "text": "I second Andy Field\u2019s books. I started with his book onSPSS, sort of fell in love once I realised how the different tests actually fitted together and could be applied, and then started taking courses in R and in more complex modelling. I\u2019m now the stats geek doing big data modelling in genetics. I think I was only ever bored because I was being taught by people who couldn\u2019t get across why this stuff is so useful and interesting.",
+          "author": "ayeayefitlike",
+          "created": 1527199810,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "dzjdrlz": {
+          "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzjdrlz/",
+          "text": "Same, first his book on SPSS and recently his book on R. Together with statsexchange etc.\n\nLately there are plenty of nice new tools, jamovi, JASP -- they are very straightforward to use if you know what test you need.",
+          "author": "Focx",
+          "created": 1527215811,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "dziti92": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dziti92/",
+      "text": "Wow are you me? I had this exact thought today at a conference, I have ZERO knowledge about statistics and what all those letters and expression mean and not sure if I should feel bad. Never had classes. I should probably ask someone to teach me.",
+      "author": "nightwica",
+      "created": 1527194221,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "dziuojp": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dziuojp/",
+      "text": "Practice. I\u2019m only just getting \u2018ok\u2019 at it. Took me a solid year. If it doesn\u2019t come naturally expect to constantly be frustrated and confused haha",
+      "author": null,
+      "created": 1527195324,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "dzj9sgz": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzj9sgz/",
+      "text": "I'm assuming you are still in graduate school? You can likely take courses in other departments. Our department really only offered 3 statistics courses (basic, advanced, and one special topic) so I took all of my courses otherwise in the statistics department and did one \"independent study\" on a method I was interested in/working on with my advisor but was not taught at our university. ",
+      "author": "chorkea",
+      "created": 1527211449,
+      "upvotes": 2,
+      "replies": {
+        "dzk8d0x": {
+          "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzk8d0x/",
+          "text": "Definitely look in other departments. I did all of my stats classes (Intro to stats, regression, logistic regression, and structural equation modeling) in the political science department. ",
+          "author": "hochizo",
+          "created": 1527260959,
+          "upvotes": 2,
+          "replies": {
+            "dzl5wcq": {
+              "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzl5wcq/",
+              "text": "Ha! I am a political scientist. At the time my program did not have a lot of good quants to teach what I needed, though.",
+              "author": "chorkea",
+              "created": 1527294558,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "dzixrun": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzixrun/",
+      "text": "I studied the humanities and largely avoid them.",
+      "author": "smeggysmeg",
+      "created": 1527198366,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "dziqayt": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dziqayt/",
+      "text": "Maybe take another stat course outside your university. There are also self guides like stats for dummies you can look into. ",
+      "author": "Gmoore5",
+      "created": 1527191268,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "dzirw1a": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzirw1a/",
+      "text": "By doing, check out the book SPSS survival manual, took me from basic mean/mode/median to a decent grasp on which tests to use. ",
+      "author": null,
+      "created": 1527192726,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "dzityk0": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzityk0/",
+      "text": "I definitely learnt the majority of my stats knowledge while actively working on my data. If you\u2019re looking to use R, some packages have vignettes that give you a step by step guide on how to carry out the stats specific to that package. They normally also have data associated with it that you can play around with, plus methods papers and publications that give you a great idea of what you can do with that sort of data. \n\nAs has been mentioned in another comment, there are some great help forums online if you get stuck! ",
+      "author": "queenofthesea123",
+      "created": 1527194643,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "dzjb8st": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzjb8st/",
+      "text": "Many Universities will offer a certificate in applied statistics or something to the effect. Essentially a minor for graduate students. The aces I have seen, it will generally be 4 or 5 stat courses.\n\nThat might be something to look into, especially if you have funding and time to take some courses.",
+      "author": "Statman12",
+      "created": 1527213001,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "dzjel14": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzjel14/",
+      "text": "I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:\n\n- [/r/u_thelawsy] [How did you get good at statistics?](https://www.reddit.com/r/u_TheLawsy/comments/8lygf1/how_did_you_get_good_at_statistics/)\n\n&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*",
+      "author": "TotesMessenger",
+      "created": 1527216722,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "dzjlynd": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzjlynd/",
+      "text": "I've only ever found one source for stats that didn't read like they were written by applied mathematics grad students. \n\n\nThe best, easiest, idiots-proof guide I found was [the blog](http://blog.minitab.com/blog/tag/data-analysis-2) for the stats software I used; minitab. The guys at the company were massive pricks both times I called, so I highly recommend pirating the software. \n\nThat being said, their blog posts are absolutely god-tier for someone who doesn't understand stats, but needs to put out graduate-level papers.   \n\nThey explain the topics in amazingly practical, straight-forward ways. \n\nSome examples:  \n\n[Multiple Regression Analysis (with their software but still useful)](http://blog.minitab.com/blog/understanding-statistics/the-easiest-way-to-do-multiple-regression-analysis)\n\n[What Does It Mean When Your Probability Plot Has Clusters?](http://blog.minitab.com/blog/the-statistical-mentor/what-does-it-mean-when-your-probability-plot-has-clusters)  \n\n\n\n",
+      "author": "bigbiltong",
+      "created": 1527226039,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "dzjome1": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzjome1/",
+      "text": "I support everyone who suggested Andy Field's R book. It's fun and helps you to understand the basics. It's what saved me in undergrad when I switched universities and was suddenly two years behind everyone else in stats. I think it's also worthwhile finding a tutor who is happy to teach from scratch. Having someone who can give you a quick answer to what feels like silly questions (e.g. what does this symbol stand for again?) is immensely helpful and will help you progress faster.\nI also wholeheartedly recommend DataCamp's stats courses. I'm just starting my PhD after a year out of academia and the DataCamp R course is really helping me get back into stats from the basics upward. ",
+      "author": "yay_knowledge",
+      "created": 1527230596,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "dzjwnst": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzjwnst/",
+      "text": "Northwestern University School of Law offers two summer workshops on casual inference (standard 3 day and and an advanced 2 day)  that covers a range of topics from bootstrapping to multilevel modeling, HLM, pairwise matching, and much, much more. \n\nThe lessons are generally taught by the people who either came up with the methods or are experts in the use (typically the former).\n\nIt can be pricey, but they offer a discount fit graduate students. Definitely a worthwhile investment. I went back in 2014 and was fortunate enough to convince my advisor to fund it. \n\n[Check it out. ](https://www.google.com/url?sa=t&source=web&rct=j&url=http://www.law.northwestern.edu/research-faculty/conferences/causalinference/frequentist/&ved=2ahUKEwiT2e3g4KDbAhWj5IMKHY82DMMQFjAAegQICBAB&usg=AOvVaw21Jl2hRgrwF8C7dnJ-CBtL)",
+      "author": "middledeck",
+      "created": 1527247667,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "dzjyieu": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzjyieu/",
+      "text": "I got good at it by teaching it.  In grad school I was told to teach a stats lab.  That was a poor decision on someone\u2019s part, but it made me learn what I was doing.  I\u2019m a lot better off for having had the experience.",
+      "author": null,
+      "created": 1527250530,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "dzn77uy": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzn77uy/",
+      "text": "I was in a research lab in the social sciences as an undergrad. My lab does mixed methods research. So I was in an environment that appreciated stats.\n\nI took 2 stats grad courses as an undergrad. It wasn't really until I took a specific regression class that I started to feel comfortable with stats. In and outside of class, through help from some of my advisors, I gained experience which allowed me to really learn stats. Even though I took an ANOVA course, I didn't really understand repeated measures until i worked on a project using it. I didnt fully understand the implications of assumptions for regression until I ran into those issues in my own work. I plan on doing an HLM project next semester, and I am sure I will learn more about multi level modeling from working on that.\n\nIn general, I have a lot of experience running correlations, ANOVAs, regressions, and multilevel modeling, and some experience with factor analysis, cluster analysis, discriminant function analysis, and multidimensional scaling. I definitely need to learn more about those last four.\n\nNow I want to take classes in SEM, latent variable analysis, meta analysis, and psychometrics, off the top of my head.\n\nThere are still some things I am not strong on. I am very bad with statistical notation for example, I hope to relearn that soon. If anyone has any good resources for that, I would appreciate it. Another limitation of mine is not the procedures or processes of stats, but sometimes the judgement calls that are taught through experience. So in those instances, I lean on my advisors or PIs for help.\n\nHeck I made a rookie mistake in R with a regression last week or so. But I know now that I will never make that mistake again because I ran into it myself.\n ",
+      "author": "DANstraction",
+      "created": 1527395398,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "dzir4h4": {
+      "link": "/r/AskAcademia/comments/8lv9rv/how_did_you_get_good_at_statistics/dzir4h4/",
+      "text": "90% of the time we make it up along the way.",
+      "author": "mrgumble",
+      "created": 1527192023,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

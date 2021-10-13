@@ -1,0 +1,739 @@
+{
+  "sid": "gcztk9",
+  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/",
+  "title:": "I put 21 college rejection letters through a Machine Learning algorithm and here's what I got",
+  "text": "I took the 20 rejection letters available on [ivyhub.org/decision-letters/](https://ivyhub.org/decision-letters/) and added my own rejection from Berkeley. I had a machine learning algorithm learn from these letters and spit out its own generation - to create a 'generic rejection', if you will. Here's the result:\n\n    \n    The admission committee has completed its Regular Decision meetings, and I am very sorry to tell you that you will go on to great success in your educational plans and on through life. Our experience is that the vast majority of students who do not gain admission to maintaining its Regular Decision may be hoped to achieve success in your college plans and on the time and effort you have put into the college search and application process. We hope this decision in no way reflections, and sixteed students who apply this year. As the number of well-qualified applicants who apply to Northwestern. As sure each student apply reserved for Early Decision process, it is with regret that I inform you that we are not offering you admission to the University of Pennsylvania.Your choices and resinical pursued applicants. Respectfully and thoughtfully reviewed multiple times, by many individuals. Please see this is a careful consider plans on selection process. For answers to that the vast majority of opportunities are final. We were humbled by the talental from selection clarity, and since our decisions selection processors, we considered many other applications for answers to some consideration. We wish you the best with your candidacy, the Admissions Committee decisions made a student or applying under our Early Decision plans and the difficult college of colleges there in advition to a candidate's competition for admission to Rice has gown considerably in recent years.\n\nThere are more variants it generated - I'll share them if you guys want.",
+  "author": "gullu2002",
+  "created": 1588545655,
+  "updated": 1634078148,
+  "over_18": false,
+  "upvotes": 1609,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "fpeff85": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpeff85/",
+      "text": "This is actually decently coherent for that amount of data lol\n\nWoke up to this with 500 likes wondering why so many people actually understood what I was saying then I realized this is a2c and every other person in this sub is a CS major haha",
+      "author": "anthonycastelucci",
+      "created": 1588546505,
+      "upvotes": 576,
+      "replies": {
+        "fpeif6x": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpeif6x/",
+          "text": "for sure. I would go get more letters, but I'm lazy and have other things to do. Maybe ill try to crowdsource it with a post on this sub, then just collect the comments to a large file with praw",
+          "author": "gullu2002",
+          "created": 1588548155,
+          "upvotes": 165,
+          "replies": {
+            "fpeikky": {
+              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpeikky/",
+              "text": "I did a similar project not too long ago but I fed my rnn all of Michael Scott\u2019s lines from the office haha",
+              "author": "anthonycastelucci",
+              "created": 1588548239,
+              "upvotes": 57,
+              "replies": {
+                "fpenn93": {
+                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpenn93/",
+                  "text": "Can u link it here? Michael Scott is funny as hell and it would be interesting lol",
+                  "author": "datscholar1",
+                  "created": 1588551060,
+                  "upvotes": 23,
+                  "replies": {
+                    "fpenxt9": {
+                      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpenxt9/",
+                      "text": "https://www.tensorflow.org/tutorials/text/text_generation",
+                      "author": "anthonycastelucci",
+                      "created": 1588551230,
+                      "upvotes": 16,
+                      "replies": {
+                        "fpffntp": {
+                          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpffntp/",
+                          "text": "There was a cool bot that I made that used the Markov chain. It took random speeches from Obama and Trump and mixed them together and replied randomly on Reddit comments. I didn't keep it running though.",
+                          "author": "lifeismeanttodie",
+                          "created": 1588569853,
+                          "upvotes": 15,
+                          "replies": {
+                            "fpfgwe9": {
+                              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfgwe9/",
+                              "text": "Haha that\u2019s fun",
+                              "author": "anthonycastelucci",
+                              "created": 1588570888,
+                              "upvotes": 8,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "fpent25": {
+                      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpent25/",
+                      "text": "I didn\u2019t put it on my GitHub sorry, it was really incoherent lolol",
+                      "author": "anthonycastelucci",
+                      "created": 1588551151,
+                      "upvotes": 5,
+                      "replies": {}
+                    },
+                    "fpenu9f": {
+                      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpenu9f/",
+                      "text": "I could link you the tutorial I used though",
+                      "author": "anthonycastelucci",
+                      "created": 1588551170,
+                      "upvotes": 4,
+                      "replies": {}
+                    }
+                  }
+                },
+                "fpein4y": {
+                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpein4y/",
+                  "text": "Check out deep leffen bot on Twitter. Greatest thing I've seen",
+                  "author": "gullu2002",
+                  "created": 1588548280,
+                  "upvotes": 6,
+                  "replies": {
+                    "fpeip00": {
+                      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpeip00/",
+                      "text": "Could u throw me a link? I don\u2019t have Twitter lmao",
+                      "author": "anthonycastelucci",
+                      "created": 1588548309,
+                      "upvotes": 3,
+                      "replies": {
+                        "fpeiszn": {
+                          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpeiszn/",
+                          "text": "https://twitter.com/deepleffen?lang=en\n\nIf you know anything about the competitive smash scene this is comedy gold",
+                          "author": "gullu2002",
+                          "created": 1588548370,
+                          "upvotes": 7,
+                          "replies": {
+                            "fpgqrc4": {
+                              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpgqrc4/",
+                              "text": "omg this is pure gold. It sounds exactly like leffen too lmao",
+                              "author": "CovalentElectron",
+                              "created": 1588607800,
+                              "upvotes": 3,
+                              "replies": {
+                                "fpharig": {
+                                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpharig/",
+                                  "text": "I don't like him much So I love this bot",
+                                  "author": "gullu2002",
+                                  "created": 1588617955,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "fpeipk7": {
+                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpeipk7/",
+                  "text": "Also can I ask how you did it? Gpt 2?",
+                  "author": "gullu2002",
+                  "created": 1588548317,
+                  "upvotes": 4,
+                  "replies": {
+                    "fpej22v": {
+                      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpej22v/",
+                      "text": "I followed a tf tutorial and made some adjustments. In all honesty the most annoying part was finding the script in a reasonable format so I could write a script that could easily parse Michael\u2019s lines lol. And it really didn\u2019t work that well haha",
+                      "author": "anthonycastelucci",
+                      "created": 1588548510,
+                      "upvotes": 2,
+                      "replies": {
+                        "fpej7g5": {
+                          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpej7g5/",
+                          "text": "Haha well I might try to improve this but this was just a quick 1 hour project so I doubt I'll ever return to this",
+                          "author": "gullu2002",
+                          "created": 1588548593,
+                          "upvotes": 2,
+                          "replies": {
+                            "fpejgm2": {
+                              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpejgm2/",
+                              "text": "Yeah I\u2019m not sure in all honesty how much cooler you can make it anyways lol. Cool little project tho (btw rejected from Berkeley gang lol)",
+                              "author": "anthonycastelucci",
+                              "created": 1588548736,
+                              "upvotes": 2,
+                              "replies": {
+                                "fpejycv": {
+                                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpejycv/",
+                                  "text": "Gang gang \ud83d\ude2d\n\n&#x200B;\n\nWell at least you and I will hopefully both be successful at Umich (I assume?) and Ucla.",
+                                  "author": "gullu2002",
+                                  "created": 1588549002,
+                                  "upvotes": 2,
+                                  "replies": {
+                                    "fpekjmt": {
+                                      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpekjmt/",
+                                      "text": "Yessir we\u2019re all good",
+                                      "author": "anthonycastelucci",
+                                      "created": 1588549328,
+                                      "upvotes": 2,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "fpej457": {
+                      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpej457/",
+                      "text": "Btw that bot is awesome \ud83d\ude02",
+                      "author": "anthonycastelucci",
+                      "created": 1588548542,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "fpf7njq": {
+              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf7njq/",
+              "text": "if you need waitlist letters lmk, I\u2019ve got nine lol",
+              "author": "BasketWeavingAlien",
+              "created": 1588563761,
+              "upvotes": 6,
+              "replies": {
+                "fpfb5gl": {
+                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfb5gl/",
+                  "text": "OUCH I only got 3.  \nBuy I think I'll stick to where I committed anyways tbh",
+                  "author": "gullu2002",
+                  "created": 1588566260,
+                  "upvotes": 2,
+                  "replies": {
+                    "fpfbdxv": {
+                      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfbdxv/",
+                      "text": "Yeah same I accepted one waitlist (to please my Asian parents obsessed with rankings\u2014take a wild guess which college haha) and turned down the rest",
+                      "author": "BasketWeavingAlien",
+                      "created": 1588566439,
+                      "upvotes": 2,
+                      "replies": {
+                        "fpfch6a": {
+                          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfch6a/",
+                          "text": "[deleted]",
+                          "author": null,
+                          "created": 1588567282,
+                          "upvotes": 1,
+                          "replies": {
+                            "fpfcqe9": {
+                              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfcqe9/",
+                              "text": "bruh yeah it\u2019s Harvard \ud83d\ude1e",
+                              "author": "BasketWeavingAlien",
+                              "created": 1588567481,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "fpfbi8l": {
+              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfbi8l/",
+              "text": "What algorithm did you use? A Markov chain? Maybe an RNN? I'm curious as to what you did.",
+              "author": "vikarjramun",
+              "created": 1588566534,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fpegmuc": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpegmuc/",
+      "text": "\u201cI am very sorry to tell you that you will go on to great success\u201d\n\nAha! I knew they absolutely hated my application.",
+      "author": "llemonadee",
+      "created": 1588547168,
+      "upvotes": 779,
+      "replies": {
+        "fpf4on5": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf4on5/",
+          "text": "^ my clown ass trying to apply to MIT",
+          "author": "gullu2002",
+          "created": 1588561710,
+          "upvotes": 150,
+          "replies": {
+            "fpf5brj": {
+              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf5brj/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1588562153,
+              "upvotes": 50,
+              "replies": {
+                "fpfcpwt": {
+                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfcpwt/",
+                  "text": "**Clown school 24\u2019\n\nEdit: Thought it was obvious but /s",
+                  "author": null,
+                  "created": 1588567470,
+                  "upvotes": 24,
+                  "replies": {
+                    "fpfd8nl": {
+                      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfd8nl/",
+                      "text": "Wrong way around, that implies either 24ft or the year 2400",
+                      "author": "allyanders",
+                      "created": 1588567884,
+                      "upvotes": 10,
+                      "replies": {
+                        "fpfha6w": {
+                          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfha6w/",
+                          "text": "I thought that was the point, considering it's \"clown school\"... Maybe I'm wrong",
+                          "author": "un-taken_username",
+                          "created": 1588571214,
+                          "upvotes": 14,
+                          "replies": {}
+                        },
+                        "fpfi6g1": {
+                          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfi6g1/",
+                          "text": "I know, it was sarcasm ha ha ha ha i should have put the s",
+                          "author": null,
+                          "created": 1588571985,
+                          "upvotes": 4,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "fpgsbta": {
+                      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpgsbta/",
+                      "text": "***Clown school 2'4",
+                      "author": "monstrositee",
+                      "created": 1588608619,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "fpfge8i": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfge8i/",
+          "text": "Borat vibes",
+          "author": "Do__Math__Not__Meth",
+          "created": 1588570463,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "fpejl3j": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpejl3j/",
+      "text": "only sixteed applicants? thats wild",
+      "author": "ELwain66",
+      "created": 1588548804,
+      "upvotes": 118,
+      "replies": {
+        "fpf4pve": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf4pve/",
+          "text": "That's like at least more than 2 I think",
+          "author": "gullu2002",
+          "created": 1588561734,
+          "upvotes": 52,
+          "replies": {}
+        }
+      }
+    },
+    "fpfmoqm": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfmoqm/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1588576095,
+      "upvotes": 42,
+      "replies": {
+        "fpg0vuj": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg0vuj/",
+          "text": "give this person a medal",
+          "author": null,
+          "created": 1588590689,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "fpfpcwx": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfpcwx/",
+          "text": "Thank you!",
+          "author": "hastagelf",
+          "created": 1588578698,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "fper42b": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fper42b/",
+      "text": "It started off so well. I guess most colleges start their letters the same",
+      "author": "sumguy3111",
+      "created": 1588553157,
+      "upvotes": 67,
+      "replies": {}
+    },
+    "fpf35hz": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf35hz/",
+      "text": "I did a similar project but I fed a neural network a massive selection of poetry and used it to generate poems that I had no interest in writing",
+      "author": "throwaway1978646",
+      "created": 1588560682,
+      "upvotes": 28,
+      "replies": {
+        "fpf41tv": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf41tv/",
+          "text": "Very interesting! What method did you use?",
+          "author": "gullu2002",
+          "created": 1588561277,
+          "upvotes": 12,
+          "replies": {
+            "fpgxh60": {
+              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpgxh60/",
+              "text": "just a version of GPT-2 that I imported to colab; I just did this for fun cuz I was bored in class one day lol",
+              "author": "throwaway1978646",
+              "created": 1588611259,
+              "upvotes": 3,
+              "replies": {
+                "fynqooh": {
+                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fynqooh/",
+                  "text": "Can you elaborate? I am interested. How did the poem turn out?",
+                  "author": "NeutralTheFirst",
+                  "created": 1595253643,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fpf878y": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf878y/",
+      "text": "Well, this rejection letter isn't any worse than the real ones",
+      "author": "insatiablehumans",
+      "created": 1588564147,
+      "upvotes": 17,
+      "replies": {}
+    },
+    "fpf9tcx": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf9tcx/",
+      "text": "I just saw that post about statistical analysis on college emails.. I wonder if I could generate a college email. Training data is abundant lol.\n\n\u201cFerb, I know what we\u2019re gonna do today.\" :)\n\nPS. Also, can I ask what you used? GPT-2?",
+      "author": "messy_hacker",
+      "created": 1588565284,
+      "upvotes": 6,
+      "replies": {
+        "fpfv589": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfv589/",
+          "text": "iirc the trained GPT 2 model was never released, and GPT-2 is just a massive Transformer anyway",
+          "author": "MekaMuffin",
+          "created": 1588584679,
+          "upvotes": 1,
+          "replies": {
+            "fpgbnyh": {
+              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpgbnyh/",
+              "text": "They did release the [full model](https://openai.com/blog/gpt-2-1-5b-release/). And yes, being a massive transformer networks makes it really good at processing text. [looks like](https://minimaxir.com/2019/09/howto-gpt2/) there's way to tune GPT-2 on custom data.",
+              "author": "messy_hacker",
+              "created": 1588599289,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fpff51f": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpff51f/",
+      "text": "Sounds like CalTech lmao",
+      "author": "goflyint0",
+      "created": 1588569423,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "fpf48hs": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf48hs/",
+      "text": "More thought out than the rejection letters I recurved :(",
+      "author": "TheYeskatilian",
+      "created": 1588561403,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "fpff35t": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpff35t/",
+      "text": "Can you generate Generic Steven King Novel?",
+      "author": "Reasonable_Housing",
+      "created": 1588569379,
+      "upvotes": 3,
+      "replies": {
+        "fpi0sup": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpi0sup/",
+          "text": "That's beyond my computer's processing power lol. But theoretically definitely. They did it for Harry Potter if I remember correctly. It's a funny ai generated chapter of hp",
+          "author": "gullu2002",
+          "created": 1588631432,
+          "upvotes": 2,
+          "replies": {
+            "fpipweg": {
+              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpipweg/",
+              "text": "How can I go about doing this?",
+              "author": "Reasonable_Housing",
+              "created": 1588646100,
+              "upvotes": 1,
+              "replies": {
+                "fpiqzz5": {
+                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpiqzz5/",
+                  "text": "Simple-gpt-2 \nEasy package all wrapped up. Install with pip",
+                  "author": "gullu2002",
+                  "created": 1588646774,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fpfa2eg": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfa2eg/",
+      "text": "Good enough the trigger my rejection ptsd lmao",
+      "author": "SoulFlame8282",
+      "created": 1588565469,
+      "upvotes": 4,
+      "replies": {
+        "fpfayge": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfayge/",
+          "text": "Try going to ivyhub ( link in post) to see some acceptances too! Maybe I'll make an acceptance version of this.",
+          "author": "gullu2002",
+          "created": 1588566118,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "fpepo5g": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpepo5g/",
+      "text": "That was a wild ride, and I appreciate it greatly",
+      "author": "Arthkor_Ntela",
+      "created": 1588552282,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fpfev21": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfev21/",
+      "text": "What algoritm did you use?",
+      "author": "Ray_Thahacka",
+      "created": 1588569194,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fpfmu9a": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfmu9a/",
+      "text": "How do you do this?",
+      "author": "Nobodynot",
+      "created": 1588576240,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fpgbqky": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpgbqky/",
+      "text": "is it bad i distinctly remembered all the elements of this that came from the stanford rejection? \"we were humbled by the talent...\"",
+      "author": null,
+      "created": 1588599336,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fpf5dcf": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf5dcf/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1588562183,
+      "upvotes": 3,
+      "replies": {
+        "fpfbtth": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfbtth/",
+          "text": ">I have a shit laptop so even with a little data I usually take 2+ hours per epoch lol.\n\nCheck out [Google Colab](https://colab.research.google.com/)  \\- they offer you free GPU time in a cloud jupyter notebook.",
+          "author": "vikarjramun",
+          "created": 1588566780,
+          "upvotes": 3,
+          "replies": {
+            "fpfc5gr": {
+              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfc5gr/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1588567031,
+              "upvotes": 5,
+              "replies": {
+                "fpfudoa": {
+                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfudoa/",
+                  "text": "Colab gives you 12 hours of hosted runtime under their \"free\" plan",
+                  "author": "rish-16",
+                  "created": 1588583852,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fpf5qaz": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf5qaz/",
+          "text": "That\u2019s tough",
+          "author": "anthonycastelucci",
+          "created": 1588562428,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "fpfb3c1": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfb3c1/",
+          "text": "https://github.com/minimaxir/textgenrnn\nConvenient library",
+          "author": "gullu2002",
+          "created": 1588566216,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "fpf5rhf": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf5rhf/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1588562450,
+      "upvotes": 1,
+      "replies": {
+        "fpf5ybt": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpf5ybt/",
+          "text": "Find a random python library and run with it, it's not that deep",
+          "author": "gullu2002",
+          "created": 1588562580,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "fpfoz5m": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfoz5m/",
+      "text": "It would be interesting if you got enough data to where it wouldnt take specific university names",
+      "author": "Account_Expired",
+      "created": 1588578313,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fpfqwfm": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpfqwfm/",
+      "text": "i'm legitimately laughing out loud",
+      "author": "youarethemuse",
+      "created": 1588580249,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fpg20oj": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg20oj/",
+      "text": "Could you try getting the top words using tfidf? Or perhaps send me the text files and I'll try it.",
+      "author": "SemiEffective",
+      "created": 1588591773,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fpg2e4g": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg2e4g/",
+      "text": "Interesting. Did you use an LSTM? I know that Andrej Karpathy was one of the first to look into a lot of this text synthesis stuff with RNNs/LSTMs - http://karpathy.github.io/2015/05/21/rnn-effectiveness/",
+      "author": "100percentDeplorable",
+      "created": 1588592116,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fpg3z26": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg3z26/",
+      "text": "Lol, how tf does Berkeley reject you when you\u2019re better than half the CS majors they accepted?",
+      "author": "lordsmobile6969",
+      "created": 1588593528,
+      "upvotes": 1,
+      "replies": {
+        "fpg5l78": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg5l78/",
+          "text": "Thanks for the consolation lol. But I'm not a comp sci major. I'm electrical engineering",
+          "author": "gullu2002",
+          "created": 1588594889,
+          "upvotes": 2,
+          "replies": {
+            "fpg5ots": {
+              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg5ots/",
+              "text": "That\u2019s even better. You\u2019re better than their CS majors even while being electrical engineering major",
+              "author": "lordsmobile6969",
+              "created": 1588594972,
+              "upvotes": 1,
+              "replies": {
+                "fpg5qg8": {
+                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg5qg8/",
+                  "text": "Ucla accepted me into an honors like program so I'm chilling honestly",
+                  "author": "gullu2002",
+                  "created": 1588595008,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fpg5nrt": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg5nrt/",
+      "text": "**Normal Comment Version:**\n\nThe admission committee has completed its Regular Decision meetings, and I am very sorry to tell you that you will go on to great success in your educational plans and on through life. Our experience is that the vast majority of students who do not gain admission to maintaining its Regular Decision may be hoped to achieve success in your college plans and on the time and effort you have put into the college search and application process. We hope this decision in no way reflections, and sixteed students who apply this year. As the number of well-qualified applicants who apply to Northwestern. As sure each student apply reserved for Early Decision process, it is with regret that I inform you that we are not offering you admission to the University of Pennsylvania.Your choices and resinical pursued applicants. Respectfully and thoughtfully reviewed multiple times, by many individuals. Please see this is a careful consider plans on selection process. For answers to that the vast majority of opportunities are final. We were humbled by the talental from selection clarity, and since our decisions selection processors, we considered many other applications for answers to some consideration. We wish you the best with your candidacy, the Admissions Committee decisions made a student or applying under our Early Decision plans and the difficult college of colleges there in advition to a candidate's competition for admission to Rice has gown considerably in recent years.",
+      "author": "careerthrowaway10",
+      "created": 1588594949,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fpg5vie": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg5vie/",
+      "text": "Good for you bro, Ill see you on campus next year If this virus is over by then",
+      "author": "lordsmobile6969",
+      "created": 1588595118,
+      "upvotes": 1,
+      "replies": {
+        "fpg5y05": {
+          "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg5y05/",
+          "text": "Ucla?",
+          "author": "gullu2002",
+          "created": 1588595174,
+          "upvotes": 1,
+          "replies": {
+            "fpg5ynu": {
+              "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg5ynu/",
+              "text": "Yeah lol, I go to UCLA",
+              "author": "lordsmobile6969",
+              "created": 1588595189,
+              "upvotes": 1,
+              "replies": {
+                "fpg5zax": {
+                  "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpg5zax/",
+                  "text": "Maybe I'll see you!",
+                  "author": "gullu2002",
+                  "created": 1588595203,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fpgsmiv": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fpgsmiv/",
+      "text": "\"sixteed\" lol",
+      "author": "Anitathefab02",
+      "created": 1588608773,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fqehuy3": {
+      "link": "/r/ApplyingToCollege/comments/gcztk9/i_put_21_college_rejection_letters_through_a/fqehuy3/",
+      "text": "Now you should use the letters it came up with as the new data and see what letter the machine leaning algorithm comes up with",
+      "author": "YellowLab64",
+      "created": 1589307808,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

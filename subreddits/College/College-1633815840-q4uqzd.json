@@ -1,0 +1,31 @@
+{
+  "sid": "q4uqzd",
+  "link": "/r/college/comments/q4uqzd/how_do_i_get_a_screen_reader_to_skip_reading_what/",
+  "title:": "How do I get a screen reader to skip reading what is in parentheses.",
+  "text": "I'm a STEM major so I read lots of academic journals and stuff that make it impossible to listen to when they read the parentheses. I'm currently using adobe acrobat but I also sometimes use the apple screen reader or the Microsoft one.  \n\nEx: The mitochondria is the powerhouse of the cell SMITH,  GREEN, ET AL 2014; EDWARDS 2012\n\nIs there any way to fix this?",
+  "author": "UnlikelyMarionberry",
+  "created": 1633815840,
+  "updated": 1634083086,
+  "over_18": false,
+  "upvotes": 12,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hg1657r": {
+      "link": "/r/college/comments/q4uqzd/how_do_i_get_a_screen_reader_to_skip_reading_what/hg1657r/",
+      "text": "If it's In PDF format. Microsoft Edge has built in PDF reader with read aloud feature, They have an skip button on reader.",
+      "author": "tcbobb16",
+      "created": 1633817126,
+      "upvotes": 10,
+      "replies": {
+        "hg196kh": {
+          "link": "/r/college/comments/q4uqzd/how_do_i_get_a_screen_reader_to_skip_reading_what/hg196kh/",
+          "text": "Thank you!",
+          "author": "TragicalKingdom",
+          "created": 1633818587,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

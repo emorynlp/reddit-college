@@ -1,0 +1,168 @@
+{
+  "sid": "ot40kt",
+  "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/",
+  "title:": "My name isn't included in my article's google scholar citation. All of my co-author's names however have been included.",
+  "text": "There are 3 other co-authors, all of their names have been included in the citation. But my name hasn't been included. What do I do to fix this?",
+  "author": "parapoop1",
+  "created": 1627452076,
+  "updated": 1634081335,
+  "over_18": false,
+  "upvotes": 136,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "h6t6yfi": {
+      "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6t6yfi/",
+      "text": "Contact the publisher with the original script, Google pulls it's data from publisher sites, so fix on their end",
+      "author": "L10NKing",
+      "created": 1627463401,
+      "upvotes": 118,
+      "replies": {
+        "h6t9c82": {
+          "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6t9c82/",
+          "text": "the recommended citation on the publishers website also includes my name, should I still contact them and ask them?",
+          "author": "parapoop1",
+          "created": 1627465526,
+          "upvotes": 41,
+          "replies": {
+            "h6t9hnq": {
+              "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6t9hnq/",
+              "text": "No harm in double checking, maybe their metadata is missing a link that Google can't see, either way, if they say it's not their end, then it's about fixing with Google scholars team instead :)",
+              "author": "L10NKing",
+              "created": 1627465660,
+              "upvotes": 47,
+              "replies": {
+                "h6t9s1f": {
+                  "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6t9s1f/",
+                  "text": "ah okay I hadn't considered that, thanks! I'll contact them and try to get it fixed.",
+                  "author": "parapoop1",
+                  "created": 1627465914,
+                  "upvotes": 15,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h6tdpqj": {
+      "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6tdpqj/",
+      "text": "Sometimes a citation doesn't get added to your Scholar profile automatically, and you have to search for and add it manually. Especially if your profile is fairly new, without many publications on it.",
+      "author": "scyllakeeper",
+      "created": 1627469224,
+      "upvotes": 28,
+      "replies": {
+        "h6tfm68": {
+          "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6tfm68/",
+          "text": "I don't have a Google scholar profile, nor do the co authors. this was our very first article.  But their names are displayed as the authors and in the citations part in Google scholar, however mine doesn't. I made a Google scholar account and added it manually, but it still doesn't add my name as an author on Google scholar.",
+          "author": "parapoop1",
+          "created": 1627470688,
+          "upvotes": 8,
+          "replies": {
+            "h6thyzf": {
+              "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6thyzf/",
+              "text": "So your other authors will have the paper added to their profile. They can use this to edit the authors listed on the paper.",
+              "author": "DoorsofPerceptron",
+              "created": 1627472341,
+              "upvotes": 10,
+              "replies": {
+                "h6tnobq": {
+                  "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6tnobq/",
+                  "text": "That only updates how it is displayed on their profile, not the main search results",
+                  "author": "xaranetic",
+                  "created": 1627475876,
+                  "upvotes": 14,
+                  "replies": {}
+                },
+                "h6tigtf": {
+                  "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6tigtf/",
+                  "text": "Oh I didn't know this was an option, I shall ask them to see if they can add my name. Thanks!",
+                  "author": "parapoop1",
+                  "created": 1627472675,
+                  "upvotes": 5,
+                  "replies": {}
+                },
+                "h6tnnxn": {
+                  "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6tnnxn/",
+                  "text": "I just tried this, my name is included when people access the paper from the co-author's profile, but if they try to access it from google scholar search page, my name is still not visible.",
+                  "author": "parapoop1",
+                  "created": 1627475870,
+                  "upvotes": 4,
+                  "replies": {}
+                },
+                "h6u9tcs": {
+                  "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6u9tcs/",
+                  "text": "How do you edit the authors?",
+                  "author": "foradil",
+                  "created": 1627486247,
+                  "upvotes": 1,
+                  "replies": {
+                    "h6ucnm7": {
+                      "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6ucnm7/",
+                      "text": "If you click on a paper on your own profile page there is an button marked edit that pops up.\n\n  \n\n\nApparently it only alters the paper as it's shown on your profile page though",
+                      "author": "DoorsofPerceptron",
+                      "created": 1627487419,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h6tvnzm": {
+      "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6tvnzm/",
+      "text": "Give it time for the google scholar algorithm to sort itself out. Make sure it's correct in all the places where it's linked, especially any academic repositories. It can take a while for google scholar to pick things up properly.",
+      "author": "Lemonfridge",
+      "created": 1627480021,
+      "upvotes": 12,
+      "replies": {
+        "h6u9oht": {
+          "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6u9oht/",
+          "text": "Sometimes papers are edited in Google Scholar years after publication, even those that are indexed by PubMed and presumably have proper metadata.",
+          "author": "foradil",
+          "created": 1627486191,
+          "upvotes": 3,
+          "replies": {
+            "h6uga5h": {
+              "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6uga5h/",
+              "text": "So that\u2019s what metadata means",
+              "author": "le-toss",
+              "created": 1627488914,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h6tnf8y": {
+      "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6tnf8y/",
+      "text": "How about Scopus or Web of Science?",
+      "author": "ivanfield",
+      "created": 1627475731,
+      "upvotes": 3,
+      "replies": {
+        "h6tnrol": {
+          "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6tnrol/",
+          "text": "the paper itself hasn't shown up there yet",
+          "author": "parapoop1",
+          "created": 1627475930,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h6udfpe": {
+      "link": "/r/AskAcademia/comments/ot40kt/my_name_isnt_included_in_my_articles_google/h6udfpe/",
+      "text": "It's Google Scholar, possibly it is delayed or will be updated. This may depend on publication date.",
+      "author": "Prime255",
+      "created": 1627487735,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

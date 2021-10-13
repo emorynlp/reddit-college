@@ -1,0 +1,83 @@
+{
+  "sid": "ou16k6",
+  "link": "/r/AskAcademia/comments/ou16k6/guidelines_for_systematic_review/",
+  "title:": "Guidelines for systematic review",
+  "text": " Dear Scholar, Ph.D. students, experts, and to who have the knowledge:\u00a0  \n\n\nCurrently, I am working on my first scientific research paper. After reviewing the literature about types of reviews, taking into consideration the aim, perceived strength, perceived weaknesses, purpose, examples of reporting guidelines, quality appraisal, and bias. I found myself convinced that a systematic review is the key to make the first step.\u00a0  \nAfter making the necessary research about it, I can say that this is the most adequate type for my field of research (supply chain) and I am going to conduct\u2014as much as possible\u2014a high-quality article.  \nEven that a master\u2019s student is a source of bias, I extracted every single tool, framework, and checklist available and applicable for my search. Yet I found myself unable to find a guideline for reporting individual studies accurately and effectively (the screening and every single step is going to be in two independent groups and conflicts will be resolved through discussion and to a third reviewer in case of unresolved issues) but my question is \u201cAre there an accurate guideline of reporting of data in individual studies (not for RCT studies)?",
+  "author": "llechtall",
+  "created": 1627577142,
+  "updated": 1634082394,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "h70jz33": {
+      "link": "/r/AskAcademia/comments/ou16k6/guidelines_for_systematic_review/h70jz33/",
+      "text": "If the studies include effect size, you can use the standardized values to compare data across studies. You can also develop your own or find a susceptibility of bias rubric and use that to qualitatively/categorically rank papers",
+      "author": "hellokoalaa",
+      "created": 1627599172,
+      "upvotes": 3,
+      "replies": {
+        "h723fdj": {
+          "link": "/r/AskAcademia/comments/ou16k6/guidelines_for_systematic_review/h723fdj/",
+          "text": "Thank you",
+          "author": "llechtall",
+          "created": 1627630153,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h73mb4z": {
+      "link": "/r/AskAcademia/comments/ou16k6/guidelines_for_systematic_review/h73mb4z/",
+      "text": "How don you define accurate for supply chain studies?\n\nI work in transportation now and i\u2019ve seen very little analysis with this. They aways seem to be high level overviews.",
+      "author": "BTownPhD",
+      "created": 1627662868,
+      "upvotes": 2,
+      "replies": {
+        "h773pau": {
+          "link": "/r/AskAcademia/comments/ou16k6/guidelines_for_systematic_review/h773pau/",
+          "text": "accurate is based on several aspects for supply chains : \n\nan accurate supply chain management is based on actor of analysis (Supplier, farmer/harvester, slaughtered, processor, packager, exporter/importer, distributor, retailer, consumer, recycler), level of analysis (Microscopic (Intra-Organizational), Mesoscopic (Inter-Organizational), Macroscopic (Sector-Wide Aggregate)),  decision scope (Strategic, tactical, operational), functional application area (Sourcing, transportation, network design, pricing, inventory, information, supply chain coordination and contracting, production, farming operations)",
+          "author": "llechtall",
+          "created": 1627735663,
+          "upvotes": 2,
+          "replies": {
+            "h774m1v": {
+              "link": "/r/AskAcademia/comments/ou16k6/guidelines_for_systematic_review/h774m1v/",
+              "text": "Ah. So based on those multiple factors it reminds me of much like when I was in chemistry where I had to completely argue every aspect how i wad accurate in a novel method I was being. It looks like a another redditor suggested the same approach.   Which, if you do, you will beyond in quality of the supply chain systematic reviews I have had reviewed where they make no real argument about their accuracy. They just put their analysis or observation as such.",
+              "author": "BTownPhD",
+              "created": 1627736246,
+              "upvotes": 1,
+              "replies": {
+                "h77610s": {
+                  "link": "/r/AskAcademia/comments/ou16k6/guidelines_for_systematic_review/h77610s/",
+                  "text": "Oh I understand you, in this case use logic models (dedicated for systematic review) \n\n\"A logic model is a graphic description of a system and is designed to identify important elements and relationships within that system.\"\n\n\"they can draw attention to aspects of complex problems that might otherwise be overlooked.\"\n\n\"Logic models promote systems thinking by illustrating the relationship of the parts to the whole and highlighting congruencies and inconsistencies.\"",
+                  "author": "llechtall",
+                  "created": 1627737127,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "h7752d8": {
+              "link": "/r/AskAcademia/comments/ou16k6/guidelines_for_systematic_review/h7752d8/",
+              "text": "I hope that was at least half as supportive to you as your comment was informative to me. Shifting from chemistry to research management has exposed myself to a lot of new fields.  All are relatable to some extent in the general methodologies. Defining and establishing accuracy across disciplines however seems to be certainly dependent on discipline definitions.",
+              "author": "BTownPhD",
+              "created": 1627736531,
+              "upvotes": 1,
+              "replies": {
+                "h776ncq": {
+                  "link": "/r/AskAcademia/comments/ou16k6/guidelines_for_systematic_review/h776ncq/",
+                  "text": "this will help :\n\nUsing logic models to capture complexity in systematic reviews\n\ndoi : 10.1002/jrsm.32",
+                  "author": "llechtall",
+                  "created": 1627737504,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

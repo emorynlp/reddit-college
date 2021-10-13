@@ -1,0 +1,101 @@
+{
+  "sid": "owgsrq",
+  "link": "/r/AskAcademia/comments/owgsrq/pubmed/",
+  "title:": "PubMed",
+  "text": "How do I get the full author's name in my search query (both first and last author?). I understand this feature was implemented in 2002, but when I search a journal- all the articles have only the last name displayed. Thanks!",
+  "author": "D_O_C_",
+  "created": 1627917939,
+  "updated": 1634080034,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.83,
+  "comments": {
+    "h7ftkmj": {
+      "link": "/r/AskAcademia/comments/owgsrq/pubmed/h7ftkmj/",
+      "text": "Typically I search \"Last Name FI/MI AND Last Name FI/MI\"\n\nie: Smith BT AND Jones JD",
+      "author": "CptSmarty",
+      "created": 1627918500,
+      "upvotes": 5,
+      "replies": {
+        "h7fuom6": {
+          "link": "/r/AskAcademia/comments/owgsrq/pubmed/h7fuom6/",
+          "text": "Thank you for the reply-So im doing a bibliometric analysis looking at the first author names to identify females vs males. Ill be querying >20,000 publications so is there a way that the query can contain the first and last name? Thank you!",
+          "author": "D_O_C_",
+          "created": 1627918986,
+          "upvotes": 1,
+          "replies": {
+            "h7g2xzi": {
+              "link": "/r/AskAcademia/comments/owgsrq/pubmed/h7g2xzi/",
+              "text": "Please dont use names to determine people's genders, that's a horrible method",
+              "author": "DeepSeaDarkness",
+              "created": 1627922526,
+              "upvotes": 6,
+              "replies": {
+                "h7g60k2": {
+                  "link": "/r/AskAcademia/comments/owgsrq/pubmed/h7g60k2/",
+                  "text": "I agree, Im consulting someone who doesn't identify as either on how to approach this. There is a lack of female representation in publications- how can I highlight and change this in academia if I don't research it? Any suggestions? Thanks!",
+                  "author": "D_O_C_",
+                  "created": 1627923834,
+                  "upvotes": 1,
+                  "replies": {
+                    "h7g6h54": {
+                      "link": "/r/AskAcademia/comments/owgsrq/pubmed/h7g6h54/",
+                      "text": "Best would be to ask the people about their gender. I'm also non-binary and representation is really important.",
+                      "author": "DeepSeaDarkness",
+                      "created": 1627924031,
+                      "upvotes": 1,
+                      "replies": {
+                        "h7g6zt5": {
+                          "link": "/r/AskAcademia/comments/owgsrq/pubmed/h7g6zt5/",
+                          "text": "Ive also considered this, however, there are >20,000 publications im going through and I don't believe it would be possible to reach out to this many people. Any other thoughts?",
+                          "author": "D_O_C_",
+                          "created": 1627924253,
+                          "upvotes": 1,
+                          "replies": {
+                            "h7g7oew": {
+                              "link": "/r/AskAcademia/comments/owgsrq/pubmed/h7g7oew/",
+                              "text": "There's a Facebook group called 'non-binary academics Networks I'm sure they'd be more than happy to help you out",
+                              "author": "DeepSeaDarkness",
+                              "created": 1627924546,
+                              "upvotes": 3,
+                              "replies": {
+                                "h7gsbpz": {
+                                  "link": "/r/AskAcademia/comments/owgsrq/pubmed/h7gsbpz/",
+                                  "text": "Thank you, I will look into this!",
+                                  "author": "D_O_C_",
+                                  "created": 1627933513,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            },
+                            "h7g7cyd": {
+                              "link": "/r/AskAcademia/comments/owgsrq/pubmed/h7g7cyd/",
+                              "text": "Some journals ask for your gender (or at least pronouns) when you make an account which is needed for manuscript submission, maybe there's a way to get anonymized information from the journal?",
+                              "author": "DeepSeaDarkness",
+                              "created": 1627924411,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "h7r7wgc": {
+              "link": "/r/AskAcademia/comments/owgsrq/pubmed/h7r7wgc/",
+              "text": "This type of study is a particular personal annoyance of mine.  I have no idea if \"Han Soo\", or \"Guo-Yan Chun\" or \"Veerassammy Rajakumar\" are male or female.  And frankly I think that any study that purports to know this is full of it.",
+              "author": "Life_time_learner",
+              "created": 1628129447,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

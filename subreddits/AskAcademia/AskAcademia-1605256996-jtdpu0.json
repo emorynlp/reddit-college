@@ -1,0 +1,561 @@
+{
+  "sid": "jtdpu0",
+  "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/",
+  "title:": "What are your favorite scientific articles of all time?",
+  "text": "I\u2019m an undergraduate biology student and I\u2019m interested in reading a bunch of scientific works over the winter break coming up. What are your favorite articles of all time?",
+  "author": "Better_Purpose241",
+  "created": 1605256996,
+  "updated": 1634081235,
+  "over_18": false,
+  "upvotes": 151,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "gc56z3b": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc56z3b/",
+      "text": "[Physics of mosh pits ](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.110.228701)",
+      "author": "antimony121",
+      "created": 1605266474,
+      "upvotes": 78,
+      "replies": {
+        "gc5nu14": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5nu14/",
+          "text": "Thank you for this  :D",
+          "author": "mr_shai_hulud",
+          "created": 1605279869,
+          "upvotes": 12,
+          "replies": {
+            "gc5qkqc": {
+              "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5qkqc/",
+              "text": "It\u2019s a fun one, and well written, too. Happy to share!",
+              "author": "antimony121",
+              "created": 1605281443,
+              "upvotes": 11,
+              "replies": {
+                "gc6nvnv": {
+                  "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6nvnv/",
+                  "text": "Regarding the physics of mosh pits, there is a scientific article about the harm done by beer bottles. Interesting read. (Sorry I do not know how to do that thing with the link)\nhttps://www.sciencedirect.com/science/article/abs/pii/S1752928X08001728?via%3Dihub",
+                  "author": "mr_shai_hulud",
+                  "created": 1605297816,
+                  "upvotes": 6,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gc79sra": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc79sra/",
+          "text": "We studied this during systems biology class",
+          "author": "lucricius",
+          "created": 1605309149,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gc6099m": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6099m/",
+      "text": "A Mathematical Theory of Communication by Claude Shannon.\n\nSuch a groundbreaking work! He created the field of information theory, which allowed to clearly quantify \u201cinformation\u201d. We can say that this paper is the foundation of modern digital communications.\n\nEdit: Sorry, I guess the question was more oriented towards Biology.",
+      "author": null,
+      "created": 1605286256,
+      "upvotes": 65,
+      "replies": {
+        "gc619yk": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc619yk/",
+          "text": "This is one of my favorites too!",
+          "author": "secretpoop75",
+          "created": 1605286752,
+          "upvotes": 10,
+          "replies": {
+            "gc6bb8i": {
+              "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6bb8i/",
+              "text": "Undergrad here, I can't say that I understand the paper fully yet, but I really appreciate Shannon's work.",
+              "author": "didsocrateshavesocks",
+              "created": 1605291654,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "gc7wuon": {
+              "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7wuon/",
+              "text": "I'm in physics but I have to agree.  I feel this paper did more for my understanding of entropy than all the work of Botltzmann and VonNeuman combined (leaving out Gibbs who I think rivals Shannon in terms of insight, possibly exceeding it on a more abstract level).",
+              "author": "gull_faxi",
+              "created": 1605322940,
+              "upvotes": 2,
+              "replies": {
+                "gc8zx56": {
+                  "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc8zx56/",
+                  "text": "A man of taste! Gibbs Free Energy is super important in biochemistry and probably the first time I actually gained a real intuition for what it means for entropy to increase/decrease. \n\nShannon's version is a little more abstract from a biological perspective, but still really useful if you can work through the math.",
+                  "author": "GACGCCGTGATCGAC",
+                  "created": 1605359266,
+                  "upvotes": 2,
+                  "replies": {
+                    "gccoxhv": {
+                      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gccoxhv/",
+                      "text": "Shannon seems more abstract until you go to the ensemble level.  Both Shannon and Gibbs   are studying  large networks (or ensembles) which grow  exponentially with each node, so you take the log to get a linear measure on the phase space.  The difference is that for Gibbs the phase space is *atomic configurations within a volume*, while for Shannon it is *word configurations within a sentence*.  Shannon's big insight was to use this to measure fidelity over a noisy channel, which is important, but Gibb's big insight was the Gibb's paradox, which predated quantum mechanics and anticipated indistinguishable particles.  Gibbs didn't know quantum, so his arguments were sort of the first evidence that quantum exists.  Most alternative theories to quantum are ruled out by the Gibb's paradox, but you'll never hear a Bhomian admit it because they are incapable of conceding defeat.",
+                      "author": "gull_faxi",
+                      "created": 1605421699,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gc7dd6u": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7dd6u/",
+          "text": "Interestingly, Claude Shannon actually worked in Genetics as a Post Doc and the ideas from that paper are used in Population Genetics and Systems Biology.\n\nShannon has to be one of the most underrated figures in science.",
+          "author": "GACGCCGTGATCGAC",
+          "created": 1605311134,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "gc6ig95": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6ig95/",
+          "text": "This. I can emphasize how pivotal Shannon's work was for our world today.",
+          "author": "vladdaimpala",
+          "created": 1605295140,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "gc7up2f": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7up2f/",
+          "text": "I love his work, but I think that \"information\" is somewhat misleading, since it is more directed towards communication. I would say that Kolmogorov Complexity is better suited for referring to information.",
+          "author": "WieIsDeDrol",
+          "created": 1605321570,
+          "upvotes": 1,
+          "replies": {
+            "gc7x4br": {
+              "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7x4br/",
+              "text": ">I would say that Kolmogorov Complexity is better suited for referring to information\n\nOnce you figure out how to measure it, let us know.",
+              "author": "gull_faxi",
+              "created": 1605323110,
+              "upvotes": 2,
+              "replies": {
+                "gc7zbt9": {
+                  "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7zbt9/",
+                  "text": "I would say that not being able to measure the amount of information is inherent to the notion of information. This doesn't mean that the definition is bad.",
+                  "author": "WieIsDeDrol",
+                  "created": 1605324569,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gc5ah49": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5ah49/",
+      "text": "[Green fluorescent protein as a marker for gene expression](https://pubmed.ncbi.nlm.nih.gov/8303295/). Doug Prasher, the last author of this paper, first cloned a photoprotein into *E. coli* in 1985. His work laid the groundwork for the use of GFP in molecular biology; this is probably on par with the creation of PCR. Prasher eventually had to leave academia when he couldn't secure funding for his research, but Martin Chalfie (the lead author) went on to win the Nobel Prize in Chemistry for his work on GFP.",
+      "author": "phalaenopsisbloom",
+      "created": 1605269915,
+      "upvotes": 69,
+      "replies": {
+        "gc5ciyz": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5ciyz/",
+          "text": "Seconded. The entire story of GFP (and its partner molecule in the jellyfish, Aqueorin) is worth a read. I'd recommend [this personal account](http://www.jstor.org/stable/1542194?origin=crossref&seq=1#page_scan_tab_contents) from Osamu Shimomura, co-discoverer of GFP who shared the GFP Nobel prize.",
+          "author": "wirrbeltier",
+          "created": 1605271681,
+          "upvotes": 20,
+          "replies": {
+            "gc78581": {
+              "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc78581/",
+              "text": "That was a pretty cool read, thanks for sharing! I love how casually he mentions causing a temporary collapse in the local jellyfish population.",
+              "author": "phalaenopsisbloom",
+              "created": 1605308246,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gc50oi4": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc50oi4/",
+      "text": "The research done on squid giant axons pertaining to sodium voltage conduction",
+      "author": null,
+      "created": 1605259533,
+      "upvotes": 56,
+      "replies": {
+        "gc6lank": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6lank/",
+          "text": "before we learned how to miniaturize our tools, we just gigantified our experimental models!",
+          "author": "lmnox",
+          "created": 1605296542,
+          "upvotes": 19,
+          "replies": {
+            "gc79sie": {
+              "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc79sie/",
+              "text": "Haha, very well put! \n\nThis still happens though, see e.g. [Expansion Microscopy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6373868/): a smart way to chemically expand biological samples and image structures that normally would be smaller than the diffraction limit.",
+              "author": "wirrbeltier",
+              "created": 1605309145,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gc5ydb6": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5ydb6/",
+      "text": "I read this article in undergrad, and it opened my eyes to a career path I didn't know was an option. I'm now in an epidemiology PhD program studying access to contraceptive care. \n\nI don't know that it will be as impactful to others, but it certainly changed my life:\n[The Contraceptive CHOICE Project: Reducing Barriers to Long-Acting Reversible Contraception](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2910826/)",
+      "author": "thatpearlgirl",
+      "created": 1605285339,
+      "upvotes": 30,
+      "replies": {}
+    },
+    "gc61etx": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc61etx/",
+      "text": "As a biology student, you should read [\"Why are juveniles smaller than their parents?\"](https://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.1983.tb05637.x) possibly with \"The Spandrels of San Marco and the Panglossian Paradigm,\" if somehow you haven't read that classic as an undergrad (a paper with it's own [Wiki page](https://en.wikipedia.org/wiki/The_Spandrels_of_San_Marco_and_the_Panglossian_Paradigm), weirdly-- how often does that happen).  The juveniles paper is a joke paper in response to the Gould piece, looking for adaptive reasons why juveniles are smaller than their parents.  Plus it starts off with a quote from \"S. Martin,\" which is from a Steve Martin stand-up about getting high.  Very fun article for us bio nerds.",
+      "author": "DocGlabella",
+      "created": 1605286817,
+      "upvotes": 28,
+      "replies": {}
+    },
+    "gc66x2i": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc66x2i/",
+      "text": "This short seismology letter on unusual \"love\" waves never fails to make me laugh:\n\nhttps://pubs.geoscienceworld.org/ssa/srl/article-abstract/67/6/49/142147/Unusual-Love-Waves-Recorded-Above-the-Cascadia?redirectedFrom=fulltext\n\nYou can even see the seismograph if you have access to the article!",
+      "author": "BadassQuetzalcoatlus",
+      "created": 1605289492,
+      "upvotes": 11,
+      "replies": {
+        "gc6lu6l": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6lu6l/",
+          "text": "Amazing! This is the quality of research I aspire towards.",
+          "author": "Chlorophilia",
+          "created": 1605296808,
+          "upvotes": 7,
+          "replies": {}
+        }
+      }
+    },
+    "gc6sld8": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6sld8/",
+      "text": "[The effect of heterogeneity in measles vaccination on population immunity, Glass et al. 2004](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2870148/)\n\nI got a lot out of this one for my PhD. I ended up taking their model structure and expanding it much larger for influenza infections in schools. Spent many _many_ months on it. It also sparked something in my head to study the impact of heterogeneous vaccination coverage, which has been a massive research interest of mine for years. I think it's such a fascinating topic with so many directions to branch off to.\n\nOne day I'll get around to writing up my modelling properly ;-) but for now it sits in a chapter in my thesis.",
+      "author": "TheFlyingMunkey",
+      "created": 1605300169,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "gc5l3wy": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5l3wy/",
+      "text": "[George Miller's Magical Number Seven](http://www2.psych.utoronto.ca/users/peterson/psy430s2001/Miller%20GA%20Magical%20Seven%20Psych%20Review%201955.pdf).  Not biology, but one of the first applications of information theory to humans.  And this first paragraph:\n\n> My problem is that I have been persecuted by an integer. For seven years this number has followed me around, has intruded in my most private data, and has assaulted me from the pages of our most public journals. This number assumes a variety of disguises, being sometimes a little larger and sometimes a little smaller than usual, but never changing so much as to be unrecognizable. The persistence with which this number plagues me is far more than a random accident. There is, to quote a famous senator, a design behind it, some pattern governing its appearances. Either there really is something unusual about the number or else I am suffering from delusions of persecution.",
+      "author": "Integri_dad",
+      "created": 1605278074,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "gc6ptal": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6ptal/",
+      "text": "[Human commensals producing a novel antibiotic impair pathogen colonization](https://www.nature.com/articles/nature18634)",
+      "author": "pghsci",
+      "created": 1605298778,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gc6rdq7": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6rdq7/",
+      "text": "[Keeping up with the Red Queen: the pace of aging as an adaptation](https://link.springer.com/article/10.1007/s10522-016-9674-4)\n\nThe fundamental nature of aging remains a mystery to biologists, including whether it's a programmed process serving as an evolutionary adaptation or simply a byproduct of wear and tear. This review makes a general overview of arguments for and against both sides, and an attempt to synthesise the information in search of a middle ground. If anyone knows similar articles, feel free to send them to me!",
+      "author": "Loweren",
+      "created": 1605299574,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gc7f9wu": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7f9wu/",
+      "text": "Such a wonderful thread. Glad you asked this question!",
+      "author": "synthesis-synthesis",
+      "created": 1605312238,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gc6h3zq": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6h3zq/",
+      "text": "Not articles, but I read Phantoms In the Brain by VS Ramachandran and a bunch of Oliver Sacks over winter break one year in undergrad and just fell in love with neuroscience. Both of them are just beautiful writers on top of being accomplished scientists and are good \"entry level\" where you don't need a deep understanding of the field. \n\nCan a biologist fix a radio? (Lazebnik 2002) and Could a neuroscientist understand a microprocessor? (Jonas & Kording 2016) are really good articles about how we think about and do science, rather than specific findings.",
+      "author": "mediocre-spice",
+      "created": 1605294478,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "gc5jrlr": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5jrlr/",
+      "text": "The dog evolution paper - one of the referenced papers in this review: https://science.sciencemag.org/content/348/6232/277",
+      "author": "toot_ricky",
+      "created": 1605277191,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gc6ft62": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6ft62/",
+      "text": "Negotiating citizenship:a young child\u2019s collaborative meaning making constructions of beavers as a symbol of Canada\n\n\nhttps://1library.net/document/z1degndz-negotiating-citizenship-collaborative-meaning-making-constructions-beavers-canada.html",
+      "author": "zukerblerg",
+      "created": 1605293842,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gc6phlr": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6phlr/",
+      "text": "It\u2019s not my field but I always loved Fuck Nuance by Kieran Healy https://kieranhealy.org/files/papers/fuck-nuance.pdf.",
+      "author": "MrLegilimens",
+      "created": 1605298612,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gc6szhp": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6szhp/",
+      "text": "I can't for the life in me remember the original paper  I read but it was on the 'hygiene hypothesis'. Bascially it's about how some immunologist believe we're too clean and that's what's caused an increase in allergies and autoimmune diseases.",
+      "author": "ScottishSTEMinist",
+      "created": 1605300364,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gc6v2oq": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6v2oq/",
+      "text": "i highly recommend looking through Nature\u2019s list on the 100 most cited papers. https://www.nature.com/news/the-top-100-papers-1.16224 many interesting insights, ex:\n> For decades, the top-100 list has been dominated by protein biochemistry. The 1951 paper2 describing the Lowry method for quantifying protein remains practically unreachable at number 1, even though many biochemists say that it and the competing Bradford assay3 \u2014 described by paper number 3 on the list \u2014 are a tad outdated. In between, at number 2, is Laemmli buffer4, which is used in a different kind of protein analysis. The dominance of these techniques is attributable to the high volume of citations in cell and molecular biology, where they remain indispensable tools.",
+      "author": "f33dmewifi",
+      "created": 1605301409,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gc77bii": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc77bii/",
+      "text": "\"Science and Trans-Science\" by Alvin Weinberg. Great reflection on problems science can and cannot solve. https://doi.org/10.1007/BF01682418",
+      "author": "nwells66",
+      "created": 1605307791,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gc7hluc": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7hluc/",
+      "text": "Strong inference by Platt is something the first PI I ever worked for made me read and I go back to every so often to remind myself of the best way to approach research when I start to get too in the weeds.",
+      "author": "Acetylcholine",
+      "created": 1605313610,
+      "upvotes": 3,
+      "replies": {
+        "gc83fh6": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc83fh6/",
+          "text": "I read this in my first week in grad school and it had such a huge impact too",
+          "author": "discoverysol",
+          "created": 1605327430,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "gc90mnw": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc90mnw/",
+          "text": "Ah, totally forgot about this! Another great one.",
+          "author": "GACGCCGTGATCGAC",
+          "created": 1605359874,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gc5k6fh": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5k6fh/",
+      "text": "[The mundanity of excellence: An ethnographic report on stratification and Olympic swimmers](https://www.jstor.org/stable/202063?casa_token=hSLq5nTPT58AAAAA:wVzypVlf66Gu09HbDdItRLd8aO7E0pDu9j2EVwKlWf3Vv-wEVZ8kJNe-bn-IPgmfsC3_PY5w7BAkYV3gtov_vqmqQ1NsJoEBl622QymMSBHBX6kLb5WT)",
+      "author": "BananasonThebrain",
+      "created": 1605277461,
+      "upvotes": 9,
+      "replies": {
+        "gc7h9ex": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7h9ex/",
+          "text": "Great read, I think everyone invested in excellence can appreciate this. In particular the last two pages. My favorite part: \n\n> Excellence is mundane. Excellence is accomplished through the doing of actions, ordinary in themselves, performed consistently and carefully, habitualized, compounded together, added up over time. While these actions are \"qualitatively different\" from those of performers at over levels, these differences are neither unmanageable nor, taken one step at a time, terribly difficult. Mary T. Meagher came to practice on time; some writers always work for three hours each morning, before beginning anything else; a business person may go ahead and make that tough phone call; a job applicant writes one more letter; a runner decides, against the odds, to enter the race; a county commissioner submits a petition to run for Congress; a teenager asks for a date; an actor attends one more audition. Every time a decision comes up, the qualitatively \"correct\" choice will be made. The action, in itself, is nothing special; the care and consistency with which it is made is.\n\nAn open link: https://academics.hamilton.edu/documents/themundanityofexcellence.pdf",
+          "author": "IHTFPhD",
+          "created": 1605313410,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "gc5b9r7": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5b9r7/",
+      "text": "not a paper, but a talk.   \n[https://www.youtube.com/watch?v=AysOj1ewaYI](https://www.youtube.com/watch?v=AysOj1ewaYI)",
+      "author": "AndASpearBehindIt",
+      "created": 1605270609,
+      "upvotes": 8,
+      "replies": {
+        "gc5ys5e": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5ys5e/",
+          "text": "do you have any other recommendations for material at the intersection of evolutionary biology and immunology / pathology? Pivoting from the former to the latter so I'd be very interested!",
+          "author": "--MCMC--",
+          "created": 1605285543,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "gc79fbq": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc79fbq/",
+      "text": "In evolutionary biology -- I've always enjoyed Felsenstein's less-popular 1985 work: [Phylogenies and the Comparative Method](https://www.jstor.org/stable/2461605?seq=1) (it's only been cited around ~9k times, compared to his more popular work from that year, which sits at 42k+). As Douglas Adams would say, \n\u201cIt is a rare mind indeed that can render the hitherto non-existent blindingly obvious\". Such a simple concept that people in other and adjacent fields routinely rediscover it lol",
+      "author": "--MCMC--",
+      "created": 1605308943,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gc61cko": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc61cko/",
+      "text": "Don't forget to give social sciences some love: [On Being Sane in Insane Places, D.L. Rosenhan](https://www.canonsociaalwerk.eu/1971_stigma/1973%20Rosenhan%20Being%20sane%20in%20insane%20places%20OCR.pdf)",
+      "author": "winterneuro",
+      "created": 1605286788,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gc5zsoz": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5zsoz/",
+      "text": "[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)",
+      "author": "mooseelephant",
+      "created": 1605286034,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gc6icyr": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6icyr/",
+      "text": "[https://pubs.acs.org/doi/10.1021/jo00408a041](https://pubs.acs.org/doi/10.1021/jo00408a041)",
+      "author": "scavaig",
+      "created": 1605295095,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gc734bu": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc734bu/",
+      "text": "Thank you all so much! This has been very helpful.",
+      "author": "Better_Purpose241",
+      "created": 1605305519,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gc7wvnm": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7wvnm/",
+      "text": "[The quiet revolution of numerical weather prediction](https://www.nature.com/articles/nature14956)\n\nNot only a beautifully written article, but a topic that has somehow managed to fly under the radar (pun intended) of all of the other sexy science about the atmosphere and climate change.\n\nThe last line of the abstract: *\"As a computational problem, global weather prediction is comparable to the simulation of the human brain and of the evolution of the early Universe, and it is performed every day at major operational centres across the world.\"*",
+      "author": "eggplantsforall",
+      "created": 1605322957,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gc7xggh": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7xggh/",
+      "text": "Just read this one fairly recently, but became an instant favorite. RNAi \u201cverified\u201d cancer drug targets are often not the actual target of the drug at all and some of these drugs simply kill all cells nonspecifically. Really shows how we need to be better about validating potential drugs before pushing them into clinical trials.  https://stm.sciencemag.org/content/11/509/eaaw8412?intcmp=trendmd-stm",
+      "author": "sciencekitty",
+      "created": 1605323331,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gc6vetp": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc6vetp/",
+      "text": "[Asset pricing with garbage](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1540-6261.2010.01629.x?casa_token=DLBXVW4aYosAAAAA%3AlaXaiTxxkg-GV4tlJYeHZFYR0jA5EpownohGKzc9LnoSJh45-tmKmbbbjBkPcEZuYRCs7DGwYt_ohQI)",
+      "author": "biggiehatesme",
+      "created": 1605301583,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gc74gmd": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc74gmd/",
+      "text": "Jumping spiders (Araneae: Salticidae) that feed on nectar, by R.R. Jackson :)",
+      "author": "Winter_Tangerine_926",
+      "created": 1605306232,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gc77sse": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc77sse/",
+      "text": "This one:\n\n[Kenneth Boulding -- GST The Skeleton of Science](https://d1wqtxts1xzle7.cloudfront.net/60244315/2_General_Systems_Theory20190809-16378-1oq07nr.pdf?1565350291=&response-content-disposition=inline%3B+filename%3DGeneral_Systems_Theory.pdf&Expires=1605311581&Signature=H9mbEFc~ycYgvQGuhlOt-QpkH981lhMIy2030sG8dCF3GkU371TWDtDyWfGL6fcWGVKYGPpyN20nqgo8wI6u1OUxaWI2owYpOgPQq0eMS7lbEjaNHaY1oignYzNaAI5VopnbKkjvKlkBfbtNNEifYr0q0zpneoFpJt5jVvNfljGqABO1AEZpGU1qTsLoffkpDZ83A1DAisUzhLhngzQqqi2O250J7kTBOU-LFjyiznG6BrjjZZdxy-JlHyzOjmK132I9IY8ryP4m91rzBL5qp1aKHW4o5S2yVCxPFEXVpcwg0KXudd2oZ3U~SQLhpIpisfbRnEbEL0E11t40cQ91ew__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)",
+      "author": "TarnishedBanana",
+      "created": 1605308057,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gc7ghvo": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7ghvo/",
+      "text": "I like  *[Estimating the number of unseen species: How many words did Shakespeare know?](https://watermark.silverchair.com/63-3-435.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAr4wggK6BgkqhkiG9w0BBwagggKrMIICpwIBADCCAqAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMQvqpG6WNemqKDZBpAgEQgIICcQKT3WAK7Y2rzTc39AggILkRIHEss1AzNvDYpk6e769M5kADe3bBV9-cg2aFML5jzYy67jIsJ-LFQoSFFIXQOUAcUTDEqy3vi_0ecDQvik2Ehi9TB_rFPacKUclStwls9lSlAc4sMQ8K_VOsJg9SmEtFjiAn-CEsZoJ-9ga_H-ZrX_67wPLICqjWqxx2wBcchIQFibUrO-lrS45qRHbxgF_kg2dyo8Yw8Aa013OCiCo4YsNOKKA6UbMbcjd2dTchUXo9W0veUT8kj4roCdUEPqOGuKoGdOumdQfPNRmZ-4A-7cMDWQKHM9as7hPelhCGc1AvPnxwrxWGmO32-zv2N_AU4j5mmOIpQX_8YE861_3aCrBjb6R48gR51xZjia2ugrVKfrejbURB1jDxsmsylwdozYdD3BVfm_NoeT4ChRUkKrb438BlIMxxrkvcIor5j2C7MQqrlZ60aEFnZ2j_Q0ZIgOzSX_z7qKbGFms6tffeZvIafpdJngeWfmwc0GaoDIgEOnTpXg6wJRfvF73aPp2K_1Lm1ScUJWQlaXFePHDO_SPjwiY75qKLinAGFHjPEUg-TsIUuS5R3wzzT8bzugW5vG7GirY_U6MecLNopeSFElKsUJU9cZPxPWpgDy9uCO9RpIdbvP-UHPGbThTZf0NnfdAO4rNvdRI5KDhBsCS8X0WInNR8j8OrjBr9Vp5b_DhkVMRl1AcM8Cu2rU777zN4hEItxMxgUhXxPg5UQpLKgZkE03uObtPLnzQkqxuCM4rNXRKSG16yPRNdCQenVcgrCvRLDUGkjKaTfqwTZzqkaqop2QvtRVFT5y4NvkJUEQ8)* by Efron and Thisted. Very cool very fun.",
+      "author": "loluminium",
+      "created": 1605312961,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gc7jjpx": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7jjpx/",
+      "text": "The Black Queen Hypothesis: Evolution of Dependencies through Adaptive Gene Loss\n2012, J. Jeffrey Morris, Richard E. Lenski, Erik R. Zinser\nDOI: https://doi.org/10.1128/mBio.00036-12\n\n\nDiversity is the question, not the answer\n2017, Ashley Shade\nDOI: https://doi.org/10.1038/ismej.2016.118",
+      "author": "Waka_Waka_Eh_Eh",
+      "created": 1605314756,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gc7usv5": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7usv5/",
+      "text": "[https://academic.oup.com/icesjms/article/74/7/1965/3058980](https://academic.oup.com/icesjms/article/74/7/1965/3058980)",
+      "author": "PuzzledIntroduction",
+      "created": 1605321636,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gc7wk5j": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7wk5j/",
+      "text": "Macosko et al 2015 - the paper introducing droplet-based single cell RNA sequencing, and Klein et al 2015 in the same journal and issue introducing a sister scRNA seq technology",
+      "author": "FemaleScientist17",
+      "created": 1605322751,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gc936xt": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc936xt/",
+      "text": "A have a lot, but off the top of my head, two of my favorites;\n\n1) [Mutagenic Chain Reaction](https://science.sciencemag.org/content/348/6233/442)\n\nA simple and clever experiment, which (as far as I know) was the first real demonstration of \"gene-drives\" using CRISPR-Cas9. These are a novel technology and their potential inherently lead to all kinds of interesting questions about sciecne, morality, and society. \n\n2) [Systematic protein location mapping reveals five principal chromatin types in Drosophila cells](https://www.cell.com/fulltext/S0092-8674(10)\n\nThis paper discusses different types of chromatin, which is bound to DNA and dictates whether the DNA is accessible to transcription machinery of the cell (can gene be turned on and expressed or not). The science is very good, but the part that always stood out to be about this paper is how well written it is. They took a dauntingly complex topic and made it so easy to understand by matching an intuitive color coding scheme the 'five' chromatin regions based on gene expression (black: low or off, blue/green: mild, red/yellow: high). That has always stuck with me. It's been years since I've read that paper and I still recall the color scheme, which is a testament to their ability to communicate their results brilliantly.",
+      "author": "GACGCCGTGATCGAC",
+      "created": 1605361889,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gcaogy2": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gcaogy2/",
+      "text": "I'm all for [putting dead salmon in an fMRI and having them assess pictures](http://prefrontal.org/files/posters/Bennett-Salmon-2009.pdf). Such a hilarious, informative read.",
+      "author": "inmapjs",
+      "created": 1605392125,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gcbwbyl": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gcbwbyl/",
+      "text": "[Reflections on Trusting Trust.](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)  Less an article, more an essay, but one of the most memorable things I've read.",
+      "author": "shellexyz",
+      "created": 1605410102,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gc51nwn": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc51nwn/",
+      "text": " Philosophi\u00e6 Naturalis Principia Mathematica by Isaac Newton.",
+      "author": null,
+      "created": 1605260637,
+      "upvotes": -7,
+      "replies": {
+        "gc5t7x1": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc5t7x1/",
+          "text": "Why that one in particular?",
+          "author": "link0007",
+          "created": 1605282793,
+          "upvotes": 11,
+          "replies": {}
+        }
+      }
+    },
+    "gc7d3ej": {
+      "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc7d3ej/",
+      "text": "read mine :)",
+      "author": "CauNamHayBon",
+      "created": 1605310981,
+      "upvotes": 0,
+      "replies": {
+        "gc8pvhr": {
+          "link": "/r/AskAcademia/comments/jtdpu0/what_are_your_favorite_scientific_articles_of_all/gc8pvhr/",
+          "text": "I will! Do you have a link or title I can look for?",
+          "author": "Better_Purpose241",
+          "created": 1605348596,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

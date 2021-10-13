@@ -1,0 +1,336 @@
+{
+  "sid": "amha30",
+  "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/",
+  "title:": "Is there a limit / consensus with how many papers deep a citation can be?",
+  "text": "\n\nIf I read a paper P1 and there's a statement which cites paper P2, I find paper P2 to have a look. Then P2 is actually citing P3, which in turn is citing P4. \n\nWhy hasn't P1 just cited P4 directly in this case? And is there any convention against this type of thing? \n\nFor example, I wanted to use this statistic, could I just cite P1 in future? Or do I have a responsibility to find (in this case) P4? \n\nThanks",
+  "author": "alguka",
+  "created": 1549134897,
+  "updated": 1634082216,
+  "over_18": false,
+  "upvotes": 93,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "eflxv81": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/eflxv81/",
+      "text": "It's most correct to go back to the original source to make sure it's actually saying what the people citing it say that it is. Sometimes these citations get twisted over the years and it's not ever correct information anymore. However, p1 probably isn't just taking the exact information from p4 anymore. If you're doing more than just citing a simple statistical fact, it's alright to cite the p1 that you're reading because they analyzed (not just regurgitated) papers 2-4 to get to the point that they were writing about. If it is just a statistic, you should try to find a more recent primary source to make sure it's still relevant. ",
+      "author": "purdueGRADlife",
+      "created": 1549135597,
+      "upvotes": 97,
+      "replies": {
+        "efmtmwj": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmtmwj/",
+          "text": "I hate this answer, because it means I have to dig. I\u2019m glad someone asked because Ive written two papers in the last few weeks wondering this same thing.",
+          "author": "SenorKatt",
+          "created": 1549162289,
+          "upvotes": 12,
+          "replies": {}
+        }
+      }
+    },
+    "eflxsux": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/eflxsux/",
+      "text": "It's ideal to find and cite P4 (or P5, P6, whatever is the \"primary\" source), but in practice this is often not done out of a combination of laziness and prioritization. Regarding the latter: often, it's fine in practice to cite the paper that cites the paper that cites the paper... because this is *in theory* sufficient to show that whatever information has been cited is accepted by the community (i.e. peer-reviewed). The busy folks writing these papers often have a good deal more important things to be doing with their time than digging for deep citations as it is.\n\nThat said, it's *best* to cite the original source, so if you have the time to do so it is probably the right decision.",
+      "author": "nuclearslurpee",
+      "created": 1549135547,
+      "upvotes": 55,
+      "replies": {
+        "efmdoja": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmdoja/",
+          "text": "This was a pretty okay thing to do in the pre-internet/interlibrary loan era, but there's rarely an excuse for it now.",
+          "author": "WilyDoppelganger",
+          "created": 1549148572,
+          "upvotes": 16,
+          "replies": {
+            "efmic0l": {
+              "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmic0l/",
+              "text": "Depends on your field and sub-field. You might be surprised how many key or fundamental papers turn out to be available only in the (original) foreign language from a half-maintained, chronically-underfunded database project of one kind or another. I can certainly understand why many authors would consider it excessive trouble to dig out those citations!",
+              "author": "nuclearslurpee",
+              "created": 1549152550,
+              "upvotes": 18,
+              "replies": {
+                "eg1blq6": {
+                  "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/eg1blq6/",
+                  "text": "The most important paper I can think of that simply can\u2019t be found online is Doyle & Doyle\u2019s first paper where they present the CTAB/CIAA DNA extraction protocol, which is one of the best and most commonly-used protocols in molecular biology. They didn\u2019t consider publishing it because it was such a simple modification of Saghai-Maroof, but because they were sending it to so many colleagues they were asked to publish it in Phytochemical Bulletin. But back in 1987 that was \u201ca set of typewritten pages stapled together\u201d, not accessioned in any libraries and \u201cimpossible to find\u201d. So everyone who cites Doyle & Doyle 1987 for CTAB (a lot of them do) has very likely never actually seen this paper, and should instead cite the other three republications of it. ",
+                  "author": "RememberToBackupData",
+                  "created": 1549652034,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "efnc1m9": {
+              "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efnc1m9/",
+              "text": "There are a couple of books I'm citing that are out of print and don't appear to be in any libraries on this continent. ",
+              "author": "doornroosje",
+              "created": 1549183205,
+              "upvotes": 2,
+              "replies": {
+                "efnwztx": {
+                  "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efnwztx/",
+                  "text": "Check amazon or abebooks - sometimes the oddest stuff ends up on them for $5-15.",
+                  "author": "Yockerbow",
+                  "created": 1549211132,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "efmeda6": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmeda6/",
+          "text": "If P1-P4 have some additional spin on the stat, perhaps even something the evolves through each successive paper, would it be appropriate to cite all 4 papers? That seems consistent with your point about showing it\u2019s accepted by the community. ",
+          "author": "GelatoInRome",
+          "created": 1549149155,
+          "upvotes": 5,
+          "replies": {
+            "efmi3w9": {
+              "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmi3w9/",
+              "text": "It may be appropriate if all for papers offer information that is relevant to your own writing. Otherwise, usually a single citation is sufficient since you don't want to dilute/bloat your bibliography too much.",
+              "author": "nuclearslurpee",
+              "created": 1549152354,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "efn5m28": {
+              "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efn5m28/",
+              "text": "You would wind up doing this in a properly written lit review section, which would trace that evolution. If the uptake of the original isn't relevant for context related to your own research question, then just cite the primary and don't worry about how it's been spun in other contexts. Caveat that the extent/scope of what's \"relevant\" is field-dependent.",
+              "author": "NotYourFathersEdits",
+              "created": 1549174127,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "efm6trl": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efm6trl/",
+      "text": "I hate these ghost citations.  You should cite the paper that actually has the info backing your statement or method.\n\nYou should cite (and read) P4.  Bet you 50$ that the original paper doesn't precisely support or document what it says, with substantive differences, and/or that there is much in there the defines the conclusion in a very different way.\n\nYou should not assume that either P1 or P2 every read what they cited, this unfortunately lazy practice happens all the time, to my everlasting chagrin and sorrow, and to the detriment of us all.",
+      "author": "PersephoneIsNotHome",
+      "created": 1549142881,
+      "upvotes": 21,
+      "replies": {
+        "efn6mzq": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efn6mzq/",
+          "text": "It may be, however, that P1 is using P4 for something much closer to OP's purpose. We cite not only to attribute ideas, but also to demonstrate our knowledge of who is in the network of folks interested in what we are \u2014 and, further, to create those networks.\n\nI assume this because that's probably why OP found P1 in the first place and not P4. Citing P4 does nothing for OP in terms of citing the current a nd relevant literature in their field. The best route here may be to make a move like  \"P4 takes the original results for this context, originally demonstrated by P1, and uses them for this other purpose.\" This is probably the most efficient way to do it. But depending on the situation, it may even be useful to trace the whole lineage, if P2 and P3 are in scope.",
+          "author": "NotYourFathersEdits",
+          "created": 1549175376,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "efm30x4": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efm30x4/",
+      "text": "> And is there any convention against this type of thing? \n\nYes.  We're all supposed to check and verify that P2 says what P1 says they do, which is what you've done.  Otherwise, you're citing a secondary source (which is always a last resort, and which should be identified as such).\n\nPeople don't always do this, unfortunately, which is why you end up with the kind of rabbit hole you're dealing with.",
+      "author": "aabbccbb",
+      "created": 1549139747,
+      "upvotes": 17,
+      "replies": {}
+    },
+    "efmenff": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmenff/",
+      "text": "In general, you want to cite the original paper, if *the statement you are trying to cite has come from that paper.* For example, your \"P4\" original paper may be some super foundational publication in your field, which many people commonly cite. In this case, you want to go back to the original source.\n\nHowever, let's say that the \"P2\" and \"P3\" papers are refuting or refining the work of \"P4.\" Then you need to be more nuanced, and either cite the work that is supporting your own train of thought, or spell it out for the reader.\n\nIf you have room on the page, it's never a bad thing to refresh the reader's memory on the whole chain of sources you used, and how they relate to each other.\n\nWhen in doubt, put yourself in the reader's shoes. How many times have you read a paper, and then gone down a rabbit hole to find where a bit of information actually originated from? By not doing that to your readers, you create a more useful document.",
+      "author": null,
+      "created": 1549149396,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "efm00t4": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efm00t4/",
+      "text": "In some fields, finding and marshalling historical evidence is a significant aspect (or even the lion's share) of the work. If you read P1 and cite P4, it might look as if you were the eagle-eyed scholar who first found it, instead of someone building upon the work of another. ",
+      "author": "Lonelobo",
+      "created": 1549137331,
+      "upvotes": 14,
+      "replies": {
+        "efm1b8u": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efm1b8u/",
+          "text": "If I'm understanding you correctly, are you suggesting that by reading P1 and citing P4 I might be giving the false impression that I've read P1,2,3 and P4 ( as this was the chain of citations )? \n\nAnd that to do so would be misleading, instead I should perhaps assume that the work of others is sound and cite P1 directly \n\nThanks",
+          "author": "alguka",
+          "created": 1549138374,
+          "upvotes": 2,
+          "replies": {
+            "efm5uqu": {
+              "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efm5uqu/",
+              "text": "No, I think they mean that P1, 2, 3 will all have expanded on what P4 said/did. So if you cite P4 but are actually (maybe unbeknownst to you) relying on P1\u2019s version or interpretation of P4, you\u2019re not properly citing your sources. ",
+              "author": "veraamber",
+              "created": 1549142081,
+              "upvotes": 13,
+              "replies": {}
+            },
+            "efmllnq": {
+              "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmllnq/",
+              "text": "Say you're a political theorist interested in the history of renowned authors using animal metaphors to describe human politics (man is a wolf to man, the fable of the bees, snakes and serpents, etc.). Or say you're a literary theorist interested in an author's borrowing of Shakespearean metaphors. Say that there exist thoughtful but not well-known papers P1 and P2 which have combed through large bodies of the primary sources to arrive at partial catalogues of animal metaphors or adaptations of Shakespearean metaphors. \n\nNow suppose that you merely cite the primary sources to make your argument about X's adaptation of Shakespeare or historical tendencies in social-insect-state analogies, and omit any mention of P1 and P2. The result is that it looks like you have a stellar argument and extensive knowledge of the primary sources. This means that P1 and P2 are even more likely to fall into oblivion than before, because all of their work is contained in your paper, plus some. This would be unethical and dishonest.   ",
+              "author": "Lonelobo",
+              "created": 1549155342,
+              "upvotes": 4,
+              "replies": {
+                "efmn38d": {
+                  "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmn38d/",
+                  "text": "yeah that's  a good point, perhaps one should keep track of the \"trail\" to the original sauce? ",
+                  "author": "alguka",
+                  "created": 1549156615,
+                  "upvotes": 1,
+                  "replies": {
+                    "efnivsw": {
+                      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efnivsw/",
+                      "text": "Tomato, every time ",
+                      "author": null,
+                      "created": 1549195300,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "efmaw7j": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmaw7j/",
+      "text": "If the citation is for the outcome of a particular experiment or analysis, then go back to the original paper. If the citation is for a statement of opinion or fact, then cite the paper that you think would be most useful for the reader. This may be an early paper, or it may be a later review. The reason why I wouldn't worry too much about finding the first paper in the chain is that often there isn't one - perhaps one paper presented some roots of the idea, and then another paper strengthened the argument substantially. Most influential ideas aren't the product of one person's thinking - they represent the considered view of a branch of the scholarly community.\n\nTake the statement \"smoking causes lung cancer\". Most epidemiologists would point to Richard Doll's 1950 paper in the BMJ as being the first to prove that smoking caused lung cancer. But similar analyses were conducted by Schairer and Sch\u00f6niger in 1943 in Nazi Germany (and then forgotten). At the same time, there were experiments in animals, in cellular pathology and in chemical analytics - all of which provided supporting evidence. And links between smoking and cancer had been noted going back to the 1700s. So while Doll's paper was massively influential, there's no way one could claim it had priority. If you wanted to provide a citation for the statement \"smoking causes lung cancer\", you could cite Doll BMJ 1950, but you could also cite a more recent review of the topic that has systematized and synthesized evidence on the topic - go with whichever you think would be most useful for a reader of your manuscript to look up.",
+      "author": "sb452",
+      "created": 1549146252,
+      "upvotes": 5,
+      "replies": {
+        "efmcuv8": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmcuv8/",
+          "text": "Agree. Sometimes it\u2019s better to cite the more recent articles (if high quality) to make it clear that your understanding of the issues is current and not decades old. Otherwise you\u2019ll get comments about recent articles being overlooked.",
+          "author": "keicmkberly",
+          "created": 1549147887,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "efm6oqb": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efm6oqb/",
+      "text": "In my field (cell neuro), you either cite the original paper, or the most recent good review. In first 5 years after something happened, there are no good reviews, so you always cite the original paper, but at some point they start to fade. \n\nThen some social science happens and some papers achieve cult status, and are ritually cited in the introduction, while some others fade into the hase of \"generally accepted facts\" that are cited via reviews.\n\nFor stats it's even worse. Some stats methods had become mainstream so fast that now they have like 10000 citations on Google Scholar, at which point, is it really necessary? Look at the \"false discovery rate\" by Benjamini; it was published in 2001, and has 2500 citations. At this point it's probably time to stop citing it. The original pagerank algorithm (Page 1999) has 12587 citations. Really?\n\nAnd then sometimes citing the first paper is weird. For example, I studied a certain thing, and wanted to reference a statement that it exists in certain species. A paper about it cited a paper from the 70s. That paper cited a paper from 1930s. I found it, and it cited a paper from 1880s, written in German, which I cannot find anywhere. Do I cite it? Or is it weird? Like, rules don't always apply, you know =) It's all kind of based on common sense, really.",
+      "author": "ampanmdagaba",
+      "created": 1549142765,
+      "upvotes": 3,
+      "replies": {
+        "efmj7py": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmj7py/",
+          "text": "ha, you should find the paper! \n\nyeah it's tricky - this post was mainly generated by my lack of common sense on this topic I guess.\n\nI've seen a few with huge citations yeah... I wonder if there could be a thing that states something is \"common sense\" if cited over 10,000 times or something. ",
+          "author": "alguka",
+          "created": 1549153305,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "efnmoif": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efnmoif/",
+          "text": "What I always think at that point is: isn't it kind of common knowledge after more than 100 years? Hah I know that feeling. I was once citing a chemical reaction and a molecular pathway. It feels so weird to cite stuff from 50s or something like that. What did you end up doing? I'd either cite secondary source or nothing at all but it always makes me feel uncomfortable. ",
+          "author": "Lady_of_Ironrath",
+          "created": 1549200954,
+          "upvotes": 2,
+          "replies": {
+            "efno6m3": {
+              "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efno6m3/",
+              "text": ">  What did you end up doing? \n\nI cited a good review from early 2000s. Going full 1850 out of nowhere felt a bit... weird. But in a more targeted paper it would actually be fun to cite something form 1850, somewhere within first two paragraphs of introduction; I still hope to do it one day =]",
+              "author": "ampanmdagaba",
+              "created": 1549202787,
+              "upvotes": 2,
+              "replies": {
+                "efo72cf": {
+                  "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efo72cf/",
+                  "text": "Yeah, it would definitely make me laugh if I read it haha",
+                  "author": "Lady_of_Ironrath",
+                  "created": 1549218804,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "efly3p6": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efly3p6/",
+      "text": "As with all things, it depends.\n\nIf page limit isn\u2019t an issue, going as deep as you can will benefit your paper\n\nIn the letter format (3-4 pages for everything) you won\u2019t have that luxury ",
+      "author": "k0np",
+      "created": 1549135786,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "efmg5zd": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmg5zd/",
+      "text": "One of my professors wrote a paper that's been cited many times, and people often cite those papers as well as my prof's paper.  The funny thing is that they'll cite my professor's paper in support of this method when it was in fact very critical of the method - it's clear that while they cited his paper, they either didn't both reading it or didn't comprehend it.",
+      "author": "grandzooby",
+      "created": 1549150680,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "efmvj5i": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmvj5i/",
+      "text": "I'll echo /u/Purduegradlife.\n\nI recently (in proofing right now) wrote a review which addressed in part a seminal experiment in my field - the synthesis of a new chemical element. This element had a complicated history, and a particular history has become \"common knowledge.\" In the process of writing, I came across a reason to doubt this story, and investigated further. Sure enough, the earliest report of the element was of an alternative method. I then checked the declassified \"diary\" of one of the lead scientists, and it confirmed the method. Papers on the subject had cited the same paper again and again, but neglected to follow the paper trail to the original report. It was a game of telephone, over seventy years. ",
+      "author": "atchemey",
+      "created": 1549163977,
+      "upvotes": 2,
+      "replies": {
+        "efmvmlq": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmvmlq/",
+          "text": "I think this historical element is quite interesting, it doesn't seem to be properly valued though because it's always a side show to what's being done at the time rather than deliberate research",
+          "author": "alguka",
+          "created": 1549164064,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "efmw8de": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmw8de/",
+      "text": "I have been a person that digs back to primary. I have found errors in data that was widely accepted as truth but was a typo from primary to secondary. It's a big problem.",
+      "author": "sjgw137",
+      "created": 1549164608,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "efnrazq": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efnrazq/",
+      "text": "Interesting discussion. I tend to think it's \"unfair\" to cite just the original paper, since you learned that information from P1, but you are going to give the credit to P4, even though you may not even have read it. But I understand the importance of referencing the original, so citing both may seem a nice compromise",
+      "author": "RafaelFL555",
+      "created": 1549206154,
+      "upvotes": 2,
+      "replies": {
+        "efnrhar": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efnrhar/",
+          "text": "yeah there were definitely a few points I hadn't considered in here. ",
+          "author": "alguka",
+          "created": 1549206326,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "efmd3sf": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efmd3sf/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1549148094,
+      "upvotes": 1,
+      "replies": {
+        "efn68k8": {
+          "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efn68k8/",
+          "text": "In case it's relevant for anyone, it's a touch less collapsed in the humanities and social sciences. In MLA 8^th ed, to point to something that's quoted by someone else, you would use (1, qtd. in 2). MLA has no provision for tracing primary sources through secondary sources without quotes. This is, presumably, because unless you are citing a historical document, which you would be doing in a case where the (quotable) language is important, there are very few situations in the humanities where you would not be able to disambiguate in the text itself, with something like, \"1 takes up the idea of 2 and uses it to...\" The humanities are, on the whole, not concerned with replicability.\n\nAPA handles this as (1, as cited in 2) because the fields that use it, very much like the sciences, require a citation mechanism that efficiently represents authors' attempts to  replicate previous results.",
+          "author": "NotYourFathersEdits",
+          "created": 1549174880,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "efnm23m": {
+      "link": "/r/AskAcademia/comments/amha30/is_there_a_limit_consensus_with_how_many_papers/efnm23m/",
+      "text": "This happens very often but it definitely shouldn't be that way. You are always supposed to cite primary source. I guess people are just lazy. The citation rules are so strict at my uni that I honestly don't understand how can this happen in a published article. ",
+      "author": "Lady_of_Ironrath",
+      "created": 1549200146,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "sid": "oof19f",
+  "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/",
+  "title:": "What is your workflow for writing reports and articles?",
+  "text": "I wanted to get an idea of other individuals workflow and applications used to prepare articles and documents. I'm about to finish my thesis using endnote and Word. Endnote I'm not a fan of especially after the switch to endnote 20. Word is ok but does have issues with formatting when sending between multiple peoe for collaboration\n\nI'm going to continue doing research work with my supervisors which consists of exercise science based projects, often writing reports that can will be at least 60 pages but most often more with collaboration between multiple parties. My supervisor recently complained about the time consuming nature of formatting tables in Word that were in good shape before being sent to him so I wanted to see what others do to try and find a more efficient workflow. Is there more efficient workflows available than the word/endnote combo for this type of work or is this a case of the grass is greener?",
+  "author": "TibialCuriosity",
+  "created": 1626827857,
+  "updated": 1634082481,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.76,
+  "comments": {
+    "h5y7gin": {
+      "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h5y7gin/",
+      "text": "I use Word and Zotero for reference management. I usually don't have any issues with formatting, tables, etc. but I also usually try to follow a K.I.S.S rule and not do anything fancy. Bold/Italic/Underline for emphasis and section headers, otherwise double-space and let the journal staff do the formatting. I used to have some issue with equations not transferring between Windows and Mac with collaborators but that was fixed like five years ago as far as I can tell.\n\nIf multiple people are editing tables, I usually will not do any formatting until the table is finished and being prepared for submission. It's too easy for someone to add a hidden row or merge cells which will mess up when someone else tries to do a similar thing.",
+      "author": "nuclearslurpee",
+      "created": 1626832147,
+      "upvotes": 4,
+      "replies": {
+        "h62vn20": {
+          "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h62vn20/",
+          "text": "That may be part of the issue as well...editing documents with figures and tables embedded in and having cross references there. Always seems to come out a bit clunky.\n\nHow do you find using Zotero? Any issues or things you wish it was a better at? I've played around with it briefly and seems less archaic then endnote",
+          "author": "TibialCuriosity",
+          "created": 1626919785,
+          "upvotes": 1,
+          "replies": {
+            "h631maf": {
+              "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h631maf/",
+              "text": "> How do you find using Zotero? Any issues or things you wish it was a better at? I've played around with it briefly and seems less archaic then endnote\n\nMy only issue with it is that it can start to work a bit slowly after the first hundred citations or so, although there's an option to disable auto-updating of citations and bibliography which can solve that so it's not really an issue. Otherwise, it's pretty lightweight, sync pretty easily across devices, and has good plugins for both word processing programs and browsers so it does everything I need it to. You do have to add a hotkey for the citation macro in Word, but that's on Word's end and once done it works just fine.\n\nI will say that I am definitely not a power user of reference management software. I want it to keep a list of papers and cite them for me, that's it. I don't use Zotero or anything similar for actually organizing my papers, which I think many other people do and I can't speak to that use-case.",
+              "author": "nuclearslurpee",
+              "created": 1626922822,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5ysvt0": {
+      "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h5ysvt0/",
+      "text": "I use latex and bibtex, mostly because it's plain text and can be used anywhere. I've seen more than one thesis written in word corrupted for using the \"wrong\" version of office. Once you get over the 1001 font types / styles in latex and use a simple template that you can even download if you don't want to make it yourself (you're not typesetting the text!), it's just writing. Many plotting programs (R, python, MATLAB, etc) allow to export arrays of data / tables as a latex document, so all you have to do is to point to the .tex with the table. The initial fear most people have is well worth it, I've seen people editing in word/excel tables that were ridiculously big because they don't know better when it takes a few seconds to do in latex (once, software-version-independent, platform-independent).\n\nThere are editors like lynx or even kile ([texmaker](https://www.xm1math.net/texmaker/) is multi platform) where they use by default shortcuts similar to word processors (ctrl+b for bold, ctrl+i for italics, etc), so there's no need to use commands by hand. You'll end up knowing them because you see them, but you don't have to.\n\nOnline tools like overleaf allow multiple people to edit the text in real-time and can be quite convinient. Given that latex files are plain text... you can also use a git repository if you're so inclined so you can also keep a history of changes and roll-back whatever.",
+      "author": "g33ksc13nt1st",
+      "created": 1626843262,
+      "upvotes": 3,
+      "replies": {
+        "h62vqqp": {
+          "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h62vqqp/",
+          "text": "The editors and overleaf may be a good bridge to learning about it not only for me but my supervisors if they wanna go down this path. Thanks for your help!",
+          "author": "TibialCuriosity",
+          "created": 1626919834,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h5ycnrs": {
+      "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h5ycnrs/",
+      "text": "You can use relatable in R to format the tables where you only have to change the excel file information but it will format the rest",
+      "author": "mabelbae",
+      "created": 1626834652,
+      "upvotes": 2,
+      "replies": {
+        "h5ynta4": {
+          "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h5ynta4/",
+          "text": "I haven't heard of that! I have used R before and will give that a look",
+          "author": "TibialCuriosity",
+          "created": 1626840234,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "h5zqhpr": {
+          "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h5zqhpr/",
+          "text": "Hey I'm trying to find information on this package, but I can't see anything. Is it the reactable package? If so do you have any information on how to use it with excel?",
+          "author": "TibialCuriosity",
+          "created": 1626867969,
+          "upvotes": 1,
+          "replies": {
+            "h60izqe": {
+              "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h60izqe/",
+              "text": "[https://ardata-fr.github.io/flextable-book/](https://ardata-fr.github.io/flextable-book/)\n\n&#x200B;\n\nHere is a good guide for it. You can make tables automatically from outputs of different functions like a linear model. OR you can also import excel cells and program other aspects of the table to be automatic\u2014for example, I like a table with thick upper and lower lines but no side ones. Title in font Time New Roman size 12. Top cell values centered and bolded. etc. It takes the job out of formatting each table over and over.",
+              "author": "mabelbae",
+              "created": 1626882059,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h601hle": {
+      "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h601hle/",
+      "text": "All figures and tables first (tables usually in illustrator, figures in whatever software is necessary), and they only exist in the manuscript as images.\n\nWord for writing, because track changes works, and is the most accessible and flexible tool for coauthors across multiple specialisms, organisation and countries.\n\nCitations managed in Mendeley (but with fields removed before sending out for co-author revisions)",
+      "author": "OrbitalPete",
+      "created": 1626874255,
+      "upvotes": 1,
+      "replies": {
+        "h62vvvk": {
+          "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h62vvvk/",
+          "text": "This is the biggest benefit I see with Word is that everyone who has used a computer knows their way around it.",
+          "author": "TibialCuriosity",
+          "created": 1626919903,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h60k6dm": {
+      "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h60k6dm/",
+      "text": "Not using LaTeX seems crazy to me, how do you manage the formatting of your paper? If you have to (eg) change from one journal's style to another, or move to two column without having all your figure placements/etc screwed up, doesnt that take a long time? And Word documents always look a bit ugly and unprofessional, its really hard to manually handle things like widows/orphans in sentences, making sure you have a big enough (and uniform) gap between the bottom of your figures and the text underneath, deciding how exactly you want text to visually flow around tables/equation, deciding the exact size of font that looks nicest for table/figure captions and section headings in relation to the main document font size, etc.\n\nJust seems like an enormous and needless hassle. Maybe its less work than it sounds if you are good at Word (but still doesnt explain why most papers written in Word look ugly - unless you have actually studied typesetting then why on earth would you think you are qualified to typeset a document and have it look nice?). If you have pride in your papers then surely you want them to look as good as possible. I know its ultimately the content that matters, but theres still something really satisfying about finishing a paper and having it in front of you looking great.",
+      "author": null,
+      "created": 1626882552,
+      "upvotes": 1,
+      "replies": {
+        "h62vf6i": {
+          "link": "/r/AskAcademia/comments/oof19f/what_is_your_workflow_for_writing_reports_and/h62vf6i/",
+          "text": "Having never used LaTeX, and seen videos, is it that much quicker than word? Is it a matter of writing being roughly equal but LaTeX allowing you to change formatting with a few lines of code?\n\nAlso I highly doubt I'm going to get my supervisor to just drop word and switch on a dime and it may take some examples showing how it can be more efficient...have you ever had to convert files from word to LaTeX? How time consuming is it to use pandoc or maybe copy and and paste text from an article in word over to a LaTeX file that's been formatted for a journal?",
+          "author": "TibialCuriosity",
+          "created": 1626919675,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

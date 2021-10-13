@@ -1,0 +1,83 @@
+{
+  "sid": "p3biqk",
+  "link": "/r/AskAcademia/comments/p3biqk/wordpress_blog/",
+  "title:": "WordPress blog",
+  "text": "Hello.\nI have a Google Sites page but I am not very fond of the platform. I don't know exactly why, but I never really enjoyed using it.\nI was thinking about using WordPress instead, so I'd like to hear about your experience with the platform, especially regarding blogging about research and/or academia, and perhaps some divulgation as well. \nI've usually been particularly blog-shy but I've always enjoyed reading about what other scholars have to say and the discussion that sprouted thanks to these blog posts. I often wished I had a blog to discuss particular topics, but at the same time impostor syndrome prevented me from doing it. This is how I discovered that you can have blog impostor syndrome too, apparently. \ud83d\ude05",
+  "author": "Normal_Kaleidoscope",
+  "created": 1628810871,
+  "updated": 1634079732,
+  "over_18": false,
+  "upvotes": 6,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h8rcb0i": {
+      "link": "/r/AskAcademia/comments/p3biqk/wordpress_blog/h8rcb0i/",
+      "text": "Heya, I've worked with WordPress plenty before. I use WordPress for my personal website and I had some blog posts on it before. Works great. I recommend buying your own domain and hosting so you can have control over your site. Always good for linking on Twitter and other social media too. Either way, give it a shot--won't hurt for sure!",
+      "author": "NuclearSage",
+      "created": 1628840796,
+      "upvotes": 3,
+      "replies": {
+        "h8rimmf": {
+          "link": "/r/AskAcademia/comments/p3biqk/wordpress_blog/h8rimmf/",
+          "text": "Thanks! In fact I was also wondering about domain buying and whether it was worth it",
+          "author": "Normal_Kaleidoscope",
+          "created": 1628846203,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h8rj2b6": {
+      "link": "/r/AskAcademia/comments/p3biqk/wordpress_blog/h8rj2b6/",
+      "text": "WordPress is well suited to blogs and is fairly easy to get up and running with a clean template. I hosted an academic blog on my own VPS for a while but then I moved it to WordPress.com to cut down on maintenance (I kept my own domain though). I wrote about a few academic issues that I'm passionate about, although almost all of the views and engagement was with my more how-to type articles.\n\nWith that being said, I haven't blogged in about 3 years now I'm thinking of ressurecting the blog as a podcast. Trying to keep up with the times!",
+      "author": "Vievite",
+      "created": 1628846577,
+      "upvotes": 3,
+      "replies": {
+        "h8rjmfp": {
+          "link": "/r/AskAcademia/comments/p3biqk/wordpress_blog/h8rjmfp/",
+          "text": "Oh yes, podcasts. That would be nice too. Does WordPress have the option of uploading long sound files in blog posts?",
+          "author": "Normal_Kaleidoscope",
+          "created": 1628847057,
+          "upvotes": 1,
+          "replies": {
+            "h8s4m7x": {
+              "link": "/r/AskAcademia/comments/p3biqk/wordpress_blog/h8s4m7x/",
+              "text": "I'm pretty sure you can upload any file you want, only limited by the hosting constraints. There most likely are podcast-associated plugins available but I've never looked. However, it is probably easiest to upload podcasts to a dedicated podcast host and then link it from your blog so you don't have to worry as much about scalability and bandwidth.",
+              "author": "Vievite",
+              "created": 1628860988,
+              "upvotes": 3,
+              "replies": {
+                "h8sbzvk": {
+                  "link": "/r/AskAcademia/comments/p3biqk/wordpress_blog/h8sbzvk/",
+                  "text": "Thanks for the advice",
+                  "author": "Normal_Kaleidoscope",
+                  "created": 1628864917,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h9eho4y": {
+      "link": "/r/AskAcademia/comments/p3biqk/wordpress_blog/h9eho4y/",
+      "text": "Hi there,  \n\nI use a WordPress based blog for my homepage. Google Sites is probably easier to use but in the long run you would prefer to have a self hosted  WordPress blog.  This also depends on how familiar/willing to learn you are in IT-nuances.",
+      "author": "flelli",
+      "created": 1629289955,
+      "upvotes": 2,
+      "replies": {
+        "h9ifbzo": {
+          "link": "/r/AskAcademia/comments/p3biqk/wordpress_blog/h9ifbzo/",
+          "text": "Thanks! I agree that Sites is easier, but I don't know, I found it unsatisfying. I'm not a computer genius but I can deal with some basic IT stuff",
+          "author": "Normal_Kaleidoscope",
+          "created": 1629363236,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "sid": "oo6ioi",
+  "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/",
+  "title:": "ResearchGate vs. OSF?",
+  "text": "Hi there.  I'm thinking of switching from ResearchGate to Open Science Framework to share info on my projects and outputs.  I'm looking for recommendations on which and why?",
+  "author": "joe--totale",
+  "created": 1626801431,
+  "updated": 1634082483,
+  "over_18": false,
+  "upvotes": 61,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "h5wqvwo": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5wqvwo/",
+      "text": "Disclaimer- I work at COS (who builds OSF). OSF is really meant for documenting and posting a lot of the items that are normally lost (manuscripts, data, protocols, code, survey items) and then connecting them to your project- often with its preprint. The big difference I think is that COS's mission is about increasing reproducibility and transparency of research; whereas research gate is more focused on academic social connections and open access.",
+      "author": "rollem",
+      "created": 1626808121,
+      "upvotes": 31,
+      "replies": {
+        "h5xewc6": {
+          "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5xewc6/",
+          "text": "Are there any good links demonstrating the service?  Never heard of it before, but would like to see it in action.\n\n&#x200B;\n\nThx",
+          "author": "sbw2012",
+          "created": 1626818445,
+          "upvotes": 5,
+          "replies": {
+            "h60mxzh": {
+              "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h60mxzh/",
+              "text": "This blog has a few good first steps: https://www.cos.io/blog/getting-started-osf",
+              "author": "rollem",
+              "created": 1626883722,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5wx2hr": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5wx2hr/",
+      "text": "Why only one? Why not both?\n\nBoth is probably better. I've never heard of OSF, but I will check it out and probably get one.",
+      "author": "PersonalZebra8993",
+      "created": 1626810721,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "h5wmnea": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5wmnea/",
+      "text": "I think it all depends on your goal with the platform. ResearchGate can have more of a community and social media component built in. You are able to see others profiles and everything. OSF on the other hand is more like a super awesome DropBox. I love OSF and what it stands for (I promise that I am not Brian Nosek) and think that could be the way to go. Then you can always link to it with a stable DOI.",
+      "author": "PsychSpren",
+      "created": 1626806322,
+      "upvotes": 33,
+      "replies": {
+        "h5wnj1b": {
+          "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5wnj1b/",
+          "text": "Thanks for the helpful replies u/StorageRecess and u/PsychSpren.  I'm a public health researcher, mostly quant, looking to share predominately PDF content.  I think I'll keep my dismal code on Github and will try OSF for a while - I'm won over by the DOI functionality.",
+          "author": "joe--totale",
+          "created": 1626806696,
+          "upvotes": 5,
+          "replies": {
+            "h5wppsc": {
+              "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5wppsc/",
+              "text": "I think you may be able to link to Github as well. OSF has wonderful capabilities for multiple file types as well. So you might be able to link your repository in your OSF project to make things easier for others to get the whole story. Or also your future self when you look back at a project. \n\nI am in clinical psych with a big interest in quant, so I'm happy to chat more if you have other OSF or workflow questions!",
+              "author": "PsychSpren",
+              "created": 1626807621,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5wtmnj": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5wtmnj/",
+      "text": "I use both - I put my data and analysis code on the OSF, and I upload my papers to ResearchGate. The OSF is great in terms of having a stable (touch wood) link to your data that you can plonk in the paper. But I get a reasonable number of paper requests on ResearchGate, so it makes sense to have them uploaded there. No harm in making your papers as easy to find as possible.",
+      "author": "Flemon45",
+      "created": 1626809287,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "h5x7ltw": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5x7ltw/",
+      "text": "I have, use,and like both. But there is one small diference in how I use them.\n\nOSF - for everything before publishing of the paper \n\nRG - for everything published",
+      "author": "JacobWeisenberger",
+      "created": 1626815196,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h5wk392": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5wk392/",
+      "text": "I\u2019ve personally never used ResearchGate. It\u2019s basically social media and generates a lot of spam. I normally have code and other objects that don\u2019t neatly fit to PDF, so I typically use OSF or Zenodo to disseminate that. I prefer Zenodo since it has long term stable funding via CERN.",
+      "author": "StorageRecess",
+      "created": 1626805242,
+      "upvotes": 9,
+      "replies": {
+        "h5xf2su": {
+          "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5xf2su/",
+          "text": "Is Zenodo similar to Figshare?",
+          "author": "sbw2012",
+          "created": 1626818526,
+          "upvotes": 1,
+          "replies": {
+            "h5xijrs": {
+              "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5xijrs/",
+              "text": "Yes, but it\u2019s a nonprofit backed via public money and sustainability agreements as opposed to a business that could decide to shut it off at any time.",
+              "author": "StorageRecess",
+              "created": 1626820126,
+              "upvotes": 1,
+              "replies": {
+                "h5xjfmp": {
+                  "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5xjfmp/",
+                  "text": "OK.  Thanks.",
+                  "author": "sbw2012",
+                  "created": 1626820537,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h5whv7b": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5whv7b/",
+      "text": "I'm curious why this was downvoted - I checked the rules, so it could be that I provided insufficient info - would appreciate feedback so I know whether to improve or delete my question.",
+      "author": "joe--totale",
+      "created": 1626804307,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h5ybqi3": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5ybqi3/",
+      "text": "I do both, but first on either OSF/SocArXiv/MedRxiv/etc, then once it\u2019s accepted, use the DOI link to import the info to ResearchGate (and upload the actual document, if necessary).",
+      "author": "DrLaneDownUnder",
+      "created": 1626834192,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h5zeyr6": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5zeyr6/",
+      "text": "If you interact with industry/have industry partnerships than ResearchGate is better because of it's accessible UI and good SEO on Google/other search engines.\n\nIn my eyes ResearchGate is specifically social media for research articles/chapters, while OSF is a document, data and code repository. As people mentioned below you can cross-link documents via DOIs or just URLs to a GitHub repository of code, etc.",
+      "author": "MFA_Nay",
+      "created": 1626858557,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h63kru5": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h63kru5/",
+      "text": "ResearchGate is a social media platform for academics. OSF is mainly used for posting pre-registrations (procedures and analysis plans of your experiment before the experiment is conducted), data, and code.",
+      "author": "Matricized",
+      "created": 1626935228,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h5yct49": {
+      "link": "/r/AskAcademia/comments/oo6ioi/researchgate_vs_osf/h5yct49/",
+      "text": "Never heard of OSF, it comes comes in my search result, but researchgate does",
+      "author": "Sri_Man_420",
+      "created": 1626834728,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

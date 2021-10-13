@@ -1,0 +1,1069 @@
+{
+  "sid": "l4do7t",
+  "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/",
+  "title:": "How do academics keep track of stuff that they read?",
+  "text": "TL;DR\n\nI would like to start keeping better track of what I am reading, but I don't know where to start (my go-to methods is notes in the margins).\n\nBasically, I have spent the last 10 years raising kids and am looking forward to beginning some post-grad in the next 12-18months.\n\nWhen I listen to academics speak they always seem to be able to reference past works. However I feel like I forget so much of what I have read. When reading casually I write in the margins, and I really enjoy flicking through books that I have marked. When I read on the kindle I am able to highlight sections that stood out.\n\nHowever, I feel I should be moving towards something more organised, and am hoping for some suggestions. I am currently taking advantage of my partners under-grad degree to access the university library, so a lot of reading via Adobe Digital Editions, but not sure if/how I should take notes.\n\nETA:  Thanks to everyone for the responses. I have spent a solid day reading them all and looking at all the various recommendations (including installing about ten pieces of software).  I now feel much better able to think about the notetaking methods that I like using, and how to turn those into a system that can work for larger scale research/reading. My mind was a little blown by [this note taking video](https://www.youtube.com/watch?v=nPOI4f7yCag), and the whole zettelkasten method, which I had never heard of but it made so much sense to me - particularly as someone embarking on 18months of reading with no idea where I want to focus on when I begin post-grad. Thank you all.",
+  "author": "tea-cup-stained",
+  "created": 1611541211,
+  "updated": 1634080727,
+  "over_18": false,
+  "upvotes": 194,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "gknxnj6": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gknxnj6/",
+      "text": "Zotero (or Endnote...but might as well just go with Zotero) is very helpful for managing referencs, tagging, and keeping pdfs attached. I  have also used Evernote for cross platform note-taking, but its subscription model has become increasingly onerous.",
+      "author": "novht",
+      "created": 1611541481,
+      "upvotes": 144,
+      "replies": {
+        "gko9hev": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko9hev/",
+          "text": "I also use Zotero. But, it's only really as good as your tags for articles are. As long as you know vaguely what direction you are going with your readings it's great. If you just want a reference for something you read a couple years ago and cant recall... well I hope you made a longer note about it. I think that's pretty much all reference managers though.",
+          "author": "InfuriatingComma",
+          "created": 1611547890,
+          "upvotes": 40,
+          "replies": {
+            "gkorcq7": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkorcq7/",
+              "text": "There's still your own memory. My Zotero is getting close to 1000 items, but I only have some very basic categories set up to organize them. Other than that, I'll scroll through the list or use the search function to find 'that one article about X I read years ago'. Quite often it's easier that way, and it helps me freshen up my own memory. Also, I come across items that had slipped my mind, so even in that sense it's good to browse your own collection periodically.",
+              "author": "link0007",
+              "created": 1611561643,
+              "upvotes": 18,
+              "replies": {}
+            }
+          }
+        },
+        "gkoidt7": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkoidt7/",
+          "text": "Zotero is the most free and open choice, no lock-in features like other softwares.  \nBut I wish they would move their development platform to github to attract more devs from the modern open source community.",
+          "author": "thntk",
+          "created": 1611553974,
+          "upvotes": 21,
+          "replies": {
+            "gkoyjnq": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkoyjnq/",
+              "text": ">But I wish they would move their development platform to github to attract more devs from the modern open source community.\n\nZotero is already on [GitHub](https://github.com/zotero/zotero).",
+              "author": "KulbhushanChand",
+              "created": 1611568626,
+              "upvotes": 4,
+              "replies": {
+                "gks1bwj": {
+                  "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gks1bwj/",
+                  "text": "But the issue tracker, feature requests, pull requests, discussions are all on their private site.",
+                  "author": "thntk",
+                  "created": 1611626564,
+                  "upvotes": 1,
+                  "replies": {
+                    "gkt99xc": {
+                      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkt99xc/",
+                      "text": "You're right, they did encourage people to use the forum on their site. It's looks like a good idea to keep the issue tracker clean from general discussions and help requests.\n\nHere is what they say when creating a new issue. \n\n>\\*\\*READ THIS BEFORE CREATING AN ISSUE\\*\\*  \n>  \n>  \n>  \n>Zotero does not use GitHub Issues for bug reports or feature requests.  \n>  \n>  \n>  \n>Please post all such requests to the Zotero Forums at [https://forums.zotero.org](https://forums.zotero.org), where Zotero developers and many others can help. For confirmed bugs or agreed-upon changes, Zotero developers will create new issues in the relevant repositories.  \n>  \n>  \n>  \n>Development questions involving code, APIs, or other technical topics can be posted to the zotero-dev mailing list at [http://groups.google.com/group/zotero-dev](http://groups.google.com/group/zotero-dev).  \n>  \n>  \n>  \n>See [https://www.zotero.org/support/zotero\\_support](https://www.zotero.org/support/zotero_support) for more information on how Zotero support works.",
+                      "author": "KulbhushanChand",
+                      "created": 1611659080,
+                      "upvotes": 1,
+                      "replies": {
+                        "gkv0b34": {
+                          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkv0b34/",
+                          "text": "I understood their points, but I wish they would change to catch up with the modern open source community on github. At present, their use of github adds confusions to users and devs, but does not reap the new benefits of the open source platform pro\bvided by github.",
+                          "author": "thntk",
+                          "created": 1611690938,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gkowarn": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkowarn/",
+          "text": "Another vote for zotero.  It holds literally everything I have ever read and syncs them on all my devices.  Then, for projects I just export a bibtex file and it's immediately compatible with latex.\n\nI also specifically avoided Mendeley because Elsevier is a problematic company that I don't want to support.",
+          "author": "schrodingersnarwhal",
+          "created": 1611566472,
+          "upvotes": 12,
+          "replies": {
+            "gkpo9s6": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpo9s6/",
+              "text": "How do you do that? I lost all my references in my new computer:(\n\nAlso, the free version of zotero only has a small storage for storing pdfs, right?",
+              "author": "sledgemama",
+              "created": 1611587101,
+              "upvotes": 1,
+              "replies": {
+                "gkq29io": {
+                  "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkq29io/",
+                  "text": "get a free 4shared account (or get any kind of hosting that has webdav) then you can set it up to store all papers on the webhosting rather than your zotero account. \n\nI am super paranoid about losing everything so I also let zotero store all the papers on my computer and my laptop. So I have all my papers/notes/tags stored in 3 locations (webhost, desktop, laptop).",
+                  "author": "dukesdj",
+                  "created": 1611593134,
+                  "upvotes": 2,
+                  "replies": {
+                    "gkqb454": {
+                      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqb454/",
+                      "text": "I synch my Zotero database folder to a cloud thing (e.g. dropbox). CAUTION: Zotero says you should never ever do that, but I have been doing that for two years and it hasn't been a problem. PDFs of papers synch across my work computer, home computer and laptop without problem. They key is to make sure you don't get into a situation where you have the Zotero software open on two computers simultaneously, and then they start synching on top of each other, and the database could become corrupted. I never did that and all good so far. And just to be extra careful every couple of months I make a backup of the entire Zotero database to my big 2TB external drive that isn't linked to any cloud.",
+                      "author": "radionul",
+                      "created": 1611596954,
+                      "upvotes": 2,
+                      "replies": {
+                        "gkqiv4f": {
+                          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqiv4f/",
+                          "text": "Wow, brave. What about using the cloud on mobile phone and one computer?\n\nI often access my OneDrive on both my smartphone and my computers (yes plural. Unfortunately I have a desktop and laptop and they might be used at the same time, so I guess my risk of corruption is higher?)",
+                          "author": "sledgemama",
+                          "created": 1611600310,
+                          "upvotes": 1,
+                          "replies": {
+                            "gkqv9ky": {
+                              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqv9ky/",
+                              "text": "yeah if Zotero is open on both computers at the same time then it might be a problem.",
+                              "author": "radionul",
+                              "created": 1611605780,
+                              "upvotes": 1,
+                              "replies": {
+                                "gkstx7a": {
+                                  "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkstx7a/",
+                                  "text": "What about 1 mobile and 1 computer at the same time?",
+                                  "author": "sledgemama",
+                                  "created": 1611644238,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "gkqip9y": {
+                      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqip9y/",
+                      "text": "Don't really understand the lingo but I'll do some googling",
+                      "author": "sledgemama",
+                      "created": 1611600241,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                },
+                "gkqatu9": {
+                  "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqatu9/",
+                  "text": "The free storage is pretty decent. I only ran out of space when I was storing several large books. The free storage is likely fine for a couple years of work.",
+                  "author": "sailingpj",
+                  "created": 1611596831,
+                  "upvotes": 2,
+                  "replies": {
+                    "gkqikwl": {
+                      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqikwl/",
+                      "text": "I need it till I die lol, and I have several years ahead for grad school",
+                      "author": "sledgemama",
+                      "created": 1611600189,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                },
+                "gkqa8bu": {
+                  "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqa8bu/",
+                  "text": "Zotero syncs to the cloud, so you shouldn\u2019t lose your references!",
+                  "author": "nancienne",
+                  "created": 1611596577,
+                  "upvotes": 1,
+                  "replies": {
+                    "gkqinb0": {
+                      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqinb0/",
+                      "text": "But it says not to sync to cloud as it will corrupt files?",
+                      "author": "sledgemama",
+                      "created": 1611600217,
+                      "upvotes": 1,
+                      "replies": {
+                        "gkqqlt2": {
+                          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqqlt2/",
+                          "text": "Shoot, yes, you\u2019re right in regards to PDFs.\n\nI always recommend going to the Zotero documentation to dig into the technical aspects: Zotero.org/support/\n\nSpecially regarding syncing: Zotero.org/support/sync",
+                          "author": "nancienne",
+                          "created": 1611603690,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gko97sv": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko97sv/",
+      "text": "I think sometimes they remember because they are actively working on the direction that they are presenting. If I'm actively working on a direction, I can easily point out some good references and how they relate to my research. On the other hand, for other directions in my field, my best effort is to point out some classic papers if they are not from the textbook. Quite a often, I don't remember anything and I need to look up as well.",
+      "author": "ferrishu3886",
+      "created": 1611547726,
+      "upvotes": 58,
+      "replies": {
+        "gko9mdi": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko9mdi/",
+          "text": "IMO, this is the reason.",
+          "author": "Sunglassesandwatches",
+          "created": 1611547975,
+          "upvotes": 6,
+          "replies": {
+            "gkot0p1": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkot0p1/",
+              "text": "If it's relevant to me, I remember it. If it's not, I don't need to.",
+              "author": "EmeraldIbis",
+              "created": 1611563232,
+              "upvotes": 11,
+              "replies": {}
+            }
+          }
+        },
+        "gkq3onx": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkq3onx/",
+          "text": "I second this, and so many works are just sort of foundational to your discipline and niche that you end up reading them fifty five million times since you cite them in like... every paper.",
+          "author": "thebeatsandreptaur",
+          "created": 1611593749,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "gkra2p3": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkra2p3/",
+          "text": "Thank you for this. Because I have never doubted my ability to study post-grad until recently - because I figured my memory must be so bad if I can't remember everything that I read (The fictional Rory Gilmore did a disservice to readers with her ability quote chunks of every book she ever read).",
+          "author": "tea-cup-stained",
+          "created": 1611612577,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gko7rjh": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko7rjh/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1611546859,
+      "upvotes": 59,
+      "replies": {
+        "gkored6": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkored6/",
+          "text": "You're saying the abstract is *not* in fact the whole paper?",
+          "author": "link0007",
+          "created": 1611561684,
+          "upvotes": 45,
+          "replies": {
+            "gkotcje": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkotcje/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1611563555,
+              "upvotes": 22,
+              "replies": {}
+            },
+            "gkq05ev": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkq05ev/",
+              "text": "You're saying you don't try to just cite papers based off the title?",
+              "author": "TripinPanda",
+              "created": 1611592242,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        },
+        "gko9or5": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko9or5/",
+          "text": "Stop, it's too real!",
+          "author": "InfuriatingComma",
+          "created": 1611548016,
+          "upvotes": 12,
+          "replies": {}
+        }
+      }
+    },
+    "gkooxf1": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkooxf1/",
+      "text": "Everyone will tell you to use a program (Zotero, whatever)... but my recommendation (as a professor who's been doing this a long time) is:  don't.   \n\nBrains are tricky things.  They do what they feel they *need* to do, but not more than that.  So, if you start amassing a huge database on your computer (using whatever program), the fact is it your brain won't prioritize remembering it, and it will *stay* on your computer (and not in your brain).\n\nThis is fine for less-important material (the I-covered-my-bases citations for your dissertation, for instance.)  \n\nBut it's not fine for your job interview, or teaching a graduate class.  The only way to remember past work on-the-fly is to use it.  \n\nI found that my retention of important literature as a grad student or a professor made HUGE leaps at the following stages:  \n\n- arguing in graduate seminars (where I had to remember it, or look foolish) \n\n- studying for my Prelims (Quals, Orals, whatever)  (where I had to remember it, or fail) \n\n- teaching my first graduate class (where I had to remember it, or look foolish) \n\nHonestly, I've found that when I just click important bibliography into my database (Endnotes is what I use) without \"using\" it, it is *completely* forgotten within one month.  (I have notes to myself in Endnotes:  \"remember this!  This is crucial!\"... repeated six or seven times..!  One for each time that I've 'rediscovered' it, forgotten, sitting in my database....!)\n\nBizarrely, I've found that even just typing out the entry into my database software manually (rather than drag-dropping like Zotero) increases my chance of remembering it exponentially. \n\nMy grad students who rely heavily on database-bibliography have horrible memories, by the way.  Far worse than I was at the same stage, way back when.  They think I'm brilliant with a phenomenal memory, but the fact is, it's really just practice. \n\nCuriously, the same effect writ large is the difference between true knowledge and internet-knowledge... \"I can always look it up\" (post-internet) has made people (students, academics, everyone) feel smarter (because they feel like they have a lot of information at their fingertips) while actually being more ignorant...  but that's an argument for another day.\n\nEDIT:  by the way, writing notes in the margins (like you do) is one way to increase your retention.  Taking detailed notes on a separate sheet of paper does even better... but slows you down.  (not doing either...?  Forget retention, it's gone a few weeks after you finish the book.)   But if you really want to remember a book or article, write a review of it... a review that you spend a LOT of time on, and which sends you back to the book to find choice quotes, perfect summary of the argument(s), etc.",
+      "author": "DerProfessor",
+      "created": 1611559413,
+      "upvotes": 72,
+      "replies": {
+        "gkpbz4v": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpbz4v/",
+          "text": "Ever read \u201cThe Knowledge Illusion\u201d ? Human brains are not meant for storing information, human brains are for processing information. Our memories are terrible and i don\u2019t think being able to remember everything should be a measurement of intelligence.",
+          "author": "Seasnek",
+          "created": 1611580251,
+          "upvotes": 23,
+          "replies": {}
+        },
+        "gkoxr3e": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkoxr3e/",
+          "text": "I find Zotero *does* save a lot of time when it comes to formatting footnotes and bibliographies (assuming you're writing in a word processor), but I don't find the note-taking functionality all that useful for the reasons you mentioned.",
+          "author": "truagh_mo_thuras",
+          "created": 1611567878,
+          "upvotes": 11,
+          "replies": {
+            "gkrax8b": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrax8b/",
+              "text": "Note-taking is so key for me.",
+              "author": "tea-cup-stained",
+              "created": 1611612988,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "gkpdsbx": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpdsbx/",
+          "text": "I mean, I do agree with what you said. \"Using a paper\" usually helps me remember much more. On the other hand, as a physician, far too many times have a professor incorrectly pointed out details from a paper he/she remembered, including treatment protocol, which I later referenced and pointed out.\n\nUltimately, I think it's just a matter of balance. I try to remember the point of papers, and if possible the details, but I would immediately check If I am unsure of it. I don't really trust my memory that much for this kind of thing.",
+          "author": "Flince",
+          "created": 1611581449,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "gkratzi": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkratzi/",
+          "text": "Thank you. Your edit rings very true with me. \n\nI have a small book-club with a friend, we are working through some classics. We began with Jane Austen's Emma and both of us sat down weekly with a notebook full of thoughts, written out quotes etc. I have read Emma a dozen times prior to this, but this is the first time I felt that I had understood it.\n\nHowever, as you said, it makes the reading time enormous. I will estimate it takes me 10x as long to read if I am notetaking. \n\nYou have also given me more confidence in my own methods, thank you.",
+          "author": "tea-cup-stained",
+          "created": 1611612944,
+          "upvotes": 2,
+          "replies": {
+            "gksvpyg": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gksvpyg/",
+              "text": "Yes, definitely it takes longer!  Your estimation seems spot-on to me. \n\nI read 'professionally' (about two academic books a week, sometimes as many as 5 or 6 a week), often under deadline pressure (i.e. trying to finish a book in time to get discussion questions out to the grad students on it), so I'm very aware of 'speed'. \n\n- To skim a book, two to four hours.\n \n- To read an average (academic) book thoroughly, two days. \n\n- To read a book while taking detailed marginal notes, 4 days.   (BUT:  if I read it again, a thorough read takes only a single day!!  The notes are incredibly useful for the future.)\n\n- To read a book taking notes on paper or my computer (i.e. really wanting to know it well), about 6 days.  (!!)\n\n- To write on a book for my own purposes, add +1 day to the above. \n\n- To write on a book for publication (i.e. book review), add +2 days to the 6 days of note-taking reading.  \n\n**Retention** is directly and inversely related to the above times.   !\n\nSo, it's all a balance of time vs. necessity... how much am I going to need to know this in the future?  And do I have the time to do it?   How much time have I pissed away on Reddit?  :-) \n\nAcademic study is awesome, by the way.  I had a grad student in her 50s come work with me (after a hugely-successful previous career), and not only was she a stellar student, but she loved it so much more than her earlier career...!",
+              "author": "DerProfessor",
+              "created": 1611645854,
+              "upvotes": 3,
+              "replies": {
+                "gkwfy8u": {
+                  "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkwfy8u/",
+                  "text": "Thank you so much for taking the time for this response. I will be nearly 50 by the time my kids are old enough for me to start studying again. But I realised I can keep going until I die if I am enjoying what I am doing (my pre-children career was teaching).\n\nYour estimates about reading books reminds me of a conversation I had, years ago, with a more serious online bookclub. We were working through classic literature with several members who had attended a literary university (in the US), in which they had to read several books per week. I think I was watching \"Gilmore Girls\" at the time and watching a 15yo burn through novels at an incredible rate.\n\nI was always pushing the question about how much we actually retained (Rory Gilmore's memory was insanely unachievable). I can listen to Anna Karenina on my audiobook in 30hrs, but to really read it required a lot longer. So often I felt that no one would discuss how long we spend reading a book, and how that affects what we understand of it. Again, thank you.",
+                  "author": "tea-cup-stained",
+                  "created": 1611714135,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gko2r8i": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko2r8i/",
+      "text": "I keep it very simple. I keep a list of books read and scholarly articles read in the back of my Hobonichi planner. And I save every journal or other article in a folder on my hard drive so I can pull it to reread or generate a citation.",
+      "author": "kristimyers72",
+      "created": 1611544055,
+      "upvotes": 13,
+      "replies": {
+        "gko36z0": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko36z0/",
+          "text": "How do you remember the contents of the books/articles? Do you keep notes about them, or just trust that if you need to refer back you will remember where to look?",
+          "author": "tea-cup-stained",
+          "created": 1611544280,
+          "upvotes": 2,
+          "replies": {
+            "gko9h20": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko9h20/",
+              "text": "I saw the journal article files by either title or subject plus lead author, and that is usually enough to jog my memory.",
+              "author": "kristimyers72",
+              "created": 1611547884,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gkor84x": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkor84x/",
+      "text": "Zotero is the most popular choice, and a good one as a library system, but I use a hidden gem called Citavi. It's a Swiss software which is more oriented towards information management than library management. I haven't used Mendeley, but I guess both are similar in a lot of aspects. \n\nIn Citavi, you make projects, similar to collections in Zotero. You have the option to add articles directly from the web in one click, add notes, tags, keywords, abstracts, etc. But the best thing about Citavi, on top of it being a library for your articles, is:\n\n1. You can read and annotate, with varying levels of importance, within Citavi. It has a section called Knowledge Items, where all your annotations are listed. This helps you write a skeleton thesis by just adding the relevant information. And all the annotations appear in one place, and one click takes you to the relevant location in the paper. This helps you draw connections across articles and consolidate your information.\n2. You have a Tasks section, where you can make a to-do list, be it reading an article or discussing it, or writing. And you can set the progress of each task as well. This helps when you're working with a team, and can know who is where with their tasks, and hence optimize workflow and output.\n\nIt's a freemium software, with the free version providing all features as paid, but limits the number of articles you can add on a project. Definitely worth checking out. The only downside is that it only works on Windows.",
+      "author": "Aryce_",
+      "created": 1611561520,
+      "upvotes": 12,
+      "replies": {
+        "gkpdp7f": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpdp7f/",
+          "text": "ohnnnooooo. it sounds nice why only windows...do you know any mac equivalent",
+          "author": "billscumslut",
+          "created": 1611581393,
+          "upvotes": 3,
+          "replies": {
+            "gkpjbce": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpjbce/",
+              "text": "Citavi can be run on Mac but using Parallels and installing Windows. \n\nAs for alternatives, I guess Mendeley is a good option. I'll have to try out Mendeley and see how it compares.",
+              "author": "Aryce_",
+              "created": 1611584639,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "gkw3dxf": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkw3dxf/",
+              "text": "there is a web version in open beta",
+              "author": "specific_account_",
+              "created": 1611707910,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gkny5ml": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkny5ml/",
+      "text": "Mendeley software might help you a lot.",
+      "author": "mantras3",
+      "created": 1611541735,
+      "upvotes": 35,
+      "replies": {
+        "gkoanzl": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkoanzl/",
+          "text": "That\u2019s what I\u2019m in the process of switching to. I like that I can take notes, on the pdf, in the app.",
+          "author": "JenJam67",
+          "created": 1611548627,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "gkos8qd": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkos8qd/",
+          "text": "Mendeley is owned by Elsevier. Zotero is open source and is not owned by a publisher who may block you from uploading other publishers articles.",
+          "author": "CardboardChewingGum",
+          "created": 1611562477,
+          "upvotes": 13,
+          "replies": {
+            "gkov6c9": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkov6c9/",
+              "text": "Does it happen on Mendeley? I uploaded nearly any kind of article or books from different publishers and it worked well all the time.",
+              "author": "mantras3",
+              "created": 1611565366,
+              "upvotes": 8,
+              "replies": {
+                "gkpftb7": {
+                  "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpftb7/",
+                  "text": "It doesn't. You can upload any type of PDF file to Mendeley",
+                  "author": null,
+                  "created": 1611582677,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            },
+            "gkpfrk0": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpfrk0/",
+              "text": "You can upload any PDF to Mendeley, definitely not limited to Elsevier. I have even books from 1960s on my Mendeley and I can read, highlight and add notes just fine.",
+              "author": null,
+              "created": 1611582648,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        },
+        "gko38tw": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko38tw/",
+          "text": "Thank you, I am downloading that now (and also ReadCube Papers).",
+          "author": "tea-cup-stained",
+          "created": 1611544307,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "gkogk23": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkogk23/",
+          "text": "I\u2019m a graduate student and I use Mendeley! It\u2019s free and easy to use",
+          "author": "vaginaflower",
+          "created": 1611552612,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "gkny6i2": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkny6i2/",
+          "text": "**Help you a lot, mendeley software might.** \n\n *-mantras3*",
+          "author": "YodaOnReddit-Bot",
+          "created": 1611541747,
+          "upvotes": -24,
+          "replies": {}
+        }
+      }
+    },
+    "gkopzh9": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkopzh9/",
+      "text": "I have an old-school approach. For every paper I read, I write a short digest -- 5 to 10 sentences that make sure to include all the right keywords. I mention crucial references from this paper. I save this as a .txt file. When I'm looking for something I just grep the collection of .txt files.",
+      "author": "Belzeturtle",
+      "created": 1611560377,
+      "upvotes": 9,
+      "replies": {
+        "gkppiei": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkppiei/",
+          "text": "Wow found the computer scientist",
+          "author": "drcopus",
+          "created": 1611587692,
+          "upvotes": 2,
+          "replies": {
+            "gkpqnbn": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpqnbn/",
+              "text": "Nope. Keep looking.",
+              "author": "Belzeturtle",
+              "created": 1611588212,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gko4bly": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko4bly/",
+      "text": "I have a word document for projects. I put the title as a subheading and then follow with the author, journal and year. I do bullet point of what I read and paraphrased it so I am not just copying it ( it makes it easier when writing). I also add the figures I think are important as a bullet point as well.\n\nEdit: I use endnote as my reference software. Once I read a journal I add it into my library.",
+      "author": "ShimmerSpice",
+      "created": 1611544899,
+      "upvotes": 8,
+      "replies": {
+        "gkoptdd": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkoptdd/",
+          "text": "This.  I use the old - I will kind of remember it - system.  But I teach use of a word template that I drew up in which students can input all of the relevant bibliographic details, as well as details on their take on the hypothesis, methodology, key results, context (how the paper fits into the filed) and significance.",
+          "author": "Life_time_learner",
+          "created": 1611560222,
+          "upvotes": 5,
+          "replies": {
+            "gkp12m8": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkp12m8/",
+              "text": "Ooh, ooh, care to share the template?",
+              "author": "KookyWishbone1",
+              "created": 1611571084,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "gkpdm68": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpdm68/",
+              "text": "yes please share!",
+              "author": "billscumslut",
+              "created": 1611581341,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "gkri6vl": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkri6vl/",
+              "text": "That template sounds perfect, would you accept to share it?",
+              "author": "emchocolat",
+              "created": 1611616527,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gko9u8v": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko9u8v/",
+          "text": "I do a similar thing, at the end of my papers, frantically, at the last minute, right before showing my work to other people. Lol",
+          "author": "InfuriatingComma",
+          "created": 1611548112,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gkofno8": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkofno8/",
+      "text": "I started using the slip box or zettelkasten method as I narrowed in on my research area. It has been hugely helpful in organizing my thoughts and various notes.",
+      "author": "ReluctantAcademic21",
+      "created": 1611551964,
+      "upvotes": 8,
+      "replies": {
+        "gkoniug": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkoniug/",
+          "text": "Reall slip box :o why not go for software versions like obsidian etc.",
+          "author": "goranstoja",
+          "created": 1611558166,
+          "upvotes": 1,
+          "replies": {
+            "gkpia3v": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpia3v/",
+              "text": "They only said the method to be fair, no reason to assume they meant an actual paper one.\n\nI also use Obsidian for what it's worth and it's an absolute game-changer! Agree with you, couldn't recommend it enough - https://obsidian.md/index.html",
+              "author": "CescFaberge",
+              "created": 1611584087,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "gkphqxa": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkphqxa/",
+              "text": "I have a digital slipbox, and I also use notecards because I like to carry them around, re-read, and re-order for writing. I looked at some software versions and I did not like them. I do just fine with a set of google docs and a bunch of notecards. I don't think I'm being a troglodyte, I just found a method that works for me and I'm sticking to it.",
+              "author": "ReluctantAcademic21",
+              "created": 1611583797,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gkonu2c": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkonu2c/",
+      "text": "I'll drop a vote for Docear - saved my life in multiple papers. It allows you to organize your literature as a mind map. I prepare a draft where I nest the pdfs into paragraphs, which are nested into subsections, which are further nested into sections.\n\nInstead of spending 2 hour to write and 2 hour to organize, I spend 3:30 hours organizing and 30 minutes writing :D",
+      "author": "notrinium",
+      "created": 1611558437,
+      "upvotes": 7,
+      "replies": {
+        "gkw3n3p": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkw3n3p/",
+          "text": "I love Docear - but it\u2019s not supported anymore unfortunately. Docear led me to Citavi.",
+          "author": "specific_account_",
+          "created": 1611708034,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gkq6e9c": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkq6e9c/",
+      "text": "I'm gonna get lost in the flood of answers but honestly all these are wrong. Yes it is good to annotate papers in a system like Zotero or Mendeley (I use ReadCube) but that does nothing for retention. In academia we are so obsessed with reading paper after paper to keep up but I don't think we obsess enough about retention. I don't remember the main points of a paper I read last year or even last week! That's why, for every paper, I use Anki and make flashcards for every key result and main figure in the paper. This is how I have an \"encyclopedic\" memory of every paper I've read in perpetuity.",
+      "author": "Stereoisomer",
+      "created": 1611594923,
+      "upvotes": 6,
+      "replies": {
+        "gkrcmm0": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrcmm0/",
+          "text": "Comment isn't lost. I used ANKI when I learned French.",
+          "author": "tea-cup-stained",
+          "created": 1611613803,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "gl11izd": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gl11izd/",
+          "text": "This is something I would like to do! And I actually started doing it some time ago but then I did not continue. I would like to get back to this and so I'd like to ask for some advice. Can I have some insight in your workflow? How many cards do you prepare for each article? Do you just include short summaries, or do you also include specific details? Do you memorize authors/year? Could you post some examples? Thank you",
+          "author": "specific_account_",
+          "created": 1611796013,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gkon9ge": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkon9ge/",
+      "text": "[This ](https://youtu.be/Y40Wy1guAiQ) is a very simple and easy to make spreadsheet to keep track of your papers. \n\nFor my notes, I am currently using Obsidian and I am pretty happy so far.",
+      "author": "odradeandthesea",
+      "created": 1611557941,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gkoxubo": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkoxubo/",
+      "text": "My advice to you is simply, Excel and Google Scholar. I used to rely on Zotero, but it happened to me that I only accumulated papers without reading them that thoroughly. It's also hard to keep track of what I learned from those papers. So, based on my professor's suggestions, I constructed an excel file that has these columns:\n\nIndex | Title | Research Purpose | Results | Methods | Use or Not use | My comments | Full Reference\n\nIf you want the full ref, search the paper name in Google Scholar and extract the citation.  \nThe Use/Not Use indicates whether I would cite this paper in my paper. Sometimes, there are papers that are not necessarily relevant but they give you motivation or some background information. The most important columns are results, methods, and your comments on the papers. They make you think and help you recall why you are interested in reading these papers, what the takeaways are.\n\nYou can also add other columns that suit your needs easily.",
+      "author": "brevity142",
+      "created": 1611567960,
+      "upvotes": 5,
+      "replies": {
+        "gkp0eca": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkp0eca/",
+          "text": "This is excellent. Personally, I prefer notes on a table laid out on word, because excel is designed to count things for you.b\n\nSimply, keep an annotated book/table of what you read.",
+          "author": "zastrozzischild",
+          "created": 1611570428,
+          "upvotes": 1,
+          "replies": {
+            "gkp5sdy": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkp5sdy/",
+              "text": "You can filter in excel based on methods, use/not use in excel, which would be more convenient than doing on Word. Besides, it will be efficient when you want to export the papers or sort them in order to write the reference list.",
+              "author": "brevity142",
+              "created": 1611575458,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "gkrcish": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrcish/",
+          "text": "Excel is the best program ever, and it can honestly do anything.",
+          "author": "tea-cup-stained",
+          "created": 1611613752,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gko9b9e": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gko9b9e/",
+      "text": "Google Drive.\n\nSave all of your pdfs in Drive and make folders for areas of speciality. In each folder store documents filled with notes and quotes from your readings, labelled by author and title.\n\nI have always found that typing up notes from all academic readings works best.\n\nI've tried Zotero and don't find it that useful.",
+      "author": "gggggggggggfff",
+      "created": 1611547784,
+      "upvotes": 9,
+      "replies": {
+        "gkolq2k": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkolq2k/",
+          "text": "I agree. Rewriting in pr\u00e9cis what you've read will help you remember it. It is thought that related motor actions assist with learning.",
+          "author": "kloburgkid",
+          "created": 1611556637,
+          "upvotes": 3,
+          "replies": {
+            "gkrcpg4": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrcpg4/",
+              "text": "Yeh, I find actually typing helps retention too.",
+              "author": "tea-cup-stained",
+              "created": 1611613840,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gkopg08": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkopg08/",
+      "text": "Since I am literally taking a break from coding research papers I type this, I guess I'll write about what I am doing. I am currently pursuing a literature review which is writing a research paper based on the accumulation of other research papers. What we do is first we go on relevant databases then try to use key words to find a relevant set of papers (maybe a hundred or two), and export to Zotero. \n\nAfterward, we go through and read the abstracts and mark them as whether they are relevant or not. We then cross check with each other to ensure that everything is related. Generally we try and narrow it down to around 20- 30 papers per database. Afterward, we export that to an excel sheet, and summarize the papers, while filtering out and ones that appeared to be relevant through the abstract, but aren't. By now, it's ideal to have roughly 30 papers in total.\n\nNext, we go through again and code all of the papers for key terms for us to reference while writing the paper. Since this is my first literature review, I have not gotten to the next steps yet, but the main point that I am trying to get at is that by the time we are done (even to where I am now), we have a pretty good sense of what paper is related to what content. Of course, when I am trying to reference a paper, I'll still look it up on the spreadsheet for the exact name, but it doesn't take too long.\n\ntl;dr, we read the papers over and over until it's familiarized and use zotero / excel to keep a list for reference.",
+      "author": "Rickbox",
+      "created": 1611559879,
+      "upvotes": 4,
+      "replies": {
+        "gkp1j9r": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkp1j9r/",
+          "text": "For screening abstracts, I highly recommend [Abstrackr](http://abstrackr.cebm.brown.edu/account/login), it\u2019s free and fun to use",
+          "author": "KookyWishbone1",
+          "created": 1611571533,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gkpcvkr": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpcvkr/",
+      "text": "I read a book called Critical Reading and Writing for post graduates when I first started my masters after no undergrad experience at all. It was a massive help as it helped me understand why I am reading articles. My uni runs a ton of how to study workshops online or videos which are a great starting point if those are available. \n\nAll the suggestions for a reference managers are great, I would recommend picking one that has a good integration for your word processing software so that you can develop a workflow with this data. I've used mendeley for the last 5 years and it has proven really good. I have tried others but this one just clicked with my brain.\n\nOne of the key takeaways from all of my studies (less than 15 days left before I submit my final dissertation) was to just continously write, ask yourself questions, reread what you've written, write about the process of reading and synthesising your data. Being reflexive about your practice is important, ask yourself what worked what didn't, etc etc.",
+      "author": "Shinchynab",
+      "created": 1611580859,
+      "upvotes": 5,
+      "replies": {
+        "gkrd3x0": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrd3x0/",
+          "text": "Thank you, this is a great answer that fits in with my own feelings.",
+          "author": "tea-cup-stained",
+          "created": 1611614034,
+          "upvotes": 1,
+          "replies": {
+            "gkrg4ts": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrg4ts/",
+              "text": "What i found really helpful was the framework for thinking about what you read. I am a scribbler. I note down everything, but turning a pile of notes into something coherent and having evidence for that is a different kettle of fish. That book helped me become really critical about what I'm reading, especially as just because something is academic or published, doesn't mean it has quality or validity for your purpose.\n\nThere is a great book by the Open University which they send you when you start with them, which is general study skills and it was also a really good refresher for me.\n\nGood luck with everything!",
+              "author": "Shinchynab",
+              "created": 1611615504,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "gkrdg3e": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrdg3e/",
+          "text": "Do you mean \"Critical reading and writing for postgraduates\" by Wallace and Wray? I am looking it up now.",
+          "author": "tea-cup-stained",
+          "created": 1611614199,
+          "upvotes": 1,
+          "replies": {
+            "gkreqxg": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkreqxg/",
+              "text": "Yes thats the one!",
+              "author": "Shinchynab",
+              "created": 1611614830,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gkp9air": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkp9air/",
+      "text": "I have stacks and stacks of notebooks in my office. Every time I am reading, I have a notebook beside me to write down quotes, page numbers, responses, thoughts, and so on.  I always make sure to have very organized notes so that you always know where and what exactly in the book your thoughts are responding to at that moment.  It helps to jump right back into where you were when you were reading a long time after you set the book down.  Most of my essays begin in those notebooks.",
+      "author": "glenGarrett_whisky",
+      "created": 1611578312,
+      "upvotes": 3,
+      "replies": {
+        "gkrd0kt": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrd0kt/",
+          "text": "I wanted to do this as I read classic literature, but I hated the thought of all the notebooks being different.... Do you buy bulk?",
+          "author": "tea-cup-stained",
+          "created": 1611613989,
+          "upvotes": 1,
+          "replies": {
+            "gkrd8mk": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrd8mk/",
+              "text": "Oh I have all different kinds of notebooks. I just pick up a few cheap ones at the store when I need more. I have all different colors and brands.",
+              "author": "glenGarrett_whisky",
+              "created": 1611614099,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gkpjl61": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpjl61/",
+      "text": "I really like Zotero for keeping track of citations, but I've coupled that with Microsoft OneNote for the actual note-taking. I create sections and sub-sections for the various topics I read about, and make a page for each book or article to take notes, link to other things I've read, etc. The benefit of this method is that I can open the OneNote app on my phone or iPad to work or reference things away from the computer, whereas Zotero doesn't have a dedicated app.",
+      "author": "SaltandVinegarBae",
+      "created": 1611584781,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gkomjmg": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkomjmg/",
+      "text": "When I read something thoroughly enough I just tend to remember it.",
+      "author": "dampew",
+      "created": 1611557337,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gkones8": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkones8/",
+      "text": "I feel like my go-to method currently is to write everything down somewhere. An article section, various draft documents, google keep notes etc. and hope that I remember having done that. Then I just copy-paste and modify my past thoughts...",
+      "author": "toutain",
+      "created": 1611558068,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gkoo5bx": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkoo5bx/",
+      "text": "I keep track of key papers in my field using an Excel sheet. There are plenty of tutorials on how you can construct one, depending on how you read. Keep in mind that you will probably read thousands of articles in your PhD lifetime, so only key papers will end up in your Excel sheet. Most of the others you will only skim through. \n\nI also save these key papers in my folders (have reasonable storage ready for papers downloading) and I highlight them using the Preview software on Mac. Makes it more convenient. \n\nI am also in the process of learning how to optimize the use of Evernote for my literature reading but so far Evernote has been helpful to keep track of how I do my lit review as opposed to the content. Keep track of my train of thought is one of my priority as well in doing my PhD. It helps you reflect on days that you feel that you haven't done much.",
+      "author": "givemeyourdonut",
+      "created": 1611558714,
+      "upvotes": 2,
+      "replies": {
+        "gkrcw54": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrcw54/",
+          "text": "I love Excel, I use it for almost everything.",
+          "author": "tea-cup-stained",
+          "created": 1611613930,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gkowsvl": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkowsvl/",
+      "text": "I have tried to adhere to a routine. I read one paper a day on an average, reviews are read onlg on sundays.\n\nWhat I like to do is, take an A4 paper and write down the main highlights of the paper I am reading, the important schemes, any specific anomaly, date, DOI, corrwsponding author, reaction scheme.\nI try to restrict it within a page. \nI make a file of these A4 sheets and carry with me wherever I go.\n\nThis way, I retain the information for a longer period of time.\n\nSavings things on computer just doesnot work for me.",
+      "author": "sahaprabir0411",
+      "created": 1611566972,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gkp6bb3": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkp6bb3/",
+      "text": "Try notion! U can make a data base with ur papers and add whatever u want as label. The simple thing is name: status: read!/no read, summary: blabla\n\nI love notion over mendeleu, zotero, ever note, etcetc",
+      "author": "CristianVillalobosC",
+      "created": 1611575918,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gkp7ad2": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkp7ad2/",
+      "text": "I use a combo of narrative notes in Scrivener and references in Zotero. The point in note-taking is to interpret the text for yourself, and that takes more space than you have in a margin. I write down quotes I might want to use later and sentences or paragraphs of my own reactions. I am trying to save myself time in writing articles and\\` book chapters, but the result is that I remember what I read really well. Also, academics have been working with their field for a long time and might get many repetitions on important things. There are some books I teach every year in my literary classes and if there's a reason, there's a good chance I could quote or paraphrase the famous parts.",
+      "author": "raspberry-squirrel",
+      "created": 1611576732,
+      "upvotes": 2,
+      "replies": {
+        "gkrgwji": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrgwji/",
+          "text": "Agreed re the need for more space. I write in margins for books that get passed around my friendship circle, if it is a bookclub book then I will buy a notebook and fill it with things that I want to discuss when we get together (we all sit down with cups of tea and our notebooks and rave about everything).",
+          "author": "tea-cup-stained",
+          "created": 1611615885,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gkph1dz": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkph1dz/",
+      "text": "As a relatively techie person, no software worked for me. Reading books in the library and writing out quotes, notes, pages etc in many, many notebooks committed it to memory. If an article was relatively important, I printed it and have binders and accordion folders of articles with marginalia and notes attached.\n\nIs it the most eco-friendly? No. But the extensive leg work in the beginning made it less necessary to refer back to it in the first place except for page numbers.",
+      "author": "Aalynia",
+      "created": 1611583392,
+      "upvotes": 2,
+      "replies": {
+        "gkrh7qd": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrh7qd/",
+          "text": "I am a techie person too... and so I also like my notebooks!\n\nI am definitely relieved to hear how many people use whatever system suits them, and to hear the emphasis on taking the time to make notes as an aid to memory.",
+          "author": "tea-cup-stained",
+          "created": 1611616041,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gkqg7em": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqg7em/",
+      "text": "I am a margin writer as well. There was always a step between reading and then typing up all my notes and highlights, which was time consuming and obnoxious. \n\nAs much as possible I've switched to ebooks. While they aren't always cheaper for things like trade paperbacks, they tend to be for academic books. I also try to buy Kindle ones if I can. \n\nThe Kindle reader has options for notes and highlights, which can then be viewed by book and copied and pasted into stuff I'm writing. There also is usually a way to export all of them (but this procedure changes every couple of years). I keep this page and a few others like it bookmarked to keep me up to date on what I need to know if I should ever want to dump all my notes out of a book at once: [https://the-digital-reader.com/2020/06/28/how-to-download-your-kindle-notes-and-highlights-and-export-them/](https://the-digital-reader.com/2020/06/28/how-to-download-your-kindle-notes-and-highlights-and-export-them/)",
+      "author": "phoenix-corn",
+      "created": 1611599155,
+      "upvotes": 2,
+      "replies": {
+        "gkrhcmc": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrhcmc/",
+          "text": "I just put in a request for the latest Kobo for my birthday (I wanted it because it can read Adobe DRMs)",
+          "author": "tea-cup-stained",
+          "created": 1611616108,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gkqoe9c": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkqoe9c/",
+      "text": "I switched to Zim Wiki a while ago and I\u2019m not going back. Now I can actually make notes and even drafts that link to pages I\u2019ve created for works I\u2019ve read, and to other notes, thus discovering connections I hadn\u2019t seen before.\n\nI save PDFs directly in Zim and write the reference manually. When I write a draft and need a reference, I create a link to reference\u2019s page. When I\u2019m ready to submit, I copy-paste the actual reference (e.g. Surname, F. (2009) Name of the book etc.) when I move the draft to Open Office for final edits.",
+      "author": "Holokyn-kolokyn",
+      "created": 1611602705,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gkog2j7": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkog2j7/",
+      "text": "Ever since last year, started keeping a track on notion. I create a page with reading habits template where I keep record. Usually I'll just copy the title of the book/article and a link. If it is a saved file will just upload it Notion. Instinctively now, I copy the link before I even get through first para so that in case I don't end up reading the whole thing, I can come to it later. Same with hard copies. A name of the book easily goes first and then the reading.\nMore often than not, I save a file in folder in Google Drive as well, esp if it is very relevant, interesting and really vast. It helps that I both these apps on my phone as well so i can update simultaneously.",
+      "author": "lymozine",
+      "created": 1611552258,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkogc2e": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkogc2e/",
+      "text": "I don't consider myself qualified to be an \"academic,\" but I personally use Mendeley. I make various folders and keep track of the stuff I read according to each topic.",
+      "author": "Seankala",
+      "created": 1611552449,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkoklzs": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkoklzs/",
+      "text": "I use ReadCube for the purposes of saving my articles. Its comfortable to use and you can have your own database and share different databases with your colleagues as well. You can highlight, write comments in the articles themselves (which can be seen by those who have access) and you can use it for citations whilst writing.",
+      "author": "RussoMoira",
+      "created": 1611555728,
+      "upvotes": 1,
+      "replies": {
+        "gkrgn94": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkrgn94/",
+          "text": "I love how easy it is to note/write on articles in ReadCube (I downloaded it yesterday), but how does that work with articles that are borrowed from online libraries?",
+          "author": "tea-cup-stained",
+          "created": 1611615755,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gkosp6p": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkosp6p/",
+      "text": "Zotero",
+      "author": "reversechinlock",
+      "created": 1611562921,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkowq84": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkowq84/",
+      "text": "I use endnote, I know some don't like it but endnote and endnote online are good enough for me! Plus free to download for a lot of universities (in the UK anyways). Everything is in categories I can browse through, I can add notes keywords and abstracts too. \n\nI also retype or handwrite important quotes rather than copying and pasting them, I find that cements them into my brain a little more.",
+      "author": "_Shug",
+      "created": 1611566898,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkpfjtu": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpfjtu/",
+      "text": "You use a pdf Reader.\n\nMy personal choice is Mendeley, but there are others. \n\nI have over 20 different folders with different labels (a pdf can be present in more than one at a time), so I can be quite specific like \"subject X from 2015-2018\" and \"subject X from 2018-present. I have a \"cool papers\" which contains stuff from other areas that may be useful to me, and a \"needs to be read\" folder where I throw the latest articles that I have yet to read. \n\nI have annotations with opinions/thoughts or a summary and main findings of the paper, I use different highlight colors to guide me throughout the text, etc.",
+      "author": null,
+      "created": 1611582522,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkpjsdj": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpjsdj/",
+      "text": "Mendeley is a good option.",
+      "author": "Cbaumle",
+      "created": 1611584884,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkpkr1i": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpkr1i/",
+      "text": "I use Paperpile.",
+      "author": "__x0x__",
+      "created": 1611585379,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkpmgd3": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpmgd3/",
+      "text": "I use Endnote when I am prepping for my bibliography, but I\u2019m not super tech savvy so in the mean while I also save every paper on our institutions cloud using this format:\n\nLast name if first author/et al. (YEAR) journal - condensed paper name\n\nSometimes I\u2019ll add the last author if I\u2019m feeling it, but just depends. If you\u2019re reading for something specific like an experiment or presentation or paper I recommend keeping an excel of the topics you want to cover, like specific topics like reaaaally specific, so you can just jot down anything you may think about referencing as you come across reading it. I do animal research so I note the expt model when I save the paper like R (rat) or ms (mouse) \n\nBut either way, I tried so many methods. In the end I\u2019m sure you will too and you\u2019ll ultimately stick with what suits you best in the long run. Best of luck!! \ud83c\udf40",
+      "author": "thespicyphoenix",
+      "created": 1611586218,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkpyer9": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkpyer9/",
+      "text": "I use Notes on my phone. I read in several different formats (on my computer, on my Kindle, in print) so I find it to be the most convenient way, especially for books. If you're reading a lot of shorter articles, there are probably better options.",
+      "author": "AnaBukowski",
+      "created": 1611591521,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkq11o5": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkq11o5/",
+      "text": "I currently have a ReMarkable 2 tablet.  There are a bunch of e-reader devices out there, I like ReMarkable.  The idea is you store the whole PDF on there and take notes.\n\nAs someone else has said, you also need to use the information or you wont remember it, but at least with a tablet like this you wont have a pile of papers all over.  It will have some innate organization going on.  That said, if you dont read and internalize, it's for nothing, but at least you can carry all your PDFs with you easily and take notes on them.\n\nSide note on ReMarkable, I personally find writing on it to be such a nice experience it's hard to describe.  The goal of these things is to replace paper.  While there are some things about paper they havent replaced (like color, these are black and white magnetic ink screens) they are well on their way, and the writing sensation is wonderful.",
+      "author": "bjos144",
+      "created": 1611592620,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkq1rrw": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkq1rrw/",
+      "text": "I've been using Readcube papers as a way to organize papers.  It's a $60 annual subscription but the online app makes accessing pdf versions of papers through a proxy incredibly fast and easy and saves me the trouble of having to manage gigabytes of pdf files.  \n\nI also use Evernote to keep track of the essential details about every paper I read.  I usually include the publication year, journal, first and last author, and the title followed by a summary of the key bits of data presented and a summary of the conclusions that can be made from the data.  The search function of Evernote makes it very easy to go back and find what I need.  The notes are helpful when going back to write a review or a discussion section.",
+      "author": "Keiterchip",
+      "created": 1611592926,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkt5a51": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkt5a51/",
+      "text": "No idea, I don't use cloud apps on my phone",
+      "author": "radionul",
+      "created": 1611655193,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkonq7x": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkonq7x/",
+      "text": "[There you go!](https://www.youtube.com/watch?v=nPOI4f7yCag)",
+      "author": "goranstoja",
+      "created": 1611558345,
+      "upvotes": 1,
+      "replies": {
+        "gks8tcy": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gks8tcy/",
+          "text": "This is amazing. Mind blown.",
+          "author": "tea-cup-stained",
+          "created": 1611630510,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "gngmm27": {
+          "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gngmm27/",
+          "text": "Cool stuff! So the clue is, to remember write it down (on paper) in your own words.",
+          "author": "Yvesz310",
+          "created": 1613333939,
+          "upvotes": 2,
+          "replies": {
+            "gngnd7k": {
+              "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gngnd7k/",
+              "text": "Its much more then that but that is the first step for you to start thinking not just copying content. Install Obsidian and learn other steps if you want to know more about that.",
+              "author": "goranstoja",
+              "created": 1613334319,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gkp3efh": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkp3efh/",
+      "text": "They don\u2019t",
+      "author": "Francescodepazzi",
+      "created": 1611573301,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gkooh99": {
+      "link": "/r/AskAcademia/comments/l4do7t/how_do_academics_keep_track_of_stuff_that_they/gkooh99/",
+      "text": "I use the app Notion to organize papers!!! Life saver for academic organization in all facets!!!",
+      "author": "neuromission",
+      "created": 1611559011,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

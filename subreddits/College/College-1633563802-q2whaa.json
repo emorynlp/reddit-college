@@ -1,0 +1,54 @@
+{
+  "sid": "q2whaa",
+  "link": "/r/college/comments/q2whaa/what_programs_do_you_guys_recommend_for_typing/",
+  "title:": "What programs do you guys recommend for typing down mathematical formulas/equations?",
+  "text": "My professor says we\u2019re allowed to type up a formula sheet and anything with formulas/equations is allowed. Word seems iffy to me, Google Docs doesn\u2019t seem much better, what do you guys recommend I do if I want to type formulas/mathematical equations.",
+  "author": "SXC365",
+  "created": 1633563802,
+  "updated": 1634083651,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hfo0zjs": {
+      "link": "/r/college/comments/q2whaa/what_programs_do_you_guys_recommend_for_typing/hfo0zjs/",
+      "text": "You're not going to learn it overnight, but LaTeX is built for this purpose.",
+      "author": "mrbmi513",
+      "created": 1633563894,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "hfo4zvk": {
+      "link": "/r/college/comments/q2whaa/what_programs_do_you_guys_recommend_for_typing/hfo4zvk/",
+      "text": "Yeah latex is basically the standard for any scientific/mathematical papers these days. My upper level math and CS classes strongly prefer latex submissions for proofs because of it\n\nEdit: for a pretty good deep dive, just hop on overleaf and start messing around with the templates they have on there. You'll start to get a feel for it quickly",
+      "author": "Kryoxic",
+      "created": 1633565841,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hfobqth": {
+      "link": "/r/college/comments/q2whaa/what_programs_do_you_guys_recommend_for_typing/hfobqth/",
+      "text": "LaTeX!",
+      "author": "myCloggedArteries",
+      "created": 1633568994,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hfo5pib": {
+      "link": "/r/college/comments/q2whaa/what_programs_do_you_guys_recommend_for_typing/hfo5pib/",
+      "text": "Look ASCII keyboard symbols. Another alternative is Mac keyboard symbol shortcuts. You can also copy and paste symbols (google \"theta symbol\") into word documents.",
+      "author": "roguezebra",
+      "created": 1633566168,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hfpodaa": {
+      "link": "/r/college/comments/q2whaa/what_programs_do_you_guys_recommend_for_typing/hfpodaa/",
+      "text": "Matcha is an easier version of Latex btw!! So I recommend this one",
+      "author": "ilyx_iaaaa",
+      "created": 1633602812,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

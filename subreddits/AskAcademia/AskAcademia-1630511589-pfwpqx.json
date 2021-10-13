@@ -1,0 +1,186 @@
+{
+  "sid": "pfwpqx",
+  "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/",
+  "title:": "A journal that we can pre-register during the data collection part?",
+  "text": "Hello,\n\nI am not sure whether this is the right place, but we are looking for a journal that we can pre-register our study during the data collection. Generally, journals indicate that it should be prior to data collection. However, I saw some (pre-registered) papers indicating ongoing data collection. Unfortunately, I don't remember which journal because it was very long time ago. By definition, there are also phrases like prior to data collection, or at least before the analysis. Our data collection part will take at least 5,6 months, but the thing is we have already started to collect data. \n\nDo you know journals that allow/accept applications while data collection is ongoing? Fields are: neuroscience, cognitive neuroscience, psychology, clinical studies, brain manipulation.",
+  "author": "helloiambrain",
+  "created": 1630511589,
+  "updated": 1634079432,
+  "over_18": false,
+  "upvotes": 20,
+  "upvote_ratio": 0.85,
+  "comments": {
+    "hb7hldg": {
+      "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7hldg/",
+      "text": "Do you want to simply pre-register your study or are you looking for registered reports? You can easily pre-register your protocol somewhere like OSF and then submit to any journal when it's done. Alternatively, [here's a list of journals that accept registered reports.](https://www.cos.io/initiatives/registered-reports). Look under the \"participating journals\" tab then \"journals that have adopted registered reports\".",
+      "author": "Jimboats",
+      "created": 1630515339,
+      "upvotes": 14,
+      "replies": {
+        "hb7ilai": {
+          "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7ilai/",
+          "text": "Sorry not to mention, we are looking for reports for sure. I know this list but the problem is that as indicated, data collection already started. So, looking for a journal that accepts this situation.",
+          "author": "helloiambrain",
+          "created": 1630515746,
+          "upvotes": 1,
+          "replies": {
+            "hb7j9a8": {
+              "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7j9a8/",
+              "text": "I don't know of any journal that accepts RRs after the data collection has started. Wouldn't that sort of defeat the purpose of pre-registering your study?",
+              "author": "Jimboats",
+              "created": 1630516023,
+              "upvotes": 10,
+              "replies": {
+                "hb7lwgd": {
+                  "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7lwgd/",
+                  "text": "Actually, not necessarry because I have seen some papers indicating that they are currently collecting data. The important thing is that it should be definetely before the analyses.\n\nThe Editors of Psychological Science encourage psychological   \nscientists to preregister their research plans before collecting data   \n(or at least before analyzing data). Source: https://www.psychologicalscience.org/publications/psychological\\_science/preregistration",
+                  "author": "helloiambrain",
+                  "created": 1630517098,
+                  "upvotes": 1,
+                  "replies": {
+                    "hb7qfya": {
+                      "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7qfya/",
+                      "text": "If I were you, I would just upload your analysis plan to OSF at this stage.",
+                      "author": "Jimboats",
+                      "created": 1630518949,
+                      "upvotes": 9,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "hb7vk19": {
+              "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7vk19/",
+              "text": "This [list](https://docs.google.com/spreadsheets/d/1D4_k-8C_UENTRtbPzXfhjEyu3BfLxdOsn9j-otrO870/edit#gid=0), column 7, includes a set of journals that have stated they would consider such registered reports. It's also worth asking any journal (whether or not they accept RRs) if they would consider such a submission. [RR's Now!](https://osf.io/3wct2/) has suggestions for such outreach (example language [here](https://osf.io/3wct2/wiki/Journal%20Requests/)).",
+              "author": "rollem",
+              "created": 1630521051,
+              "upvotes": 3,
+              "replies": {
+                "hb8uokt": {
+                  "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb8uokt/",
+                  "text": "N.b. I mentioned this track in another comment - I don't think the OP's case fits with what most of those journals offer when they say they allow registered reports containing secondary analyses. They usually mean that you pre-register an analysis plan before accessing data from another source (e.g. another lab, a database).\n\nFor example, Wellcome Open Research states:\n\n>Wellcome Open Research welcomes Stage 1 Study Protocols proposing secondary analyses of existing datasets, provided authors can supply sufficient evidence (e.g. self-certification; letter from independent gatekeeper) to confirm that they have had no prior access to the data in question.\n\nThe OP is talking about pre-registering their own study, where I would assume they do have access to the data. At least, it'd be hard to argue that they didn't.",
+                  "author": "Flemon45",
+                  "created": 1630536176,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hb7b3jz": {
+      "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7b3jz/",
+      "text": "[For those who are unfamiliar with the concept of pre registration](https://www.science.org/news/2018/09/more-and-more-scientists-are-preregistering-their-studies-should-you)",
+      "author": "45eurytot7",
+      "created": 1630512716,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hb7th33": {
+      "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7th33/",
+      "text": "I don't know if you're in the UK but UKRI have just launched a platform called octopus that allows you to publish different sections of papers as you go along through the study and allow for peer review. It's not exactly pre-registration but you can post the methodology, get peer review and then link the results to the methodology paper, all version controlled.",
+      "author": "ACatGod",
+      "created": 1630520195,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hb7rjr9": {
+      "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7rjr9/",
+      "text": "Some pre-registration templates (e.g. the asPredicted form, the OSF form) allow for you to say that the data are pre-existing or that data collection is underway.  I've seen/reviewed articles published through a standard route say their analysis is pre-registered and link to one of those templates.\n\n  \nI don't know of any journals that allow that through their standard registered reports pathway. Some journals (e.g. Royal Society Open Science, Scientific Reports) allow registered reports to contain secondary analysis of existing data, but it's usually not your own, and you have to establish that you didn't have access to it at the time of pre-registration. \n\n  \nI don't think pre-registering an analysis plan while data collection is underway is pointless, but it doesn't really work with the journal registered report format. If reviewers had an issue with the rationale or design of the study, you wouldn't be able to change it.",
+      "author": "Flemon45",
+      "created": 1630519404,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hb7aaq1": {
+      "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7aaq1/",
+      "text": "\"pre-register our study\" What is that even supposed to mean? Never heard of such a thing.",
+      "author": "tryatriassic",
+      "created": 1630512387,
+      "upvotes": -4,
+      "replies": {
+        "hb7ir9p": {
+          "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7ir9p/",
+          "text": "This is mostly for experimental/clinical studies. You may not be familiar if you are from other fields.",
+          "author": "helloiambrain",
+          "created": 1630515815,
+          "upvotes": 6,
+          "replies": {
+            "hb7jtxo": {
+              "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7jtxo/",
+              "text": "Then put that in your post.",
+              "author": "tryatriassic",
+              "created": 1630516260,
+              "upvotes": -12,
+              "replies": {
+                "hb7m3g5": {
+                  "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7m3g5/",
+                  "text": "Read it properly.",
+                  "author": "helloiambrain",
+                  "created": 1630517175,
+                  "upvotes": 1,
+                  "replies": {
+                    "hb7pv44": {
+                      "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7pv44/",
+                      "text": "Failure to communicate effectively is incumbent upon the messenger. Aint nobody got time to read your long-ass post twice.",
+                      "author": "tryatriassic",
+                      "created": 1630518714,
+                      "upvotes": -13,
+                      "replies": {
+                        "hb8teiy": {
+                          "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb8teiy/",
+                          "text": "Why are you that much aggressive? Because you are an acemic/PhD student and you have never heard about pre-registration and registered reports? It is okay, it is a new thing. By reading my long post, you learned something at least.",
+                          "author": "helloiambrain",
+                          "created": 1630535551,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hb7tv13": {
+          "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb7tv13/",
+          "text": "Just because you've never heard of something doesn't mean OP is in the wrong. You're being rude and unpleasant about something that's actually very common and an issue that has been widely documented in mainstream media over the years. The fact you haven't heard of it is your problem not theirs.",
+          "author": "ACatGod",
+          "created": 1630520353,
+          "upvotes": 7,
+          "replies": {
+            "hb8gayq": {
+              "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb8gayq/",
+              "text": "[removed]",
+              "author": null,
+              "created": 1630529491,
+              "upvotes": -6,
+              "replies": {
+                "hb8xcax": {
+                  "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb8xcax/",
+                  "text": "Girly? Being girl or girly is something you use to annoy people? Come on! Are you a Taliban member? :)",
+                  "author": "helloiambrain",
+                  "created": 1630537485,
+                  "upvotes": 3,
+                  "replies": {}
+                },
+                "hb8hjkw": {
+                  "link": "/r/AskAcademia/comments/pfwpqx/a_journal_that_we_can_preregister_during_the_data/hb8hjkw/",
+                  "text": "My bad. I hadn't realised you were lost, this is Reddit and this sub is about academia. You can find Fox on channel 127, they don't actually report news so I can see why you were confused when I mentioned journalism.",
+                  "author": "ACatGod",
+                  "created": 1630530025,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

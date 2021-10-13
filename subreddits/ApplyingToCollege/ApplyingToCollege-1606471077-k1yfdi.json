@@ -1,0 +1,668 @@
+{
+  "sid": "k1yfdi",
+  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/",
+  "title:": "You have your own acceptance rate.",
+  "text": "The posted acceptance rate is not yours. Let me clarify what I mean by this.\n\nThat acceptance rate that universities post merely indicates how competitive it was. That doesn't mean that's your chances of getting in. \n\nThere is going to be someone applying who has a 0 percent chance of getting in, betting on that 30 percent acceptance rate.\n\nBut then again, there is going to be someone discouraged by that 5 percent acceptance rate, when in actuality, the chance of that specific person getting in could be 95%. \n\nBottom line: apply to Harvard. Yale. Duke. Your dream. Because you never know if your essay your parents hate will elicit tears from an AO. \n\nGood luck!",
+  "author": "mynameisjeff0704",
+  "created": 1606471077,
+  "updated": 1634077746,
+  "over_18": false,
+  "upvotes": 1685,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "gdrc2xm": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrc2xm/",
+      "text": "yes also applying to 10 colleges with 10% acceptance rate doesnt mean you get into at least one",
+      "author": "wertu1221",
+      "created": 1606479462,
+      "upvotes": 596,
+      "replies": {
+        "gdrjtio": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrjtio/",
+          "text": "True, it\u2019s (1-(.90)^10) = 65%. AP stat gang \ud83d\ude24\n\nEdit: it\u2019s all in good fun guys! Since individual admissions are not quantifiable, you really don\u2019t have an independent 10% chance at each university. Don\u2019t take it too seriously!",
+          "author": "yhtsr",
+          "created": 1606485386,
+          "upvotes": 454,
+          "replies": {
+            "gdrktya": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrktya/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1606486084,
+              "upvotes": 148,
+              "replies": {
+                "gdrl9xn": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrl9xn/",
+                  "text": "1 = 100%. (0.9) is the chance of not getting into a school with a 10% acceptance rate. Since each school is independent, the chance of all 10 schools not accepting you is (0.9)^10 (multiply by 0.9 for each school). Accordingly, if you want to get the chance of getting into at least one school, as opposed to the chance of getting ikr none subtract your result from 1 and there\u2019s your answer. It\u2019s not really a formula - you just have to think about it logically.",
+                  "author": "BeefyBoiCougar",
+                  "created": 1606486404,
+                  "upvotes": 142,
+                  "replies": {
+                    "gdrv7k3": {
+                      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrv7k3/",
+                      "text": "But each school isn\u2019t independent\n\nYour prior for how good a candidate you are decreases with every rejection and rises for every acceptance\n\nMeaning that if you get rejected 3 times by an Ivy, you\u2019re odds of getting into a different Ivy are less than ten percent because we have observations indicating you\u2019re not an acceptable candidate",
+                      "author": "44th_King",
+                      "created": 1606492615,
+                      "upvotes": 83,
+                      "replies": {
+                        "gdryva5": {
+                          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdryva5/",
+                          "text": "Exactly, I said the same to the guy who spoke about applying to jobs. I assumed the schools were independent to explain the probability calculation",
+                          "author": "BeefyBoiCougar",
+                          "created": 1606494644,
+                          "upvotes": 20,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "gds5ope": {
+                      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gds5ope/",
+                      "text": ">Since each school is independent,\n\nThe schools are independent... but the likelihood of being accepted is not. (Since rejection is based on YOUR application/stats... which are the same for each application.)",
+                      "author": null,
+                      "created": 1606497748,
+                      "upvotes": 12,
+                      "replies": {
+                        "gds6005": {
+                          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gds6005/",
+                          "text": "Perhaps you could try to analyze the context first, or at least other replies. Of course school aren\u2019t independent. If you\u2019re illiterate and don\u2019t get into the first five you most likely\nwon\u2019t get into the other five either. If you cured cancer and got into the first school you\u2019re likely to get into the rest. *However, for the purpose of explaining the probably calculation 1-(0.9)^10 I had to assume that schools are independent in that context*",
+                          "author": "BeefyBoiCougar",
+                          "created": 1606497902,
+                          "upvotes": 10,
+                          "replies": {
+                            "gdsa3de": {
+                              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsa3de/",
+                              "text": ">However, for the purpose of explaining the probably calculation 1-(0.9)  \n>  \n>10\n\nI though you were the poster suggesting that the formula was appropriate in the first place.",
+                              "author": null,
+                              "created": 1606499733,
+                              "upvotes": -8,
+                              "replies": {
+                                "gdsciys": {
+                                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsciys/",
+                                  "text": "No sir",
+                                  "author": "BeefyBoiCougar",
+                                  "created": 1606500808,
+                                  "upvotes": 3,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "gdrpohi": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrpohi/",
+                  "text": "It's just basic probability. taking away from 1 as 0.9 is chance of getting rejected per school (which is A'). reason this is done is because we need to count all the combinations of how you could get accepted, easiest way to do that is to consider the chance you will not be accepted. Ib math moment",
+                  "author": "RedditoDorito",
+                  "created": 1606489330,
+                  "upvotes": 16,
+                  "replies": {}
+                },
+                "gdrvnoz": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrvnoz/",
+                  "text": "Complement Probability.\n\nP(Specific Event Happening) = 1 - P(Specific Event NOT Happening).",
+                  "author": "CommieTheCapitalist",
+                  "created": 1606492868,
+                  "upvotes": 15,
+                  "replies": {}
+                },
+                "gdrss6s": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrss6s/",
+                  "text": "Binomial distribution",
+                  "author": "MemeFreak911",
+                  "created": 1606491212,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "gds88p4": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gds88p4/",
+              "text": "I self studied AP stats just last year now I don\u2019t remember anything \n\nStill got that 5 though",
+              "author": "ck614",
+              "created": 1606498913,
+              "upvotes": 8,
+              "replies": {}
+            },
+            "gdsp318": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsp318/",
+              "text": "Your dependent variable is logistic (or binary) in this case, not linear. The outcomes are limited to two possibilities, 1 or 0, and a linear model such as above would exceed the limit of the range of the data. \n\nP = (e ^(a + b X)) / (1 + e ^(a + b X))  or log(odds) = ln(P / (1 - P)) = a + b X\n\nBasically what is being reported as the statistic is the ratio of 1s (acceptances) to 0s (rejections) rather than a continuous curve of values. In other words, regression to the mean cannot be done as you cannot be partially admitted. So while the statistic of 65% in this case is reported, no applicant has that as an outcome; everyone has either 100% or 0%.\n\nTo account for the multiple variables you would use a logistic multiple regression model with a pretty unsightly form of:\n\n[This](https://imgur.com/a/6CnQgnk)\n\nbut to make it a bit more relatable to this example, it would be written something like:\n\n[This](https://imgur.com/a/A68uAK6) though more parameters could be added such as GPA(school1) GPA(school2) etc. Overall, I would probably derive the odds for each school in separate regressions, and then plug the odds ratios in as parameters for something like... Odds(school1)+Odds(school2)+...+Odds(schoolx)",
+              "author": "the_Q_spice",
+              "created": 1606507413,
+              "upvotes": 6,
+              "replies": {
+                "gdtj8ns": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdtj8ns/",
+                  "text": "I agree! just was making a fun joke",
+                  "author": "yhtsr",
+                  "created": 1606524617,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "gds5h4p": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gds5h4p/",
+              "text": ">True, it\u2019s (1-(.90)10) = 65%. AP stat gang \ud83d\ude24\n\nActually, since the acceptance rates at selective colleges are highly correlated -- rather than independent -- the likelihood of acceptance to at least one after applying to 10 is much closer to 10% than it is to 65%.\n\nAP Stat gang  \ud83d\ude1e\n\n&#x200B;\n\nPS - any of this includes the flawed assumption that acceptance to any college is a random variable. It is not.",
+              "author": null,
+              "created": 1606497646,
+              "upvotes": 9,
+              "replies": {
+                "gdsr3er": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsr3er/",
+                  "text": "Agreed. But a part of it is luck, which can be seen as randomness.",
+                  "author": "CommieTheCapitalist",
+                  "created": 1606508533,
+                  "upvotes": 1,
+                  "replies": {
+                    "gdssxwo": {
+                      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdssxwo/",
+                      "text": "> But a part of it is luck, which can be seen as randomness. \n\nJust because something feels like bad luck or is \"seen as randomness\" doesn't mean it is actually random.   In this case, it is not.  Unless you believe that there is a point in the admissions process at which the AO's put a bunch of applications into a barrel and choose x% at random or admit/deny applicants based on a coin toss.\n\nBut, even if there were some bit of \"luck\" or \"randomness\" in the process... that would necessarily come after an applicant had cleared all the other hurdles (SAT, GPA, ECs, Essays, etc)",
+                      "author": null,
+                      "created": 1606509554,
+                      "upvotes": 0,
+                      "replies": {
+                        "gdstr8i": {
+                          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdstr8i/",
+                          "text": "Yeah I mean the \"crapshoot\" is only really between competitive applicants that have already passed the academic treshold when there are a ton of insane students to choose from.\n\nAt this point, they go with their \"gut\"; as in, it comes down to the personal preferences of the specific AO. For instance, your application could be assigned to an AO that may or may not agree/vibe with your app. This subjectivity does introduce some sort of randomness - after all, AOs *are* randomly/algorithmically assigned to read your app.",
+                          "author": "CommieTheCapitalist",
+                          "created": 1606510004,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "gdt00c2": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdt00c2/",
+                  "text": "Take a joke my guy. don't be the \"actually...\" dude",
+                  "author": "yhtsr",
+                  "created": 1606513483,
+                  "upvotes": -1,
+                  "replies": {}
+                }
+              }
+            },
+            "gdsj4mn": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsj4mn/",
+              "text": "AP STATS GANGGGGGG",
+              "author": "FriendlyTheatreKid",
+              "created": 1606504121,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "gdrtvhb": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrtvhb/",
+              "text": "That\u2019s presuming that getting into one doesn\u2019t increase your chances at all of them which it does",
+              "author": "_Dvorak_Qwerty_",
+              "created": 1606491852,
+              "upvotes": 1,
+              "replies": {
+                "gdruef9": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdruef9/",
+                  "text": "It does?? Aren\u2019t college acceptances independent events?",
+                  "author": "-Apezz-",
+                  "created": 1606492154,
+                  "upvotes": 6,
+                  "replies": {
+                    "gdrvk2s": {
+                      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrvk2s/",
+                      "text": "They are independent in some sense - the outcome of 1 doesn't DIRECTLY affect the outcome of the other. \n\nYet, someone who gets into 1 ivy is *probably* going to have good stats which would give them a higher chance of getting into another top school. So I guess \"correlation doesn't imply causation\" applies here as much as anywhere.",
+                      "author": "CommieTheCapitalist",
+                      "created": 1606492812,
+                      "upvotes": 13,
+                      "replies": {}
+                    },
+                    "gdrvt7v": {
+                      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrvt7v/",
+                      "text": "Not really \n\nThey all use similar metrics to accept or reject a candidate\n\nIf you assume that there\u2019s an inherent college application value to each candidate - which their is based on stats, ecs, essays and what not - then all that\u2019s unknown is what this value is.\n\nThere\u2019s two types of uncertainty: one that\u2019s based on chance - for example flipping a coin - and one based on a lack of information - for example the likelihood that your local McDonalds ice cream machine is broken. College applications uncertainty is comprised largely of the latter, initially we don\u2019t really know how AOs will view us but as we get more observations we understand this better. That\u2019s why if you get into a T10, you feel more confident about getting into another one - now you have more information about how AOs view your application and uncertainty decreases.",
+                      "author": "44th_King",
+                      "created": 1606492953,
+                      "upvotes": 5,
+                      "replies": {}
+                    },
+                    "gdsal1v": {
+                      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsal1v/",
+                      "text": "> Aren\u2019t college acceptances independent events? \n\nThe schools are independent... but your application is the same for all 10.\n\nTherefore whether YOU get accepted or not to any of the 10 is highly correlated",
+                      "author": null,
+                      "created": 1606499953,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gdrk2gb": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrk2gb/",
+          "text": "It does in some cases. If you are qualified (stellar SAT/ACT, high GPA, Compelling essays) it is worth it to shotgun.",
+          "author": "CommieTheCapitalist",
+          "created": 1606485551,
+          "upvotes": 17,
+          "replies": {
+            "gdrkxbf": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrkxbf/",
+              "text": "Yes, in some cases, they're talking about how some think that statistically they are *guaranteed* to get into one",
+              "author": "MadScientist2854",
+              "created": 1606486151,
+              "upvotes": 4,
+              "replies": {
+                "gdrl42g": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrl42g/",
+                  "text": "Ah, then yeah. Even if you have a 1600, 5.0, 25 APs, URM, insane ECs, your chances are very high but still never 100%. That is the problem with statistics - everything is in terms of probability, no certainty.",
+                  "author": "CommieTheCapitalist",
+                  "created": 1606486287,
+                  "upvotes": 12,
+                  "replies": {}
+                },
+                "gds82wo": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gds82wo/",
+                  "text": "Well that is really a silly fallacy, and if you think like that, you've got no business being at an Ivy. You won't be a visionary with simpleton logic like that.",
+                  "author": "Thomaswiththecru",
+                  "created": 1606498840,
+                  "upvotes": -7,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gdrim8u": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrim8u/",
+          "text": "I've always used that logic when applying to jobs. Figure if I apply to 10, I'll likely hear from at least one of them.",
+          "author": "RackingUpTheMiles",
+          "created": 1606484581,
+          "upvotes": 14,
+          "replies": {
+            "gdrlgim": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrlgim/",
+              "text": "Surprisingly, there is only a 65% chance, although it\u2019s not so random. If you hear from your first one, you are well qualified and likely to hear from more whereas if you hear from none of the first five jobs, your chances for the next five are pretty low.",
+              "author": "BeefyBoiCougar",
+              "created": 1606486533,
+              "upvotes": 20,
+              "replies": {
+                "gdrmwha": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrmwha/",
+                  "text": "This. You shouldn't treat the cases as independent, so the actual chance is not 65%. Well written.",
+                  "author": "Berke6",
+                  "created": 1606487521,
+                  "upvotes": 12,
+                  "replies": {}
+                },
+                "gdrn6c0": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrn6c0/",
+                  "text": "I'll use my situation from a couple years ago. I couldn't find a job so I drove to a town an hour away and applied for detail or sales at every car dealership I drove by. I drove up there 2 days in a row. I probably did about 20+. From all of those, I probably heard from about 6 or 7. I got one job on the spot after applying. Worked there for nearly 2 years. What I'm saying is if you apply to a few, whether that be a school or a job, you have a better chance of hearing from one of them rather than if you just applied to one.",
+                  "author": "RackingUpTheMiles",
+                  "created": 1606487708,
+                  "upvotes": 2,
+                  "replies": {
+                    "gdrngnn": {
+                      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrngnn/",
+                      "text": "That\u2019s true, of course, but we\u2019re just correcting the logical fallacy that if you apply to 10 with a 10% acceptance rate you\u2019ll almost definitely get into one of them.",
+                      "author": "BeefyBoiCougar",
+                      "created": 1606487899,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gdspcb3": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdspcb3/",
+          "text": "We should all take a moment to recognize this comment thread as the one time that r/a2c actually showed its intelligence",
+          "author": "St0mb",
+          "created": 1606507556,
+          "upvotes": 10,
+          "replies": {
+            "gdsyf7d": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsyf7d/",
+              "text": "yes",
+              "author": "wertu1221",
+              "created": 1606512594,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gdu18jh": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdu18jh/",
+          "text": ":( so applying to 15 colleges with 10% acceptance rates doesn\u2019t give me a 150% chance of getting in somewhere??",
+          "author": "apad201",
+          "created": 1606536112,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "gds7pu4": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gds7pu4/",
+          "text": "Just apply to 10 schools with a 10% acceptance rate, and then 2 safety schools with a 75+% acceptance rate. 65% chance of getting into a 10% school, then virtually 100% for the safeties. No sweat.",
+          "author": "Thomaswiththecru",
+          "created": 1606498679,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gdrf15g": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrf15g/",
+      "text": "Well it goes the other way too. Never just apply to schools with a 5-20% acceptance rate no matter how good your stats are.",
+      "author": "Flavorful_Water",
+      "created": 1606481971,
+      "upvotes": 124,
+      "replies": {
+        "gdrs2h5": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrs2h5/",
+          "text": "yup because when schools are that selective there is quite a bit of luck involved.",
+          "author": "kdizzle098",
+          "created": 1606490785,
+          "upvotes": 37,
+          "replies": {}
+        }
+      }
+    },
+    "gdrk2hd": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrk2hd/",
+      "text": "I agree 100%. For instance, Lehigh has like a 20% percent acceptance rate, but if you do some more research, Lehigh's website says that out of the 3,377 people that applied with an SAT score of 1400-1490, 2,164 got in. This is about a 64% acceptance rate. So clearly, there are a lot of factors that may increase the acceptance rate for a specific person.",
+      "author": "APnerd12",
+      "created": 1606485552,
+      "upvotes": 103,
+      "replies": {
+        "gdt2afu": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdt2afu/",
+          "text": "This is so true! An Admissions Officer from Lehighpresented in a meeting 2 weeks ago in my school about universities, colleges, and just general questions. He told us specifically that acc rates aren't your chances of getting in.",
+          "author": "SolidColorsRT",
+          "created": 1606514753,
+          "upvotes": 10,
+          "replies": {}
+        },
+        "gdsg5tp": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsg5tp/",
+          "text": "> out of the 3,377 people that applied with an SAT score of 1400-1490, 2,164 got in. Does every college have something like this?",
+          "author": "7heGh0st",
+          "created": 1606502505,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "gdsc5jv": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsc5jv/",
+          "text": ">out of the 3,377 people that applied with an SAT score of 1400-1490, 2,164 got in.\n\nDoes every college have something like this?",
+          "author": "donopumpi",
+          "created": 1606500645,
+          "upvotes": 4,
+          "replies": {
+            "gdsrr7m": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsrr7m/",
+              "text": "the rare triple-post",
+              "author": "VerbNounPair",
+              "created": 1606508905,
+              "upvotes": 13,
+              "replies": {
+                "gdswy46": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdswy46/",
+                  "text": "Yo just noticed that",
+                  "author": "donopumpi",
+                  "created": 1606511781,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            },
+            "gdssix8": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdssix8/",
+              "text": "most colleges have this thing called an \u201cadmitted student profile\u201d which shows you what the middle 50% of last year\u2019s admitted students looked like. ~25% of students are under that range and ~25% are above.",
+              "author": "halsalmonella",
+              "created": 1606509326,
+              "upvotes": 6,
+              "replies": {
+                "gdsx48b": {
+                  "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsx48b/",
+                  "text": "I know that. I'm asking if there is info for how many students are admitted for each sat bracket",
+                  "author": "donopumpi",
+                  "created": 1606511874,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gdsc2jr": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsc2jr/",
+          "text": ">out of the 3,377 people that applied with an SAT score of 1400-1490, 2,164 got in.\nDoes every college have something like this?",
+          "author": "donopumpi",
+          "created": 1606500605,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "gdsc4db": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsc4db/",
+          "text": ">out of the 3,377 people that applied with an SAT score of 1400-1490, 2,164 got in.\nDoes every college have something like this?",
+          "author": "donopumpi",
+          "created": 1606500629,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gdrahh8": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrahh8/",
+      "text": "This is probably the most uplifting thing I've heard in a while. Thank you.",
+      "author": "november_lol",
+      "created": 1606477851,
+      "upvotes": 61,
+      "replies": {
+        "gdrmza4": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrmza4/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1606487574,
+          "upvotes": 68,
+          "replies": {
+            "gdrzxoo": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrzxoo/",
+              "text": "True",
+              "author": "november_lol",
+              "created": 1606495162,
+              "upvotes": 8,
+              "replies": {}
+            },
+            "gds8auc": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gds8auc/",
+              "text": "Well then they've got their hopes too high. And they also use fallacious logic. Not fit for an Ivy in the first place.",
+              "author": "Thomaswiththecru",
+              "created": 1606498940,
+              "upvotes": -13,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gds7xog": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gds7xog/",
+      "text": "I read this and was inspired and told this to my dad and he said \u201cbut your acceptance rate doesn\u2019t exist go do your physics homework\u201d \n\n\n\nWhat is my life",
+      "author": "ck614",
+      "created": 1606498776,
+      "upvotes": 24,
+      "replies": {}
+    },
+    "gdrla02": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrla02/",
+      "text": "Honestly, I don\u2019t feel safe with my dream school (higher tier state school) until I\u2019ve got the 100% personal acceptance rate, but that\u2019ll never happen, so I just gotta accept that all I\u2019ve got is higher than average chances to get in. But thank you for this post. Reminded me to stay grounded.",
+      "author": "thomaschutchins",
+      "created": 1606486406,
+      "upvotes": 23,
+      "replies": {}
+    },
+    "gds5rll": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gds5rll/",
+      "text": "I needed this so bad especially the \u201cessay your parents hate\u201d \ud83d\ude29\ud83d\ude29",
+      "author": "anniebananiehehe",
+      "created": 1606497788,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "gdrt9ki": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrt9ki/",
+      "text": "Nice post dude, I agree with you. All we need is to spread positivity at this point of time! All the best!",
+      "author": "x80lh",
+      "created": 1606491504,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "gdsfw2r": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsfw2r/",
+      "text": "Ah so I have a 0% chance of getting into my schools. Cool.",
+      "author": "Tyler89558",
+      "created": 1606502355,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gds6jy9": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gds6jy9/",
+      "text": "YOOO This is SO motivational, thank youuuu <333",
+      "author": "thenotesandi",
+      "created": 1606498158,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "gdriimq": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdriimq/",
+      "text": "Yes, exactly. People really need to stop looking at the acceptance rate when choosing schools to apply to. Theres schools with very high acceptance rates that have very high standards and vise versa.",
+      "author": "Jmh1881",
+      "created": 1606484518,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gdsl2ra": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsl2ra/",
+      "text": "Nowadays too, getting accepted is easy(unless a top of the line school) the real challenge is getting meaningful scholarships.\n\nBtw don't get caught up on the amount a school offers you in scholarships. A 60k a year school offering 30k in scholarships costs the same as a 30k a year school. Many times the cost of a school is just a gmimick to make them more appealing in the market when they offer scholarships. So please dont fall for it.",
+      "author": "thomasrat1",
+      "created": 1606505197,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gdsqr8y": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsqr8y/",
+      "text": "Damn man the %s for me getting in with the GPA I have were showing 75% to 95% but now you got me worried",
+      "author": "s1ddB",
+      "created": 1606508345,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gdssfjq": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdssfjq/",
+      "text": "holy crap you can write well",
+      "author": "y33tyeetyeet",
+      "created": 1606509275,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gdsezpj": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsezpj/",
+      "text": "I love this, thank you!",
+      "author": "swift-aasimar-rogue",
+      "created": 1606501894,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gdsnjb3": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsnjb3/",
+      "text": "really needed this today. thank you :)",
+      "author": "RaccoonIdiot",
+      "created": 1606506553,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gdstpvl": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdstpvl/",
+      "text": "I think it\u2019s the combo of acceptance rates and application fees. Most of my Ss have limited $ and thus often don\u2019t want to end up lying large fees for rejection letters when those fees could be their electric bill or food bill or gas bill for their family....",
+      "author": "chemteacher07",
+      "created": 1606509982,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gdu6gsx": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdu6gsx/",
+      "text": "damn these stats people are confusing LOL",
+      "author": "ExoticPig",
+      "created": 1606539752,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gdw4riu": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdw4riu/",
+      "text": "Yeah mines way lower than the avg...",
+      "author": "Blaze00211",
+      "created": 1606583150,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gdyhcg9": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdyhcg9/",
+      "text": "This sounds like something an r/chanceme kid would say",
+      "author": null,
+      "created": 1606612531,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gdskf5m": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdskf5m/",
+      "text": "are people this stupid they need to hear this",
+      "author": "evanschmevan123",
+      "created": 1606504837,
+      "upvotes": 0,
+      "replies": {
+        "gdslh2d": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdslh2d/",
+          "text": "I know I am :)",
+          "author": "killuax_",
+          "created": 1606505413,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "gdrzmf5": {
+      "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdrzmf5/",
+      "text": "You either have a 0 or 100% chance at acceptance from the get go. This is because the preset circumstances (your resume, the applicant pool, the admissions officers who will review your resume) are all there.",
+      "author": "goobagibba",
+      "created": 1606495019,
+      "upvotes": -3,
+      "replies": {
+        "gdsrd0b": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdsrd0b/",
+          "text": "not really - there is some element of chance involved in who will read the application, how they'll be feeling at the time, whether yours will be read directly after an amazing application or a terrible one",
+          "author": "sapphireruby2021",
+          "created": 1606508683,
+          "upvotes": 10,
+          "replies": {
+            "gdxmoub": {
+              "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdxmoub/",
+              "text": "That is true that small factors like that are present, but those factors are only justified by the circumstances that precede them. A certain population of people are going to apply, that population will be arranged for review in accordance to university methods, and each application will be assigned for review by a specific person/people. And those people (AO's) are going to, up to that point, have lived enough life to where their biases, beliefs, and outlook are shaped and solid. That person's reaction, ultimately, will be justified by the myriad circumstances that have come before, and that final decision is already in motion. \n\nAcceptance rate, whether in relation to the basic results of prior years, or one's own, educated guess with regard to a complete resume, is invalid and only useful to receive some kind of piece of mind. That's why economists and pollsters are unreliable in achieving a clear-cut result, because the mathematical formulas they use don't take into account EVERY factor involved, and as of right now, they can't. \n\nLastly, me saying that your result is basically set is like me saying that calculating the Earth's acceleration due to gravity as 9.81 m/s\\^2 is inaccurate. That's true, but what's rounded off is so small and insignificant that it's useless to gripe over. In the same way that it's useless for us (in this current day and age) to worry about considering EVERY factor on the table. It's just too much work that we can't even do.",
+              "author": "goobagibba",
+              "created": 1606601832,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gdu88yu": {
+          "link": "/r/ApplyingToCollege/comments/k1yfdi/you_have_your_own_acceptance_rate/gdu88yu/",
+          "text": "If you believe in destiny/predeterminism, this is true.",
+          "author": "Frostbrine",
+          "created": 1606541080,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

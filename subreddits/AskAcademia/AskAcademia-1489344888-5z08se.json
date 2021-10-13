@@ -1,0 +1,1175 @@
+{
+  "sid": "5z08se",
+  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/",
+  "title:": "Female students perform significantly worse in my courses",
+  "text": "I teach math at an R1 university.  The class I'm teaching now has 45 students, about 40% female.  After grading their midterm, I noticed that only 3 female students made A's whereas 12 male students did.  Curious as to whether this was just a fluke, I checked my grade rosters from previous semesters to find that female students are far less likely to earn an A in my class than male students.  It's unlikely that this is a subconscious bias on my part because I don't even look at names while grading exams.  In fact, the way I grade exams would make it impossible.  I grade problem 1  for all students first, then problem 2, etc.  The exam packet is folded while I'm grading, so I can't see the front page where names are written.  Most homeworks are graded automatically on the computer.\n\nI don't know the source, but I've heard from other colleagues that female students at my university actually tend to outperform male students on average, so my course is somewhat of an anomaly.\n\nIs this something I should be concerned about?  Does anyone else see a consistent bias in the grades they assign and is there anything you do anything about it?  I can't think of anything I could do differently in my case.\n\nThis also makes me wonder how faculty in the humanities, etc avoid sub-conscious bias when grading essays/papers, etc for which it might be impossible to remain ignorant to the students' gender, race, etc.",
+  "author": null,
+  "created": 1489344888,
+  "updated": 1634081199,
+  "over_18": false,
+  "upvotes": 154,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "deujwen": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deujwen/",
+      "text": "I think knowing the \"type\" of math class is really important when looking at this situation. Is this a gen. ed class that several majors take, or is it a second or third year math class where it's physics/math majors, is there a \"math education\" stream where students are doing math degree concurrent to an education degree? \n\nI'm TAing the non-proofs based algorithms class that engineers and bioinformatics students take. The bioinformatics program is more competitive to get into and has closer to 50/50 girls, plus they take this as a third year course. Engineers take it as a second year course, and I think this is scheduled as an overload semester for a lot of them (so they have to take 6 classes). On average the girls do better, but more accurately the bioinformatics students are outperforming the engineering students. Similarly, in undergrad I saw a stats course with the opposite situation: males were outperforming females, but in this case you had bio students (70/30 female), nutrition students (90/10 female), and engineering (70/30 male) students taking the class. ",
+      "author": null,
+      "created": 1489360172,
+      "upvotes": 85,
+      "replies": {
+        "deurkj6": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deurkj6/",
+          "text": "I want to reiterate this - could totally be what's known as Simpson's Paradox. If you break the grades down by major, you may find that females outperfom males within each major, but the more female-dominated majors score lower in general.",
+          "author": "knockturnal",
+          "created": 1489371054,
+          "upvotes": 74,
+          "replies": {}
+        },
+        "dev7wx5": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev7wx5/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1489408173,
+          "upvotes": 17,
+          "replies": {
+            "devm3o5": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devm3o5/",
+              "text": "Anecdotally, when teaching proof-based math courses for math majors, the female students tend to do better on average, but there are far fewer of them. My working hypothesis: the various obstacles to being a female student in a male-dominated subject lead more of the weaker students to switch out, leaving more dedicated female students on average.",
+              "author": null,
+              "created": 1489426900,
+              "upvotes": 12,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "deuxkq7": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuxkq7/",
+      "text": "I remember my first \"real\" college math class.  I'd never taken anything like that before, never really done proofs.  I was one of only a few women, and the first day the other students all seemed *so* engaged.  They were asking questions fluently in a language of mathematics that I was just struggling to understand.  It felt like the other students knew it all already, and I was very intimidated.  I didn't want anyone to know how dumb and far behind I was, so I always worked on the problem sets alone.\n\nIt actually wasn't until years later in my first semester of graduate school (not math), I mentioned feeling a similar way in my classes and my professor explained: those students who speak so confidently - a lot of them are speaking this jargon for the very first time.  They are trying on the mathematician (or scientist, engineer, etc) hat, to see how it feels. And I could do that too - there's no entry fee.\n\nLooking back it seems obvious, but as an undergraduate student, it really wasn't.  You probably can't take every student aside and explain it to them, but I wonder what the atmosphere is like in your lectures and the recitations.  Are just a few eager students dominating the questions and discussion?  Do students feel comfortable taking risks and making mistakes?  Do you ever talk to the class about how this stuff can be really hard, and it's okay if it feels hard?  Make sure your class is a place where students don't feel like they have to pay an entry fee.\n\nOutside of that, blind intervention targeting poor performers in the early semester can help all under-privileged students.  Can you offer to meet individually with every student who doesn't do well on the first exam?  Find out if they need better study skills or just encouragement or who knows.",
+      "author": "intirb",
+      "created": 1489380709,
+      "upvotes": 42,
+      "replies": {}
+    },
+    "deue0jd": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deue0jd/",
+      "text": "Just some thoughts to consider/questions that may be worth asking yourself:\n\nDo you work with TAs? Is there a discussion section for your course? Is there a possibility that men and women participate/attend discussions and TA office hours (if those exist in your course) in different ways/at different levels?\n\nIs it possible the men tend to work on the problem sets/study for the exams together while the women experience the class in a more isolated fashion? This could be a result of women feeling more socially marginalized in male dominated fields like math. i.e., women don't feel as welcome in the math dept lounges or other areas where ideally collaboration and peer instruction would happen organically. Though I'm not sure how this jibes with your fellow instructors observations on male v. female performance at your uni. Are the courses you've observed this phenomena in for math majors v. theirs maybe being more general (or vice versa!)?\n\nDo you do group work in class/outside of class? Does it ever happen that a woman ends up in a group with all men (or vice versa)? Students in these situations tend to perform worse. \n\nDo the questions from problem sets/exams/in-class examples/textbooks have any gender bias that might be worth considering?\n\nIt's a good step that you're thinking about these issues and if you do some digging you will find they are prevalent but sometimes hard to suss out. That does not mean it's not worth trying and that you can't make a difference!",
+      "author": "rudiecantfail",
+      "created": 1489352517,
+      "upvotes": 184,
+      "replies": {
+        "deuebkq": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuebkq/",
+          "text": "THIS IS HUGE!!! Most of my male STEM friends have study groups. Most of my female STEM friends do not. I personally know a lot of women who really like discussion sections and find them super helpful. ",
+          "author": "idislikekittens",
+          "created": 1489352917,
+          "upvotes": 104,
+          "replies": {
+            "deueyet": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deueyet/",
+              "text": "Interesting side-note; this is the very reason Piazza was created by its founder.\n\nI HIGHLY suggest OP (and anyone else for that matter) look into Piazza. It's a platform for student collaboration. It's a really useful tool for mitigating the study group bias.",
+              "author": "theoneandonlypatriot",
+              "created": 1489353754,
+              "upvotes": 39,
+              "replies": {
+                "deujlrf": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deujlrf/",
+                  "text": "I've used Piazza (as a student) for several math and physics classes. Have to say I really do love the tool. I have never been a fan of working in a group with people in person. There always feels like there is a lot of pressure. Piazza on the other hand let's me work at my own pace while still being able to confer with others about a tough problem.",
+                  "author": "Slacker5001",
+                  "created": 1489359762,
+                  "upvotes": 24,
+                  "replies": {}
+                },
+                "devgy2s": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devgy2s/",
+                  "text": "I didn't know this! [Interesting interview with the founder.](https://www.gsb.stanford.edu/insights/pooja-sankar-using-technology-remove-barriers)\n",
+                  "author": "SurprisinglyApropos",
+                  "created": 1489421107,
+                  "upvotes": 1,
+                  "replies": {}
+                },
+                "dew7wgq": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dew7wgq/",
+                  "text": "oh wow thank you for the suggestion, will look into it!",
+                  "author": "idk11111111111111111",
+                  "created": 1489452004,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "dev25l4": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev25l4/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1489391517,
+              "upvotes": 20,
+              "replies": {
+                "dev4nyu": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev4nyu/",
+                  "text": "If we're going with acedotes (not to single you out, pretty much everything in this thread had been just that), I have had the same experience as you. Unrelated I also notice the best students work alone.  But so do the worse. I think a lot of students that are middling attribute their success to group work and would fall on the terrible end on their own.  ",
+                  "author": "Mobikraz",
+                  "created": 1489399547,
+                  "upvotes": 16,
+                  "replies": {}
+                }
+              }
+            },
+            "dewneob": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dewneob/",
+              "text": ">This could be a result of women feeling more socially marginalized in male dominated fields like math. i.e., women don't feel as welcome in the math dept lounges or other areas where ideally collaboration and peer instruction would happen organically. Though I'm not sure how this jibes with your fellow instructors observations on male v. female performance at your uni. Are the courses you've observed this phenomena in for math majors v. theirs maybe being more general (or vice versa!)?\n\nSomewhat relevant anecdote, since this whole thread is anecdote central I feel that's alright?\n\nI grade for a *massively* female-dominated STEM field where a given cohort is typically ~92% female, and even on the most math/chemistry-heavy assignments the female students typically don't seem to struggle any more than the men, and frequently will out-perform them. I think when discussing women's performance in STEM there's *a lot* of attention that must be paid to variables that are more social in nature on both a program-level and a societal level, variables beyond innate ability.",
+              "author": "AtomikRadio",
+              "created": 1489477154,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "deug7y5": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deug7y5/",
+          "text": "Thanks!  That's all really helpful.",
+          "author": null,
+          "created": 1489355354,
+          "upvotes": 21,
+          "replies": {
+            "deup91k": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deup91k/",
+              "text": "Of course! And my random list is, of course, not comprehensive, but I hope it gives a flavor of the kind of questions you may want to ask.",
+              "author": "rudiecantfail",
+              "created": 1489367728,
+              "upvotes": 8,
+              "replies": {}
+            }
+          }
+        },
+        "deuslu5": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuslu5/",
+          "text": "> Do you work with TAs? Is there a discussion section for your course? Is there a possibility that men and women participate/attend discussions and TA office hours (if those exist in your course) in different ways/at different levels?\n\nIs it the Prof's responsibility to manage who comes to office hours and who doesn't? What is he supposed to do, say at the beginning of class 'I would really encourage the women especially to come to my office hours?' He already noted that he holds hours and the women who are doing poorly do not seek his aid. \n\n> Is it possible the men tend to work on the problem sets/study for the exams together while the women experience the class in a more isolated fashion? This could be a result of women feeling more socially marginalized in male dominated fields like math. i.e., women don't feel as welcome in the math dept lounges or other areas where ideally collaboration and peer instruction would happen organically. Though I'm not sure how this jibes with your fellow instructors observations on male v. female performance at your uni. Are the courses you've observed this phenomena in for math majors v. theirs maybe being more general (or vice versa!)?\n\nAgain, how is the Prof supposed to manage how students form study groups outside of class? Does he make a note at the beginning of class that 'Many of my male students form study groups, so I encourage the women to do that too?' I'm not trying to be absurd here, but frankly the idea that the professor does or could influence the social study patterns of his students is also absurd. \n\n> Do you do group work in class/outside of class? Does it ever happen that a woman ends up in a group with all men (or vice versa)? Students in these situations tend to perform worse.\n\nI can see a point here somewhat. It is by far the most valid point you have raised in this thread. \n\n> Do the questions from problem sets/exams/in-class examples/textbooks have any gender bias that might be worth considering?\n\nAnother absurd one. In a math class? Come on. Even if all the questions only had men in them, do you really think this could explain an disparity on the magnitude this Prof has described? \n\n",
+          "author": null,
+          "created": 1489372607,
+          "upvotes": -22,
+          "replies": {
+            "deusvnf": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deusvnf/",
+              "text": "If you really think that those issues are intractable and/or outside of the bounds of a professor and/or a department then I'm not sure you have much helpful advice to contribute to this conversation. I'm not asking professors/departments to be social matchmakers but to foster an open, inclusive environment for all students. A goal I believe is very worthy of any academic department.\n\nThat you would dismiss my last point as entirely absurd seemingly speaks to a particular viewpoint that turns a blind eye to systemic biases in the way pedagogy is constructed. This isn't always the case and the degree to which it is an issue is variable but to dismiss even the possibility outright is unfortunate.\n\nEDIT: one can address any of the questions I offered and I personally believe the solutions are appropriate and within reach for just about any educator who cares to implement them.\n\nEDIT 2: is your answer just \"he/she has clearly already done everything he/she can and there are no ways to address to this societal problem\"? I feel that my training as a scientist has made me skeptical of the status quo and received wisdom. I will not accept that this is just the way things are. I also feel optimistic and that as knowledge improves, new solutions can be formulated and appropriate change can be made at any/every level. To me, these beliefs are intertwined with my identity as a scientist.\n\nI'm sure we'll have to agree to disagree and I wish you the best.",
+              "author": "rudiecantfail",
+              "created": 1489373015,
+              "upvotes": 55,
+              "replies": {
+                "deutyej": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deutyej/",
+                  "text": "Really not sure what fostering an 'open, inclusive environment' has to do with influencing the study groups and office hour attendance of female students, but alright then. ",
+                  "author": null,
+                  "created": 1489374656,
+                  "upvotes": -16,
+                  "replies": {
+                    "deuu9d3": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuu9d3/",
+                      "text": "Then I'm honestly not sure you're engaging critically with the situation. Do you really think there's nothing a professor/teaching staff/the department can do to encourage/influence attendance in discussion sections or office hours or study groups? And that these elements don't affect learning outcomes for students? For everyone, not just women. But I think there's a possibility that women (and/or other possibly marginalized groups/students) could have extra gains from positive reforms of that nature. And the research bears that out. \n\nIf you're interested, I'd recommend the book [Unlocking the Clubhouse](https://mitpress.mit.edu/books/unlocking-clubhouse) about the reforms undertaken by the CS dept at Carnegie Mellon which yielded positive learning outcomes for all students, but especially for women.",
+                      "author": "rudiecantfail",
+                      "created": 1489375128,
+                      "upvotes": 38,
+                      "replies": {
+                        "deuuoun": {
+                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuuoun/",
+                          "text": "You're throwing around words like \"engaging critically\" when really what you mean is \"why don't you agree with me.\" I'm fully engaging with your argument. Frankly I just don't think it's a good one. I've already asked you, in a previous comment, how professors are supposed to increase female attendance at their office hours or rearrange the composition of student-run study groups. You haven't provided any answers. I don't doubt that women might gain something from attending office hours or having their own study groups. I simply doubt that the Professors, specifically, have any ability to render that reality. Women who are struggling need to attend office hours or create their own study groups. If they aren't, that isn't the professors fault. We can have a logical conversation about getting women involved in STEM at a young age etc., but that conversation hasn't been happening anywhere in this thread. ",
+                          "author": null,
+                          "created": 1489375797,
+                          "upvotes": -5,
+                          "replies": {
+                            "deuvdxi": {
+                              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuvdxi/",
+                              "text": "Limiting our disagreement to one example: I'm still not convinced you are engaging critically in the reasons why students (and sometimes especially women) don't participate in office hours/discussions/study groups. Once one engages with these underlying systems, practical solutions can be devised. Things aren't always just the way they are. Sometimes there are reasons and those reasons are worth examining. You seem to be positing that childhood development and social pressure is the main/only underlying cause and is unaddressable at the university level. I disagree and I believe there are good arguments and research to back up my point of view.\n\nPlease read the book I've recommended if you are truly interested in the (long) answers to some of your questions. Professors/teaching staff/departments can (and do) increase attendance/engagement in learning activities outside of lecture time. It is a benefit to ALL students but especially to women who get a chance to make up for their (possible) previous underrepresentation. \n\nEDIT: I can understand your frustration that I am not spelling out solutions to the questions I posed. But my point is more that there are questions worth asking and assumptions worth interrogating to get to the bottom of an observed gender difference in learning outcomes. Once the issues are defined, the possible solutions should be tailored to any number of factors. There are no one-size-fits-all issues with clear solutions. However, the book I recommended previously (Unlocking the Clubhouse) is a great study of the particular solutions devised by the CMU CS department and the great learning outcomes they saw as a result.",
+                              "author": "rudiecantfail",
+                              "created": 1489376895,
+                              "upvotes": 23,
+                              "replies": {
+                                "deuw86g": {
+                                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuw86g/",
+                                  "text": "[removed]",
+                                  "author": null,
+                                  "created": 1489378278,
+                                  "upvotes": 12,
+                                  "replies": {
+                                    "deuy3w5": {
+                                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuy3w5/",
+                                      "text": "[removed]",
+                                      "author": null,
+                                      "created": 1489381744,
+                                      "upvotes": -8,
+                                      "replies": {
+                                        "dev0mcc": {
+                                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev0mcc/",
+                                          "text": "[removed]",
+                                          "author": null,
+                                          "created": 1489387312,
+                                          "upvotes": 6,
+                                          "replies": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "deuy3rv": {
+                                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuy3rv/",
+                                  "text": "I'm female and going back for a degree in radio broadcasting which is male dominated. My professors don't give me special treatment - not like I want it - but they specifically invite me to attend certain workshops or meetings that would help me skills-wise. They even throw in casually that they want the girls of the program to show up because they don't want them to feel like this is a boy's club. All of the girls outperform 90% of the boys academically but it's the boys on the equipment so the professors make the effort to tell the girls to assert themselves on the boards/etc. I think it helps a lot, so I think that finding a way to stress for the girls to be around/more active while not making it seem like they're targeted would be beneficial. ",
+                                  "author": "justrudeandginger",
+                                  "created": 1489381737,
+                                  "upvotes": 14,
+                                  "replies": {
+                                    "dev54ce": {
+                                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev54ce/",
+                                      "text": "> My professors don't give me special treatment - not like I want it - but they specifically invite me to attend certain workshops or meetings that would help me skills-wise.\n\nI think this is one of the huge sources of disparity for the \"social\" side of academia. Without realizing it, instructors may invite certain people (read: white men) to office hours, talks, collaborations, etc. at a disproportionate rate.\n\nBeing \"restrained neutral\" toward this problems is just asking for the biases to run rampant.",
+                                      "author": "Bananasauru5rex",
+                                      "created": 1489400997,
+                                      "upvotes": 8,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "deutlzm": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deutlzm/",
+      "text": "One thing that might be helpful to do is make a survey that could have questions that might give some insight to student behavior. Things like major, previous courses in math, what they expect to get in the course, studying style, etc. Maybe there's a hidden pattern there that doesn't obviously prescribe to gender",
+      "author": "ZombieRickyB",
+      "created": 1489374124,
+      "upvotes": 12,
+      "replies": {}
+    },
+    "devj8g4": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devj8g4/",
+      "text": "It is difficult to say for certain, but it might be useful to ask yourself how you (and your TA's) respond to female students in general. The reason I mention this is that gender discrepancies are so deeply ingrained that they often go unnoticed. \n\nI will provide an anecdote that may illuminate my meaning. I am a female math major. I took calc I with a male professor and usually scored 80-90 on exams. Afterwards, I took calc 2, with a female professor and scored much higher. This is in spite of the fact that I found calc 2 to be more difficult. \n\nIf I had to guess why, I would say it was because she pushed me. For example, I remember one exam where I had been battling with a difficult problem. I was tired and hungry and was willing to call it a day so I walked up to give her the exam. The problem was still bothering me though so I decided to ask a quick question, hoping for a typo. There wasn't one of course and I was fully prepared to hand it over but then she asked if I was going to go back and give it another try. Her question was accompanied by a look of such hopeful expectation that I couldn't bring myself to turn it in without trying one last time. So, not really caring about the 10 extra points but not wanting to disappoint, I went back to my seat and gave it another shot. I got it a few minutes later and scored a 100% on that exam.\n\nIt may be little things like this that cause the discrepancy. Perhaps female students are given the impression that less is expected of them? I can almost guarantee that this has been the case at some point in the past. In fact, I would be curious to see if you still notice a discrepancy in semesters where you have had a female TA.",
+      "author": "AFK_Pikachu",
+      "created": 1489423708,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "deulu1d": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deulu1d/",
+      "text": "Good for you for looking into this!\n\nIt sounds like you have only anecdotal evidence that female students at your university tend to outperform male students.  If you're going to investigate further it would be nice to have some hard statistics about male vs. female student performance in your department.\n\nIt might also be interesting to read student evaluations from previous years and see if any of them contain any clues about what might be going on.\n\n",
+      "author": null,
+      "created": 1489362829,
+      "upvotes": 12,
+      "replies": {}
+    },
+    "devbhen": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devbhen/",
+      "text": "Could it be that the ladies weren't encouraged to take more rigorous math courses in HS? This was definitely my case. I'd been told since age 12 that boys were \"just better\" at math. Most subjects came naturally to me, so the second I struggled in math I chalked it up to being a girl and assumed I'd never get better. ",
+      "author": "kayelar",
+      "created": 1489414215,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "deuugce": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuugce/",
+      "text": "I just got done reading an engineering education research paper about how engineering (likely math as well) is a masculine gendered educational field with masculine culture / ways of knowing / ways of learning central to their very foundation (epistemology and pedagogy). Issues like this can be systemic. The paper found that women far out performed in contextualizing engineering problems (society, environment, etc) whereas the men hyper-focused on technical design and budget. Guess which one of those two context fields is heavily graded and valued in engineering education?? (...the latter, in case you couldn't guess)\n\nMight not hold relevance to your field, but just knowing that there are so many structural factors to gender imbalances in higher ed that extend from K-12 to mass media and beyond.",
+      "author": null,
+      "created": 1489375435,
+      "upvotes": 10,
+      "replies": {
+        "dewl3q2": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dewl3q2/",
+          "text": ">Guess which one of those two context fields is heavily graded and valued in engineering education??\n\nFrom what I understand, in Canada at least, engineering was established as a profession due to a major bridge collapsing due to poor design. Project management and technical design is what engineers do, that's like asking a carpenter to contextualize the house they're building within society when they should be focusing on whether or not a door frame is properly set up.",
+          "author": null,
+          "created": 1489471438,
+          "upvotes": 5,
+          "replies": {
+            "dewt3dt": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dewt3dt/",
+              "text": "As an engineer, it is this thinking that has made the profession a pile of turds. \n\nI don't think you understand contextualization of concepts. You wouldn't design a house the same in Albuquerque, New Mexico as you would Stalingrad, Russia for factors technical, budgetary, as well as cultural, societal, and we always gotta consider environmental. The 'all or nothing' approach you listed is bad, bad engineering. \n\nedit: a way better example and the example used in the study I am referring to and was too tired to type about in the middle of the night is known as the Mississippi Flood problem where students are set aside to ask how they would design retaining walls along the mississippi to prevent major flooding, and to write all the factors which need to be considered. Women are more likely to have a larger range of considerations such as context, *and yes the engineers in the article say that this is a strength and is good engineering*. Arguing against this research's validity and assertions is part of the problem within engineering, not the solution.\n\nKilgore, D., Atman, C. J., Yasuhara, K., Barker, T. J., & Morozov, A. (2007). Considering Context: A Study of First-Year Engineering Students. Journal Of Engineering Education, 96(4), 321-334.",
+              "author": null,
+              "created": 1489493486,
+              "upvotes": 10,
+              "replies": {
+                "dex118a": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dex118a/",
+                  "text": "Well first off, what you described is an architecture problem, or even city planning (since they'd be the ones determining a lot of zoning laws that would take the environmental/societal factors into account). I just see engineers as professionals with a relatively well defined role, while some engineering profs I've met really want engineers at the centre of every project in every industry- which is how you end up with dumpster fires like software \"engineering\".",
+                  "author": null,
+                  "created": 1489505182,
+                  "upvotes": 4,
+                  "replies": {
+                    "dex6usv": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dex6usv/",
+                      "text": "This feels like a classic example of women being constantly questioned, viewed as not right, and devalued within engineering. Myself and the researchers suggested that a broader contextual engineering problem view (that studies find women are better at) is a skill that the field needs to value more - not a highly debated view in my career before I got on reddit and talked about it. \n\nA narrow engineering problem focus fails to consider more factors than a broad understanding - and it is teared down as either 'not real engineering' (to consider further beyond budget and technical???) or as bad/wrong because I just associated it with women. If I didn't bring up a gender gap that male engineers lack in, would it have gotten this response? \n\nThe gap between engineering education researchers like myself and those who aren't engineers / those who haven't thought critically about the field is so wide. \n\nHow I can't wait for a guy to say \"Wow, cool, you're right\"",
+                      "author": null,
+                      "created": 1489511707,
+                      "upvotes": 8,
+                      "replies": {
+                        "dexc5yw": {
+                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dexc5yw/",
+                          "text": "This just reads like the classic engineer's chauvinism that insists on broadening the scope of engineering to the point where every decision must be made by an engineer.",
+                          "author": null,
+                          "created": 1489517580,
+                          "upvotes": 1,
+                          "replies": {
+                            "dexiejh": {
+                              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dexiejh/",
+                              "text": "You aren't reading. Engineering problems *considering the context of the surrounding society, culture, and environment* is not making every decision made by an engineer, or anything close to it. ",
+                              "author": null,
+                              "created": 1489524546,
+                              "upvotes": 6,
+                              "replies": {
+                                "dexjzma": {
+                                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dexjzma/",
+                                  "text": "So, expanding the scope of the engineer's role. It's funny though, if always associated this sort of chauvinism with the sexism in engineering, its interesting to see that it's orthogonal.",
+                                  "author": null,
+                                  "created": 1489526319,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "dexkk04": {
+                                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dexkk04/",
+                                      "text": "No, expanding what they think about and consider when designing the bridge. The end result is still a bridge.",
+                                      "author": null,
+                                      "created": 1489526948,
+                                      "upvotes": 3,
+                                      "replies": {
+                                        "dexnq3k": {
+                                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dexnq3k/",
+                                          "text": "Because only engineers can do any thinking related to that project.",
+                                          "author": null,
+                                          "created": 1489530672,
+                                          "upvotes": 2,
+                                          "replies": {
+                                            "dextxc6": {
+                                              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dextxc6/",
+                                              "text": "*sigh*",
+                                              "author": null,
+                                              "created": 1489538455,
+                                              "upvotes": 2,
+                                              "replies": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "dex61a8": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dex61a8/",
+                      "text": ".....Have you ever heard of the architectural engineering field, major, discipline, and study?\n\nedited my middle of the night post to have more detail into the paper I was referring to. Are you an engineer, or perhaps studying engineering education, engineering identity, engineering culture, historical development of engineering? A good primer is to read Engineering and Social Justice by Donna Riley. A great textbook by a great engineer. I have a free pdf copy if you are genuinely interested in the field's cultural issues (masculine centered values, narrow perception of engineering, devaluation of women engineers, etc).",
+                      "author": null,
+                      "created": 1489510800,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "devoqdt": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devoqdt/",
+      "text": "this could just be randomness, your sample size is too small to make a claim with enough confidence",
+      "author": "Aftermath12345",
+      "created": 1489429786,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "deu8q0x": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deu8q0x/",
+      "text": ">The class I'm teaching now has 45 students, about 40% female. After grading their midterm, I noticed that only 3 female students made A's whereas 12 male students did.\n\n>Curious as to whether this was just a fluke, I checked my grade rosters from previous semesters to find that female students are far less likely to earn an A in my class than male students.\n\nI want to point out something very important here, something very obvious, that you don't address at all in your post. These observations are the *outcomes*, the apparent surface matter, that you describe. Have you considered what factors might be playing a role in the entirety of the classroom experience (not to mention out-of-class experiences) that these women undergo and how that compares with the range of experiences the men undergo, and how all of this *produces* a specific set of \"performances\" (the barest surface of which is reflected by those grades you notice)?\n\nIn other words, I am referring to the well-documented and growing body of literature, scholarly and otherwise, that points to entrenched expectations, patterns of behavior, pedagogical models/relations, and just general social relations that we, most of us, uphold and perpetuate as everyday norms, which in fact reinforce and deepen sexual divisions and otherwise pose unequal burdens for white/male students versus female/of color/first generation students.\n\nNow you may of course dismiss this as bullshit. I'm sorry for you if you feel that way. Things are changing and this is no mere bullshit. Or, you may want to look at those elements which are simply not accounted for in a survey of grades.\n\nIt's not about whether you have internal biases. It's about patterns you may not even be conscious of. You're looking at grades and clearly noting your \"blindness\" toward the student's sex. I'm asking whether you should actually be less blind and consider what leads up to the final exam/midterm/etc.\n\nEspecially given that you teach at a major R1 institution, where these issues are even more pertinent.",
+      "author": "PhD_sock",
+      "created": 1489345345,
+      "upvotes": 30,
+      "replies": {
+        "deubc2d": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deubc2d/",
+          "text": "> I want to point out something very important here, something very obvious, that you don't address at all in your post. These observations are the outcomes, the apparent surface matter, that you describe. Have you considered what factors might be playing a role in the entirety of the classroom experience (not to mention out-of-class experiences)\n\nI have!  Indeed, the original intent of this post was to ask for advice on how to identify any of those factors that I have control over changing.  Sorry if that didn't come across more clearly.\n\nIn terms of \"classroom experience\" all I do is lecture.  Outside of the classroom, I hold office hours, but few students attend them.  Otherwise, I don't really interact with the students.\n\nI would hate it if I was discouraging young women in my courses, but I don't know what I can do differently!\n",
+          "author": null,
+          "created": 1489348934,
+          "upvotes": 53,
+          "replies": {
+            "deut9we": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deut9we/",
+              "text": "Just some thoughts that might be helpful. \n\n1. have you considered looking at improvement instead of a final outcome? Not sure how your course is structured, but that might be helpful to better understand if your teaching style is less effective for women.\n\n2. the women may be coming in less prepared for the course, if this is the case could you offer an initial assessment of abilities and then recommend some helpful catchup sessions for any student with noticeable deficits?\n\n3. perhaps your style of lecturing is better for males, or women learn better by other means. This will require some homework, but I could see women learning better by more of a back and forth situation. I often worked in study groups where we taught one another, while the men in my program studied alone and sort of reviewed/quizzed each other in study groups before the test. So perhaps allowing for a review session before the test could help for example.\n\nI don't really have a solution here, and it's not my specialty, but I have noticed that the way I and other women approach material can be quite different than males. The same with minority groups, which often have much more supportive study groups. But that's just my person experience. ",
+              "author": "cletus-cubed",
+              "created": 1489373614,
+              "upvotes": 10,
+              "replies": {}
+            },
+            "deuik9y": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuik9y/",
+              "text": "IMO, part of your success depends on the success of *your* students (something relayed to me by a mentor) therefore I encourage you to be more proactive and make all of your students aware of your office hours and encourage or remind them to attend if necessary. \n\nYour pedagogy can make a significant impact in the futures of these students. You have a great position to be able to influence that! :-)",
+              "author": null,
+              "created": 1489358390,
+              "upvotes": 8,
+              "replies": {}
+            },
+            "deulvy7": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deulvy7/",
+              "text": "u/rudiecantfail 's comment outlines much more specific steps/ideas than my comment, which was basically intended as an encouragement to attend to structural issues that faculty and TAs all too often overlook or outright ignore in favor of looking at \"results\" and \"outcomes.\" And, just to be clear, by no means was my comment intended to patronize or carry any condescending weight. \n\nThere are varying reasons for students being unwilling to visit during office hours, and there is much involved even within just lecturing that can create welcoming spaces for some while excluding others (an egregious example of this would be a professor who loves making endless American sports analogies or references during lecture, which signal positively to American--and mostly male--students but would alienate or at least distance international students and many women). \n\nOne option might be to invite someone to observe a class lecture sometime? Preferably someone neutral, younger, and not white and male. ",
+              "author": "PhD_sock",
+              "created": 1489362902,
+              "upvotes": 8,
+              "replies": {}
+            },
+            "deudhae": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deudhae/",
+              "text": "I encourage you to read my response to the original responder and look into it, as there is a growing body of studies supporting my claims, and what you've noticed in your own classroom also reinforces these studies. It is very likely that it has nothing to do with you or your class particularly and everything to do with the biases encountered leading up to your course in these women's previous school careers and also from the outside world. It's an interesting phenomenon that is becoming readily apparent.",
+              "author": "theoneandonlypatriot",
+              "created": 1489351815,
+              "upvotes": -1,
+              "replies": {
+                "deudq4m": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deudq4m/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1489352141,
+                  "upvotes": -30,
+                  "replies": {
+                    "deudwz4": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deudwz4/",
+                      "text": "Wait, how the fuck did you get that from my comment? I don't suggest that whatsoever.",
+                      "author": "theoneandonlypatriot",
+                      "created": 1489352389,
+                      "upvotes": 26,
+                      "replies": {
+                        "deudxx2": {
+                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deudxx2/",
+                          "text": "[deleted]",
+                          "author": null,
+                          "created": 1489352422,
+                          "upvotes": -23,
+                          "replies": {
+                            "deue0pg": {
+                              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deue0pg/",
+                              "text": "Not at all? I suggest continuing to grade completely objectively. Do you just go into the world making up reasons to get mad at people? Or did what I say piss you off enough to make shit up?\n\nEdit: I would also suggest looking into adding more help for anyone that needs it; not on a gender basis. However, knowing that external biases exist (and clearly have existed in STEM for a long time) is a thing that cannot be ignored and can manifest itself quite clearly in grades.",
+                              "author": "theoneandonlypatriot",
+                              "created": 1489352523,
+                              "upvotes": 18,
+                              "replies": {
+                                "deued0t": {
+                                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deued0t/",
+                                  "text": "[deleted]",
+                                  "author": null,
+                                  "created": 1489352972,
+                                  "upvotes": -23,
+                                  "replies": {
+                                    "deueqzr": {
+                                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deueqzr/",
+                                      "text": "Knowing they exist and actively acting upon them by grading with a bias are completely different things.",
+                                      "author": "theoneandonlypatriot",
+                                      "created": 1489353482,
+                                      "upvotes": 20,
+                                      "replies": {}
+                                    },
+                                    "deuljzq": {
+                                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuljzq/",
+                                      "text": "Just because the only solution you can think of is an unfair one does not mean it was being advocated for. Check your over-active sense of justice.",
+                                      "author": "Yeti_Poet",
+                                      "created": 1489362429,
+                                      "upvotes": 11,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deuefrc": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuefrc/",
+          "text": "This is all good and well (besides the obviously patronizing and condescending tone already noted), but what are you suggesting this professor *actually do* to improve outcomes? You're hitting him for focusing on outcomes instead of the exogenous factors that produced them, but what is he supposed to *do* about that, in his specific capacity as a professor? When you denigrate him for attempting to be blind, how are you suggesting he open his eyes? Offer special help to female students? Give them smiley faces on their assignments for emotional support?",
+          "author": null,
+          "created": 1489353073,
+          "upvotes": 78,
+          "replies": {
+            "deueze4": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deueze4/",
+              "text": "I think this comment is unnecessarily dismissive of any potential interventions a professor could make in his/her classroom to address/combat bias. \n\nA professor has noticed that there may be gender differentiated outcomes in his/her classroom. I think that is a situation worth examining closer to see if the source of the potential bias is something that can be addressed with classroom (or other) interventions. \n\nAs for what form these interventions may take, there are many and they depend on the specifics of a professor's situation. Your facetiously suggested interventions point to the possibility that you don't take the situation seriously prior to even studying it. ",
+              "author": "rudiecantfail",
+              "created": 1489353789,
+              "upvotes": 28,
+              "replies": {
+                "deufdet": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deufdet/",
+                  "text": "I'm still not seeing any solutions here. \n\nI'm not dismissing the idea of looking into this. I was responding to the absurdity of the original commenter, who, I should note, *neither* recommended an objective analysis of this situation.",
+                  "author": null,
+                  "created": 1489354282,
+                  "upvotes": 29,
+                  "replies": {
+                    "dev5b7u": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev5b7u/",
+                      "text": "You're being really pedantic and missing the point.\n\nThere actually may be no practical solution that this person can take in the short term. \n\nHere's the logical problem with your \"concerns.\"\n\n1) You're asking for an action plan.\n\n2) If there is no action plan, you feel justified in dismissing all of these concerns with gender discrimination outright.\n\n3) This issue might not have an \"action plan.\" It might simply require a lot of thought, a lot of awareness, slow future changes, departmental collaboration, etc etc.\n\nSomehow, though, the lack of an action plan has made you dismiss all of these other ways of approaching the problem. This is basically a form of derailing the conversation, which is pretty conspicuous, considering the subject matter. I also wonder why you think this guy needs you to defend him and dismiss all claims of gender bias. If he really wanted to evade those claims, he wouldn't be asking for collaboration on reddit. If he really felt the same as you (there's nothing to be done! I'm doing my best!), then he probably wouldn't think about this issue for more than a minute, and he certainly wouldn't open himself to public (though anonymous) scrutiny on a message board.",
+                      "author": "Bananasauru5rex",
+                      "created": 1489401578,
+                      "upvotes": 11,
+                      "replies": {
+                        "dev60s3": {
+                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev60s3/",
+                          "text": "Meh I don't really disagree, I've been irritable in this thread. In reality I'm not as dismissive of these concerns and I'm not thick enough to believe that there is no such thing as gender bias in academe. I'm just pretty tired of being lectured about it in an aggressive way by people who put the responsibility for this systemic problem on individuals instead of structures and try and condemn well meaning individuals while offering no solutions, I.e. exactly how the conscientious OP was treated by PhD_sock. If the tone had been different my tone would have been different too. ",
+                          "author": null,
+                          "created": 1489403601,
+                          "upvotes": 9,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "deufps3": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deufps3/",
+                      "text": "Please see my other [comment](https://www.reddit.com/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deue0jd/), where I suggest some potential problems that could be diagnosed and that have (I think) possible solutions. \n\nEDIT: For example, not creating groups that feature one person of a minority gender paired with others of the opposite gender. This would be probably be most relevant for groups of 4 or more. This is a simple solution to a problem that doesn't need to exist!\n\nBut I hope you haven't given up on the possibility of any solutions at all and I'd encourage you to try thinking of some of your own when encountering a particular problem! Even so, there are whole bodies of literature focused on practical solutions to classroom problems available to anyone willing to seek them out. \n\nEDIT 2: I just don't think it's fair to expect specific solutions (or criticize the lack thereof) without specifically diagnosed problems (i.e., the potential sources of the observed gender differentiated test scores) being presented. ",
+                      "author": "rudiecantfail",
+                      "created": 1489354720,
+                      "upvotes": 16,
+                      "replies": {}
+                    },
+                    "deuum4u": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuum4u/",
+                      "text": "Ah yes, every problem has a clear and easy solution, and if it doesn't, the information and problem at hand isn't worth discussing and pondering or - dare I say - researching further.",
+                      "author": null,
+                      "created": 1489375684,
+                      "upvotes": 16,
+                      "replies": {
+                        "deuus0x": {
+                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuus0x/",
+                          "text": "I see you're going around down voting my comments. Nowhere have I suggested shutting down discussion, pondering, or researching the issue at hand. Nor have I suggested that there are clear and easy solutions. What I object to is indicting professors for not \"doing more\" to fix these issues without realistic guidance for what \"doing\" actually entails. ",
+                          "author": null,
+                          "created": 1489375939,
+                          "upvotes": 6,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "deulkey": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deulkey/",
+                      "text": "It's interesting that you find a push to look into structural issues underlying apparent outcomes \"absurd\" (because, apparently, steps 1, 2, 3, 4 were not enumerated?). \n\n",
+                      "author": "PhD_sock",
+                      "created": 1489362446,
+                      "upvotes": 11,
+                      "replies": {
+                        "deuq8dx": {
+                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuq8dx/",
+                          "text": "It's interesting that your own language here reveals that you are woefully unprepared to take this issue seriously. What do you mean, \"apparent\" outcomes? The disparity is the outcome, not an apparent one. What is the professor supposed to do about the \"structural\" issues that create disparities between genders prior to the entrance of his students into his classroom--this is the question you cannot answer without recognizing a *real* difference in mathematical aptitudes between men and women in the general by the time they get to college. We should be having this conversation about male/female mathematical aptitude differences in the elementary school context. By the time these women get to college they need to be graded fairly just like everyone else. ",
+                          "author": null,
+                          "created": 1489369112,
+                          "upvotes": 10,
+                          "replies": {
+                            "deurmq4": {
+                              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deurmq4/",
+                              "text": "I simply disagree with this line of thinking. The fact that women may have faced an entire childhood's worth of systemic bias by the time they reach a college math course is NOT a good reason to throw one's hands up in defeat and declare any recognized outcome disparities as resulting from \"aptitude.\" As if \"aptitude\" is the only thing that could possibly explain differences in performance and that there are no possible interventions in the college classroom that could close achievement gaps. This is, very simply, not true and there are reams of research to show this. \n\n\n\nAdditionally, no one here (or anywhere that is taken seriously, really) is suggesting grading people with different standards. This would not benefit women or men in terms of positive learning outcomes. \n\n\n\nI think this conversation is more about whether every student in a class is on a level playing field within the parameters that can be (at least somewhat) controlled by a professor and/or department. Recognizing areas of pedagogy and classroom/department structure that could be modified/improved can lead to positive learning outcomes for all students and, it has been shown in the literature, especially great gains for women who previously may have struggled. ",
+                              "author": "rudiecantfail",
+                              "created": 1489371148,
+                              "upvotes": 21,
+                              "replies": {
+                                "deusdk0": {
+                                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deusdk0/",
+                                  "text": "Why do you keep responding as if I am talking to you instead of PhD_sock? You have linked to an interesting comment of yours where you propose some real solutions. PhD_sock has offered nothing but hyperbole and criticism and a much less cogent diagnosis of this problem than yourself. You are on the right track but it is interesting that you are trying to create a 'team' with someone who clearly has a spurious grasp on these issues and is more interested in attacking the character of profs. than in proposing any solutions. ",
+                                  "author": null,
+                                  "created": 1489372258,
+                                  "upvotes": 7,
+                                  "replies": {
+                                    "deusm56": {
+                                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deusm56/",
+                                      "text": "We are both (you and I) contributing to a conversation I find personally very interesting. I am simply adding my own thoughts and sometimes debating your points if I think they are worth debating. No hard feelings, not trying to make any of this personal.",
+                                      "author": "rudiecantfail",
+                                      "created": 1489372619,
+                                      "upvotes": 14,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "devb306": {
+                              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devb306/",
+                              "text": ">What do you mean, \"apparent\" outcomes? The disparity is the outcome, not an apparent one.\n\nHere, let me help you out:\n\nadjective\n1.\nreadily seen; exposed to sight; open to view; visible\n\n\"Apparent outcome\" = the visible outcome. \n\nNot that hard to comprehend, I think.\n\n>What is the professor supposed to do about the \"structural\" issues that create disparities between genders prior to the entrance of his students into his classroom\n\nAs u/rudiecantfail has (repeatedly) noted: it is by no means logical to suggest--as you mystifyingly insist on doing--that just because some of these structural issues pre-date the students' entry into the collegiate classroom, OP and professors in general should simply disregard that, not do anything, or--most stupidly of all--ascribe anything to \"real difference in mathematical aptitudes between men and women.\"\n\nMoreoever, u/rudieantfail has actually pointed out concrete steps OP (and professors generally) can take to engage the very structural issues I've referred to. You might wish to re-read that comment.\n\n>We should be having this conversation about male/female mathematical aptitude differences in the elementary school context.\n\nAre you one of those idiots who actually believes in some version of essentialism that determines differential aptitudes between men and women when it comes to their ability to perform X, Y, whatever?\n\nIf so, we don't even have anything to say to each other.\n\nIf not, I do wonder what makes you think that college is some fantasyland where entrenched problems of sexism do not apply.\n\n>reveals that you are woefully unprepared to take this issue seriously. \n\nIt's pretty clear which one of has has more of a grasp on issues of women, persons of color, etc. in academe. It certainly isn't you.",
+                              "author": "PhD_sock",
+                              "created": 1489413623,
+                              "upvotes": 4,
+                              "replies": {
+                                "devknj9": {
+                                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devknj9/",
+                                  "text": "I addressed her supposed solutions in another comment. You're a tough one. I pity the men who are subjected to your actual influence. ",
+                                  "author": null,
+                                  "created": 1489425282,
+                                  "upvotes": 3,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "deuli22": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuli22/",
+                  "text": "I just wanted to thank you for identifying some practical steps OP might take in order to effectively attend to some of the structural issues I suggested might be in play in my own more general comment.",
+                  "author": "PhD_sock",
+                  "created": 1489362353,
+                  "upvotes": 11,
+                  "replies": {
+                    "deuo0g9": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuo0g9/",
+                      "text": "Thanks for the thanks! The structural and practical issues of systemic bias in STEM are near and dear to my heart.",
+                      "author": "rudiecantfail",
+                      "created": 1489365929,
+                      "upvotes": 13,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "deuukph": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuukph/",
+              "text": "Ahhhh, the old \"You gave me information and a ton of background into the systemic nature of the problem, but *where is the cookie cutter solution*\" comment. Fact is for many systemic deeply rooted societal gender disparities there isn't a simple easy thing to do. I didn't find the comment above denigrating. Might be your interpretation rather than factual? It was super informative!",
+              "author": null,
+              "created": 1489375620,
+              "upvotes": 16,
+              "replies": {
+                "deuutu1": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuutu1/",
+                  "text": "I did not find it informative. I have read all this before, as have all academics at this point. I personally do not see the utility in people going around condemning others for not doing more to fix \"deeply rooted societal gender disparities\" when it is more than obvious that the people being condemned have little ability to do so. ",
+                  "author": null,
+                  "created": 1489376015,
+                  "upvotes": 15,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "dev5xhh": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev5xhh/",
+          "text": ">**Now you may of course dismiss this as bullshit. I'm sorry for you if you feel that way. Things are changing and this is no mere bullshit.** Or, you may want to look at those elements which are simply not accounted for in a survey of grades.\n\nWhy take a confrontational attitude like this when the OP is seeking discussion on the subject?",
+          "author": "deaconblues99",
+          "created": 1489403350,
+          "upvotes": 27,
+          "replies": {
+            "devbfh4": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devbfh4/",
+              "text": "Reddit is not generally known for its awareness of social issues and generally skews white, male, and libertarian/conservative. Also, it's not an issue I was interested in debating.",
+              "author": "PhD_sock",
+              "created": 1489414136,
+              "upvotes": 5,
+              "replies": {
+                "devej6p": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devej6p/",
+                  "text": "/r/askacademia tends not to skew that way, at least insofar as political orientation goes. And I wouldn't characterize the faculty who post here as lacking awareness of social issues. Especially those of us who regularly engage with students. In fact, I rather resent what you're implying.\n\nAnd as to whether you're interested in \"debating\" it or not, there's no need to approach it confrontationally without evidence that the person you're replying to is seeking confrontation.\n\nThis has nothing to do with debating. It's fine to make a point, and equally fine to suggest that someone may not have considered a particular factor.\n\nBut going on the offensive has the unfortunate tendency to put other people on the *defensive* even if there's no need for them to be, and even if they weren't previously.\n\n*Especially* when you immediately jump into assuming that the person raising the subject is taking a stance that would require them to be defensive.\n\nInstead of expecting the OP to dismiss your post as \"mere bullshit,\" and anticipating something that never happened by adopting a confrontational attitude, try presenting your argument collegially. There was nothing in the original post to inspire your attitude.",
+                  "author": "deaconblues99",
+                  "created": 1489418236,
+                  "upvotes": 15,
+                  "replies": {
+                    "devg7ns": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devg7ns/",
+                      "text": "Consider then that it's partly my own lived experience that has taught me that professors, especially at major R1s, are among the most resistant to actually practicing the theories they read when it comes to acknowledging race, sex, gender, and related issues. It's not that I expected OP to dismiss what I was saying. Rather, it's that I've--as have innumerable graduate students--actively encountered faculty members who love to believe they're doing the noble and right things but in fact are hopelessly clueless--and refuse to acknowledge that cluelessness when it is suggested or even bluntly pointed out to them.\n\nFrankly? I don't care how I come across on an internet forum. And I don't give a shit about respectability politics. \n\n>anticipating something that never happened by adopting a confrontational attitude, try presenting your argument collegially. \n\nBeen there, done that, been dismissed. You have literally no idea of my experience, just as I don't about yours. Don't take it on yourself to make assumptions about me and police behavior. Collegiality is a great thing. It's also one of the main things that has kept the academy white and male for centuries. Because people were too polite to speak up.",
+                      "author": "PhD_sock",
+                      "created": 1489420252,
+                      "upvotes": -1,
+                      "replies": {
+                        "devh7p5": {
+                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devh7p5/",
+                          "text": ">Consider then that it's partly my own lived experience that has taught me that professors, especially at major R1s, are among the most resistant to actually practicing the theories they read when it comes to acknowledging race, sex, gender, and related issues.\n\nAh, a little anecdata, huh? Well *my* experience in anthropology departments at R1 universities, including with colleagues my age / of my cohort who are faculty at those institutions and others (I'm at a smaller school), is that many faculty are *very* engaged in (and concerned about) these things. Who are you to paint with a broad brush?\n\nMy experience is similar to yours in that folks in STEM do tend to be a bit less engaged with those issues. But maybe it would be wise to wait for evidence of that *before* jumping to the conclusion that someone doesn't care or is unaware of them and intimating that they're just disinterested or inclined to dismiss reference to such things as \"bullshit.\"\n\n>Frankly? I don't care how I come across on an internet forum. And I don't give a shit about respectability politics.\n\nOkay, then don't be surprised when you're met with responses in kind. Immediately turning the dial to \"asshole\" in the context of a conversation is unproductive and tends to turn people off to what you're saying. Tone matters.\n\n>Been there, done that, been dismissed. You have literally no idea of my experience, just as I don't about yours. Don't take it on yourself to make assumptions about me and police behavior.\n\nI'm not making assumptions about you, except what you're presenting in your posts. You're unnecessarily combative given the context, and that hurts the message you're trying to get out. You're right, I have no idea about your experience. And so I have no reason to believe you're anything but a dick with a chip on their shoulder. \n\nAre you actually? Probably not. But in adopting that attitude to people who have given you no reason to do so, what are you accomplishing? Most people don't perk up and take notice-- \"Hey, he / she has a point!\"-- when people are jerks. They just tune them out.\n\nMaybe you're enough of a name that you can act like that in the real world, but in the absence of reputation, you're just another poster. So *immediately* adopting an adversarial stance at the outset of a conversation just makes you a dick for the duration of that conversation.\n\n>Collegiality is a great thing. It's also one of the main things that has kept the academy white and male for centuries. Because people were too polite to speak up.\n\nI'm sorry, are we all putting our genders / colors in our flair now? I don't know what color / gender you are. If you're not white and male, that's great. But it doesn't mean you need to assume that other folks here (who may or may not be white and male) are automatically uninterested in issues of structural inequality. A lot of us happen to be social scientists and are actively interested in (and involved in) working on trying to deal with those structural issues, either in research or through how we approach teaching / mentorship.\n\nI agree that the academy remains overwhelmingly male and white, but that's slowly changing. And the way to effect that change isn't to attack someone sight unseen on the assumption (without evidence) that they are:\n\n1) white / male\n\n2) insensitive to the problem\n\n3) un-interested in understanding the problem\n\n4) unreceptive to your ideas\n\nBut of course, you must have missed all that because you're too preoccupied with that chip on your shoulder, and whether or not I'm a white male instead of whether I know about / care about / am concerned about structural inequality.",
+                          "author": "deaconblues99",
+                          "created": 1489421414,
+                          "upvotes": 14,
+                          "replies": {
+                            "dewx73n": {
+                              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dewx73n/",
+                              "text": ">Tone matters.\n\nAs I said:\n\n>And I don't give a shit about respectability politics.\n\nYour entire post is an apologia for respectability politics. And that, thankfully, is quickly being kicked out of campuses by a new generation of students. \n\nWe're done here. ",
+                              "author": "PhD_sock",
+                              "created": 1489500362,
+                              "upvotes": -4,
+                              "replies": {
+                                "dewxebc": {
+                                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dewxebc/",
+                                  "text": "Word to the wise. People don't listen to you when you act like a shit. They tune you out.\n\nSo whatever you think you're accomplishing by being needlessly confrontational, you're not. Whatever you think you have to say gets ignored. So congrats on short-circuiting yourself.",
+                                  "author": "deaconblues99",
+                                  "created": 1489500636,
+                                  "upvotes": 5,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "devta3y": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devta3y/",
+                  "text": "Reddit leans conservative, are you sure?",
+                  "author": null,
+                  "created": 1489434808,
+                  "upvotes": 4,
+                  "replies": {
+                    "dexolqu": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dexolqu/",
+                      "text": "Not OP, but reddit leans libertarian, which lately is associated with the American GOP-- if someone said \"conservative,\" I'd guess that's where they are getting that.",
+                      "author": "kaswing",
+                      "created": 1489531767,
+                      "upvotes": 3,
+                      "replies": {}
+                    },
+                    "dewecdw": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dewecdw/",
+                      "text": "Academia at large leans very left, so to academics, like (presumably) the person you're responding to who can't throw a stone without it landing on a communist, Reddit probably seems like GOP central.  In comparison to the rest of the U.S., though, Reddit has a clearly palpable left-leaning bias.  ",
+                      "author": "Ceren1ty",
+                      "created": 1489460281,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deum0ko": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deum0ko/",
+          "text": "Obviously the entire point of OP's post was to uncover the types of patterns you're referring to.",
+          "author": null,
+          "created": 1489363082,
+          "upvotes": 16,
+          "replies": {}
+        },
+        "deuddl4": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuddl4/",
+          "text": "You're coming off as quite condescending. The fact of the matter is that recent studies show women underperform men in STEM professions as a whole. It sounds sexist to say it, but statistically speaking it's unfortunately true. This is being attributed to a range of biases experienced very much so outside of the classroom, and particularly in this case prior success in previous courses. \n\nThere is a bias in the outside world, not necessarily in this professor's classroom.",
+          "author": "theoneandonlypatriot",
+          "created": 1489351677,
+          "upvotes": 25,
+          "replies": {
+            "deuelct": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuelct/",
+              "text": "I'm not sure how you could conclude either way (outside bias v. classroom bias) without further knowledge and examination of the particular situation this professor has. \n\nAnd even if the bias is purely outside, this doesn't mean there are not concrete steps a professor could make to address/combat this bias in his/her classroom. ",
+              "author": "rudiecantfail",
+              "created": 1489353278,
+              "upvotes": 25,
+              "replies": {
+                "deuepv4": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuepv4/",
+                  "text": "Certainly valid points; however, the situation as described by the professor (which is all we have to go on) leads me to the conclusion that he isn't introducing a gender bias.\n\nEdit: also note that I simply suggested the bias isn't necessarily coming from the professor's classroom. I never stated concretely either way.",
+                  "author": "theoneandonlypatriot",
+                  "created": 1489353439,
+                  "upvotes": 4,
+                  "replies": {
+                    "deuf4qk": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuf4qk/",
+                      "text": "Of course. I did not mean to accuse you of coming to any premature conclusions. My comment was more for the sake of discussion for any professor who encounters a similar situation. ",
+                      "author": "rudiecantfail",
+                      "created": 1489353976,
+                      "upvotes": 11,
+                      "replies": {
+                        "deuf6fd": {
+                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuf6fd/",
+                          "text": "Ah, I see. My bad.",
+                          "author": "theoneandonlypatriot",
+                          "created": 1489354034,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "dev5k3k": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev5k3k/",
+                      "text": "You do realize that, subjectively, to anyone within a gender bias, they appear to themselves totally fair and neutral, right? A bias is, by nature, beneath the level of consciousness, and it manifests in ways unknown to the person experiencing them.",
+                      "author": "Bananasauru5rex",
+                      "created": 1489402300,
+                      "upvotes": 10,
+                      "replies": {
+                        "devew6o": {
+                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devew6o/",
+                          "text": "I've never heard this before. Bias can be introduced knowingly, and if one grades and teaches objectively there should be no gender bias. Of course, we only have limited information...",
+                          "author": "theoneandonlypatriot",
+                          "created": 1489418674,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "deuldfs": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuldfs/",
+              "text": "> The fact of the matter is that recent studies show women underperform men in STEM professions as a whole. It sounds sexist to say it, but statistically speaking it's unfortunately true.\n\nYou're kind of literally repeating the same thing I pointed out about OP's post. Before calling my comment \"condescending\" (I do not know that it is, and don't care to debate that because it is irrelevant here), do you want to analyze further the fact that, *after* reading my comment, you basically comment only to say that \"Here are some more end-point statistics and data that indicates that women underperform men\" *once again completely ignoring all that goes before that end-point*?\n\nThere are *lots* of reasons why these are the statistics we have, and those are precisely what I urged OP to attend to. \"The fact of the matter\" as you put it, is that our entire framework for making sense of these *outcomes* is flawed and is currently being reconsidered to pay more attention to the \"leaky pipeline\" and other factors that make such outcomes (women performing less than men in X situations) more likely. \n\nIn other words, the problems are structural. There is absolutely no way you can make such a remark:\n\n>There is a bias in the outside world, not necessarily in this professor's classroom.\n\nwithout further knowledge of OP's situation.",
+              "author": "PhD_sock",
+              "created": 1489362176,
+              "upvotes": 18,
+              "replies": {}
+            },
+            "deviy9j": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deviy9j/",
+              "text": ">The fact of the matter is that recent studies show women underperform men in STEM professions as a whole.\n\nIs that true, though? In test taking I believe male students have an advantage, but overall I've read that female students perform better (in terms of grades, anyway):\n\nhttps://www.apa.org/pubs/journals/releases/bul-a0036620.pdf\n\nTable 3 on 1190 has a relevant breakdown.",
+              "author": "polite-1",
+              "created": 1489423390,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "deuuibj": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuuibj/",
+          "text": "Yes to this",
+          "author": null,
+          "created": 1489375517,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "deucizi": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deucizi/",
+      "text": "I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:\n\n- [/r/drama] [Girls suck at math](https://np.reddit.com/r/Drama/comments/5z5awx/girls_suck_at_math/)\n\n- [/r/math] [Female students perform significantly worse in my courses (x-post \\/r\\/askacademia))](https://np.reddit.com/r/math/comments/5z0qg1/female_students_perform_significantly_worse_in_my/)\n\n[](#footer)*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*\n\n[](#bot)",
+      "author": "TotesMessenger",
+      "created": 1489350541,
+      "upvotes": 5,
+      "replies": {
+        "dev0r1l": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev0r1l/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1489387648,
+          "upvotes": 12,
+          "replies": {
+            "devzqky": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devzqky/",
+              "text": "lack of humor is not a good thing",
+              "author": "ProgressiveFragility",
+              "created": 1489441884,
+              "upvotes": 0,
+              "replies": {
+                "dexoxgq": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dexoxgq/",
+                  "text": "Can you help us out? What's funny here, ProgressiveFragility?",
+                  "author": "kaswing",
+                  "created": 1489532177,
+                  "upvotes": 3,
+                  "replies": {
+                    "dexursb": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dexursb/",
+                      "text": "you're pretty funny",
+                      "author": "ProgressiveFragility",
+                      "created": 1489539492,
+                      "upvotes": -1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "deuml7m": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuml7m/",
+      "text": "Have you considered anonymizing the exams?  It should be possible to generate PDFs from latex where each copy has a different serial number.  Then, have students sign a sheet where they have their number.  Or a tear-off cover sheet.  This would help eliminate any potential bias when grading the exam.  (Though gender perception from penmanship is another issue.)",
+      "author": "squidgyhead",
+      "created": 1489363884,
+      "upvotes": 4,
+      "replies": {
+        "deupgal": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deupgal/",
+          "text": "He already doesn't look at the names. I don't think this is the problem",
+          "author": "super-commenting",
+          "created": 1489368007,
+          "upvotes": 16,
+          "replies": {
+            "deupt5s": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deupt5s/",
+              "text": "No, I don't imagine that it's the problem either, but it seems like a good practice to normalize.",
+              "author": "squidgyhead",
+              "created": 1489368520,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "deuppcp": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuppcp/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1489368371,
+      "upvotes": 1,
+      "replies": {
+        "deursdd": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deursdd/",
+          "text": "IQ as a stand-in for 1) innate intelligence or \"aptitude\" and 2) performance in STEM is not at all a cut-and-dry argument to make. ",
+          "author": "rudiecantfail",
+          "created": 1489371380,
+          "upvotes": 21,
+          "replies": {}
+        },
+        "deut2gw": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deut2gw/",
+          "text": "I'm not sure on the validity of this, but it might also be interesting for OP to look at the distribution of the lowest grades as well. Males seem to be over-represented in the highest grades, but are they also over-represented in the lowest grades? Are the females more consistent performers, whilst the males are inconsistent with their grades? Or the other way around?\n\nThe reasons for that could be very intricate, and I don't want to posit that it's due to anything like IQ, but I'd be interested to know anyway, if only for datas sake.",
+          "author": null,
+          "created": 1489373301,
+          "upvotes": 16,
+          "replies": {}
+        },
+        "dev3jvl": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev3jvl/",
+          "text": "The variation (variance) of lots of traits is higher in men than in women. \n\nWhat's the average grades for men vs women?",
+          "author": "Drugbird",
+          "created": 1489395906,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "dewtn3n": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dewtn3n/",
+      "text": "Maybe your markers go against the grain and don't give women  better marks than they deserve for being wonderful. ",
+      "author": null,
+      "created": 1489494600,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "deusw28": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deusw28/",
+      "text": "A lazy statistical analysis:\n\n45 students 40% female = 18 female, 27 male. Odds of A | female = 3/18 = 0.167. Odds of A | male = 12/27 = 0.444. Odds ratio M / F = 2.67. Log Odds ratio = log(2.67) = 0.42. Standard error = sqrt(1/3+1/12+1/18+1/27) = 0.713\n\nlog odds ratio < standard error, conclude no difference between groups. There is no gender difference between grades.",
+      "author": "TomBayes",
+      "created": 1489373034,
+      "upvotes": -5,
+      "replies": {
+        "devezmu": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devezmu/",
+          "text": "> I checked my grade rosters from previous semesters to find that female students are far less likely to earn an A in my class than male students.\n\nThis isn't the data OP used to make their claim.",
+          "author": "simoncolumbus",
+          "created": 1489418784,
+          "upvotes": 11,
+          "replies": {}
+        },
+        "deuwouf": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuwouf/",
+          "text": "Making a claim because you don't have enough data is a silly way to make a claim.",
+          "author": null,
+          "created": 1489379069,
+          "upvotes": 16,
+          "replies": {
+            "devmcoc": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devmcoc/",
+              "text": "Hmmm..., what's enough data though?",
+              "author": "Rabbitybunny",
+              "created": 1489427175,
+              "upvotes": 1,
+              "replies": {
+                "devqln1": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devqln1/",
+                  "text": "I don't know. Talk to your industry/discipline hah. But saying things are equal because the standard error is huge isn't generally a good idea.",
+                  "author": null,
+                  "created": 1489431848,
+                  "upvotes": 0,
+                  "replies": {}
+                }
+              }
+            },
+            "dev8ol9": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev8ol9/",
+              "text": "Well if you think you can do a more appropriate statistical analysis given the data we DO have, be my guest. Otherwise, your criticism is rather weak.\n\nIt shouldn't come as a surprise that there is a fair amount of uncertainty when only a single class of 45 students is considered. People are pretty anxious to conclude discrimination, but I highly doubt that's the problem given the data. Though, it certainly was good of us to do due diligence and investigate.",
+              "author": "TomBayes",
+              "created": 1489409696,
+              "upvotes": -4,
+              "replies": {
+                "devas50": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devas50/",
+                  "text": "I'm saying your interpretation is wrong. We can't conclude there is no difference. We can only conclude that we don't have enough data to make a conclusion, or that the difference isn't huge. ",
+                  "author": null,
+                  "created": 1489413170,
+                  "upvotes": 6,
+                  "replies": {
+                    "dew0obz": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dew0obz/",
+                      "text": "While, I appreciate your pedantry, it's already been assumed that there is no difference by the model. If you fail to reject the null of no difference, then your belief still must rest in the null: no difference. So, no. My interpretation is not wrong.",
+                      "author": "TomBayes",
+                      "created": 1489442974,
+                      "upvotes": -1,
+                      "replies": {
+                        "dew146a": {
+                          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dew146a/",
+                          "text": "What model? You're the only one who introduced a model. You're the one elevating the null of no difference. We could just as easily conclude that there is a small difference, using the procedure you used.\n\nI'm not the one downvoting you so I would appreciate you not being sarcastic with me.",
+                          "author": null,
+                          "created": 1489443498,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "dev9035": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev9035/",
+          "text": "Another analysis, Fisher's exact test:\n\n> Fisher's Exact Test for Count Data\n\n> data:  matrix(c(3, 18, 12, 27), 2, 2, byrow = F)\n\n> p-value = 0.2176\n\n> alternative hypothesis: true odds ratio is not equal to 1\n\n> 95 percent confidence interval:\n\n> 0.06047741 1.69567252\n\n> sample estimates:\n\n> odds ratio \n\n> 0.380692\n\n\nAgain, the result it not significant, no differences between the genders.\n\nEdit: /u/maxwell_smart_jr caught an error in my data entry. It does not change the conclusion, but credit is due where credit is due.",
+          "author": "TomBayes",
+          "created": 1489410263,
+          "upvotes": -4,
+          "replies": {
+            "devv536": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devv536/",
+              "text": "    data = matrix(c(3, 15, 12, 15), 2, 2, byrow = F)\n    data:  data\n    p-value = 0.06316\n    alternative hypothesis: true odds ratio is not equal to 1\n    95 percent confidence interval:\n    0.03876207 1.23027062\n    sample estimates:\n    odds ratio \n    0.2576836 \n\nSo, when you enter the data the right way, the result borders on significance two-tailed, and passes with the one-tailed test.\n",
+              "author": "maxwell_smart_jr",
+              "created": 1489436818,
+              "upvotes": 1,
+              "replies": {
+                "dew06ih": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dew06ih/",
+                  "text": "That's why I post the code. So people can fact check. Thank you for catching my error. \"Bordering on significant\" is still not significant, though. P-values are not admissible as evidence, so unless it's less it passes the cutoff, it doesn't matter. Also, it doesn't pass the one-tailed test, either.",
+                  "author": "TomBayes",
+                  "created": 1489442389,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "deuv3hr": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuv3hr/",
+      "text": "[removed]",
+      "author": null,
+      "created": 1489376433,
+      "upvotes": -4,
+      "replies": {
+        "deuzu24": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuzu24/",
+          "text": "You're applying population statistics to a non-random sample. A university classroom is definitely non-random: students are very directly pre-selected for a certain level of ability, since stronger students go to a better school, and weaker students don't get in.\n\nSo it's at least a *little* bit surprising to see a three-times-higher proportion of men getting As. You could claim that the admissions process is easier(and thus the entire ability band is lower) for women, but that doesn't square with this:\n>I've heard from other colleagues that female students at my university actually tend to outperform male students on average\n\nIt's not implausible that this is just the way things are - for example, that women outperform in general but underperform in math specifically (OP didn't specify whether this was colleagues *in the math department*), or that the women are mostly pre-med suffering through a little bit of math while men are mostly math majors, or etc.\n\nBut citing population-level statistics does not make a slam-dunk case for it.",
+          "author": "Brightlinger",
+          "created": 1489385412,
+          "upvotes": 26,
+          "replies": {
+            "dev9lqo": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dev9lqo/",
+              "text": "I did a statistical analysis of his class data in another post. There are no significant differences.",
+              "author": "TomBayes",
+              "created": 1489411303,
+              "upvotes": 2,
+              "replies": {
+                "devhqzj": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devhqzj/",
+                  "text": "Thank you for running the numbers.\n\nOP does mention seeing the same issue in previous semester grades, so the combined data may be more significant.",
+                  "author": "Brightlinger",
+                  "created": 1489422040,
+                  "upvotes": 3,
+                  "replies": {
+                    "dew0pvl": {
+                      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/dew0pvl/",
+                      "text": "You're welcome. I wish others shared your belief. I'm getting downvoted to hell for it.",
+                      "author": "TomBayes",
+                      "created": 1489443024,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "deuvhkg": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuvhkg/",
+          "text": "Way to jump to conclusions. \n\nOP seems to be doing his best, though he might not teach in a way that isn't suitable for everyone. A lot of uni professors don't have strong teaching backgrounds and don't know how to present material in diverse ways. Perhaps he is subconsciously biased and grades papers with more feminine handwriting more harshly. ",
+          "author": null,
+          "created": 1489377056,
+          "upvotes": 6,
+          "replies": {
+            "deuvmdl": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuvmdl/",
+              "text": "[removed]",
+              "author": null,
+              "created": 1489377274,
+              "upvotes": -1,
+              "replies": {
+                "deuvz41": {
+                  "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuvz41/",
+                  "text": "Maybe I did. \n\nBut regardless Im certain OP is a blank slatist who thinks that he's sub-consciously sexist. The reality is what you posted. \n\nMy recommendation to OP would be to lift. After a few months he'll be at the 99th percentile in female strength and finally learn that women and men are *different*, having different aptitudes and abilities.\n\nAlthough I'm afraid if he takes my advice without the lesson, he'll post about lifting with his wife and making bigger gains even though they do the same workout/eat the same diet.",
+                  "author": null,
+                  "created": 1489377858,
+                  "upvotes": -3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "deuwnrj": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuwnrj/",
+          "text": "> Using contemporary data from the U.S. and other nations, we address 3 questions: Do gender differences in mathematics performance exist in the general population? Do gender differences exist among the mathematically talented? Do females exist who possess profound mathematical talent? In regard to the first question, contemporary data indicate that girls in the U.S. have reached parity with boys in mathematics performance, a pattern that is found in some other nations as well. Focusing on the second question, studies find more males than females scoring above the 95th or 99th percentile, but this gender gap has significantly narrowed over time in the U.S. and is not found among some ethnic groups and in some nations. Furthermore, data from several studies indicate that greater male variability with respect to mathematics is not ubiquitous. Rather, its presence correlates with several measures of gender inequality. Thus, it is largely an artifact of changeable sociocultural factors, not immutable, innate biological differences between the sexes. Responding to the third question, we document the existence of females who possess profound mathematical talent. Finally, we review mounting evidence that both the magnitude of mean math gender differences and the frequency of identification of gifted and profoundly gifted females significantly correlate with sociocultural factors, including measures of gender equality across nations.\n\n\nhttps://www.ncbi.nlm.nih.gov/pmc/articles/PMC2689999/",
+          "author": "namesarenotimportant",
+          "created": 1489379015,
+          "upvotes": 6,
+          "replies": {
+            "devb4le": {
+              "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devb4le/",
+              "text": ">Do females exist who possess profound mathematical talent? \n\nI don't like calling questions stupid but... Does that really need answering?",
+              "author": "TransientObsever",
+              "created": 1489413689,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "devzljd": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/devzljd/",
+      "text": "Because of the patriarchy, women only receive 73 points for every 100 points that a male receives. \n\nThe established method for addressing this \"misogyny of patriarchal exams\" (t. Dworkin) is to multiply all male point results by 0.73 before grading.  \n\nThis is sociology 101, and has been explained already in the Dear Colleage letter related to Title IX, and your employer should have told you to do this from the start.\n\nClearly the other professors at your institutions know how to \"punch up\", counteract patriarchal man-pointing.",
+      "author": "ProgressiveFragility",
+      "created": 1489441725,
+      "upvotes": -3,
+      "replies": {}
+    },
+    "deug8xj": {
+      "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deug8xj/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1489355388,
+      "upvotes": -1,
+      "replies": {
+        "deuh6sa": {
+          "link": "/r/AskAcademia/comments/5z08se/female_students_perform_significantly_worse_in_my/deuh6sa/",
+          "text": "I doubt the majority of a mathematics exam is multiple choice.",
+          "author": "Macphearson",
+          "created": 1489356601,
+          "upvotes": 19,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

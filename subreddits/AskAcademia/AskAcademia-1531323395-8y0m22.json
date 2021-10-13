@@ -1,0 +1,242 @@
+{
+  "sid": "8y0m22",
+  "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/",
+  "title:": "Left off of author list",
+  "text": "I'm a late stage PhD candidate with a bit of a conundrum... I'd spent about 1.5 years developing and implementing an important model run for a paper with some collaborators. My part was done relatively quickly compared to the rest of the paper, but it alone ended up being a crucial part of the paper's results - it is called out directly in the abstract, results, conclusion, and even the title of the paper. It's not like we wrote out a contract or anything but it was generally understood that I'd be part of this paper. So I do my part and the project goes on for a few years and I check in occasionally while the main author does her thing.\n\nImagine my surprise when, last week, I find the paper published in PNAS without even so much as a mention of my name in either the author list or the acknowledgments! Nevermind that my contribution was one of the headline results or that it took up over a year of my time (and funding, grumble). The paper was led by our collaborators but a professor in my department, who is on my committee, was heavily involved in the paper and was the main connection between us and our collaborators. It's shocking and disappointing that she would somehow neglect to include me in the discussions. To add to the political aspect, somebody else is on the paper who I'm certain did little work - he was an author on our last paper on the same topic but did not do any of the computational modeling work that is being showcased in this new paper... I know for a fact he doesn't know how. I have no idea how that could be but it looks like he was just thrown on the authorship list for some reason. \n\nNeedless to say, I'm quite frustrated. But now I'm not sure what to do. Way after the fact, she wrote me an uncharacteristically friendly email showing the paper was published and privately acknowledging my contribution (but not apologizing...), maybe meant to just make me feel better? She downplayed how much I would have benefited from the authorship but that, frankly, seems insane to me. I don't feel like I have power in this situation but I feel I was severely exploited. Is there a way to post-hoc edit the authorship list somehow...? How do I prevent this from happening again? Any similar stories from others here?",
+  "author": "bromandawg",
+  "created": 1531323395,
+  "updated": 1634081959,
+  "over_18": false,
+  "upvotes": 101,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "e27861o": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27861o/",
+      "text": ">. I'd spent about 1.5 years developing and implementing an important model run for a paper with some collaborators.  \n>I find the paper published in PNAS without even so much as a mention of my name in either the author list or the acknowledgments!\n\nThis is bullshit and I'm sorry you were screwed. \n\n I wish I could offer you good advice: suck it up and leave with a doctorate low stress after being screwed ( but have it gnaw at you for a long time), or stressfully fight the system.\n\nDo you have the emails/paper trail that show your contribution between the people involved?\n\nThis isn't a minor thing. A fucking PNAS authorship. I'm kinda livid for you.\n \n\nIf you know that the PIs can take this kind of criticism, If I were feeling brave :\n\nI would forward your FPP in an email to both the PIs  **minus the bit that says**:*\"To add to the political aspect, somebody else is on the paper who I'm certain did little work - he was an author on our last paper on the same topic but did not do any of the computational modeling work that is being showcased in this new paper... I know for a fact he doesn't know how. I have no idea how that could be but it looks like he was just thrown on the authorship list for some reason....Needless to say, I'm quite frustrated. But now I'm not sure what to do. Way after the fact, she wrote me an uncharacteristically friendly email showing the paper was published and privately acknowledging my contribution (but not apologizing...), maybe meant to just make me feel better? She downplayed how much I would have benefited from the authorship but that, frankly, seems insane to me. \"* (Never badmouth another author, don't talk about the fob-off email).\n\nand say \"I would not normally complain about such a thing, but not being a co-author on a PNAS paper that I directly and substantively contributed to -(show points of paper which your work used)-  *is a huge blow to my career* and antithetical to this university's policy recognizing all substantive contributors to work with authorship. can we find a way of fixing this?...\"\n\nI wish you luck either way.\n",
+      "author": "lalochezia1",
+      "created": 1531327421,
+      "upvotes": 99,
+      "replies": {
+        "e27ain3": {
+          "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27ain3/",
+          "text": "Thanks for your advice. I don't have many people to talk to since discussing it widely in the department is going to be kind of sticky, it's a small department. I'll probably try to talk with her soon but I want to cool off and hear others' opinions first. I'm not used to being this upset. ",
+          "author": "bromandawg",
+          "created": 1531329252,
+          "upvotes": 30,
+          "replies": {
+            "e28qlgu": {
+              "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e28qlgu/",
+              "text": "Very sorry you're going through this. Just want to check in and make sure you're taking care of yourself during this stressful time.",
+              "author": "carebear7",
+              "created": 1531379204,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "e27hvu3": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27hvu3/",
+      "text": "You can contact the journal editor and try to have a correction made. The more evidence that you can supply, the better.\n\nYou don't have to lay down and take it. \n\nThough the coauthors will find out, and be upset, you wouldn't be doing anything they, or any rational person, wouldn't do. At this stage of your career, a PNAS coauthorship is worth far more than anything else they could give you (e.g. letter of recommendation). \n\nAnd finally, if it leads to a retraction, that's in your advantage as well because you can republish.",
+      "author": "crackersnjuice",
+      "created": 1531334977,
+      "upvotes": 46,
+      "replies": {
+        "e27ibr9": {
+          "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27ibr9/",
+          "text": "I was wondering if this was the case. I had assumed that because the paper had already gone through review and everything, it was a done deal. I think the ideal scenario is that the professor apologizes for an honest mistake and the journal editor also agrees and we can fix it and forget it. I'd really love to give my professor the benefit of the doubt but I don't want to be exploited. I'll think on it but basically I think I'd need the cooperation of several of the authors... a few big shots in the field.",
+          "author": "bromandawg",
+          "created": 1531335301,
+          "upvotes": 11,
+          "replies": {
+            "e27jkap": {
+              "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27jkap/",
+              "text": ">because the paper had already gone through review and everything, it was a done deal.\n\nAbsolutely not. Journals take authorship disputes quite seriously, and neglecting to include authors can lead to corrections or retractions.\n\nThat said, going straight to the journal is the nuclear option. You may want to first try some of the other avenues that have been suggested. Regardless, collect and collate as much evidence as you can that your work was a significant intellectual contribution to the manuscript; you'll want to have that ready regardless.",
+              "author": "Eltargrim",
+              "created": 1531336245,
+              "upvotes": 48,
+              "replies": {
+                "e2bl5ol": {
+                  "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e2bl5ol/",
+                  "text": "To add to this: it\u2019s literally academic fraud to take credit for someone else\u2019w work, and that\u2019s what they did here. \n\nIf you try this shit in undergrad, you might get expelled. \n\nDon\u2019t frame it like this until you need to go nuclear, but if you\u2019re at the point you\u2019re talking to a dean or department chair, saying \u201cXYZ lab is taking credit for my work/ideas and publishing it as their own work. This is academic dishonesty and violates *university policy on academic conduct* \u201c etc ",
+                  "author": "thisdude415",
+                  "created": 1531494716,
+                  "upvotes": 4,
+                  "replies": {}
+                }
+              }
+            },
+            "e27k594": {
+              "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27k594/",
+              "text": "If all you want is an apology from the professor, ask for it. You certainly didn't need need to make a long, detailed post on Reddit for that.\n\nBut, calling this an honest mistake is inconsistent with what you wrote. It seems that the professor is not being honest with you. The fact that she downplayed the importance of being a coauthor suggests that she realized your name should have been on the paper. You should discuss correcting the paper to add your name with her, but if she is the type of person to double down on her position (seems popular with authority figures these days), and insists it is too late to make any changes, remember that you do have other options.\n\nThe other coauthors, if they didn't realize the significance of your contribution, should understand your desire to correct the scholarly record. If not, then perhaps you should find other big shots to work with.\n\nYou will continue to be exploited because you have demonstrated that you are exploitable. You can stop this from happening again by standing up for yourself. Publicly, if needed.\n\n",
+              "author": "crackersnjuice",
+              "created": 1531336700,
+              "upvotes": 20,
+              "replies": {}
+            },
+            "e27v7d5": {
+              "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27v7d5/",
+              "text": "First of all, I am very sorry that this happened to you; it is not something common, but I still have seen this happen to me and my peers.\n\nIf you are saying that your contribution to this publication was so crucial, it is a bit shocking that your collaborators have no idea who you are, or didn't bother to check with your professor about having you included in the publication. Do you think it is likely that your professor didn't even mention you or acknowledge your contribution to the model when presenting results and having discussions? If that's true, then I'll be quite pissed off at her.  If your collaborators know that you did the work, and you have had prior communications, but still ignored your absence at the author list, the whole authorship list is fucked up.\n\nPNAS has a section for author contributions. Did your collaborators fill it out? If so, you should be curious to know who they credited with the model.\n\nI cannot comment on her motives, either it is her trying to trim down the author list from her own group, or just willful ignorance but you have good evidence against her unprofessionalism in the email she sent to you about acknowledging your work for this publication.\n\nYou have a very good reason to appeal your case, and all of your co-authors should be able to understand the situation she put you in. You can start with telling your adviser, that you are unhappy with how things turned out and you can't sit this one out considering you did a crucial part of the work. It is not even about your career, what she did was wrong. Ask her if she has a resolution to this problem. If that doesn't work, going to the journal directly would be pretty bad, because it will shock the rest of your co-authors, so try to bring them into light of your situation before taking any decision. Of course consider any other options that sound better in terms of a solution.\n\n If you are confident in your abilities to be successful in the future and have a good post-doc lined up, you can afford to get out of this without stirring up a shit-show, but what she did was pretty bad and criminal, and she might end up doing this to other junior researchers. ",
+              "author": "peroperoname",
+              "created": 1531345103,
+              "upvotes": 9,
+              "replies": {
+                "e2856ih": {
+                  "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e2856ih/",
+                  "text": "One thing I've seen happen to push someone out of authorship is someone doing all the work then someone else coming in and repeating the experiments and publishing their own data. Which is a super shitty move but I've seen it- especially with projects that get picked up partway through where maybe someone did some initial experiments and then moved on. The new person will just \"confirm\" those preliminary results, finish the story, then basically take credit for the whole thing.\n\nDef a good call on looking at the author contribution section, though. I do think that as a career move I'd be MORE likely to call it out if I already had a good post-doc, not less. OP made it sound like a small field, and they are on other papers with that PI. Presumably getting a good recommendation from that person is more important than being an author on this one paper.",
+                  "author": "DarthCharizard",
+                  "created": 1531354256,
+                  "upvotes": 7,
+                  "replies": {
+                    "e289nfu": {
+                      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e289nfu/",
+                      "text": ">One thing I've seen happen to push someone out of authorship is someone doing all the work then someone else coming in and repeating the experiments and publishing their own data. Which is a super shitty move but I've seen it- especially with projects that get picked up partway through where maybe someone did some initial experiments and then moved on. The new person will just \"confirm\" those preliminary results, finish the story, then basically take credit for the whole thing.\n\nGuess what? I have had that happen to me. I spent two months in an internship and pulled 12-14 hour days to be able to finish up my work from that project. Professor never submitted my work and instead had one of his post-docs re-run the entire experiment 2 years later with him as a lead author and me nowhere on the list. His excuse? The post-doc didn't have anything else to publish in his whole stint so they just chose my unpublished project.\n\n>OP made it sound like a small field, and they are on other papers with that PI. Presumably getting a good recommendation from that person is more important than being an author on this one paper.\n\nAs I think more about it, academic communities can be very unforgiving. If it's a small field, and everyone is friends with everyone, then it may be a good idea to get a resolution in a way that is communicative and respectful, but not force it. Unless one makes a switch to the industry, an advisor's recommendation can come handy at almost every step of the career : finding a post-doc, applying for awards, having someone nominate you for talks, applying for professorships and so on. Unless her adviser is a shitty person, she may try to sweeten the situation by offering to have the OP included in a different paper or making some other concession.",
+                      "author": "peroperoname",
+                      "created": 1531358645,
+                      "upvotes": 5,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "e27dt3b": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27dt3b/",
+      "text": "This happens far more to junior level folks than anyone will admit. This happened to me more than once, under more than one mentor and later with peer and senior collaborators. It makes you end up feeling very used, and also makes one wonder if this is how some of those people get to, and remain, at the top of their game. Surprisingly, it was never the tyrannical types that did this (with those, you can see it coming), it is with the charismatic, even somewhat \"nicer\" types of PIs, that attract people to flock to them with excitement about research (I guess that makes it easier to blindside you). It also made me, as the recipient of this lack of respect, do a lot of self-blame and wonder if I have a \"doormat\" personality that caused this to happen.  When I suspected it was happening prior to publication, I was unable to fix the situation without being accused of causing drama.  I have only had one former big-name mentor give me an unprompted apology that s/he knows s/he did me a huge disservice that likely affected my career, but I did not get the apology until 20 years later . . .\n\nSo I can commiserate, but unfortunately I have no solution for you. I was never smart enough to figure this out. This is one of the reasons I eventually left the politics of trying to be a major player in basic research, but I was extremely fortunate that I had other academic career options that others do not. ",
+      "author": "NoFlyingMonkeys",
+      "created": 1531331797,
+      "upvotes": 23,
+      "replies": {
+        "e28wgs2": {
+          "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e28wgs2/",
+          "text": "So like ... why?  Once an author list has more than two or three people, you can just slap extra names on there with no real consequence that I can see.",
+          "author": "WilyDoppelganger",
+          "created": 1531390492,
+          "upvotes": 8,
+          "replies": {
+            "e292do8": {
+              "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e292do8/",
+              "text": "I totally share your bewilderment!  Some of these were low-author papers, but still, were they thinking they would each get so more credit with 1 less author?  Some of the larger collaborations were politically-motivated I think, but still that's no justification. ",
+              "author": "NoFlyingMonkeys",
+              "created": 1531399335,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "e27igjb": {
+          "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27igjb/",
+          "text": "This is exactly the case! The professor is pretty nice and I had thought we were on good terms. I'm published on a few other articles with her where we had more or less gone through the same procedure (nothing in writing and the author list arose naturally) so I'm honestly more surprised and disappointed than anything else. I'm also afraid of causing drama... it's not a huge field.",
+          "author": "bromandawg",
+          "created": 1531335399,
+          "upvotes": 4,
+          "replies": {
+            "e29361s": {
+              "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e29361s/",
+              "text": "I think some of the other replies have good advice that I unfortunately did not do: Establish right now with this mentor, that you DO expect to be at least a co-author on future papers for all of the work that you do in her lab. You can do this in a nice, non-confrontational email, for example, list the papers that you think will come out of your current work and say something to the effect: \"Would you agree that I deserve to be coauthor (or first author where appropriate) of these papers for this work?\" The email reply will be your documentation.  \n\nThen save all collaboration emails of your future work with future collaborators, etc. as documentation as well. \n\nUnfortunately for this PNAS paper, it is unlikely that she will advocate for an erratum to include you on this work, as it would be an embarrassment to her. And if you file a complaint with your department or contact PNAS, I'm worried that it could backfire and give you a reputation of being difficult to work with.  But for sure, save the email she sent you on the PNAS paper. If she balks in the future to include you in anything else that you deserve, this would be further evidence to take to your chairman to show that you have been treated unfairly and that she has been unprofessional and non-supportive in her role as mentor. ",
+              "author": "NoFlyingMonkeys",
+              "created": 1531400221,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "e27d4c2": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27d4c2/",
+      "text": "This is awful and I agree with /u/lalochezia1 about how to proceed. But I'm interested in your statement that \"it was generally understood that I'd be part of this paper\" - what does that mean? I learned early and the hard way to have the awkward, explicit conversation about authorship early on in the process - you can't be afraid to advocate for yourself. This would be a reliable way to avoid something like this happening again.",
+      "author": "ourannual",
+      "created": 1531331276,
+      "upvotes": 11,
+      "replies": {
+        "e27in68": {
+          "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27in68/",
+          "text": "I've published with her a few other times where no explicit conversation happened, actually contributing less in those other cases. So I'm pretty surprised right now. You're right, though, that it helps to have it be more explicit. I will say, this work started when I was a wee second-year in the program, so I didn't know how to approach it professionally.",
+          "author": "bromandawg",
+          "created": 1531335532,
+          "upvotes": 11,
+          "replies": {}
+        }
+      }
+    },
+    "e28jixf": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e28jixf/",
+      "text": "Basically, you have three options:\n\n* Ignore it and get on with your life.\n\n* Write your collaborators about your contributions and that you insist on co-authorship. From there, two routes are possible: Either they comply and contact the journal, or they tell you to get lost and you open an authorship dispute with the journal yourself.\n\n* Go straight to the nuclear option and contact the journal for an authorship dispute. This is combative and very likely to piss off your collaborators, and shouldn't be done if there's a chance that you can convince them to collectively contact the journal.\n\nFor the second option in option two, and option three, you'll need proof. This can be emails, i.e. a paper trail, your work that lead to the model implementation, etc.; and it better be good. If you're successful, the paper is likely to be retracted, as it's usually a major procedural hassle requiring the published authors' consent to change the author list of a published paper, and even then it would most probably be in the form of a correction or an erratum, i.e. your name still wouldn't appear on the published paper. These actions, especially a retraction, would also besmirch the collaborator's reputation, so they may fight you instead.\n\nI would probably go for option two and, if necessary, aim for a retraction, but I'm quite confrontational about such things, and stubborn to a fault. Such a choice would have an extremely high chance of making a few enemies.",
+      "author": "othorr",
+      "created": 1531368916,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "e276vqu": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e276vqu/",
+      "text": "It sucks this happened to you. It\u2019s fine if stand up for yourself. What does your primary advisor say on the matter? \n\nIn the future, it\u2019s very important to keep track of things like this before they become problems. ",
+      "author": "Aubenabee",
+      "created": 1531326426,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "e284p0n": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e284p0n/",
+      "text": "Tbh that suuuuuper sucks, but you might want to let it go and just make sure in the future you discuss these things earlier. Especially if you're on other authors with the PI, their future recommendation letters for you might be worth more than middle authorship on a PNAS paper.*\n\nLike- just because they screwed you over doesn't mean they won't get defensive and blame you for the uncomfortableness of the whole situation if you try to get it corrected. And if it turns into a drama thing in a small field, being in the right is no guarantee that public opinion will be behind you. So while it is shitty, it might be that the best thing for you is not to pursue it. The other thing I would recommend if you have a good relationship with your actual mentor is to get their opinion on the matter. Sometimes they have a better sense of the politics of these kinds of things and could give you advice on what would benefit you the most.\n\n*Maybe I'm wrong about how much each thing would benefit you, but that's what I would do in your situation.",
+      "author": "DarthCharizard",
+      "created": 1531353792,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "e28xmge": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e28xmge/",
+      "text": "I just want to agree with the others and say that I think the nuclear option (contacting the journal) is a terrible idea at this point.  I would return to the email she sent where she seems to acknowledge your contribution.  I would ask her if you could please meet to discuss this.  I wouldn't be aggressive since that can put people on the defensive.  I would say exactly what you did: that previously your similar contributions have resulted in authorship and that you are confused why you were left off.  Put the ball in her court and have her explain.  Instead of saying, \"I was left off and I demand that this be remedied\" you could try, \"I don't understand how this happened...\"  If you're not satisfied, then say that that explanation isn't satisfactory.  You could put her in the hot seat to explain...but do it nicely.\n\nMy guess is that there's something political going on behind the scenes.  Or she genuinely thought your contribution didn't warrant authorship.  \n\nThe best way to protect yourself in the future is for her to spell out exactly what does constitute authorship.  The reason I say not to go nuclear and contact the journal is that your professor is likely to be someone you collaborate with in the future, or at the very least run in the same circles with.  You don't want to get the reputation for being aggressive or a bad team player (even if you're not in the wrong).  Also, as others have mentioned, what's worth more: her recommendation or this pub?\n\nPersonally, I've been in your exact shoes (perhaps without the stakes of a PNAS authorship).  I edited a book for my PI and then she gave the credit to her former post-doc who was up for tenure and he needed the bump on his CV.  I also did posters and conference presentations without credit.  What this did was 1. give me skills that I wouldn't have otherwise got and 2.  showed me how not to be and what kinds of people I don't want to work with.\n\nIn contrast, I'm currently part of a research collaboration and it's incredible.  When we coauthor papers, the authors are listed pretty early on in the drafts.  On my most recent pub (I'm author like 10 or something -- way down the line) the first author emailed everyone and asked if we still wanted to be on the paper (I asked her if she thought my contribution was enough and that if she felt it wasn't to take me off) or if there was anyone we forgot.  It was a truly collaborative process and now it's my gold standard.\n\nTL;DR: don't go nuclear.  Don't burn bridges.  For the future, open lines of communication early in the process so that all authors are identified.",
+      "author": "acaciopea",
+      "created": 1531392649,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "e28m1mf": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e28m1mf/",
+      "text": "You should contact the journal with evidence that your grant money was spent to make this paper. \n\nPresumably you also have the raw data to prove that you did the work?\n\nThis is bullshit and you should absolutely fight it. ",
+      "author": null,
+      "created": 1531372120,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "e27dh83": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27dh83/",
+      "text": "This is shocking. What country is this? It would not happen in my group. If it did, I would personally escalate immediately. Is this actually acceptable to PNAS?\n\nEdit: good luck with however you proceed!",
+      "author": "hbhawkmoth",
+      "created": 1531331546,
+      "upvotes": 2,
+      "replies": {
+        "e27ii8j": {
+          "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27ii8j/",
+          "text": "This is the US. I don't know how PNAS feels about it. I don't know how much power or influence I have in all this.",
+          "author": "bromandawg",
+          "created": 1531335433,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "e27tw5d": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e27tw5d/",
+      "text": "I was left off a paper for which I had made the initial discovery, and completed the initial portion of the work.  After I left the lab, subsequent students completed the rest, which was published ~3 years later.  When I contacted the paper, they said to reach out to the institution where the lead PI now resided.  That institution's director said something to the effect of \"I feel for you, but my advice is to just move on with your life and be better\".  \n\nAt the time I was very upset, but looking back, I realize that was probably the best advice as it's had zero impact on my career.  All we can do is be better with our own students, and in the future be sure you know what kind of people you are working with, and get in writing what your authorship role will be.\n\nBut, if you wish to pursue it, I don't think the paper will do anything but refer it to the institution. I'd recommend reaching out to the Director of the lead author's and PI's department, and go up that chain to the Dean.  If they don't respond, perhaps the Research Integrity Officer could review it?  Not sure if it's in their domain.  Good luck and I'm very sorry, I know what you're going through.  All I can say is it will get better with time, and to be great regardless of them.",
+      "author": "bobzor",
+      "created": 1531344028,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "e286uvt": {
+      "link": "/r/AskAcademia/comments/8y0m22/left_off_of_author_list/e286uvt/",
+      "text": "I'd ask to link the paper, but I feel like your \"coauthors\" would find out. Don't approach them angry and flustered. Talk to the woman you were talking about and ask her why you're not on the list. There is a chance that it may be a genuine mistake, especially if it's like 20 authors or something.",
+      "author": null,
+      "created": 1531355881,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

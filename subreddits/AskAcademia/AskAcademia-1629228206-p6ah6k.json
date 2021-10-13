@@ -1,0 +1,167 @@
+{
+  "sid": "p6ah6k",
+  "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/",
+  "title:": "I use Mendeley, 2nd author uses Endnote - how can be combine our bibliographies?",
+  "text": "We're writing a review together and it's huge so manual replacement of references is my last option.\n\nI wrote the first draft and used Mendeley, then the 2nd author wrote their part in a separate word file and used Endnote as a citation manager. They sent me the xml file of their Endnote library which I imported into Mendeley, but I'm wondering if there is any automated solution for replacing Endnote references with Mendeley ones, so that the final bibliography is clean.\n\nI could go through the text and delete each of their (endnote) references and replace them with a Mendeley reference, but just their part has around 300 references so if there's an automatic way of doing this, I'd love to know!",
+  "author": "badlybadmaths",
+  "created": 1629228206,
+  "updated": 1634079569,
+  "over_18": false,
+  "upvotes": 7,
+  "upvote_ratio": 0.77,
+  "comments": {
+    "h9bzh5f": {
+      "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9bzh5f/",
+      "text": "Delete both and use bibtex like a real person",
+      "author": "such_science_wow",
+      "created": 1629233214,
+      "upvotes": 19,
+      "replies": {
+        "h9c47k4": {
+          "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9c47k4/",
+          "text": "I was going to suggest they export/import into Zotero",
+          "author": "--ikindahatereddit--",
+          "created": 1629235206,
+          "upvotes": 15,
+          "replies": {}
+        },
+        "h9d9hxd": {
+          "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9d9hxd/",
+          "text": "LOL, this OP doesn't want to update a word document manually, they're not going to want to switch to latex.",
+          "author": "CheeseWheels38",
+          "created": 1629255651,
+          "upvotes": 3,
+          "replies": {
+            "h9vz8kj": {
+              "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9vz8kj/",
+              "text": "Can we have this printed and handed out to people when they finish STEM courses? \n\nLatex is not used *at all* in some fields of academia. It's like telling someone to drive when they ask about a train station.",
+              "author": "Gulbasaur",
+              "created": 1629620094,
+              "upvotes": 1,
+              "replies": {
+                "h9w0lpu": {
+                  "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9w0lpu/",
+                  "text": "Meh, even in STEM it's not ubiquitous. I used MS Word exclusively for my PhD thesis and my papers with no issues. I only had to use latex recently because I was working for a PI who picked his side on the debate in the 90s when Word truly was awful.",
+                  "author": "CheeseWheels38",
+                  "created": 1629621261,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "h9l8qhp": {
+          "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9l8qhp/",
+          "text": "Yeah look how easy it is\n\n    $cat my.bib their.bib > our.bib",
+          "author": "yakiguriumai",
+          "created": 1629411745,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h9csuc3": {
+      "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9csuc3/",
+      "text": "I'm working with a latex environment where I needed to combine citations from authors to form a coherent library. [You can use JabRef to automate this process.](https://tex.stackexchange.com/a/20029)  It depends on the format that they've written. If its a word format, I'm not sure. Try converting your document using Pandoc to latex and follow the above mentioned workflow. Mendeley and Endnote both has option to export library to bibtex.",
+      "author": "Practical-Smell-7679",
+      "created": 1629247063,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h9d3z3n": {
+      "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9d3z3n/",
+      "text": "Zotero has a library feature where multiple people can share the same library. I haven't used it, so IDK how well it works, but both of you could export to zotero and use it as a common tool for the project. I suppose either of your preferred tools may have a similar feature as well, so it may be solved by one of you using the other tool for the project as well.\n\nExports/imports are often imperfect, so I'd rather not rely on that process. You might end up with hard-to-spot errors in the bibliography, even if you find a way to automatically sync databases between the apps.",
+      "author": null,
+      "created": 1629252722,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h9bqzup": {
+      "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9bqzup/",
+      "text": "Export library as .xml in endnote, then import the file in mendeley, and vice-versa.",
+      "author": "karimNanvour",
+      "created": 1629229739,
+      "upvotes": 4,
+      "replies": {
+        "h9bst5s": {
+          "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9bst5s/",
+          "text": "Did you read the post?  \n\n\n>They sent me the xml file of their Endnote library which I imported into Mendeley, but I'm wondering if there is any automated solution for replacing Endnote references with Mendeley ones, so that the final bibliography is clean.",
+          "author": "badlybadmaths",
+          "created": 1629230481,
+          "upvotes": -16,
+          "replies": {
+            "h9dduop": {
+              "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9dduop/",
+              "text": "Oh..!\n\nTo be honest I did not read the whole post. I opened reddit before going to sleep last night, and saw your query. I just read the title and  first few lines.  \n\nAnd i don't understand the down votes... Sorry about that.\n\nNow back to the question (you could have framed your title differently). What you're talking about is not just combining bibliographies, but merging the two documents using two different citation tools. That's a two step process. First you convert the document you want to merge into configuration of your citation tool (in your case convert endnote document into mendeley document). Then merge the two files. Then update the new document. \n\nI don't know how it's done in mendeley, but I'm sure there is a way to do so in there. \n\nI don't know if it helps you or not but here are the steps of converting a mendeley document to an endnote file. \n\nIn order to convert a document created using Mendeley's \"Cite-O-Matic\" tools, it needs to be formatted in a custom style. [Here ](https://clarivateanalytics.my.salesforce.com/sfc/p/41000001O1D5/a/4N000000a9IY/HjvO7jWoi6qzbnnlTKvieYsec4wfmtRwP8v7Uo3IrBQ) is the \"Mendeley-to-Endnote-Title.csl\" file.\u00a0Now add the custom style to the Mendeley program.\n\nOpen Mendeley and click View > Citation Style > More Styles.\n\nUnder the Installed tab, please drag and drop the custom style.\n\nNow in the word program follow the steps below:\u00a0\n\nOpen Word, click the References tab, click on Style dropdown > More Styles.\n\nSelect Mendeley-to-Endnote-Title and click OK. Now references will display only the title in the open and close curly braces: {Title}.\u00a0\n\nOpen the\u00a0EndNote\u00a0library and the document formatted using the \"custom\" style.\n\nSave the modified document with a new name.\n\nWindows:\u00a0Press [Ctrl]+A on the keyboard to highlight everything.\n\nMac:\u00a0Press [Command]+A on the keyboard to highlight everything.\n\nWindows:\u00a0Press [Ctrl]+6 (above the \"T\" and \"Y\" key) to remove any field codes.\n\nMac:\u00a0Press [Command]+6 (above the \"T\" and \"Y\" key) to remove any field codes.\n\nRemove any Bibliography present in the document.\n\nUpdate the document with the appropriate style using the\u00a0EndNote\u00a0tools.\u00a0",
+              "author": "karimNanvour",
+              "created": 1629258124,
+              "upvotes": 4,
+              "replies": {
+                "h9ejn12": {
+                  "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9ejn12/",
+                  "text": "I did the exact same thing when collaborating with someone who used Endnote and it worked well!",
+                  "author": "erkphos",
+                  "created": 1629291124,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "h9d0vi1": {
+              "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9d0vi1/",
+              "text": "I don't understand the downvotes lol, seems like nobody read my post. I already did export my the endnote library and import it into Mendeley, that's not the issue ffs. If you guys downvoting are in the academia, no wonder there hasn't been any major breakthroughs recently. Low-effort solutions for a problem I didn't even pose. Funny.\n\nBut here, you can downvote this one because I called you out and was rude. It's my gift to you, anything to make your day better <3",
+              "author": "badlybadmaths",
+              "created": 1629251149,
+              "upvotes": -8,
+              "replies": {
+                "h9da63r": {
+                  "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9da63r/",
+                  "text": "Welcome to reddit :S. As soon as you post anything about using the word processing program that's on every business/institutional computer the army of latex fanboys comes out to tell you that they're better than you.",
+                  "author": "CheeseWheels38",
+                  "created": 1629256019,
+                  "upvotes": 0,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h9cq7gw": {
+      "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9cq7gw/",
+      "text": "Just pay $30 for a freelancer to do it for you. Plenty of freelancers on upwork waiting for jobs like this",
+      "author": "overlapping_gen",
+      "created": 1629245703,
+      "upvotes": 1,
+      "replies": {
+        "h9d0kab": {
+          "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9d0kab/",
+          "text": "Nah the lab can pay for it, I'm not paying out of my own pocket. But that's not happening so I looking for other options",
+          "author": "badlybadmaths",
+          "created": 1629250993,
+          "upvotes": -4,
+          "replies": {
+            "h9d318h": {
+              "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9d318h/",
+              "text": "It\u2019s only $30 and you save yourself 5 hours of work. I say that\u2019s a good deal",
+              "author": "overlapping_gen",
+              "created": 1629252236,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h9frdnc": {
+      "link": "/r/AskAcademia/comments/p6ah6k/i_use_mendeley_2nd_author_uses_endnote_how_can_be/h9frdnc/",
+      "text": "You can\u2019t highlight the citation and click change all then it changes all of it throughout the text?",
+      "author": "InsideOld5974",
+      "created": 1629311359,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

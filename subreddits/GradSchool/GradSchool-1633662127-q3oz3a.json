@@ -1,0 +1,256 @@
+{
+  "sid": "q3oz3a",
+  "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/",
+  "title:": "Advice needed: Thesis advisor damaged my laptop",
+  "text": "I'm in a bit of a precarious situation.\n\nToday I was in the computer lab on campus working on my research. I had my laptop inside my backpack on a chair next to me. My thesis advisor came in to speak with me and dropped my backpack from about two feet onto the ground so he could sit in the chair.\n\nI checked my laptop immediately and thought it was fine. I got home and discovered the USB antenna for my wireless mouse had been jammed into the USB port. I had to break the antenna to remove it so the mouse is now useless. Part of the antenna remained jammed inside the port so I had to go over to the local PC repair shop to have it removed. It took less than a minute so the guy didn't bill me for that, thankfully. Unfortunately, I got home and discovered the USB port does not work any more, either. I tried multiple USB drives and none connected, so I'm certain that something is not working with it.\n\nI know my advisor didn't do it on purpose but at the same time, he handled my possessions extremely carelessly. I wouldn't handle a bag of rocks the way he did (that might be because I'm a geologist, though...).\n\nI'm okay with eating the cost of a new mouse but I'm a more upset about the USB port. The local PC repair shop has free diagnostics on factory built laptops (which mine is) but I'm sure even the cheapest of repairs is going to run $50.00 at the least assuming its something simple.\n\nThe school cut my TA position due to budget woes so I'm trying to be as frugal as possible right now given I have minimal income. I don't want to rock the boat with my thesis advisor by telling him he damaged my PC but I also don't really want to eat the entire cost of repairing my PC assuming it can be repaired for a reasonable amount.\n\nAny advice would be welcome.",
+  "author": "AngriestManinWestTX",
+  "created": 1633662127,
+  "updated": 1634099821,
+  "over_18": false,
+  "upvotes": 49,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "hftbk6e": {
+      "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hftbk6e/",
+      "text": ">My thesis advisor came in to speak with me and dropped my backpack from about two feet onto the ground so he could sit in the chair.\n\nlol what kind of moron does that? I think it's fine to get an estimate from the repair shop and tell your adviser that you know he did not intentionally damage your computer, but when he dropped your backpack on the floor he damaged your laptop and it needs to be repaired, said in a tone that implies he is going to pay for it. \n\nIt doesn't matter whether he intended to damage your property or not, your computer was damaged because he was negligent so he should pay for the damages. However, unfortunately, given that he has less than common sense already, you may end up having to pay the cost yourself. If you explain your tight financial situation with the repair shop, they might offer you a payment plan depending on the cost. \n\nAlternatively, if your student union has some kind of mutual support fund (if you even have a union) you could also look into that. My student union was giving folks money for unexpected expenses because of pandemic-related budget cuts, so others might have done similarly.",
+      "author": "False-Guess",
+      "created": 1633664328,
+      "upvotes": 78,
+      "replies": {
+        "hftd98d": {
+          "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hftd98d/",
+          "text": "Ight, I\u2019ll definitely check around and see if we have a student union.\n\nMy department offered all grad students $500 when I first started and I never used that money because I had received scholarships for my research. \n\nAssuming the school didn\u2019t take that when they gutted our budget to give the president and basketball coach a raise (after they eliminated my TA job), I\u2019ll just ask for that money. Unless the fall damaged the motherboard, I seriously doubt repairs would exceed $500.",
+          "author": "AngriestManinWestTX",
+          "created": 1633665311,
+          "upvotes": 20,
+          "replies": {
+            "hftw77r": {
+              "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hftw77r/",
+              "text": "As a last resort, you may also consider checking to see whether your school has an emergency loan program through the dean of students office (NOT financial aid). My university has one where you can get up to $500 at 0% interest. Like two years ago I had a lot of unexpected expenses come up (moving, rent, etc) all at once and it was a real lifesaver. The only restriction was that I couldn't use it to pay for segregated fees, but I used it to buy groceries and pay other expenses.",
+              "author": "False-Guess",
+              "created": 1633679175,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hfuro0o": {
+      "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfuro0o/",
+      "text": "If I did this to a student, I would be mortified and would go out of my way to make it right, and apologize for the awkward position I put you in. \n\nWhat was his reaction when you initially checked it? It sounds like he doesn't know he broke anything and you're not giving him a chance to do right by you. It's awkward, but he should be gracious.\n\nBy the way, I'd bet the motherboard is damaged. Maybe it could be repaired by resoldering the port, but I doubt you're going to get it as good as new for under $100, especially if you're not doing the repair.\n\nIf you won't confront him, I'd get a new USB hub for $15.",
+      "author": "30kdays",
+      "created": 1633701306,
+      "upvotes": 20,
+      "replies": {
+        "hfv5w14": {
+          "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfv5w14/",
+          "text": ">What was his reaction when you initially checked it? It sounds like he doesn't know he broke anything and you're not giving him a chance to do right by you.\n\nI didn't even realize something was broken until later. I opened up the screen to make sure it wasn't spiderwebbed and when it turned on immediately, I assumed it was fine, put it back in my pack and went about my day. It was only when I got home and my mouse wasn't working that I realized the receiver was wedged into the USB port.\n\nI went to the local PC shop today and the guy told me the USB ports on most laptops are soldered onto the motherboard. So if I want the USB port back, I would have to replace the entire motherboard which would be nearly the price of a new laptop. \n\nIf the USB port is the only thing that got toasted, I guess it's okay but I'm just worried about any further damage that's yet to manifest. \n\nI have no idea how to bring this up to him or if I even should.",
+          "author": "AngriestManinWestTX",
+          "created": 1633707512,
+          "upvotes": 2,
+          "replies": {
+            "hfv858k": {
+              "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfv858k/",
+              "text": "It's possible to resolder a new USB port on the motherboard, but I'm not surprised they're unwilling to try (it's hard, risky, and might not work if the traces on the PCB are damaged). However, it's unlikely that there will be additional damage that manifests later. \n\nAt any rate, I'd send a quick note.\n\nDear professor x,\n\nWhen you moved my bag the other day, my laptop inside was damaged. Are there department funds or something available to fix such things?\n\nThanks,",
+              "author": "30kdays",
+              "created": 1633708452,
+              "upvotes": 16,
+              "replies": {
+                "hfvw90u": {
+                  "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfvw90u/",
+                  "text": "This is good advice, approach him looking for university funds. That way you don't sound accusatory and it gives him a chance to make it right either with university money or his own.",
+                  "author": "blteare",
+                  "created": 1633718542,
+                  "upvotes": 6,
+                  "replies": {
+                    "hfvx3kf": {
+                      "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfvx3kf/",
+                      "text": "Exactly. And if he doesn't get that hint, then he's being intentionally obtuse. At that point, you can decide whether the principle or the money is worth the relationship and either escalate or drop it.",
+                      "author": "30kdays",
+                      "created": 1633718900,
+                      "upvotes": 4,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hfwh94c": {
+      "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfwh94c/",
+      "text": "I think everyone in this thread is giving you terrible advice. \n\nDid your advisor behave irresponsibility? Yes.\n\nIs it \u201cfair\u201d for him to cover the cost? Yes\n\nShould you make an issue out of this? Absolutely not. \n\nJust eat the $50, or whatever the cost is, and move on. In the long run, maintaining a positive relationship with your advisor is way more important than $50. \n\nSometimes you have to ignore what is \u201cfair\u201d and do what is pragmatic.",
+      "author": "SomeRandomScientist",
+      "created": 1633727217,
+      "upvotes": 11,
+      "replies": {
+        "hfwikq5": {
+          "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfwikq5/",
+          "text": ">Just eat the $50, or whatever the cost is, and move on.\n\nLocal PC repair guy^(TM) was a bro and up front saying that \"repairing\" the USB would almost certainly require replacing the motherboard outright and then reinstalling it which would obviously be quite expensive (around 2/3 of what the laptop cost originally due to inflated component prices). Luckily the damage seems to be isolated to the USB port with no further damage that I've detected. The USB splitter for $15 I bought has given me the same functionality as I had previously. \n\n>In the long run, maintaining a positive relationship with your advisor is way more important than $50.\n\nSometimes you have to ignore what is \u201cfair\u201d and do what is pragmatic.\n\nThat's pretty much what I'm gonna do. Like I said, previously, I know he did not do it on purpose and probably didn't realize a PC was in the bag, so I'm not super upset with him or anything. We had a productive discussion on my thesis, today too, so I'm not gonna push my luck.",
+          "author": "AngriestManinWestTX",
+          "created": 1633727783,
+          "upvotes": 7,
+          "replies": {
+            "hfwq5xv": {
+              "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfwq5xv/",
+              "text": "Ok it sounds like you\u2019re taking the right approach then. Sorry if I sounded harsh in my comment. I was just pretty shocked by some of the advice other people were giving you - advice I seriously doubt they would follow if it were them in the situation.",
+              "author": "SomeRandomScientist",
+              "created": 1633731067,
+              "upvotes": 6,
+              "replies": {
+                "hfxb7fy": {
+                  "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfxb7fy/",
+                  "text": "Not harsh at all, I definitely appreciate it.",
+                  "author": "AngriestManinWestTX",
+                  "created": 1633741015,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hftbwf8": {
+      "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hftbwf8/",
+      "text": "Tricky situation, sorry that happened to you.\n\nDoes your laptop have other ports? You could just make do.\nYou could try dropping hints, if you don't want to bring it up directly.\nA lot of universities have surplus departments where stuff can be transferred between departments essentially free. Ask your Prof for permission to go get a mouse or look for a laptop there (mice are prolific, laptops not so much). That would either start the conversation you need to have about the broken port, or at the least get you a replacement mouse for free.\nProfessors run the gamut on personality types. Done are unfortunately a-holes, while others are really kind. Hard to say just how to go about it without knowing him.",
+      "author": "blteare",
+      "created": 1633664520,
+      "upvotes": 7,
+      "replies": {
+        "hftcp0p": {
+          "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hftcp0p/",
+          "text": "It has other ports, yes, so it\u2019s not the end of the world if this one is busted. I can buy a splitter and have a net gain in USB ports. \n\nIt\u2019s a personal laptop, though, and one that was pricey in 2019 when I got it for Christmas.\n\nMy advisor is a bit ornery but he\u2019s nice and I genuinely respect him but I\u2019m super worried about straining the professional/friendly relationship.\n\nOne of my fellow grad students saw it happen so I\u2019d have a witness if necessary but I\u2019m really hoping it won\u2019t descend to that. \n\nIf it\u2019s less than $200 I can probably eat it but I know laptops are notoriously difficult to repair. I\u2019m absolutely getting a diagnostic performed to ensure there was no damage to the motherboard or memory card.",
+          "author": "AngriestManinWestTX",
+          "created": 1633664981,
+          "upvotes": 14,
+          "replies": {}
+        }
+      }
+    },
+    "hftku74": {
+      "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hftku74/",
+      "text": "If you still have another USB port get a USB hub to split it. May not work for connections that require all the power they can get but if you\u2019re just using a mouse and maybe a keyboard or flash drive it should be fine",
+      "author": "NoComfortable7128",
+      "created": 1633670181,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hfwgih4": {
+      "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfwgih4/",
+      "text": "Other folks have already commented with advice but I want to stir the pot a bit and ask: why did your advisor feel comfortable grabbing someone else\u2019s property in the first place, particularly in a public space? (e.g. Unless that bag is on my own desk or chair, I\u2019m not touching it without explicit permission or direction from the owner. Even then, I\u2019m probably going to ask someone about it first.) \n\nI worry that your advisor might not be respecting your boundaries in other areas as well (or that boundaries aren\u2019t clearly set to begin with). This might be a difficult thing to think about right now, given the circumstances, but I would advise that you take some time to evaluate whether there might be some other/underlying boundary issues you need to address as well.",
+      "author": "urides",
+      "created": 1633726903,
+      "upvotes": 2,
+      "replies": {
+        "hfwhnph": {
+          "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfwhnph/",
+          "text": "I was working in the computer lab on a few figures for my thesis.\n\nI'm into the nitty gritty part of it, trying desperately to finish up before November so I can get the hell out of school and maybe get a job.\n\nI had asked him to visit the lab so he could see my progress and he arrived a few moments later. I had my backpack in the chair next to me to keep it off the floor (so it wouldn't get kicked accidentally or something, ironically). My thesis advisor showed up, said hi, and went to move my backpack. I don't if it slipped out of his hand, if he didn't realize how high it was from the tile, or if he was just completely oblivious to the chance there could be a laptop in there, but he dropped it from about the height of the chair's bottom onto the ground (\\~1.5-2ft?). \n\nIt wasn't like he was setting out to be intentionally destructive or malicious but it comes across as careless.\n\nLuckily, it seems the damage is isolated to the USB port and there has (thus far) been no other issues. A USB splitter has solved the issue but it's still annoys me it was necessary in the first place.",
+          "author": "AngriestManinWestTX",
+          "created": 1633727393,
+          "upvotes": 1,
+          "replies": {
+            "hfwjkaf": {
+              "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfwjkaf/",
+              "text": "Sorry, yeah, I totally get that he probably wasn\u2019t malicious in his intent (though clearly negligent, and I empathize with you greatly). But my thought was more related to him grabbing your bag in the first place. Like, it doesn\u2019t sound as if he even asked permission to move it to begin with (if he did, then you can probably safely ignore the rest of my comment). To me, that aspect of it set off something in my head because it seems like a boundary that shouldn\u2019t be crossed (namely, handling my possessions be they physical, data, thesis, etc. without clear consent).",
+              "author": "urides",
+              "created": 1633728210,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hfw15oc": {
+      "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfw15oc/",
+      "text": "If you don't feel comfortable talking with your advisor about it, file a report with the school/email the relevant department. Your advisor is an employee of the university and doing their job when they damaged your goods. Typically, employers pay when their employees damage something if they're on the job.",
+      "author": "Matterials",
+      "created": 1633720550,
+      "upvotes": 0,
+      "replies": {
+        "hfwqtvt": {
+          "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfwqtvt/",
+          "text": "I\u2019m sorry but this is shockingly bad advice. You\u2019re recommending that he go above his advisors head and file a report with the university over a damaged USB port? It\u2019s not like this would happen without the professor getting involved - he would certainly be roped into it. \n\nThis is how you burn bridges. You don\u2019t want to burn bridges with your grad school advisor. \n\nRule #1 in the real world: Do not go over your bosses head unless you have a damn good reason to do it, and you\u2019re ok with damaging the relationship.",
+          "author": "SomeRandomScientist",
+          "created": 1633731355,
+          "upvotes": 5,
+          "replies": {
+            "hfxcawt": {
+              "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfxcawt/",
+              "text": "The difference is in the $$$. What is the university going to do? Fire the the advisor over $50? They could have hit OP over the head with the laptop, and it would still take a few years before they were terminated.\n\nAlso, the advisor won't give two shits about it, as long as it doesn't take up their time.",
+              "author": "Matterials",
+              "created": 1633741542,
+              "upvotes": 0,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hfthwm2": {
+      "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfthwm2/",
+      "text": "I wouldn\u2019t expect my advisor to cover the repair. I probably wouldn\u2019t have a single USB port repaired unless it had virtually no ports. And I would stop putting my bag on a chair instead of the ground",
+      "author": "CMRattray2020",
+      "created": 1633668200,
+      "upvotes": -15,
+      "replies": {
+        "hfugpmt": {
+          "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfugpmt/",
+          "text": "I am no legal scholar but if you break something due to absolute negligence you need to pay for the repair.\nThe only question here is if he wants to strain the relationship",
+          "author": "relevant_0815",
+          "created": 1633695673,
+          "upvotes": 14,
+          "replies": {
+            "hfw0nfc": {
+              "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfw0nfc/",
+              "text": ">strain the relationship\n\nIf this strains a relationship, the relationship is abusive. But this is grad school, so that wouldn't be a surprise.",
+              "author": "Matterials",
+              "created": 1633720346,
+              "upvotes": 0,
+              "replies": {}
+            }
+          }
+        },
+        "hfw3lhx": {
+          "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfw3lhx/",
+          "text": "Agree but what idiot is just dropping it like that when they want to sit there?",
+          "author": "pssiraj",
+          "created": 1633721524,
+          "upvotes": 1,
+          "replies": {
+            "hfw4fmv": {
+              "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfw4fmv/",
+              "text": "Someone who thinks it\u2019s a bag of books",
+              "author": "CMRattray2020",
+              "created": 1633721866,
+              "upvotes": 0,
+              "replies": {
+                "hfw4xz1": {
+                  "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfw4xz1/",
+                  "text": "I suppose... I never assume what's in someone else's case or bag so I'm careful anyway. Never know what's fragile, tech or not.",
+                  "author": "pssiraj",
+                  "created": 1633722074,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hfuggki": {
+      "link": "/r/GradSchool/comments/q3oz3a/advice_needed_thesis_advisor_damaged_my_laptop/hfuggki/",
+      "text": "If you address him and aren't sure how he will respond. You could ask if he might be insured over the university somehow. Say that you are trying to save some money because your position was cut and if there is an insurance for this you would be glad if you could use that. \nThere are two options now: he realizes it was his fault entirely and he just pays you. No harm done. \nOr he says there is no such insurance. (Which in my opinion he would only say if he doesn't care). In this case for relationship reasons I would not pursue it any further. You would be in the right but it might not be worth it if it means your supervisor hates you now. \n\nI assume there is no insurance for this case",
+      "author": "relevant_0815",
+      "created": 1633695527,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

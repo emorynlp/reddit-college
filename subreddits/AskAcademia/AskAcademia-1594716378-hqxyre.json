@@ -1,0 +1,439 @@
+{
+  "sid": "hqxyre",
+  "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/",
+  "title:": "I'm conflicted about recommending -again- rejection for a paper about an extremely accurate experiment",
+  "text": "So, three months ago I was a reviewer for a paper about something in a sub-sub-niche where I think I'm one of the most qualified people around (because I think that like 10 people worldwide worked on this extremely specific subproblem). The paper involved super careful simulations to try to solve one of the longest running issues of this very specific sub-field. \n\n I recommended rejection because I thought that such simulations, while technically incredibly accurate, are not addressing the issue at hand. I've later found out that also the other reviewer agreed. The editor went for a reject with option to resubmit (in a high IF journal that has also the major revision option).\n\nNow the paper is back. They've expanded a lot the already long paper. They've tripled the amount of simulations, accounting for yet other factors. But I still think it's irrelevant because the question they're asking does not relate to the issue we're trying to solve, not because there's any issue with the practical implementation. \n\nSo I'd want to recommend again a rejection... But I feel bad for this large team that did a huge and accurate work. Also, I wouldn't know what to write in the review. It would be like two lines \"You did a great job, but it still doesn't address anything of the two pages I wrote last time\". It's true... but I feel super bad in saying something this dismissive to someone that worked this much...\n\nSo... what should I do?\n\nOut of curiosity, it's an issue for which 3 years ago we internally also produced lots of data and... decided not to even write anything because we couldn't find a method that would allow any reasonable way to validate results",
+  "author": "lucaxx85",
+  "created": 1594716378,
+  "updated": 1634081983,
+  "over_18": false,
+  "upvotes": 96,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "fy0rm8h": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy0rm8h/",
+      "text": "Putting in a lot of work doesn't make a paper suited for a high impact journal. You can pay compliments to their simulations and the amount of work they put into them, but say that it belongs in a more specialized journal for the reasons you mentioned in the previous review, which are still not resolved.\n\nTheir paper will get published somewhere. They're adults in academia, they can handle a rejection.\n\nEdit: One caveat. You wrote \n\n> The paper involved super careful simulations to try to solve one of the longest running issues of this very specific sub-field. I recommended rejection because I thought that such simulations, while technically incredibly accurate, are not addressing the issue at hand\n\nAre you sure their intention is to completely solve that specific issue? Sometimes reviewers' judgment can be clouded by what question they wish the paper answered instead of what the paper was actually meant to answer. \n\nIs the paper still valuable and worthy of publication in this particular journal even if it doesn't solve the problem you mention? You can always suggest that they clarify in their  intro and discussion that they haven't completely solved that problem, but still recommend it's accepted if you think the paper is sufficiently valuable anyways",
+      "author": "ProfOnTheMove",
+      "created": 1594719094,
+      "upvotes": 237,
+      "replies": {
+        "fy20tp3": {
+          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy20tp3/",
+          "text": "Perhaps a better way to frame the response to the authors is to ask them to clearly articulate the scientific questions their highly accurate simulations aim to address?",
+          "author": "mleok",
+          "created": 1594747660,
+          "upvotes": 35,
+          "replies": {}
+        }
+      }
+    },
+    "fy0trsc": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy0trsc/",
+      "text": "Yeah it doesn\u2019t really sound like you are saying they said they wanted to solve x question and they did y.\n\nIt sounds like they tried to answer y question with y proof, but you want them to do x.",
+      "author": "RaddishEater666",
+      "created": 1594721336,
+      "upvotes": 159,
+      "replies": {
+        "fy1snm2": {
+          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1snm2/",
+          "text": "In OP's own description, the paper does robust, rigorous, and novel work; it just doesn't do the work they ***think*** should be done.\n\nThe job of a reviewer isn't to make everyone conform to their views on research, it's to judge whether work validly contributes to the field. By their own description, this does. It should be published.\n\nI will caveat that there's some discussion downthread about the piece making too sweeping claims in its conclusion - that's something that can and should be addressed, but not with an outright rejection. If the article's title, abstract, and substance are about X, the fact that the reviewer ***wishes*** they were about Y isn't a valid reason for rejection.",
+          "author": "WrestlingStuffGuy",
+          "created": 1594743761,
+          "upvotes": 78,
+          "replies": {
+            "fy1uphx": {
+              "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1uphx/",
+              "text": "Yeah, this is really tricky. For an analogy from my discipline, it's unclear if what's going on here is:\n\n(1) Researchers are asking a question that really needs to be answered through a randomized, representative, large-scale survey... but are using small n qualitative interviews instead.\n\n(2) Researchers are asking a question that needs interviews, using interviews, but OP thinks that a subtly different question (the one that needs a survey) is more valuable.\n\nIf OP is identifying accurately that the research question really needs a large-scale, representative survey, it should be rejected if it uses small-n interviews. But, if OP thinks that they really should have asked the large-n question (and is ignoring the fact that the small-n one is an important contribution and done in an appropriate, rigorous way), then it should be accepted. We just don't have enough detail from the post to know.",
+              "author": "kennedon",
+              "created": 1594744751,
+              "upvotes": 24,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fy0urx9": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy0urx9/",
+      "text": "> They've tripled the amount of simulations, accounting for yet other factors. But I still think it's irrelevant because the question they're asking does not relate to the issue we're trying to solve\n\nThis appears to be the crux of it. You want them to have done thing Y, when they have actually done thing X.\n\nIf their title, and the remaining content all address X, then it is your job to review whether they have done thing X, not whether they have done the thing you wanted them to do.\n\nIf, on the other hand, they have done thing X while claiming to have done thing Y then it's your job to explain how X =/= Y, and what they can do to re-frame their paper in terms of X.\n\nAs someone who has had a reviewer criticise a paper for not doing something we never claimed we were trying to do (literally, \"this paper is an outstanding proof of X, but they have completely failed to solve Y so I see no merit in publishing this work\"), please don't be that person.",
+      "author": "OrbitalPete",
+      "created": 1594722372,
+      "upvotes": 105,
+      "replies": {
+        "fy0w83r": {
+          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy0w83r/",
+          "text": "We're halfway between the 2 situations. They claim to have empirically proven Y (which can't by proven using theory) by doing X which involves simulations. I claim that X does not prove Y. IMO because the same thing that makes a theoretical proof impossible does not allow to simulate the source of variability in the data that you need to finally prove Y.\n\n They're simulating extra accurately an imaging device but the source of variability at the root of phenomenon Y is in the biology of the living object you're imaging.",
+          "author": "lucaxx85",
+          "created": 1594723817,
+          "upvotes": 25,
+          "replies": {
+            "fy0wr8g": {
+              "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy0wr8g/",
+              "text": "OK, so simply make the case that they need to remove the section saying they're proving Y. They can discuss Y in the discussion section, but the focus of the paper must be on their careful analysis of X.\n\nThey just need to tone down their 'proof' statement.\n\nAlthough it's entirely possible that this will remove the paper for contention from that specific journal. And that's fine.",
+              "author": "OrbitalPete",
+              "created": 1594724323,
+              "upvotes": 63,
+              "replies": {
+                "fy13g42": {
+                  "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy13g42/",
+                  "text": "The thing is that if they don't prove Y their work is pretty uninteresting. It's a decent technical simulation that confirms the very well known theory. I guess I'll recommend the editor to move the paper to a lower impact journal",
+                  "author": "lucaxx85",
+                  "created": 1594729835,
+                  "upvotes": -19,
+                  "replies": {
+                    "fy1p9pc": {
+                      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1p9pc/",
+                      "text": ">if they don't prove Y their work is pretty uninteresting\n\nTo you perhaps. But you must acknowledge your own biases. In your previous post you were throwing around a lot of \"I claim\" and \"In my opinion\". You can state those as your position, but authors are perfectly within their rights to disagree with you.\n\nYou can disagree with their interpretation, but unless you can specifically demonstrate that it is wrong I don't see why it shouldn't be published for the field as a whole to see and challenge.",
+                      "author": "OrbitalPete",
+                      "created": 1594742095,
+                      "upvotes": 37,
+                      "replies": {
+                        "fy22sc1": {
+                          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy22sc1/",
+                          "text": "Wut? What did I say wrong? Why did I get so many downvotes?\n\nIs there something so wrong in saying that if an author claims \"I've found a solution for this 20 years long problem\" while in fact he just replicated an unhelpful known fact from 15 years ago in a different way then the finding should move from a journal with IF=7 to one with IF=2?",
+                          "author": "lucaxx85",
+                          "created": 1594748591,
+                          "upvotes": 1,
+                          "replies": {
+                            "fy24r6u": {
+                              "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy24r6u/",
+                              "text": "[deleted]",
+                              "author": null,
+                              "created": 1594749508,
+                              "upvotes": 17,
+                              "replies": {
+                                "fy48u7n": {
+                                  "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy48u7n/",
+                                  "text": "Motherfucking backwards facing step is still getting published today all the time lol.",
+                                  "author": null,
+                                  "created": 1594792037,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            },
+                            "fy2eksd": {
+                              "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2eksd/",
+                              "text": "> The thing is that if they don't prove Y their work is pretty uninteresting.\n\nIt's not your job to determine if it's interesting. It's your job to determine if they did a good enough job answering the open question they pose. It's your place to suggest to the section editor that the material isn't novel, impactful, etc. enough for the journal, but that call is for the editor to make.",
+                              "author": "icantfindadangsn",
+                              "created": 1594754146,
+                              "upvotes": 10,
+                              "replies": {
+                                "fy2i3lz": {
+                                  "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2i3lz/",
+                                  "text": "I think you're splitting hairs.  For high impact journals it really is one of the reviewer's jobs.  Sure, there are questions of technical merit, but there are also questions of scope and interest.  A technically perfect paper may not be suitable for a given journal.  The journal will often tell you to evaluate this explicitly.  The editor can overrule the reviewer's findings on these issues, but it's also possible for the editor to overrule technical issues (I've seen it).",
+                                  "author": "dampew",
+                                  "created": 1594755824,
+                                  "upvotes": 8,
+                                  "replies": {
+                                    "fy2mkih": {
+                                      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2mkih/",
+                                      "text": "Yeah maybe you're right. I totally think it's part of the reviewer's responsibility to make a judgement on whether the paper fits the journal's scope and report that to the editor. But I'm not sure that a technically perfect paper that the reviewer deems \"uninteresting\" merits a \"reject\" decision. Though I guess if the reviewer \"rejects\" but was fair in the review and clear about the technical soundness of the paper but limited scope, there is sufficient evidence for the editor(s) to make their own decision.\n\nAll that said, If journals were more clear about their expectations, then our blathering about a reviewer's duties doesn't really make any difference any way.",
+                                      "author": "icantfindadangsn",
+                                      "created": 1594757941,
+                                      "upvotes": 3,
+                                      "replies": {
+                                        "fy2rary": {
+                                          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2rary/",
+                                          "text": "Yeah I just took \"uninteresting\" to be synonymous with \"not of appropriate scope for the journal\".  I don't think he literally meant \"this is boring to me\" :)",
+                                          "author": "dampew",
+                                          "created": 1594760218,
+                                          "upvotes": 1,
+                                          "replies": {
+                                            "fy2rj6m": {
+                                              "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2rj6m/",
+                                              "text": "Yeah I took it as the latter, which is why I took issue. In other statements, OP seems to indicate the former.",
+                                              "author": "icantfindadangsn",
+                                              "created": 1594760329,
+                                              "upvotes": 1,
+                                              "replies": {}
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                },
+                                "fy4g756": {
+                                  "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy4g756/",
+                                  "text": ">It's not your job to determine if it's interesting. \n\nSo, do you think there's not a difference between \"we've solved this problem that has been unsolved for 20 years\" and \"we have shown that if you analyze synthetic images generated assuming that X is happening, with an algorithm that assumes that X is happening, the results are coherent\" are the same thing?",
+                                  "author": "lucaxx85",
+                                  "created": 1594798699,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "fy5doga": {
+                                      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy5doga/",
+                                      "text": "Of course there's a difference. That's not what we're arguing here though. You're moving the goal post so much in this thread. At least this isn't how you laid the foundation of your argument. If you'd led with that argument you wouldn't have been downvoted. You were downvoted probably because it sounds like you wanted to reject the study because it's boring. Now it seems like you think it's circular logic masqueraded as a study (which i would probably reject as well).\n\nBTW, don't agree with the downvotes. It's one of my peeves on here when people abuse the voting system to censor comments they don't like.",
+                                      "author": "icantfindadangsn",
+                                      "created": 1594824803,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "fy1w2ht": {
+                      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1w2ht/",
+                      "text": "Isn't it valuable to have (more) extensive data for this very well known theory? Would the paper be valuable if they removed the text that says they proved Y? Does it provide any new insights into statement Y?\n\nIf the answer to any of these is yes, I would recommend acceptance. Else, it might we wise to discuss with the editor why you think the paper is not valuable this way and then praise the authors for their rigorousness while still explaining why you recommend a reject.",
+                      "author": "Lawrencelot",
+                      "created": 1594745405,
+                      "upvotes": 10,
+                      "replies": {}
+                    },
+                    "fy2jhro": {
+                      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2jhro/",
+                      "text": "I don't really understand why this comment was downvoted either, I think people might not quite understand your dilemma.  You were never trying to claim that the technical merits of the paper were ever an issue.\n\n>They're simulating extra accurately an imaging device but the source of variability at the root of phenomenon Y is in the biology of the living object you're imaging.\n\nThis is hard for us to evaluate.  Let me just say, I think it's possible to prove some things through simulation.  It may not be possible to prove *this* thing.  Simulations don't need to be perfect, but they need to get a handle on the underlying problem.  I guess it's up to you to decide how far they are from reasonably simulating the issue at hand.",
+                      "author": "dampew",
+                      "created": 1594756480,
+                      "upvotes": 3,
+                      "replies": {
+                        "fy4ghw4": {
+                          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy4ghw4/",
+                          "text": "> Let me just say, I think it's possible to prove some things through simulation.\n\nIf you want to study a phenomenon of the object you are imaging and you do this by simulating the imaging device but not the object that is being imaged... You're going to have irrelevant results.",
+                          "author": "lucaxx85",
+                          "created": 1594798989,
+                          "upvotes": 1,
+                          "replies": {
+                            "fy6crot": {
+                              "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy6crot/",
+                              "text": "Yeah it depends if the important point is to show that the imaging device is capable of doing such things, or to demonstrate some sort of interesting biology about the object.\n\nIf nobody has shown that it can possibly be done, then this is perhaps an important advancement.\n\nIf it has been done before and you're looking for new biology, then you need to decide if the set of assumptions makes sense and is somehow sufficient.  It's hard to talk in general without knowing the project.\n\nGood luck :)",
+                              "author": "dampew",
+                              "created": 1594841476,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "fy1uxpf": {
+              "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1uxpf/",
+              "text": "This clarification is useful. I think, like u/OrbitalPete, that what you need to do is help them to make their claims more modest about what their paper does and doesn't prove (including explicitly in a limitations discussion), and then recommend accepting it (recognizing that someone needs to them come along and do the next step, building on this paper).",
+              "author": "kennedon",
+              "created": 1594744860,
+              "upvotes": 15,
+              "replies": {}
+            },
+            "fy23y8e": {
+              "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy23y8e/",
+              "text": "I am with you on this, word \\`proved\\` to me translates immediately into theoretical proof. If they did experiments, they showed evidence with some confidence. Two drastically different results.",
+              "author": "ildared",
+              "created": 1594749137,
+              "upvotes": 6,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fy1hcbt": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1hcbt/",
+      "text": "Does this paper answer the research questions it poses? Can you reproduce these results from description? Judge paper for what it has, not for what you think it should have. If there limitations that authors admitted, it is ok, as far as the merits grant publication.",
+      "author": "ildared",
+      "created": 1594738070,
+      "upvotes": 23,
+      "replies": {
+        "fy1kx6r": {
+          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1kx6r/",
+          "text": ">Does this paper answer the research questions it poses?\n\nAccording to me, the \"surrogate\" they chose to answer the unanswerable question isn't a good surrogate. According to them, it is.\n\n>Can you reproduce these results from description?\n\nI'm pretty sure you could reproduce them even with a model that's much less accurate",
+          "author": "lucaxx85",
+          "created": 1594739908,
+          "upvotes": 5,
+          "replies": {
+            "fy22uil": {
+              "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy22uil/",
+              "text": "So, it sounds like you have doubts about the merits (i.e., invalid research question), than if you can justify that this question has no value to be answered or it does not bring any new knowledge to the body of science, then you have a solid ground to reject the manuscript.\n\n&#x200B;\n\n>I'm pretty sure you could reproduce them even with a model that's much less accurate\n\nA too precise model for an experiment, IMHO, is not a valid reason for rejection. This sounds like nit-picking. Who cares how much time/effort they spend as far as they answer the research question and provide new knowledge. The \"I am pretty sure you could ...\" statement is not a published result. You might know it based on your experience, but what if someone else is starting in the field, isn't it better for that person to learn this by reading this experiment.\n\nEDIT: typo",
+              "author": "ildared",
+              "created": 1594748619,
+              "upvotes": 9,
+              "replies": {
+                "fy2xllr": {
+                  "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2xllr/",
+                  "text": ">The \"I am pretty sure you could ...\" statement is not a published result. You might know it based on your experience, but what if someone else is starting in the field, isn't it better for that person to learn this by reading this experiment.\n\nThis is kind of irrelevant. There has been an open problem for 20 years about the fact that when estimating a certain parameter we cannot estimate a global calibration constant and we need to use some relative scaling that reduces precision.  Because the object that we put under the measuring device internally varies from measure to measure (it's a living object!!). *not because of the imaging device*. *it's a biological issue*. \n\nPaper authors claims they have proven that the best surrogate for this scaling constant is X. After not simulating at all the biological process, instead assuming what happens is X itself, but simulating very accurately the imaging device. Why on earth would I care about the  imaging process, if imaging has never been the issue?",
+                  "author": "lucaxx85",
+                  "created": 1594763306,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fy1nqmo": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1nqmo/",
+      "text": "Personally, I think if the model is good and the model is sound, but limited, require a discussion of the limitations .\n\nStuff builds on other stuff, and good stuff is hardly ever totally useless.  Like, is there any chance that someone can use this to expand the model to at some point deal with \"the\" question?\n\nBut is is hard to make an unequivocal statement because I don't know how useless it is and if this could be misleading",
+      "author": "PersephoneIsNotHome",
+      "created": 1594741335,
+      "upvotes": 17,
+      "replies": {}
+    },
+    "fy1ow9h": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1ow9h/",
+      "text": "I don\u2019t know what field this is in, but in my field, we have always been taught that the work and experiment is valuable, even if the results we wanted didn\u2019t come to fruition or even prove the opposite. Main point is the professionalism and quality of work produced. Since this is so niche as you mentioned, it sounds like having this work/data accessible to others who ultimately do more work/research in the field would be extremely helpful, if for no other reason than to know of this experiment that ultimately do not address the large issue plaguing the field. Additionally, maybe others can build on their work and get closer to the solution you knowing the field needs.",
+      "author": "smgarrison13",
+      "created": 1594741908,
+      "upvotes": 12,
+      "replies": {}
+    },
+    "fy2axux": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2axux/",
+      "text": "Professional editor for a high IF journal here and racking my brain wondering if it's one of mine! It's a tough situation. If the point of this paper is to solve this particular problem and they haven't done it (is it a matter that their simulations suggest a practical solution but they don't implement the solution to prove it's valid?) then it's fair enough to recommend rejection at this stage. It would be most helpful if you could provide a brief, concrete, reason for rejection. As an editor it's my nightmare that a reviewer weigh in on a revision with a dismissive statement that their central concerns over the paper in the first round were not adequately addressed. This is how this plays out in most cases:\n\nThe author writes me back, angry and frustrated at the rejection and accusing the reviewer of being conflicted. Writes a long winded explanation of the importance of the work and how their revisions address exactly the concerns raised. Without any actionable points there is nothing more to address but they insist on appealing the decision and having their response evaluated by an arbitrating reviewer. Authors always have the right to appeal. Because the authors talk a good talk and I, the editor, am not a master of the niche under investigation, I will now process the manuscript as an appeal and begin the search for one of the other 10 masters of the field who have the background to grasp the paper and both points of view raised during the review process. If I am lucky enough to secure such a reviewer they will now weigh in on both points of view and help me try to find a way forward. It can go either way.\n\nProviding a concrete reason why their approach does not address the issue and does not move the field forward even though it's a really impressive thought experiment, both gives me as an editor something to latch onto when defending my decision, and gives the authors the peace of mind that their revisions were given due consideration, and were not summarily dismissed.\n\nGood luck!",
+      "author": "legatek",
+      "created": 1594752417,
+      "upvotes": 7,
+      "replies": {
+        "fy4gkm6": {
+          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy4gkm6/",
+          "text": "I'll write a good comment in the field reserved for the editor explaining in detail my decision.\n\nI'll also try to make a good review letter explaining my concerns again to the authors",
+          "author": "lucaxx85",
+          "created": 1594799063,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "fy1pl9s": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1pl9s/",
+      "text": "Postdoc here. My boss and I recently had a chat about \"reviewers fatigue\". I haven't heard this term before so here it is: If your paper gets rejected with the option to resubmit, you can add a lot of pages* to that paper and resubmit. This will then go to the same reviewers who will eventually give up and choose accept hence \"reviewers fatigue\". I think this is what you're going through right now. \n\nWe came to this subject when I was explaining how a few papers I reviewed and suggested reject got published by the editor. My boss believes that when an editor decides to send the paper for review, that's almost decision made as accept unless a reviewer points out serious flaws about the paper. This is a completely new way to think about the entire publishing process for me. This means that the reviewer's job is to make sure the paper is sound and scientifically accurate rather than deciding to accept or not.\n\nHope this helps as another point of view.\n\n*The content in these new pages is often shitty, you'd have accepted it if the added content was good anyway. The idea here is to convince the editor they've added \"new\" experiments/content and aim for reviewer fatigue.",
+      "author": "omsalta",
+      "created": 1594742256,
+      "upvotes": 11,
+      "replies": {
+        "fy2cv5d": {
+          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2cv5d/",
+          "text": "That is absolutely correct. As an editor I have read the paper and, taking it at face value, think that it is in principle interesting enough for the journal. The reviewers will tell me if it is technically sound and whether what they have set out to do has been achieved. I issue revise decisions all the time where a reviewer recommends reject for sometimes spurious reasons. It's my job to know where the work is positioned in the field so I'm often already aware of the works the reviewer offers up as 'harming novelty'. My acceptance rate of manuscripts I send for review is around 80%. The rest are fatally flawed but I failed to recognise this.",
+          "author": "legatek",
+          "created": 1594753329,
+          "upvotes": 8,
+          "replies": {}
+        },
+        "fy1wxj4": {
+          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1wxj4/",
+          "text": "interesting strategy...new to me...thanks for pointing it out",
+          "author": "patriotto",
+          "created": 1594745816,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "fy23q8y": {
+          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy23q8y/",
+          "text": "That's... interesting! Didn't think of it!",
+          "author": "lucaxx85",
+          "created": 1594749034,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "fy1x8wd": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1x8wd/",
+      "text": "Remember that what you do as a reviewer is make a *recommendation* to the editor, you do not directly decide the outcome of the review. If the crux of the issue is that the claims 'X' do not match the contribution 'Y' then you can make the editor aware of this and provide some options. For example:\n\n* If you evaluate the paper on the basis of claims 'X' and the outcome 'Y' does not stand up to those claims, you may suggest that it be rejected and give your reasoning as you have done in this thread. \n\n* If you evaluate the paper on the basis of outcome 'Y' and decide that it is a valuable contribution but needs to be reframed in the context of claims 'W', you can again make a recommendation and make it **very clear** to the editor that the journal is now receiving a different contribution that what was promised. A good editor should take the decision from there. \n\nAs always, the best reviewers do everything they can to encourage the publication of good research, but you don't owe them anything and you shouldn't compromise the integrity of your decision in any way. In my (limited) experience the content of your review should inform the editor more than the accept / reject box that you tick anyway.",
+      "author": "Wegian",
+      "created": 1594745966,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "fy1rr1d": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1rr1d/",
+      "text": "This has to be completely out of my field, so feel free to disregard anything I say. \n\nSo, with all of that being said, does their paper provide new and important information? Is it a helpful contribution to the field? Would the work they have perhaps help another group of researchers work towards solving the problem outlined in the paper? I guess I\u2019m trying to figure out if these researchers have done the work of explaining the shortcomings of their work while also explaining what they are able to add. \n\nIf so, I\u2019d say that it\u2019s worth publishing. Do you think the issue is that it should maybe be published in a different journal?",
+      "author": "nerdhappyjq",
+      "created": 1594743320,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "fy1wj84": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy1wj84/",
+      "text": "I think this (a mismatch between methods and science) happens often. If they step out of their technological bubble/box, they should see that their methods do not adequately address the scientific/philosophical question at hand. They did not step out of their box and so failed to see the shortcomings of their research, which makes their results inappropriate for your journal. I would recommend they submit their work, which is good and accurate and novel and of interest to others, to another journal that prioritizes their technological prowess. \n\nOne note: I hope that after the earlier round of revisions, your concerns were communicated to the editor and in turn to the authors, because it would seem very unfair to the authors if they did what the editor required of them and still get a rejection from the reviewer (you). In the end, you are the reviewer and you make the case for your decision. Leave the rest up to the others.",
+      "author": "patriotto",
+      "created": 1594745627,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "fy11agt": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy11agt/",
+      "text": "Why would you feel guilty about rejecting a paper that fails to prove what it claims to prove?  The amount of work they did to get a wrong result is not your problem, it is the authors\u2019 problem.  Imagine a world where we accepted papers (and gave grades) based not on correctness and novelty, but on effort.  I trust you see why that cannot work.  It simply does not matter how much effort they put into their incorrect solution. You can acknowledge it in your review, but it cannot change the outcome.",
+      "author": "bigrottentuna",
+      "created": 1594728239,
+      "upvotes": 2,
+      "replies": {
+        "fy12y9w": {
+          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy12y9w/",
+          "text": "Empathy! Because I know how bad it feels to have spent a year in doing something and then getting an outright rejection. Had they done a work that I would classify as \"stupid\" I wouldn't feel this bad... But they did try...",
+          "author": "lucaxx85",
+          "created": 1594729479,
+          "upvotes": 4,
+          "replies": {
+            "fy18cfz": {
+              "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy18cfz/",
+              "text": "I appreciate where you are coming from.  Empathy is great.  It should absolutely drive you to write your review in a compassionate way that will help them understand and accept the reality of the situation.  It should not drive you to do the wrong thing because that reality may be hard for them to accept.  Nor should it drive you to feel guilty about it.  You are not in any way responsible for the fact that they chose to work on this problem, nor that they misunderstood the area in such a way that they wasted their effort working toward a non-solution to an important problem, even after your previous review explained it to them.  My guess is that they ignored your feedback, hoping to get a different reviewer this time.  The key is to understand that you can have empathy and compassion for other people\u2019s suffering without feeling responsible for it.  Separating those feelings makes it much easier to do the right thing in situations like this.",
+              "author": "bigrottentuna",
+              "created": 1594733006,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fy22oun": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy22oun/",
+      "text": "Does the paper make a significant advancement through simulations? Are the simulations themselves innovative?\n\nScience is incremental.",
+      "author": "questythirsty",
+      "created": 1594748546,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fy2g3tr": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2g3tr/",
+      "text": "Generally speaking, I think the only reasons for rejection are that a paper does not add valuable information to the relevant community- such as questions that are not actually being addressed correctly or fatal flaws in design. \n\nThis does NOT mean that difficult to interpret results are not valuable. And especially be cautious about rejecting null results that are informative. Based on what you\u2019re describing, it sounds like you\u2019re rejecting for the correct reasons. Don\u2019t be swayed by the authors doing more of the misdirected actions. But also look very closely at your reasons for rejecting in the first place. If the simulations are useful, but are being misinterpreted and are actually answering a different (maybe less important) question, then say that and ask for revision. \n\nTry not to let IF affect your decision. It distorts the merit of the data.",
+      "author": "rollem",
+      "created": 1594754878,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fy2mik4": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2mik4/",
+      "text": "You may not find anything relevant in it, but some future academic in your field might. Maybe not the whole thing, but aspects of it or of the data could prove useful in the future. If they did decent research (and it sounds like they did), then I don't see a reason to reject it. If you don't think the research answers anything in your sub-sub niche, maybe consider if it could be applied in some other sub field and make that suggestion. Otherwise, I really don't see why you would reject it.",
+      "author": "mangomelon789",
+      "created": 1594757916,
+      "upvotes": 1,
+      "replies": {
+        "fy2mtfy": {
+          "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy2mtfy/",
+          "text": "That said, I also don't think enough information is provided to give a decent answer to this question. If you think they asked a question and answered a separate one (ie. They claim to be answering a question but don't really address that question) then I could see rejecting it. But without further information it is hard to know.",
+          "author": "mangomelon789",
+          "created": 1594758060,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fy0v00c": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy0v00c/",
+      "text": "As brutal as it sounds, you have to stick to your guns.  Basically it was up to the authors to find some way to accomodate your views, or at least throw you a bone, which they have apparently failed to do (and do not forget the second reviewer was in tune with you).  So, your review should reiterate your points and recommendation  rejection for the same reason. Then leave it up to the Editor.",
+      "author": "Life_time_learner",
+      "created": 1594722605,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fy0v0cr": {
+      "link": "/r/AskAcademia/comments/hqxyre/im_conflicted_about_recommending_again_rejection/fy0v0cr/",
+      "text": "Simples. If it misses the point, it misses the point.",
+      "author": "dbrq",
+      "created": 1594722613,
+      "upvotes": -1,
+      "replies": {}
+    }
+  }
+}

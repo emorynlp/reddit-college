@@ -1,0 +1,63 @@
+{
+  "sid": "p89r2a",
+  "link": "/r/AskAcademia/comments/p89r2a/article_submission_word_limits/",
+  "title:": "Article submission word limits",
+  "text": "I have a tricky situation. I'm working on an article that involves quoting a lot of non-English sources. In my field (art history- modern), it's fairly common to put the original in a footnote when there's no existing translation, but usually people only have a few of these. I have many, and as a result, the wordcount for this otherwise normal-length draft is way too high.\n\nI'm wondering if I should mention the duplicate/original language text in the cover letter and suggest this could be removed if the editor thinks that's best. But pointing out a problem could just lead to an automatic rejection, and maybe I just shouldn't mention it? The journals I'm considering all have email-only submissions, but obviously someone can just look at the word count in the file...\n\nAnother wrinkle is that the submission instructions don't \\*say\\* word count includes footnotes, but my unscientific review of past articles tells me they limit things pretty strictly.\n\nWhat are people's opinions? Has anyone had a similar problem? I've cut everything I can and am starting to lose my mind deleting single words lol",
+  "author": "autonomousokrug",
+  "created": 1629480164,
+  "updated": 1634079543,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h9oxeid": {
+      "link": "/r/AskAcademia/comments/p89r2a/article_submission_word_limits/h9oxeid/",
+      "text": "I agree - this is a tough one. \n\nTo start, I'd recommend picking a journal for your submission and seeing what authors published in that journal tend to do when citing non-English sources. \n\nIn my own experience, some journals prefer inclusion in the main text (as a block above or below the translation), some prefer the original in a footnote, and some exclude it altogether (assuming that interested readers will go track it down.) \n\nI'm assuming that the non-English text is a primary source; if it's a secondary source, it might be a bit different. Most people in my subdiscipline can read German/French, so some of the super narrow or international journals let us leave those languages untranslated; for general audience journals, I'd consider translating yourself and noting that it's your translation from the original (secondary) source. \n\nIn my experience (also humanities here) word counts for journals always include footnotes!",
+      "author": "wipekitty",
+      "created": 1629483451,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "h9poqzv": {
+      "link": "/r/AskAcademia/comments/p89r2a/article_submission_word_limits/h9poqzv/",
+      "text": "Does your field do online appendices where the word count is not included? Or can you write an unpublished working paper with details of the translation and then cite that?",
+      "author": "schwza",
+      "created": 1629494766,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h9rkmk3": {
+      "link": "/r/AskAcademia/comments/p89r2a/article_submission_word_limits/h9rkmk3/",
+      "text": "Does the journal allow supplemental materials?  If they do, move the original text to there.  Supplemental is not included in word limits.",
+      "author": "Life_time_learner",
+      "created": 1629531657,
+      "upvotes": 3,
+      "replies": {
+        "h9srvbs": {
+          "link": "/r/AskAcademia/comments/p89r2a/article_submission_word_limits/h9srvbs/",
+          "text": "This is becoming more common, and I think a welcomed one. The online supplement can really help with these kinds of word count/ inclusion conundrum.",
+          "author": "CharlamagneTheDog",
+          "created": 1629560179,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h9t12ij": {
+      "link": "/r/AskAcademia/comments/p89r2a/article_submission_word_limits/h9t12ij/",
+      "text": "If, as you say, it's uncommon to have so many, I'd really re-think why you need so many in yours. Either you have a really good reason for this, in which case you should spell that out. Or you could cut as many of them as you need to make it a more reasonable number. \n\nIf you think it's important, a short acknowledgment of the wordcount issue in the cover letter should suffice. \"The total wordcount is a bit longer than is desired, because of the extensive use of the original language in the notes. For this paper, this is important because...\"",
+      "author": "restricteddata",
+      "created": 1629564305,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h9teqop": {
+      "link": "/r/AskAcademia/comments/p89r2a/article_submission_word_limits/h9teqop/",
+      "text": "I would reach out to one of the editors of the journal and ask them. I don't do much translating in my work, so I haven't encountered this situation before, but as you say it's pretty common to see it, so they journals must have policies.",
+      "author": "pipkin42",
+      "created": 1629570443,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

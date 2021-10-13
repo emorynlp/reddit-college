@@ -1,0 +1,1084 @@
+{
+  "sid": "hyzh43",
+  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/",
+  "title:": "Why Don't Other Disciplines do Open Access?",
+  "text": "Disciplines like physics, math, and computer science post virtually all their preprints (and thus papers) to [arXiv.org](https://arxiv.org).\n\nWhy don't other disciplines (e.g. psychology) do likewise?\n\nNature, for example, says that posting preprints online [is fine](https://www.nature.com/nature-research/editorial-policies/preprints-and-conference-proceedings).\n\nContext: I'm not an academic, but like to read research papers. I don't have subscriptions to all these journals because I'm not a member of a university. [ArXiv.org](https://Arxiv.org) allows me to read about the latest developments in computer science, but I'd like to do that for other disciplines like psychology.",
+  "author": "ZakMiller",
+  "created": 1595879512,
+  "updated": 1634081257,
+  "over_18": false,
+  "upvotes": 152,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "fzg4z2f": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg4z2f/",
+      "text": "Linguistics is an interesting case. Most of the older journals (Language, Linguistic Inquiry, Natural Language and Linguistic Theory) aren't open access, though authors can pay a few hundred dollars to make their works open access (many institutions subsidize this, especially in Europe, but most in the US don't). There is an important new journal that's taking the field by storm though. It's called Glossa, and it was formed after a rift between Elsevier and the editorial board, largely over open access issues. The entire editorial board left and were funding by the Dutch government to start Glossa, which is totally open access and online. The are also famous for a very quick turn around and excellent editorial oversight - whereas most journals take \\~6-12 months for reviews, Glossa does it in days. I think most people agree that the field is moving towards a model like Glossa, with other journals, notably Linguistic Inquiry published by MIT Press, slowly moving towards more open models.  \n\n\nEdit: The editorial board that founded Glossa were previously with a journal called Lingua. The journal is still in operation, but the editorial board is very lax and now only publishes work of highly questionable scientific rigor, as more serious, scientific authors have boycotted them. Its current manifestation is called \"Zombie Lingua.\"",
+      "author": null,
+      "created": 1595885820,
+      "upvotes": 45,
+      "replies": {}
+    },
+    "fzfvz2e": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzfvz2e/",
+      "text": "In Medicine it's because papers that are viewed before peer review are basically useless because they can't be taken seriously or used as evidence for anything. Even peer reviewed very good studies usally can't be taken seriously, only several good studies together start to create something that can be used as the base of change in how patients are treated",
+      "author": "idk7643",
+      "created": 1595881430,
+      "upvotes": 57,
+      "replies": {
+        "fzg6g3s": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg6g3s/",
+          "text": "But, there are examples of open-access journals with peer-review. Do you know of any such cases in your field?",
+          "author": "rudolph10",
+          "created": 1595886546,
+          "upvotes": 17,
+          "replies": {
+            "fzg8exb": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg8exb/",
+              "text": "They cost money to publish in. ArXiv does not.",
+              "author": "Average650",
+              "created": 1595887533,
+              "upvotes": 18,
+              "replies": {
+                "fzhjnvs": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhjnvs/",
+                  "text": "In mathematics and computer science they tend to not do so.",
+                  "author": "StellaAthena",
+                  "created": 1595916112,
+                  "upvotes": 5,
+                  "replies": {}
+                },
+                "fzg8ju0": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg8ju0/",
+                  "text": "No idea about your field but not all open access journals cost money to publish in. I understand though that most do.",
+                  "author": "rudolph10",
+                  "created": 1595887602,
+                  "upvotes": 6,
+                  "replies": {
+                    "fzga2my": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzga2my/",
+                      "text": "How does such a journal fund itself? Are they government funded? Maybe funded by a professional organization?",
+                      "author": "Average650",
+                      "created": 1595888376,
+                      "upvotes": 7,
+                      "replies": {
+                        "fzgainx": {
+                          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgainx/",
+                          "text": "Not an expert, but yes grant funding, private sponsors. Also, membership dues in some cases. So, not all authors need to be members but Universities and Profs that can afford to be are members.",
+                          "author": "rudolph10",
+                          "created": 1595888601,
+                          "upvotes": 6,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "fzgk2ll": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgk2ll/",
+              "text": "Everything funded by NIH (and probably NSF as well) becomes open access after a year, regardless of the journal. That would be like all of medicine. \n\nThat being said, there is a good deal of medicine posted open access outright on bioarxiv, I'm not sure whether or not the parent commenter was aware.\n\nThis search result reads just like the issue list of NEJM:\n\nhttps://www.biorxiv.org/search/clinical%252Btrial",
+              "author": "bigvenusaurguy",
+              "created": 1595893645,
+              "upvotes": 9,
+              "replies": {
+                "fzi9dyq": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzi9dyq/",
+                  "text": "I work in medicine and most of our papers are not funded by NIH.",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1595940029,
+                  "upvotes": 4,
+                  "replies": {}
+                },
+                "fzjga43": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzjga43/",
+                  "text": "14 thousand is sadly nothing in medicine. I get 20 thousand results on Pubmed searching for open access papers just for one specific topic with several keywords.",
+                  "author": "idk7643",
+                  "created": 1595962132,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "fzgci4q": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgci4q/",
+              "text": "A large percentage. When you go on Pubmed (database for all publications in medicine, ever) you can even select open access as an option and still get to read several hundreds to thousands of papers on a topic.",
+              "author": "idk7643",
+              "created": 1595889606,
+              "upvotes": 4,
+              "replies": {
+                "fzgm5ir": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgm5ir/",
+                  "text": "Often there's a time delay. Grant funds papers have to be posted to pubmed eventually, but it might not be for a year. It's fine if you're doing a general lit review, but a real pain if you're trying to keep up with current lit.",
+                  "author": "mediocre-spice",
+                  "created": 1595894787,
+                  "upvotes": 2,
+                  "replies": {
+                    "fzjf6nm": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzjf6nm/",
+                      "text": "Yep. That's why on science direct you can message the authors to send you the paper. They are often happy to help",
+                      "author": "idk7643",
+                      "created": 1595961612,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "fzhrta4": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhrta4/",
+          "text": "While that's true, in my field we usually only put things on the arXiv after acceptance. Why would that not be possible for medicine?",
+          "author": "axialintellectual",
+          "created": 1595923795,
+          "upvotes": 2,
+          "replies": {
+            "fzjf1j0": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzjf1j0/",
+              "text": "If the journal wants it to be open acesss, it will be open access. If not its bad buisness for the journal because nobody will pay for it if its available for free someone where else.",
+              "author": "idk7643",
+              "created": 1595961543,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "fzi7l80": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzi7l80/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1595938743,
+          "upvotes": 2,
+          "replies": {
+            "fzjelga": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzjelga/",
+              "text": "If they want it to be open access, they make it open access. If they want people to pay for the paper, it's not in their interest and possibly against their guidelines to offer it for free on other websites.\n\nAlso, if I saw a paper pre-peer review I wouldn't be able to use it as source for my research or information, thus its useless. In physics data is (correct me if I'm wrong) more straight forward and it's less likely that it's just correlation, irrelevant or wrong. In Medicine there's like 1000+ different factors that influence a study because every set up is insanely complicated and we practically don't know shit about anything. For example, you can test a new drug in mice and everything seems to go perfect, then you put it in a human and that person almost dies. And nobody would blame you for that person almost dying, because even when you do a study to the absolute best of your abilities, there's still a big chance stuff turns out completely different. Living beings are insanely complicated.",
+              "author": "idk7643",
+              "created": 1595961327,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fzfsl48": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzfsl48/",
+      "text": "Earth science is .... slowly getting there.",
+      "author": "tpm319",
+      "created": 1595879809,
+      "upvotes": 27,
+      "replies": {
+        "fzfv7ul": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzfv7ul/",
+          "text": "We move on a different time scale, more similar to that which we study!\n\n(Seriously though, still using MS-DOS for some studies...)",
+          "author": "the_Q_spice",
+          "created": 1595881067,
+          "upvotes": 26,
+          "replies": {
+            "fzjbgy9": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzjbgy9/",
+              "text": ">(Seriously though, still using MS-DOS for some studies...)\n\nAs in MS-DOS as the OS for the computer, or dropping into the command line from Windows?",
+              "author": "ManInBlackHat",
+              "created": 1595959832,
+              "upvotes": 1,
+              "replies": {
+                "fzjg9pz": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzjg9pz/",
+                  "text": "Both. The original code and some instruments work in MS-DOS and we have to use the command line in windows to use the software for analysis.",
+                  "author": "the_Q_spice",
+                  "created": 1595962126,
+                  "upvotes": 1,
+                  "replies": {
+                    "fzjitca": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzjitca/",
+                      "text": "Interesting! I heard that some scientific instruments were still using flopping drives a couple years ago, but I suppose it makes sense.",
+                      "author": "ManInBlackHat",
+                      "created": 1595963353,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "fzfyp58": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzfyp58/",
+          "text": "EarthArXiv is up and running pretty well. Just need more people to encourage others to use it.",
+          "author": "OrbitalPete",
+          "created": 1595882733,
+          "upvotes": 9,
+          "replies": {}
+        },
+        "fzfvkkx": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzfvkkx/",
+          "text": "Same in (Neuro)biology. Though the big labs seem to pre-publish all their cool stuff on BioRXiv first these days, which is pretty cool :)",
+          "author": "wirrbeltier",
+          "created": 1595881238,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "fzg5a30": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg5a30/",
+          "text": "We are?! What preprint server do people use? I don't think I've ever actually seen a preprint in Earth Sciences or at least in my field.",
+          "author": "Chlorophilia",
+          "created": 1595885970,
+          "upvotes": 2,
+          "replies": {
+            "fzg5hid": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg5hid/",
+              "text": "[https://eartharxiv.org/](https://eartharxiv.org/)",
+              "author": "tpm319",
+              "created": 1595886072,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "fzh9g6i": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzh9g6i/",
+          "text": "Came here to say this.  It's pretty expensive at the moment, but more and more journals are transitioning to Open Access.",
+          "author": "TourmalineTart",
+          "created": 1595908506,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fzg12eg": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg12eg/",
+      "text": "In our case (history), it's because of the operating costs of the journals.  The margin on those is often razor-thin, and while some are open-access, support has to come from somewhere for the necessary work to handle the pub.  In some disciplines, grant money and institutional support are strong enough that they can charge a fee to the author, but that's not the case in a lot of disciplines.  \n\nIt's a problem because we'd naturally like our work to be read as widely as possible, but very few journals in my subfield offer the option to make articles open-access.  Those that do charge more than anyone not well-established can afford, and even more still if you intend to make it available globally and not just in one market. That's maddening because it furthers inequity, so a lot of us circulate our PDFs quietly.  The most that we get is freedom to distribute the last non-typeset version of the manuscript, and a URL that allows the person to download a PDF 'offprint.'  Those, sometimes, get spread more widely, but there's nothing systematic.\n\nThen, of course, there are two other problems.  The first is the fact that we're a book discipline--and that's a whole 'nother problem with accessibility.  The second is connected to the human factor, in that work available on open-access platforms is automatically seen as 'lesser' when we're up for promotion or the like.  That's changing, along with the bias against online platforms and non-traditional expressions of scholarship, but only glacially.\n\n(edit: Yes, of course, we do have open-access journals, but they struggle mightily for these reasons.)",
+      "author": "khosikulu",
+      "created": 1595883870,
+      "upvotes": 66,
+      "replies": {
+        "fzg49qc": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg49qc/",
+          "text": "My experience (in a humanities field) is similar. We don't have access to anywhere near the level of funding that the hard sciences get, so author fees are generally paid out of pocket, and we're a predominantly single-author field. Open access publishing is very expensive, especially for grad students and early career people, while those who can afford it, by and large, don't see the point.\n\nMy discipline is more backwards than most though; a lot of our major journals aren't digitized at all. The up side of this is that there is a healthy black market of illicit PDFs, and younger authors are generally willing to share their material if you ask.",
+          "author": "truagh_mo_thuras",
+          "created": 1595885471,
+          "upvotes": 48,
+          "replies": {
+            "fzg5c86": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg5c86/",
+              "text": "> a lot of our major journals aren't digitized at all\n\nWtf? How is that even remotely justifiable?",
+              "author": "ProfOnTheMove",
+              "created": 1595885999,
+              "upvotes": 33,
+              "replies": {
+                "fzg908r": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg908r/",
+                  "text": "It isn't. I suspect it's a result of some combination of old fogeys and lack of funding",
+                  "author": "N1H1L",
+                  "created": 1595887836,
+                  "upvotes": 17,
+                  "replies": {
+                    "fzgpwrs": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgpwrs/",
+                      "text": "I agree. I worked for a very small University in Asia once and they host an annual symposium. The proceedings however, get printed as hard-copies and that's it. Some of the staff has the soft copies but they are not distributed digitally. \n\nSounds blasphemous, I know. But the world of academia needs more funding. There are very small things that can be fixed with a tiny bit of money but there are colleges and universities out there with good research work but cannot simply afford it, unfortunately.",
+                      "author": "DreemingDemon",
+                      "created": 1595896899,
+                      "upvotes": 9,
+                      "replies": {
+                        "fzgz1xe": {
+                          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgz1xe/",
+                          "text": "It would seem to me that it is far more expensive to print hard copies of a symposium's proceedings than it is to make a digital version, so I somehow doubt that funding is the culprit in that particular situation. But perhaps there is something I'm missing.",
+                          "author": "roseofjuly",
+                          "created": 1595902147,
+                          "upvotes": 10,
+                          "replies": {
+                            "fzhwyjx": {
+                              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhwyjx/",
+                              "text": "It wouldn't cost anything extra to privately share PDFs of articles or chapters, since most editing and typesetting is done digitally these days.\n\nDigital *publication* requires storage space and bandwidth, and either some kind of paywall or funding to offset the other costs of publishing if it's open-access.\n\nIt's certainly possible, and the costs of digital publication are definitely exaggerated by publishers (who are, after all, for-profit entities), but it requires being a bit tech-savvy and being committed to the idea of accessibility. Unfortunately, that doesn't describe most senior academics I know.",
+                              "author": "truagh_mo_thuras",
+                              "created": 1595929096,
+                              "upvotes": 3,
+                              "replies": {
+                                "fziqvik": {
+                                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fziqvik/",
+                                  "text": "I know it costs *something* I'm just saying I think it probably costs less than making hard copies. Paper and shipping cost money.",
+                                  "author": "roseofjuly",
+                                  "created": 1595949957,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "fziyyp1": {
+                                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fziyyp1/",
+                                      "text": "They do, but subscribers usually pay a fee that covers those costs. If it's purely digital you either make it open access and pay all costs out of pocket, or opt for a digital subscription model which can be complicated if you're not affiliated with a bigger publisher.\n\nIt's not insurmountable but it is a bit complicated, and there's always the power of institutional inertia...",
+                                      "author": "truagh_mo_thuras",
+                                      "created": 1595953924,
+                                      "upvotes": 2,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "fzgzu9a": {
+                              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgzu9a/",
+                              "text": "The hard-copies (in this particular case) were to be referred within the University, so it was only a few copies. Digitizing requires providing fees needed to make the publications Open-access etc etc. Do correct me if I wrong though.",
+                              "author": "DreemingDemon",
+                              "created": 1595902603,
+                              "upvotes": 3,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "fzhvsi5": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhvsi5/",
+                  "text": "In at least one case, it's because the main editor doesn't want it to be digital because of some internal politics that I don't know all the details of.  In other cases, it's because the journal isn't attached to a major publisher, and the editorial staff just don't have the time, expertise, or motivation to make it digitized. For some journals, especially the non-English language ones, you also have the fact that the readership is small enough that it's hard to justify the costs of digital publication.",
+                  "author": "truagh_mo_thuras",
+                  "created": 1595927877,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "fzh7r7h": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzh7r7h/",
+              "text": "In math we have author fees for full open access, but posting to the ArXiV does not make an author fee required, at least not for any publisher I've used. Math funding, at least pure math funding, is probably much closer to humanities funding. I don't think most pure mathematicians have any grant money. And I don't think most of them are willing to pay author fees. \n\nBottom line is we all publish to the ArXiV so if the publications want to have something to publish, they have to accept work that has a preprint available on the ArXiV (we just don't post camera ready final edits to the ArXiV).",
+              "author": "johncbowers",
+              "created": 1595907418,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "fzgd9ra": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgd9ra/",
+          "text": "> The margin on those is often razor-thin,\n\nAcademic publishing companies make millions of dollars in profit every year. None of the content creators are compensated for this.\n\nAgain, *for-profit* publishing companies, who charge around $30 for someone to read the article, and who make millions in profit a year.\n\nThe idea of journals being scraped together by volunteers does nothing but further their profit-generation scheme, and the exploitation of academic labor. We provide labor for free, because the system expects it and requires it, others extract value for their pockets and restrict access to the research for no reason other than to extract value for their pockets.",
+          "author": "Prof_Acorn",
+          "created": 1595890009,
+          "upvotes": 22,
+          "replies": {
+            "fzgh4ij": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgh4ij/",
+              "text": ">Academic publishing companies make millions of dollars in profit every year. None of the content creators are compensated for this.\n\nWikipedia: \"Elsevier's high operating profit margins (37% in 2018) and 950 million pounds in profits, often on publicly funded research works[\\[1\\]](https://en.wikipedia.org/wiki/Elsevier#cite_note-RELX_2018_Report-1)[\\[4\\]](https://en.wikipedia.org/wiki/Elsevier#cite_note-relx-results-press-release-2018-4) and its [copyright practices](https://en.wikipedia.org/wiki/Copyright_policies_of_academic_publishers) have subjected it to criticism by researchers.[\\[5\\]](https://en.wikipedia.org/wiki/Elsevier#cite_note-boyc-5) \"\n\nThe analogy I like for academic publishing is bringing your own food to a restaurant, cooking it, serving yourself, then paying the restaurant for the privilege of using their establishment.\n\nIt's not that far off.",
+              "author": "bubbachuck",
+              "created": 1595892059,
+              "upvotes": 27,
+              "replies": {
+                "fzgl96f": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgl96f/",
+                  "text": "Hold on a second there- the restaurant dashed a little salt on the food. Surely that's worth $2500 USD?\n\n^^^^^/s",
+                  "author": "monkestful",
+                  "created": 1595894287,
+                  "upvotes": 6,
+                  "replies": {
+                    "fzhrxl0": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhrxl0/",
+                      "text": "The restaurant adds *salt* to your food? The ones I go to send a patron from another table over and have them tell you if it needs salt!",
+                      "author": "axialintellectual",
+                      "created": 1595923915,
+                      "upvotes": 5,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "fzgk31x": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgk31x/",
+              "text": "> None of the content creators are compensated for this.\n\n> [..]\n\n> The idea of journals being scraped together by volunteers does nothing but further their profit-generation scheme, and the exploitation of academic labor.\n\nI don't understand what point you're trying to make here: in most cases that I'm aware of, journals are *literally* \"scraped together by volunteers\": in the humanities, at least, most journal editors are given a course reduction, nothing more. Reviewers certainly aren't given that, and as you note, authors aren't paid. Far from propping up the exploitation of academic labor, recognizing that most journals are largely run by uncompensated academics seems to be a *precondition* of even arguing for a change to the system.",
+              "author": "MaceWumpus",
+              "created": 1595893652,
+              "upvotes": 8,
+              "replies": {
+                "fzhjas9": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhjas9/",
+                  "text": "I think the point is that they\u2019re run by uncompensated academics but still charge pretty hefty amounts of money just for the privilege of downloading a PDF. Not to mention \u201cauthor fees\u201d which is even less explainable.",
+                  "author": "ohfouroneone",
+                  "created": 1595915805,
+                  "upvotes": 5,
+                  "replies": {
+                    "fzijiiz": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzijiiz/",
+                      "text": "Author fees are ridiculous and I don't understand why there are parts of the academy that accept them as necessary evils. (Well, ok, that's not quite true: I suspect it's because they don't really care how their grant money is spent.)\n\nAs for the main point of the person I'm responding to: they at least appear to be criticizing the prior poster for pointing out that most journals are poor and run by volunteers because that (somehow) goes against calls for reform. Perhaps I misinterpreted them, but that claim didn't make any sense to me.",
+                      "author": "MaceWumpus",
+                      "created": 1595946145,
+                      "upvotes": 4,
+                      "replies": {}
+                    }
+                  }
+                },
+                "fzhjugl": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhjugl/",
+                  "text": "That\u2019s not due to lack of money though. It\u2019s because academic publishers are greedy fuckwads who are getting away with free labor. Academic publishers make massive amounts of money and could easily afford to pay editors.",
+                  "author": "StellaAthena",
+                  "created": 1595916267,
+                  "upvotes": 3,
+                  "replies": {
+                    "fzhtdjl": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhtdjl/",
+                      "text": "only if they're willing to run some journals at a loss, I can see the big science journals being able to afford to pay but some of the journals I read and submit to barely cover their costs on their existing subscriptions",
+                      "author": "tc1991",
+                      "created": 1595925385,
+                      "upvotes": 3,
+                      "replies": {
+                        "fzhu9ew": {
+                          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhu9ew/",
+                          "text": "Can you give some examples of these journals? In sciences, four mega publishers own the majority of journals that all US academics publish in. I\u2019m thrilled your field has small publishers, but it\u2019s hard for me to conceptualize what they\u2019re like. I would love to look them up.",
+                          "author": "StellaAthena",
+                          "created": 1595926296,
+                          "upvotes": 1,
+                          "replies": {
+                            "fzhv16o": {
+                              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhv16o/",
+                              "text": "not really, it'd be too identifying, these journals are owned by the same mega publishers as the science journals but with only ~300 subscribers they just about cover their operating fees, Elsevier or Taylor and Francis aren't going to subsidise a niche journal so that it can pay reviewers, authors and editors.",
+                              "author": "tc1991",
+                              "created": 1595927092,
+                              "upvotes": 6,
+                              "replies": {}
+                            },
+                            "fzih9vw": {
+                              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzih9vw/",
+                              "text": "In my field, the publishers of the top journals are U of Illinois Press, U of California Press, and Indiana University Press. Not \"small publishers\", but non-profit, university affiliated ones",
+                              "author": "ExtraSmooth",
+                              "created": 1595944908,
+                              "upvotes": 2,
+                              "replies": {
+                                "fzikm3z": {
+                                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzikm3z/",
+                                  "text": "What field is this?\n\n**Edit:** Elsewhere the person I\u2019m responding to said they worked in anthropology. Copying and pasting my response again for visibility:\n\nI don\u2019t know anything about anthropology, but looking at the top 50 of [this ranking](https://www.scimagojr.com/journalrank.php?category=3314) of anthropology journals, the owners are:\n\n**For-Profit:**\n\nWilely-Blackwell: 3, 8, 9, 10, 12, 17, 25, 26, 27, 31, 37, 40, 49, 50\n\nTaylor & Francis: 2, 18, 20, 21, 24, 28, 38, 44\n\nSAGE: 7, 19, 30, 32, 34, 35, 39, 43, 47\n\nElsiver: 5, 13, 42, 48\n\nSpringer: 29, 33, 45\n\nBerghahn Books: 36, 46\n\nME Sharpe Inc: 16\n\n**Non-Profit:**\n\nOxford University: 1, 6\n\nUniversity of Chicago: 15, 23\n\nAmerican Anthropology Association: 4\n\nAnnual Reviews Inc: 14\n\nCambridge University: 11\n\nIstituto Italiano di Antropologia: 22\n\nUbiquity Press: 41\n\n**In total, 82% of the top 50 anthropology journals are owned by private companies** and 58% are owned by those companies you\u2019ve never heard of. I\u2019m not saying this to shame you, and if you don\u2019t look into this specifically it can be hard to learn. But I think it\u2019s important to be aware that those companies control publishing in your field.",
+                                  "author": "StellaAthena",
+                                  "created": 1595946729,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "fzlmv49": {
+                                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzlmv49/",
+                                      "text": "And the For-Profits aren't going to subsidise loss making journals, it is not about the size of the owner of the publication but the size of the publication",
+                                      "author": "tc1991",
+                                      "created": 1596008465,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    },
+                                    "fzmrhcp": {
+                                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzmrhcp/",
+                                      "text": "[deleted]",
+                                      "author": null,
+                                      "created": 1596038496,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "fzms1r7": {
+                                          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzms1r7/",
+                                          "text": "This does weight by citations (not volume). SJR is an eigenvector centrality variation that looks at the average number of citations a paper in the journal has, weighted by the importance of the citing article. Other studies have shown that, by volume, the majority of all English language scientific publications are published in journals owned by five companies.\n\nWhat field are you in?",
+                                          "author": "StellaAthena",
+                                          "created": 1596038800,
+                                          "upvotes": 1,
+                                          "replies": {
+                                            "fzmspw9": {
+                                              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzmspw9/",
+                                              "text": "[deleted]",
+                                              "author": null,
+                                              "created": 1596039149,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "fzmulx9": {
+                                                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzmulx9/",
+                                                  "text": "... you do know that the Lancet and Nature are owned by the very for-profit publishing giants I am talking about, right?\n\nAnd as I said in the very comment you\u2019re replying to, h-index is not taken into account in the SJR ranking. You cannot game SJR\u2019s rankings by publishing many low-quality articles.",
+                                                  "author": "StellaAthena",
+                                                  "created": 1596040138,
+                                                  "upvotes": 0,
+                                                  "replies": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "fzgkxlg": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgkxlg/",
+              "text": "Oh yeah, zero disagreement here--the companies and aggregators absolutely make a killing overall.  The individual journals, however, struggle to survive and obtain access to readers outside the big packages, so most surrender to life within the broken structure that depends on our free labor [as editors, reviewers, staff, and authors alike].  However, journals in the humanities have always been poorer relations in terms of the big for-profit companies' holdings [edit on those two words there].  \n\nThis whole structure is one I hope the rise of open access will change; if I'm doing labor for free (or on my public uni salary) why am I in legal jeopardy for sharing the results?  It must change, I think, because most academic institutions no longer have the funds to subscribe to everything.  Interlibrary loan is already cheaper a lot of the time now.  Elsevier isn't that important to us, but we're saddled with Taylor & Francis and that sort, who do *exactly* the same sorts of things, probably with similar financial results.",
+              "author": "khosikulu",
+              "created": 1595894113,
+              "upvotes": 11,
+              "replies": {}
+            },
+            "fzgrbrz": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgrbrz/",
+              "text": "If the only people who are going to pay to read the journal are also the people writing in it, isn't that like a ponzi? There is no value outside of the field. Maybe there's no point in publishing in that field because other people outside of the field don't see value in it to give it funding.\n\nIf you have a product or idea and no one will pay for it, maybe it's time to abandon that idea and work on something else or at least find some way for that idea to have value to others. It ends up as a circle jerk where the only way to have profit is to recruit clueless aspiring young academics and get them trapped in the ponzi so the cycle continues to fund the older academics.",
+              "author": null,
+              "created": 1595897709,
+              "upvotes": 5,
+              "replies": {
+                "fzia5i5": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzia5i5/",
+                  "text": "We value lots of things we won\u2019t pay for.\n\nFor instance, the news. Or Wikipedia.\n\nHell, now I\u2019m realizing- people don\u2019t like paying for information, period.",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1595940558,
+                  "upvotes": 3,
+                  "replies": {}
+                },
+                "fzihips": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzihips/",
+                  "text": "Journal publications are often not the primary output of humanities researchers. It's more like paying for a license--as one pays for a drivers license or a hunting license. Academic monographs can get much wider readership.",
+                  "author": "ExtraSmooth",
+                  "created": 1595945047,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            },
+            "fzgruh7": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgruh7/",
+              "text": "Most journals I'm aware of are published by university presses. Are you saying these are for-profit, even while their affiliated universities are non-profit and usually state-funded? Or are there journals out there that are published by independent, for profit companies?",
+              "author": "ExtraSmooth",
+              "created": 1595898008,
+              "upvotes": 1,
+              "replies": {
+                "fzhk242": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhk242/",
+                  "text": "Do you recognize any of the following names as being associated with academic journals?\n\n1. Reed\n\n2. Elsevier\n\n3. Wiley\n\n4. Blackwell\n\n5. Springer\n\n6. Taylor & Francis\n\nThese are private companies than collectively control the journals that [about half of all scientific papers are published in](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502#pone-0127502-g001)",
+                  "author": "StellaAthena",
+                  "created": 1595916451,
+                  "upvotes": 4,
+                  "replies": {
+                    "fzig12q": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzig12q/",
+                      "text": "I've never seen those names before, although someone else mentioned Elsevier to me",
+                      "author": "ExtraSmooth",
+                      "created": 1595944208,
+                      "upvotes": 1,
+                      "replies": {
+                        "fzighax": {
+                          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzighax/",
+                          "text": "What field are you in?",
+                          "author": "StellaAthena",
+                          "created": 1595944461,
+                          "upvotes": 2,
+                          "replies": {
+                            "fzihpe3": {
+                              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzihpe3/",
+                              "text": "I work in the humanities, I guess my field is a subfield of anthropology",
+                              "author": "ExtraSmooth",
+                              "created": 1595945151,
+                              "upvotes": 1,
+                              "replies": {
+                                "fzinkaw": {
+                                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzinkaw/",
+                                  "text": "I don\u2019t know anything about anthropology, but looking at the top 50 of [this ranking](https://www.scimagojr.com/journalrank.php?category=3314) of anthropology journals, the owners are:\n\n**For-Profit:**\n\nWilely-Blackwell: 3, 8, 9, 10, 12, 17, 25, 26, 27, 31, 37, 40, 49, 50\n\nTaylor & Francis: 2, 18, 20, 21, 24, 28, 38, 44\n\nSAGE: 7, 19, 30, 32, 34, 35, 39, 43, 47\n\nElsiver: 5, 13, 42, 48\n\nSpringer: 29, 33, 45\n\nBerghahn Books: 36, 46\n\nME Sharpe Inc: 16\n\n**Non-Profit:**\n\nOxford University: 1, 6\n\nUniversity of Chicago: 15, 23\n\nAmerican Anthropology Association: 4\n\nAnnual Reviews Inc: 14\n\nCambridge University: 11\n\nIstituto Italiano di Antropologia: 22\n\nUbiquity Press: 41\n\nIn total, 82% of the top 50 anthropology journals are owned by private companies and 58% are owned by those companies you\u2019ve never heard of. I\u2019m not saying this to shame you, and if you don\u2019t look into this specifically it can be hard to learn. But I think it\u2019s important to be aware that those companies control publishing in your field.",
+                                  "author": "StellaAthena",
+                                  "created": 1595948264,
+                                  "upvotes": -1,
+                                  "replies": {
+                                    "fziq6p0": {
+                                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fziq6p0/",
+                                      "text": "Listen, I appreciate your taking your time to make this list, but the top journal listed there is the \"Journal of Consumer Research\", which is probably not the top journal in the field of anthropology. Also, my field is not anthropology at large, so I don't usually read \"anthropology\" journals. The only one of those that I've looked at in recent memory is the Annual Review of Anthropology, published by Annual Reviews Inc, a non-profit.",
+                                      "author": "ExtraSmooth",
+                                      "created": 1595949611,
+                                      "upvotes": 5,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "fzide33": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzide33/",
+                  "text": "> Most journals I'm aware of are published by university presses.\n\nReally? I find it hard to believe an academic hasn't heard of [Elsevier](https://en.wikipedia.org/wiki/Elsevier), [ProQuest](https://en.wikipedia.org/wiki/ProQuest), [EBSCO](https://en.wikipedia.org/wiki/EBSCO_Information_Services), or [JSTOR](https://en.wikipedia.org/wiki/JSTOR).\n\n\nElsevier in particular averages around $1.2B in profits every year.",
+                  "author": "Prof_Acorn",
+                  "created": 1595942642,
+                  "upvotes": 2,
+                  "replies": {
+                    "fzifxo9": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzifxo9/",
+                      "text": "I've never heard of Elsevier. I don't know of any journals published by ProQuest, EBSCO, or JSTOR--I understand those organizations to be host sites for other journals.",
+                      "author": "ExtraSmooth",
+                      "created": 1595944153,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "fzg9s3p": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg9s3p/",
+          "text": "None of this explains why you can't post preprints to an arXiv-like system.  The journals in the hard sciences scream about razor thin margins too.  Fuck 'em.\n\n> The most that we get is freedom to distribute the last non-typeset version of the manuscript, and a URL that allows the person to download a PDF 'offprint.' Those, sometimes, get spread more widely, but there's nothing systematic.\n\nYeah you just need to establish a website for this sort of thing and call it the HistarXiv and that's what we're talking about.\n\nI think the answer is that your review process is even more maddening than the hard sciences and posting a preprint actually can have negative consequences for you.",
+          "author": "dampew",
+          "created": 1595888227,
+          "upvotes": 19,
+          "replies": {
+            "fzgbooj": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgbooj/",
+              "text": "Some of us put the proof or final PDFs up on a certain website that's usually more known for scientific articles.  It is, however, a violation of most journal publishers' copyright agreements to upload such things, and at the very least it can create problems if you want to publish in that stable of journals ever again.  (edit: I'm not sure the review process comes into play there.)",
+              "author": "khosikulu",
+              "created": 1595889187,
+              "upvotes": 13,
+              "replies": {
+                "fzgeext": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgeext/",
+                  "text": "Back in the day some of the physics journals refused to let you post preprints, but people stopped submitting their articles to those journals and they reversed course\u0010.\n\nNature published an article in 2005 saying they embraced preprints: https://www.nature.com/articles/434257b  But I could have sworn we had conversations with individual editors who would say the opposite.  Can anyone remember this?  Am I going crazy?  Maybe I'm thinking of a different journal?\n\nThis one I remember more clearly: One time we submitted an article to Science, it got rejected, so we submitted it to Nature, and we actually got an angry email (or call?) from a Nature editor that said they would blacklist us from ever publishing with Nature if we ever again submitted something to Nature after submitting it to Science.  I think they knew we had targeted Science because of the format and timing of the preprint.  So yeah they definitely weren't onboard with the whole open publishing thing even if they said they were.",
+                  "author": "dampew",
+                  "created": 1595890611,
+                  "upvotes": 10,
+                  "replies": {}
+                },
+                "fzhk5o7": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhk5o7/",
+                  "text": "For what it\u2019s worth, they tried that in the 90s with physicists and mathematicians and we said \u201cfuck off, I\u2019ll publish elsewhere\u201d so they gave up.",
+                  "author": "StellaAthena",
+                  "created": 1595916537,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fzgowjl": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgowjl/",
+          "text": "One thing I learned as a history undergrad: if you want to read a paper, and you can find an email for the author, they'll probably share it with you gladly.",
+          "author": "Yeti_Poet",
+          "created": 1595896328,
+          "upvotes": 5,
+          "replies": {
+            "fzio4rg": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzio4rg/",
+              "text": "This is true in every field.",
+              "author": "StellaAthena",
+              "created": 1595948556,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fzfvbv2": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzfvbv2/",
+      "text": "Differences between fields can be curious. Another example is that math also has any number of high-quality journals that are free for both authors and readers. Meanwhile I see lots of people on here in other fields who seem to take it as given that free for readers necessarily means that authors must pay.\n\nIt's just culture. People in fields that use things like arXiv very little will not think to post their own papers there, nor will they encourage their colleagues to post there.",
+      "author": "ggchappell",
+      "created": 1595881120,
+      "upvotes": 14,
+      "replies": {
+        "fzgnwj1": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgnwj1/",
+          "text": "It doesn't help that arXiv doesn't have categories for other fields to publish in. Heck, even the existing categories are messed up. \n\nAre you an electrical engineer or mechanical \nengineer working on Robotics? Gotta post it in the Computer Science category even if it doesn't touch a single facet of CS. \n\nMost of electrical engineering doesn't have a subcategory and hence can't be posted on arXiv at all. Mechanical engineering does not exist at all either. \n\nThis is despite how connected ME and EE are to existing topics on arXiv (maths/Phys/cs)",
+          "author": "LaVieEstBizarre",
+          "created": 1595895764,
+          "upvotes": 8,
+          "replies": {
+            "fzhftjp": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhftjp/",
+              "text": "It\u2019s getting a little better though, isn\u2019t it? Since at least ChemarXiv and BioarXiv are now things?\n\nTbf, I don\u2019t know if people in my field post on there, because I just use Sci-hub for everything..",
+              "author": "lea949",
+              "created": 1595912982,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fzglxz8": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzglxz8/",
+      "text": "Actually, in psychology, [https://psyarxiv.com/](https://psyarxiv.com/) is quite active.",
+      "author": "littlealbertsrabbit",
+      "created": 1595894669,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "fzfumip": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzfumip/",
+      "text": "Many disciplines have their own version of ArXiv, for instance BioRxiv for biosciences and PsyArXiv for psych. Unfortunately, publishing a pre-print doesn't protect you from scooping (using a major idea or experiment from something you saw or read and publishing it before the originator can) the way publishing in a journal does. It can also get you accused of scooping. There are also many open-access journals, but there's a bit of snobbery, at least in my field, about publishing open-access vs. publishing somewhere like Nature.",
+      "author": "Kittens-and-Vinyl",
+      "created": 1595880783,
+      "upvotes": 32,
+      "replies": {
+        "fzg51ec": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg51ec/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1595885852,
+          "upvotes": 36,
+          "replies": {
+            "fzg93d9": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg93d9/",
+              "text": "Exactly. How are you getting scooped if it's already out there with your name on it?",
+              "author": "N1H1L",
+              "created": 1595887880,
+              "upvotes": 17,
+              "replies": {
+                "fzgdkfw": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgdkfw/",
+                  "text": "Oldie McOlderson sometimes doesn't realize that and isn't willing to have the conversation.",
+                  "author": "IAmTrident",
+                  "created": 1595890165,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            },
+            "fzghmkc": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzghmkc/",
+              "text": "The difference is that journals don't care, and that's what matters. To a journal, pre-prints might as well not exist at all as part of the literature.\n\nIf person A posts a pre-print on arXiv, person B can go right ahead and submit a paper on essentially the identical topic and get that paper published in essentially any journal in the chemical sciences (my field, presumably the same for biological sciences) provided the study passes peer-review. However, if person A's pre-print is previously accepted in a peer-reviewed journal, person B now has lost all novelty claims. Now, the burden is on person B to make a case for why their work is distinct, often resulting in what is perceived to be \"less impactful\" work (and therefore less likely to be accepted at a fancy-pants journal). This is what matters most to the community when we talk about priority claims.\n\nFew people actually care about the first date someone put the idea online. It's nice and all to be first, but it's infinitely nicer (for an academic) to have the published paper.\n\nFor what it's worth, this exact scenario just happened to me. We put an article online as a pre-print, which later got published in a peer-reviewed journal. While our manuscript was under review, someone submitted an extremely similar paper for review at a different journal (no pre-print), pretended as if our pre-print never existed (i.e. didn't cite our work), and successfully got their article accepted and published a few months after ours went online in the peer-reviewed journal.",
+              "author": "Panda_Muffins",
+              "created": 1595892327,
+              "upvotes": 8,
+              "replies": {
+                "fzhg4dl": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhg4dl/",
+                  "text": "Did you guys post the preprint before it got published? Ive always been told you don\u2019t post a \u201cpreprint\u201d until your paper is not only accepted but published. (And I always wondered what makes it a preprint then?)\n\nAnyway, yeah everything you\u2019ve said here is what I\u2019ve always seen in my field.",
+                  "author": "lea949",
+                  "created": 1595913215,
+                  "upvotes": 4,
+                  "replies": {
+                    "fzho06l": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzho06l/",
+                      "text": "Physics here - the paper goes on the arxiv the moment it is submitted to the journal. I generally don't even check the journals anymore, I've read it all on the arxiv already anyways.",
+                      "author": "Aeolitus",
+                      "created": 1595920026,
+                      "upvotes": 4,
+                      "replies": {}
+                    },
+                    "fzi1r6b": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzi1r6b/",
+                      "text": "What you described is a post-print and is generally done just to make an article freely available. That serves a different purpose than a pre-print. But yes, we put the article on a pre-print server the day before submitting to a journal.",
+                      "author": "Panda_Muffins",
+                      "created": 1595933921,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                },
+                "fzgzvgs": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgzvgs/",
+                  "text": "I'm in the chemical sciences too. IME if it's a paper of consequence (that is, something that is likely to go to high IF journal and receive external press), the preprint will likely be noticed and be the work of record. If someone tried to scoop w/ novelty claims the community (at least mine) would know. We're at the point now where a pre print can get cited a few times before it's published. That's happened to a paper we in limbo at a top-top journal a few times now (reviewer requested an experiment that's been delayed due to covid).",
+                  "author": "PoorHungryDocter",
+                  "created": 1595902622,
+                  "upvotes": 1,
+                  "replies": {}
+                },
+                "fzjoza8": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzjoza8/",
+                  "text": "From what I've seen, if that situation were to happen in CS then people doing anything that might involve citing the paper would either cite both or cite the arXiv pre-print. In the long run, the community knows who got the paper out first and if the publication date on the journal is after the one on arXiv, the one on arXiv wins and is likely to get more citations.",
+                  "author": "Hyper1on",
+                  "created": 1595966303,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fzg6n5e": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg6n5e/",
+      "text": "In Economics, we use SSRN",
+      "author": "overlapping_gen",
+      "created": 1595886644,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "fzgcple": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgcple/",
+      "text": "For the bioscience community, [bioRxiv.org](https://bioRxiv.org) is up and fairly successful.  I would say it's becoming more common to post to preprint servers as time goes by, but things move slowly.\n\nIn various discussions, I have heard of several notions that disincline people to post to preprint servers:\n\n* One reason I know that some people don't like to post preprints is that, in many cases, the preprint article is noticeably inferior to the final article.  Peer review, for all the criticism it receives, is actually helpful to at least some degree more often than not.  Articles revised after peer review are often a lot better than the original submission.  By submitting to a preprint server, some people fear the possibility that an article with flaws or mistakes will become part of the official record and conceivably haunt them in the future.  Sure, there's no guarantee that the article after peer review is free of flaws and mistakes, but still, that's the thinking for some people.  If flaws are going to be caught, they'd rather the flaws to be pointed out during the confidential process of peer review than on a wide open internet server for all to see.\n* Another aspect is simply laziness or ignorance.  Person X as University Y has access to any and every journal he cares about through the University of Y library, and so it doesn't occur to him that somebody else out there might not have access to all the journals he can access.\n* Disinterest.  Some academics don't care whether their articles are readily available to the public at large because they judge the public to be unqualified to opine on the quality of the article or discuss the subject matter in any substantial way, so they simply see no reason to bother.",
+      "author": "ChemMJW",
+      "created": 1595889714,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "fzhnwpv": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhnwpv/",
+      "text": ">Disciplines like math and computer science\n\nWeird omission from this list. You know physicists were literally the creators of arXiv, right?",
+      "author": "cantgetno197",
+      "created": 1595919935,
+      "upvotes": 5,
+      "replies": {
+        "fzi9x9i": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzi9x9i/",
+          "text": "Was going to say this - in physics, pretty much everything my supervisor wants me to look at I can just go grab off of arXiv.",
+          "author": "Quiinton",
+          "created": 1595940402,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "fzidwgj": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzidwgj/",
+          "text": "I did not. :D\n\nThose were just the two classes of papers I've read on there.",
+          "author": "ZakMiller",
+          "created": 1595942953,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fzgdsvw": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgdsvw/",
+      "text": "arXiv is not open access is pre-print. Just because is there, it doesn\u2019t meant it was peered reviewed. Open access means that the author pays the fees and not the reader and it has nothing to do with arxiv.",
+      "author": "FoCoCS",
+      "created": 1595890290,
+      "upvotes": 12,
+      "replies": {
+        "fzhkjvt": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhkjvt/",
+          "text": "You\u2019re absolutely correct that not everything on arXiv is peer reviewed, but virtually everything that\u2019s peer reviewed is on arXiv. If I want to read a new paper, I google \u201carXiv A Study on the Effects of Preprints\u201d and it comes up. It doesn\u2019t matter if the journal it is published in charges money or not, I can get ~90% of published papers I am interested in from arXiv for free.\n\nFor example, [this paper](https://arxiv.org/abs/1602.07576) was published in the Proceedings of the International Conference on Machine Learning in 2016. It is peer reviewed in a tier 1 venue, heavily cited, and completely free for anyone to read.",
+          "author": "StellaAthena",
+          "created": 1595916872,
+          "upvotes": 6,
+          "replies": {
+            "fzi1oh1": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzi1oh1/",
+              "text": "That\u2019s not the point. OP made reference to open access \u2014 that\u2019s something else.",
+              "author": "FoCoCS",
+              "created": 1595933849,
+              "upvotes": -1,
+              "replies": {
+                "fzifz64": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzifz64/",
+                  "text": "This is exactly the OP\u2019s point, they just don\u2019t totally understand what \u201copen access\u201d means. Did you actually read the post? **Nothing in the body of their post is about open access**. It\u2019s about posting papers online on arXiv after they\u2019ve been published elsewhere.",
+                  "author": "StellaAthena",
+                  "created": 1595944178,
+                  "upvotes": 1,
+                  "replies": {
+                    "fzigdj6": {
+                      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzigdj6/",
+                      "text": "Yes I read it and I understand what he is saying. However, he is using the term incorrect. The archive is for pre-prints regardless if they were accepted to a conference or journal. Two different things. I don\u2019t want to start arguing. You may want to reply directly to the OP.",
+                      "author": "FoCoCS",
+                      "created": 1595944402,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fzghrb8": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzghrb8/",
+      "text": "In philosophy, we have https://philpapers.org plus a few open-access journals (*Philosophers' Imprint* and *Ergo* are the first that come to mind).",
+      "author": "gladsome2",
+      "created": 1595892399,
+      "upvotes": 4,
+      "replies": {
+        "fzgicva": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgicva/",
+          "text": "There's also http://philsci-archive.pitt.edu/ for philosophy of science, which is more niche but has more consistent coverage.",
+          "author": "MaceWumpus",
+          "created": 1595892720,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "fzhpo2z": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhpo2z/",
+          "text": "Not all papers are available through philpapers. If somebody doesn't upload a copy it's moot.",
+          "author": "PM_MOI_TA_PHILO",
+          "created": 1595921631,
+          "upvotes": 2,
+          "replies": {
+            "fzhudlp": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhudlp/",
+              "text": "Yes, that\u2019s how the internet works. Someone needs to upload a copy for it to be online..",
+              "author": "StellaAthena",
+              "created": 1595926416,
+              "upvotes": 1,
+              "replies": {
+                "fzj17y4": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzj17y4/",
+                  "text": "No shit, but that doesn't make Philpapers open-access. It's just an index system.",
+                  "author": "PM_MOI_TA_PHILO",
+                  "created": 1595955008,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fzh11n4": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzh11n4/",
+      "text": "Serious question. Do you all (academics) trust pre print and if so why?",
+      "author": "xboner15",
+      "created": 1595903299,
+      "upvotes": 4,
+      "replies": {
+        "fzhh55v": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhh55v/",
+          "text": "I access papers exclusively by pre-print because near 100% of papers in astronomy are uploaded through arxiv, even historical papers written before the advent of computers and the internet have been scanned and uploaded, and I think the earliest entry is from the 1400s. So it's an expansive, reliable resource that I don't have to log in to every single time like I do with journals.\n\nAlso, it's very rare to find an interesting pre-print that hasn't also been published in a journal. You *can* upload them prior to submission anywhere, but it's far more common to upload on submission or acceptance. Papers submitted in the last 3-4 months are more likely to still be in the submission stage, but that's not much compared to the hundreds of years' worth of published papers that are also on the site. You can also upload revisions if the paper changes before publication (it's very common).\n\nAlso, it's not taboo in astronomy to cite a pre-print. Even the big name review articles cite pre-prints, some that were old and not even submitted to any journal when the piece was written, so they were definite, permanent pre-prints and nothing more. That's fine for us. There is some degree of moderation on arxiv still and those pieces are cited because they're relevant pieces from relevant *authors* usually. \n\nWe all know the limitations of pre-prints. We know things can change in them. We know that they need to be read carefully and hold slightly less weight than a pre-print that has already been accepted/published. We're fully capable of managing some shades of grey between \"pseudo-science hack piece that a junkie thought up\" and \"indisputable truth published by God in Science\". Journal papers often end up being wrong or insufficient in some way. Pre-prints that never make it to a journal desk may be wrong slightly more often. Doesn't mean we can't trust them at all.",
+          "author": null,
+          "created": 1595914019,
+          "upvotes": 7,
+          "replies": {
+            "fzi82wr": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzi82wr/",
+              "text": "Also, don't Journals like JCAP REQUIRE the papers to be in arxiv before submitting? So arxiv is basically a mandate in such cases",
+              "author": "loopdaed_mI",
+              "created": 1595939100,
+              "upvotes": 1,
+              "replies": {
+                "fzilikl": {
+                  "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzilikl/",
+                  "text": "I've never heard of JCAP so I don't know. I do know that the REF requires our papers be freely available in order to include them in the dossier, so that's a pretty big incentive to use arXiv, otherwise your university doesn't get its funding.",
+                  "author": null,
+                  "created": 1595947202,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fzikkr3": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzikkr3/",
+          "text": "You'd be better off making a new post. \n\nAs for your question: qualified yes? I basically only use pre-prints of accepted articles; and then only ones that are available for free online in easily searchable places. My field (philosophy) is also not one in which I would worry that a reviewer would find some critical flaw in the experimental design or whatever that would undermine all the results. \n\nBut if your friend sent you a manuscript that hasn't yet been submitted, let alone accepted, and isn't available anywhere? That makes me uncomfortable.",
+          "author": "MaceWumpus",
+          "created": 1595946709,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "fzjpbie": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzjpbie/",
+          "text": "If a pre-print paper is interesting, then knowing it is published formally makes almost no difference to my assessment of its merit, because I know that (a) papers can take a while to be accepted somewhere and (b) the acceptance process is stochastic anyway with many false negatives. So in the end I just browse arXiv and look at the papers that are interesting or being cited - I don't even know if most of the papers I'm reading are actually published if they don't mention it in the arXiv comment.",
+          "author": "Hyper1on",
+          "created": 1595966465,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fzgigeg": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgigeg/",
+      "text": "In chemistry, I think it's a lot due to inertia. I wanted to publish one on chemrxiv, but my ex supervisor didn't want. Thought it was silly, didn't even know what it was in the first place. Since then it has been stuck in limbo trying to get published and the novelty is wearing off. Oh well",
+      "author": "PraecorLoth970",
+      "created": 1595892773,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "fzg69yw": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzg69yw/",
+      "text": "Pretty much our entire audience has institutional access in one form or another",
+      "author": "tc1991",
+      "created": 1595886459,
+      "upvotes": 4,
+      "replies": {
+        "fzgqe0e": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgqe0e/",
+          "text": "I understand your point but it's a rather circular argument, since if they didn't have institutional access they wouldn't have the means to be your audience even if they wanted to.",
+          "author": "bobgom",
+          "created": 1595897173,
+          "upvotes": 4,
+          "replies": {
+            "fzhmcye": {
+              "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhmcye/",
+              "text": "well, I suppose it depends on how you define audience, my audience is fellow academics, practitioners and a sometimes judges - if you've got a WestLaw or Lexis subscription you can get access to all my articles and good luck being any one of those things without access to either of those services, as for non-law academics (you may have access to WestLaw or Lexis anyway) they're on JSTOR with a 12-24 month delay if not fully uptodate. \n\nAs for 'the general public', well as it happens I do have to upload my papers to 'OA' depositories at my current university (thanks to a blanket, discipline blind, done without consultation policy initative by our university's research dean), so I've got papers on SSRN and the number of downloads makes it very clear that there isn't an appitite for them, and no one has ever emailed me or anyone I know for a copy of a paper we've written, and I have a 'substantial' and active twitter following (for my niche anyway). Besides, without an education in law or even international law most of my work isn't exactly accessible (and no i don't have time to explain the VCLT to a non-specialist in every paper I write).\n\nFortuantely we managed to moderate the OA policy, because here comes the big issue I have with OA, my promotion criteria requires that I publish a certain number of 'high impact' articles a year, and, well, for starters there are no 'high impact' OA journals in my field and secondly the OA fees would make it impossible for me to publish the required number of articles. I get that things are different in the big science fields, I just wish that people would take a moment to consider that maybe other fields are different.",
+              "author": "tc1991",
+              "created": 1595918493,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fzgtkfl": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgtkfl/",
+      "text": "Way too costly when you run a wet lab; I can spend four digits or more on publishing a paper open-access, or I can spend four digits or more on parts and supplies for when my equipment breaks down.\n\nOA isn't free; it's just shifts who pays. That inherently would fuck over smaller institutions and consolidate more and more research power into fewer and fewer hands, all at the bigger-name institutions.",
+      "author": "r3dl3g",
+      "created": 1595898977,
+      "upvotes": 2,
+      "replies": {
+        "fzhksih": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhksih/",
+          "text": "I think the OP is more interested in why you don\u2019t just put the papers online for free, and is using terminology in a way that\u2019s common in math and computer science (conflating \u201copen access\u201d with \u201conline and free to read\u201d) but not in other fields where people actually pay to get their papers \u201copen access.\u201d\n\nThe idea of paying a journal to removal the paywall on my article is silly, because anyone who Googles the name of any paper I ever write will find it online for free regardless of what the journal does.\n\nFor example, [this paper](https://arxiv.org/abs/1602.07576) was published in the Proceedings of the International Conference on Machine Learning in 2016. It is peer reviewed in a tier 1 venue, heavily cited, and completely free for anyone to read.",
+          "author": "StellaAthena",
+          "created": 1595917081,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "fzhjelx": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhjelx/",
+          "text": "Yeah, I'm currently writing an OA article with a science colleague and the fee is a lot. Theres no way I could afford it, even with grant funding as our grants tend to be quite small. Subscription fees are paid by the library. So while I get my science colleagues desire for OA theyd better be willing to subsidise my publishing costs.",
+          "author": "tc1991",
+          "created": 1595915895,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fzh8zwg": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzh8zwg/",
+      "text": "I am in CS and mostly publish pure math. I think part of the story might be that culturally CS has always had a strong vein of open source advocacy. Some major conferences in CS have even gone fully open and severed ties even with the ACM, like the Symposium on Computational Geometry. Something similar may be going on in mathematics, where there tends to be a lot of non-conformity as a general rule. I don't think these lend themselves to following what publishers want for their bottom lines. I'm published in both CS and math journals and I've never paid an author fee and I've posted most of my work (if not all) to the ArXiV. I always check the requirements of where I want to send the paper first, but it's always been acceptable to have preprints out there. I think its so prevalent you wouldn't have anything to publish if you were a publisher that didn't allow ArXiV preprints in CS or math.\n\nAlso, there is a difference between Open Access where the final journal version is made available for free (this usually requires a hefty author fee) and preprints on the ArXiV (which are not the official record of the publication and are posted in a form before the final edits based on the review process are made).",
+      "author": "johncbowers",
+      "created": 1595908211,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fzgmgj2": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgmgj2/",
+      "text": "It's becoming more and more common in economics. A lot of authors also post their papers (working and published) on their personal websites.",
+      "author": "NotMitchelBade",
+      "created": 1595894960,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fzhe92w": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhe92w/",
+      "text": "I'm not familiar with how those archives work, but for chemistry, it needs to be peer reviewed. You have to have people from outside see your work and say to the community that it makes sense.\n\nI agree that most of this stuff should be free of charge, but I don't know any chemistry-related journals that are free and have a strong peer reviewing",
+      "author": null,
+      "created": 1595911803,
+      "upvotes": 1,
+      "replies": {
+        "fzhl6df": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzhl6df/",
+          "text": "In math and CS, one typically posts papers online after they\u2019ve been published. It doesn\u2019t matter if the journal makes it avaliable for free, because anyone who googles the title of the paper will find PDFs of it.\n\nFor example, [this paper](https://arxiv.org/abs/1602.07576) was published in the Proceedings of the International Conference on Machine Learning in 2016. It is peer reviewed in a tier 1 venue, heavily cited, and completely free for anyone to read.",
+          "author": "StellaAthena",
+          "created": 1595917420,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "fzgno3f": {
+      "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzgno3f/",
+      "text": "As someone who used to read a bunch of psychology papers is I think you should know about the replication crisis. I had low confidence that what I was reading was accurate so I stopped.\n\n\nhttps://en.m.wikipedia.org/wiki/Replication_crisis#In_psychology\n\nhttps://youtu.be/42QuXLucH3Q",
+      "author": "-DonQuixote-",
+      "created": 1595895630,
+      "upvotes": -1,
+      "replies": {
+        "fzie502": {
+          "link": "/r/AskAcademia/comments/hyzh43/why_dont_other_disciplines_do_open_access/fzie502/",
+          "text": "I'm familiar. I don't think the correct response is to throw out the whole field.\n\nThere are cool things like this going on: [https://en.wikipedia.org/wiki/Reproducibility\\_Project](https://en.wikipedia.org/wiki/Reproducibility_Project)",
+          "author": "ZakMiller",
+          "created": 1595943100,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

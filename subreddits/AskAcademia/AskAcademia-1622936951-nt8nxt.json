@@ -1,0 +1,624 @@
+{
+  "sid": "nt8nxt",
+  "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/",
+  "title:": "People who write scientific research papers quickly, what\u2019s your secret?",
+  "text": "For academic research papers, what are your best tips and tricks for being both efficient and doing high quality work? What order do you write the paper in, and how do you keep from going off on too many tangents? How do you deal efficiently with co-authors?",
+  "author": "AgnesIsAPhysicist",
+  "created": 1622936951,
+  "updated": 1634080093,
+  "over_18": false,
+  "upvotes": 424,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "h0qpvc8": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0qpvc8/",
+      "text": "I start with Methods then do Results, Intro, Discussion, and Abstract. \n\nAvoiding tangents is something I\u2019ve really had to work on over the years. I just try to keep in mind that less is usually better for the reader. Your audience has a limited amount of time and energy to spend on your paper, so make sure you have 1-3 main points you want them to take away from your paper. If something doesn\u2019t contribute to those core points, get rid of it. You can always save tangential points for another paper or a boozy discussion with a colleague.",
+      "author": "Harddicksavage",
+      "created": 1622937691,
+      "upvotes": 399,
+      "replies": {
+        "h0r01nw": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0r01nw/",
+          "text": "Just to add if you want a little more detail: [https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously)",
+          "author": "Nice_Adhesiveness_41",
+          "created": 1622943414,
+          "upvotes": 94,
+          "replies": {}
+        },
+        "h0qsnqk": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0qsnqk/",
+          "text": "Wow thanks for this advice!!",
+          "author": "GrumpyCockatoo",
+          "created": 1622939245,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "h121bhn": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h121bhn/",
+          "text": "This comment is a god-sent to me. I'm working on a paper for a journal and I was stuck trying to fix the intro, but took up your tactic and basically blazed through the methods. Wish I had known this years ago!",
+          "author": "eveleanon",
+          "created": 1623175664,
+          "upvotes": 4,
+          "replies": {
+            "h127wt1": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h127wt1/",
+              "text": "Awesome!!",
+              "author": "Harddicksavage",
+              "created": 1623178458,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "h0tahcj": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0tahcj/",
+          "text": "I find that writing the discussion first helps to keep the intro cohesive because you never know what other research you will need to delve into as you think about your results. Discussion, intro, methods, results, abstract is my usual order.\n\nEdit: but honestly, write the easy things when you have smaller chunks of free time and the harder things when you have larger chunks. That has been the most time efficient for me. I usually write my methods as I perform the research sonindont forget if we deviate from the plan for whatever reason.",
+          "author": "neurotactic",
+          "created": 1622999613,
+          "upvotes": 8,
+          "replies": {
+            "h0td755": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0td755/",
+              "text": "Ultimately, whatever works for you is what you should do. \n\nI basically have the Methods ready to go first, since I keep detailed notes as the study is running, so I write that first. Putting the Methods together first also helps me determine if anything is \u201cmissing\u201d (e.g., more data to collect, another analysis to run, etc.) at an earlier stage of the process.\n\nI like to write the Results next as those follow directly from the Methods I just wrote. Results are also the \u201cmeat and potatoes\u201d of the paper: For me it\u2019s helpful to have that information very clearly laid out before I move on to the Introduction and Discussion. That way I can (try to) avoid going off on too many tangents \u2014 everything I write in the Intro/Discussion should have a direct thread to the data I collected.\n\nThe Introduction is usually easier for me to move onto next, because this is getting at why I did the study in the first place (e.g., what outstanding question am I trying to answer). But writing the Results beforehand helps me ensure I\u2019m only writing about a question that I *can* answer with my data. I\u2019m amazed at how often the data people have don\u2019t really address the question/hypothesis they introduce (if they do introduce one at all \u2014 increasingly uncommon in my field).\n\nI like to leave the Discussion for last because, as I\u2019m writing, I\u2019m constantly thinking about what the implications of my work are, so by the time I get here I\u2019ve thought it through ad nauseam. This also gives me more time to find obscure papers that have touched on related ideas yet don\u2019t get acknowledged much \u2014 something I tremendously enjoy doing.",
+              "author": "Harddicksavage",
+              "created": 1623000905,
+              "upvotes": 9,
+              "replies": {}
+            }
+          }
+        },
+        "h0r2kmn": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0r2kmn/",
+          "text": "That's how I exactly think but everyone gives me the \"no no\" feel.",
+          "author": "wigglytails",
+          "created": 1622944865,
+          "upvotes": 2,
+          "replies": {
+            "h0rkbay": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rkbay/",
+              "text": "I once wrote a paper for a graduate program in which I had to distill and synthesize a topic into 8-10 pages. It had to have at least 4 sources and the textbook wasn't allowed to be one of the sources.  \n\nAs a class, we reviewed each other's papers to give pointers and what not before the papers were ultimately turned in.  Mine was ripped to shreds by all reviewers: too many citations, confusing to read, etc.  The papers I reviewed had 4 sources and almost everyone used the book as one of their sources.  When I got my grade back it was a 97.  \n\nYou don't ever have to follow the path that others use.",
+              "author": "Nice_Adhesiveness_41",
+              "created": 1622956508,
+              "upvotes": 39,
+              "replies": {
+                "h0tdlto": {
+                  "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0tdlto/",
+                  "text": "This might be an unpopular opinion but I feel like having \"too many references\" is like being \"too rich.\" Unless the journal sets a limit I am more convinced by knowing how more of the literature is connected to the topic.",
+                  "author": "MercuriousPhantasm",
+                  "created": 1623001095,
+                  "upvotes": 12,
+                  "replies": {
+                    "h0to8bw": {
+                      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0to8bw/",
+                      "text": "For that paper I was told to distill and synthesize so I went until I was supersaturated in information from academic journals and started getting repeats or sources citing the sources I had already sourced and then I was able to just pull out the core variables.\n\nEdit: Word",
+                      "author": "Nice_Adhesiveness_41",
+                      "created": 1623006069,
+                      "upvotes": 4,
+                      "replies": {}
+                    }
+                  }
+                },
+                "h0s99pg": {
+                  "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0s99pg/",
+                  "text": "100% agreed.",
+                  "author": "Harddicksavage",
+                  "created": 1622978817,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h0qyj1l": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0qyj1l/",
+      "text": "I write while I do the research. Even if things change, there is still a draft of the Related Work, Methods and Results that I can go to immediately when finished and continue writing. I write all over the place on the paper because of this strategy.",
+      "author": "tasteofglycerine",
+      "created": 1622942545,
+      "upvotes": 76,
+      "replies": {}
+    },
+    "h0rg0yc": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rg0yc/",
+      "text": "This may not work for everyone, but I have a big love for presenting. So I\u2019ll make my figures and get them all nailed down, write my methods like normal, and basically set up a presentation outline. Then, I\u2019ll stream-of-consciousness word vomit on to the page as if I were talking to an audience. I take a day or more away, come back, and read it out loud to myself to identify any gaps in information or illogical jumps, to edit grammar and spelling, and just generally clean up. It makes for really speedy writing and gets you to practice \u201cpresenting\u201d as well.",
+      "author": "bergdokn",
+      "created": 1622953415,
+      "upvotes": 43,
+      "replies": {}
+    },
+    "h0qteyq": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0qteyq/",
+      "text": "Start writing whatever you have. No matter how insignificant your contributions are up to that point. If you don\u2019t have any idea what you are proposing, download a journal template and write down your name and probable tittle. \nStart writing what you want to do?\nChapter headings\nReferences \n\nYou will have some new idea each time you open that document. That will work like a charm. Let me give you an example from my work:\n\nI work in developing algorithms, analyzing them and applying them to solve optimization problem. Whenever I have an idea, I just do the following:\n\n1. Download a probable journal latex template\n2. Write down the probable title \n3. Author names\n4. Paper headings \n5. Add random Algorithm templates\n6. Start writing the abstract\n\nAfter all of that I have a preliminary document to work on. It drives me to write more. In my mind I know I already wrote down the structure. That gives me motivation.",
+      "author": "optimization_ml",
+      "created": 1622939664,
+      "upvotes": 80,
+      "replies": {
+        "h0s2ptg": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0s2ptg/",
+          "text": "> Download a probable journal latex template\n\nI'm very interested in Latex, do you have a link to one ?",
+          "author": "Jtktomb",
+          "created": 1622972780,
+          "upvotes": 7,
+          "replies": {
+            "h0s7vk9": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0s7vk9/",
+              "text": "You can usually find some templates at the webpage of the publisher, for example:\n\n[https://publishingsupport.iopscience.iop.org/questions/templates-and-guidelines-for-proceedings-papers/](https://publishingsupport.iopscience.iop.org/questions/templates-and-guidelines-for-proceedings-papers/)\n\nAlso Overleaf (online latex editor) has lot of them: [https://www.overleaf.com/latex/templates](https://www.overleaf.com/latex/templates)",
+              "author": "Neldorn",
+              "created": 1622977602,
+              "upvotes": 10,
+              "replies": {
+                "h0snsrc": {
+                  "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0snsrc/",
+                  "text": "Thanks",
+                  "author": "Jtktomb",
+                  "created": 1622988321,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "h0rzbiw": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rzbiw/",
+          "text": "That is almost exactly what I teach not to do. For beginners I teach:\n\nFigures, methods, results, discussion, introduction, abstract, title.  \n\n(omitting authorship as that depends upon what goes into figures/method/results).",
+          "author": "Life_time_learner",
+          "created": 1622969558,
+          "upvotes": 13,
+          "replies": {
+            "h0srk5h": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0srk5h/",
+              "text": "Yeah, that's what I do. But it starts even earlier with outlines of the paper. I follow this\nhttps://www.tulane.edu/~lamp/whiteside.pdf",
+              "author": "926-139",
+              "created": 1622990262,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "h0zeoxu": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0zeoxu/",
+          "text": "I work in a similar area, and do exactly this. I end up with dozens of unfinished latex files as a result. What do you do with these?",
+          "author": "notadoctor123",
+          "created": 1623117164,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h0s7qyp": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0s7qyp/",
+      "text": "I'm an ECR (postdoc) so I'm still polishing my writing. I was lucky to work with very prolific co-authors who taught me this approach and so far it's the best for me. \n\nI always find it daunting to begin a paper. 3 key points: 1) Break everything down to the smallest task, 2) start writing and annotating as early as you can and try to be consistent, and 3) set clear goals with your co-authors early on, I find turn-over is more important than \"perfection\".   \n\nStarting from scratch is always daunting for me, so I have a word template with the classic IMRaD structure (see below). This gives me a skeleton and feels more \"manageable\" than a white page, even though I don't know which will be the target journal. I scribble down the Methods section and add relevant publications for the intro and discussion as soon as I start the project.  \n\nOnce I have the results and I know the target journal, I change my template to the journal's structure. Having a couple of examples is useful to identify the overall length of each section (e.g., some journals prefer 3 paragraphs in the introduction, others 4 or even 5; same with the discussion, some use 1 closing paragraph \\[conclusion\\] other journals just 3 paragraphs). Then, I create subsections with \"*paragraph topic*\" which I remove after a couple of draft versions. This approach helps me to keep in mind the logical progression of the paper. I also use \"*sentence topic*\", just in my words not worrying about grammar nor style to start putting words on the page. I usually write 5-6 sentences for each paragraph. Then I add the figures. Figures are super important, so I usually have a PowerPoint with several iterations of the same analysis but presented in different ways. \n\nSo, I begin with the Methods section, then Results, Intro, Discussion, and finally the Abstract. The abstract is just a well-thought summary of your publication so I find it easier to write once I have the other sections ready (writing the abstract is just another way of writing your paper in 250 words, it has its own structure).  \n\nAfter that, it is just a matter of polishing and working with your co-authors. One issue I constantly have is to know when the manuscript is \"good enough\" to be submitted, this is when senior co-authors are key to just tell you to stop and submit it. I'm a veterinarian, so papers aren't a big task during your undergrad. I had to learn from scratch when I started my PhD, don't be afraid of bad reviews and try to maximise the times your co-authors provide feedback, I learnt a lot even though it was kinda painful and discouraging in the beginning. \n\nI hope this is useful :)  \n\nThis is how my template looks: \n\n**Target journal info:** type and length of the article  \n\n**Title1**: \\[the title I prefer\\] \n\n**Title2/3/4:** \\[alternatives\\]\n\n**Abstract:** \\[Number of words\\]\n\n**1. Introduction** \n\n* Paragraph1: Intro to the field \n* Paragraph2: Specific field details and intro to the project\n* Paragraph3: Why's the project relevant to the field?\n* Paragraph4: Closing and the relevance of the study\n\n**2. Methods (begin as soon as you can with this)**\n\n* Paragraph1: General description\n* Paragraph2: Location/case study\n* Paragraph3: Data collection\n* Paragraph4: Data analysis\n\n**3. Results (ID key results and keep it to the point)**\n\n* Paragraph1: Main result\n* Paragraph2: Result2\n* Paragraph3: Any extras  \n\n**4. Discussion (3 arguments max)**\n\n* Paragraph1: General recap and key results in context \n* Paragraph2: Result2 in context \n* Paragraph3: The project in the field's context\n* Paragraph4: Caveats/Issues/What's next?\n* Paragraph5: Closing\n\n**Extras (or in a different document):** \n\n* co-author details (not in order)\n* funding details\n* acknowledgements \n\nI always have 3 documents by the end of the project:   \n1. The word doc with the manuscript  \n2. A Powerpoint with figures  \n3. A word document with all the paragraphs we removed",
+      "author": "cazza85",
+      "created": 1622977496,
+      "upvotes": 27,
+      "replies": {
+        "h1itg91": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h1itg91/",
+          "text": "Why do you keep your figures in PowerPoint?",
+          "author": "Crafty-Glass-3289",
+          "created": 1623510719,
+          "upvotes": 1,
+          "replies": {
+            "h1lhegu": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h1lhegu/",
+              "text": "Mainly because I can keep a \"storyline\" and easily change small details until we decide the final figures.",
+              "author": "cazza85",
+              "created": 1623565516,
+              "upvotes": 1,
+              "replies": {
+                "h1numfz": {
+                  "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h1numfz/",
+                  "text": "Alright, thanks",
+                  "author": "Crafty-Glass-3289",
+                  "created": 1623618464,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h0qvsz4": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0qvsz4/",
+      "text": "A tip for writing the intro i find useful is \u2018funnel down\u2019.\n\nBroad intro paragraph, slowly funneling down in relevance to the specific question in the last paragraph. This keeps me on point and stops me from going off on a tangent, and allows me to refer to 2-3 relevant past papers per section - so the first paragraph might be a generic position statement to introduce the main topic if that makes sense.",
+      "author": "CR-Aesthetics",
+      "created": 1622940990,
+      "upvotes": 63,
+      "replies": {
+        "h0rc2kh": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rc2kh/",
+          "text": "This is a great point. I structure my papers like an hourglass: start broad, narrow down to your question, hypotheses, etc. Use the Discussion to remind the reader what you found in your study and then broaden back out to discuss the implications of your work for broader issues in the field.",
+          "author": "Harddicksavage",
+          "created": 1622950774,
+          "upvotes": 28,
+          "replies": {
+            "h0reab4": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0reab4/",
+              "text": "Yep brilliant point. The methods & results will be the \u2018narrow part\u2019 before slowly trickling down and applying your findings into the literature. Great analogy!",
+              "author": "CR-Aesthetics",
+              "created": 1622952242,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        },
+        "h0r7l5v": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0r7l5v/",
+          "text": "This is very useful. I struggle a lot with the intro too",
+          "author": "needfulsalsa",
+          "created": 1622947893,
+          "upvotes": 5,
+          "replies": {
+            "h0ref6b": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0ref6b/",
+              "text": "I\u2019ve spoken to a lot of people who say the same and I definitely find immediately (like during data collection) writing a point for each paragraph in the intro, starting extremely broad and slowly funnelling down. Then, if you know the literature/do some reading In that area, the ideas usually form themselves around these points.",
+              "author": "CR-Aesthetics",
+              "created": 1622952331,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "h0s2rij": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0s2rij/",
+          "text": "Worked extremely well for me recently",
+          "author": "Jtktomb",
+          "created": 1622972825,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h0sz6uo": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0sz6uo/",
+      "text": "Lots of good comments here already but adding a few because why not:\n\n* Schedule 3-5 days when you are literally doing nothing else other than the paper. No meetings, no experiments, just figures/writing. It usually takes me hours to get \"in the zone\" but once I'm there, the paper gets done super quickly. I've never had a manuscript take more than a week to write when I set it up this way and tell everyone to go away, block email, etc.\n* Bullet point the main idea of any paragraph before writing it. Also, please no more than 5 sentences per paragraph and no more than one or two commas/\"and\"s per sentence. If you need more than that, you're probably rambling.\n* Secret magic trick: once you finish writing a paragraph, take the last sentence and move it to the beginning of the paragraph. Your paper is now 100% more skimmable = better!\n* Whatever order works best for you, but I do results (figures, bullet points for each paragraph, then text), discussion, intro, methods.\n* Definitely use LaTeX. Use overleaf if you don't want to set up the compiler on your computer.\n* Coauthors - give definite deadlines, and send many reminders. But in practice, just do all their work for them and coauthor them anyways. Almost all coauthors are dead weight at the writing stage. The few who aren't are gold.\n* Proofreading - have some text-to-speech software read the paper to you. It takes some time but its worth doing once. You'll immediately notice typos and cringe-bad sections :)",
+      "author": "such_science_wow",
+      "created": 1622994171,
+      "upvotes": 11,
+      "replies": {
+        "h0tc11r": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0tc11r/",
+          "text": "This comment is gold.",
+          "author": "TheOneWhoPunchesFish",
+          "created": 1623000357,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h0r97wm": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0r97wm/",
+      "text": "I make a PowerPoint slide deck. It creates a lot of clarity on how to frame the story and identify weak points, providing direction for additional experiments to strengthen the case.",
+      "author": "slowpokesardine",
+      "created": 1622948925,
+      "upvotes": 11,
+      "replies": {
+        "h0rc6h6": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rc6h6/",
+          "text": "You can also use MS Word's \"outline view\" for this, but it is admittedly not as visual and immediate.\n\nSet up your major headings as H1, H2, H3 etc and then you can drag around whole sections.",
+          "author": "PointsGeneratingZone",
+          "created": 1622950846,
+          "upvotes": 1,
+          "replies": {
+            "h0riobw": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0riobw/",
+              "text": "?",
+              "author": "slowpokesardine",
+              "created": 1622955315,
+              "upvotes": 1,
+              "replies": {
+                "h0rz7dp": {
+                  "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rz7dp/",
+                  "text": "Sorry, I thought you were referring to using Powerpoint to quickly lay out the structure of your paper and move sections around.\n\nYou can do the same thing in Word using the outline view.",
+                  "author": "PointsGeneratingZone",
+                  "created": 1622969450,
+                  "upvotes": 1,
+                  "replies": {
+                    "h0rz7w6": {
+                      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rz7w6/",
+                      "text": "Powerpoints are the peacocks of the business world; all show, no meat.",
+                      "author": "Ok_Customer2455",
+                      "created": 1622969463,
+                      "upvotes": -3,
+                      "replies": {
+                        "h0rzac9": {
+                          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rzac9/",
+                          "text": "And no one wants to listen to them.",
+                          "author": "PointsGeneratingZone",
+                          "created": 1622969526,
+                          "upvotes": -2,
+                          "replies": {
+                            "h107nbg": {
+                              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h107nbg/",
+                              "text": "Angry PowerPointers here.",
+                              "author": "PointsGeneratingZone",
+                              "created": 1623135752,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h0r3d4k": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0r3d4k/",
+      "text": "I start with the research questions/hypothesis then literature review to show the gaps that highlight my research questions. Then I move to the methodology and results, making sure the research questions are addressed well in those sections. From my experience writing and reviewing papers, these are what will drive the decision to accept/revise/reject the paper, so I work on them first to make sure rest fo the sections align with these sections. Intro/motivation is next and then I work on discussions and limitations. Conclusions and abstract are the last things I write because these are probably what reviewers will read first and you want these to highlight everything on your paper . I feel that this sequence helps me focus more on the contributions of my work and keeps that chain of thought throughout the paper.",
+      "author": "aaryal0",
+      "created": 1622945326,
+      "upvotes": 11,
+      "replies": {
+        "h0tueud": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0tueud/",
+          "text": "I found your answer to be one of the most principled and actionable for me personally. Thank you!",
+          "author": "wlogenerality",
+          "created": 1623008926,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h0qpff6": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0qpff6/",
+      "text": "Confidence",
+      "author": "drofnature",
+      "created": 1622937448,
+      "upvotes": 22,
+      "replies": {}
+    },
+    "h0qtn8w": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0qtn8w/",
+      "text": "A solid formula for the structure",
+      "author": "eggplant_wizard12",
+      "created": 1622939786,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "h0r1tcl": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0r1tcl/",
+      "text": "Saving this post!",
+      "author": "notjennyschecter",
+      "created": 1622944431,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "h0r1ftw": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0r1ftw/",
+      "text": "ALWAYS figures first. Figures tell the story. If you feel like you're missing a panel of a figure because you don't have that data, put a white box as a placeholder. Then, do that experiment (and hope that the data agrees with your other data). Repeat until all figures are finished. Then write the other parts. \n\nAnd you should start this process when you feel like your story is 50 - 75% done.",
+      "author": "NorthAd7013",
+      "created": 1622944217,
+      "upvotes": 33,
+      "replies": {
+        "h0rbzy5": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rbzy5/",
+          "text": "Absolutely boggles the mind why anyone would write papers any other way! Papers as storytelling and pictures (figures) are worth a thousand words. I literally will storyboard my papers above my desk and they always end up writing themselves. It also has the benefit of having extremely polished figures since I start them very early on and it also helps keep the story \"tight\".\n\nIt's also a lot more natural to pick and choose the figures I present at lab meeting and to iterate on them until they are manuscript worthy. This makes it so writing is a natural process of research and not to be done \"at the end\" when I feel like I've finished a story. Half the difficulty I think people have with writing is they don't make it a regular ritual since they're always doing it at once at the end of a project but I think people don't realize research is a continual process and there's never good end points.\n\nMaybe it's just me but never have I ever planned out an experiment knowing a priori what methods I might end up using or what clearly the results will be. Introduction and discussion come last.",
+          "author": "Stereoisomer",
+          "created": 1622950724,
+          "upvotes": 10,
+          "replies": {
+            "h0rdra5": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rdra5/",
+              "text": "This is very field-dependent.\n\nIn human subjects research, you don't get to make up a story as you go along. Your experiment is what you described a priori when you submitted the grant. This means introduction pretty much always can be written first; you just re-write what you proposed for the grant (with some minor tweaks based on your results). Figures aren't as (imo) grotesque in HSR either; it's one outcome per figure, maybe panels up through D, not a series of drawings that make the text redundant.\n\nDiscussion is always last, though.",
+              "author": "trevorefg",
+              "created": 1622951885,
+              "upvotes": 12,
+              "replies": {}
+            },
+            "h0td9z2": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0td9z2/",
+              "text": "lol this post is Exhibit A for why 90% of published papers end up being non-replicable garbage that commit borderline research fraud\n\nAb attitude of \"papers as storytelling\" and \"never have I ever planned out an experiment knowing a priori what methods I might end up using\" in practice means that you are likely to torture your data using a plethora of methods until you find a result that you might be able to get past journal reviewers. \"Papers as storytelling\" means that you will avoid mentioning all the failed methods you tried to use that didnt work out, since that will detract from the \"narrative\". The final result will be the usual p-hacked nonsense that makes up the majority of papers in fields like psychology that will inevitably fail replication.\n\nFrom the perspective of ethical research, the methods should mostly be worked out before you look at the data (up to some small modifications) since thats how to avoid p-hacking and forking paths. In most reputable sciences (i.e. not psychology/sociology/etc) the methods will have been specified in the pre-registration plan anyway before the data was collected, so your scope for changing them is very limited. But yeah, this is exactly why most papers without pre-registration plans should just go straight into the bin.\n\n\"",
+              "author": null,
+              "created": 1623000942,
+              "upvotes": 0,
+              "replies": {
+                "h0tepaq": {
+                  "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0tepaq/",
+                  "text": "I mean, maybe that's true of psychology but it's not the case in my field. For my papers, I literally provide all the code and raw data needed to reproduce every figure and result in the paper. You really can't get more reproducible or transparent than that. So really the only way I can get away with faking my results is fabricating the data entirely. Storytelling also isn't \"making something up\", it's just a method for communicating. The best scientists know how to tell the best stories and follow the story of their data wherever it leads. Big difference between using my data to tell my story vs. telling the story of my data.\n\nPre-registration is only a thing in clinical or human studies but doesn't exist for other fields as it doesn't make sense. Also in my field, the methods are hugely varied and depend on the problem. If you're coming from psych, the methods are relatively simplistic and can be pre-specified because the data is relatively \"shallow\". One more thing is I don't use p-values if I can avoid it because there are so many traps. It's better to use cross-validation.",
+                  "author": "Stereoisomer",
+                  "created": 1623001616,
+                  "upvotes": 1,
+                  "replies": {
+                    "h0tgwc6": {
+                      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0tgwc6/",
+                      "text": ">I mean, maybe that's true of psychology but it's not the case in my field. For my papers, I literally provide all the code and raw data needed to reproduce every figure and result in the paper. You really can't get more reproducible or transparent than that\n\nSorry but this is a  misunderstanding of replicability. Its not about whether the final version of your methods can produce the results that are claimed in the paper. The problem is that if you have tried 100 different methods and only picked the one that works, then your results are going to be p-hacked and its unlikely that your paper would replicate on an independent dataset. None of your significant results are actually going to remain significant once you adjust for all the many things you tried before cherry picking the single one that worked. Making code available/etc has **nothing** to do with replicability in this sense (although it does prevent outright fraud, and it does make it either for other researchers to try a replication) - its not about whether the final version of your methods ended up working, its about all the things that you tried and never reported in the final paper. Generally speaking, a replication needs an independent data set.\n\n[https://en.wikipedia.org/wiki/Data\\_dredging](https://en.wikipedia.org/wiki/Data_dredging)\n\n&#x200B;\n\n>Pre-registration is only a thing in clinical or human studies but doesn't exist for other fields as it doesn't make sense\n\nPre-registration has nothing to do with human studies. The point of pre-registration is precisely to stop researchers from trying a bunch of methods until they find one that works (which destroys the significance of the results). With pre-registration you have to report the results that you acutally find on the data, rather than deciding you dont like the first set of results and changing the methodology until you produce the results that you want.\n\n&#x200B;\n\n>It's better to use cross-validation.\n\nPerhaps better than p-values, but doesnt really fix the problem, if you try 10 methods and pick the best one then you will still have a grossly over-optmistic measure of performance, since you have basically ran 10 different cross validations and picked the best one. Unless you are explicitly accounting for that selection effect, your ultimate estimate of performance is going to be severely biased. A replication of your final method on new data will necessarily produce  worse results since it isnt doing the same cherry picking.\n\n&#x200B;\n\n>If you're coming from psych, the methods are relatively simplistic and can be pre-specified because the data is relatively \"shallow\".\n\nIn psych, lack of replicability generally comes from data partitioning: if you dont find a significant effect when you consider all the people in your experimental sample, then try looking only at the men. If you dont find an effect on the men, then try looking only at the young men. If you find an effect on young men then great! Write the paper and pretend that you only set out to study young men and never looked at anyone else. You can even release your dataset of young men and all the code containing your final analysis so that its all \"reproducible\".\n\nThe other big one is changing your outcome measure until you find one that gives the results you want (if you wanted to prove that a certain type of discrimination makes a particular racial group less likely to graduate university but fail to find this effect in your data, then consider instead looking at whether it makes them graduate with a lower GPA. If you dont find any difference in GPA either, then try looking at the salary they earn in their first job after graduation. If you find this is lower then great, youve just proved that discrimination hurts minority graduate salaries and you can write a paper around this. No need to mention all the other measures you looked at that werent affected, and without a pre-registration plan you dont need to tell anyone that your initial primary endpoint was actually graduation rate).\n\nMaybe your field doesnt do those things, but running a variety of methods and picking the one that 'works' is the same thing in practice.",
+                      "author": null,
+                      "created": 1623002659,
+                      "upvotes": 3,
+                      "replies": {
+                        "h0til3i": {
+                          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0til3i/",
+                          "text": "I don't use the hypothesis testing framework for what I do because it's so fallible. I use cross-validation in a proper train-validation-test split where splitting happens at the very beginning of the analysis process to safeguard against data leakage. There's no \"best of 10 different cross-validations\" because there's nothing to select from in this framework since the test set was never optimized against and does not leak across to anything that was trained against. Picking the best against several cross-validation isn't how proper cross-validation is done. That's why I always use the \"data locker\" method when applicable. Trust me, I know the dangers of garden-pathing, fishing expeditions, data dredging etc. My most recent paper explicitly explores how it can and cannot occur and how to prevent it. My paper is the first on this topic to explore it in this context and exposes the impropriety of how previous methods were employed (i.e. using p-values, without cross-validation, and without analyses of bootstrapped data variance). If it makes you feel better, we also demonstrate every other method we tried in our supplement as well so readers can decide for themselves.",
+                          "author": "Stereoisomer",
+                          "created": 1623003450,
+                          "upvotes": 1,
+                          "replies": {
+                            "h0zzx9m": {
+                              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0zzx9m/",
+                              "text": "That sounds fairly reasonable tbh. Its not the impression your first post gave though!",
+                              "author": null,
+                              "created": 1623129581,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h0rvi2e": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rvi2e/",
+      "text": "I'm not in STEM but like STEM my field uses LaTeX which I've found extremely useful for paper writing. I often think of bits of language that work in different parts of the paper and keep them along with notes and possible sources commented out so they can be incorporated later. With Word I felt more pressure to write in order instead of letting my mind go all over the place, since there's no hiding content.",
+      "author": "papayatwentythree",
+      "created": 1622965940,
+      "upvotes": 7,
+      "replies": {
+        "h0scxkl": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0scxkl/",
+          "text": "I'm curious which non-stem field(s) use latex?",
+          "author": "ProfOnTheMove",
+          "created": 1622981733,
+          "upvotes": 1,
+          "replies": {
+            "h0sdcym": {
+              "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0sdcym/",
+              "text": "Linguistics. I would consider it STEM (after all, we have laboratory/experimental work), but I don't think I've ever seen 'STEM' used to describe social sciences, and some don't even consider it that. (Here in Sweden it's classified as 'humanities' rather than a social science.)\n\nBut LaTeX is a much better way to deal with things like glossed example sentences, syntax trees, autosegmental/feature geometry diagrams, etc. than other word processors.",
+              "author": "papayatwentythree",
+              "created": 1622982049,
+              "upvotes": 2,
+              "replies": {
+                "h0u4ru6": {
+                  "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0u4ru6/",
+                  "text": "Personally, I consider the more abstract parts of linguistics to be mathematics, see Chomsky's work for example.",
+                  "author": "camilo16",
+                  "created": 1623013775,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h0sa48r": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0sa48r/",
+      "text": "Many people are able to publish a lot and write papers quickly simply by being sloppy. Low quality work is easier than high quality work. Still, I assume you are asking about what to do without compromising on quality. \n\nHere are a couple of tips:-\n\n1. Don't try to make the introduction some epic all encompassing overview of the topic. Just write a couple of basic overview paragraphs then a few more paragraphs introducing what is relevant for the paper.  \n2. Similar to the above, don't try to find a way to cite every single relevant paper. In most fields there is too much literature to discuss it all. Just cite a few of the most relevant and deserving papers, including of course all those that you built your work on.",
+      "author": "CaptainCornerCamper",
+      "created": 1622979522,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "h0ra7fl": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0ra7fl/",
+      "text": "I write an outline with figures and key refs first. Then I flesh it out. Helps me stay on target",
+      "author": "DHowitz",
+      "created": 1622949568,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h0s1s0h": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0s1s0h/",
+      "text": "Lab meetings are your friend here.\n\nI have the advantage of being a member of a lab where people work on pretty different projects and are unafraid to ask candid and hard-hitting questions. In my experience, preparing the data I'd like to publish for a 20 minute lab meeting forces you to 1. structure your presentation in a way that can quickly be ported to paper when the time comes, 2. assemble the bare minimum background knowledge required to make the audience understand the relevance of the work, and 3. receive valuable feedback on how data/figures are presented. Basically this minimizes both the time spent organizing thoughts as well as the length of the paper (the exception is Materials and Methods which nobody reads anyways).\n\nBasically, think of a scientific research paper as being the readable version of your talk, not the other way around.",
+      "author": "diagana1",
+      "created": 1622971943,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h0s8kdp": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0s8kdp/",
+      "text": "How long does it take to write an academic paper on average? \nCurious UG student here",
+      "author": "dope--guy",
+      "created": 1622978209,
+      "upvotes": 3,
+      "replies": {
+        "h0sutyw": {
+          "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0sutyw/",
+          "text": "That is a really hard question to answer, especially with co-authored papers. It depends a lot on the paper and the author's role.\n\nIt's also hard to fully separate writing and analysis, because those are often intertwined.\n\nBased on my personal time tracking, I think I put in 40-60 hours on writing alone for the first drafts of my papers so far, with the first or co-first author putting in similar time on writing and other authors much less (although some put in just as much time on data collection, stats, etc.).\n\nAdd on more time for preparing the submissions package and responding to reviews. All in all: way more time than you think.",
+          "author": "threecuttlefish",
+          "created": 1622991949,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h0qusnz": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0qusnz/",
+      "text": "I try to write really good notes as I work on the project. Why we decided to do it (incl relevant papers it's building on), what our goal/question is, all the details about the method & analysis, etc. The first draft is just making that into full sentences and then you're just editing.",
+      "author": "mediocre-spice",
+      "created": 1622940430,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "h0sedm8": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0sedm8/",
+      "text": "I am far more productive now that I\u2019ve hit my stride as a postdoc than I was during my PhD years (or first year of postdoc), and it\u2019s for two reasons:\n\n1) I have my methods down pat so the research part is far shorter. No writing code from scratch and minor modifications to get plots how I like them, so what took me months before is now just a few weeks. \n\n2) My supervisor now is the type to make small edits/ change phrases as he goes in the document. My PhD one made me do everything myself (which honestly your PhD adviser SHOULD), and I\u2019m still doing the majority of work, but not doing 100% of it is amazing and lets me focus on more gnarly edits.",
+      "author": "Andromeda321",
+      "created": 1622982751,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h0su950": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0su950/",
+      "text": "Lots of great advice here, but what I think hasn't been stressed enough is language. Be concise, but comprehensible!!! Most reviewers have very limited time, so making the reading experience as easy as possible will put them in a good mood and increase your chances of getting accepted.",
+      "author": "j_animal",
+      "created": 1622991647,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h0tcfvq": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0tcfvq/",
+      "text": "Write while you research. Good notes translate into a paper very quickly so when you start to put a paper together it doesnt take long as most of the work is already done.",
+      "author": "dukesdj",
+      "created": 1623000552,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h0rlahx": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rlahx/",
+      "text": "Working in a good team. It pushes everyone along and you can spend your time on the bits you are best at. Even better, be in charge of the team and just stick your name on everything ;)",
+      "author": "DrLyndonWalker",
+      "created": 1622957248,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "h0qwj2q": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0qwj2q/",
+      "text": "My papers have always followed the timeline of my experiment. The int l injury difference is I write the abstract last since it summarizes everything else. The intro is usually first because that is the information you used to come to and justify your hypotheses reasoning. Then you create the experiment (methods), do the experiment and collect the data (results), and then explain what that results means and where your will go from there (discussion).  Like I said, abstract last to summarize everything.",
+      "author": "GriIIedCheesus",
+      "created": 1622941403,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h0rit62": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rit62/",
+      "text": "A lot of coffee.\n\nI tend to have my methods written up before writing the manuscript. Then results. Then bounce in between the intro and discussion until its done. Figures are initially done in results and sometimes adjusted depending on how the rest of the writing is going.",
+      "author": "Collin_the_doodle",
+      "created": 1622955412,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h0rykd6": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0rykd6/",
+      "text": "The most useful trick someone taught me is to write the abstract first because it helps you to clarify for yourself what the key findings and conclusions are, so when you start writing the paper you can focus on those.",
+      "author": "EmileDorkheim",
+      "created": 1622968830,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h0s25qp": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h0s25qp/",
+      "text": "Here is Ashby\u2019s paper on [\u201cHow to Write a Paper\u201d](http://www-mech.eng.cam.ac.uk/mmd/ashby-paper-V6.pdf), which is always helpful in distilling the overall process with efficient steps.\n\nHowever, ensure that the pressure to rapidly publish does not affect the quality of the research; even if it takes weeks or months longer than planned to optimise data presentation and language quality for the paper, your time should also be viewed in a ethical lens: you are writing to meaningfully disseminate your valuable research to the wider scientific community using your name and reputation, and trying to get the plan right is better than trying to write it fast in my opinion.",
+      "author": "MaterialsPolymath",
+      "created": 1622972258,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h1mqfcb": {
+      "link": "/r/AskAcademia/comments/nt8nxt/people_who_write_scientific_research_papers/h1mqfcb/",
+      "text": "Organization is Key. Follow these substantial steps to be organized in writing a research paper:Do the proper research. Choose your research topic carefully. So [try this web-site](https://www.topwritersreview.com/blog/how-to-write-a-research-paper/). Jot down the proper notes. Brainstorm an outline. Write a first draft. Proofread and write your final paper.",
+      "author": "RanoldCage",
+      "created": 1623598779,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "sid": "hfg6mb",
+  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/",
+  "title:": "My professor earned his PhD at a much more rigorous school than his current employer. He seems surprised about my class's lack of skills.",
+  "text": "Hi, last year I took a machine learning class in my comp sci master's program.  The prof was a younger, fairly recent hire who earned his doctorate at a quite prestigious engineering school.  He is knowledgeable and a good prof, but I couldn't help but notice how deflated he got with our class's abilities.  He has talked many time about complex projects that he had to do as a grad student and then just assigns something much simpler to us.  In most classes, he asks what he thinks are basic questions about stats or linear algebra and is shocked when no one answers them.  When he is helping students with programming assignments, I can see how exasperated he sometimes gets and shocked at the basic problems students are having.  It honestly got depressing - because he clearly knows what level of rigor is needed to properly teach this class.  It also seems like he has to dumb down the material.  It makes me think I'm not getting an accurate picture what you need to know to understand ML.  I got an A and it wasn't very hard, but it also wasn't satisfying as I don't think I really proved anything to myself.\n\nIs this something that occurs often in grad school?  In undergrad, I imagine it occurs less because curricula for classic subjects like (like Calc or Intro Physics) is fairly standardized.  However, in grad school with subjects in fast evolving fields, I imagine the prof has a wide latitude and the quality of education you get will vary widely by institution.",
+  "author": "mac_man2",
+  "created": 1593060170,
+  "updated": 1634080130,
+  "over_18": false,
+  "upvotes": 347,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "fvxisxr": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxisxr/",
+      "text": "This is very common. PhDs don\u2019t often get their first job at an institution as prestigious as the one where they did their degree. \n\nIn fact, because the number of grad programs in a  given field is so much lower than the number of schools where they can be hired to teach, I\u2019d venture to guess that most professors spend their whole careers teaching at schools one or more tiers below their alma mater. \n\nOn top of that, people who get PhDs tend to have been excellent students in undergrad as well, so their grasp of what average students can accomplish isn\u2019t so great to begin with. \n\nA good teacher will adapt to this over time and through experience get a better handle on what can be expected. But it can rough on the students for the first few years. And sometimes they just become bitter, condescending assholes, ie bad teachers.",
+      "author": "SirDudelington",
+      "created": 1593067265,
+      "upvotes": 428,
+      "replies": {
+        "fvxohxm": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxohxm/",
+          "text": "After being asked his secret to teaching, my professor explained that he was once a bad student. He can explain concepts really well and has a knack for identifying problem areas because those were once problems of his own. But that's pretty rare. \n\nIts most likely any given Phd was an excellent student since early childhood. What was once a key concept becomes intuitive through years of rigorous studying that becomes second nature. \n\nWhich ultimately means that most phd's can't be expected to be good teachers because they are the outliers due to the way they process information itself.",
+          "author": "InCoffeeWeTrust",
+          "created": 1593072639,
+          "upvotes": 138,
+          "replies": {
+            "fvxpbyx": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxpbyx/",
+              "text": "It\u2019s true that a lot of professors don\u2019t have a \u201cknack\u201d for identifying problem areas, for the reason you mention. But that doesn\u2019t mean that they cannot learn what those problem areas are and discover better ways to help students through them. There are workshops, peer groups, conferences, and plenty of research and books on how to teach college students, after all. After a few years, it\u2019s a safe bet that professors who are bad teachers are bad teachers because they don\u2019t care, and so don\u2019t try to improve.",
+              "author": "SirDudelington",
+              "created": 1593073471,
+              "upvotes": 73,
+              "replies": {
+                "fvxqbav": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxqbav/",
+                  "text": "That's why any institution worth the money will take proactive measures to ensure their incoming professors have the skillset to combat an entirely new set of challenges.",
+                  "author": "InCoffeeWeTrust",
+                  "created": 1593074471,
+                  "upvotes": 28,
+                  "replies": {
+                    "fvxqyfi": {
+                      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxqyfi/",
+                      "text": "Right, but two caveats: \n\n1. It\u2019s very difficult to assess someone\u2019s teaching ability before hiring them, if they have little experience beforehand. If the candidate has lots of teaching experience and evaluations to go off of, that makes it easier, but grad students who are already excellent teachers are few and far between. Usually teaching-oriented universities will ask for a teaching demo, to observe their performance, but a one-off with someone else\u2019s students doesn\u2019t tell you much, except at the far ends of the quality spectrum.\n\n2. It depends on what \u201cworth the money\u201d means to you. Prestigious research universities get students into contact with leaders in their fields and can get them far on name-recognition, etc. But prestigious research universities do not care much about a candidate\u2019s teaching ability\u2014they care about research potential, and those two things don\u2019t always go hand-in-hand. Good research and good teaching both take time to develop, so where you get hired tends to set your priorities. Researchers who don\u2019t care about teaching aren\u2019t bad people, or even bad teachers necessarily... they just spend their time working on publications, etc.",
+                      "author": "SirDudelington",
+                      "created": 1593075129,
+                      "upvotes": 57,
+                      "replies": {
+                        "fvze2d8": {
+                          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvze2d8/",
+                          "text": "> If the candidate has lots of teaching experience and evaluations to go off of, that makes it easier\n\nThat's not really the issue. The modern academic market (perhaps not in CS, but in most other fields) is such that people who want to teach are proactive about getting a lot of teaching experience. Thing is, having 15 IOR stints at Harvard says nothing about that individual's ability to teach at Community College - the average student at each institution is very different. Even people coming out of top programs today, who have a lot of teaching experience, mostly have experience teaching just one type of student - very intelligent and very motivated, and if not, monied and prepared enough that they're capable of a gentleman's C in a challenging course. If they're put in an environment where, say, the average student was a B student at the local public high school who wants the degree to get a generic office support job rather than go to grad school (which is hardly the most challenging student population), they need to heavily adjust both their expectations and their methods.",
+                          "author": "thegreenaquarium",
+                          "created": 1593111623,
+                          "upvotes": 7,
+                          "replies": {
+                            "fvzfg6h": {
+                              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvzfg6h/",
+                              "text": "I agree with all of that, but in my experience plenty of grad students struggle to land consistent teaching posts, so many lack a lot of experience even teaching just the one kind of student. But yes\u2014I was one of the most proactive students in my program and ran into exactly the problem you describe here.",
+                              "author": "SirDudelington",
+                              "created": 1593112294,
+                              "upvotes": 4,
+                              "replies": {
+                                "fvzgjux": {
+                                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvzgjux/",
+                                  "text": "I suppose the availability of teaching experience varies program to program. I agree that not all programs provide ample IOR opportunities.",
+                                  "author": "thegreenaquarium",
+                                  "created": 1593112825,
+                                  "upvotes": 3,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "fvyb6f1": {
+                      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvyb6f1/",
+                      "text": "Yep, graduate programs training future professors need to include training in pedagogy. I know that my hometown university (R1) places a lot of emphasis on having a lot of TAships available, and while not all departments effectively support TAs, I know that some departments really do try to ensure that TAs learn how to teach. Which is how it should be--to teach primary and secondary school you need at least a year of certification or training in education. Doesn't make sense that postsecondary educators don't technically need any training in education.",
+                      "author": "telekineticm",
+                      "created": 1593092056,
+                      "upvotes": 14,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "fvzce1i": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvzce1i/",
+              "text": "> \nAfter being asked his secret to teaching, my professor explained that he was once a bad student. \n\nexplains all my TA awards, honestly",
+              "author": "thegreenaquarium",
+              "created": 1593110840,
+              "upvotes": 9,
+              "replies": {}
+            }
+          }
+        },
+        "fvyq57k": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvyq57k/",
+          "text": ">This is very common. PhDs don\u2019t often get their first job at an institution as prestigious as the one where they did their degree.\n\nThere's a [paper analyzing this](https://advances.sciencemag.org/content/1/1/e1400005?hc_location=ufi). Only 9-14% of PhD grads end up working somewhere more highly ranked than their doctoral institution. They also find that about 25% of institutions produce about 80% of TT faculty.",
+          "author": "DrParapraxis",
+          "created": 1593100050,
+          "upvotes": 23,
+          "replies": {}
+        },
+        "fvypqne": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvypqne/",
+          "text": "It\u2019s also worth considering that he may be struggling with what he knows now vs. what he knew then. I try to be very aware of this and still catch myself thinking something will be obvious to my students because it\u2019s obvious to me. I\u2019m guessing it\u2019s a combination of both. He probably did pick things up quicker but maybe not quite as fast as he remembers now that they\u2019re second nature.\n\n\u201cI spent the last 30 years of my life learning everything there is to know about X. Why don\u2019t you understand X after we spent a whole 50 minute class period on it?\u201d seems to be unfortunately common in academia.",
+          "author": "Earth_Rick_C-138",
+          "created": 1593099848,
+          "upvotes": 18,
+          "replies": {}
+        },
+        "fvxmyh8": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxmyh8/",
+          "text": "Exactly this. It\u2019s a learning process for the instructor, too. You start out comparing the knowledge, drive, and passion for the subject of the students to your own and that of your friends in university - who usually also were way above average. Over time, you build more knowledge about the abilities of typical students and get a more realistic view. \n\nThe real challenge in designing courses is to make them achievable for the average student, but to keep them interesting for the outstanding students (and yourself!) at the same time.",
+          "author": "dances_with_poodles",
+          "created": 1593071131,
+          "upvotes": 21,
+          "replies": {}
+        },
+        "fvyweq3": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvyweq3/",
+          "text": "I also find that the sorts of people who want to do research and the sorts of people who want to teach and lecture don't overlap as often as academia wants them to. Some people who are very talented researchers really aren't good at disseminating their information in a way that helps students grow, which really should be a profressors role, imo.",
+          "author": "CravingSunshine",
+          "created": 1593103163,
+          "upvotes": 7,
+          "replies": {
+            "fvywxq1": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvywxq1/",
+              "text": "True! I\u2019d also add that the culture in a lot of graduate programs socializes many students into thinking that teaching isn\u2019t important, and that you\u2019re a failure as a scholar if you don\u2019t end up at an R1 with a 2/2 course load. I suspect that\u2019s because most grad programs are in research-heavy departments.",
+              "author": "SirDudelington",
+              "created": 1593103420,
+              "upvotes": 8,
+              "replies": {
+                "fvznrn5": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvznrn5/",
+                  "text": "When I was in grad school, a highly published professor told me that research was Iike being The Beatles, while teaching was like playing Beatles songs in bars for tips. Teaching wasn't a scholarly activity since you're just \"covering\" someone else's \"song\".\n\nOf course, by that logic, Elvis Presley, and a host of symphony orchestra players and concert pianists, shouldn't be considered artists because they perform songs they didn't write themselves. But I think most people would disagree.",
+                  "author": "the_banished",
+                  "created": 1593116279,
+                  "upvotes": 7,
+                  "replies": {
+                    "fvzpf8b": {
+                      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvzpf8b/",
+                      "text": "Gross. Also, ridiculous. Unless they\u2019re Stephen Hawking or Michael Foucault or something, highly published or famous professors are a lot more like Neil Diamond or Vanilla Ice than The Beatles.",
+                      "author": "SirDudelington",
+                      "created": 1593117073,
+                      "upvotes": 7,
+                      "replies": {}
+                    }
+                  }
+                },
+                "fvz09up": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvz09up/",
+                  "text": "Spot on.",
+                  "author": "CravingSunshine",
+                  "created": 1593105039,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fvxrlhw": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxrlhw/",
+          "text": "I find myself saying this all the time. It\u2019s the \u2018swots\u2019 and the \u2018teacher\u2019s pets\u2019 who end up lecturing. We have to acknowledge that not everyone cares like we do! \nWhat I found more difficult teaching at a uni with a very disadvantaged population was things I took for granted like lack of tacit knowledge, lack of family support (my parents think uni is a waste of time), lack of time for college work because you are working to support your family. \nYour first few years teaching are eye-opening, but your prof needs to work on challenging the top students while not leaving the weaker students behind, and keeping his \u2018disappointment\u2019 to himself.",
+          "author": "imaginesomethinwitty",
+          "created": 1593075802,
+          "upvotes": 17,
+          "replies": {
+            "fvxscfl": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxscfl/",
+              "text": "That\u2019s my experience, too. It took me longer than I care to admit to acknowledge that I needed to dial it back on the difficulty a bit to serve my students well. It took me even longer to see past my own considerable social privileges to realize how many of my students were struggling to make ends meet and deal with family problems I\u2019d never faced. College has become incredibly expensive at the same time that more first-gen students are attending than ever... even though academic standards have fallen across the board over the last twenty years, college is a lot harder for students now than in my day, at least for the demographics in my classes.",
+              "author": "SirDudelington",
+              "created": 1593076586,
+              "upvotes": 20,
+              "replies": {
+                "fvzx9p4": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvzx9p4/",
+                  "text": "I told my professor I was having family problems when I was just dealing with a breakup and he was so kind and understanding it made me feel super guilty for using that as an excuse. It was comforting and eye opening knowing someone cared that much about my success and wellbeing.",
+                  "author": "econ1mods1are1cucks",
+                  "created": 1593120809,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            },
+            "fvxuagh": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxuagh/",
+              "text": "Would you say that this applies to grad students? I always figured that one of the main differences between undergrad and grad school is precisely that the grad students care. Like OP, they\u2019re choosing courses within their field and, ultimately, chose to go to grad school instead of ending their academic career after undergrad.",
+              "author": "nerdhappyjq",
+              "created": 1593078614,
+              "upvotes": 5,
+              "replies": {
+                "fvxup6f": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxup6f/",
+                  "text": "So in the university I taught at in the U.K., I found a lot of students who didn\u2019t know what to do, or wanted an extra year of being a student did a taught masters. It\u2019s a 3 year degree in the U.K., so adding a 4th year wasn\u2019t a big deal. If they hadn\u2019t gotten a job, some of them just re-upped straight to masters. Some of the masters class were outstanding students, and some were there to kill time.",
+                  "author": "imaginesomethinwitty",
+                  "created": 1593079031,
+                  "upvotes": 6,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fvy1gju": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvy1gju/",
+          "text": "Well, even as a good graded student, I still had to mark and teach during my phd. You learn pretty quickly not everybody is trying to over achieve. And that\u2019s totally fine too.",
+          "author": "playmo___",
+          "created": 1593085292,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "fvxrcyd": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxrcyd/",
+          "text": "Out of interest, would you expect someone to get a position at a more prestigious insitution if they have a background in education?",
+          "author": "Valentine_Villarreal",
+          "created": 1593075548,
+          "upvotes": 1,
+          "replies": {
+            "fvxrtu9": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxrtu9/",
+              "text": "Frankly, no, though it *might* make a difference in a tie-break between candidates, but even then, it would have to be a pretty special background. The only exception I can think of is in Education Departments\u2014it\u2019s not my field so don\u2019t quote me, but my understanding was that they\u2019ll usually require their EdDs and PhDs to have some practical experience in teaching, education leadership, etc.",
+              "author": "SirDudelington",
+              "created": 1593076045,
+              "upvotes": 13,
+              "replies": {
+                "fvxyhyn": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxyhyn/",
+                  "text": "Ah, I'm currently a teacher but I'm hoping to get into linguistics and I would actually like to keep teaching/lecturing. \n\nThanks for answering.",
+                  "author": "Valentine_Villarreal",
+                  "created": 1593082733,
+                  "upvotes": 5,
+                  "replies": {
+                    "fvybcvx": {
+                      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvybcvx/",
+                      "text": "This is an anecdote, but my current education professor taught middle school for seven years and then got a PhD at Columbia and a tenure track job at a state system school before she even defended her dissertation. I am a mere undergrad but I thought you might find this a heartening story.",
+                      "author": "telekineticm",
+                      "created": 1593092163,
+                      "upvotes": 5,
+                      "replies": {
+                        "fvzhqh8": {
+                          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvzhqh8/",
+                          "text": "This is indeed heartening, thanks.",
+                          "author": "Valentine_Villarreal",
+                          "created": 1593113397,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "fvyco1v": {
+                      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvyco1v/",
+                      "text": "Linguistics stand up!",
+                      "author": "Munnodol",
+                      "created": 1593092926,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fvxhjcw": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxhjcw/",
+      "text": "> Is this something that occurs often in grad school? \n\nSure. Someone who got into a grad school that selects for extraordinary intellectual curiosity, drive, and achievement (I'm making some assumptions here), then internalizes the relevant subjects and their interesting aspects to conduct research and publish it nonstop to enter the academy as a professor, and then spends tens of hours to prepare lectures, with deep immersion in the material, may very well be disappointed with the attention and response of the average grad student with an average level of interest who has a variety of other things to worry about. Plus, it's easy to review problem solving and programming techniques that you're already thoroughly familiar with.\n\nFrom the perspective of the student, this is a good opportunity to stand out and make a fan.",
+      "author": "Chemomechanics",
+      "created": 1593066103,
+      "upvotes": 79,
+      "replies": {}
+    },
+    "fvxdgqv": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxdgqv/",
+      "text": "It could also just be that he has forgotten what it's like to learn the content.",
+      "author": "Karsticles",
+      "created": 1593060640,
+      "upvotes": 111,
+      "replies": {}
+    },
+    "fvy9ybm": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvy9ybm/",
+      "text": "I agree with many points already said, especially that maybe the professor has an inaccurate memory of himself or his own class when learning these things.\n\nI'd also just add a bit about speciality. If this prof is teaching this class, then that is his are of expertise. Of course he knows, and likely knew, it well. Students taking the class are likely taking it for different reasons and coming from different backgrounds. Many of them likely don't *need* to know what's being taught at a very deep level, they just need to take away a few concepts they can use in their own work.\n\nI was lucky enough to watch this process in a prof that ended up on my committee. He had a reputation for being arrogant. And objectively, one couldn't really fault him too much for it. He was a computer science and statistics wiz, basically helped form a lot of techniques used today in a lot of \"big data\" fields. He was constantly disappointed at how little his students knew of coding and statistics.\n\nBut here's the thing: he came into this field of natural sciences AFTER learning all of the stats and comp science. MOST students did the opposite: they had a breadth of knowledge and background in the field that he did not have at that stage in his career, but they were just jumping into the comp side of it because they needed to.\n\nWhen that finally clicked with him, he became an incredibly kind, helpful, and mellow teacher and professor. He's still an objectively brilliant guy so he can now keep up with the other side of things just as well as anyone, but it's because he's had a careers worth of time to do it. His students have not.",
+      "author": "bradiation",
+      "created": 1593091307,
+      "upvotes": 21,
+      "replies": {
+        "fvytlx0": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvytlx0/",
+          "text": ">  If this prof is teaching this class, then that is his are of expertise.\n\nI'm not a professor but would maybe question this assumption. As a grad student I've taught classes that were quite removed from anything I actually studied, and I imagine that would hold at the professorial level as well (or maybe not, if they have greater bargaining power during the assignment of teaching duties).",
+          "author": "--MCMC--",
+          "created": 1593101788,
+          "upvotes": 5,
+          "replies": {
+            "fw0kpzn": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw0kpzn/",
+              "text": "For undergrad classes, you're right. For grad classes, I've never heard of a prof teaching outside their area of expertise.",
+              "author": "rrrreadit",
+              "created": 1593133743,
+              "upvotes": 2,
+              "replies": {
+                "fw6vif9": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw6vif9/",
+                  "text": "> For grad classes, I've never heard of a prof teaching outside their area of expertise.\n\nI could definitely imagine a department being desperate enough to do this for a very trendy topic like machine learning.",
+                  "author": "east_lisp_junk",
+                  "created": 1593283548,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fvxji0v": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxji0v/",
+      "text": "I teach at a small two year college, and am frequently frustrated/disappointed with the students failure to understand basic concepts. In my case, the ACT, SAT, and high school GPA of the students confirms they are far below average which explains their poor performance in the class. (Most of our students are here bc their grades weren\u2019t good enough to get into other schools) I understand the professor\u2019s sentiment. I know what is needed to be successful in understanding biology and very few of my students have it. \n\nAn alternative explanation is just that when you understand something really well, possibly bc you have a PhD and have understood it for years, you can forget that it\u2019s not something you\u2019ve always understood. In grad school in one class the prof as he was handing out the first test remarked he was concerned he might have made the test too easy. Then he graded it and out of maybe 12 students only one passed. Clearly there was a disconnect between his expectations and our level of understanding. It was his first year teaching. He ended up giving some sort of re-test and basically graded us based on effort and making progress in understanding the concepts.",
+      "author": "Maddprofessor",
+      "created": 1593067894,
+      "upvotes": 38,
+      "replies": {
+        "fvxtjnj": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxtjnj/",
+          "text": ">  I know what is needed to be successful in understanding biology and very few of my students have it.\n\n... understanding biology? But it gets so much harder. How can someone not understand basic biology? It's what we're all made out of!",
+          "author": "LetThereBeNick",
+          "created": 1593077844,
+          "upvotes": -22,
+          "replies": {
+            "fvy17pl": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvy17pl/",
+              "text": "They probably lack confidence in themselves. When you think about the field of biology even from an outsiders perspective it is immense, and that can be intimidating. \n\nI'm in a Genetics and Genomics PhD program, but in high school I was a bad student and thought I was bad at science so biology felt hard, then it happened again with my gen ed biology course I took before switching majors and taking a more in depth biology course. The more in depth course actually helped a lot, but I don't know how much of it was \"this isn't just a gen ed\" and how much of it was \"there's enough detail to help keep me curious and engaged, but not so much I feel overwhelmed\"",
+              "author": "Littlefingersthroat",
+              "created": 1593085094,
+              "upvotes": 9,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fvxj812": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxj812/",
+      "text": "Yeah. They act that way. One Harvard PhD got frustrated with our class (decent R1, but certainly no Harvard) and she lashed out saying \"if you were at a DECENT school for Southern History, you would know this.\" Basically she sucked as a human being and as an instructor. I went to that school because I lived in that town and had two kids under age three, not because I was an eejit who couldn't get in anywhere else. He's going to have to chill or he'll really burn out. He might also want to expend some energy on scaffolding. Your class mates might not be stupid, they might just lack content. He's in a position to help.",
+      "author": "karenaviva",
+      "created": 1593067646,
+      "upvotes": 90,
+      "replies": {
+        "fvxl2dp": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxl2dp/",
+          "text": "yep, my first teaching gig was at a very low ranked school, it wasn't that the students were stupid but they did need a lot more hand holding/sign posting, for lots of them it was mainly a confidence thing",
+          "author": "tc1991",
+          "created": 1593069342,
+          "upvotes": 35,
+          "replies": {
+            "fvybkyc": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvybkyc/",
+              "text": "Plus, if you're at a state school in an area with a subpar public education system, many of your students are probably very smart but coming into college lacking skills that someone from a higher level or education or a better educational system take for granted. It's a form of expert blindness, I think.",
+              "author": "telekineticm",
+              "created": 1593092297,
+              "upvotes": 15,
+              "replies": {
+                "fvz3bwy": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvz3bwy/",
+                  "text": "absolutely",
+                  "author": "tc1991",
+                  "created": 1593106513,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fvz6eij": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvz6eij/",
+          "text": "Oh, I know of professors at places like Imperial College London that are like this and will say it to people in their research group. It's just bullying and a failure to do their job.",
+          "author": "someth1ng_au",
+          "created": 1593107987,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "fvxxw7x": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxxw7x/",
+      "text": "TLDR: \nI think there's some validity to your professors high expectations that aren't related to the fact that he came from a rigorous program at a prestigeous school.  But I think he'll eventually adapt.  He certainly sounds like he cares. \n\nI \"tutor\" organic chemistry, chem focused biochem  and a bit of gen chem from time to time.  I struggled real hard with these classes myself, feeling always overwhelmed with the volume of information, all the new patterns I need to pick up and form into concepts, etc.  in fact, I failed organic chem the first year and had to take both parts again.  ironically, I came around to love organic, which is why I started to tutor.  \n\nsomething I noticed once I started tutoring gen chem though: there are a lot of students who really need to go back to algebra and understand algebraic equations and proportions in general.  a lot of gen chem is honestly founded in a solid understanding of that, and I think it horrible that somehow, students taking more advanced classes without getting their basics down. \n\nI'm not saying this is students' fault.  instead I think theres something wrong with the way we teach, or the system itself or something else entirely, such that students are taking classes they're not prepared for and they're clearly incentivized to do well on exams but not necessarily retain that knowledge a year or two later.  something's horribly wrong with our current education paradigm and I think that's what your fresh grad professor is deflated with.  \n\n(I say \"tutor\" here again and again but I really mean \"teach\". there are a lot of lecturers and professors who just can't teach and I basically end up doing this for them.)\n\nIm a strong believer that excellent scientists/researchers are not necessarily excellent teachers/lecturers.\n\nI think the skillsets that make one good at teaching (like some other commentators have mentioned) such as communicating about complex topics to the average student, identifying what students are struggling with, adapting to that, knowing how to motivate students and cultivate curiosity, etc. are not necessary skills for one to have earned a doctorates.  I think teaching and scientific communication are becoming more important than they used to be, but the number of people who are focused on it are only slowly increasing.\n\nI would also add that sometimes these straight a students or teachers pets might just be this way because their source of motivation was to not get beaten at home or to earn respect within their community or something we can't quite fathom.  but it's not always that they were just these perfect, motivated, intelligent beings that came out of the womb and everything was handed to them.",
+      "author": "Where_is_X",
+      "created": 1593082183,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "fvz7kju": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvz7kju/",
+      "text": "It happens at all levels.\n\nYou are an adult and your education is up to you to some extent at this level.  I often tell grad students - here is what you need to know in order to have a clue about the rest of it.  I arguably shouldn't have to do that.  If you realize you don't have certain foundation things, you go find them out.",
+      "author": "PersephoneIsNotHome",
+      "created": 1593108551,
+      "upvotes": 4,
+      "replies": {
+        "fw2mmu8": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw2mmu8/",
+          "text": "That is interesting.  Now that you mention this, I'm wondering if the prof was sort of settling on this kind of strategy for our class.  So, it was clear from what he said and the type of homeworks that he assigned, that he really wasn't able to teach the course at the level of rigor he believed was required for this particular subject.\n\nI'm wondering if he sort of settled on a solution where he tried to teach to two different audiences.  He made the assignments simple enough so that the average student who would put the work in could get an A and at least get some introductory level of knowledge about the subject.\n\nIn the lectures and reading, he would go into much more technical detail (and I know from talking to most students that they didn't completely understand it.)  However, he had no exams or quizzes, so there was no requirement to demonstrate your understanding at this level.  There were a couple of quite qualified students that did understand the more technical detail and participated more during the lectures.\n\nThen, for the second half of the course, most of our time was spent on a machine learning project of our choosing.  He was very lenient in the type of project we chose.  Some students chose some very technical deep learning projects and some chose much simpler projects.  We were not graded in comparison to other students.  The grade was more relative to whether we met the expectations we set for ourselves when choosing the project.\n\nI have mixed feelings about this strategy though.  I wish he had demanded more from the class.  I know I could have handled harder assignments and it would have helped me know if I were really competent enough to study this field further.  I think there were a bunch of issues beyond his control also.  The class size was too big for the amount of hands on work it would have required had he assigned more complex assignments.  His TA was completely unqualified to assist in ML projects (she had a hard time grading our projects it seems) and was not knowledgeable about the material when I talked to her.  I also think ML is a particularly difficult course to teach.  It requires backgrounds in Linear Alg., Stats, and programming.  The comp sci department didn't have all of those as pre-reqs to the master's program.  So, its just a messy situation all round.",
+          "author": "mac_man2",
+          "created": 1593186575,
+          "upvotes": 1,
+          "replies": {
+            "fw36p90": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw36p90/",
+              "text": "Nobody should have to demand that a grad student learn stuff.\n\nAt that level, you either want to be there and do your best and get the most out of it, or you don't.",
+              "author": "PersephoneIsNotHome",
+              "created": 1593196094,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fvxmypx": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxmypx/",
+      "text": "This is more common at undergraduate level in the UK, there is a vast difference in standards at Oxbridge and non Russell Group universities. As you move higher up, towards PhD level the differences narrow dramatically. A PhD from Sussex and a PhD from Oxford will have relatively similar ability in a subject.\n\nThis is because a PhD revolves around academic research that is seen by all researchers in a field.",
+      "author": "Lanky_Philosopher_10",
+      "created": 1593071138,
+      "upvotes": 12,
+      "replies": {
+        "fvxybm8": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxybm8/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1593082573,
+          "upvotes": 7,
+          "replies": {
+            "fvza5v0": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvza5v0/",
+              "text": "I've heard mixed things about Oxbridge, mostly from Australian, Asian, and some other European internationals. Generally, they described it as, on average, a bit more skilled overall, but not as good as they expected (more that the increase in reputation didn't match increase in talent). A Taiwanese guy (he went to NTU, I think) at Oxford said there was no shortage of mediocre students but there was always a small number that were truly exceptional that are less common at other universities. I know some people in my old groups (international) that got into Oxbridge with funding and were pretty mediocre, imo.\n\nThe only other things I've heard at Oxbridge are *a lot* of issues regarding nepotism, racism, bullying, and some abusive professors, but that's another issue.",
+              "author": "someth1ng_au",
+              "created": 1593109782,
+              "upvotes": 5,
+              "replies": {
+                "fw10gcv": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw10gcv/",
+                  "text": ">I've heard mixed things about Oxbridge, mostly from Australian, Asian, and some other European internationals. Generally, they described it as, on average, a bit more skilled overall, but not as good as they expected (more that the increase in reputation didn't match increase in talent).\n\nAs an Australian currently in Oxbridge, I'd say that's laughably wrong.\n\nThere are some differences. In Australia we do much more research intensive degrees and the Masters *thesis* done at Oxbridge is like a child's project at only 50 pages (compared to our 100-150 page monster). But the coursework they have to do alongside that project is so much harder than anything taught in Australia, or even the US. It's taught above the level of what is even typically *available*, with our graduate classes being taught in 3rd year at Oxbridge. My peers can recite mathematical concepts from memory and are generally far more technically adept than I am.\n\nHaving taught Oxbridge students now, I can say that the undergraduates are also a class above anything seen on the Australian continent. Despite precisely **none** of their coursework actually being worth anything in terms of grade, they consistently study for it many hours each day, submit their work on time, and then seek out additional work and tutoring. I was considered the top of my class and the top of my university over at least 20 years, and yet 100% of the students I have now are more talented and knowledgeable than I am.\n\nOf course, they're like any student and there are some who struggle with illness or family problems, and they don't know everything and will get things wrong. But if you expect Oxbridge students to be mature geniuses who never make a single mistake, then you're placing an unrealistic expectation on 19yos. Compared to the general population of undergraduate students, they are harder working than anything I've seen before.\n\nI'm somewhat doubtful about the bullying professors claim because classes here are structured differently and the professors actually don't interact with students. That goes to supervisors/tutors. The professor literally just lectures to the class and that's it. There is no in-semester grading, no office hours.",
+                  "author": null,
+                  "created": 1593143456,
+                  "upvotes": 3,
+                  "replies": {
+                    "fw10luw": {
+                      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw10luw/",
+                      "text": "Obviously, this will be field dependent. We're not all doing Astronomy.",
+                      "author": "someth1ng_au",
+                      "created": 1593143556,
+                      "upvotes": 1,
+                      "replies": {
+                        "fw118wj": {
+                          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw118wj/",
+                          "text": "A lot of what I have said is not field dependent though. Students are hard working across fields despite no field giving grades during term time. The professors are not a critical contact point for any field.\n\nIt's very common for people who move to Oxbridge after studying elsewhere (in UK or beyond) to really struggle at the beginning because they're not used to working so hard. While it is normal, acceptable, and good to study full time here since jobs aren't really allowed, that isn't true at most universities, so new arrivals think they're stupid for having to study 5 hours a day. But really, it's just the side effect of the 8-week term.",
+                          "author": null,
+                          "created": 1593143978,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "fw12hvl": {
+                      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw12hvl/",
+                      "text": ">I'm somewhat doubtful about the bullying professors claim because classes here are structured differently and the professors actually don't interact with students. That goes to supervisors/tutors. The professor literally just lectures to the class and that's it. There is no in-semester grading, no office hours.\n\nThis was in the context of a research group, actually, and personally, I've seen racism first-hand at another UK university (UCL) so it didn't surprise me when I was told they were facing it at Oxford.",
+                      "author": "someth1ng_au",
+                      "created": 1593144828,
+                      "upvotes": 1,
+                      "replies": {
+                        "fw13yra": {
+                          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw13yra/",
+                          "text": "I never denied racism, nepotism etc, I'm just arguing that professors don't have much scope for bullying taught students. Things are different for PhDs obviously, but since the conversation was about *classes*, I was limiting it to the experiences of taught Masters students in classes.\n\nThe discrimination and bullying is particularly bad for Northern UK students, possibly more-so than for other countries. Classism is the big divider for Oxbridge.",
+                          "author": null,
+                          "created": 1593145848,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "fvypjmd": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvypjmd/",
+              "text": "I can attest to this too. I'm currently at Oxbridge, and during the first term of my PhD I decided to \"retake\" a course I'd already taken during my ~Masters at a very non-Oxbridge uni (I'm Australian, to counter the above comment). Despite passing that original class with a near 100% (on the UK scale), I wasn't confident and decided to take the **lowest** version of the course possible, which was taught to 3rd years, so not even a graduate version.\n\n... I couldn't do it. I was completely lost within the first lecture at Oxbridge because the mathematical rigour was so far above anything I'd seen before, even in my math major (and this was not a math class, it was physics).\n\nThe problem with Oxbridge is that they steamroll ahead early on. First year there is doing stuff that second or third years attempt at other universities, so by the time you get to their Masters level coursework, it's above even the level of many research scientists. So much so that top US applicants to the Masters here often struggle to *pass*, and almost never excel like some of the Oxbridge students can, because they're behind before they even get here.",
+              "author": null,
+              "created": 1593099749,
+              "upvotes": 3,
+              "replies": {
+                "fvz7emi": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvz7emi/",
+                  "text": "The US education system is known to be a couple of years behind since they have to catch up with a bad HS system, it's partly why American students generally do worse on a lot of GRE subject tests, for example, compared to most internationals.",
+                  "author": "someth1ng_au",
+                  "created": 1593108472,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fvz6uyu": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvz6uyu/",
+          "text": "Yeah, the most talented chemist that I've met was from QMUL, she could shit on anybody from Oxbridge like it was nothing. Completely absurd to watch. However, the PhD from Oxbridge will have advantages in their career, just from the university name, and connections associated with it. Pedigree is a big thing in academia, sadly.",
+          "author": "someth1ng_au",
+          "created": 1593108207,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "fw1kvsh": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw1kvsh/",
+          "text": "I would argue with your point. I had to explain a 4th year biology PhD in a reasonably good UK university (it's been the from the 8th to the 21th on the rankings in the last decade) what Mendel was about. She had no clue about anything else but muscle physiology. And it is not unique. Most of the PhD students were unable to calculate dilutions without online programs. It was really shocking to see. Compared to this Oxbridge graduate students were great.",
+          "author": "rambo77",
+          "created": 1593159974,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "fvxw7x5": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxw7x5/",
+          "text": "[removed]",
+          "author": null,
+          "created": 1593080578,
+          "upvotes": 1,
+          "replies": {
+            "fvxwm6p": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxwm6p/",
+              "text": "PhD vivas have externals from any university in the UK, so standards are pretty high. PhD is probably the only time when standards are similar in UK universities, at undergrad it is very different and different to a degree at masters (but less). Because you have to work with latest research, you can't have anyone who is substandard doing a PhD.",
+              "author": "Lanky_Philosopher_10",
+              "created": 1593080967,
+              "upvotes": 1,
+              "replies": {
+                "fvxx2va": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxx2va/",
+                  "text": "[removed]",
+                  "author": null,
+                  "created": 1593081411,
+                  "upvotes": 1,
+                  "replies": {
+                    "fvxx812": {
+                      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxx812/",
+                      "text": "I was just adding, I thought you would realise. You gave a very german answer haha, took it too literally that I was fighting you. Maybe spending too much time with germans?",
+                      "author": "Lanky_Philosopher_10",
+                      "created": 1593081549,
+                      "upvotes": -1,
+                      "replies": {
+                        "fvxxj2y": {
+                          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxxj2y/",
+                          "text": "[removed]",
+                          "author": null,
+                          "created": 1593081840,
+                          "upvotes": 0,
+                          "replies": {
+                            "fvxxkl4": {
+                              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxxkl4/",
+                              "text": "Germans take things literally, so they find it hard to understand subtle humour. You took what I wrote literally.",
+                              "author": "Lanky_Philosopher_10",
+                              "created": 1593081879,
+                              "upvotes": 0,
+                              "replies": {
+                                "fvxxu5x": {
+                                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxxu5x/",
+                                  "text": "[removed]",
+                                  "author": null,
+                                  "created": 1593082128,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "fvxy2i5": {
+                                      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxy2i5/",
+                                      "text": "what is your PhD in?",
+                                      "author": "Lanky_Philosopher_10",
+                                      "created": 1593082341,
+                                      "upvotes": 2,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fvzchh7": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvzchh7/",
+      "text": "PhD programs don't teach people how to teach class.  That is usually just on the ground training by trial and error.  Master programs and doctoral programs teach the material.  Not how to teach the material or how to explain the material to other people.    \n\n\nThere could be multiple issues here.  The school didn't prepare him for what level he was teaching.  They didn't tell him here is where the students are starting off at and what they should know.  Each course has a specific set of ideas that students should have basic knowledge of.  The Prof just isn't used to teaching yet and didn't have so many students who came to class unprepared, or who lacked some basics. The prof isn't used to working with people who might be there just for the degree and that's it.  The learning and understanding it they don't care about.  They just want an A.  Your classmates are not preparing themselves before class.  If this is a graduate level course, they should be reading the material before class, and come to class having a basic knowledge of what is to be taught during that day.  In undergrad, that stuff happens all the time.  Even if the student has Calc, physics, they still don't come in prepared.",
+      "author": "luna-nyx",
+      "created": 1593110884,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "fvzl58e": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvzl58e/",
+      "text": "Not all school and programs are created equal- or- have the same goals.  I'm a postdoc right now and there is a many-year PhD student in our program who hasn't taken their quals, can't seem to write a research proposal, has gotten mediocre grades, and would have been given the boot by now if they were in the program I graduated from.  I think this is just the way it goes sometimes.  Part of the key to your graduate school education is taking ownership of your knowledge, if you need or want more, go get it.   Find ways to challenge yourself. Perhaps do a project with that professor.",
+      "author": "TourmalineTart",
+      "created": 1593115013,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "fvxss7r": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxss7r/",
+      "text": "(This is speaking from a STEM perspective). I had a bit of a shock to my system when I moved from the US (where I did all my higher education) back to the UK, even though I taught at a Russell Group uni. Because the terms here are generally shorter, and the students take fewer classes in only three years, something has to go.\n\nSo the gen eds (arts, humanities, social sciences) are the first to go of course. My own view is that they were some of my favourite classes, and did bring a new perspective that helped to round me out (and even led to future research projects). If I were to change something in the US, I would make the ungraded as the workloads shouldn't distract from your main subject.\n\nBut more importantly, in my engineering courses at least, the students really missed out on the mathematical foundations that they would get in the US. Yes, the A-Level (high school) maths/further maths curricula are more rigorous, but linear algebra, PDEs, etc are just not covered in the depth necessary. Additionally, assuming the students have learned these in school is detrimental to international students or students from poorer schools who haven't had the quality of education coming in. There are also physics, chemistry, etc. courses that are missed out.\n\nEventually, I partially reconciled myself as I remembered all the students who struggled through those classes (with great cost) after 5 or 7 tries. Not really. Thinking about it, I haven't really come to terms with it and I'm glad I'm out. I think we're churning out engineers who are missing some basic knowledge and the UK is worse for it.",
+      "author": "bu_J",
+      "created": 1593077042,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "fw0l7jc": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fw0l7jc/",
+      "text": "I remember receiving very similar feedback from students when I became a teaching assistant for the first time. I came from a top engineering school in my undergrad to a good school though not a top one, so my perception of what the average student was capable of, was somewhat different. I no longer receive such feedback on teaching, so I like to think that I adapted my teaching (or my skills came into equilibrium with the standard around me, oops).",
+      "author": "HateMyself_FML",
+      "created": 1593134038,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fvxqba4": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxqba4/",
+      "text": "I still remember my professor walked in for our American Literature class, she tried to be thought provoking, and asked\n\"What is Literature?\"\n\n-Absolute silence- \n\nOne kid raised his hand, you could see the relief on her face. Then he said, \n\n\"Ma'am, I have to go meet the HoD\"\n\nShe looked heart broken. \n\nThe thing about humanities is, there is no right answer. But our teachers expect us to say things along their line of expertise.",
+      "author": "notanotherdumbhuman_",
+      "created": 1593074470,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "fvxnvkn": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxnvkn/",
+      "text": "One thing that professors need to learn is how to give opportunities to the motivated students to go beyond the basics while not intimidating the students who might be struggling.  One thing I do is have tons of low value extra credit.  The super motivated students do really difficult problems worth 1-2 points that really go in depth, but the students just there to check a box ignore them and don't complain.",
+      "author": "ezubaric",
+      "created": 1593072026,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "fvylgh9": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvylgh9/",
+      "text": "Don\u2019t blame me blame the system. If everyone is this \u201cdumb\u201d then maybe an institutional system that heavily implies getting a good GPA under high-stress, expensive ass tuitions under a time constraint just to enter into an even more competitive job market will make somethings not so happy for your new PhD professor",
+      "author": "UserOfKnow",
+      "created": 1593097687,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "fvxpvkx": {
+      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxpvkx/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1593074021,
+      "upvotes": -4,
+      "replies": {
+        "fvxqw4e": {
+          "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxqw4e/",
+          "text": "I think you're projecting hard",
+          "author": null,
+          "created": 1593075062,
+          "upvotes": 1,
+          "replies": {
+            "fvxr017": {
+              "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxr017/",
+              "text": "All the divorcees hitting me with the downvotes smh /s \n\nNah it's a stereotype/meme, although i'm sure it happens",
+              "author": "InCoffeeWeTrust",
+              "created": 1593075175,
+              "upvotes": -2,
+              "replies": {
+                "fvxr4go": {
+                  "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxr4go/",
+                  "text": "It happens, but I don't think it was necessary in this particular context",
+                  "author": null,
+                  "created": 1593075302,
+                  "upvotes": 2,
+                  "replies": {
+                    "fvxrnal": {
+                      "link": "/r/AskAcademia/comments/hfg6mb/my_professor_earned_his_phd_at_a_much_more/fvxrnal/",
+                      "text": "So elaborating on the potential mental state of the subject is not relevant? \n\nNvm tho I see your point, and its probably not a good idea to comment on a certain persons experience in potentially identifying detail.",
+                      "author": "InCoffeeWeTrust",
+                      "created": 1593075855,
+                      "upvotes": 0,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

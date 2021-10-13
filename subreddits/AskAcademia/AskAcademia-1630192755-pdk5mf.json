@@ -1,0 +1,122 @@
+{
+  "sid": "pdk5mf",
+  "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/",
+  "title:": "Publications where authors' tested hypotheses were wrong",
+  "text": "Can anyone recommend publications where authors' tested hypotheses were  wrong? Trying to train PhD students about testing hypothesis here....  Thanks!",
+  "author": "nanobreakfast",
+  "created": 1630192755,
+  "updated": 1634079460,
+  "over_18": false,
+  "upvotes": 17,
+  "upvote_ratio": 0.91,
+  "comments": {
+    "has60gh": {
+      "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/has60gh/",
+      "text": "There was an entire journal devoted to this for a while - the Journal of Negative Results. It was founded to try to counter the issue of publication bias where, if 1 experiment confirmed a hypothesis and 19 refuted it, that 1 was the only one that would be published.\n\nhttps://jnrbm.biomedcentral.com/\n\nIt has been called the most boring scientific journal ever published: \"Absence of the dermatan sulfate chain of decorin does not affect mouse development\", \"Polymorphism rs547984 on human chromosome 1q43 is not associated with primary open angle glaucoma\", etc.\n\nIt closed because it achieved its mission. Mainstream journals are now willing to publish negative results.\n\nStill, its archives would be a good place to find what you want.",
+      "author": "radams78",
+      "created": 1630225803,
+      "upvotes": 18,
+      "replies": {}
+    },
+    "hardg73": {
+      "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/hardg73/",
+      "text": "Do you want a major breakthrough that was later not found to be replicable? There are some great genetics ones (looking at you, Nature!). Or are you looking for someone publishing an article where their pre-stated hypothesis was not supported by their data?",
+      "author": "Wakebrite",
+      "created": 1630205786,
+      "upvotes": 13,
+      "replies": {
+        "haryym1": {
+          "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/haryym1/",
+          "text": "I was focused more basically, on the concept that a study's goal is to test a hypothesis--which could be confirmed or refuted. Thus I wanted the latter: an example where the pre-stated hypothesis was not supported by their data.\n\nAdditionally, an example where a study was found to be unreproducible would be valuable for teaching as well.\n\nThanks in advance for any suggestions!",
+          "author": "nanobreakfast",
+          "created": 1630219927,
+          "upvotes": 9,
+          "replies": {
+            "hasmgtj": {
+              "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/hasmgtj/",
+              "text": ">Thus I wanted the latter: an example where the pre-stated hypothesis was not supported by their data\n\nI'd look up any study that had their hypothesis pre-registered (OSF is one place where pre-registered hypothesis are publicly viewable). We are writing one now where some hypothesis did not hold (but its not published). There are likely many more such instances. \n\n>Additionally, an example where a study was found to be unreproducible would be valuable for teaching as well\n\nI don't remember the name of specific theory (in social psychology) but it was part of the \"reproducibility crisis in social science\". Basically, 10 expert researchers tried to reproduce a study that gave a substantial support to a theory in social psychology. 2/10 found some marginal results. This had a huge impact in academia. \n\nFinally, if you want some examples of researchers misconduct (plagiarism, fabricating/falsifying) the data, there's this non-profit body (name is something like: retraction watch) that have published several examples to this effect.",
+              "author": "Practical-Smell-7679",
+              "created": 1630239415,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "hatcgna": {
+              "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/hatcgna/",
+              "text": "Here's a famous one you might like:\n\nhttps://www.sciencemag.org/news/2014/01/acid-treatment-could-provide-breakthrough-stem-cell-technique\n\nThe technique never worked for anyone else after that initial publication.",
+              "author": "Wakebrite",
+              "created": 1630252042,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "harzexv": {
+              "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/harzexv/",
+              "text": "I don't think that really happens that way. The idea that someone posits a hypothesis, goes on with the experiment, and then discusses whether or not the hypothesis was correct at the end - that's something you might see in a high school science lab.\n\nReal science often doesn't really **have** a hypothesis. \"We're going to vary X and see what happens to Y and tell you about it. Explaining why our results are the way they are is outside the scope of this work.\"\n\nOr, if the hypothesis is wrong (e.g. the team finds the opposite of what they expected), they usually don't frame it this way. They wouldn't say \"our results invalidate our hypothesis\", they would say \"our results seem counter-intuitive, as one would expect X based on past literature. However...\" and so on.\n\nMore often then not, if your hypothesis is wrong, you don't publish that as-is. You refine your experiment and try again until you find something meaningful to report. Or, you do publish, but you explain why counter-intuitive results are meaningful and important.",
+              "author": "ThePhysicistIsIn",
+              "created": 1630220299,
+              "upvotes": 18,
+              "replies": {
+                "hasuoac": {
+                  "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/hasuoac/",
+                  "text": "That's also because statistically, it's easier to prove that X is linked to Y, while it takes a lot of power (ie data, aka samples, time and money) to prove that X is definitely not linked to Y.  \nIf you don't have exceptionally robust data, not being able to affirm that X is linked to Y doesn't prove the contrary. It just means that you weren't able to prove anything. Hence, no paper.",
+                  "author": "bioruffo",
+                  "created": 1630244075,
+                  "upvotes": 9,
+                  "replies": {}
+                },
+                "hautbbj": {
+                  "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/hautbbj/",
+                  "text": "Maybe in your field (physics apparently?) In psychology it's extremely common to have 3-5 hypotheses and then say \"welp, this one hypothesis was straight up wrong, but it wasn't the one that mattered anyway\" and explain the other other that were right",
+                  "author": "quixoticme1",
+                  "created": 1630274484,
+                  "upvotes": 3,
+                  "replies": {}
+                },
+                "has07al": {
+                  "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/has07al/",
+                  "text": "Real science often doesn't really have a hypothesis... perhaps it's not explicitly stated, but the motivating logic or intuition for why X is being varied in the first place can be stated as a hypothesis: \"We're varying x \\[because we expect A or B outcome\\], and we see what happens to Y...\"\n\nAnyways, I'm looking for examples of this: \"Or, you do publish, but you explain why counter-intuitive results are meaningful and important.\"",
+                  "author": "nanobreakfast",
+                  "created": 1630220930,
+                  "upvotes": 7,
+                  "replies": {
+                    "hau06tb": {
+                      "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/hau06tb/",
+                      "text": "It's almost the opposite of what you're saying but Ben Goldacre has a ton of work on pre-registering clinical trials to avoid subsequent p-hacking and cherry picking. If you look at the clinical trials registry you can see the hypothesis of the trials and then if they deviated a full explanation (in theory).",
+                      "author": "ACatGod",
+                      "created": 1630261847,
+                      "upvotes": 2,
+                      "replies": {}
+                    },
+                    "hatcvhn": {
+                      "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/hatcvhn/",
+                      "text": "There's been an effort to pre-publish or register your hypotheses in some fields. Then look at the gathered data. I encountered this in cognitive neuroscience, but I think other fields do it.",
+                      "author": "Wakebrite",
+                      "created": 1630252212,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hasxnna": {
+      "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/hasxnna/",
+      "text": "In the social sciences, this is actually not that rare. I understand what everyone is saying, how the science doesn't really happen that way, but it pretty frequently does. \n\nFor example, I wrote a paper recently where I clearly stated 4 hypotheses, and showed they were supported through results in the paper. The reviewers asked me to change the statistical models and re-run. I found that after that change, one of the hypotheses was no longer supported. I obviously did not omit it from the paper, just wrote a paragraph about how it wasn't supported and more research will need to be done to better understand why (though I did elaborate a bit). \n\nIt's still under review so I can't share, but this is in the field of management, and I have seen it in other papers in management and social science.",
+      "author": "namenamename0",
+      "created": 1630245520,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "haswi1t": {
+      "link": "/r/AskAcademia/comments/pdk5mf/publications_where_authors_tested_hypotheses_were/haswi1t/",
+      "text": "Something like this one perhaps? \n\n[https://doi.org/10.20935/AL2790](https://doi.org/10.20935/AL2790)",
+      "author": "JBS676",
+      "created": 1630244969,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

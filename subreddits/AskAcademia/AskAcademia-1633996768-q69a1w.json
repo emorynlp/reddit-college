@@ -1,0 +1,124 @@
+{
+  "sid": "q69a1w",
+  "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/",
+  "title:": "Journal submission confusion - \"When preparing tables, if you are using a table grid, use only one grid for each individual table and not a grid for each row. If no grid is used, use tabs, not spaces, to align columns\" ??",
+  "text": "Hi guys,\n\nI'm trying to submit my paper to a journal. However as I am preparing my tables for the journal submission requirements, I came across the line \" When preparing tables, if you are using a table grid, use only one grid for each individual table and not a grid for each row. If no grid is used, use tabs, not spaces, to align columns. \"\n\nI have no idea what this means and what they want me to do with my table grid. What would \"one grid for each individual table\" mean?",
+  "author": "spaceshlp",
+  "created": 1633996768,
+  "updated": 1634078371,
+  "over_18": false,
+  "upvotes": 6,
+  "upvote_ratio": 0.81,
+  "comments": {
+    "hgas9w6": {
+      "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgas9w6/",
+      "text": "It\u2019s basically asking you to create a complete table for the whole table instead of doing something crazy like using the insert table function in word to add a bunch of one-row tables that *look* like a table but would be a pain to do any sort of copy editing or formatting on.",
+      "author": "cdougherty",
+      "created": 1634001410,
+      "upvotes": 3,
+      "replies": {
+        "hgat5ge": {
+          "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgat5ge/",
+          "text": "Ah-ha that makes sense - what do you reckon they mean by 'use only one grid'? Currently I have grids for rows only, that separate between different variables (I did not add row grids for EACH rows - each variable have their subdivisions).",
+          "author": "spaceshlp",
+          "created": 1634001817,
+          "upvotes": 3,
+          "replies": {
+            "hgatz1m": {
+              "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgatz1m/",
+              "text": "Since I don\u2019t know the journal, I\u2019m not 100% sure, but it looks like they\u2019re just asking authors to make it easy to copy edit and format tables. So, don\u2019t mash a bunch of separate tables together, don\u2019t nest tables, and don\u2019t use spaces to align your columns.",
+              "author": "cdougherty",
+              "created": 1634002201,
+              "upvotes": 5,
+              "replies": {
+                "hgavnwt": {
+                  "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgavnwt/",
+                  "text": "Thank you! I guess the confusion came from not knowing that anyone would ever stack 5 tables consisting of 1 row and call it 1 single table or use spaces to align columns! I think I'm good to go :)",
+                  "author": "spaceshlp",
+                  "created": 1634002975,
+                  "upvotes": 5,
+                  "replies": {
+                    "hgawbom": {
+                      "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgawbom/",
+                      "text": "Great!\n\nPeople who learned to write papers using type writers or stand-alone word processors picked up a lot of formatting habits that don\u2019t make sense anymore\u2026",
+                      "author": "cdougherty",
+                      "created": 1634003276,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hgblbqf": {
+          "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgblbqf/",
+          "text": "Having worked with a lot of templates made by other people you have no idea how common that is.",
+          "author": "racinreaver",
+          "created": 1634016010,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hgatylk": {
+      "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgatylk/",
+      "text": "if you're making a document in microsoft word, you can insert a table. it will show up as a grid, and you can type things in the cells of the grid.  \nSo if you had a table with 5 columns and 4 rows, you could do a single 4x5 grid, or you could do 4 separate 1x5 grids stacked vertically (although I don't know why anyone would)  \nThey want you to do the 5x4 grid.",
+      "author": "apple-masher",
+      "created": 1634002196,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hgbpprt": {
+      "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgbpprt/",
+      "text": "To me, the tab thing made more sense. They are going to reformat it and don't want a mess and risk putting data in the wrong place.",
+      "author": "molobodd",
+      "created": 1634019224,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hgank7x": {
+      "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgank7x/",
+      "text": "I think they're referring not to a table as in the literal Excel sense that is a grid, but table as in your paper will refer to Table 1, Table 2, Table 3. So, a graphic, basically.\n\nI think what they're calling a table can be anything graphic or pictorial. Not a literal table that means grid.\n\nThat's my guess, because in most literature, anything that's not text is referred to as a table. But I would confirm with the journal.",
+      "author": "Ophelia550",
+      "created": 1633999198,
+      "upvotes": 1,
+      "replies": {
+        "hgb1ioc": {
+          "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgb1ioc/",
+          "text": "K. Whoever down voted this is an asshole. I was trying to help. It said it was a guess.",
+          "author": "Ophelia550",
+          "created": 1634005590,
+          "upvotes": 0,
+          "replies": {}
+        },
+        "hganqi6": {
+          "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hganqi6/",
+          "text": "But I don't know, reading it again, I'm not so sure.",
+          "author": "Ophelia550",
+          "created": 1633999279,
+          "upvotes": 1,
+          "replies": {
+            "hgarlf6": {
+              "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgarlf6/",
+              "text": "That line is literally giving me a headache - I double-checked with the journal guidelines, and by 'tables' I'm pretty certain they mean the 'ordinary' table with grids (given my field of academia).\n\nI figured they must mean that they don't want grid inside the table but an outline grid separating the table and its background? I googled the entire phrase and apparently a lot of other journals have that sentence written as part of their table requirements... :(",
+              "author": "spaceshlp",
+              "created": 1634001098,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hgavcaw": {
+      "link": "/r/AskAcademia/comments/q69a1w/journal_submission_confusion_when_preparing/hgavcaw/",
+      "text": "Sounds like they want tab delimited text but maybe check what tables look like in manuscripts published in the journal and try to format them like that.",
+      "author": "AndEtAlia",
+      "created": 1634002828,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

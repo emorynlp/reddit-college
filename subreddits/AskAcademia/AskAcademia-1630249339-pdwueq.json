@@ -1,0 +1,204 @@
+{
+  "sid": "pdwueq",
+  "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/",
+  "title:": "Should I make a personal website?",
+  "text": "Hi guys,\n\nI am a PhD candidate in neuroscience. \n\nI was wondering what your thoughts about a personal website are? Is it helpful in any way to promote my academic achievement? I have been thinking about it for a while, but I also feel that is not going to impress anyone: if people want to know my publications they can find them on scholar, if they want to see my code/programming skills I have a GitHub. So I don't see a direct and meaningful use of a personal page.\n\nIs having a website helpful in academia for early career researchers? If yes, why?\n\nThanks!",
+  "author": "Chronosandkairos_",
+  "created": 1630249339,
+  "updated": 1634079449,
+  "over_18": false,
+  "upvotes": 86,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "hatae00": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hatae00/",
+      "text": "I think it's a good idea.\n\nI keep a pretty simple page that just links to my other profiles on e.g. github, describes my research interests and past works, and gives my CV.\n\nMy main motivation is just to control my online presence a bit more. My website is the first thing that comes up if you google my name. From there, people can learn who I am and what I do, they can check my github, they can check my publication list with ORCID (because these things are linked), and they can get a copy of my CV with my contact details.\n\nIf I didn't have my website then people would go to my github and read my code and I wouldn't have a chance to really explain that work or how it fits into my wider research profile. The documentation of my code doesn't explain the significance of the wider research project, they're just snippets to do rather general tasks. **And**, because my work is actually computational, I can't make my PhD code public until after I've published everything I want to using it. That won't happen until well after the PhD is done, so if I want my PhD work to have a presence right now, I can't rely on GitHub or my (non-existent) publications. \n\nAnd I can't easily track visitors through other pages. With my website, I get a breakdown of all visitors to the site. I know where my viewers are, down to the city. When I applied to my PhD, it was nice to see some random hits on the site from that city.\n\nEdit: if you'd like to see what I have, I'm happy to send you a link. It's very basic, non-busy. It's hosted by GitHub so easy to update. Hell, you could even take a copy of what I'm using and just change the name etc.",
+      "author": "officially_anxious",
+      "created": 1630251169,
+      "upvotes": 66,
+      "replies": {
+        "hatb5ct": {
+          "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hatb5ct/",
+          "text": "That's actually good advice! Thanks",
+          "author": "Chronosandkairos_",
+          "created": 1630251493,
+          "upvotes": 6,
+          "replies": {
+            "hatv2ln": {
+              "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hatv2ln/",
+              "text": "The only thing I would caution is you have to keep it up to date. People always start these things, blogs, websites, podcasts etc and start off keen and then... \n\nHaving something that's years out of date looks worse than not having anything at all.",
+              "author": "ACatGod",
+              "created": 1630259672,
+              "upvotes": 13,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hatcc1l": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hatcc1l/",
+      "text": "The main advantages of a personal academic website are:\n\n* As you move from place to place, you'll end up with a bunch of outdated institutional websites in your wake. Having one place that plainly indicates _which_ of those websites is the most up-to-date one (e.g., where you are _presently_) is useful and saves time. It is really annoying to try and sort out which .edu page is actually the most up-to-date one of the person you are trying to learn about or contact. \n\n* Institutional websites often do not let you easily showcase your newest work, provide links and citations to your published work, or have much more than your \"institutional identity.\" A personal website can allow you to do all of the above. Do not underestimate the value of making this stuff easier to find in any little way you can.\n\nThese are both very useful when it comes to having your work be easily accessible to other scholars (which can mean more citations and awareness, which are good for your career), and can make it easier for people on job search committees to get a more complete sense of you (not all will read it, but some will). \n\nAnything you can do that will make it easier for other scholars to find your work will \u2014 unsurprisingly \u2014 increase the possibility of them engaging with it. And yes, those other sites can be useful, but if you can make it so that they are using _one_ site to find all of your _other_ sites, that's positive. Even if your page is nothing more than a link to Google Scholar or the right Github page, associated with whatever university you are currently at, that is still a useful personal website.",
+      "author": "restricteddata",
+      "created": 1630251989,
+      "upvotes": 29,
+      "replies": {
+        "hativ07": {
+          "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hativ07/",
+          "text": "Yes, I would also add that on a personal website, you can say pretty much what you want whereas you may not express personal opinions that easily on an institutional website and may run into troubles with the institution.",
+          "author": "ko_nuts",
+          "created": 1630254669,
+          "upvotes": 10,
+          "replies": {
+            "hatm2cr": {
+              "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hatm2cr/",
+              "text": "That's true. One needs to be very careful with one's \"public presentation\" as an untenured scholar, it goes almost without saying.",
+              "author": "restricteddata",
+              "created": 1630255962,
+              "upvotes": 9,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hatbpx0": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hatbpx0/",
+      "text": "If updating presence is already something you are doing regularly (i.e you update your LinkedIn, GitHub, etc), then yes having a website may be worth it. Although you have to consider are people in your field finding each other through this? Do you ever find cool personal website of others in your field? What are they there for? Are job committees considering this when assessing candidates? Otherwise, it will be just another window shop that you have to maintain and honestly, with all the write ups and million other things you will need to do, who has the time for that?",
+      "author": "gergasi",
+      "created": 1630251732,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hatk30f": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hatk30f/",
+      "text": "Lots of good answers already. \n\nI have a personal website which I made during my last PhD year. At that time ResearchGate or similar websites did not exist. I also made my preprints available through ArXiv links there so that everyone may access my research for free. If you google my name, my website comes first. \n\nSince then, I have added few sections such that a summary of my research topics, some useful links/tools for researcher, a link to my github, my other projects, some of my talks, etc. I am currently working on a blog addition where I am talking about what comes to my mind. It is not just simply a place to get my research, it is also a place to know who I really am.\n\nIt is quite useful, since it is independent of any institution and I am using an email address with this domain name which I put on all my articles, so that people can reach out for some questions and comments. I am also using Google Analytics to see if people come to visit my website and from where they connect. I can see that there is a decent frequentation, not crazy though, but good enough :) \n\nI am using Jemdoc as it is compatible with LaTeX.",
+      "author": "ko_nuts",
+      "created": 1630255166,
+      "upvotes": 7,
+      "replies": {
+        "hawktua": {
+          "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hawktua/",
+          "text": "Yes, as you said: one can add as one wishes, it's under the own control. Say: you have own research, pet projects, pre-published things .. you can all add them. So advice: yes do it",
+          "author": "sunnyseasun",
+          "created": 1630310186,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "haut0if": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/haut0if/",
+      "text": "Do it. \n\nThe advantage of having a personal website is that you can pull all your stuff together into one place and give one URL to people, instead of one thing for GitHub, another for arXiv, etc. Also, there are some things that speak to your professional skills that may not have a good home -- like videos of conference talks, or slide decks, etc. -- and a web site can be that home. You can also use it to create a narrative about your professional branding as a whole and let people see how all your stuff fits together. You can even throw a blog on there. \n\nI know from being a department chair and participating in some hiring processes that I really liked being able to go to a person's website to see EVERYTHING (professionally) that they were up to. Gave me a sense of who they are and who they might be as a colleague. \n\nIt's also super easy to make these websites, using simple tools like Google Sites or GitHub Pages, so there's virtually no barrier to entry.",
+      "author": "Rtalbert235",
+      "created": 1630274349,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hatfu4i": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hatfu4i/",
+      "text": "It might be a false correlation but I'm a neuro postdoc who created a wordpress site as a grad student and I've noticed that other people in my award cohort often also have personal websites. So I definitely don't think it hurts.\n\n&#x200B;\n\nEdit: \"Why?\" I think it makes you look like you have your career together, you are proud of your accomplishments, and you are ambitious enough to put it out there.",
+      "author": "MercuriousPhantasm",
+      "created": 1630253425,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "hau8ovx": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hau8ovx/",
+      "text": "I have one. It costs about a hundred dollars a year, and brings in about $500 a year in outside writing, and some media inquiries. I find the institutional website to be pretty crummy",
+      "author": "fleemfleemfleemfleem",
+      "created": 1630265488,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hau5vsw": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hau5vsw/",
+      "text": "I generally think most early career researchers should have one. Or at least some way to get your **current** contact information without combing through page upon page of data. I'm an AE at a major publication in my field, and I can't tell you how many times I have gone to invite an early career person and been unable to find an email address.",
+      "author": "StorageRecess",
+      "created": 1630264272,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hauehr2": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hauehr2/",
+      "text": "It depends what's on that website. If it truly is a personal website, then it could hurt. If it's actually a professional website, which seems to be what you're indicating, then that could serve as a centralized location to access your CV, publications list, etc. that would be beneficial to those looking you up. In fact, I've gotten quite a few comments during interviews about how they \"Googled\" me and were glad to find copies of all relevant documents in one place.",
+      "author": "tspier",
+      "created": 1630267965,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "haup05p": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/haup05p/",
+      "text": "When you apply for jobs, fellowships, etc., people will google you.  Having a front page that they can hit that links them to your scholar profile, gethub, etc. just allows you to direct what they see.  I would not worry about trying to keep a blog or anything like that which will look bad if you don't update.",
+      "author": "manova",
+      "created": 1630272563,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "havbe7u": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/havbe7u/",
+      "text": "I made it since I was a junior in university (I'm in a Ph.D. program right now). So far, I've felt that keeping a website is definitely worth it. I get to describe my intellectual trajectory and project more in detail than on my department website. Yes, it takes time to set up, but maintenance is not really an issue once you are done with that part. I just update whatever I do once a semester, and it really takes 30 minutes every six months.\n\nAnd it's worth it because people do regularly visit my website, often from googling my name or via my department website. Many of them click my CV, external links, and \"menus\" on my website, which shows that they actually want to know what I do in detail. Also, whenever I'm presenting at a conference or even ask a question at a conference, the number of daily visitors increases quite dramatically. When I meet other academics for other reasons, I also see a sharp rise in visitors. Lastly, I have been contacted by other academics via the website's contact form, so it's definitely something. So for me, this is a contemporary (and better) version of handing out business cards at a conference with low maintenance.\n\nJust find time and a way to start your website. You don't need special skills because there are quite a few great website-building platforms for beginners these days. Also, if you're shooting for academia, you don't need to catch attention with a fancy interface. A clean and organized description of what you do will do the job.",
+      "author": "Kindly_Book5115",
+      "created": 1630283076,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hau5srs": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hau5srs/",
+      "text": "Yes, you just use google site and list your publications, code, projects, etc. Nothing fancy.",
+      "author": "winner_in_life",
+      "created": 1630264237,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "havewn2": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/havewn2/",
+      "text": "Yes it is worth it, it shows your passion for the field. You can also sell it as outreach and engagement.",
+      "author": "polycap58",
+      "created": 1630284782,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "havjscm": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/havjscm/",
+      "text": "Adding to the other comments, as a prospective grad student it's incredibly helpful to me when students of PIs I'm interested in have websites summarizing their research interests. It's useful to see what type of work a PI's students are doing in addition to just what the PI does.",
+      "author": "tgrosson",
+      "created": 1630287167,
+      "upvotes": 2,
+      "replies": {
+        "havw53x": {
+          "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/havw53x/",
+          "text": "Interesting! I didn\u2019t think about this. Thanks",
+          "author": "Chronosandkairos_",
+          "created": 1630293360,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hat7dcu": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hat7dcu/",
+      "text": "It really depends on whether your audience likes the site you build - a lousy site, or one you never update, can backfire. I think a Google Scholar page with lots of recent activity and a GitHub with nice well-documented contributions will be valued far more.",
+      "author": "Jon3141592653589",
+      "created": 1630249858,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hat9aax": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hat9aax/",
+      "text": "The personal page is so they can find your github, google scholar, basic info about you more easily. It's a pretty low level of effort for even a small pay off. Just don't do a blog or extensive project summaries unless you're prepared to update. And pick somewhere you can host for free like github pages.",
+      "author": "mediocre-spice",
+      "created": 1630250688,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hauxc2q": {
+      "link": "/r/AskAcademia/comments/pdwueq/should_i_make_a_personal_website/hauxc2q/",
+      "text": "yes",
+      "author": "mr_kazemiro",
+      "created": 1630276314,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "sid": "pc1o5f",
+  "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/",
+  "title:": "Reportable PI behavior - advice?",
+  "text": "I am Co-I on a large grant which I wrote, did the budgets, run, and do all the financials for. The PI significantly increased their effort without my knowledge which means I'll have to reduce salary of others, who do more, to make ends meet. The PI also suggested I fudge exclusion criteria to not lose participants (which I won't do). What can I do about this? Do I have have to suck it up? Is it reportable?",
+  "author": "DeciduousWombat",
+  "created": 1629991307,
+  "updated": 1634079479,
+  "over_18": false,
+  "upvotes": 7,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hafnudv": {
+      "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hafnudv/",
+      "text": "Talk to your university ombuds.",
+      "author": "CerebralBypass",
+      "created": 1629991640,
+      "upvotes": 12,
+      "replies": {
+        "hafr39d": {
+          "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hafr39d/",
+          "text": "Is this really an ombuds issue?",
+          "author": "dlan1000",
+          "created": 1629992945,
+          "upvotes": 2,
+          "replies": {
+            "hafrbzb": {
+              "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hafrbzb/",
+              "text": "Possibly given it involves treatment of subordinates. Plus the ombuds can help with identifying other resources and courses of action.",
+              "author": "CerebralBypass",
+              "created": 1629993039,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hafu6uk": {
+      "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hafu6uk/",
+      "text": "Talk to your university grants office, and if they won\u2019t listen, talk to the granting agency. Do this without the PI, and show them what the PI is attempting to do and what they asked you to do.\n\nAltering a budget without prior approval may be reportable, depending on grant terms and university policy. \u201cFudging\u201d participant criteria is definitely reportable, as it constitutes research misconduct. And if the grant funding is contingent on those participants or their selection criteria, it may constitute fraud. The grants office would know more, and they will happily tell your PI to knock it off.\n\nRemember, the grant money isn\u2019t actually \u201cyours.\u201d It\u2019s still the grantor\u2019s money, and it\u2019s managed by your university. You\u2019re one of many signatories to it, and any change in budget needs to be forwarded to the others.",
+      "author": "Greenmantle22",
+      "created": 1629994174,
+      "upvotes": 7,
+      "replies": {
+        "hagp180": {
+          "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hagp180/",
+          "text": "Speaking as a former VP of Research, the grants office can\u2019t do anything. The program director at the granting agency can\u2019t either, except to threaten to take the funds away. This is really a matter to be resolved internally.",
+          "author": "bigrottentuna",
+          "created": 1630006381,
+          "upvotes": 2,
+          "replies": {
+            "hagt080": {
+              "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hagt080/",
+              "text": "The grants office can't do anything about the personality conflicts or a PI who is simply erratic. If they submit an amended budget that still meets the grant terms, grants will process it without comment. You can't sanction someone for being a jackass.\n\nBut if the grants office (or the grant manager at the agency) is made aware of deliberate misconduct on the PI's part (fudging exclusion criteria, for example), they're duty-bound to report it if the grant's terms specifically forbid such behavior (and most grants for human subject research do have stipulations on this).\n\nIn the program I manage, even a whiff of misconduct is taken as seriously as someone joking about bombs at the airport. Once we hear about it, we're obligated to investigate and gather statements. Our federal sponsor requires it, as does our VP-R, as does our grants office. And for the remainder of that subaward's lifespan, we watch them like a hawk. But our university recently had several cases of gross misconduct that went uninvestigated because the previous administration waved a hand and said \"Those people can police themselves.\"",
+              "author": "Greenmantle22",
+              "created": 1630007975,
+              "upvotes": 2,
+              "replies": {
+                "hahko09": {
+                  "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hahko09/",
+                  "text": "I was referring primarily to the rebudgeting, which are under the PI's discretion with most funding agencies. The grants office isn't going to do anything with that information.\n\nAs for the exclusion criteria, that's also outside of the grants office's purview. If there is genuinely an ethics concern, take it to the Research Integrity Officer. If it's about an approved student, take it to the IRB. \n\nIf you want to interrupt your funding and piss off everyone in your organization, go straight to the agency program director. They will take it seriously, but as I said, this is a matter to be resolved internally. If it needs to be escalated to agency, it will be, after an appropriate internal process.",
+                  "author": "bigrottentuna",
+                  "created": 1630019771,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hafx0f8": {
+      "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hafx0f8/",
+      "text": "The effort reporting would usually be a \"talk to your department admin\" thing - you can't necessarily just up and reduce people's salaries, there may need to be documentation of a significant effort change, there may be department funds available to help make ends meet, etc.  Nothing necessarily has been done wrong here, yet, but it's worth a discussion.  If you think for whatever reason you won't get a fair hearing in the department, which happens, then it is a good idea to talk to the ombuds first. They may be able to help you come up with the right approach or support you in these discussions. \n\nFudging exclusion criteria is potentially both an IRB issue and a research misconduct issue.  Since you didn't actually do it, it's not necessarily the case that misconduct has occurred - but your research integrity officer would want to know an attempt was made.  I act as a deputy RIO at my institution and I would want to know this, and would do my best to advocate for you and ensure this PI sees some consequences.",
+      "author": "Amaranthesque",
+      "created": 1629995291,
+      "upvotes": 3,
+      "replies": {
+        "hag33ll": {
+          "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hag33ll/",
+          "text": "Thanks for this advice. I think the ombuds might be a good start since our research administration is \"up in the air\" right now, and there is no one I particularly trust to have the knowledge to advise.",
+          "author": "DeciduousWombat",
+          "created": 1629997657,
+          "upvotes": 1,
+          "replies": {
+            "hagttlr": {
+              "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hagttlr/",
+              "text": "Sadly, a lot of universities treat research administration this way. They underpay people, or put them in an outdated building, or undercut them anytime there's a conflict with a prominent faculty member. Professor So-and-So brings in lots of grant dollars and headlines, so she's untouchable even if she's an obvious abuser and a crook. Over time, this leads competent RA staff to leave, and maybe not be replaced. Universities care so much about the illusion of productivity/success that they have little time for enforcement or integrity. \n\nEvery department needs a White Hat - someone of unimpeachable integrity, who everyone trusts to tell the truth and make even-handed decisions about conflicts.",
+              "author": "Greenmantle22",
+              "created": 1630008304,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hag6c7x": {
+      "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hag6c7x/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1629998905,
+      "upvotes": 3,
+      "replies": {
+        "hagtbej": {
+          "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hagtbej/",
+          "text": "And how many of them were by email, with a paper trail?",
+          "author": "Greenmantle22",
+          "created": 1630008099,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "haiehai": {
+          "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/haiehai/",
+          "text": "Yeah I think just talking with the individual is probably the best first approach. Budgets are projections, there are always cost overruns, your co -pi allocating more hours to the research isn\u2019t worrisome. Asking you to lie about exclusion criteria in a study is worrisome, but maybe coming from a place of wanting to understand the proposed problem or hypothesis rather than outright fraud.\n\nHave a beer, sit down and talk like adults and ask for what you want, if he tells you to pound sand then run it up the chain.",
+          "author": "KeyCattle8154",
+          "created": 1630033902,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hauf9ag": {
+          "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hauf9ag/",
+          "text": "We've talked, I was just told that's how grants work. And to be clear, there isn't any extra work being done on the PI's part, the actual work effort is less than half of the original budgeted amount. But I did make sure that there is a paper trail now. So thanks for that suggestion! Next stop, off the record advice from a trusted party...",
+          "author": "DeciduousWombat",
+          "created": 1630268294,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hagpxzf": {
+      "link": "/r/AskAcademia/comments/pc1o5f/reportable_pi_behavior_advice/hagpxzf/",
+      "text": "This is within the PI\u2019s discretion, unless it obviously kills the success of the project as a whole. It is not very collaborative, nor perhaps good for the project or its participants, but there is little you can do about it as Co-PI.",
+      "author": "bigrottentuna",
+      "created": 1630006747,
+      "upvotes": 3,
+      "replies": {}
+    }
+  }
+}

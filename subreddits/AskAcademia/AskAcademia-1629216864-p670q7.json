@@ -1,0 +1,72 @@
+{
+  "sid": "p670q7",
+  "link": "/r/AskAcademia/comments/p670q7/i_have_a_series_of_proofofconcept_early_stage/",
+  "title:": "I have a series of proof-of-concept / early stage experiment ideas for my biotech start up, but no access to a lab. How do I pay someone to do the experiments for me in a lab?",
+  "text": "I\u2019ve looked into CROs but they all seem to offer clinical trial services rather than services where they perform experiments that I pay them to do.  \n\nI\u2019m aware that biotechs can collaborate with labs / post docs at academic instiutions, but I don\u2019t understand how this works - how do I approach them, what kind of institution would be more interested, will they insist on wanting to publish the work etc.\n\nI\u2019m based in the UK and the experiments are related to antibiotics / microbiology.",
+  "author": "Educational_Ad3421",
+  "created": 1629216864,
+  "updated": 1634079576,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "h9b7l5r": {
+      "link": "/r/AskAcademia/comments/p670q7/i_have_a_series_of_proofofconcept_early_stage/h9b7l5r/",
+      "text": "Does the UK have anything similar to an SBIR grant program? That is what the US has for these cases. You would partner with a university tech transfer office for cheap lab space, then apply for a SBIR to fund early stage research.",
+      "author": "1vh1",
+      "created": 1629219718,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "h9bgwku": {
+      "link": "/r/AskAcademia/comments/p670q7/i_have_a_series_of_proofofconcept_early_stage/h9bgwku/",
+      "text": "Most research universities in the UK will have a system for consultancy work. \n\nHere is Oxford's webpages on it, for example: [https://innovation.ox.ac.uk/academic-expertise-technical-services/](https://innovation.ox.ac.uk/academic-expertise-technical-services/).\n\nHere is Cardiff's for biosciences: [https://www.cardiff.ac.uk/biosciences/about-us/working-with-business/consultancy-services-and-contract-research](https://www.cardiff.ac.uk/biosciences/about-us/working-with-business/consultancy-services-and-contract-research) \n\nIf you have a particular academic in mind then you could contact them directly. It might also be possible to contact a particular university's consultancy team and see if they can link to someone with relevant expertise that way.  Either way, the contracts (including things like publication and IP rights) will be arranged through the consultancy team.",
+      "author": "Flemon45",
+      "created": 1629225455,
+      "upvotes": 5,
+      "replies": {
+        "h9dzhej": {
+          "link": "/r/AskAcademia/comments/p670q7/i_have_a_series_of_proofofconcept_early_stage/h9dzhej/",
+          "text": "I agree, and add that you can also try the one of the [UK gov scientific research institutes](https://en.wikipedia.org/wiki/List_of_UK_government_scientific_research_institutes).  They may be more willing to take on small work which is unpublishable (assuming you don't want your results published) but that's something you'll have to discuss.\n\nI'd suggest looking also into the [Innovate UK](https://www.gov.uk/apply-funding-innovation) funding which may be applicable to your case.  \n\nIn the longer term you'll have more success by meeting and networking with people in a professional setting (i.e. attending conferences and trade shows) rather than cold-emailing.",
+          "author": "polyphonal",
+          "created": 1629275150,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h9bl1ax": {
+      "link": "/r/AskAcademia/comments/p670q7/i_have_a_series_of_proofofconcept_early_stage/h9bl1ax/",
+      "text": "There are companies for hire that do drug development and other research as contractor. You just have to do some google research on it. There is for example a company from Germany (Hamburg) that is doing that type of work.",
+      "author": "CreepyBumblebee31",
+      "created": 1629227225,
+      "upvotes": 5,
+      "replies": {
+        "h9dp89k": {
+          "link": "/r/AskAcademia/comments/p670q7/i_have_a_series_of_proofofconcept_early_stage/h9dp89k/",
+          "text": "Try something like [scientist.com](https://scientist.com). It will be best if you can receive guidance from someone more experienced so they can help you choose the most reliable partner. I prefer working with companies rather than academics.",
+          "author": "fwafwa",
+          "created": 1629265989,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h9bh85z": {
+      "link": "/r/AskAcademia/comments/p670q7/i_have_a_series_of_proofofconcept_early_stage/h9bh85z/",
+      "text": "If you're interested in other models you could look at collaboration with an academic partner, so they might form a partnership with you rather than be a service provider.",
+      "author": "ACatGod",
+      "created": 1629225595,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h9mobs1": {
+      "link": "/r/AskAcademia/comments/p670q7/i_have_a_series_of_proofofconcept_early_stage/h9mobs1/",
+      "text": "Probably you need to grant the money to a researcher in a lab of interest. This is called a contract. There will be overhead costs that raise the price of such an arrangement. Another option is to try and contract with a private lab for a specific analysis, but asking for an \u2018experiment\u201d is likely costly no matter whether you contract privately or through a uni.\n\nEdit: my experience is in the US system. I have received several contracts from private interest groups, but they are rare.",
+      "author": "eggplant_wizard12",
+      "created": 1629438188,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "sid": "ichwuo",
+  "link": "/r/Emory/comments/ichwuo/guide_courses_that_require_using_emorys_vpn/",
+  "title:": "[GUIDE] Courses That Require Using Emory's VPN",
+  "text": "I had to do this for one of my courses and it's ridiculous. CHEM 203L students, you'll need this. You have to download a licensed modeling software that is only usable when you're connected to Emory's servers. If anyone else has a course that needs to use Emory's VPN and they're living off-campus, here's how to set it up. Mods u/oldeaglenewute2022, u/OrangElm, and u/jackschnei please verify. \n\n\n**STANDALONE INSTALLER METHOD:**\n\n* Head to Emory's VPN Tools website: [VPN Tools](http://it.emory.edu/vpntools/). Download whatever standalone client works for you (Windows/Mac).\n\n* Install the standalone client. It should be called BIG-IP Edge Client. Open the application and log in with your Emory credentials.\n\n* Click Connect. Make sure that the VPN is set to vpn.emory.edu. Disconnect when you're done using the program.\n\n**BROWSER EXTENSION METHOD:**\n\nImgur album guide is [HERE](https://imgur.com/a/9taPXPk). This is a Windows 10 guide and is .\n\n* Use Chrome to set this all up. I primarily use Firefox but occasionally it's incompatible with certain extensions. This method works on Chrome.\n\n* Google \"Emory VPN\" or use this link to access it to log in with your student ID and password: [Emory VPN](https://vpn.emory.edu)\n\n* You won't have the browser app needed to use this function because this is your first time. A dialog box will open and you need to click \"More Options.\" See [image](https://i.imgur.com/TQRb1C7.png).\n\n* Click \"Install/Reinstall Endpoint Inspector.\" It will prompt you to download a file called \"f5epi_setup.exe\" and you will need to allow administrator privileges when prompted. See [image](https://i.imgur.com/t4KQSei.png).\n\n* Follow the download prompt. You will not get an \"Installation Complete\" notification; it just disappears when it's done. Doesn't take more than 5 seconds typically. Follow Step #2. See [image](https://i.imgur.com/FSavsV7.png).\n\n* You may have to log in again depending on how long it's been. Once you're in and are able to use the browser app to log in, click this panel called \"EmoryNetworkCores_NA.\" See [image](https://i.imgur.com/OSh0UPB.png).\n\n* You will be prompted to download a file called \"f5vpn_setup.exe\" because you won't have it. Go ahead and install. That is the application that actually allows you to use Emory's VPN when you click the panel.\n\n* The installed application is automatically opened when you click the panel. It will connect you to Emory's VPN. This is the window that shows information regarding your connection. Now you can use certain licensed software that requires you to be in Emory's servers to work (e.g. Spartan Student Edition V8). See [image](https://i.imgur.com/A7zC6My.png).",
+  "author": "FearlessMelly",
+  "created": 1597815629,
+  "updated": 1634098731,
+  "over_18": false,
+  "upvotes": 18,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "g22r9jm": {
+      "link": "/r/Emory/comments/ichwuo/guide_courses_that_require_using_emorys_vpn/g22r9jm/",
+      "text": "Man...I'm an alum and I'm Utah for grad. school.  Didn't know they would put y'all through so much hell for freaking Spartan to model some damned Molecular orbitals.  I'll let the others verify.  Good luck with 203-L (Spartan can be slow as hell doing the calculations too..I don't prefer it)!",
+      "author": "oldeaglenewute2022",
+      "created": 1597817858,
+      "upvotes": 5,
+      "replies": {
+        "g24oxo1": {
+          "link": "/r/Emory/comments/ichwuo/guide_courses_that_require_using_emorys_vpn/g24oxo1/",
+          "text": "I have never used Spartan before, but there's always a first time for everything. I didn't bother checking for a standalone client but thankfully u/schumi23 chimed in with the link. That makes things a lot simpler but I'll leave the browser extension method up in case they want to use that.",
+          "author": "FearlessMelly",
+          "created": 1597862547,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "g24by3x": {
+      "link": "/r/Emory/comments/ichwuo/guide_courses_that_require_using_emorys_vpn/g24by3x/",
+      "text": "I find it easier to simply install the standalone client ([http://it.emory.edu/vpntools/](http://it.emory.edu/vpntools/) windows or mac version here) and then you just launch and log into it and you're good, rather than it being a browser extension and all that jazz.",
+      "author": "schumi23",
+      "created": 1597856589,
+      "upvotes": 3,
+      "replies": {
+        "g24o87o": {
+          "link": "/r/Emory/comments/ichwuo/guide_courses_that_require_using_emorys_vpn/g24o87o/",
+          "text": "Yes! This is a great primary option if you don't want to use it from the browser. I'll edit the guide for the standalone version and the browser extension version.",
+          "author": "FearlessMelly",
+          "created": 1597862241,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "g24r5i6": {
+      "link": "/r/Emory/comments/ichwuo/guide_courses_that_require_using_emorys_vpn/g24r5i6/",
+      "text": "I'm a bit confused lol... Did I miss a class or something? Why am I hearing all about spartan from my friends and everything? I didn't think lab started until the end of a/d/s",
+      "author": "Llama-obama",
+      "created": 1597863519,
+      "upvotes": 1,
+      "replies": {
+        "g25bu0f": {
+          "link": "/r/Emory/comments/ichwuo/guide_courses_that_require_using_emorys_vpn/g25bu0f/",
+          "text": "Your friends probably read through the syllabus like I did and saw all caps with a bright yellow font telling us to:\n\n> DO  THIS  NOW  BEFORE  YOU  NEED  IT  TO  WORK  OUT  ANY  ISSUES  WITH INSTALLING.\n\nSo I looked into it and while it was straightforward for me to add a browser extension (even simpler with the standalone client), some people may not have enough experience with computers to start setting up VPNs or even understand what it is. If this helps at least one person, I'll be gucci at the end of the day.",
+          "author": "FearlessMelly",
+          "created": 1597873243,
+          "upvotes": 1,
+          "replies": {
+            "g25buu6": {
+              "link": "/r/Emory/comments/ichwuo/guide_courses_that_require_using_emorys_vpn/g25buu6/",
+              "text": "I've detected the name of a color in your comment. Please allow me to provide a visual representation. Bright yellow ([#ffaa1d](https://www.color-hex.com/color/ffaa1d))\n\n---\n\n^([Learn more about me](https://www.reddit.com/r/colorsbot/) | Don't want me replying on your color word comments again? Respond to this comment with: \"colorsbot opt out words\")",
+              "author": "colorsbot",
+              "created": 1597873255,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

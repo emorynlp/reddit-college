@@ -1,0 +1,63 @@
+{
+  "sid": "ovyzex",
+  "link": "/r/AskAcademia/comments/ovyzex/is_there_a_strategic_way_to_pick_your_research/",
+  "title:": "Is there a strategic way to pick your research agenda/interests as a professor?",
+  "text": "PhD students and professors how did you pick your research agenda? Was it just based on pure interests or is it more typical to determine your research agenda based on feasibility of getting hired by institutions, getting grants, publishing, etc?\n\nThank you in advance :)",
+  "author": "Tasty-Rent7420",
+  "created": 1627847482,
+  "updated": 1634080039,
+  "over_18": false,
+  "upvotes": 14,
+  "upvote_ratio": 0.83,
+  "comments": {
+    "h7cudzc": {
+      "link": "/r/AskAcademia/comments/ovyzex/is_there_a_strategic_way_to_pick_your_research/h7cudzc/",
+      "text": "So, the short answer is yes.  To start, check out this Twitter [thread](https://twitter.com/coereba/status/1308858141753462785) from Dr. Natalie Wright based on her experience of being on the search committee at Kenyon.  She discusses the differences in research statements between a R1 and a undergraduate institution that values research.\n\nI am also a professor at an undergrad-only institution.  We do not have value research as much as Kenyon but it is one pathway and is supported / encouraged.  There are basically two primary goals for faculty to do research: (1) keep up with the current trends, knowledge, and techniques of their field and (2) provide student research projects.  For the second case, it is not expected that the students do novel, publishable work -- rather, we want them to go through the process of reading 3-4 papers, defining a problem or research question that extends one of the papers in some way, do the technical work, and then analyze and present their results in written and oral form.\n\nWith that in mind, when looking for research areas, I try to ask myself the following questions:\n\n1. Am I interested in it?\n1. Do the research problems seem like something I can contribute to or make reasonable progress on with my skills and experience?\n1. Will I get something out of this in terms of keeping up with my field?\n1. Can I find small, isolated projects for students in this area?\n1. Do I have access to all of the infrastructure I need to be successful?  In my case, primarily data and compute power.\n1. Is it a particular problem being worked on by many people or relatively niche?  I try to stay away from problems that would put me in competition with folks at R1s.\n1. What are the publishing options?  Are there venues for short journal or conference papers?  (Again, an issue related to my limited capacity.)\n1. Are there any potential collaborators?  In my case, I am a computer scientist with a background in genomics and bioinformatics.  I tend to work specifically on non-model insect data because there are fewer bioinformaticians in that area and this makes me an attractive collaborator / partner for biologists at R1 institutions who are generating data and need help with analysis.  These open up a lot of doors.\n\nI often get ideas for problems by talking with biology collaborators and reading papers published in bioinformatics and genomics journals.",
+      "author": "ibgeek",
+      "created": 1627852501,
+      "upvotes": 11,
+      "replies": {
+        "h7gep4r": {
+          "link": "/r/AskAcademia/comments/ovyzex/is_there_a_strategic_way_to_pick_your_research/h7gep4r/",
+          "text": "Thanks for the link. I usually avoid Twitter but at my SLAC, with relatively high research expectations, that advice is spot on. \n\n\nTo answer OP: in my world research requires money. Money therefore drives everything else. If you can get a grant you can do research, if you can do research then you can publish, if you can publish then you are an attractive hire.",
+          "author": "blue_pez",
+          "created": 1627927579,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "h7edray": {
+      "link": "/r/AskAcademia/comments/ovyzex/is_there_a_strategic_way_to_pick_your_research/h7edray/",
+      "text": "There's no \"one\" way for sure. But my advice (interdisciplinary/international relations) would be to focus on topics that have some overlap with the issues society cares a lot about, because that will increase the amount of academic and non academic funding opportunities, events, networking opportunities and non academic jobs in case it doesn't work out. \n\nFor example, my friend who works on role theory and the EU does amazing work, but societal interest is lower, which limits his opportunities.\n\nMy number one advice would be to pick a topic that will get really big in a few years so you're strategically placed but that's pretty hard to pull off!",
+      "author": "doornroosje",
+      "created": 1627883153,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "h7e2tbs": {
+      "link": "/r/AskAcademia/comments/ovyzex/is_there_a_strategic_way_to_pick_your_research/h7e2tbs/",
+      "text": "Historian here: I picked my dissertation topic based on three things 1) availability of source material, 2) location of said source material, and 3) potential for publication as a book. After that I picked my topics still based on location of materials (because if I had to travel for archival work I wanted to be someplace cheap/nice) and potential for publication. \n\nAfter I got tenure I shifted more toward things I thought could keep me engaged for multiple years, generate publications, and in some cases involve undergraduates in the summers.\n\nOnce I was promoted to full professor all bets were off. Now I just work on whatever interests me, don't even worry about publication (I do more public talks or write for popular media, reaching far larger audiences). I also have two novels-in-progress that eat up a fair bit of my time...they have historical elements so I've found ways to leverage institutional travel funding/grants to get to work on them under the guise of doing \"serious\" research. Maybe I'll publish something academic from that some day, maybe not.",
+      "author": "SnowblindAlbino",
+      "created": 1627875823,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h7cmxj3": {
+      "link": "/r/AskAcademia/comments/ovyzex/is_there_a_strategic_way_to_pick_your_research/h7cmxj3/",
+      "text": "I applied for an advertised position",
+      "author": "DeepSeaDarkness",
+      "created": 1627848946,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h7dh24i": {
+      "link": "/r/AskAcademia/comments/ovyzex/is_there_a_strategic_way_to_pick_your_research/h7dh24i/",
+      "text": "I'm starting a PhD program in the fall and have a project lined up for when I start. This was my process of coming up with a project:\n\n1. Consider what research skills I have. While I will learn new research skills during my PhD, the skills and background knowledge I have going into it will influence where I can be successful in the future.\n2. Decide what I've liked/disliked about research I've already done. Some parts of the research process can't be avoided (e.g., writing) but I can be selective in many other areas.\n3. Connect with others who are doing research that align with what I like. I found my PhD advisor based on a shared interest.\n4. Refine research plans based on existing literature and input from others. I was able to review the literature on the topics I was interested in and chat with my PhD advisor to refine my research topic to fit with his group.",
+      "author": "poniesgirl",
+      "created": 1627864112,
+      "upvotes": 3,
+      "replies": {}
+    }
+  }
+}

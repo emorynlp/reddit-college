@@ -1,0 +1,521 @@
+{
+  "sid": "q17y7e",
+  "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/",
+  "title:": "Teaching myself stats and I'm not okay",
+  "text": "It is time for the data analysis portion of my MS research. I have a general idea on stats and models I will be using, but the devil is in the details. I have zero R experience (primarily worked with excel in undergrad) and my uni has zero stats courses that would be applicable to my area. My advisor believes I will be able to teach these to myself proficiently. \n\nAny advice on how to proceed? Beginning with R or multivariate stat resources? \n\nI know I won't learn these all overnight, but I can't help the imposter syndrome flaring. \ud83d\ude14\n\n\n\n\nEdit: You all are great! Thanks so much for the resources being posted, I'll definitely need all of them!",
+  "author": "marisolm9",
+  "created": 1633362093,
+  "updated": 1634099893,
+  "over_18": false,
+  "upvotes": 229,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "hfd2bwo": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfd2bwo/",
+      "text": "https://statisticsbyjim.com/\n\nhttps://www.codecademy.com/learn/learn-r\n\nOnce you generally know how R works, just Google (whatever you want to do) plus (R). In my experience, the trick to R isn\u2019t knowing R. It\u2019s knowing how to Google",
+      "author": "Then_Professional",
+      "created": 1633362583,
+      "upvotes": 211,
+      "replies": {
+        "hfdg2h6": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdg2h6/",
+          "text": "That\u2019s really the trick to any programming language. Programming is more about understanding how to think logically and as a computer would. The syntax of any particular language will come by googling how to do a certain process, if need be.",
+          "author": "lebesgue2",
+          "created": 1633367902,
+          "upvotes": 67,
+          "replies": {}
+        },
+        "hfdn4qh": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdn4qh/",
+          "text": "And I will say, as someone who uses R a lot in my program, sometimes I still do something in Excel first and then try to move the syntax over to R.\n\nEdited to add that your school may not have helpful courses, but one of the professors might still be a great resource if one is willing to sit down and answer a question here or there and you can bring the content knowledge to the table.",
+          "author": "mikgub",
+          "created": 1633370517,
+          "upvotes": 17,
+          "replies": {}
+        },
+        "hfeexql": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfeexql/",
+          "text": "Ah, a true coding expert.",
+          "author": "FolkMetalWarrior",
+          "created": 1633380715,
+          "upvotes": 12,
+          "replies": {}
+        },
+        "hfdxrto": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdxrto/",
+          "text": "Do you have this for Stata? I am struggling with learning Stata, due to that it isn't being taught haha",
+          "author": "al_the_time",
+          "created": 1633374456,
+          "upvotes": 5,
+          "replies": {
+            "hfe521o": {
+              "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfe521o/",
+              "text": "Have you checked out this UCLA page? https://stats.idre.ucla.edu/stata/",
+              "author": "FrostStrikerZero",
+              "created": 1633377115,
+              "upvotes": 8,
+              "replies": {
+                "hfevura": {
+                  "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfevura/",
+                  "text": "Yes, this!!! It gives you example code for R as well so you can literally copy and paste and just change your variable names and work on tweaking that existing code to fit your data. A great place to start!",
+                  "author": "holldoll_28",
+                  "created": 1633387519,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            },
+            "hfg7yzj": {
+              "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfg7yzj/",
+              "text": "Look up the Stata \"cheat sheets\". I printed them and kept a copy at my desk",
+              "author": "recentlyexpiredfish",
+              "created": 1633414179,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hfgkmjh": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfgkmjh/",
+          "text": "Ty",
+          "author": "pinkolomo",
+          "created": 1633425902,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hfd3mdh": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfd3mdh/",
+      "text": "Statistics by Jim is great for both his blog posts and his textbooks (very cheap and easy to read), as someone else mentioned.\n\nHere are two links to free R books.\n\n[https://learningstatisticswithr.com/](https://learningstatisticswithr.com/)\n\n[https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)\n\nNot sure if they will have the exact stats you are looking for, but would be a good place to start.\n\nAlso do you have to use R? Would a free program like JASP work ([https://jasp-stats.org/](https://jasp-stats.org/)) ?",
+      "author": "sensorimotorneuro",
+      "created": 1633363103,
+      "upvotes": 28,
+      "replies": {
+        "hfe8e73": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfe8e73/",
+          "text": "R is the field standard for a lot of life science / wildlife ecology stuff, so often few other options if they\u2019re in these fields",
+          "author": "beautyonthebiside",
+          "created": 1633378330,
+          "upvotes": 4,
+          "replies": {
+            "hfe95u5": {
+              "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfe95u5/",
+              "text": "I know R is used a lot, but there are definitely other options (Python for example). But if you aren't doing anything complicated a program like JASP works fine.",
+              "author": "sensorimotorneuro",
+              "created": 1633378612,
+              "upvotes": 3,
+              "replies": {
+                "hffjbna": {
+                  "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hffjbna/",
+                  "text": "There is also a multitude of packages (Reticulate for R) that allow for interoperability between Python and R.",
+                  "author": "TEE_EN_GEE",
+                  "created": 1633399336,
+                  "upvotes": 2,
+                  "replies": {
+                    "hffug2a": {
+                      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hffug2a/",
+                      "text": "Yeah and if you\u2019re comfortable with python you can basically do everything you can do in R. I used to use R, but not I pretty much only use python.",
+                      "author": "sensorimotorneuro",
+                      "created": 1633405110,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hfd559u": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfd559u/",
+      "text": "My friend also recommended a YouTube channel called statistics of doom.\n\nI frequently watch YouTube videos for methods I am not too familiar with. My problem with R is that the \"help\" is frequently significantly less than helpful if you do not have a programming background, so if you can watch videos I'd recommend that. I think another challenge to R isn't so much the actual doing of the stats, since there are so many packages there's probably someone out there who has a package for the analyses you need to do. In my experience, the challenge is having your data set cleaned and processed enough for R to not have a conniption. \n\nAlso, if your university has a statistics consulting center it might be worthwhile to check that out. I haven't had to use mine yet, but evidently we have one.",
+      "author": "False-Guess",
+      "created": 1633363707,
+      "upvotes": 19,
+      "replies": {
+        "hfep9sw": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfep9sw/",
+          "text": "I second statistics of doom. Dr Erin Buchanan is very generous with her resources. She puts her entire undergrad and post grad courses on OSF. I used her work to refresh my knowledge and learn R. I would buy Andy Field\u2019s book and if you are doing SEM the recommended text is available free online (I bought it before I realised).",
+          "author": "Corrie_W",
+          "created": 1633384607,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "hfemmlb": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfemmlb/",
+      "text": "Coming here to second all the people that said that doing stuff in R is all about googling.   \n\n\nTook multiple undergraduate CS classes and graduate stat courses that used R and i constantly mix up how to define a function in R or Python or C++. Really it is all about language. E.g. instead of typing \"i want to put these two strings together\", googling \"concatenating strings\". If you struggle to do something for too long ask anyone for terminology. Describe your problem in simple terms and ask them to translate to more technical terms until you learn enough of the vocabulary.   \n\n\nYou've got this OP! Deep breaths and remember that we all feel like impostors!",
+      "author": "Coefficient_of_Var",
+      "created": 1633383576,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hfdnax4": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdnax4/",
+      "text": "Oh my God, it must be in the air today.\n\nI'm working on stats homework right now and I feel like I'm 100% going to fail because they dumped both stats and learning R on us in the \"sink or swim\" sort of fashion.\n\nIt is SO frustrating.",
+      "author": "WhiskeyRisky",
+      "created": 1633370582,
+      "upvotes": 8,
+      "replies": {
+        "hfe5bsp": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfe5bsp/",
+          "text": "That has been my entire graduate experience lol. Hang in there!",
+          "author": "FrostStrikerZero",
+          "created": 1633377213,
+          "upvotes": 7,
+          "replies": {
+            "hfeey6u": {
+              "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfeey6u/",
+              "text": "It makes me feel so much better yo hear that lmao\n\nIt's so demoralizing to feel so clueless 24/7.",
+              "author": "WhiskeyRisky",
+              "created": 1633380720,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hfdpwh0": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdpwh0/",
+      "text": "Remember that you\u2019ll be fine. R is just a tool, you can learn to use it. Statistical tests are just more tools that you can use to help draw inferences from your data. Programming and stats are fields in themselves, but you\u2019re not in those fields, so you just have to learn to use the tools like you have with anything else. You won\u2019t be an expert on them, but that\u2019s ok. You\u2019ll have collaborators who help you straighten it all out later.\n\nOthers have given you resources. I\u2019ll recommend one more: ourcodingclub \n\nThat\u2019s my favorite site for learning R. It\u2019s focused on life scientists though.",
+      "author": "cadco25",
+      "created": 1633371551,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hfd5u5z": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfd5u5z/",
+      "text": "Same boat my friend. I find that I suck without having a course and a timeline to follow though, so I recommend [https://www.coursera.org/learn/r-programming](https://www.coursera.org/learn/r-programming). I'm personally in a course for R at my uni, but I've used coursera for other courses before and found it great.",
+      "author": "funkykookaburra",
+      "created": 1633363981,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hfdwvfu": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdwvfu/",
+      "text": "[https://r4ds.had.co.nz/](https://r4ds.had.co.nz/) <-- awesome free textbook by Whickam and Grolemund (2017)",
+      "author": "LordRupert--Everton",
+      "created": 1633374126,
+      "upvotes": 7,
+      "replies": {
+        "hfe4080": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfe4080/",
+          "text": "The best book for learning R by far. Recommind the OP gives this a read to learn how to use R. For statistics, it depends on the field, but there is a book by John Verzani which looks to statistics with applications on R.",
+          "author": "damageinc355",
+          "created": 1633376736,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hfd6bfb": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfd6bfb/",
+      "text": "Our Biology stats professor has a YouTube channel with all of the lessons recorded (search Dr. Nick Negovetich and his channel should pop up).",
+      "author": "Perses_Garden",
+      "created": 1633364170,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hfdc5h4": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdc5h4/",
+      "text": "My undergrad data science professor posts all his stats assignments online. They\u2019re meant to an intro to R and stats and are designed so individuals can work through them on their own. Let me know if you\u2019re interested and I\u2019ll send you the link",
+      "author": "Unofficial_Overlord",
+      "created": 1633366413,
+      "upvotes": 7,
+      "replies": {
+        "hfe4nm0": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfe4nm0/",
+          "text": "Can you send me the link?",
+          "author": "damageinc355",
+          "created": 1633376969,
+          "upvotes": 2,
+          "replies": {
+            "hff43zm": {
+              "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hff43zm/",
+              "text": "https://github.com/VectorPosse/Intro_Stats\n\nThe numbered markdown docs are the assignments",
+              "author": "Unofficial_Overlord",
+              "created": 1633391686,
+              "upvotes": 5,
+              "replies": {
+                "hff60ev": {
+                  "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hff60ev/",
+                  "text": "Thank you!",
+                  "author": "damageinc355",
+                  "created": 1633392661,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hfe516d": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfe516d/",
+      "text": "Many schools have \"statistical consulting lab\" or the like that grad students and researchers can go to for help with the statistics portion of their research. You should look into seeing if your school has one.",
+      "author": "HumanDrinkingTea",
+      "created": 1633377106,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hfdaa6r": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdaa6r/",
+      "text": "Depending on your discipline I'd second what others have already recommended: OA books and YouTube. There are also some online R meeting groups that might help.",
+      "author": "GnomeChomChom",
+      "created": 1633365698,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfdi69v": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdi69v/",
+      "text": "If you know tests you need to run R isn\u2019t bad. Figuring out the visuals and dependencies can be a pain depending platform you are using. There should be a book for your field that tells you the tests you would typically use. Otherwise khan should have undergrad level stats stuff to get you started",
+      "author": "Trakeen",
+      "created": 1633368687,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfdrq8p": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdrq8p/",
+      "text": "I\u2019m in a statistics and data analysis course right now and I am finding it to be really approachable. Beyond the resources that have already been mentioned, I\u2019d be happy to send you the lecture slides from the course as well as the \u201cBarebones Introduction to R\u201d document that my professor put together for us.",
+      "author": "asmallbean",
+      "created": 1633372227,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfdrtjk": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdrtjk/",
+      "text": "I recommend checking out statquest and crash course statistics on youtube. Much of the selection process of what tool you use is based on the questions you are asking, so make sure you check analysis portions of papers in your field to get a grasp on what is appropriate for your application.",
+      "author": "Zealousideal-Row-110",
+      "created": 1633372261,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfducxg": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfducxg/",
+      "text": "If you don't want to do it on your own, check the R 4 Data Science community. Their slack is super friendly, and they're just starting another book club cohort. You can do this!",
+      "author": "katerinidion",
+      "created": 1633373204,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfdwy2o": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdwy2o/",
+      "text": "Is this normal? My advisor walked me through everything",
+      "author": "Sriracha11235",
+      "created": 1633374153,
+      "upvotes": 2,
+      "replies": {
+        "hfdzaka": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdzaka/",
+          "text": "My advisor is pretty hands-off with initial guidance, more hands-on with feedback. I'm (really, really, really) hoping she plans to guide me a bit more once she sees where I'm at working on my own.",
+          "author": "marisolm9",
+          "created": 1633375025,
+          "upvotes": 2,
+          "replies": {
+            "hfe2ep7": {
+              "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfe2ep7/",
+              "text": "As someone who is going/has gone through the exact same thing with a hands off advisor, I strongly suggest that you let them know if you're struggling due to lack of direction or guidance. Every advisor is different, but mine (and others that I've seen) will assume that everything is fine unless you explicitly say something. Don't be afraid to tell them if you're having trouble. \n\nI wasted a lot of time struggling to solve problems on my own because I didn't feel like I could go to my advisor due to their hands off approach. Setting up weekly/twice weekly meetings was super important to helping things move along in my case.",
+              "author": "daflippymaster",
+              "created": 1633376163,
+              "upvotes": 3,
+              "replies": {
+                "hfe5jbs": {
+                  "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfe5jbs/",
+                  "text": "Sound advice! This definitely resonates with my situation. We plan to start meeting more frequently this month, so I'm hopeful it will be enough, or at least a step in the right direction. Part of it is myself adjusting away from the typical classroom-style of education.",
+                  "author": "marisolm9",
+                  "created": 1633377288,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hfe169g": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfe169g/",
+      "text": "One option is simply to find a stats professor at the school and tell them what you are trying to do and ask if they would work with you on the statistics portion if your research. They might say no, but if they say yes then you will likely learn a lot and do your stats very well.",
+      "author": "EmptyToucan",
+      "created": 1633375710,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfea3le": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfea3le/",
+      "text": "Sorry if someone already posted this, I didn't see it in the comments so thought I'd share. This is one of my favorite resources that I recommend to people learning R--and it is free! [https://www.guru99.com/r-tutorial.html](https://www.guru99.com/r-tutorial.html)",
+      "author": "jpootz",
+      "created": 1633378949,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfehiic": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfehiic/",
+      "text": "How do they expect you to be fluent in a language and have zero resources to learn it\u2026? That\u2019s insane.",
+      "author": "SJserenity",
+      "created": 1633381658,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfeke51": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfeke51/",
+      "text": "This is the most relatable shit. I decided to audit my course because your girl has ADHD and just cannot right now  : )",
+      "author": "Odd_Gazelle_7438",
+      "created": 1633382738,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfepuh9": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfepuh9/",
+      "text": "You are me in a couple months... I keep putting off learning R as well. Not looking forward to it. It might be difficult, but I've no doubt that if you've got this far and your advisor believes in you, you'll get through it! Good luck!",
+      "author": "Cubasian",
+      "created": 1633384852,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfetjvp": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfetjvp/",
+      "text": "I know you asked about the pirate language (R) but the following stats material may help:\n\n1. https://youtu.be/pZmZ2jLzTQE\n\n2. https://youtu.be/ngopoWF32nM\n\n3. https://youtu.be/n0TXOUF7ec4\n4. https://youtu.be/nMo6vbZnGu4\n5. https://youtu.be/cYq-9RSRRKA\n6. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/\n\nI believe that the speaker in the youtube set is the chief statistician for the NIH",
+      "author": "zlykzlyk",
+      "created": 1633386476,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hff5wtx": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hff5wtx/",
+      "text": "https://r4ds.had.co.nz/",
+      "author": "isaac-get-the-golem",
+      "created": 1633392609,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hff8e0d": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hff8e0d/",
+      "text": "If at any point you work with a lot of different packages, I recommend checking out renv. It's a package manager that separates your project packages into a separate folder/environment. It's a good sanitycheck.",
+      "author": "__apples__oranges__",
+      "created": 1633393861,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hffcl9l": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hffcl9l/",
+      "text": "Do you have to use R? Maybe SPSS instead?",
+      "author": "iopsychhopeful",
+      "created": 1633395984,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hffitks": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hffitks/",
+      "text": "I largely self educated myself using Youtube and journal articles too. I'm not using R but using a different statistical method. I have people that help me along the way but Youtube is the way to go... Really useful and you can learn at your own pace.",
+      "author": "givemeyourdonut",
+      "created": 1633399088,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hffz8uz": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hffz8uz/",
+      "text": "This is a very good simple introduction:\n\nhttps://www.econometrics-with-r.org/\n\nTeaches you how to code and teaches you basic stats as well.",
+      "author": "Hypers0nic",
+      "created": 1633407960,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfg8n5t": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfg8n5t/",
+      "text": "Try R for data science by Hadley Wickham! It's free online and includes a lot of great exercises for getting the basic syntax and learning about R objects and learning to use the tidyverse packages which are imo essential for organizing data.",
+      "author": "static_sea",
+      "created": 1633414733,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hfdwdxm": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdwdxm/",
+      "text": "Google and YouTube are your friends.",
+      "author": "technocassandra",
+      "created": 1633373948,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hfdl930": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfdl930/",
+      "text": "Like others mentioned, Stats by Jim is a life saver, and this is coming from someone who\u2019s getting a masters in economics. \nAlso, check out Ben Lambert\u2019s YouTube channel. He covers econometrics, but since you\u2019re using R, I\u2019m assuming you\u2019ll be doing some econometric modelling too.",
+      "author": "FeastOvGoreglutton",
+      "created": 1633369826,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hfexka1": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfexka1/",
+      "text": "In case someone is interested in Statistics, I am a PhD student in Statistics and I have been tutoring several grad students over the years.",
+      "author": "RageA333",
+      "created": 1633388344,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hff6qxx": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hff6qxx/",
+      "text": "Get a copy of XLStat. Then you only have to learn one thing at a time. The student package is cheap.",
+      "author": "GeoHerod",
+      "created": 1633393036,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hfg3l29": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfg3l29/",
+      "text": "shit, should i be learning this shit before applying to grad school? Seems like some of the courses offered in grad courses are very stressful or \"sink or swim\" from what others have said here \ud83d\ude30",
+      "author": "Rayhann",
+      "created": 1633410913,
+      "upvotes": 1,
+      "replies": {
+        "hfglk0m": {
+          "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfglk0m/",
+          "text": "My lab has PhD students who came back to learn more stats. I would say it depends on your school. Mine unfortunately cut a LOT of courses after covid hurt budgets. Definitely helps to know what you can before.",
+          "author": "marisolm9",
+          "created": 1633426797,
+          "upvotes": 1,
+          "replies": {
+            "hfgnun4": {
+              "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfgnun4/",
+              "text": "Think it's the same for social sciences? I guess I'll take my time learning stats",
+              "author": "Rayhann",
+              "created": 1633428912,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hfgdqe6": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfgdqe6/",
+      "text": "Just checking in (because most of my students opt not to learn the data analysis packages that come with the analytical software, and choose Excel instead) do you have to use R and do your own statistical analysis by hand? Or do you have a software available at the University like for metabolomics that could give you PCA and T-tests? Because even if no one uses those at your university and you'd have to figure it out on your own, those are probably much easier than R.",
+      "author": "erehin",
+      "created": 1633419093,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hfgu846": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfgu846/",
+      "text": "At least youre using R. We use STATA.",
+      "author": "totevetn",
+      "created": 1633433821,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hfgunnr": {
+      "link": "/r/GradSchool/comments/q17y7e/teaching_myself_stats_and_im_not_okay/hfgunnr/",
+      "text": "Have you seen riffomonas? Its author is the head of a metagenomics lab who had a hand in making Mothur. There are metagenomics specific tutorials but also a minimal R section that has its own 3 day workshop. Id highly recommend it as it covers everything from bar plots to code management for publications.",
+      "author": "Cation-meow",
+      "created": 1633434117,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,484 @@
+{
+  "sid": "m0tyhx",
+  "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/",
+  "title:": "Be honest: do you find it hard to keep your integrity?",
+  "text": "I know it's a bit of a weird question, and before you say anything, I'm fully aware of the consequences of scientific misconduct and I oppose this practice.\n\nAnyway, in my experience, scientific misconduct is way too common among my colleagues. It can range from simple cherry-picking to plain data fabrication and falsification.\n\nI started my Ph.D. more than one year ago and I still have no publications. My research simply doesn't work and I can't just make up good results.\n\nExcept that I know that my peers are doing exactly this, and every day I'm tempted to do so as well.\n\nI know that the probability of \"getting caught\" is extremely low, I just don't do it as a matter of integrity. I started a Ph.D. to follow my passion for research, it would make no sense for me to make it up.\n\nAnd yet I'm tempted. I'm failing my Ph.D. and I'm desperate. I'm not asking you whether I should do it (I already know the answer), but I want to know if you ever find yourselves in this situation, and how do you cope with it.\n\nThanks.\n\nEDIT: I didn't expect so many comments. I'll share a couple more points here since I have no time to reply to everyone.\n\nFirst, I didn't ask whether I should cheat, I just asked if someone who found themselves in a similar situation could share their experience.\n\nSecond, from what I read, I was probably wrong in assuming that every institution had the same problem. I work in a toxic environment, my supervisor ignores me, nobody can do actual research, nobody actually has a field of research (everybody publishes papers about anything). It's all about publishing, publishing, publishing, not about research. They are pressuring me hard because I have no publications, and yes, everybody here is supposed to have a few publications in the first year.\n\nI can't keep working in such a toxic environment, I will probably quit my Ph.D. soon. Maybe I'll try again somewhere else.\n\nThanks everybody for the answers.",
+  "author": "picklejay1",
+  "created": 1615248450,
+  "updated": 1634081267,
+  "over_18": false,
+  "upvotes": 148,
+  "upvote_ratio": 0.93,
+  "comments": {
+    "gq9wwxr": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gq9wwxr/",
+      "text": "I wouldn't say the probability of getting caught is \"extremely low\". Take a look at Retraction Watch. I guess it depends on what field you are in but I didn't have results that were worth talking about until my third year. Not sure how you can say you're failing if you're only in your first year. Sounds like a bit of a toxic lab environment/ not much supervisor support?",
+      "author": "ciarabeau",
+      "created": 1615250177,
+      "upvotes": 185,
+      "replies": {
+        "gq9yabt": {
+          "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gq9yabt/",
+          "text": "Agreed that the probability of getting caught will increase over time. Just in the last few years science integrity as a discipline started burgeoning, and integrity hobbyists (people who looked for misconduct in their free time) are now making careers for themselves identifying misconduct in published work.\n\nAlso agree that it takes time to generate results. The only people I know who have results and papers in year one are people whose PIs give them ready to analyze datasets on day 1. And only a small subset of PIs run their labs that way.",
+          "author": "spaceforcepotato",
+          "created": 1615250925,
+          "upvotes": 69,
+          "replies": {}
+        },
+        "gq9zo6y": {
+          "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gq9zo6y/",
+          "text": "I have zero support. Yeah my environment is highly toxic (as I said there is a lot of scientific misconduct) and they only care about quantity, not quality.\n\nMy field is deep learning. In my short experience I noticed that most papers are just noise, they are never replicated, and even if they are nobody ever questions their validity. That's why I said that the probability is low. Maybe in other fields it's different.\n\nBut that's not the point I wanted to make anyway, I'm not trying to find a way not to get caught, I just find it hard to try and do actual research when I'm surrounded by people that only care about the number of papers they publish without doing proper research.",
+          "author": "picklejay1",
+          "created": 1615251688,
+          "upvotes": 56,
+          "replies": {
+            "gqa1g51": {
+              "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqa1g51/",
+              "text": "So write a lit review paper about how most papers are just noise and fail to replicate.",
+              "author": "academicthro",
+              "created": 1615252660,
+              "upvotes": 208,
+              "replies": {
+                "gqa63am": {
+                  "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqa63am/",
+                  "text": "I like this idea. Alternatively there is a website paperswithoutcode.com that has lists of papers that don't provide enough details to be replicated, and you can help that list grow.",
+                  "author": "diagana1",
+                  "created": 1615255202,
+                  "upvotes": 52,
+                  "replies": {
+                    "gqast9e": {
+                      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqast9e/",
+                      "text": "Yeah, I mean if it's true that most - or even many - papers in a given field are nonsense, and OP can prove it mathematically, that's a hell of a paper!",
+                      "author": "academicthro",
+                      "created": 1615268877,
+                      "upvotes": 33,
+                      "replies": {
+                        "gqc72rf": {
+                          "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqc72rf/",
+                          "text": "They should be prepared to be blocked. The editors will probably choose the authors of the critiqued papers as reviewers, and then they will use rhetoric when the math fails, and reject the paper. It is the oldest trick in the book.",
+                          "author": "encom-mcp",
+                          "created": 1615304629,
+                          "upvotes": 6,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "gqaxe0v": {
+                  "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqaxe0v/",
+                  "text": "This is a great idea. I know someone who wanted to write about x in industry y, but ended up finding out all organizations only said they used x but instead used a highly modified version of x that doesn't fit its definition. So that person wrote about this phenomenon and was very well received",
+                  "author": "jetpumps",
+                  "created": 1615272600,
+                  "upvotes": 19,
+                  "replies": {}
+                },
+                "gqb3bgw": {
+                  "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqb3bgw/",
+                  "text": "This is the answer. Or pick a landmark study and try to replicate it.",
+                  "author": "25limes",
+                  "created": 1615277974,
+                  "upvotes": 10,
+                  "replies": {}
+                },
+                "gqb853b": {
+                  "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqb853b/",
+                  "text": "Awesome idea and a valuable contribution to the field!!",
+                  "author": "Sensitivity81percent",
+                  "created": 1615282801,
+                  "upvotes": 4,
+                  "replies": {}
+                },
+                "gqblwis": {
+                  "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqblwis/",
+                  "text": "If this is a common practice in OPs lab the work then the PIs work is likely to be the highlight... you might need a pseudonym",
+                  "author": "Acrobatic_Future_412",
+                  "created": 1615294373,
+                  "upvotes": 1,
+                  "replies": {}
+                },
+                "gqbnhe6": {
+                  "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbnhe6/",
+                  "text": "This",
+                  "author": "quohr",
+                  "created": 1615295369,
+                  "upvotes": 0,
+                  "replies": {}
+                }
+              }
+            },
+            "gqavjny": {
+              "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqavjny/",
+              "text": ">  they only care about quantity, not quality\n\nIf they care about quantity, why would they commit misconduct? I mean, the only reason to even be tempted to fudge data is to get into a better journal. To claim that something exist where really there's nothing. (And then hope that you die before the building built on this \"finding\" comes down haha) But if you only want to publish, if only quantity matters, you can as well publish negative results. It is totally possible to publish negative results; these papers will get fewer citations, sure, but at least they will be consistently reliable.\n\nMy understanding (from Retraction Watch) that it is usually so called \"fancy labs\" with alarmingly brilliant non-intuitive findings that burn the brightest when misconduct is found. While honest to God incremental work remains. No?",
+              "author": "ampanmdagaba",
+              "created": 1615271040,
+              "upvotes": 16,
+              "replies": {
+                "gqbf8fo": {
+                  "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbf8fo/",
+                  "text": "Surprising findings are more heavily scrutinised. It could be the base rate of misconduct is similar.",
+                  "author": "0bAtomHeart",
+                  "created": 1615289512,
+                  "upvotes": 7,
+                  "replies": {
+                    "gqeu1g6": {
+                      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqeu1g6/",
+                      "text": "Maybe, but most probably it's also regression to the mean. Outliers are more likely to be fudged, so journals that collect outliers are cursed. While normal honest science is mostly doing fine :) If you are not afraid to say that you don't know something, or that your experiment didn't work, it's a huge boost to your confidence, and thus to your honesty.",
+                      "author": "ampanmdagaba",
+                      "created": 1615349729,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "gqbsmpa": {
+              "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbsmpa/",
+              "text": "> My field is deep learning. In my short experience I noticed that most papers are just noise, they are never replicated, and even if they are nobody ever questions their validity. That's why I said that the probability is low. Maybe in other fields it's different.\n\nComing from a field adjacent to deep learning / AI / ML (of course, those fields try to encroach on everything, so everything is kind of adjacent)....\n\nThis is a *massive* problem with some problematic details unique to your field. You could be the change you want to see -- be critical, point out flaws, document them and publish them. There are a handful of AI researchers that specialize in \"fooling\" the algorithms; have you considered this approach?",
+              "author": "Overunderrated",
+              "created": 1615298261,
+              "upvotes": 6,
+              "replies": {
+                "gqcifo3": {
+                  "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqcifo3/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1615308860,
+                  "upvotes": 2,
+                  "replies": {
+                    "gqcwt61": {
+                      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqcwt61/",
+                      "text": "This is also a massive issue in my area, applying deep learning/ML to EEG analysis. So many details are missed making replication impossible, and when I highlight that other papers, who got better results than mine, had poor methodologies that led to overfitting, the reviewers ignore this and just say 'they got x accuracy, your results mean nothing unless you get better'.",
+                      "author": "curious__cath",
+                      "created": 1615315164,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gqaw4ha": {
+          "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqaw4ha/",
+          "text": "> Take a look at Retraction Watch\n\nMeh, it started in an interesting way to look at egregious fraud. Now they take pleasure in bullying who got one irb module wrong",
+          "author": "lucaxx85",
+          "created": 1615271524,
+          "upvotes": 11,
+          "replies": {}
+        }
+      }
+    },
+    "gq9xsl3": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gq9xsl3/",
+      "text": "First off, one year is a pretty small amount of time. Especially so, when you're a first year. Identifying gaps in literature and getting an intuition for promising directions takes time. Your workflow will improve and you will get better.  These are things you're expected to learn during your PhD. If you were already good at it, why bother with a PhD?\n\nPerhaps it would also help to remind yourself why you're doing a PhD to begin with: surely to make **real** progress on the frontier? You may get a paper out of doing sketchy things,  but what progress would you have truly made? Moreover, if the community fails to reproduce your work, it might not even get cited much or worse, get cited for the wrong reasons, so what's the point?\n\nIn my field, unfortunately, cherry picking is all too common and work that is good can get rejected since comparisons will be with respect to previous cherry picked results. One work around (for example) is that in the paper, you can report \"cherry picked\" numbers (e.g. upto 10% better), while the appendix reports the complete results. This way you're not handicapping yourself but also not compromising on integrity.",
+      "author": "HateMyself_FML",
+      "created": 1615250656,
+      "upvotes": 55,
+      "replies": {}
+    },
+    "gqam8lw": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqam8lw/",
+      "text": "To be honest you should be reporting the obvious manipulation .",
+      "author": "LerkinAround",
+      "created": 1615264383,
+      "upvotes": 35,
+      "replies": {}
+    },
+    "gqat6o4": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqat6o4/",
+      "text": "I actually love the relief that variability of data sometimes brings, and am not tempted to fudge numbers because of that. \n\nWhen my PI is disappointed that my data wasn\u2019t significant/world changing....guess what? \n\nIt is what it is. \n\nThe data speaks for itself, not for me, and it is not a reflection of my quality of work or worth as a person. As long as the science was good, the methods were good, and the approach was good, I can walk away happy. \n\nNegative data is still data. (And it\u2019s important to steer your work in the right direction, rather than allowing yourself to follow false leads. Keep at it, keep your practices clean, and don\u2019t worry about not having pubs in your first year. You\u2019ll get there!) \n\nOh... and report research misconduct. Always. Those practices do not benefit anyone in the end.",
+      "author": "BiologyPhDHopeful",
+      "created": 1615269157,
+      "upvotes": 33,
+      "replies": {}
+    },
+    "gqaoopn": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqaoopn/",
+      "text": "For me, one of the best feelings in research is not publishing a paper but finding out that someone else was able to replicate your findings from your publication.  You'll sleep better at night and will have a longer career if you only publish solid results.",
+      "author": "Keiterchip",
+      "created": 1615265977,
+      "upvotes": 28,
+      "replies": {}
+    },
+    "gq9zb4x": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gq9zb4x/",
+      "text": "Keep your eye on the ball: you came to learn, not to publish.",
+      "author": "diagana1",
+      "created": 1615251491,
+      "upvotes": 31,
+      "replies": {
+        "gqb1usj": {
+          "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqb1usj/",
+          "text": "Not helpful if OP has a paper requirement.",
+          "author": "goatsnboots",
+          "created": 1615276588,
+          "upvotes": 14,
+          "replies": {}
+        }
+      }
+    },
+    "gqa69zx": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqa69zx/",
+      "text": "You are in your second year and worried because you have no publications? Relax. That\u2019s normal. \n\nAnd if you are seeing misconduct everywhere than either you are seeing things or there is a serious problem with the lab you are in. I\u2019m sure it happens, but I do not believe it is rampant in most universities. As the Research Integrity Officer for my university, I can tell you that accusations of research misconduct are exceedingly rare, and very few are found to be accurate.\n\nI have personally never been tempted to fudge my results. In addition to having Integrity, I\u2019m too interested in the research and the stakes are too low. If you want to cheat, do it at something that actually pays. \n\nCheating at science has to be the stupidest decision ever. You work your ass off for so little and then risk it all for almost no gain, only to work your way into jobs you are now unqualified for. Woohoo!",
+      "author": "bigrottentuna",
+      "created": 1615255307,
+      "upvotes": 36,
+      "replies": {}
+    },
+    "gqaho32": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqaho32/",
+      "text": "It's not uncommon for PhD students to not have any publication 1+ year into their study. After all, the process of doing literature review, forming ideas, setting up experiments, etc. does take a long time. \n\nTo answer your question, I think it depends on what you mean by 'scientific misconduct'. I know people who cherry pick their data but they have always been able to come up with explanations to justify their action so it's fine I guess. If you're talking about straight up fudging your data then I would never do it because some where down the line it will come back and bite me. For example, maybe the fake data works fine for my current work but probably won't work at all in my future work and then I will have to come up with more BS to explain why they won't work. Imo the potential downfall and and repercussions outweigh the short term gains.",
+      "author": "SubcooledBoiling",
+      "created": 1615261631,
+      "upvotes": 17,
+      "replies": {
+        "gqaymgf": {
+          "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqaymgf/",
+          "text": ">I know people who cherry pick their data but they have always been able to come up with explanations to justify their action so it's fine I guess\n\nThis actually gave me a wry smile.  It is the discriminator between \"science\" and \"fraud\".  You can do what the hell you want with your data - so long as you clearly state what you did.  Delete 10 data points?  Fraud.  Delete ten data points from the analysis while giving an explanation WHY those data points were deleted?  Science.",
+          "author": "Life_time_learner",
+          "created": 1615273678,
+          "upvotes": 20,
+          "replies": {
+            "gqbahr1": {
+              "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbahr1/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1615285135,
+              "upvotes": 6,
+              "replies": {
+                "gqbcktj": {
+                  "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbcktj/",
+                  "text": "Did not necessarily say it was \"good science\".  However, despite some people getting bent out of shape by p-hacking, it is not without its place.  Point being, describe what you did, fully and completely, and let others work out the value of it.  It is the undescribed manipulations that eat at the core of science, the outright fraud and fabrication, not the less than elegant handling of datasets that is fully detailed.",
+                  "author": "Life_time_learner",
+                  "created": 1615287117,
+                  "upvotes": 3,
+                  "replies": {
+                    "gqbs16v": {
+                      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbs16v/",
+                      "text": "Plus, it's both trivially easy and exceptionally common for reviewers *and* other academics in general to criticise the explanations. By explaining why you omitted a data point, you're drawing attention to it and really inviting the experts to dispute your decision. They *love* nitpicking that stuff and they'll never pass up the opportunity if they can articulate any reason against it.\n\nIn the world of simulations we regularly discard massive chunks of data as the norm, because those chunks are right at the start and contain no information that's relevant or physically valid. And yet no one, not even the top experts around the world, ever disputes this practice because it is justifiable.",
+                      "author": "officially_anxious",
+                      "created": 1615297944,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gqapw6x": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqapw6x/",
+      "text": "I had no publications until the very end of my fourth year. I didn't collect a single data point worth publishing until the end of my third year. I ended with 6 publications. There's a mix of luck and preparation. Be prepared for when the opportunity reveals itself.",
+      "author": "BrokenMirror",
+      "created": 1615266800,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "gqa5v05": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqa5v05/",
+      "text": "Don't do it. God, I don't even want to submit a revision of my dissertation project to the IRB but I know I have to, even though the revision is probably the least ethically fraught part of the entire project,",
+      "author": null,
+      "created": 1615255075,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "gqamoni": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqamoni/",
+      "text": "In any job with pressure, there are opportunities to stretch/break ethics. Importantly, there are two different sets of ethics: the first is your career\u2019s ethic (e.g., scientific integrity in your case), the second is your own personal set of ethics. And also importantly, there is a third shadow set of ethics\u2014ethics a community has crafted. The shadow ethics are the trickiest I think, because they may disregard the career ethics. They are justified by the community because of the pressure or because everyone else is doing \u201cX\u201d and it\u2019s impossible to get ahead if you don\u2019t circumnavigate the career ethics. \n\nAn excellent example is doping in sports. Think of the doping scandal in bicycling. It was almost impossible to win races if you weren\u2019t doping because everyone was doping. So there are very real consequences to not going along with things, but equally, there are very real consequences if you are caught. (Lance Armstrong anyone? What a fall.)\n\nSo yes, there will always be opportunities to cheat...in academia or any other job. Only you can decide what is most important to you (your personal ethics). At the end of the day, would you feel better about yourself if you cut corners and got ahead (gaining a future position is most important) or would you feel better if you did things according to stated ethics and didn\u2019t get ahead (playing by the rules is most important).  Ideally, the ideal situation is where you don\u2019t have such a stark choice. It can not be overstated that having people with shared goals and ethics around you is the best scenario. Less temptation, more support. \n\nMaybe you aren\u2019t in the right field for you. Or you aren\u2019t in the right place. These are hard questions. \n\nI\u2019ve always said to my PhD students that I was surprised by how I had to ACTIVELY monitor my decisions and actions to make sure I was staying true to my own set of ethics.",
+      "author": "bentdaisy",
+      "created": 1615264666,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gqbjz14": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbjz14/",
+      "text": "I\u2019m loving these \u201cif you see something you should report it\u201d folks on this thread.  I worked at an R1 for my thesis work and did some computational work beside my experimental work while recovering from a broken arm.  I was taking a class taught by my PI\u2019s collaborator and he went off on me about the computational work because of how sloppy it was, but I told him my PI was telling me to do it this way (and she was notorious for retaliating against students who questioned her).  His response? He told me I should do it anyway, and risk losing my job.  Sounds great right?  Well, when I brought it up at the next meeting he was at, he just sat there quietly and refused to bring up any of his objections to the research.  And this was a pretty common game for him - he\u2019d chide graduate students for not standing up to their PIs but wasn\u2019t going to stand up to the PIs himself, and surely wasn\u2019t going to back the students.  The apologists will say he had politics to worry about but even with tenure his attitude didn\u2019t change.  And he kept collaborating even though it came out she had a student fake most of his thesis and she didn\u2019t pull the papers, which probably had a lot to do with her bankrolling his graduate students.  After 4 years of that nonsense I sent a packet of documents to the DOE and had my PI charged with grant misappropriation, then transferred to another institution to finish up my work. She\u2019s still at the university despite loosing $500k to the feds, and the collaborator is still enjoying tenure despite being part of the grant and its many questionable activities.  \n\nSo to address your question, yes it happens a lot and the publish or perish mentality of academia drives it. PIs want to publish and tend to look away from even obvious flaws if it means supporting the narrative of a grant or research program.  The graduate students are at the mercy of their PIs and have little recourse if their PI is pressuring them into compromising their integrity, which I think drives a fair share of it. You can look at it two ways.  One: it\u2019s rampant so it doesn\u2019t matter what you do, so just fake it so you make it.  Two; it\u2019s so rampant so it doesn\u2019t matter what you do, so you should keep yourself clean and do the right thing. I\u2019d personally advocate for the latter - it\u2019s a real problem with higher education and there\u2019s no sense in you contributing to the problem, plus you never know who\u2019s documenting the behavior.",
+      "author": "smstewart1",
+      "created": 1615293090,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gqb7eqq": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqb7eqq/",
+      "text": "If you notice fraud, it should be reported. End of discussion.\n  \nEdit: really makes me curious what institution OP is coming from.",
+      "author": "GalacticCreature",
+      "created": 1615282068,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gqb0l7p": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqb0l7p/",
+      "text": "Honestly, I understand what you mean. I\u2019ve never made up anything or cherry-picked, but it would be so easy to hide. I\u2019m the only person who handles my raw data (which by itself is an issue, but we\u2019re understaffed so I don\u2019t have anyone who is blinded to double-check). Ultimately though I would rather drop out of my program than falsify results. It goes completely against everything I started my PhD for. However, there is temptation which comes from 1. my PI needing positive data to survive and get funding, 2. pressure from my program to be \u201c\u201dsuccessful\u201d\u201d which of course means having your hypotheses always work out, and 3. indirect pressure from fellowship applications because it\u2019s real rough to justify spending 1.5 years on a project that ended up not working out. It feels like I\u2019m never going to survive in academia because I had the misfortune of having my null hypotheses turn out to be true.",
+      "author": "sparlena",
+      "created": 1615275418,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gqb7qta": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqb7qta/",
+      "text": ">I started my Ph.D. more than one year ago and I still have no publications.\n\nDon't put so much pressure on yourself that you expect to have numerous publications within one year of your PhD. That's madness.",
+      "author": "01010100111011011011",
+      "created": 1615282402,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gqay9nq": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqay9nq/",
+      "text": "I didn't published anything in the first 3 year. In my last year + the subsequent postdoc, I got 3 papers out. It's just the way that the results start to make sense in the end. I graduated, as well.\n\nI've always put integrity first and foremost. To increase the publication count and play this game, we try to publish data descriptors where we make all the raw data available. I absolutely do not want my papers get retracted because someone run analysis through the data I made available make some noise.\n\nIt's just not worth it.",
+      "author": "SmirkingImperialist",
+      "created": 1615273367,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gqb20jv": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqb20jv/",
+      "text": "This is an interesting read on a reputable lecturer who got caught.\n\nhttps://www.nytimes.com/2013/04/28/magazine/diederik-stapels-audacious-academic-fraud.html?pagewanted=all&_r=0",
+      "author": "Sarnaie",
+      "created": 1615276738,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gqaji9v": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqaji9v/",
+      "text": "Short answer, no.\nA supportive supervisor and research group makes it easier. Academic integrity is not just about preserving scientific principles but also about preserving your own ass. Academic misconduct can be death sentence. Scientific world is pretty serious about data manipulation. \nMost of my PhD, I was the single student of my prof. It would be extremely easy to manipulate whatever data I wanted. But, remember, lies come back and bite you in the ass.\nSomeone will eventually want to replicate or use your work. It could be some random researcher somewhere, or a new Phd joining your group.\nDon't dig a hole for yourself with cherry picking or manipulating data.\nIf something is not working out as it should, take a step back and reconsider fine details of your research.",
+      "author": "stdoggy",
+      "created": 1615262712,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gqb38xp": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqb38xp/",
+      "text": "No. I find that publishing the unexpected, or the boring, can actually be rewarding - often, you use it to further science, maybe in a way you didn't plan, but you can still contribute. My best work came out of this kind of stuff.  Also during my PhD. \n\nAs much as we want it to be, science is not the stuff that you can plan - you need to be able adjust your expectations, or even do u-turns, if you want to be successful. Be inventive, curious, persistent. Use failures to learn about the system you're studying. A failure tells you something. Use that to your advantage.",
+      "author": "25limes",
+      "created": 1615277909,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqb4ydg": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqb4ydg/",
+      "text": "The thing about Academia is that it has been plauged with keeping up publications. Without any publication you don't have value. Just for a publication people will tweak the results for their own benfit. Not realising that in the lomg run it will harm everyone",
+      "author": "Noidea337",
+      "created": 1615279577,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqb8jx2": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqb8jx2/",
+      "text": "1 year in and no paper? Wow, in our lab it is most common to achieve your first 1st authorship in like year ...3? Of course every field is different but publishing noise for quantity seems like a waste of resources and also won't give you any citations. However, publishing a solid negative result should definitely be encouraged. I agree with the poster above who said write a review/opinion piece about the problem of reproducing results in your field!",
+      "author": "Sensitivity81percent",
+      "created": 1615283219,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqbbgmz": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbbgmz/",
+      "text": "I mean do you want your phd to actually have a tangible meaning that can be applied to reality someday?\nIf yes then keep your integrity, if no, get ready to start your meaningless career.",
+      "author": "riduser",
+      "created": 1615286056,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqbhoob": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbhoob/",
+      "text": "In every lab the tone is set at the top. An expectation of integrity by the PI should be obvious and clear.",
+      "author": "bubbatechy",
+      "created": 1615291469,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqbmsnp": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbmsnp/",
+      "text": "You are not \"failing\" your PhD unless you start doing unethical things to get ahead. That's not science - that's failing. Become a good scientist. To do so you must know when results are bad as well as what you need to do to make better studies to improve those results. I don't know your field of study but you shouldn't have to create journal worthy work in your first year! That's insane.",
+      "author": "guitarelf",
+      "created": 1615294939,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqbn1ry": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbn1ry/",
+      "text": "Not tempting at all. I'm not in your position, my PhD was ok, but my postdoc ... I travelled to another country, the project didn't work, the group was definitely fudging the results, the boss was unethical in every way including making behind the scenes deals with journals and was pressuring me to publish garbage which he'd push through the system with help from an editor. It was a nightmare. \n\nIn the end I quit, I burnt bridges, I wasted my time and money, at the time I honestly thought my career was dead but at least I could say I kept my integrity. \n\nNot long after I got a job offer from a much better group and everything is going much more smoothly. \n\nI don't know your circumstances but I'd advise against it. \nBesides your only a year an a bit in. I know lots of people who only started publishing 2 to 3 years in. It took time to find the right angle, develop the right foundation etc, once they did they started publishing just fine.",
+      "author": "Photoelectron",
+      "created": 1615295099,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqbqj8y": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbqj8y/",
+      "text": "This is a controversial statement. \n\nIt takes intelligence or hard work to be a person of integrity.",
+      "author": "api1729",
+      "created": 1615297138,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqbsyc0": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbsyc0/",
+      "text": "Frankly, in my field (physical chemistry) it would be considered very impressive or just lucky if any second year had produced a publication from their graduate research already. Not having one until the third or fourth year isn't abnormal.\n\nDon't go down this road. It catches up with people. It may get you through a PhD in a sufficiently toxic group/department, but if you ever try to go anywhere else for research (academia or industry) you're coming to be useless without making shit up, and all it takes is one colleague to catch you. Which they will after no one can properly make sense of or reproduce your work.\n\n\nI'd consider trying to find a different advisor and changing labs if you feel you're being pushed to compromise your ethics. If there are no honest professors at your school, then get outta there. Master out and see if you can pick up somewhere else.",
+      "author": "tangentc",
+      "created": 1615298428,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqbume9": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbume9/",
+      "text": "Ok, Regarding the \"cheating\", nobody (or almost nobody) is going to plain cheat or invent data, but a lot of people would, lets say tweak, some parts of the data, i have seen that a lot, and it doesn't usually ends well, either because the whole lie falls down whenever some reviewer asks for a control or analysis, or even worse, after publication and then you have to retract a paper or being cited as \"in the past we use to believe X but our research shows Y\".\n\nThe shity advisor/PI, yeah, usually it doesn't get better with time, perhaps you can just change the PI or have a co-supervisor. I don't have the best relationship with my PI, but i was lucky enough to have a good couple of coworkers that make the everyday a little bit easier.  \n\n\nHope it helps, it might sound stupid, but i found that sometimes venting its really good, so if you want to vent and let it out, the subreddit is here for ya",
+      "author": "fmessore",
+      "created": 1615299298,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gqbjtyi": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbjtyi/",
+      "text": "What country are you based in? I've never had any issues but I assume this could be a \"western privilege\" situation where I've not had the pressure to need to.",
+      "author": "Broric",
+      "created": 1615293000,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "gqbn2fk": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbn2fk/",
+      "text": "First, sounds like you need to change your research area if you\u2019re finding nothing.  Do make sure you\u2019re not being overly conservative in your analyses, but don\u2019t step into the \u201cfake it\u201d arena.\n\n\nAs technology advances, it gets easier and easier to detect fraud.  Further, more and more journals require data to be either posted publicly or made available on request.  That will only increase with time as journals modernize to online formats.  \n\n\nStart reading the best papers in your field.  Use those people (not your stupid lab mates) as role models.  What was the most important paper published in your field in each of the last 3 years?  How did the authors think differently?  Approach the problems in a unique way?  Were any of the authors similar or from the same group(s)?  \n\n\nYou can even request a meeting with one of them at an upcoming conference.  Tell them you\u2019re struggling with your data and would like an outside perspective.  Ask them how they come up with ideas, how they approach problems.  A lot of people in academia have ego, so you have that going for you.\n\n\nFinally, I hate to say it because it brings perfectionists who never publish anything out of the woodwork, but focus on quality.  Your lab mates are publishing crap.  What kind of journals are they getting into?  Focus on doing better work, even if it takes longer, and getting into higher impact journals.",
+      "author": "Depressaccount",
+      "created": 1615295111,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "gqbs43z": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqbs43z/",
+      "text": "It's weird that you expect to have a publication after starting the PhD just one year ago, and that you think you're failing your PhD because you don't have one. Is new grad students pumping out pubs the moment they matriculate normal in your field? Is somebody of any rank taking a pub from start to finish in 365 days normal? Where I'm at, even people with completed doctorates will take several years to gather and clean the data, design the model, test, tweak, write the paper, plus 6+ months of journal submissions and peer review. To me your expectations seem unrealistic.",
+      "author": "thegreenaquarium",
+      "created": 1615297989,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "gqby1u5": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqby1u5/",
+      "text": "I think it\u2019s admirable that you have some integrity! So many people today don\u2019t and ( like you said publish noise). I\u2019m crossing my fingers for you to keep on keeping on! I am currently trying to figure out a good program myself, and can respect the hard work it takes just to get in... So thinking some bully may take your hard work away from you... I hope he doesn\u2019t . I hope you find a way to fight the good fight and maybe you can apply to change advisors or something!Good luck, and I hope you are able to have the chance you worked hard for to get.",
+      "author": "Neandertalensisnut",
+      "created": 1615300969,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "gqc56hz": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqc56hz/",
+      "text": "I recently moved to industry, and my scientific integrity has been challenged constantly. No one else seems to understand why the nuances are so important to me. I'm starting to question if I'm fit for the job...",
+      "author": "Priuz7",
+      "created": 1615303905,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "gqc7dbv": {
+      "link": "/r/AskAcademia/comments/m0tyhx/be_honest_do_you_find_it_hard_to_keep_your/gqc7dbv/",
+      "text": "No",
+      "author": "DaddysPrincesss26",
+      "created": 1615304747,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

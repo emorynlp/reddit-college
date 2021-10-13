@@ -1,0 +1,1635 @@
+{
+  "sid": "pma430",
+  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/",
+  "title:": "Why do academics never respond to \"strangers\"",
+  "text": "I have been a PhD candidate in CS, and specifically in the field of signal processing and computer vision, for about two years now. Every time me and my supervisor hit a wall, when studying on a publication, we would try to communicate with a paper's authors, to provide us with some insight on things that aren't stated properly. \n\nSome days ago, we sent an email to the authors of a specific paper that provided figures but no actuall numbers. We asked for their experimental results (mostly the numbers) and/or any implementations IF available of course. We justified this because we are in the process of publishing and would like to compare and cite said authors. Our thought process would be to make a fair comparrison and not support our claims only on our implementations that follow their guidelines.\n\nThe first author is a PhD student as I understood, with two scientific publications and one of them having some citations. As I see it, another citation should be more than welcome, or at least that's just how I would feel. But two weeks later, there is no response, not even a \"thank you but no thank you\" email.\n\nThis is no news for us. We came across this \"silent treatment\" many times in the span of two years. But I still believed that it was just situational. I don't think that these emails were offensive in any way. I tried to be as reasonable and respectful as possible. So is this what you guys have to face as well or is it just me? Is this a thing?\n\ntl;dr : We never get a response from people that we inquire about their work in academia, even when we intend to compare and cite and clearly state it.",
+  "author": "lordstoned2",
+  "created": 1631376431,
+  "updated": 1634079266,
+  "over_18": false,
+  "upvotes": 111,
+  "upvote_ratio": 0.74,
+  "comments": {
+    "hcg6evo": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcg6evo/",
+      "text": "Time, and email overload.",
+      "author": "IntLawprof",
+      "created": 1631376745,
+      "upvotes": 144,
+      "replies": {
+        "hchdpys": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchdpys/",
+          "text": "Ya, this is right. I can barely get my colleagues to respond to my own emails that I send them for things that directly impact our students, especially in the peak parts of semester.",
+          "author": "CharlamagneTheDog",
+          "created": 1631395214,
+          "upvotes": 35,
+          "replies": {}
+        },
+        "hck7pwe": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hck7pwe/",
+          "text": "The amount of \"we would like to have you present at our unknown conference because of your amazing work with (insert full name of article you published)\" I get is absurd",
+          "author": "rodrigovaz",
+          "created": 1631453929,
+          "upvotes": 8,
+          "replies": {}
+        }
+      }
+    },
+    "hcg8qvv": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcg8qvv/",
+      "text": "Rather than assume malice, some other explanations: \n- the institutional email listed on the publication is from their prior appointment and they no longer have access to that email (if I email my old email it acts like it goes through and doesn't send a bounce back message)\n- your emails may be getting caught in their junk/spam filter and people don't always check their junk/spam inbox\n- the way you word your email's subject line may read like spam and they delete it without opening it because of past experiences (spam looks like subject: about publication name body: dear sir/madam, I read your article and have some questions like *will you submit to our predatory journal* so it may preview the same as your email even if you have a legitimate request after what their email client previews) \n- you could be emailing the author that doesn't have access to the data anymore and they forward it to the other author who is the one not responding (I've had to do this with some questions about data from publications with my PI in grad school, it's his data not mine)\n- They may not want to respond\n\nSo many possible reasons.",
+      "author": "apple-jacks",
+      "created": 1631377776,
+      "upvotes": 274,
+      "replies": {
+        "hcgg9bm": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgg9bm/",
+          "text": "The first reason, from my experience, is very common. I contacted an author before in a paper that was 5 years ago, no response, then contacted again using their new paper, and I got my luck.",
+          "author": "AerysSk",
+          "created": 1631381025,
+          "upvotes": 79,
+          "replies": {
+            "hchtnf3": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchtnf3/",
+              "text": "That's why I try to always use my own non-institutional e-mail address whenever possible. Most institutions have a policy to remove any e-mail address and personal space of leaving personnel, seemingly as to avoid unauthorized intrusions.\n\nI always find it surprising when I encounter some journals that require an institutional e-mail, because that's the perfect recipe to ensure that the corresponding author will not be reachable in a few years down the road. Academic publications should be made to endure the test of time, that's why we have DOI, citations formats, and other permanent notation standards. But e-mails practices aren't yet up to that quality standard.",
+              "author": "lrq3000",
+              "created": 1631401937,
+              "upvotes": 19,
+              "replies": {
+                "hcj4luc": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcj4luc/",
+                  "text": "And this is why all academics should register for a free [ORCID iD](https://orcid.org/) \u2014 the equivalent of a DOI for a human. Then keep your email updated on your ORCID profile, and make sure to ALWAYS include your ORCID iD all over the place \u2014 your email sig, all your published work, your presentations. Everywhere. Super simple, and it also means that you, John Smith, will never again be mistaken for the thousands of other John Smiths that are publishing journal articles in your field. It also means that all the different forms of your name that you foolishly used on different papers (J. E. Smith, John E. Smith, J. Edward Smith, etc.) will still resolve to the same person: your own unique self. Finally, it supports people through name changes because of marriage, divorce, and other life changes. I don\u2019t understand why EVERY person engaged in scholarly publishing does not have an ORCID iD.",
+                  "author": "reffervescent",
+                  "created": 1631425672,
+                  "upvotes": 32,
+                  "replies": {
+                    "hcji070": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcji070/",
+                      "text": "In Spain now you have to register an ORCID to do a PhD thesis. At least I had to do for the grant I have received.",
+                      "author": "Jetpere",
+                      "created": 1631435901,
+                      "upvotes": 9,
+                      "replies": {
+                        "hclpo9q": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hclpo9q/",
+                          "text": "I believe most U.S. federal funders (e.g., NIH, CDC) now require an ORCID iD, and many publishers do as well. I work at an academic library in Atlanta, GA, and our IT group is incorporating it into the university\u2019s central identity management system. The other thing that\u2019s great about it is that the ORCID organization is not for profit, so we aren\u2019t lining the pockets yet again of the bloated big publishers (which are really becoming big data comapnies) such as Elsevier.",
+                          "author": "reffervescent",
+                          "created": 1631476333,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hcu7qyj": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcu7qyj/",
+              "text": "Well, it's also that if the question is about a paper from a couple of years ago, the material is less fresh on one's mind, and it'll take longer to answer an in-depth question than if it was for a recent paper.",
+              "author": "mleok",
+              "created": 1631637777,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hchddm3": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchddm3/",
+          "text": "And it\u2019s also still summer break in many places. A lot of people will be organising things for the upcoming semester and a few days isn\u2019t very long to wait for a response. It could take them a few weeks, especially if they\u2019re on holiday.",
+          "author": "officially_anxious",
+          "created": 1631395076,
+          "upvotes": 21,
+          "replies": {}
+        },
+        "hcgyg9x": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgyg9x/",
+          "text": "Another reason to add... We've been in a f\\*\\*\\*ing pandemic for the last two years and everyone is a bit overwhelmed. One of the first things to cut out to keep your head above water is to not respond to any emails you don't have to.\n\nOne crazy idea you might try... pick up the phone and call their office number.",
+          "author": "narwhal_",
+          "created": 1631388826,
+          "upvotes": 87,
+          "replies": {
+            "hckzjxs": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hckzjxs/",
+              "text": "OP's issues aside, do non-admin types actually pick up their office phones? I know a good chunk of faculty in my department didn't setup phone call forwarding when transitioning to WFH and don't publically post their office numbers, anyway.",
+              "author": "aggressive-teaspoon",
+              "created": 1631466215,
+              "upvotes": 3,
+              "replies": {
+                "hcld194": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcld194/",
+                  "text": "some don't and some do. Like I said, if he was desperate, it's worth a shot. Also reaching out to the department secretary is often helpful.",
+                  "author": "narwhal_",
+                  "created": 1631471412,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "hcha61t": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcha61t/",
+              "text": "As someone who's currently living in Europe, it doesn't sound right of me calling someone from the USA",
+              "author": "lordstoned2",
+              "created": 1631393742,
+              "upvotes": -35,
+              "replies": {
+                "hchscjp": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchscjp/",
+                  "text": "As a European living in Europe, yes.",
+                  "author": "imaginesomethinwitty",
+                  "created": 1631401352,
+                  "upvotes": 27,
+                  "replies": {}
+                },
+                "hchxasf": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchxasf/",
+                  "text": "We have phones in Europe... And depending on your time zone and theirs, possibly some overlapping core business hours. And if there is no overlap, well you're asking for a favour, so it wouldn't kill you to call them in the evening your time to get them mid morning their time.",
+                  "author": "Honestaltly",
+                  "created": 1631403608,
+                  "upvotes": 23,
+                  "replies": {}
+                },
+                "hchmfmm": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchmfmm/",
+                  "text": "God damn, why are grad students some of the snippiest zealots of some weird-ass form of science dogma.  Relax my dude. People, including scientists, are human.",
+                  "author": "yakiguriumai",
+                  "created": 1631398835,
+                  "upvotes": 50,
+                  "replies": {}
+                },
+                "hchbckl": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchbckl/",
+                  "text": "Why not?  You might spend a few Euro (etc.) for the call but that's certainly available for the data you're pursuing, yeah?",
+                  "author": "Steven_G_Photos",
+                  "created": 1631394229,
+                  "upvotes": 25,
+                  "replies": {
+                    "hchcqd4": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchcqd4/",
+                      "text": "No not really. Typically professors or authors in the field hand out their email address and not their phone number. Or atleast the authors that I personally had to look up for their contact information.",
+                      "author": "lordstoned2",
+                      "created": 1631394803,
+                      "upvotes": -14,
+                      "replies": {
+                        "hchdx7a": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchdx7a/",
+                          "text": "If I may say, respectfully after reading your other responses in this thread, you're practically looking for reasons to fail here.  Show some initiative - phone numbers honestly aren't hard to find.  Nor are LinkedIn contacts.  You don't seem particularly inclined to actually get what you're looking for, and instead just keep throwing up obstacles to every good idea that's put your way.",
+                          "author": "Steven_G_Photos",
+                          "created": 1631395299,
+                          "upvotes": 65,
+                          "replies": {
+                            "hckrmd5": {
+                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hckrmd5/",
+                              "text": "LinkedIn is actually a nice place to find people. I managed to get some nice data from an old paper that was not publicly available by contacting the first author on LinkedIn (senior author abreast retired!). Bonus: I had a nice chat with her about other topics.\n\nCalling can be more intimidating and bad connection + different accents can be a barrier. But it's definitely the fastest way.",
+                              "author": "EGCCM",
+                              "created": 1631462875,
+                              "upvotes": 3,
+                              "replies": {}
+                            },
+                            "hck5f1w": {
+                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hck5f1w/",
+                              "text": "Sounds like he just wanted to bitch and not solve his problems.",
+                              "author": "PM_YOUR_CLIT",
+                              "created": 1631452737,
+                              "upvotes": 4,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hciduom": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hciduom/",
+          "text": "It\u2019s also the start of the semester and they may already be buried in more pressing matters they have to attend to before getting to the collegial thing that won\u2019t accrue to any short or medium term benefit. By the time they get around to it, they may think too much time has gone by for you to care anymore",
+          "author": "Rizzpooch",
+          "created": 1631411483,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "hchwm3q": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchwm3q/",
+          "text": "To add - I still have access to my past institutional email address, but I don't log into it regularly. Every time I do I have a few thousand emails to sort.",
+          "author": "AFK_MIA",
+          "created": 1631403291,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hcgsl8z": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgsl8z/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1631386284,
+      "upvotes": 96,
+      "replies": {
+        "hcgubz5": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgubz5/",
+          "text": "Sharing the results that you claim on the publication is NOT \"significant unpaid labor\". This is academia, not capitalism.",
+          "author": "lordstoned2",
+          "created": 1631387057,
+          "upvotes": -56,
+          "replies": {
+            "hcgwfeo": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgwfeo/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1631387959,
+              "upvotes": 76,
+              "replies": {
+                "hcgwo24": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgwo24/",
+                  "text": "[removed]",
+                  "author": null,
+                  "created": 1631388059,
+                  "upvotes": -21,
+                  "replies": {
+                    "hcgx96y": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgx96y/",
+                      "text": "[deleted]",
+                      "author": null,
+                      "created": 1631388308,
+                      "upvotes": 76,
+                      "replies": {
+                        "hcgxr9n": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgxr9n/",
+                          "text": "As I said in a same comment, internet anonymity brings out my bad self. But for sure  I don't email people with this attitude. Hate me all you want, I'm not saying anything unreasonable.",
+                          "author": "lordstoned2",
+                          "created": 1631388526,
+                          "upvotes": -24,
+                          "replies": {
+                            "hcgya9c": {
+                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgya9c/",
+                              "text": "[deleted]",
+                              "author": null,
+                              "created": 1631388755,
+                              "upvotes": 43,
+                              "replies": {
+                                "hcgykd2": {
+                                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgykd2/",
+                                  "text": "Whatever, if you are offended it's fine. I am not crazy, I would never mail someone about anything, with my name on the bottom and not be polite about it.",
+                                  "author": "lordstoned2",
+                                  "created": 1631388874,
+                                  "upvotes": -9,
+                                  "replies": {
+                                    "hcgyvo7": {
+                                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgyvo7/",
+                                      "text": "[deleted]",
+                                      "author": null,
+                                      "created": 1631389009,
+                                      "upvotes": 40,
+                                      "replies": {
+                                        "hcgzbo4": {
+                                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgzbo4/",
+                                          "text": "If you are offended, I am not sorry, really, but know it wasn't my intention. \n\nAll the best",
+                                          "author": "lordstoned2",
+                                          "created": 1631389195,
+                                          "upvotes": -5,
+                                          "replies": {
+                                            "hch56qx": {
+                                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch56qx/",
+                                              "text": "Look, I'm offended on their behalf. And do you know what, it rarely happens to me or my students that people never reply back. You may think your self-centered personality is not coming through in your emails. But the fact that you report that people never reply to you suggest otherwise.",
+                                              "author": "WhoMeNoMe",
+                                              "created": 1631391655,
+                                              "upvotes": 26,
+                                              "replies": {
+                                                "hch9gmf": {
+                                                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch9gmf/",
+                                                  "text": "Sure my personality comes through in a 1-2 paragraph mail that goes through my supervisor's edits.",
+                                                  "author": "lordstoned2",
+                                                  "created": 1631393442,
+                                                  "upvotes": 0,
+                                                  "replies": {
+                                                    "hchiy43": {
+                                                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchiy43/",
+                                                      "text": "Your supervisor may also have an abrasive personality.\n\nI know most of my inquiries to other researchers get a response, and I reply to as many as I can if they seem aimed with good intent.\n\nI'll also say I don't know what country you're coming from, but my institution does have rules about some countries where we're not allowed to directly correspond with. I'm also pretty reluctant to talk to people asking technical questions from generic email services (gmail, yahoo, msn, etc) since I assume they're foreign nationals from countries I'm not supposed to correspond with.",
+                                                      "author": "racinreaver",
+                                                      "created": 1631397378,
+                                                      "upvotes": 13,
+                                                      "replies": {
+                                                        "hchja5o": {
+                                                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchja5o/",
+                                                          "text": "No no, all mails were sent from my institution's email address. Maybe the prestige of the institution makes a difference? I don't know",
+                                                          "author": "lordstoned2",
+                                                          "created": 1631397520,
+                                                          "upvotes": 1,
+                                                          "replies": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            },
+                                            "hchfyhp": {
+                                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchfyhp/",
+                                              "text": "You want them to help you when you say to them that their work \u201cis not stated properly\u201d? That\u2019s a criticism right there.",
+                                              "author": "DntfrgtTheMotorCity",
+                                              "created": 1631396146,
+                                              "upvotes": 15,
+                                              "replies": {
+                                                "hchgi19": {
+                                                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchgi19/",
+                                                  "text": "I didn't state it like that on the email ofcourse, I tried being as respectful as possible. I know criticizing someone's publication is not going to get me answers. Also I would never critisize a fellow PhD that is trying to publish his work, just like me.",
+                                                  "author": "lordstoned2",
+                                                  "created": 1631396370,
+                                                  "upvotes": 1,
+                                                  "replies": {}
+                                                }
+                                              }
+                                            },
+                                            "hchvxk9": {
+                                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchvxk9/",
+                                              "text": "reddit moment: being an asshole in your facetious apology",
+                                              "author": "OverlordXenu",
+                                              "created": 1631402982,
+                                              "upvotes": 6,
+                                              "replies": {
+                                                "hchw6zm": {
+                                                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchw6zm/",
+                                                  "text": "Wasn't an apology. Read it again",
+                                                  "author": "lordstoned2",
+                                                  "created": 1631403100,
+                                                  "upvotes": 0,
+                                                  "replies": {}
+                                                }
+                                              }
+                                            },
+                                            "hchgafs": {
+                                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchgafs/",
+                                              "text": "You have between 9-12 grammar or spelling errors just in this post alone.",
+                                              "author": "DntfrgtTheMotorCity",
+                                              "created": 1631396281,
+                                              "upvotes": 8,
+                                              "replies": {
+                                                "hchgpfv": {
+                                                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchgpfv/",
+                                                  "text": "Sounds about right. Again, English is not my native language. Hope it's not a big issue.",
+                                                  "author": "lordstoned2",
+                                                  "created": 1631396456,
+                                                  "upvotes": 2,
+                                                  "replies": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hck48p9": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hck48p9/",
+              "text": "It is definitely significant unpaid labor. Depending on how long ago this paper came out it could take them a long time to locate the correct files and put them together so someone else can understand and send them over. Especially for just a citation. Should they do it? Yes. Is it a priority for them at the beginning of the semester in the pandemic? No.",
+              "author": "UnexpectedGeneticist",
+              "created": 1631452105,
+              "upvotes": 4,
+              "replies": {}
+            },
+            "hcib2ts": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcib2ts/",
+              "text": "Thankfully, everything is capitalism.",
+              "author": "rohanps",
+              "created": 1631410188,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hci45eg": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hci45eg/",
+      "text": "I once answered an email asking about my results, and the person then sent back a million more questions. I honestly did not have time to deal with it. I ignored him, and by the time I was able to respond, it had been so long that it felt more disrespectful to answer his questions then to just ghost him. Oops.",
+      "author": "Winesday_addams",
+      "created": 1631406892,
+      "upvotes": 22,
+      "replies": {}
+    },
+    "hcg80fb": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcg80fb/",
+      "text": "One answer here is email overload. Many academics, especially high-ranking scientists like professors at large universities, simply have too large email volume for them to go through. Communications with colleagues and their labs will obviously take precedence. Sometimes it takes all of the time available.\n\nAnother answer though is that, depending on the type of paper, the academic may not have ready access to send you something on the spot. Combining that with the earlier result, you may just get ignored as there isn't enough time for them to track down the requested information for you and send it.\n\nAlso, not every author on a paper is knowledgeable about every portion of the paper. Especially for large experimental groups, an author may not be able to provide the answer you're asking for at all without a chain of emails to colleagues. This of course depends on the papers you're asking about.\n\nFinally, humans are just lazy sometimes.\n\nAll of these together mean that non-negligible requests (something negligible is asking for a PDF of a publication) may not be answered.",
+      "author": "PrinceWalnut",
+      "created": 1631377447,
+      "upvotes": 73,
+      "replies": {
+        "hcgl1fs": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgl1fs/",
+          "text": "Speaking for my PhD advisor, he was apparently too busy to respond to his grad students asking for quick responses on admin issues or other coauthor professors trying to push through revising and submitting papers. Some random person asking for raw data would have had no chance.",
+          "author": "rakhan1",
+          "created": 1631383067,
+          "upvotes": 41,
+          "replies": {
+            "hchalol": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchalol/",
+              "text": "I didn't ask for \"raw data\". I specifically talked about clarrifications on a specific issue. The authors provide figures without reffering to quantities. I don't understand how something like that passed through peer review.",
+              "author": "lordstoned2",
+              "created": 1631393922,
+              "upvotes": -16,
+              "replies": {
+                "hchhhoh": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchhhoh/",
+                  "text": "You really have a criticism of their work. It\u2019s not that you admire it and want to refer to it. You are trying to refute or embarrass them.",
+                  "author": "DntfrgtTheMotorCity",
+                  "created": 1631396781,
+                  "upvotes": 38,
+                  "replies": {
+                    "hchhri6": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchhri6/",
+                      "text": "No I am not. I am trying to compare my work with theirs. That's how research work on my field of studies. And I want this comparison to be fair. That's why I just dont reproduce my results of their work and call it a day.",
+                      "author": "lordstoned2",
+                      "created": 1631396891,
+                      "upvotes": -2,
+                      "replies": {
+                        "hchhwkk": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchhwkk/",
+                          "text": "You have repeatedly stated that you question their data. Read your own posts.",
+                          "author": "DntfrgtTheMotorCity",
+                          "created": 1631396948,
+                          "upvotes": 29,
+                          "replies": {
+                            "hchimkx": {
+                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchimkx/",
+                              "text": "Oh my. I dont talk about the specific authors. I'm just saying that in general you have to be able to prove your work is valid. Nothing to do with that case though. In that case, all I needed was the scale of the axis of their figures. There are no \"data\" to \"question\".",
+                              "author": "lordstoned2",
+                              "created": 1631397246,
+                              "upvotes": -1,
+                              "replies": {
+                                "hchjka3": {
+                                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchjka3/",
+                                  "text": "\u201cI don\u2019t understand how something like that passed through peer review\u201d.",
+                                  "author": "DntfrgtTheMotorCity",
+                                  "created": 1631397638,
+                                  "upvotes": 27,
+                                  "replies": {
+                                    "hchkg5b": {
+                                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchkg5b/",
+                                      "text": "Yes that reffers to the fact that a comparisson is made without numerical evidence. I'm sure you know reviewers are there to see things like that and comment uppon. A scientific publication can be perfectly fine but get rejected for the same reasons (at the first round of reviews anyway). But that has to do with the quality of the journal or the conference.",
+                                      "author": "lordstoned2",
+                                      "created": 1631398002,
+                                      "upvotes": 4,
+                                      "replies": {
+                                        "hchvd0i": {
+                                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchvd0i/",
+                                          "text": "that's a criticism bud",
+                                          "author": "OverlordXenu",
+                                          "created": 1631402721,
+                                          "upvotes": 22,
+                                          "replies": {
+                                            "hchvtts": {
+                                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchvtts/",
+                                              "text": "[removed]",
+                                              "author": null,
+                                              "created": 1631402935,
+                                              "upvotes": -2,
+                                              "replies": {
+                                                "hchwbw0": {
+                                                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchwbw0/",
+                                                  "text": "lol",
+                                                  "author": "OverlordXenu",
+                                                  "created": 1631403163,
+                                                  "upvotes": 5,
+                                                  "replies": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "hck2giv": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hck2giv/",
+                          "text": "It sounds like you actually do know why they're not responding then! Give it up. Either you're right and it's bad work, or you're not and they're right to ignore you.",
+                          "author": "raspberry-squirrel",
+                          "created": 1631451117,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hch6qbo": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch6qbo/",
+      "text": "You might have better luck if you don't lay out your requests like a list of demands. I know you've said here that you obviously don't speak to the authors the way you are speaking to people here, but given your description of what you're doing I'm not sure that's true. Taking a demanding and entitled tone (whether or not it's justified) is a good way to get no response. Try being friendlier. Mention you're working on something similar, and ask to chat about it, and then make demands on their time after you've got them on the phone. I know you probably feel differently, but strangers owe you nothing, and if you need something from them that takes any amount of time then you'll have to try a different approach. My grandfather always used to say, \"you catch more flies with honey than you do with vinegar.\" If you are getting no responses ever, it's probably partly your approach. Remember you are talking to humans, not google, and you might not get instant, detailed responses - especially to long emails.",
+      "author": "miniry",
+      "created": 1631392308,
+      "upvotes": 74,
+      "replies": {
+        "hcihaxa": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcihaxa/",
+          "text": "Thank goodness someone said this.",
+          "author": "Unfair_Finger5531",
+          "created": 1631413130,
+          "upvotes": 13,
+          "replies": {}
+        },
+        "hch8tp9": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch8tp9/",
+          "text": "I don't know what to tell you about the first part of your response. You have the right to have your opinion about me or believe that I write shitty emails, it's ok. My emails are (heavily) edited by my supervisor though. I have a lot of respect for that man. You have reasons to think little of me, but not of him, so.. The tone of the mails is within the boundaries of what you are suggesting anyway. I don't believe that is the issue..",
+          "author": "lordstoned2",
+          "created": 1631393180,
+          "upvotes": -19,
+          "replies": {
+            "hchb2lv": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchb2lv/",
+              "text": "I don't think little about either of you, I think nothing of you. What a weird way to take offense - email writing is a skill, not a character quality. If you are sending a cold email with a big ask to a stranger, and coming off yourself as a cold, aloof, demanding stranger, you are probably not going to get very far. Annoying a stranger is not a good way to get them to do you a professional favor, and that's what you're asking for - a favor. It may be a big favor, depending on their circumstances. If your approach isn't working, you'll either have to change it, or do without the data. Most people like talking about their research, and most people like helping others. I almost never have trouble getting a response from an academic I don't know, but I also treat people like they are human and don't throw a big ask in an intro email. If you aren't getting responses at all, it's probably something you are doing, but if you want to keep thinking it's everyone else who is the problem go right ahead. I just don't see the harm in trying a different approach, especially if a response is that important to your work. I would make the effort for my own work.",
+              "author": "miniry",
+              "created": 1631394114,
+              "upvotes": 48,
+              "replies": {
+                "hchcibb": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchcibb/",
+                  "text": "I am telling you that the emails I have sent are indeed within your suggested guidelines, but you insist that I am sending cold emails with big asks, or annoying strangers or see myself as the victim. (I specify on my post the issue. Does it seem like a big ask to you? ) You don't suppose it has to do with the field or with the published work (whether it's a good journal or conference etc). You supposed it  has to do with the emails. Like others suggested before starting to downvote. Thats a little biased I think.",
+                  "author": "lordstoned2",
+                  "created": 1631394711,
+                  "upvotes": -13,
+                  "replies": {
+                    "hchdn4w": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchdn4w/",
+                      "text": "Yes, asking a stranger for their data and  implementations, especially given that you say things aren't stated properly and that attitude is probably coming across to the recipient in some way, does sound like a big ask. Not a big ask of a friend or close colleague, but a big ask of a stranger. You can be reasonable and respectful and that still won't be enough to get strangers to do you a favor. People like doing things for nice people, and you don't sound very nice, from this limited interaction here. Maybe your emails are very different, though.",
+                      "author": "miniry",
+                      "created": 1631395182,
+                      "upvotes": 37,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hcgx23g": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgx23g/",
+      "text": "Based on your attitude I think I might know the reason that nobody is replying to you",
+      "author": "my_stupidquestions",
+      "created": 1631388225,
+      "upvotes": 70,
+      "replies": {
+        "hcgxlry": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgxlry/",
+          "text": "Hate me all you want, I dont think I'm saying something unreasonable",
+          "author": "lordstoned2",
+          "created": 1631388460,
+          "upvotes": -18,
+          "replies": {
+            "hcgxsi6": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgxsi6/",
+              "text": "Oh, no trust me, I don't doubt at all that nobody responds to you",
+              "author": "my_stupidquestions",
+              "created": 1631388541,
+              "upvotes": 39,
+              "replies": {
+                "hcgy6j8": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgy6j8/",
+                  "text": "If you want to take it (and make it) personal it's fine by me, really. I asked my question here and I understand better now. People dont care, that's why they don't reply. They put more time to prove they don't care on reddit, than to respect their published work",
+                  "author": "lordstoned2",
+                  "created": 1631388712,
+                  "upvotes": 0,
+                  "replies": {
+                    "hcgzo3n": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgzo3n/",
+                      "text": "If that\u2019s your takeaway, then you either didn\u2019t understand what people here have said or you\u2019re willfully ignoring them and believing what you wanted to in the first place.",
+                      "author": "BandiriaTraveler",
+                      "created": 1631389339,
+                      "upvotes": 51,
+                      "replies": {
+                        "hch0p6e": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch0p6e/",
+                          "text": "I understood just fine, but people stoped responding in essense to this question and just straight up say I am an asshole on my mails. I know I come out as an asshole on this post, but just because I think something is wrong and I am vocal about it, that doesn't mean I am disrespectful towards people to which I try to communicate with about their research.",
+                          "author": "lordstoned2",
+                          "created": 1631389768,
+                          "upvotes": -1,
+                          "replies": {
+                            "hch20r7": {
+                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch20r7/",
+                              "text": "I think the right response showed up early in the discussion: They don\u2019t respond because it\u2019s a low priority and they already have more than they have the time to do as is. People were mostly annoyed at your dismissal of this sort of response.",
+                              "author": "BandiriaTraveler",
+                              "created": 1631390331,
+                              "upvotes": 47,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "hcgy9rn": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgy9rn/",
+                      "text": "Mmhmm. Good luck.",
+                      "author": "my_stupidquestions",
+                      "created": 1631388749,
+                      "upvotes": 5,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hcglzdx": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcglzdx/",
+      "text": "Oh shoot, I just got a researcher query last week, flagged it as important in my emails, started my reply, then got called away to do 8,000 other things. My reply has been sitting in drafts ever since.",
+      "author": null,
+      "created": 1631383473,
+      "upvotes": 46,
+      "replies": {
+        "hcguhqg": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcguhqg/",
+          "text": "DUDE!",
+          "author": "lordstoned2",
+          "created": 1631387128,
+          "upvotes": -21,
+          "replies": {
+            "hch39e3": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch39e3/",
+              "text": "I KNOW. It\u2019s so easy to forget about these things sometimes.",
+              "author": null,
+              "created": 1631390844,
+              "upvotes": 11,
+              "replies": {}
+            },
+            "hcjlqsy": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjlqsy/",
+              "text": "why is this being downvoted so much? Looks like a friendly banter!",
+              "author": "phiupan",
+              "created": 1631438976,
+              "upvotes": 2,
+              "replies": {
+                "hcjq11v": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjq11v/",
+                  "text": "Just because of the way OP has reacted in the rest of their replies.",
+                  "author": "sesquiup",
+                  "created": 1631442459,
+                  "upvotes": 10,
+                  "replies": {
+                    "hcjrule": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjrule/",
+                      "text": "In this post there are 158 comments and half of those are mine because I tried to reply to everyone. On some ocassions I called out some people which lead to mass downvotes. I stand behind my commnets. Still it's fine, this is not a social media, I am not here to score social points. If you wanna be an asshole, I can be a worse asshole.",
+                      "author": "lordstoned2",
+                      "created": 1631443926,
+                      "upvotes": -2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hcgg246": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgg246/",
+      "text": "Some academics do. I somehow managed to get a response from Chomsky early on in grad school (not a long one, but still a nice gesture). \n\nBut between students, colleagues, university announcements, safety alerts, university presses pushing textbooks, new article alerts, conference calls, phishing attempts, and so on, we barely have time to respond to the essential emails, let alone all of them. \n\nI tend to respond first to the essential emails that can be responded to in a couple sentences, pushing inessential, more demanding emails to the back burner. This has a tendency to keep happening day after day until it passes the point where it feels pointless to respond and the email gets archived. Inessential emails that require a time investment to respond to are mostly doomed.",
+      "author": "BandiriaTraveler",
+      "created": 1631380940,
+      "upvotes": 41,
+      "replies": {
+        "hch0aq3": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch0aq3/",
+          "text": "Chomsky consistently responds to emails. Even relatively asinine ones.",
+          "author": "pacific_plywood",
+          "created": 1631389599,
+          "upvotes": 17,
+          "replies": {
+            "hch1cph": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch1cph/",
+              "text": "I hope that mine was not an asinine one haha.",
+              "author": "BandiriaTraveler",
+              "created": 1631390042,
+              "upvotes": 10,
+              "replies": {
+                "hch4hhv": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch4hhv/",
+                  "text": "Couldn't be worse than some of the pop-culture/meme questions people send his way\n\nhttps://twitter.com/jessicayutweets/status/1201668716112441344",
+                  "author": "pacific_plywood",
+                  "created": 1631391361,
+                  "upvotes": 11,
+                  "replies": {
+                    "hch59kz": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch59kz/",
+                      "text": "Oof, ok yeah, nothing that bad. It was early in my time in grad school and I was focusing on philosophy of language at the time. I emailed and asked him if he thought there was still any contribution philosophers could make to the study of language, or if it was all just a job for linguistics now. He replied and said philosophy is where the truly interesting questions are and recommended I look into Pietroski\u2019s work.",
+                      "author": "BandiriaTraveler",
+                      "created": 1631391688,
+                      "upvotes": 10,
+                      "replies": {}
+                    },
+                    "hchn3kl": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchn3kl/",
+                      "text": "Chomsky lectured about Cambridge Analytica a full year before it became public, and this garbage is what he has to put up with?",
+                      "author": "gergasi",
+                      "created": 1631399107,
+                      "upvotes": 4,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hcguqqo": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcguqqo/",
+          "text": "I dont understand what field of research you guys work in, where you consider sharing the results you publish as time investing chores!",
+          "author": "lordstoned2",
+          "created": 1631387236,
+          "upvotes": -34,
+          "replies": {
+            "hcgz1r0": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgz1r0/",
+              "text": "It\u2019s not that it\u2019s a chore. It\u2019s that we work 60 hours weeks as is and responding to people who are not our students, colleagues, and other people we have professional and personal obligations towards is low on the list of things to do. There isn\u2019t enough time to do what we need to do as is, let alone stuff we may want to do but can\u2019t find the time for.",
+              "author": "BandiriaTraveler",
+              "created": 1631389080,
+              "upvotes": 54,
+              "replies": {
+                "hck7pde": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hck7pde/",
+                  "text": "I\u2019m a post doc, and today I learned no one writes email to me hahahaha.\n\nI probably get a few mails a week, my group uses mostly slack.",
+                  "author": "quemacuenta",
+                  "created": 1631453922,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "hcgz37t": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgz37t/",
+              "text": "just reading, thinking about ,and answering emails is a chore, no matter the field.",
+              "author": "doornroosje",
+              "created": 1631389098,
+              "upvotes": 29,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hcihhw2": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcihhw2/",
+      "text": "When I get emails like this, I put them aside, tbh.  I get exhausted just thinking about the work someone I don\u2019t know is asking me to do for them.  I just don\u2019t have the time.",
+      "author": "Unfair_Finger5531",
+      "created": 1631413220,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "hcgqtgb": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgqtgb/",
+      "text": "This isn't a small ask if they don't already have data prepped to share.",
+      "author": "mediocre-spice",
+      "created": 1631385536,
+      "upvotes": 35,
+      "replies": {
+        "hcgugal": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgugal/",
+          "text": "Then why did they state those results on the publication? How can you publish something you don't have?",
+          "author": "lordstoned2",
+          "created": 1631387110,
+          "upvotes": -12,
+          "replies": {
+            "hcgxxwb": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgxxwb/",
+              "text": "So I am personally an open science and replication person myself and do answer these as often as I can, but I have some thoughts here. \n\nFirst, your assumption that all scholars expect to provide their data is wrong. In many fields that is not the expectation at all or norms are only recently changing. That might mean your request is a lot of work even if the data is sitting in front of me, which it probably isn\u2019t. For instance, My crappy looking un annotated code that works well might not be understandable to others. So Even if I have the code sitting in front of me I might have to do a lot of work to make it nice to send to you. Since I don\u2019t know you or what you\u2019re doing with it, I\u2019d assume it would need to look good. If it\u2019s been several years, that code could be on a random computer in a random drawer or god knows where and I have to look at it and figure out what it even means myself again because it\u2019s been so long and I write many papers.\n\nSecond, my relationship with my funders, my coauthors or my IRB might preclude me from sending it to you at all or significantly delay my response. I simply can\u2019t share some of my data because it is sensitive and confidential. Some of my data has to be destroyed after a certain period of time. Sometimes I don\u2019t control the repo and only one author or data custodian does. Etc etc. \n\nThird, I get a tidal wave of emails every day and sometimes lose track of something even though I really am trying. Among these emails are dozens of requests for prospective student meetings, high school student homework\u2019s, data, volunteering and all manner of things. Sometimes I\u2019m stretched so thin that I struggle to balance the students I teach, the students I mentor, and the colleagues I promised things, so stuff slips through the cracks. \n\nFourth, I almost definitely changed emails and institutions so probably didn\u2019t see your request. Worth giving the author a google to find their new place. I\u2019ve run into this problem trying to recruit speakers and whatnot, not just papers. \n\nWhat I would prefer (n=1) when someone asks for my data is to 1) check to see if it\u2019s in my GitHub or hosted by the journal already 2) be nice (or at least not mean) in the request 3) have the request be reasonable (that is, providing data is often reasonable but running new complicated models for you is likely not - and people ask), 4) go ahead and give it a follow up, especially if your original request was at the start of a semester or right during grading period for finals.\n\nEdit to add: so I don\u2019t think it\u2019s wrong at all to ask, and I think people generally should give their data, but also just know there\u2019s things that make it more complicated than just a quick email.",
+              "author": "EpicDestroyer52",
+              "created": 1631388606,
+              "upvotes": 59,
+              "replies": {
+                "hch3t3m": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch3t3m/",
+                  "text": "This is a brilliant reply. If I may add to it: Fifth, there is the possibility that I am using that code for another paper. Sharing the new version, may give away unpublished results.",
+                  "author": "RecklessCoding",
+                  "created": 1631391077,
+                  "upvotes": 34,
+                  "replies": {
+                    "hch83g4": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch83g4/",
+                      "text": "YEP. I also often ask my graduate students (who are of course authors on the main paper as well) if they would like to use the data for anything published on their own.\n\n&#x200B;\n\nETA: I often get around this by giving specific figure replication code and the data extract needed to replicate the figure rather and than the entire dataset - if there are any folks out there reading who might find that strategy useful too!",
+                      "author": "EpicDestroyer52",
+                      "created": 1631392873,
+                      "upvotes": 12,
+                      "replies": {
+                        "hcjdvp3": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjdvp3/",
+                          "text": "It is a good strategy and can work well in some fields. \n\nIn the case of OP's field, where I did pre-doc research a lifetime ago, datasets can actually be contributions on their own. In other words, you can publish a dataset with an accompanying paper (usually at decent venues) and a DOI. Giving away parts of them may damage a future publication of the whole dataset. In the case of ML approaches used in Computer Vision, selecting data is impossible and you need to send the whole dataset for reproduction. \n\nHaving said that, I am happy to see more and more publication venues requesting the data for validation during peer review and, subsequent, publication alongside the manuscript.",
+                          "author": "RecklessCoding",
+                          "created": 1631432510,
+                          "upvotes": 5,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hcgvx0s": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgvx0s/",
+              "text": "Having it and being able to run the analyses yourself doesn't mean it's organized, formatted properly, preprocessing and analysis code is commented, etc to make it easy for someone else to use. Certain data types need additional deidentification in order to share beyond the original researchers. I always do it but it's a hassle so the reality is people just don't.",
+              "author": "mediocre-spice",
+              "created": 1631387739,
+              "upvotes": 44,
+              "replies": {
+                "hcgwc3s": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgwc3s/",
+                  "text": "Ok I agree, what you are saying is \"my code is a mess but I know how it works\". I respect that, that's litteraly me. But you have to have the results somehow. You can't just make stuff up.  I am talking about metrics.",
+                  "author": "lordstoned2",
+                  "created": 1631387920,
+                  "upvotes": -3,
+                  "replies": {
+                    "hcgwjvf": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgwjvf/",
+                      "text": "No one is making anything up. They just aren't putting in the effort to organize it and send it to people cold emailing.",
+                      "author": "mediocre-spice",
+                      "created": 1631388011,
+                      "upvotes": 42,
+                      "replies": {
+                        "hcgx6t3": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgx6t3/",
+                          "text": "How do you know noone is making up results if you can't confirm them. I understand what you are saying, I'm just saying it's wrong",
+                          "author": "lordstoned2",
+                          "created": 1631388280,
+                          "upvotes": 0,
+                          "replies": {
+                            "hcgy34z": {
+                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgy34z/",
+                              "text": "I mean, you can think it's wrong all you want, but this is what's happening and why you aren't getting responses.\n\nSome of this is also IRB restrictions. Participant privacy comes before anything else in some situations and you just have to trust other researchers.",
+                              "author": "mediocre-spice",
+                              "created": 1631388670,
+                              "upvotes": 32,
+                              "replies": {
+                                "hcgyzha": {
+                                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgyzha/",
+                                  "text": "Yes IRB I get it, we have research like that which we cannot share data without consent from anyone (or everyone) involved. But I'm not talking about that situation. Yes I do think it's wrong. Too bad",
+                                  "author": "lordstoned2",
+                                  "created": 1631389054,
+                                  "upvotes": 2,
+                                  "replies": {
+                                    "hcgzdvg": {
+                                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgzdvg/",
+                                      "text": "How do you know it's not that situation? You don't know what their IRB says.",
+                                      "author": "mediocre-spice",
+                                      "created": 1631389221,
+                                      "upvotes": 11,
+                                      "replies": {
+                                        "hcgzi9y": {
+                                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgzi9y/",
+                                          "text": "Not clinical studies friend. Neural networks with public datasets.",
+                                          "author": "lordstoned2",
+                                          "created": 1631389272,
+                                          "upvotes": -1,
+                                          "replies": {
+                                            "hcgzp73": {
+                                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgzp73/",
+                                              "text": "I'm starting to get why people are not eager to help you.",
+                                              "author": "mediocre-spice",
+                                              "created": 1631389351,
+                                              "upvotes": 26,
+                                              "replies": {
+                                                "hch01r9": {
+                                                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch01r9/",
+                                                  "text": "Is this another personal attack or you just a comment about the field of research? I don't get it anymore",
+                                                  "author": "lordstoned2",
+                                                  "created": 1631389495,
+                                                  "upvotes": -4,
+                                                  "replies": {
+                                                    "hchgpu4": {
+                                                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchgpu4/",
+                                                      "text": "[removed]",
+                                                      "author": null,
+                                                      "created": 1631396460,
+                                                      "upvotes": 11,
+                                                      "replies": {
+                                                        "hchgwyt": {
+                                                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchgwyt/",
+                                                          "text": "I don't know how to respond to this. Sure..",
+                                                          "author": "lordstoned2",
+                                                          "created": 1631396543,
+                                                          "upvotes": -1,
+                                                          "replies": {}
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hch92re": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch92re/",
+      "text": "Academic here. I definitely do respond, frequently, to strangers -- students at all levels from across the world, journalists, and other academics..I see that as a core part of my job. \n\nIt's gotten me into some very weird situations -- a student stole my work! -- but as a general rule, I always try and help people.",
+      "author": "mattlodder",
+      "created": 1631393284,
+      "upvotes": 21,
+      "replies": {
+        "hchbcjh": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchbcjh/",
+          "text": "Stealing someone's work seems so low. Damn!  At least I inquire about published work, so I hope it doesn't come through as sus! :)",
+          "author": "lordstoned2",
+          "created": 1631394229,
+          "upvotes": -1,
+          "replies": {
+            "hck30gm": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hck30gm/",
+              "text": "As someone who's had unpublished work stolen, I know how careful you have to be. They may be publishing more with that data.",
+              "author": "raspberry-squirrel",
+              "created": 1631451430,
+              "upvotes": 4,
+              "replies": {}
+            },
+            "hcu8e29": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcu8e29/",
+              "text": "There are instances of people passing previously published work as their own, which would be particularly easy in your field if you had access to their code.",
+              "author": "mleok",
+              "created": 1631638035,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hcij5f0": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcij5f0/",
+      "text": "I would love to respond to questions about my research. I am, however, trying to muster the energy to do my actual work or blowing my brains out. Could be a similar situation. Could be that it a phd student with no authority and doesn\u2019t feel comfortable responding, or it could be a dead email. Several reasons other than them ignoring you.",
+      "author": "bigfuds",
+      "created": 1631414001,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hcjgd1o": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjgd1o/",
+      "text": "I\u2019m having career woes. I contact an academic at a top US university. She not only replied in 5 minutes, we had an hour long meeting, she gave sterling advice and also rescheduled when it turned out my boss double booked my time!\n\nAnother academic I reached out to in Paris just blanked me.\n\nIt\u2019s a mixed bag as are all things in life.",
+      "author": "ImeldasManolos",
+      "created": 1631434550,
+      "upvotes": 8,
+      "replies": {
+        "hcjk0pf": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjk0pf/",
+          "text": "Funny story. The only person that ever responded to me, was an Italian professor, which shared his data, gave me his implementations, instructions etc, while  had only asked a simple question. Seemed really friendly and eager to help but came out a bit weird. After a while I found out tha this professor was called out from some other academics in their publications due to the fact that he and his fellow co-authors got blindsighted by some faulty methodology and some \"unexpectedly\" good results which resulted in a chain of publications on their behalf.",
+          "author": "lordstoned2",
+          "created": 1631437564,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "hcjkiyn": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjkiyn/",
+      "text": "I suspect several things are at play: \n1) what you\u2019re asking for is effortful (finding data / scripts; making them understandable to someone not part of the team etc.)\n2) you\u2019re likely to have follow-up questions and to be a \u201ctime sink\u201d\n3) it\u2019s a bad time of year (start of semester etc.)\n4) your communication (based on this thread) doesn\u2019t come across well. Given this and the fact you\u2019re a student, you seem like \u201chard work\u201d, which most profs won\u2019t want to get involved with. I take your point that you\u2019re ESL, but that doesn\u2019t change people wanting to avoid hard work.\n\nMy suggestion:\nAsk your supervisor/ advisor to contact the person (via email) again in a few weeks, once the start of term madness has calmed down. \n\nI wish you luck, but also, there\u2019s no point in getting wound up about this. It\u2019ll happen a lot in your career, even once you\u2019re established.",
+      "author": "teaching_troubles",
+      "created": 1631437998,
+      "upvotes": 7,
+      "replies": {
+        "hcu8t1e": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcu8t1e/",
+          "text": "Yes, the problem with providing code is that they then tend to follow up with questions about how to run the code which take a lot of time to answer. With students, I also worry that they'll try to pass of my work as their own to their advisor.",
+          "author": "mleok",
+          "created": 1631638200,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hcjr5i0": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjr5i0/",
+          "text": "Generally I agree and can see how these things can lead to a no response situation. But I'll try to adress each point based on my personal interactions, the ones that lead me to make this post.  \n\n\n(Also sorry for the long response.)  \n\n\n1. During this time period of 2 years, I have tried to contact (corresponding) authors on queries about dataset availability, architectural details (like number of layers, kernel sizes etc, my focus on my phd revolves around neural networks), or questions about the numerical results (some results where not disclosed, but the paper stated that the proposed technique was \"better\" than other state-of-the-art techniques in the litterature without actual comparissons of the two, just with bar graphs and no scale). These queries are what I consider easy to reply to, since if a dataset is not available, then one can take the time and respond, saying \"Hey, we are not ready or we dont want to release the dataset, not yet or ever\" (Actually one lab did respond this to us, when asked, not for my PhD but for a research project I was working on). Or when someone proposes an architecture, such details are important. A convolutional layer's kernel size or the padding that is used, defines the layer's output, so I don't see why someone would omit such information. And for numerical results, well, this is why your paper is published, at least on my field. Because your technique works better or solves faster a specific problem. In my opinion these things should be straightforward, and it's also the reviewer's responsibility to not allow papers be published with missing results, especially when said results concern the main attributes of the proposed technique.  \n\n2.   My personal queries, or as I seemed to understand at that time, didn't really need any followup clarrifications. I undestand that this is kind of subjective and the authors don't always see it that way, or they might think that by responding they might fall into a long email chain pit. But personally I tried being as much reasonable and comprehensive as possible. I tried asking for things that if a random person would ask of me for my personal work, I would take the time to respond, and not consider it a chore (like some people suggested on this thread).  \n\n3. No comment here, most mails I think were sent not on a very bad time, but for the last one I sent, definitely a bad time of the year. I was so absorbed by the upcoming publication that I didn't even consider this as an issue. That's on me!  \n\n4. I've said it before somewhere in the comments. All my mails went through the edits and got the green light from my supervisor, which does this work for 20+ years now and is well respected in the community. So, don't let my bad temper and foul mouth lead you to any wrong conclusions. Also I know that when you ask people for anything, you better be polite about it or else you won't get anything out of them.",
+          "author": "lordstoned2",
+          "created": 1631443373,
+          "upvotes": -5,
+          "replies": {}
+        }
+      }
+    },
+    "hchynz8": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchynz8/",
+      "text": "A number of comment threads in this post have devolved into insults and sniping. Please remember our code of conduct and adhere to it. Otherwise we'll have to lock/remove the post, which would be a shame because there is some good discussion here as well.\n\nIf it seems like someone is trying to start an argument with you (as opposed to raising an on-topic and respectful point of disagreement) then just ignore them. If they say something that breaks the sub rules, please do report their comment.",
+      "author": "foibleShmoible",
+      "created": 1631404250,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "hci00c1": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hci00c1/",
+      "text": "You have been told the same thing in so many different ways by so many different people it\u2019s almost a peer reviewed response to what you are doing wrong. \n\nJust use some of these suggestions and good luck.",
+      "author": "paleguy90",
+      "created": 1631404890,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "hckgwna": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hckgwna/",
+      "text": "In my PhD (molecular biochemistry and biophysics) I came across a paper that I thought could have launched a project on my end: the original authors were cell biologists, whereas I wanted to try a more in vitro biochemistry study from a different angle. I politely asked for a reagent, just a plasmid with DNA encoding the protein that I know they had since it was clearly stated in Methods. \n\nI received a prompt email saying that they would happily send me the physical reagent free of charge. The corresponding author, a pretty famous and mature researcher, was excited that someone had seen and read their publication, and that it spurred new hypotheses and experiments. Sending me the plasmid required someone to go into their archive, get an aliquot, and make a shipping label; not hard, but not nothing, and they didn\u2019t really \u201chave to\u201d do this for me. (There are some NIH guidelines that say you \u201cshould\u201d share reagents for collegiality, but it\u2019s not reported or enforced or anything.)\n\nIn this case, I AM:\n- extending their hypotheses, in a natural way\n- using orthogonal techniques from theirs\n- requesting something I know they have on hand\n- doing the work on my end\n- being nice :)\n\nIn my case, I am NOT:\n- questioning their results\n- asking for some piece of data not originally in the publication \u2014 peer review exists for a reason\n- trying to publish my own competing analysis\n- telling them that my future citation of their paper is part of \u201cthe deal\u201d (this is the grossest part btw\u2014assuming that the citation from you is worth the effort of compiling anything)\n- making an assumption about who the authors are, and their motivations; maybe the first author graduated and doesn\u2019t care about your citation, nor this project anymore \n\nIf you are not receiving replies, there are many reasons why this might be, but only a few options left for you in the end.\n\nSimply state in your publication that the original data/values were not available in the manuscript, so you can\u2019t compare in the precise, perfect way you want to. Nevertheless, if you are a critical thinker and can come up with some \u201creasonable\u201d value, maybe that\u2019s enough. I know many fields are different, but even the fact that you want to be this specific about a comparison suggests that your own results may not stand on their own, as it were. I\u2019d be mortified if my own work relied on the extremely precise comparison with others\u2019 work, down to whatever starting value another group used.",
+      "author": "limcommachris",
+      "created": 1631458143,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hch2itf": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch2itf/",
+      "text": "There's a huge difference between being able to \"back up\" your results vs having an easily replicatable standalone dataset/code ready to go for anyone who wants it.\n\nThere's often multiple steps in analysis. Sometimes those steps need to be ran on a HPC/cluster and code is specific to that HPC. Sometimes it's non-trivial to setup (yourself, let alone for someone else on a system you have no idea about). Sometimes there's non-public datasets used that someone wanting to replicate would need to obtain permission themselves from a 3rd party as you're not allowed to distribute them. There's tons of reasons why it's non-trivial to help.\n\nHaving said that, I've put in tons of effort helping people who've emailed me politely to understand and replicate the science I've done (rewriting and providing code, making huge datasets available in a simplified format, etc). That effort has often rewarded itself, e.g. it's led to future collaborations, co-authorship on papers, spotting a bug in my own work, etc.\n\nIf you're being constantly ignored, there's something more going on. Either your field is far less collaborative than mine or you're not asking in the right way. Maybe post an example of how and what you're asking?",
+      "author": "Broric",
+      "created": 1631390545,
+      "upvotes": 25,
+      "replies": {
+        "hch7789": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch7789/",
+          "text": "To be specific, many of the publications I've inquired about are not published in the most reputable journals, I wouldn't like to point fingers or anything but that's that, so I guess some of the authors don't feel confident enough to respond. As far as the way that I ask, me and my supervisor take our time to write up our questions, just for that reason, so we dont come out too demanding or anything. I don't trust myself to send an email that my supervisor hasn't reviewed. And the man is a good professor and scholar. He has been doing what he is doing for many years with much success, so I trust him. I don't think it's the way we are asking",
+          "author": "lordstoned2",
+          "created": 1631392502,
+          "upvotes": -9,
+          "replies": {
+            "hcihm1c": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcihm1c/",
+              "text": "\u201cDon\u2019t feel confident enough to respond.\u201d  Okay.  Keep telling yourself that.",
+              "author": "Unfair_Finger5531",
+              "created": 1631413272,
+              "upvotes": 10,
+              "replies": {}
+            },
+            "hclitc1": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hclitc1/",
+              "text": "Maybe turn the question around. When people email you asking for similar help, how much effort do you put in to responding to them?",
+              "author": "Broric",
+              "created": 1631473660,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hchn23q": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchn23q/",
+      "text": "They don't even answer who they know",
+      "author": "CondePizzato",
+      "created": 1631399090,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hcj9nlt": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcj9nlt/",
+      "text": "Coming from an industry. I approached papers authors in multiple fields as a complete stranger and always got a response. \nThe requests usually included ask for an additional data that wasn\u2019t included in the publication or a question related to the research. It was always part of preparing or validating investment thesis for a startup or a corporate venture. \nUsually, the request provided some kind of opportunity for the researcher (sometimes to get 100x data points or advisory opportunity).",
+      "author": "Im_just_running",
+      "created": 1631429273,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hcjdyt2": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjdyt2/",
+      "text": "Personally I have had some good experiences with academics replying. When I was doing my PhD I needed some scales/questionnaires that were not available online, so I emailed the original authors of them requesting them for my PhD research.\n\nBoth replied within a few days and were very polite and helpful. And this was to a complete unknown PhD student at a completely different institution with no publications to his name. And of the two academics I emailed, both were/are professors, and both pretty big names in their respective fields too. In fact I think they even replied to me quicker than I have had research advisors from my own institution reply, ha.\n\nIf you are emailing PhD students who are first authors they may have graduated and moved on, and most likely no longer have access to their institutional email address as listed on their publication. I would say try contacting the second author, and waiting a week or two, if that doesn't work then try the third and so on.",
+      "author": "drwarrengphd",
+      "created": 1631432579,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hcheoqo": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcheoqo/",
+      "text": "I don't think you can use anecdotal evidence to claim \"*researchers* *never respond*\". It's a bit like saying \"*girls don't like blond guys*\" because it didn't work out for you last Friday.\n\nLook up their researchgate profile and try contacting them there.",
+      "author": "Belzeturtle",
+      "created": 1631395620,
+      "upvotes": 17,
+      "replies": {
+        "hchfqyb": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchfqyb/",
+          "text": "That is actually good advice. Unfortunately I have tried this aswel! It's not anecdotal though. I am talking about a specific example on my post. I didn't include any more details for the sake of not calling out specific individuals. Maybe it doesn't come through due to my poor choise of words. English is not my native language anyway.",
+          "author": "lordstoned2",
+          "created": 1631396059,
+          "upvotes": 2,
+          "replies": {
+            "hchldd9": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchldd9/",
+              "text": "Generalizing to a whole population based on your individual experiences (what you're doing) is 100% anecdotal.",
+              "author": "Vanden_Boss",
+              "created": 1631398389,
+              "upvotes": 22,
+              "replies": {
+                "hchm9sq": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchm9sq/",
+                  "text": "In my post I provide details about my latest interaction and then I ask if people have come across the same situation.  That's it. My responses to some comments, or as you said \"Generalizing to a whole population based on your individual experiences\" is called my personal opinion. Which I still stand behind. If thats ok",
+                  "author": "lordstoned2",
+                  "created": 1631398768,
+                  "upvotes": 0,
+                  "replies": {
+                    "hchmi7a": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchmi7a/",
+                      "text": "I mean you can have your opinion, but when someone says you are using anecdotal evidence, don't say you're not. \n\nYou also don't ask for opinions on why these specific people may have responded, but said \"Why do academics never respond to emails\" so.",
+                      "author": "Vanden_Boss",
+                      "created": 1631398864,
+                      "upvotes": 18,
+                      "replies": {
+                        "hchn49e": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchn49e/",
+                          "text": "Yeah poor choice of words on the title, you are right. I'm not good with titles. I see what you mean, but if you read the rest of the post, I am asking for the community's experiences, that's all",
+                          "author": "lordstoned2",
+                          "created": 1631399115,
+                          "upvotes": 6,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hcgebzn": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgebzn/",
+      "text": "I barely respond to any email, if that makes your feel better. Not due to any other reason than not feeling like.\n\nI mean, I read the sender and if I know I must reply, I do, but if I don't need to, I just skip it.",
+      "author": "El_Diegote",
+      "created": 1631380194,
+      "upvotes": 21,
+      "replies": {
+        "hcgvdi2": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgvdi2/",
+          "text": "Why would that make me feel better?",
+          "author": "lordstoned2",
+          "created": 1631387508,
+          "upvotes": 1,
+          "replies": {
+            "hch7tk8": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch7tk8/",
+              "text": "Because you would know that it's not you doing anything wrong, that they only respond to people they need to (likely people they know). Some people would feel better to know that it wasn't something they did that caused their email to not get a response, though it doesn't help everyone.",
+              "author": "espardale",
+              "created": 1631392759,
+              "upvotes": 23,
+              "replies": {
+                "hchbi99": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchbi99/",
+                  "text": "Well after all this shitstorm of replies and salt, your response indeed makes me feel better, seriously!",
+                  "author": "lordstoned2",
+                  "created": 1631394293,
+                  "upvotes": 1,
+                  "replies": {
+                    "hchgzr5": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchgzr5/",
+                      "text": "You know many rude words, but not basic grammar, such as \u201che and I\u201d.",
+                      "author": "DntfrgtTheMotorCity",
+                      "created": 1631396575,
+                      "upvotes": 9,
+                      "replies": {
+                        "hchh525": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchh525/",
+                          "text": "That seems unfair but whatever..",
+                          "author": "lordstoned2",
+                          "created": 1631396636,
+                          "upvotes": 3,
+                          "replies": {}
+                        },
+                        "hcibk43": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcibk43/",
+                          "text": "[removed]",
+                          "author": null,
+                          "created": 1631410411,
+                          "upvotes": 1,
+                          "replies": {
+                            "hcihlwp": {
+                              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcihlwp/",
+                              "text": "Do you want help or not. Because your interrogations are obsurd.",
+                              "author": "DntfrgtTheMotorCity",
+                              "created": 1631413270,
+                              "upvotes": 1,
+                              "replies": {
+                                "hck79wg": {
+                                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hck79wg/",
+                                  "text": "\\*absurd.\n\n&#x200B;\n\nYou seem even more like a knob.",
+                                  "author": "rohanps",
+                                  "created": 1631453715,
+                                  "upvotes": -1,
+                                  "replies": {
+                                    "hckxdfl": {
+                                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hckxdfl/",
+                                      "text": "Slayed by a 5 day old account,",
+                                      "author": "DntfrgtTheMotorCity",
+                                      "created": 1631465321,
+                                      "upvotes": 2,
+                                      "replies": {
+                                        "hcojixw": {
+                                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcojixw/",
+                                          "text": "You what?",
+                                          "author": "rohanps",
+                                          "created": 1631534940,
+                                          "upvotes": -1,
+                                          "replies": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hci0olw": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hci0olw/",
+      "text": "I've left academia and have a real job. For a little while, I'd try and respond to all of the folks pestering me about research I did as a post doc. Eventually, I decided that I'm not religious enough about science or the pursuit of human knowledge to provide substantial unpaid labor for zero personal benefit. Citations are basically worthless to me. \n\nNot sure this is the case for you, but people who expect scientists to always be available to defend their work / provide tech support for the rest of their lives because they published a paper once are living in a fantasy world. If it's a problem, you can fix it by offering to pay them market rates for their time and assistance.",
+      "author": "Radiant-Tax",
+      "created": 1631405211,
+      "upvotes": 13,
+      "replies": {}
+    },
+    "hchj4c6": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchj4c6/",
+      "text": "Every phd student I've known is always slow and overwhelmed. It could be that they read the email and forgot to reply. It even have not gotten to the email yet. Or maybe they are malicious, who knows.",
+      "author": "diabolical_diarrhea",
+      "created": 1631397451,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hci9tuv": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hci9tuv/",
+      "text": "Most likely you have bad contact information and or academics are chronically bad at checking email. I would look for other avenues at getting in touch. Email in work environments is often the least effective. I would see if you can contact the lab or school and determine if the individuals are still there and if so see if you can contact the people in charge of the lab etc.. good luck seems like you just have not exhausted the many ways to get in touch with people.",
+      "author": "WeaponizedThought",
+      "created": 1631409603,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hcjfnq4": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjfnq4/",
+      "text": "Academics receive so many emails. I'm not even a lecturer and as a student, I already receive an overwhelming amount of email. We receive an overwhelming amount of internal emails. My priority is to reply to those internal emails. \n\nAlso, believe it or not even full professors are constantly taken advantage of by these unknown scholars asking for more information from them. I just saw a sharing about that in one of my academic circles. I think many academics are wary about these type of emails. If you know anyone in the university that they are in, it is better to contact someone through a referral.\n\nAcademics are tired and facing an overload.",
+      "author": "givemeyourdonut",
+      "created": 1631433953,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hcjrlsp": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjrlsp/",
+      "text": "Was their research grant funded? They may have been required to store their data in a repository open to public access. See if the journal required it and contact the repository directly. Check at the first author\u2019s university to see if they have an institutional repository.",
+      "author": "CardboardChewingGum",
+      "created": 1631443735,
+      "upvotes": 3,
+      "replies": {
+        "hcjvryg": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjvryg/",
+          "text": "The first thing I did was look for any public access directories. The author has a github but doesn't include anything related to that specific publication. Haven't found any institutional repositoty. That's why I eventualy ended up mailing the authors. I tried to avoid it, but I had no other option.",
+          "author": "lordstoned2",
+          "created": 1631446832,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "hck5txe": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hck5txe/",
+      "text": "That's interesting. I only have experience in the humanities, but pretty regularly get a timely answer from working academics in the field. Researchgate paper requests often get ignored but that's it. Want to note that I don't email \"strangers\" often though, so I bet you have a larger sample size.\n\nI have a friend who is a hobbyist philosopher without any academic degree and he often sends questions or arguments to relevant philosophers working in academia today. I've been surprised to notice how often he actually gets replies. It seems much more common than responses to his emails to politicians or other public figures.",
+      "author": "Vkmies",
+      "created": 1631452955,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hckfbjo": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hckfbjo/",
+      "text": "I have occasionally sent emails to academics in the humanities. Usually with an expression of gratitude for their work and a short, specific request (eg help finding an article). I get responses at least half the time. But my requests are generally not going to require a significant time investment from them.",
+      "author": "lapras25",
+      "created": 1631457420,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hckl2xe": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hckl2xe/",
+      "text": "My experience in my line of work (condensed matter physics) is that about 50% of people reply. If it's numbers from a graph you are interested in, this is a nice online tool to get at it: https://apps.automeris.io/wpd/\nRegarding the access to raw data. Recently at the high impact journals (Nature and the like) it is mandatory to have your data accessible on the web, in an open access way. This is good development IMHO.",
+      "author": "zrbit",
+      "created": 1631460005,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hch6er8": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch6er8/",
+      "text": "If I emailed you randomly, would you compile all your work and give it to me?",
+      "author": "ilovemacandcheese",
+      "created": 1631392174,
+      "upvotes": 9,
+      "replies": {
+        "hch8xth": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch8xth/",
+          "text": "I have already. That's what got me my first citations. But what I'm saying is that the specific paper shows figures without reffering to the original values.  It's like saying \"hey our bar is shorter than the others' which is good\" but don't give away their metric value, just a shitty figure",
+          "author": "lordstoned2",
+          "created": 1631393227,
+          "upvotes": -1,
+          "replies": {}
+        }
+      }
+    },
+    "hci638b": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hci638b/",
+      "text": "Would it be worth offering a collaboration and authorship on a joint comparison paper? I feel like if you intend to use their data, it could be worth more than simply a citation. Cultivating collaborations with colleagues is probably more powerful in the long term than simply having a small amount of contact with them. If their data is difficult to package up and share with you, they might balk at the amount of work and/or procrastinate long enough to forget. My husband is a physicist who curates large data sets. He very often shares his data freely, but gets easily frustrated with people who take that for granted (ie no acknowledgements, impatience, etc). As a result, when he asks for data from other people, he most often offers joint authorship as well. Some people turn him down, but as he sees it, having more authors simply increases the possible readership.",
+      "author": "rysau",
+      "created": 1631407840,
+      "upvotes": 4,
+      "replies": {
+        "hci6oa7": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hci6oa7/",
+          "text": "No, it' not exactly that. I don't intend to publish or use their data, I just want to compare my method with theirs on some specific metrics. The authors have created a model, I have created a model and I would like to fairly compare those two. I think people seriously misinterpret what I was originally asking. All I ask is the numerical values of the experiments that they present on their paper. That's all. Or maybe if they don't have that, they can share their pretrained neural network with us and I can go through the hassle. If they don't have that aswell, maybe share the code and let us train it. And by no means publish their code without their consent. That goes without saying. \n\nThat's it. I don't see why people think this is so hard. The paper is also fairly recent.",
+          "author": "lordstoned2",
+          "created": 1631408128,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hcj5kwy": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcj5kwy/",
+      "text": "Because you're not prestigious and nobody's ever heard of you.\n\nMaybe not all academics. But a huge amount",
+      "author": "KayCJones",
+      "created": 1631426345,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hcgcvfa": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgcvfa/",
+      "text": "Many reasons as listed by others. I want to add that calling by phone is more productive if you get an answer, and also more enjoyable for both people. The endless email chain is a chore, a phone call with another voice is enjoyable - at least this is my experience.\n\n&#x200B;\n\nGood luck!",
+      "author": "PeaceAndPrajna",
+      "created": 1631379562,
+      "upvotes": 3,
+      "replies": {
+        "hcgdmb3": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgdmb3/",
+          "text": "FWIW, none of the professors I work with pick up their landline phones because of overload. And they'd be furious if a stranger calls them up on their cell.",
+          "author": null,
+          "created": 1631379883,
+          "upvotes": 27,
+          "replies": {
+            "hcglpq3": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcglpq3/",
+              "text": "Yeah, DO NOT cold call me, you'll likely get voicemail but still",
+              "author": "IntLawprof",
+              "created": 1631383358,
+              "upvotes": 19,
+              "replies": {}
+            }
+          }
+        },
+        "hch438u": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hch438u/",
+          "text": "Someone called me once to ask why I did not reply to their email --sent to me less than 48 hours earlier. It was very awkward and did not leave a good impression.",
+          "author": "RecklessCoding",
+          "created": 1631391195,
+          "upvotes": 7,
+          "replies": {
+            "hcm5pu6": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcm5pu6/",
+              "text": "Haha, yes, asking why you didn't reply doesn't sound like a good approach - and certainly, phone calls are not always better.",
+              "author": "PeaceAndPrajna",
+              "created": 1631482822,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "hchg5rx": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchg5rx/",
+          "text": "I never answer my office phone ever - who knows who it is and what they want ?",
+          "author": "cgknight1",
+          "created": 1631396228,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "hchgc67": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchgc67/",
+          "text": "Totally agree",
+          "author": "Selvadoc",
+          "created": 1631396301,
+          "upvotes": -1,
+          "replies": {}
+        },
+        "hcgvren": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgvren/",
+          "text": "Sir with all due respect, I am talking about foreign authors. Many of them from Europe, America or Asia. Calling them doesn't seem so reasonable",
+          "author": "lordstoned2",
+          "created": 1631387672,
+          "upvotes": -7,
+          "replies": {
+            "hchh4at": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchh4at/",
+              "text": "You do not know the gender of the person you are replying to.",
+              "author": "DntfrgtTheMotorCity",
+              "created": 1631396628,
+              "upvotes": 3,
+              "replies": {
+                "hchhdqh": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchhdqh/",
+                  "text": "I do not. Maybe rushing to reply to all the comments was not a good idea. But still I didn't mean to misgender anyone.",
+                  "author": "lordstoned2",
+                  "created": 1631396736,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hciij1a": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hciij1a/",
+      "text": "I actually want to differ with most commenters here and say that I agree with you. Replicability in many scientific fields is stuck in the 20th century. If you can't make data, code, or really anything available, then you're committing borderline scientific fraud (a handful of extreme counterexamples notwithstanding). If there are IRB restrictions, then say so. If there are code copyright issues, then say so. If there are pending publications that prevent you from fully releasing something at this time, then say so (and say so in the paper too, so they can consider it as a reason for rejection). If you're too busy to fully put things together, say so (or send them whatever shit uncommented code you have and let them work it out).\n\nI'm frankly embarrassed by my colleagues' responses here. No wonder replication in science is in such a sorry state.",
+      "author": "respeckKnuckles",
+      "created": 1631413703,
+      "upvotes": -2,
+      "replies": {}
+    },
+    "hcjhvil": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjhvil/",
+      "text": "It's funny how the OP is being mass downvoted due to a fictitious view imposed on the OP by the said downvoters.\n\nThey are simply asking for a clarification. Dunno how all of these people got \"self centered, arrogant, grievance mongering and entitled\" from that. Lmao.",
+      "author": "Phantom7300738",
+      "created": 1631435794,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hchugin": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchugin/",
+      "text": "I\u2019m pretty appalled at everyone saying it\u2019s totally fine not to reply because other issues are more pressing. Transparency is a bare minimum for academic research, those who think it\u2019s ok to ignore OP are part of the problem. Research is publicly funded because it is a social good, if the pandemic makes it too tough for you sitting in your home office to reply to an email about your published work maybe you should find another occupation.",
+      "author": "pantaloonsofJUSTICE",
+      "created": 1631402311,
+      "upvotes": -5,
+      "replies": {
+        "hcii3kw": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcii3kw/",
+          "text": "I think it\u2019s fine not to respond because I just don\u2019t have the time or energy.  Honestly.  I have to respond to so many other emails.  I can\u2019t take on the burden of helping someone I don\u2019t know.\n\nThis is not how transparency works.  Transparency is built into the review and publication process and the methodical practices and discourse.  Not responding to an email about results:  that\u2019s me not having time to do extra work.",
+          "author": "Unfair_Finger5531",
+          "created": 1631413500,
+          "upvotes": 11,
+          "replies": {
+            "hcij6ih": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcij6ih/",
+              "text": "Bullshit. Post-publication review is just as important to scientific self-regulation as pre-publication review. At least in comp sci, the former can come in the form of data inspection, code examination, etc.",
+              "author": "respeckKnuckles",
+              "created": 1631414015,
+              "upvotes": 2,
+              "replies": {
+                "hcj5oif": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcj5oif/",
+                  "text": "Okay.  I\u2019ll accept that.  Still don\u2019t have time, still not responding.",
+                  "author": "Unfair_Finger5531",
+                  "created": 1631426415,
+                  "upvotes": 6,
+                  "replies": {
+                    "hcjzpas": {
+                      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcjzpas/",
+                      "text": "Then don't. Spend your time on better things like Reddit comments.",
+                      "author": "respeckKnuckles",
+                      "created": 1631449478,
+                      "upvotes": -2,
+                      "replies": {
+                        "hclkftr": {
+                          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hclkftr/",
+                          "text": "Will do!",
+                          "author": "Unfair_Finger5531",
+                          "created": 1631474299,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hciiogh": {
+              "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hciiogh/",
+              "text": "If someone needs your data or replication code do you think brushing them off because you\u2019re too tired is acceptable?",
+              "author": "pantaloonsofJUSTICE",
+              "created": 1631413776,
+              "upvotes": 1,
+              "replies": {
+                "hcj5s1b": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcj5s1b/",
+                  "text": "Well, no, I\u2019d brush them off because I do English and know fuck all about replication code.",
+                  "author": "Unfair_Finger5531",
+                  "created": 1631426482,
+                  "upvotes": 8,
+                  "replies": {}
+                },
+                "hcwslhh": {
+                  "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcwslhh/",
+                  "text": "And yes, \u201ctoo tired\u201d is perfectly valid argument.",
+                  "author": "Unfair_Finger5531",
+                  "created": 1631678281,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hchuw0d": {
+          "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchuw0d/",
+          "text": "Dude thank you. I don't have anything else to say",
+          "author": "lordstoned2",
+          "created": 1631402506,
+          "upvotes": -1,
+          "replies": {}
+        }
+      }
+    },
+    "hcgrc28": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcgrc28/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1631385759,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hchve2d": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hchve2d/",
+      "text": "Sometimes i won't make time til weeks later for something",
+      "author": "Anasoori",
+      "created": 1631402734,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hck250q": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hck250q/",
+      "text": "I'm guilty of this. There is such a volume of email that I only reply to this type of thing when I know the person or there's a mutual friend. I'm in a humanities field, though, and we're less collaborative. A lot of these requests want my time/labor and don't want to give credit for it. At worst, they want to steal my work--people will request copies of an unpublished conference paper, and that's a BIG no. If it were a real request for collaboration, I'd consider it only if there was a personal connection I could use to check on their sincerity. For example, I'd be open to co-authoring something with a friend's former grad student if it made sense (and I have done that, happily).",
+      "author": "raspberry-squirrel",
+      "created": 1631450934,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hckixsd": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hckixsd/",
+      "text": "No one rewards email anymore. Just like no one answers the phone anymore.\n\nTry an SMS. Seriously. Or some soc media platform like LinkedIn. This is where we are today: rapidly inventing new forms of communication to have something free of roaches for a year or two, before they catch up",
+      "author": "Reddit_reader_2206",
+      "created": 1631459060,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hclniur": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hclniur/",
+      "text": "Most of my emails to PIs go unanswered. I\u2019ve gotten used to it. I like to talk about science most people don\u2019t have the time or care to entertain/teach a grad student, we are low on the totem pole. I just move on to someone else that wants to talk and forget the people who are too busy to reply. I love how PIs be like training students is soooo important, then don\u2019t reply to them. You would think if you had gotten to PI position you could optimize outlook so you can filter for students/journals/etc. This emailing system has clearly hit the point where it needs to be radically updated/optimized cause it\u2019s not working well for most of us.",
+      "author": "Shoddy-Ad-5308",
+      "created": 1631475498,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcqcal7": {
+      "link": "/r/AskAcademia/comments/pma430/why_do_academics_never_respond_to_strangers/hcqcal7/",
+      "text": "You're potentially competition if you're comparing your method to theirs. I would not share the code with a research group I didn't already know and was on good terms with, so it helps if your group already has an established reputation in the field.\n\nI do find that we have better luck with a response when I initiate the contact with researchers I already have an established connection with, as opposed to having the request come from my students. Part of it is that we don't want to be caught up in a situation where a PhD student from another institution ends up trying to lean too much on us for support they should be receiving from their PhD advisor.",
+      "author": "mleok",
+      "created": 1631563080,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

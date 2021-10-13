@@ -1,0 +1,818 @@
+{
+  "sid": "pe89o6",
+  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/",
+  "title:": "Does anyone know what the deal is with Nature having a maximum article length of only 5 pages? Doesn\u2019t that seem unreasonably restrictive?",
+  "text": "So I was looking at [Nature's guidelines for authors](https://www.nature.com/nature/for-authors) and they list 5 pages as the maximum article length. Exactly what is the point of this limit? To me it just seems like it would be restrictive on content and what can be discussed.",
+  "author": "ColorsYourName",
+  "created": 1630287071,
+  "updated": 1634079448,
+  "over_18": false,
+  "upvotes": 76,
+  "upvote_ratio": 0.92,
+  "comments": {
+    "hawb7nz": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawb7nz/",
+      "text": "Nature publishes short, data-dense reports on robust findings of extremely broad interest and significance, i.e. the sort of studies that are expected to have major implications for many workers across multiple subdisciplines. As such, Nature wants manuscripts to be honed down to just the information that is of interest to that audience. So, you won't necessarily get a thorough and exhaustive examination of the problem and data, but you'll get the greatest hits and the central takehome message. \n\nPeople may complain about that, but realistically journals like Nature, Science, Cell, etc exist because no one can read everything and we need quick easy access to studies which may force us to rethink our approaches or assumptions in adjacent research fields or may force us to update lectures, textbooks, etc.",
+      "author": "tchomptchomp",
+      "created": 1630302465,
+      "upvotes": 136,
+      "replies": {
+        "haxnobd": {
+          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxnobd/",
+          "text": "I published a meta-analysis on which experimental details were included in the methods section of a manuscript, and whether or not someone could replicate that study from the methods section.\n\nWe would read supplementary data and followup on references if \u201cexperiments were performed as previously described\u201d.\n\nWe found an inverse correlation with the \u201creproducibility\u201d of a study and the journal\u2019s impact factor, and the paper\u2019s number of citations/citations per year, because articles in journals like nature are just insufficiently described. The supplementary data are usually lacking. \n\nAnd \u201cexperiments as previously described\u201d would often cite to papers describing different experiments, so who knows what was going on there. Sometimes it would be a nesting doll of \u201cpreviously described\u201d going back 3-4 papers to an original publication in the 80\u2019s using entirely different equipment.\n\nI think these big journals should have higher standards.",
+          "author": "ThePhysicistIsIn",
+          "created": 1630334892,
+          "upvotes": 29,
+          "replies": {
+            "hb02wop": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb02wop/",
+              "text": "This resonates!! Not necessarily just the journals listed, but I chased down a lot of nesting doll methods references in graduate school and it is definitely an issue.",
+              "author": "Bookwyrm752",
+              "created": 1630372445,
+              "upvotes": 7,
+              "replies": {}
+            },
+            "hb3ieyu": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb3ieyu/",
+              "text": "It's not just the big journals; M&M sections often streamline protocols to the point they can be difficult to replicate. That applies to small society journals and even OA best practices journals like PeerJ or PLOS. It's worse when you have a word limit, but it's always difficult, and most reviewers (including myself) do not focus intently on M&M sections. This isn't a \"standards\" issue so much as a simple feature of how papers are read and reviewed.",
+              "author": "tchomptchomp",
+              "created": 1630439391,
+              "upvotes": 1,
+              "replies": {
+                "hb3mxko": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb3mxko/",
+                  "text": "Be that as it may, we found a correlation. The journals most likely to have good M&M were \"specialty\" journals in our field, and those with IF 3-5 (which may correlate with one another).\n\nOutside of that, completeness of M&M was inversely correlated with IF with the exception of the 0-1 IF journals that we can assume are largely publishing low-quality research.",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1630441249,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hawunh6": {
+          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawunh6/",
+          "text": ">Nature publishes short, data-dense reports on robust findings\n\nRobust findings...lol.",
+          "author": "CaptainCornerCamper",
+          "created": 1630318630,
+          "upvotes": 36,
+          "replies": {
+            "haxe3ez": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxe3ez/",
+              "text": "Robust in that they often require multiple parallel experiments to validate the finding, yes, and additionally they require robust testing of viable alternative hypotheses. Whether the finding remains supported by future publications is a different question.",
+              "author": "tchomptchomp",
+              "created": 1630330605,
+              "upvotes": 21,
+              "replies": {
+                "haxii3p": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxii3p/",
+                  "text": "I've always wondered how robust Nature is for other fields and this is fascinating to me. In astrophysics maybe a third of the papers are great, a third are total garbage, and a third aren't really new or transformational.",
+                  "author": "zeqh",
+                  "created": 1630332632,
+                  "upvotes": 10,
+                  "replies": {
+                    "haxn8dk": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxn8dk/",
+                      "text": "It's so, *so* bad for linguistics.",
+                      "author": "papayatwentythree",
+                      "created": 1630334703,
+                      "upvotes": 5,
+                      "replies": {}
+                    },
+                    "hay9tig": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hay9tig/",
+                      "text": "To be fair, that\u2019s not a Nature problem. Most journals have even worse ratios of garbage to useful research.",
+                      "author": "tpolakov1",
+                      "created": 1630344140,
+                      "upvotes": 4,
+                      "replies": {}
+                    },
+                    "haxsmma": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxsmma/",
+                      "text": "I would have thought 1/3 being good papers was generous for astro, but maybe it varies by subfield. It's very rare for Nature papers to be well-received where I am; the experts in the field usually tear it apart and I've even spoken to reviewers who recommended a rejection for a paper that was published anyway. \n\nApparently, once Nature goes to the trouble of assigning reviewers and they do one round of revise+resubmit, the paper is guaranteed acceptance even if the revision is crap and doesn't meet the standards. You just can't reject the paper at that point so no one even bothers and they just give in.\n\nNature papers seem to be less reliable than the average MNRAS, A&A, ApJ paper for astro.",
+                      "author": "officially_anxious",
+                      "created": 1630337019,
+                      "upvotes": 3,
+                      "replies": {
+                        "hayjnmk": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hayjnmk/",
+                          "text": "The job of the Nature editors is not to identify the papers that will contribute most to our knowledge. The job is to identify the papers that will contribute most to the journal\u2019s impact factor and overall prestige. High status researchers are able to get garbage published there since they get lots of citations.",
+                          "author": "CaptainCornerCamper",
+                          "created": 1630348219,
+                          "upvotes": 5,
+                          "replies": {
+                            "haymrvb": {
+                              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haymrvb/",
+                              "text": "Yes, I would have thought the reviewers (other high status researchers) would have more of an impact though. The fact that it\u2019s so hard for them to reject papers once they\u2019ve been forwarded is a problem, at least in my field. If peer review doesn\u2019t have the ability to say \u201cno, this paper isn\u2019t up to scratch and you\u2019ve failed to improve it\u201d then that\u2019s pretty bad.\n\nAnd it isn\u2019t even something I can deny because we can all read the reviewer reports and see the problems that were identified and never resolved.",
+                              "author": "officially_anxious",
+                              "created": 1630349517,
+                              "upvotes": 3,
+                              "replies": {}
+                            }
+                          }
+                        },
+                        "haxugek": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxugek/",
+                          "text": "Same with condensed matter physics tbh. I agree 1/3 is generous here too.",
+                          "author": "dovaahkiin_snowwhite",
+                          "created": 1630337795,
+                          "upvotes": 1,
+                          "replies": {}
+                        },
+                        "haymdoc": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haymdoc/",
+                          "text": "Seriously though, I don\u2019t think A&A, MNRAS, and ApJ are better on average. It anything I think Nature and Science do average better because they rarely have the truly god-awful papers that creep into other journals. Other than that I think they are about the same and the best papers are typically in the A&A, MNRAS, and ApJ simply because they publish so many more.",
+                          "author": "CaptainCornerCamper",
+                          "created": 1630349357,
+                          "upvotes": 1,
+                          "replies": {
+                            "hayngki": {
+                              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hayngki/",
+                              "text": "As I already said, it might depend on sub field. Nature does not seem to do well in the simulation side or in X-ray studies of black hole systems.\n\nEdit: it is especially bad in astronomy in general though because of arxiv. It\u2019s the norm for us to publish a preprint in arxiv first and get comments. Nature used to forbid this, and so the first view is when Nature publishes, which means less feedback and crappier work overall.",
+                              "author": "officially_anxious",
+                              "created": 1630349799,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "hb3j6mf": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb3j6mf/",
+                      "text": "In my field, the papers are generally pretty data intensive. There are sometimes less complete studies, but to achieve that sort of crossover status you need some pretty substantial experimental and/or theoretical work.\n\nThat doesn't mean there aren't bad studies (there are) but even the bad ones generally at least address questions of general interest with data and analyses that are generally in line with the standards of the field. If a study is weak it normally betrays deeper problems with the evidentiary standards of the field more generally, rather than the specific study.",
+                      "author": "tchomptchomp",
+                      "created": 1630439723,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "haxqn61": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxqn61/",
+              "text": "Says everyone who has never gotten into Nature, because we know most of us have tried. I don't really know your point, but that journal is rigorous as hell. You're lucky to get out with under a year in review. If you question the validity of the findings in Nature you really ought to examine the same thing in mid- to low-tier journals. There are famous anecdotes of unsound papers getting in (as happens in all journals that are less scrutinized), but there is a good reason Nature is one of the most highly cited journals.",
+              "author": "scintor",
+              "created": 1630336171,
+              "upvotes": 3,
+              "replies": {
+                "haxvlo5": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxvlo5/",
+                  "text": "My experience is the opposite - dedicated specialist journals are the most rigorous. The higher impact journals typically have too much of a generalist/multidisciplinary appeal to have editors and reviewers  that are as familiar with the base subject.\n\nIn my discipline, Nature goes for impact, first and foremost. It doesnt matter how rigorous your study - it has to have mass appeal, well outside your own discipline. They are not really equipped to judge rigor.",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1630338275,
+                  "upvotes": 11,
+                  "replies": {
+                    "haxxpyu": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxxpyu/",
+                      "text": "> It doesnt matter how rigorous your study - it has to have mass appeal, well outside your own discipline. They are not really equipped to judge rigor.\n\nMaybe on the editorial board side, but once you go into review it's pretty clear you've got some of the best experts possible scrutinizing your paper. I've never had reviewers go into so much detail and rigor in any other journal.",
+                      "author": "scintor",
+                      "created": 1630339147,
+                      "upvotes": 3,
+                      "replies": {
+                        "haxyj6f": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxyj6f/",
+                          "text": "My experience is the opposite - most of these articles are multi-disciplinary efforts. The experts reviewing them are not experts in each of the disciplines necessary to evaluate the work.\n\nWhereas the opposite is true in specialist journals more familiar with the science.",
+                          "author": "ThePhysicistIsIn",
+                          "created": 1630339483,
+                          "upvotes": 4,
+                          "replies": {
+                            "hay4tvp": {
+                              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hay4tvp/",
+                              "text": "I guess if I were in physics I wouldn't send my paper to nature. Possibly science if it were groundbreaking. But in my field (biochemistry and related interdisciplinary science, the major focus of Nature), they clearly have the right experts on tap. The few times we've been in review, I've gotten comments from all three reviewers that only the top dozen or so in the world in my specific niche would have the expertise to make.",
+                              "author": "scintor",
+                              "created": 1630342077,
+                              "upvotes": 2,
+                              "replies": {
+                                "hay92jl": {
+                                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hay92jl/",
+                                  "text": "My branch of physics is a subsubfield of medicine, sadly. Nature is a better fit than Science.",
+                                  "author": "ThePhysicistIsIn",
+                                  "created": 1630343836,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "havosrr": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/havosrr/",
+      "text": "On my phone so can't check easily, but did you look up the guidelines for supplemental materials? Not sure about Nature but I know I've seen short Science papers with dozens of supplemental figures, so they don't count towards the main article length.",
+      "author": "bengineering103",
+      "created": 1630289630,
+      "upvotes": 43,
+      "replies": {
+        "haxd31o": {
+          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxd31o/",
+          "text": "But it doesn't count, because out of sight, out of mind.",
+          "author": "ThePhysicistIsIn",
+          "created": 1630330111,
+          "upvotes": -13,
+          "replies": {
+            "haxu53u": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxu53u/",
+              "text": "Forgot the /s? Because if you're unironically not reading supplemental ever then that's problematic.",
+              "author": "dovaahkiin_snowwhite",
+              "created": 1630337663,
+              "upvotes": 11,
+              "replies": {
+                "haxuqpt": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxuqpt/",
+                  "text": "Did not forget the s.\n\nDon\u2019t be facetious. The point of placing something in the supplement is to reduce its visibility vs the main article. It\u2019s obvious and clear that supplements are downloaded and read a fraction of the time vs the main article.\n\nNow this is fine when it is supplementary data that is not crucial to the main thesis of the article, or a long protocol, or examples of surveys, etc\u2026\n\nIt isn\u2019t ok when it\u2019s the basic methods. It leads to a very dangerous trend in science of de-emphasizing methods in order to produce shorter snappier papers. Who care how the research was conducted? These are prestigious scientists, I\u2019m sure it\u2019s fine.\n\nAnd then Nature goes on to publish on the replication crisis. It\u2019s a bit rich.",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1630337915,
+                  "upvotes": -7,
+                  "replies": {
+                    "hayw71r": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hayw71r/",
+                      "text": "Nature articles have an online methods section, which is appended to the PDFs online and as such has the same visibility as the rest of the article unless you're reading it in print.Online methods aren't part of the supplementary information.",
+                      "author": "NudieNudibranch",
+                      "created": 1630353402,
+                      "upvotes": 2,
+                      "replies": {
+                        "hayzwor": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hayzwor/",
+                          "text": "The methods in the online methods section of Nature articles are typically very short and not nearly comprehensive enough for a second investigator to interpret and replicate the results, at least in my field.",
+                          "author": "ThePhysicistIsIn",
+                          "created": 1630354937,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "haxvmx3": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxvmx3/",
+                      "text": "Sure, when done in a dismissive sort of a way that you mention, its a horrible practice. I totally agree. However, the way it's meant to be done is that the supplement should be equally rigourous, just that you didn't have space in the main to include, say, a giant derivation or whatever. And didn't want to distract the reader from the \"story\". But in all honesty,  I've learnt a lot from supplements of *good* papers.",
+                      "author": "dovaahkiin_snowwhite",
+                      "created": 1630338289,
+                      "upvotes": 4,
+                      "replies": {
+                        "haxvraw": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxvraw/",
+                          "text": "But in journals like Nature, there *is* no real methods section. It is done like I describe.\n\nI know, I\u2019ve published on it.\n\nThere is \u201cno room\u201d because Nature doesn\u2019t want there to be room. It\u2019s by design. Not to publish bad science, but to publish short, snappy science.",
+                          "author": "ThePhysicistIsIn",
+                          "created": 1630338340,
+                          "upvotes": 4,
+                          "replies": {
+                            "haxwwrr": {
+                              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxwwrr/",
+                              "text": "Probably depends on the subfield. I've seen plenty with detailed methods/supplements. But there's also a lot of garbage in Nature, so you're probably right for those papers. And if you didn't do it, that's on you.",
+                              "author": "dovaahkiin_snowwhite",
+                              "created": 1630338815,
+                              "upvotes": 3,
+                              "replies": {
+                                "haxxh9x": {
+                                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxxh9x/",
+                                  "text": "When I have read nature papers in my field, I have seen the methods refer to a nesting doll of \u201cas previously described\u201d until the original paper dates from the 80\u2019s and describes a different experiment. \n\n*Some* parts of the experiment are well described, but not all. In our meta-analysis, journal impact factor was inversely correlated with completeness of methods.\n\nUp and until IF <1 (the bottom 20th percentile of papers) where we can posit that most of these are garbage. The sweet spot was IF 2-5.",
+                                  "author": "ThePhysicistIsIn",
+                                  "created": 1630339048,
+                                  "upvotes": 2,
+                                  "replies": {
+                                    "haxymyp": {
+                                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxymyp/",
+                                      "text": "What field is this? Genuinely curious, because in condensed matter pretty much all experimental papers detail the exact fabrication details. The \"novelty\" or correctness of the analysis/findings is a different issue. As I said, could be very field dependent.",
+                                      "author": "dovaahkiin_snowwhite",
+                                      "created": 1630339526,
+                                      "upvotes": 2,
+                                      "replies": {
+                                        "haxz5j6": {
+                                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxz5j6/",
+                                          "text": "Radiation oncology/biology. It requires the cooperation of medical physicians, biologists, physicists, veterinarians, statisticians, etc..\n\nThe Editorial board will ask a biologist or MD to be the expert reviewer, and that person may be an expert at biology, but not any of the other subfields, and that results in lack of scrutiny.\n\nIn a specialized journal, they know which specialties to cover.",
+                                          "author": "ThePhysicistIsIn",
+                                          "created": 1630339740,
+                                          "upvotes": 2,
+                                          "replies": {
+                                            "haxzqiq": {
+                                              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxzqiq/",
+                                              "text": "Ah I see. Could be because there are so many specialties involved that satisfying everyone is tough? That's annoying though, hopefully it changes. CMP has a fairly decent standard that most articles follow about how to describe the synthesis/fabrication/measurement conditions so it's not an issue.",
+                                              "author": "dovaahkiin_snowwhite",
+                                              "created": 1630339978,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "hay04r5": {
+                                                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hay04r5/",
+                                                  "text": "It\u2019s not even a question of satisfying everyone - many of the people publishing in those fields don\u2019t know what they don\u2019t know, and are reviewed by peers who similarly don\u2019t know what they don\u2019t know. But specialist journals know enough to get a multidisciplinary panel of reviewers. Nature does not.",
+                                                  "author": "ThePhysicistIsIn",
+                                                  "created": 1630340141,
+                                                  "upvotes": 1,
+                                                  "replies": {
+                                                    "hay0dhy": {
+                                                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hay0dhy/",
+                                                      "text": "Lol I know what you mean, all my multidisciplinary friends have the same gripe.",
+                                                      "author": "dovaahkiin_snowwhite",
+                                                      "created": 1630340242,
+                                                      "upvotes": 1,
+                                                      "replies": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "haw7ppp": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haw7ppp/",
+      "text": "The point is, they still print hard copies.  This is the way publishing used to be - EVERYTHING was published as an actual, hold in your hand, hard copy.  Now 99% of all journals are on line.\n\nIf you print hardcopy, space is premium, and hence the limit (these would be mailed all around the world).  Here is the thing though, you look at any of those 5 page articles (which are relatively rare as most are much shorter !), and you may find that there is associated on-line materials of hundreds of pages of supporting information.  Those papers are like an iceberg.",
+      "author": "Life_time_learner",
+      "created": 1630300034,
+      "upvotes": 21,
+      "replies": {
+        "haxdgea": {
+          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxdgea/",
+          "text": "My society's official journal has a soft limit of 10 pages, anything over that you have to pay extra, and they print those journals and ship them all over the world.\n\nIt's nonsense that it's because it's being printed as hard copies. It's to keep it short and punchy without all that boring \"how we actually did the experiments\" work.",
+          "author": "ThePhysicistIsIn",
+          "created": 1630330293,
+          "upvotes": -2,
+          "replies": {
+            "hay35a3": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hay35a3/",
+              "text": "The \"boring \"how we actually did the experiments\" work\" is where the core of the science is. Without it makes it an advert rather than science. Nature (and Science) were persuaded to put the methods back in the paper articles as they had removed them for a while.",
+              "author": "Kiss_It_Goodbyeee",
+              "created": 1630341381,
+              "upvotes": 8,
+              "replies": {
+                "hay3m4j": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hay3m4j/",
+                  "text": "They\u2019re all the way at the end of the article after the conclusions, so far as I know, and stringent max page/word limits (~2000 words) means you just don\u2019t have much room for methods. And it\u2019s not in the printed copy, though no one reads those anyway.\n\nEach word in methods means one less word in results or discussion.",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1630341574,
+                  "upvotes": 1,
+                  "replies": {
+                    "hayrjg2": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hayrjg2/",
+                      "text": "There is a methods section in the printed version. There's also the additional \"online methods\", which has more details.",
+                      "author": "Kiss_It_Goodbyeee",
+                      "created": 1630351483,
+                      "upvotes": 1,
+                      "replies": {
+                        "hayybws": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hayybws/",
+                          "text": "The Nature submission website says this:\n\n[Nature formatting guide](https://www.nature.com/nature/for-authors/formatting-guide)\n\n>Methods\n>The author should include \u2018Methods\u2019 section at the end of the text, following the figure legends. This Methods section will appear in the online PDF and in the full-text (HTML) version of the paper online, **but will not appear in the printed issue.**",
+                          "author": "ThePhysicistIsIn",
+                          "created": 1630354283,
+                          "upvotes": 1,
+                          "replies": {
+                            "haz7d0n": {
+                              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haz7d0n/",
+                              "text": "They must have changed it again. It's been a few years since I've read a paper version of Nature.",
+                              "author": "Kiss_It_Goodbyeee",
+                              "created": 1630358045,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hb0txei": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb0txei/",
+              "text": "\"It's nonsense that it's because it's being printed as hard copies. It's to keep it short and punchy without all that boring \"how we actually did the experiments\" work.\"\n\nI am afraid you are simply wrong.  Go back and look at some old issues of, say, Nature.  There would be maybe 3 to 4 research articles, and dozens of \"Letters\".  Methods were normally briefly described under figures, and there was frequent usage of \"Data not shown\".  It was ALL about space.  There was a single introductory paragraph that was highly formulistic containing a few lines of introduction.  This was nothing to do with keeping it \"punchy\", and ALL to do with issue page limits and the cost of printing.  \n\nRemember that in those days, there WAS no on line version, no supplementary materials.\n\nWhy does your society journal charge for over ten pages?  Is is NOT a \"failure to keep it punchy\" tax.  It is because it increases the cost of printing.",
+              "author": "Life_time_learner",
+              "created": 1630386591,
+              "upvotes": 1,
+              "replies": {
+                "hb1gmrb": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb1gmrb/",
+                  "text": "There\u2019s no point discussing old articles, because in those days there were no online distribution and there were large print runs.\n\nYou know as well as I do that online-only journals still have article size limits despite there being no printed copies and, therefore, no printing costs. Modern page limits are, indeed, a tax on keeping it punchy.\n\nThe point is that other journals somehow find ways to have much more generous page limits - so it\u2019s not like it\u2019s standard to have such a space premium that articles must be 2000 words or less.",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1630405347,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "haycuds": {
+          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haycuds/",
+          "text": "+1",
+          "author": "sbw2012",
+          "created": 1630345398,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "haywd87": {
+          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haywd87/",
+          "text": "I agree. Also they probably have a page range that the printed copy can be and an estimate of how many articles. This way they end up with a good balance of enough articles (and not just a handful of very long ones) and not too many pages. The costs this way are relatively constant and they have a calculation for the printing costs and such.\n\nAlso I'd say 5 pages is a good limit for it to be easily read with little time or if it's not all that interesting for you. It's easy to get through five pages but everything above requires dedication to the topic.",
+          "author": "whitelieslatenightsx",
+          "created": 1630353472,
+          "upvotes": 0,
+          "replies": {
+            "hb041fo": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb041fo/",
+              "text": ">\u201d5 pages is a good limit for it to be easily read\u201d\n\nI\u2019ll admit it has been a year since I looked at a journal article, but I have never read a nature paper that was an easy read. They are so fricking dense, and lots of important information feels invisible because you have to cross check the online materials. I really need the visuals to understand the discussion of figures in text. (Bio/Genetics PhD)",
+              "author": "Bookwyrm752",
+              "created": 1630372972,
+              "upvotes": 3,
+              "replies": {
+                "hb2rn0b": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb2rn0b/",
+                  "text": "That's my experience as well.\n\nThe limit on figures means that they will cram 10 figures into a single one, leading to a figure with a gazilion sub-figures - I have seen up to 11 (!) - each of them a tiny image that you can hardly see or interpret.\n\nIt's more of a press release than a scientific communication. You can only hope that they point towards their other work in other journals where everything is not so tightly crammed in as though you have to pack for a 2 week trip with just a carry-on luggage.",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1630428270,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "hb4itjr": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb4itjr/",
+                  "text": "I don't mean easy as in easily understandable but more as in it's easier to find the time to read max 5 pages. Anything longer just seems like more work and less doable if you look at it before reading. It's in my experience just easier to start reading of the article doesn't seem too long and to make the time for it",
+                  "author": "whitelieslatenightsx",
+                  "created": 1630455058,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "havweit": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/havweit/",
+      "text": "Long articles don\u2019t get read, and unread articles don\u2019t get citations. They are just doing what they need to keep their high-impact position.",
+      "author": "tpolakov1",
+      "created": 1630293497,
+      "upvotes": 34,
+      "replies": {}
+    },
+    "haxtqwj": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxtqwj/",
+      "text": "As one of the big guys in my field once told, a *Nature* paper, or even a baby *Nature*, such as *Nature Materials*/*Nature Energy* etc, is almost like a funding proposal for the community. It starts a new avenue of research which the community will use for getting grants and convincing funding agencies to invest seriously in.\n\nAs a result, the paper itself reads as an extended abstract with beautiful figures. Because remember, the target audience is senior faculty and program managers who don't have either the time or the patience to sit through the whole thing. Even though *Nature* now has started incorporating **Extended Data Figures** in their papers, and along with the **Materials and Methods** section, this makes the paper quite comprehensive on its own. \n\nBut, if you are a grad student or a postdoc, the stuff for you is in the **Supplemental Information**. You are not the target audience for the main text.",
+      "author": "N1H1L",
+      "created": 1630337495,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hay3yz6": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hay3yz6/",
+      "text": "I honestly hate when I read a paper with 13 main figures and a couple half dozen other supplementals, like wtf is this an entire textbook?",
+      "author": "animelover9595",
+      "created": 1630341719,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "havu0er": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/havu0er/",
+      "text": "Which is why the supplements are a book. Since nobody ever reads the physical magazine anymore anyway, page limits are a relic of the past. Yet here we are.",
+      "author": "tryatriassic",
+      "created": 1630292248,
+      "upvotes": 29,
+      "replies": {
+        "hawmoe1": {
+          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawmoe1/",
+          "text": "I strongly disagree. There's real value in being able to write a digestible summary pieces that others can read.\n\nYou need some constraint on the size if you want a lot of people to be able to read it. The split into a main piece and supplementary materials makes a lot of sense.",
+          "author": "DoorsofPerceptron",
+          "created": 1630311803,
+          "upvotes": 59,
+          "replies": {
+            "hax40ww": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hax40ww/",
+              "text": "I strongly disagree with you. The only thing of interest in a paper are generally the methods. In nature they simply aren't reported, it's \"look 'em up in the supplementary\". \nThat's really unscientific",
+              "author": "lucaxx85",
+              "created": 1630325203,
+              "upvotes": -11,
+              "replies": {
+                "haxugzw": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxugzw/",
+                  "text": "... Then just read the supplementary materials?\n\nThere's nothing \"really unscientific\" about putting materials in an appendix. It's just a stylistic decision that doesn't alter the quality of the work.",
+                  "author": "DoorsofPerceptron",
+                  "created": 1630337802,
+                  "upvotes": 7,
+                  "replies": {}
+                },
+                "haxlr69": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxlr69/",
+                  "text": "Honestly, it probably depends on the field. For me methods are the least interesting unless they're configured in a novel way that allows for novel insights. I mostly care about what the findings are and what it means for the problem under study, if that's not interesting I don't usually bother with the methods.",
+                  "author": "antonia90",
+                  "created": 1630334067,
+                  "upvotes": 6,
+                  "replies": {}
+                }
+              }
+            },
+            "hawxm86": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawxm86/",
+              "text": "For you and /u/tpolakov1 , I mean, I'm not even an academic, i'm a hobbyist (on Mesoamercian history/archeology, so Aztec, Maya, etc stuff), and I disagree: If i'm seeking out scholarly articles, published research, thesises, etc on a topic, I'm doing so because I want as much information as possible, and I do actually read most of the papers I take a look at, with some skimming here and there.\n\nOf course, there is value in being able to easily access and locate the core, important information a reader may want, especially in the context of archeological excavations where you can, if you decide to, devote dozens of pages purely on chemical analysis of remains of a specific structure out of hundreds at a site... but I'd still rather that information be there?\n\nPerhaps something like chapter divisions and a specific abstract/conclusion for each would help, though I suppose at that point it's basically a short book. Frankly I don't think it's that hard to just ctrl+F and skim through the stuff you're not speffically looking for, I so I'm not even sure it's a problem that needs solving.",
+              "author": "jabberwockxeno",
+              "created": 1630320932,
+              "upvotes": -14,
+              "replies": {
+                "hawyaoy": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawyaoy/",
+                  "text": "It is there though. The supplementary materials are available with the paper. It's completely a non-issue.\n\nA science/nature paper provides a decent summary, and the ability to then dive into the supplementary materials you think are relevant.\n\nEdit: I don't want to be dismissive, but if you want to offer your opinion on the pros and cons of science style papers, why not try reading one first? Your post reinvents section headings which is how every paper is already organised.",
+                  "author": "DoorsofPerceptron",
+                  "created": 1630321435,
+                  "upvotes": 22,
+                  "replies": {
+                    "hax84nf": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hax84nf/",
+                      "text": "Exactly, the 5 pages is for the print version only. There are additional methods and an Extended Data sections with up to 10 figures/tables that\u2019s included in the online version which doesn\u2019t include the separate supplement. \n\nThe main idea should be well demonstrated in the intro, results, and discussion/conclusion of the main text with the smaller details in the methods, extended data and supplement.",
+                      "author": "wineforbreakfast8",
+                      "created": 1630327572,
+                      "upvotes": 4,
+                      "replies": {}
+                    },
+                    "hax1en2": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hax1en2/",
+                      "text": "I'm not sure if you're implying if the way papers are formatted for those fields are different and already does what I suggested (and to be clear, again, I don't even think that suggestion is nessacary), or if you're speaking about scholarly papers and published research generally, but the papers I've read from the journals and other sources I've dug into don't do what I stated: There are obviously distinct sections, but there's no sort of \"table of contents\" or per section abstracts/conclusions, at least not formaly.",
+                      "author": "jabberwockxeno",
+                      "created": 1630323549,
+                      "upvotes": -10,
+                      "replies": {}
+                    }
+                  }
+                },
+                "haxig63": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxig63/",
+                  "text": "People are talking about Nature magazine, not papers. Also: I\u2019d recommend you to go through a scientific paper as you basically described how they already look like\u2026",
+                  "author": null,
+                  "created": 1630332610,
+                  "upvotes": 1,
+                  "replies": {}
+                },
+                "hay8xtb": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hay8xtb/",
+                  "text": "Different media have different purpose. Journal articles are a form of communication, not for distribution of research. We read them to learn what other people are working on and how are they progressing on research. \n\nIf you want in-depth literature, you read monographs. If you want data, you search databases/submit requests through funding institutions/ask authors/read supplemental material.\n\nBut papers are essentially emails (historically, journalis *were* effectively physical mailing lists) and, as such, they should be short and directly to the point. We don\u2019t have hours every day to spend on dissecting papers, we have research to do.",
+                  "author": "tpolakov1",
+                  "created": 1630343781,
+                  "upvotes": 0,
+                  "replies": {
+                    "hayc272": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hayc272/",
+                      "text": "As I said, i'm not an academic, but that goes against my entire understanding of the academic system and how research works, and if that's how it works then the system is even more inherfently flawed then I thought/what I see researchers complain about with journals.\n\nIf published papers and articles in journals that have passed peer review aren't meant to be \"the research\" and just communication, then why are they cited as sources for, well, everything? If somebody is reading an encyclopedia or even an academic book and the bibliography cites a peer reviewed paper which isn't actually intended to be research and is just meant to be a summary, then that's problematic. Isn't the Abstract of a paper meant to be the summary and the basic communication?\n\nAlso, it makes the crisis of public access even more dire. It's bad enough that the general public can't readily access papers in journals, it's even harder for them to then get extra material beyond that. All of the data and research should *absolutely* be published alongside the paper that the findings are in, and ideally, those papers should also be publicly accessible. \n\n>ask authors\n\nThis is even worse. The research from scientific, peer reviewed papers should *not* be just be something that you need to personally ask for access to. \n\nThe entire peer review process and the role of journals, to add onto that, is supposed to be that the methodology is solid and that the data is being properly processed. How can you possibly ensure that if the totality of the research and the data isn't examined alongside the paper, and is then immediately available to other researchers or the public who is then reading that paper?",
+                      "author": "jabberwockxeno",
+                      "created": 1630345072,
+                      "upvotes": 2,
+                      "replies": {
+                        "hayg5e1": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hayg5e1/",
+                          "text": "> If published papers and articles in journals that have passed peer review aren't meant to be \"the research\" and just communication, then why are they cited as sources for, well, everything? If somebody is reading an encyclopedia or even an academic book and the bibliography cites a peer reviewed paper which isn't actually intended to be research and is just meant to be a summary, then that's problematic. Isn't the Abstract of a paper meant to be the summary and the basic communication?\n\nPapers are cited because they are vetted *reports* on research. They are a form of announcement of what research has been done, and it\u2019s natural to point to them. What use is it to reference a thousand of fitted experimental curves (how average \u201cthe research\u201d looks), instead of a short report on the fact that it has been done and the conclusions?\n\n> Also, it makes the crisis of public access even more dire. It's bad enough that the general public can't readily access papers in journals, it's even harder for them to then get extra material beyond that. All of the data and research should absolutely be published alongside the paper that the findings are in, and ideally, those papers should also be publicly accessible.\n\nIt\u2019s easier to get access to the research than the article, really. Every single funding body that has ever given me money for research demands data retention policy as part of the proposal, so that the data can be provided upon request. All public funding agencies in the US and EU have pretty straightforward mechanisms for anyone to get full access (unless it\u2019s export-controlled, which can happen surprisingly often in many fields).\n\nThis is just the usual case of lay people not bothering to understand how research works and lamenting about something they can\u2019t bother to look up. Research is free and publicly accessible, papers are not. Papers are not research. Should public have access to the papers? Sure. But it should maybe first understand what it\u2019s getting their hands on.\n\n> The entire peer review process and the role of journals, to add onto that, is supposed to be that the methodology is solid and that the data is being properly processed. How can you possibly ensure that if the totality of the research and the data isn't examined alongside the paper, and is then immediately available to other researchers or the public who is then reading that paper?\n\nIgnoring the fact that it is available, it\u2019s rarely necessary. Every single piece of research that most of us lay eyes on in our whole scientific careers is incremental to the point of being banal. There are very few surprises in real scientific work and reviewers are chosen such that they work on effectively the same thing as the authors, so they can tell whether the presented work makes sense in the context of the figures provided in the paper.\n\nIt can, in principle, lead to some biases or fraud, but that\u2019s much more rare than the public believes (in hard sciences, at least), because everyone is salivating to the idea of being able to prove other research wrong (it\u2019s a free publication, where I would not have to do any thinking).",
+                          "author": "tpolakov1",
+                          "created": 1630346765,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "haz0oaf": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haz0oaf/",
+                      "text": "What is a \"monograph\"? They don't exist in my field. It's just papers.",
+                      "author": "ThePhysicistIsIn",
+                      "created": 1630355251,
+                      "upvotes": 0,
+                      "replies": {
+                        "haz2fa2": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haz2fa2/",
+                          "text": "A book on a specific narrow topic. I\u2019m pretty sure they exist in any field, here\u2019s [one](https://www.springer.com/gp/book/9783540679325) related to mine.",
+                          "author": "tpolakov1",
+                          "created": 1630355981,
+                          "upvotes": 3,
+                          "replies": {
+                            "haz2onq": {
+                              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haz2onq/",
+                              "text": "Never heard of the concept. I don't think I've ever seen a book used outside of a classroom or to orient new graduate students.\n\nI have cited from books only a handful of times in my career, usually when some reviewer asked for a citation for general statements like \"the sky is blue\" that haven't been the subject of research for at least three decades.\n\nThat link has \"monograph\" in the title but you'll note each chapter has a different author - it's a textbook. I don't work in that particular area, but I would bet good money it is used to teach classes on that subject, not to disseminate knowledge to the scientific community.",
+                              "author": "ThePhysicistIsIn",
+                              "created": 1630356090,
+                              "upvotes": 0,
+                              "replies": {
+                                "haz4mw3": {
+                                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haz4mw3/",
+                                  "text": "The \u201cmono\u201d is because it\u2019s a singular topic, not a single author. Each chapter is an extended discussion of a paper or collection of papers of the chapters respective authors.\n\nI guess monographs could be used as textbooks, but they are usually too specific to be useful for teaching purposes. The topics in these can also be fresh enough to be considered not settled at the time of writing, so they shouldn\u2019t appear in undergrad and early grad curricula. But it fills exactly the purpose that OP seems to want: it\u2019s a long-form discussion of a result that would usually be a 1-2 pages long paper.\n\nThey will rarely be cited because they don\u2019t contain any more \u201cmeat\u201d than the respective papers.",
+                                  "author": "tpolakov1",
+                                  "created": 1630356899,
+                                  "upvotes": 2,
+                                  "replies": {
+                                    "haz6fs7": {
+                                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haz6fs7/",
+                                      "text": "Papers are typically \\~10 pages long in my field - I don't think anything could be adequately described in 1-2.",
+                                      "author": "ThePhysicistIsIn",
+                                      "created": 1630357651,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hax3t71": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hax3t71/",
+      "text": "Mark Twain once said, \u201cI didn't have time to write you a short letter, so I wrote you a long one.\u201d. Though he probably stole that from Blaise Pascal famously wrote: I would have written a shorter letter, but I did not have the time. I'd argue that such a restriction is quite a mental discipline, but worth the effort.",
+      "author": "PhysPhDFin",
+      "created": 1630325073,
+      "upvotes": 10,
+      "replies": {
+        "haxvcu6": {
+          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxvcu6/",
+          "text": "PhD candidate in psychology, here - writing super concise papers is HARD. I had to turn a 6000 word paper (written for one journal) down to 3500 words to meet a different journal's criteria. That is very concise for my particular twig on the psychology branch, and in some ways I found it harder than writing the original paper. But it was absolutely a useful learning experience. I was constantly questioning which information was necessary for my study to be replicated, and what was just fluff I felt I needed to say.",
+          "author": "ravencrawr",
+          "created": 1630338173,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hawv24f": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawv24f/",
+      "text": "I believe it used to be the case many decades ago that Nature was used for rapid publication of recent exciting findings. Typically people would get an interesting result in some experiment, for example, and would send off a short report to Nature while they did some follow up work and prepared a proper paper for a more appropriate journal.",
+      "author": "CaptainCornerCamper",
+      "created": 1630318949,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hawcudm": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawcudm/",
+      "text": "Consider it a challenge. If you can't discuss your study in five pages, perhaps it needs a haircut. Anyone can ramble on and on forever, but it takes a masterful economy with words to illustrate complexity in simple terms. \n\nOr to use meme-speak: \"Why waste time say lot word when few word do trick?\"",
+      "author": "Greenmantle22",
+      "created": 1630303677,
+      "upvotes": 13,
+      "replies": {
+        "haxdmnx": {
+          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxdmnx/",
+          "text": "No, you just need to omit your methods and do no meaningful discussion.",
+          "author": "ThePhysicistIsIn",
+          "created": 1630330380,
+          "upvotes": -6,
+          "replies": {
+            "hayc8gs": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hayc8gs/",
+              "text": "I bet it's fun being your peer reviewer.\n\n\"Cut two paragraphs? But every word is essential! Why don't you just chop off my hands while you're at it?!?!\"",
+              "author": "Greenmantle22",
+              "created": 1630345144,
+              "upvotes": 5,
+              "replies": {
+                "haych6y": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haych6y/",
+                  "text": "I\u2019ve never been asked to cut anything substantial, actually. Save once they wanted me to cut a figure because they thought it had been published elsewhere, but then I explained why ours was meaningfully different and they agreed.\n\nBut fitting a paper in 2000 words requires to amputate and lobotomize it beyond any recognition.",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1630345245,
+                  "upvotes": 1,
+                  "replies": {
+                    "hays3q8": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hays3q8/",
+                      "text": "Or maybe it requires you to rethink your entire manuscript structure and process. \n\nIt CAN be done. Plenty of things are written in 2000 words or less, and written well. It just requires a different mindset.",
+                      "author": "Greenmantle22",
+                      "created": 1630351719,
+                      "upvotes": 1,
+                      "replies": {
+                        "hayxuun": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hayxuun/",
+                          "text": "It can only be done by removing pesky things like describing the experiment in sufficient details for someone to interpret and replicate the results.\n\nPlenty of things can be written in 2000 words or less. An abstract, for instance. But not a scientific paper that stands on its own and reports a substantial finding. Lots has to be left out to do so. \n\nIt's almost more like a press release than a real paper.",
+                          "author": "ThePhysicistIsIn",
+                          "created": 1630354086,
+                          "upvotes": 1,
+                          "replies": {
+                            "hb0pdf5": {
+                              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb0pdf5/",
+                              "text": "So take your business elsewhere. No one is compelling you to submit a manuscript to this Taco Bell format. There's an assload of journals out there for the hard sciences, and Nature is but one of them.",
+                              "author": "Greenmantle22",
+                              "created": 1630383753,
+                              "upvotes": 0,
+                              "replies": {
+                                "hb0pllh": {
+                                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hb0pllh/",
+                                  "text": "I don\u2019t know what you\u2019re talking about.\n\nI\u2019m saying it promotes bad behavior in publishing. It will do that whether or not I publish there. Why would you think it\u2019s about me and where I publish?",
+                                  "author": "ThePhysicistIsIn",
+                                  "created": 1630383887,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "havl5f3": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/havl5f3/",
+      "text": "The answer to your question is that yes, it does limit what can be discussed/published to the kind of science that Nature seeks to disseminate. \n\nIt's a journal that has clear meta-theoretical commitments in terms of axiological, ontology, and epistemology that underpin a largely positivist/post-positivist scientific paradigm. \n\nIs it restrictive? Sure, but only as much so as any other journal that has clear parameters around the kind of research that they publish. That's also why there are different journals - to publish different kinds of science.",
+      "author": "exsuit",
+      "created": 1630287843,
+      "upvotes": 3,
+      "replies": {
+        "hawqv5z": {
+          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawqv5z/",
+          "text": "\"a clear meta-theoretical commitments in terms of axiological, ontology, and epistemology that underpin a largely positivist/post-positivist scientific paradigm\". You ever listen to yourself? Nature is the N in CNS, that's why everyone wants in, not because of your verbal diarrhea",
+          "author": "tryatriassic",
+          "created": 1630315482,
+          "upvotes": 15,
+          "replies": {
+            "hawu9tu": {
+              "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawu9tu/",
+              "text": "What does CNS stand for in this case?",
+              "author": "Hoihe",
+              "created": 1630318325,
+              "upvotes": 2,
+              "replies": {
+                "hawuv0b": {
+                  "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawuv0b/",
+                  "text": "CNS = Cell Nature Science\n\nThese are the three glamour journals that everybody wants to publish in because they increase social status, which is the main thing determining one's career progression.",
+                  "author": "CaptainCornerCamper",
+                  "created": 1630318796,
+                  "upvotes": 10,
+                  "replies": {
+                    "haww9zt": {
+                      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haww9zt/",
+                      "text": "Ah, thank you!\n\nWhere does the Royal Society's papers fall in this hierarchy? (Chem)",
+                      "author": "Hoihe",
+                      "created": 1630319915,
+                      "upvotes": 3,
+                      "replies": {
+                        "hax02tn": {
+                          "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hax02tn/",
+                          "text": "Below. Everything is below these. \n\nUnfortunately I can't give a more detailed answer for those journals.",
+                          "author": "CaptainCornerCamper",
+                          "created": 1630322675,
+                          "upvotes": 6,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "haxgt2z": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/haxgt2z/",
+      "text": "I would love for my field to adopt these standards. I do peer review for two journals and I usually skim/ skip the first three to five paragraphs of what I refer to as \u201cThe sky is falling\u2026\u201d section.\n\nYes there\u2019s a problem. We all agree it\u2019s a problem. Get to the point of your investigation.",
+      "author": "CAinCa",
+      "created": 1630331873,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "hawriq1": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hawriq1/",
+      "text": "Academics are presumed to have attention spans longer than those of moths. The idea of 'easy digestibility' suggests a decline of standards, the lack of a requirement to integrate information and create coherent, comprehensive presentations of completed, well-expounded research and ideas. This is probably more about the 'publish or perish' imperative, than about anything to do with conciseness, or academic rigor.",
+      "author": "ChildhoodItchy",
+      "created": 1630316049,
+      "upvotes": -15,
+      "replies": {}
+    },
+    "hay1ahr": {
+      "link": "/r/AskAcademia/comments/pe89o6/does_anyone_know_what_the_deal_is_with_nature/hay1ahr/",
+      "text": "Mm",
+      "author": null,
+      "created": 1630340617,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

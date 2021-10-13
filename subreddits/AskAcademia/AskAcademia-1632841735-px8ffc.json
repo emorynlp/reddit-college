@@ -1,0 +1,47 @@
+{
+  "sid": "px8ffc",
+  "link": "/r/AskAcademia/comments/px8ffc/just_cant_seem_to_get_my_paper_published/",
+  "title:": "Just can't seem to get my paper published",
+  "text": "From September 2020 to August 2021 I conducted a research internship in Switzerland. In this research internship I constructed model (pertaining to Earth Science) with the aim to publish my results. The inspiration for this paper was a time series observation with interesting characteristics. This time series was only a short period of time (a week) and we wanted to see whether a particular process was responsible for this observation (i.e. run model accounting for and neglecting this specific process).\n\nI submitted the first version of the paper in January 2021 and 9 months later it has been rejected after a very long review process in which one reviewer endorsed publication and another 2 reviewers rejected (2 reviewers required to endorse). The professor which I worked for (whose works have been in total cited nearly 13,000 times) strongly believes that my paper is publishable and has been for some time. The conclusion of my paper is that it is inconclusive as to whether the specific process occurred, however that there is a significant difference between accounting for it and neglecting it. My professor believes that although this might make publication harder, the results and conclusion are still interesting and relevant enough to warrant publication.\n\nWith the first reviewer who rejected the paper, we went through multiple revisions in order to correct his concerns, however finally he thought that our differences were too far apart. The annoying thing about this is that after that reviewer recommended rejection, I was able to rectify the issues he had, however it seemed to be to late.\n\nThis second reviewer who rejected the paper had a few new issues which had not previously come up, which was very frustrating. In the end, the editor decided to reject the paper due to the long process after only one round with this new reviewer. The new reviewer thought that the dataset (time series) our paper used was not suitable for the analysis (however we state that the model we construct is not supposed to be the best, just a toy model to test a hypothesis, and that we wanted to test that hypothesis using this dataset as this dataset had an interesting observation). We tried to emphasise that we do not want to provide a general conclusion, and just a conclusion which pertains to the observations.\n\nNow that it has been rejected from the journal, I am attempting to submit to a new journal, changing the things (which are possible to change) that the new reviewer suggested. I am currently not being payed for working on this now as my research internship has ended but I do not want to give up. Does anyone have any advice for someone like me, who is endlessly frustrated by this process?",
+  "author": "NotLaurenceFishburne",
+  "created": 1632841735,
+  "updated": 1634078831,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "helur6i": {
+      "link": "/r/AskAcademia/comments/px8ffc/just_cant_seem_to_get_my_paper_published/helur6i/",
+      "text": "Submit elsewhere, that's frustrating but enrirely normal",
+      "author": "DeepSeaDarkness",
+      "created": 1632843553,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "helxc9g": {
+      "link": "/r/AskAcademia/comments/px8ffc/just_cant_seem_to_get_my_paper_published/helxc9g/",
+      "text": "I had a paper that took 5 years to get published, just got to keep trying, at some point you may just give up but it's worth a few more rounds",
+      "author": "IntLawprof",
+      "created": 1632844602,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hem5t6y": {
+      "link": "/r/AskAcademia/comments/px8ffc/just_cant_seem_to_get_my_paper_published/hem5t6y/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1632848089,
+      "upvotes": 1,
+      "replies": {
+        "heo7ijk": {
+          "link": "/r/AskAcademia/comments/px8ffc/just_cant_seem_to_get_my_paper_published/heo7ijk/",
+          "text": "Honestly sometimes I look back on papers I reviewed during second round and don't know what I was drinking because there were a million problems I didn't see the first time. It happens. Happens to my papers all the time without me suspecting personal issues. Although I work in psychology so I feel like things are way more arbitrary than earth sciences",
+          "author": "quixoticme1",
+          "created": 1632880574,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

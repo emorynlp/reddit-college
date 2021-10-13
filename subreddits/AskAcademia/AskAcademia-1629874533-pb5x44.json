@@ -1,0 +1,89 @@
+{
+  "sid": "pb5x44",
+  "link": "/r/AskAcademia/comments/pb5x44/what_referencing_style_is_this/",
+  "title:": "What referencing style is this?",
+  "text": "Currently reviewing a paper and I can't for the life of me figure out which referencing style the author has used. What I do know is that this is not APA or CMOS.\n\nRowley, J.W., Campbell, N., and Hood, J. (2011). *\u201cChapter 47: Arbitration in Merger Control Remedies: Lessons from the Canadian Experience\u201d*. Retrieved from Gordon Blanke and Phillip Landolt (eds), EU and US Antitrust Arbitration: A Handbook for Practitioners, pp. 1725 \u2013 1743.\n\nSoares, M.D., Zuccolo, R., and Camara, P. (2019). *\u201cMerger Remedies Guide \u2013 Second Edition \u2013 Brazil\u201d*. Retrieved from Global Competition Review. Accessed at [https://globalcompetitionreview.com/insight/merger-remedies-guide-second-edition/1209563/brazil](https://globalcompetitionreview.com/insight/merger-remedies-guide-second-edition/1209563/brazil).\n\nWould appreciate any help at this point! Thank you so much in advance. :)\n\nEdit: Thank you to all who replied. Turns out the authors just slapped on whatever they felt like without conforming to a specific style. Journal website didn't have any info but I spoke to someone on the board and they need APA 7, so that's resolved. :)",
+  "author": "unseenunilibrarian",
+  "created": 1629874533,
+  "updated": 1634079499,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "ha9u0gy": {
+      "link": "/r/AskAcademia/comments/pb5x44/what_referencing_style_is_this/ha9u0gy/",
+      "text": "I'd google the journal and see if there is information about their citing style. Some have their own (nature style in bio) ...",
+      "author": "lotischmoti",
+      "created": 1629884126,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ha9n2r9": {
+      "link": "/r/AskAcademia/comments/pb5x44/what_referencing_style_is_this/ha9n2r9/",
+      "text": "bluebook? it doesn't quite look right for that, what the journal/subject/field?",
+      "author": "IntLawprof",
+      "created": 1629878053,
+      "upvotes": 1,
+      "replies": {
+        "ha9ru4q": {
+          "link": "/r/AskAcademia/comments/pb5x44/what_referencing_style_is_this/ha9ru4q/",
+          "text": "Law, so my first instinct was to turn to OSCOLA and Bluebook but it's neither.",
+          "author": "unseenunilibrarian",
+          "created": 1629882221,
+          "upvotes": 1,
+          "replies": {
+            "ha9uf3i": {
+              "link": "/r/AskAcademia/comments/pb5x44/what_referencing_style_is_this/ha9uf3i/",
+              "text": "hmm... check the author submission guide for the journal, it should say which citation system they require",
+              "author": "IntLawprof",
+              "created": 1629884474,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ha9von8": {
+      "link": "/r/AskAcademia/comments/pb5x44/what_referencing_style_is_this/ha9von8/",
+      "text": "Looks similar to Harvard, although the fullstop after the year is odd",
+      "author": "AutumnBluee",
+      "created": 1629885549,
+      "upvotes": 1,
+      "replies": {
+        "ha9xgya": {
+          "link": "/r/AskAcademia/comments/pb5x44/what_referencing_style_is_this/ha9xgya/",
+          "text": "The name formatting, including the year and ensuing period, is pure APA. No idea about the rest, though.",
+          "author": "GusPlus",
+          "created": 1629886983,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "habxqft": {
+      "link": "/r/AskAcademia/comments/pb5x44/what_referencing_style_is_this/habxqft/",
+      "text": "I don't recognize this style at all, but if I were you I wouldn't bother. The issue isn't if the author is following some (unknown) style that you have to learn and check. The question is if the author followed the guidelines of the journal you are reviewing for. (Some reviewers don't bother with this stuff, but personally, I am something of a stickler here. If I nag my students about this, I think professional researchers should manage as well.) I would just check the instructions for authors at the journal's webpage and take it from there.",
+      "author": "molobodd",
+      "created": 1629919973,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hac2i9x": {
+      "link": "/r/AskAcademia/comments/pb5x44/what_referencing_style_is_this/hac2i9x/",
+      "text": "You can try it here: https://csl.mendeley.com/searchByExample/",
+      "author": "doornroosje",
+      "created": 1629921855,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hae1bsj": {
+      "link": "/r/AskAcademia/comments/pb5x44/what_referencing_style_is_this/hae1bsj/",
+      "text": "There are literally thousands of journal specific referencing styles.  My Endnote program has thousands of style files.\n\nCheck journal \"Instructions for authors\", which will have referencing details.  It either conforms to that, or you note in your review that it does not.",
+      "author": "Life_time_learner",
+      "created": 1629954959,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

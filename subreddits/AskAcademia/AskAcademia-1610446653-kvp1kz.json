@@ -1,0 +1,452 @@
+{
+  "sid": "kvp1kz",
+  "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/",
+  "title:": "If you intend to reject a paper you're reviewing, do you bother submitting comments to the authors?",
+  "text": "I am wondering whether it's worth writing comments to the authors. My dilemma is this: If I'm rejecting the paper anyways, won't my (necessarily) negative comments about why be overkill? And yet if I can manage to frame it in terms of constructive criticism, it would look as though I'm recommending revisions and resubmission.\n\nI really believe this work is bad enough to toss out but I also don't want to be rude and leave no explanation. This is only my second reviewed paper - the first I recommended minor revisions and made detailed comments. If I do submit no comments to authors, I still will be filling out a detailed, confidential entry to the editor about why I decided it.  \n\n\nThanks  \n\n\nEDIT: For more detail, if I was to be completely honest my summary would be something like this: \"There is no original contribution. Although it's a review paper, the authors have not consolidated the information in the discussed papers in such a way that makes comparison between them meaningful, which doesn't help the reader understand the state of the art. There are also many pictures with watermarks that indicate they are not original pieces of work, but they are not cited by the authors. The quality of English is not adequate to follow easily.\"  ",
+  "author": null,
+  "created": 1610446653,
+  "updated": 1634081913,
+  "over_18": false,
+  "upvotes": 105,
+  "upvote_ratio": 0.91,
+  "comments": {
+    "gizsua8": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gizsua8/",
+      "text": "Feedback is critical when you are rejecting a paper. That\u2019s part of the process and it\u2019s how the authors can learn to improve their work. Your job as a reviewer is not just to render judgement but to provide that feedback. If you only render judgement, you have failed to do a significant portion of your job as a reviewer. Your concerns about overkill or appearing to be recommending something else are simply wrong. You need to clearly state up front what you are recommending and then structure your comments as both explanation and constructive criticism. The example text you provided is fine, but could perhaps be expanded upon somewhat.",
+      "author": "bigrottentuna",
+      "created": 1610455175,
+      "upvotes": 325,
+      "replies": {
+        "gj1errs": {
+          "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1errs/",
+          "text": "100% this. I make sure to give comprehensive feedback when reviewing a paper, even if I intend to straight up reject it. If I find fatal flaws in their reasoning, methods, etc., I point them out to the authors and even suggest how they could fruitfully address those flaws, so that if they want to submit the paper elsewhere, at least they've been given some advice that allows them to fix the issues that led me to reject the paper. \n\nI just consider this being professional and also (mostly in jest) racking up some \"reviewer karma\" - the worst reviews I have received are not necessarily the harshest reviews. They are reviews that do not contribute anything meaningful to the paper. At least harsh reviews give me a good sense of what I need to change before resubmitting. If you have comments about the paper, don't just tell the editor and leave the authors in the dark. Say what you have to say in a constructive way (but it's okay to be critical at the same time) so that the authors know what to fix. I personally would be very angry to get reviews back on a paper I submitted to a journal and see that one of the reviewers literally said nothing to me. If you don't want to provide authors with any sort of comment, then don't agree to be a reviewer.",
+          "author": null,
+          "created": 1610484147,
+          "upvotes": 20,
+          "replies": {}
+        },
+        "gj1p5z8": {
+          "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1p5z8/",
+          "text": "Actually the job of a reviewer is not to render judgement at all. That's the editor's job. The job of a reviewer is to provide enough information and perspective for the editor to form a fair judgement.",
+          "author": "legatek",
+          "created": 1610488884,
+          "upvotes": 8,
+          "replies": {
+            "gj1rw8h": {
+              "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1rw8h/",
+              "text": "I guess it's a matter of semantics. I would say that it's the job of an editor to make a final decision based on the judgements expressed by the individual reviewers.",
+              "author": "bigrottentuna",
+              "created": 1610490166,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "gj3jqds": {
+              "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj3jqds/",
+              "text": "Really? Why is the first thing that journals ask me is \"reccomendation: accept/minor/major/reject\"?\n\nI thought editors just \"expertly averaged out\" the reccomendations",
+              "author": "lucaxx85",
+              "created": 1610531165,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gj1pu7u": {
+          "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1pu7u/",
+          "text": "Thanks for your answer, this makes a lot of sense.",
+          "author": null,
+          "created": 1610489202,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "gj0kzh2": {
+          "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0kzh2/",
+          "text": ">The example text you provided is fine, but could perhaps be expanded upon somewhat.\n\nI disagree. It is a classical Reviewer #2 comment. It doesn't help the authors at all. It should be way more specific.\n\nFor example \"*There is no original contribution*.\" This can only be meant as a fucking joke. It's such a presumptious overstatement because what kind of a wannabe know-it-all must OP be, to feel able to judge that someone else's work contributes nothing at all to a presumbably large body of literature. It's a useless sentence that should never be in any review.\n\nNext \"*Although it's a review paper, the authors have not consolidated the  information in the discussed papers in such a way that makes comparison  between them meaningful, which doesn't help the reader understand the  state of the art.* \"\n\nGuess what. This sentence is not better. You have spent many words to construct a superficial sentence and manage to mention no specific information whatsoever.\n\nNext, \" *There are also many pictures with watermarks that indicate they are not  original pieces of work, but they are not cited by the authors.* \"\n\nYeah, might be a valid point for the publisher but has nothing to do with your judgement of the article. Putting it in there just reveals that you are generally discontent wih the article and want it off your desk.\n\nLastly, \"*The quality of English is not adequate to follow easily.*\"\n\nGood job concluding with a xenophonic statement. Guess what, people who are not native at English have a fucking hard time in the academy already. Just say that the way it is phrased makes it sometimes hard to follow and mention some specific examples.",
+          "author": "cyberonic",
+          "created": 1610470664,
+          "upvotes": -48,
+          "replies": {
+            "gj0mk8o": {
+              "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0mk8o/",
+              "text": "I see. So in the spirit of your comments here, you are saying that OP's critique should have been much more hostile, nitpicking each and every sentence of the paper in aggressively personal terms sprinkled with swear words?",
+              "author": "bigrottentuna",
+              "created": 1610471386,
+              "upvotes": 38,
+              "replies": {
+                "gj0o0t8": {
+                  "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0o0t8/",
+                  "text": "I think OP\u2019s comments could be more explicit and provide clear examples that will be useful to the writer, not necessarily longer.\n\nThe comment about the consolidation of information could read \u201cThe authors have not clearly shown the relationship between the papers they discuss, they should focus more on highlighting the ressemblances and differences between the papers than on [x].\u201d\n\nAlso, the comment about English grammar should specify what aspect of the language the paper seemed to struggle with (e.g. syntax, proper preposition use, verbe tenses, etc.). So instead of saying \u201cThe quality of English is not adequate to follow easily.\u201d, OP could say \u201cThe use of subordinate clauses is excessive and makes the text hard to follow. The authors should review and edit their draft with this in mind.\u201d Asking for better grammar is not xenophobic... I\u2019m not a native English speaker but I would expect papers I write in English to be regarded with the same degree of grammatical scrutiny as those I write in my native language because I want my paper to be the best it can possibly be. I just think \u201cthe English is not good\u201d is not very actionable advice, there\u2019s nothing to take away from that for the authors to actually improve their writing.",
+                  "author": "spacenb",
+                  "created": 1610472049,
+                  "upvotes": 22,
+                  "replies": {
+                    "gj2iyga": {
+                      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj2iyga/",
+                      "text": "IMO the best way to address language issues is to recommend that the authors consult with a native speaker or a writing professional. There are services you can use that will do this. My old advisor did that while looking for jobs after he got his PhD. \n\nIf there is something specific that stands out then make a comment, otherwise note that the language needs review and move on. STEM reviewers are not language experts and should only address language issues when it interferes with the readers understanding of the science.",
+                      "author": "sailingpj",
+                      "created": 1610504278,
+                      "upvotes": 2,
+                      "replies": {
+                        "gj2j6v1": {
+                          "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj2j6v1/",
+                          "text": "That advice may be only applicable to STEM fields where lab funds can be used for that purpose... personally I could never afford to pay a professional to review my articles before submission.",
+                          "author": "spacenb",
+                          "created": 1610504405,
+                          "upvotes": 2,
+                          "replies": {
+                            "gj2lk3c": {
+                              "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj2lk3c/",
+                              "text": "Yup, that's why I specified STEM in my comment. I did look up a couple scientific manuscript editing services and it seems that the going rate is about $150-$300 for papers in the 1500-8000 word range (I'm not actually sure what the normal word count is for papers in my field). \n\nThat's definitely a roadblock, but it's less expensive than I expected.",
+                              "author": "sailingpj",
+                              "created": 1610505653,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "gj0neyg": {
+                  "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0neyg/",
+                  "text": "I think it is a little far fetched to conclude that reviews must be written similar to reddit comments. \n\nI wanted to show how such a \"review\" may come across.",
+                  "author": "cyberonic",
+                  "created": 1610471774,
+                  "upvotes": -13,
+                  "replies": {
+                    "gj10mqm": {
+                      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj10mqm/",
+                      "text": "But OP stated that the comment you dissected was just their summary, i.e. the brief reasoning given to back up the decision when replying to the authors and the editor. As long as the author backs this is up with specific examples and a more detailed helpful review, there's no problem here surely?",
+                      "author": "CosmotheSloth",
+                      "created": 1610477706,
+                      "upvotes": 4,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "gj1qecy": {
+              "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1qecy/",
+              "text": "You have to understand that I crafted my example you quoted to be intentionally vague and brief so as to give an overview of my reasons while revealing nothing about the content of the paper.  \n\n\nStating their English is poor isn't xenophobic. It is literally hard to follow what they're saying, and English is the language of the publication. I would never let English skills be a determinant of rejection/acceptance. If this was the only issue I would simply recommend an English expert to proofread.",
+              "author": null,
+              "created": 1610489462,
+              "upvotes": 6,
+              "replies": {
+                "gj2kkoe": {
+                  "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj2kkoe/",
+                  "text": "I think your comments were fine. They would be better with more specific details, but you are being vague b/c reddit, so that's fine. \n\nYou basically have the thesis sentences for a few useful paragraphs of criticism there, and they are all valid points. Definitely include these comments in your review. This sounds like a paper where the authors have been staring at it so long they didn't notice that it doesn't connect. I've definitely had that issue before. Add in some difficulties with the language and you have a rough paper, but all the things you are pointing out are fixable. \n\nMy only suggestion is to try and find something positive to add. For example, would a review paper on this topic be useful to the field? If so then add that in and add a sentence encouraging them to keep working. Pointing out things that work well is helpful because it give the authors examples to work from, and tells them what doesn't need major revision. It also shows the authors that you really read their work and cared enough to give a detailed review, and you aren't just being negative for no reason. \n\nBut yeah, uncited figures borrowed from other sources is a blatent plagiarism issue. It's possible they just forgot to add in those citations, but that's one of the things peer review is supposed to catch.",
+                  "author": "sailingpj",
+                  "created": 1610505135,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "gj1o6j9": {
+              "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1o6j9/",
+              "text": "okay reviewer #2",
+              "author": "0bAtomHeart",
+              "created": 1610488428,
+              "upvotes": 0,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gizu035": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gizu035/",
+      "text": "One of the main goals of a good reviewer is to help making the manuscript better. Thus yes, you have to include a detailed list of reasons for proposed rejection. In fact, sometimes my rejection reviews are longer than positive reviews.",
+      "author": "k8ua",
+      "created": 1610456065,
+      "upvotes": 84,
+      "replies": {}
+    },
+    "gizz8fy": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gizz8fy/",
+      "text": "You're not doing the authors a favour by omitting your criticisms. If they don't understand why you (and probably other reviewers) think their work isn't publishable, then there's a good chance they'll just send it somewhere else without changing it, and you're deferring the job to the next reviewer. You can be direct and say that you don't think it's publishable in its current form without being cruel.\n\nI would avoid using the 'confidential comments to editor' box, personally. I would normally only use this if I suspected something like fraud. If it's an academic criticism of the paper & the reason you're suggesting rejection, then I think the authors are entitled to see it. The editor also has to justify their final decision to the authors, so if they can't share your feedback because you've said its confidential, they might just ignore your review altogether.\n\nI would usually structure my reviews starting with a 1-2 sentence summary as a sanity check that I've understood the key points. I would then say whether my opinion was overall positive/negative, and briefly highlight the key points behind it. I'd then list specific points for the authors to address/consider. If I think the paper needs a radical overhaul, then I  limit the list to just the major things. You don't really need to point out typos when substantial rewrites are necessary.",
+      "author": "Flemon45",
+      "created": 1610459546,
+      "upvotes": 61,
+      "replies": {
+        "gj0spy8": {
+          "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0spy8/",
+          "text": ">I would avoid using the 'confidential comments to editor' box, personally. I would normally only use this if I suspected something like fraud.\n\nI will sometimes communicate concerns about quality of the English especially if it is clear that it is not the authors' first language. That way I can call this out as an issue for editorial attention while focusing my review on the scientific content of the manuscript. Given that this is often a sensitive issue, and given that journals may have internal technical editorial staff whose priority this is, I feel like this is better than specifically calling out quality of the writing in my referee report itself.",
+          "author": "tchomptchomp",
+          "created": 1610474153,
+          "upvotes": 12,
+          "replies": {}
+        }
+      }
+    },
+    "gj011jg": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj011jg/",
+      "text": "Of course. It's your duty to help enhance the product. It's likely it will end up in another journal. You might as well help it be better... Even if reject.",
+      "author": "TaDoza",
+      "created": 1610460596,
+      "upvotes": 24,
+      "replies": {}
+    },
+    "gj0f2t9": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0f2t9/",
+      "text": "A reviewer has an ethical duty to provide constructive and timely comments. One of the major goals of a review is to help the author benefit from the process. Authors often need and use insights from outside readers. Some authors do not have resources at their places and these are the authors who need even greater help. \n\nSimply tossing aside a paper with no useful comments because it will be rejected anyway is an abdication of these duties. If someone feels that they are unable to devote time to write a proper review, then they should not take on the duty in the first place. A reviewership is an important duty to the profession and it should be taken seriously.",
+      "author": "Kingarvan",
+      "created": 1610467909,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "gizooqt": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gizooqt/",
+      "text": "I normally feel bad leaving a brief rejection note, but I feel like it would be a waste of my (and everyone's) time to write a detailed review.\n\nWhat I do is write a set of 2-5 bullet points describing in a bit more detail the fatal flaws of the paper. It shouldn't read as a series of recommendations for improvement, but as a justification for my recommendation to reject. It is more of a way to plead my case with the Editor with a bit more information, so that they see that I didn't take that decision lightly.\n\nEdit: these bullet points turn out to be around 1-2 pages anyway. I really wouldn't appreciate, as an editor, a suggestion to reject that didn't come at least with a minimal analysis of the paper's shortcomings.",
+      "author": "Beneficial-Finding-2",
+      "created": 1610451577,
+      "upvotes": 33,
+      "replies": {
+        "gizqhw6": {
+          "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gizqhw6/",
+          "text": "That is really nice of you. Just 2-5 bullet with a 1-3 sentences would go a long way. Without comments, I would assume the reviewer has a personal problem with the topic or the authors. \n\nSincerly,\nAn untalented writer",
+          "author": "schwabbbel",
+          "created": 1610453214,
+          "upvotes": 16,
+          "replies": {}
+        },
+        "gizpqxb": {
+          "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gizpqxb/",
+          "text": "I appreciate that. I did intend to break down my reasons to the editor but didn't know if I would be \"rubbing it in\" to reveal most of this to the students too. But I think I have a good idea of how to summarize the flaws directly without being over-the-top.",
+          "author": null,
+          "created": 1610452549,
+          "upvotes": 7,
+          "replies": {
+            "gizrrgn": {
+              "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gizrrgn/",
+              "text": "One issue remains, that if the editor is set on recommending a revision, your points might be used as comments for improvement anyway... but that's a bit out of your control unfortunately.",
+              "author": "Beneficial-Finding-2",
+              "created": 1610454297,
+              "upvotes": 13,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gj01lpz": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj01lpz/",
+      "text": "One, remarks are important for the authors. Two, you need to justify your decision to the editors.\nI have sometimes written two versions, one for authors and one for the editors.",
+      "author": "zastrozzischild",
+      "created": 1610460911,
+      "upvotes": 16,
+      "replies": {}
+    },
+    "gj0hkss": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0hkss/",
+      "text": ">If I'm rejecting the paper anyways, won't my (necessarily) negative comments about why be overkill? \n\nI really don't see the overkill. If you're are going to reject it is key to say why. Have you ever got a rejection?",
+      "author": "FilemonNeira",
+      "created": 1610469094,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "gizol1t": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gizol1t/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1610451484,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "gj06m2u": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj06m2u/",
+      "text": "You can outright reject something and still give feedback and suggestions. From the perspective of an editor,  if you just check boxes and give quantitative feedback without explaination, they might have to go get another reviewer if they're on the fence already.  A review is meaningless without elaboration.",
+      "author": "Whitewineandshrimp",
+      "created": 1610463582,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "gj0bfo3": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0bfo3/",
+      "text": "If my paper submission was rejected, I would like to know why.",
+      "author": "Individual-Thought-1",
+      "created": 1610466072,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "gj1nj5q": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1nj5q/",
+      "text": "I\u2019m not sure why nobody has mentioned it yet, but you aren\u2019t rejecting the paper. That\u2019s the editor\u2019s decision. That\u2019s why you need to give comments - you\u2019re arguing your position.",
+      "author": "rauhaal",
+      "created": 1610488131,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gj0ae34": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0ae34/",
+      "text": "As a reviewer, in my view, you are merely a custodian of the paper - your role is to improve the manuscript. Feedback is key.",
+      "author": null,
+      "created": 1610465505,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gj0o6yb": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0o6yb/",
+      "text": "You triggered my governance spirit. My professor in governance taught me this: \"Approvals don't need reasons, but rejections do.\"\n\nYou should always provide some comments and ways to make the paper better. If the paper should be rejected (not edited), you should provide an explanation why the paper is not good for publication or not a good fit. At least there must be a section that's worse than the others, right?\n\nOf many, here are some of the comments for papers I rejected, written in a vague manner so I don't trip on anything bad:\n\n* The paper's methods were not clear, and some methods contradicted each other.\n* The methodology does not follow the objectives. (In my head: What the hell is this guy trying to prove?)\n* Based on the results presented, this is an incremental improvement based on Coauthor and Author (199X), and Author and Coauthor (200X). These papers weren't properly cited here. (Dear Editor: These fuckers are self-plagiarizing.)\n* The methodology is too similar to another paper on a similar topic. Ensure that they are properly cited before resubmission. (Dear Editor: Mine. These fuckers dare use my spells against me. You told me I can't recommend they cite me, so I'm telling you.)\n* The results omitted something and this isn't mathematically or scientifically acceptable. The improvements necessary will be too substantial to be edited in a timely manner.\n* The authors used an inappropriate sampling method without justification. This affects too much of the subsequent work and it's impossible to fix it without recruiting test subjects again.\n* The authors mixed up two experiments together and was unable to determine if the factors are independent from each other. Please go back to the drawing board and do one thing at a time, or convince your professor not to be so stingy about the materials.\n* The authors wrote only 3 sections. Yes, this is a students' conference, but you can't write just up to the methods and leave out the results. Dude, say something even if it isn't complete.\n\nPlease be clear and be direct about where this can be improved. Please do not be condescending or judgmental about it. State matter-of-factly about what's going on, and offer a clear way that the article will get more points the next time.",
+      "author": "lunaticneko",
+      "created": 1610472126,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gj0t11g": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0t11g/",
+      "text": "There should be a required grad seminar in every discipline on how to properly review journal article submissions.",
+      "author": "gggggggggggfff",
+      "created": 1610474290,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gj0wm93": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0wm93/",
+      "text": "I'm going to echo what has already been said. Yes, I submit comments to the authors when I fully intend to reject a paper. I select three to five topics and provide feedback to help them improve the manuscript. Topics range from methodology, reporting of results, to appropriate writing style. There is a high chance the the author(s) will resubmit the article to another journal. By providing additional feedback, they will be able to improve the manuscript for increased chance of acceptance to the other journal.",
+      "author": "MusicalWrath",
+      "created": 1610475910,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gj1fciw": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1fciw/",
+      "text": "Yes, always. Reviewing isn\u2019t just about improving a product, it\u2019s about supporting the improvement of a scientist/author",
+      "author": "DoctorFescue",
+      "created": 1610484411,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gj1oxnk": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1oxnk/",
+      "text": "From an editorial point of view, it's impossible to reject a paper sent to review if there are no comments to the authors making it clear why a rejection is necessary.",
+      "author": "legatek",
+      "created": 1610488774,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gizu7xh": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gizu7xh/",
+      "text": "Given that the editor already approved the paper for review (unless it's an editor that doesn't at least skim the submissions), a couple of comments for the editor explaining your decision is good karma. And as long as your doing that, you might just as well jot down a few remarks to the authors as well :) \n\nIf the paper hasn't been assessed by the editor prior to assigning it to a reviewer, should be a pointer not to do any reviews for that journal anymore.\n\nIf the submission is for a conference, it's a slightly different scenario where papers often aren't assessed prior to review.\n\nMy general approach is to always assume that the authors at least attempted to do their best, and a reason for rejecting the paper is the polite and best way to respond.",
+      "author": "danishscatterbrain",
+      "created": 1610456224,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gj0dx6e": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0dx6e/",
+      "text": "Thr authors deserve feedback about the problems with their paper, otherwise how will they ever improve?  \n\nAlso, they took the time to write and submit the paper, you agreed to review the paper, so please do the work and review the paper.  I know that reviewing a paper is a lot of work, but that's kind of what you signed up for.\n\nIf those weren't enough reasons, just put yourself in the shoes of the paper's authors.  If you had submitted the paper, what feedback would you like to receive?  Just \"rejected\", or rejected and here's the reasons why, here's what you could do better, this needs to be fixed, take a look at such & such's work, etc.",
+      "author": "anon0630",
+      "created": 1610467345,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gj0n9ai": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0n9ai/",
+      "text": "You've gotten a lot of good feedback already RE the original question, but more generally I think when approaching reviews, you should try to put yourself in the shoes of the authors a bit, at least at the end before you click the submit button. Trying to see things from the perspective of the submitting authors can be helpful in avoiding unnecessarily harsh language, providing meaningful feedback, etc. I.e. read back your review and/or individual comments and try to assess, how would you react if you got these comments about a paper you submitted? Or how would you proceed if a paper you submitted was rejected without any information as to why?",
+      "author": "CrustalTrudger",
+      "created": 1610471704,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gj0ugbz": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0ugbz/",
+      "text": "If you can't give constructive feedback without being aggressive then you shouldn't be reviewing other people's work. It's perfectly possible to describe objectively why you consider the paper is unsuitable without being hostile. If you do not want to be too critical then you can focus on the most problematic aspect and mention the rest in passing. It's not up to you to decide whether the person resubmits or not. Also, if the person does implement all the things you mention then the paper should absolutely be resubmitted and that is none of your concern. I don't understand the fuss. \n\nThis is a big concern I have with academia, people who are not pedagogical but still somehow make it to power positions where they can frustrate people and not give them the tools to learn and advance.",
+      "author": "Anteros94500",
+      "created": 1610474935,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gj1f37z": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1f37z/",
+      "text": "Yes, but in the social sciences papers are expected to be rejected/revised several times - developmental feedback is expected.",
+      "author": "ph0rk",
+      "created": 1610484294,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gj1c2mq": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1c2mq/",
+      "text": "Kindly reply even if u are gonna reject it. I had a paper which was rejected and had no comments. It hurts worse than reading negative comments cuz I thought my paper was not even good enough to receive comments. In the end I got it published in a better journal.",
+      "author": "Francescodepazzi",
+      "created": 1610482914,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gj1nrun": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1nrun/",
+      "text": "If what your edit says is accurate, the journal editor should have rejected it without review.\n\nFeedback is always appropriate, and I always appreciate getting it, no matter the outcome of the submission. That is the essence of the peer review process.",
+      "author": "pschmid61",
+      "created": 1610488241,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gj1u6ux": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1u6ux/",
+      "text": "As a reviewer, it is my responsibility to explain precisely why I recommend rejection. Might only be a paragraph long. I would definitely expand on the paragraph that you have in your OP. Get some concrete examples. As a reviewer I think of myself someone as a mentor, need to give them enough information that they understand how to improve the work.",
+      "author": "nc_bound",
+      "created": 1610491269,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gj1v6xc": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1v6xc/",
+      "text": "Yes.",
+      "author": "makemeking706",
+      "created": 1610491756,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gj21iks": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj21iks/",
+      "text": "My philosophy when reviewing is that ***I*** am not the one rejecting or accepting the paper; that's the editor's decision. My responsibility is to help the editor make their decision. So yes, absolutely you should be thorough with your comments on the manuscript even if you don't think it should be accepted.\n\n>it would look as though I'm recommending revisions and resubmission.\n\nUnless there is a serious, fundamental flaw in the study (including unethical activity by the authors) in which case you would be mentioning this anyway, you *should* be open to revisions and resubmission.\n\nEdit: sorry, just read your edit. Honestly, your summary is fine. I would certainly add another paragraph or two with comments about the manuscript material, but I don't think your paragraph is egregious. It appears to be fair even if harsh.",
+      "author": "rick2882",
+      "created": 1610494947,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gj0teay": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0teay/",
+      "text": "It depends. The \"better\" the bad paper is, the more I'll feel obligated to help them get the paper up to par, but at the same time the \"worse\" the bad paper is the more fun I'll have reviewing it, and the more time I'll put into tearing it apart.",
+      "author": "r3dl3g",
+      "created": 1610474453,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "gj09pnr": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj09pnr/",
+      "text": "I guess it depends. If the manuscript has hope of being accepted somewhere else, then comments are a good thing. Although, if it seems the author's didn't put in the work and just want free feedback it is probably OK to provide minimal feedback.",
+      "author": "Dr_Defecation",
+      "created": 1610465141,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "gj0mb31": {
+      "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj0mb31/",
+      "text": "Personally i think it depends on how many Fs the author gave. I get too many papers coming to me that are not finished products, or blatantly bad quality work to the point of often being forged data. One or two statements calling them out for this is all that is needed. The deeper rational for your thoughts are for the editors. It's not your job to rewrite a paper with better english. A few suggestions or correction of reoccurring errors is fine, but when the paper just needs to be rewritten, that's all that needs to be said. If more experiments are needed, or something is critically wrong with design or conclusions, than yes, elaborate.",
+      "author": "ActionXPotential",
+      "created": 1610471271,
+      "upvotes": 0,
+      "replies": {
+        "gj1s1pn": {
+          "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj1s1pn/",
+          "text": "This is precisely what I'm talking about. This paper does not look like a finished product. Hence my confusion about how much to dedicate to a review (to the authors, I would of course give my reasons to the editor) about why their incomplete work needs completing.  Thanks.",
+          "author": null,
+          "created": 1610490237,
+          "upvotes": 1,
+          "replies": {
+            "gj252w0": {
+              "link": "/r/AskAcademia/comments/kvp1kz/if_you_intend_to_reject_a_paper_youre_reviewing/gj252w0/",
+              "text": "I used to give more thorough reviews for that crap, but now my attitude is, if they don't try neither will I. It seems as if people use the review process to get free editing, an easy pass, or ideas on the minimums needed to get it through. Or worse it's people who just need to pad their CV for some upcoming progress report to make themselves look more productive, or meet some institutional quota. Whatever it is, it pisses me off. You don't need to submit a CNS paper, but jesus at least make it a complete story with appropriate writing. Don't spend much time. Just tell them it's incomplete, poorly written, and one or two sentences on why the science is insufficient. No need to waste your time, you will end up putting in more effort on the review than they did on the submission.",
+              "author": "ActionXPotential",
+              "created": 1610496821,
+              "upvotes": 0,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

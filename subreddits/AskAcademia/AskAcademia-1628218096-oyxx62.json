@@ -1,0 +1,637 @@
+{
+  "sid": "oyxx62",
+  "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/",
+  "title:": "When is it acceptable to reject a paper?",
+  "text": "I\u2019ve been reviewing papers regularly for a few years now (I am a postdoc in a STEM field) but I still don\u2019t understand when it is acceptable to reject a paper. I\u2019ve seen some pretty egregious stuff but I always just recommend \u201cmajor revisions\u201d. Some journals that I review for seem to always send me crappy papers, so I just assume that their bar is lower. They are a legit (not predatory) journal. Are flawed methods or bad fit to journal the only reasons to reject? Sometimes I see methods that are only partially flawed, so I recommend major revisions. \n\nIn the case I am working on now, the authors included a bunch of extraneous analysis that did not contribute to their message at all and was not introduced in the introduction or discussed in the discussion. They have 80+ pages of tables and figures. Some of that is supplementary, but supplementary figures are referenced more often in text than their main figures. I really want to reject this paper because it is a mess with no clear point but I don\u2019t think that is a good enough reason. It has taken me over 3 days to review it. My PI doesn\u2019t allow me to do reviews on \u201ccompany time\u201d so I will have to use vacation days. I won\u2019t reject it. I will provide constructive feedback. It is difficult to evaluate the validity of the methods when the writing is unclear. This is not a language barrier issue (I would never comment on that or fault an author for that), but rather that there is no point to the analysis. There is no goal, no question being answered. They got a dataset and threw the statistical kitchen sink at it and then did not draw any conclusions, but just reported results. \n\nEdit: Before anyone gets mad at me: no one has ever taught me how to review a paper. I base my reviews on reviews I have gotten. I would welcome honest advice on how to review a particularly messy paper.",
+  "author": "foundingflounders",
+  "created": 1628218096,
+  "updated": 1634079991,
+  "over_18": false,
+  "upvotes": 121,
+  "upvote_ratio": 0.96,
+  "comments": {
+    "h7w32rc": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7w32rc/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1628218891,
+      "upvotes": 142,
+      "replies": {
+        "h7wibcl": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7wibcl/",
+          "text": ">Is this salvageable? \n\nI may be crusty, but my line is \"Do I think they're likely to improve this paper to the point where I'd want to review this paper again?\"",
+          "author": "rlrl",
+          "created": 1628227807,
+          "upvotes": 77,
+          "replies": {}
+        },
+        "h7wcdk4": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7wcdk4/",
+          "text": "I agree with \"salvageable\" being a good criteria. I think if you say \"major changes\" to something that is unsalvageable then you are doing a disservice to the authors and to the next reviewer (assuming it goes to someone else if it gets edited and resubmitted). \n\nOf course, do it gently. Reddit and Twitter are full of graduate students and ECRs who have received unnecessarily rude or cruel \"this should never be published anywhere, throw it in the bin\" type rejection comments.",
+          "author": "DrLyndonWalker",
+          "created": 1628223899,
+          "upvotes": 53,
+          "replies": {
+            "h7wtsv2": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7wtsv2/",
+              "text": "Agreed. The only time I\u2019ve rejected a paper is when the authors came back to my major revisions feedback and defended absolutely every point, refusing to make any substantial changes, and their defence was rubbish (ie citing papers in their defence that actually supported my argument). At that point I felt the authors weren\u2019t willing to make the necessary changes.",
+              "author": "ayeayefitlike",
+              "created": 1628236880,
+              "upvotes": 27,
+              "replies": {
+                "h7xiw21": {
+                  "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xiw21/",
+                  "text": "You always go along for 3/4 of the recommendations so you can die on that hill to the last man for the other 1/4",
+                  "author": "ThePhysicistIsIn",
+                  "created": 1628255342,
+                  "upvotes": 13,
+                  "replies": {
+                    "h7xjicz": {
+                      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xjicz/",
+                      "text": "Don\u2019t get me wrong I wasnt expecting them to acquiesce to every comment/recommendation - but when you argue every single point and do it badly too (trying to justify lack of validation by citing a study that explicitly uses a validation method for Pete\u2019s sake!) then it just dumps on all your good faith.",
+                      "author": "ayeayefitlike",
+                      "created": 1628255654,
+                      "upvotes": 7,
+                      "replies": {
+                        "h7xmv0k": {
+                          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xmv0k/",
+                          "text": "I wasn\u2019t being facetious- you generally have to buy goodwill with the reviewers before you spend it pissing them off",
+                          "author": "ThePhysicistIsIn",
+                          "created": 1628257279,
+                          "upvotes": 9,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "h7x0l06": {
+                  "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7x0l06/",
+                  "text": "Not the smartest bunch, apparently.",
+                  "author": "molobodd",
+                  "created": 1628242732,
+                  "upvotes": 4,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "h7w3lei": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7w3lei/",
+          "text": "Thank you, this is helpful!",
+          "author": "foundingflounders",
+          "created": 1628219150,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "h7x6w6e": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7x6w6e/",
+          "text": ">the core hypothesis mistaken, \n\nHaving a mistaken hypothesis (IE being wrong) is still publishable. What is not is as significant as what is and rejecting papers that show the hypothesis to be false leads to falsifying results.\n\nIn some papers in psychology, they'll find X is true. Those papers are more likely to get published while papers that show X is false is less likely to be published. This is one contribution to the Replication Crisis",
+          "author": "ObviousReindeer235",
+          "created": 1628247898,
+          "upvotes": 5,
+          "replies": {
+            "h7xlzpy": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xlzpy/",
+              "text": "Check out figure 1 of this paper for a crazy visual of that:\n\nhttps://arxiv.org/pdf/2009.09440.pdf",
+              "author": "PCVUlcumayo",
+              "created": 1628256863,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h7x2cel": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7x2cel/",
+      "text": "Why would you use your holidays to review papers? I understand wanting to contribute to your field, but what PI doesn't count that as normal working hours?",
+      "author": "noknam",
+      "created": 1628244196,
+      "upvotes": 69,
+      "replies": {
+        "h7xmjgl": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xmjgl/",
+          "text": "Ya this part stopped me dead. Reviewing papers is part of being an academic! Does this PI just tell every journal they\u2019re too busy? It\u2019s completely \u2018work\u2019, I mean.. it\u2019s too bad you don\u2019t get $5 for coffee or something for reviewing papers though.",
+          "author": "wallacethedog",
+          "created": 1628257127,
+          "upvotes": 34,
+          "replies": {}
+        },
+        "h7yk1h6": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7yk1h6/",
+          "text": "They say I have the option to turn down requests to review and that I should do that because I should be working on my postdoc project.",
+          "author": "foundingflounders",
+          "created": 1628271481,
+          "upvotes": 4,
+          "replies": {
+            "h80e59o": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h80e59o/",
+              "text": "That is good advice! Reviewing is an important thing to do, but you are being exploited to your own and your PIs detriment.",
+              "author": "IkeRoberts",
+              "created": 1628302928,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h7w8dxe": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7w8dxe/",
+      "text": "You said the paper doesn\u2019t make a clear point. That\u2019s a slam dunk reject in my book. You\u2019re not saying that it can never be published, just that it needs too much work to be given the chance to revise and resubmit. It\u2019s great that you\u2019re giving feedback (although I\u2019d recommend giving less of it to save your time).",
+      "author": "schwza",
+      "created": 1628221638,
+      "upvotes": 59,
+      "replies": {
+        "h7xbedh": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xbedh/",
+          "text": "Absolutely agree here, papers need to be properly crafted prior to submission. We're reviewers and not editors and we should certainly help with the science if there are small issues, but as soon as I realize a paper needs serious retooling, I reject and recommend resubmission once the authors do their due diligence.",
+          "author": "Ok_Put_7135",
+          "created": 1628251106,
+          "upvotes": 12,
+          "replies": {}
+        }
+      }
+    },
+    "h7xc6hx": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xc6hx/",
+      "text": "Side note, you wrote that you would never comment on a language barrier issue. I think one absolutely should. There is no need to be nasty or say that the authors don't know what they are doing, but badly written papers or papers that need language revision should absolutely get a comment about that. No point in publishing a paper that no one reads to the end, it looks bad for the authors, and it's a shame if you have a nice cool story to tell.",
+      "author": "zorglubb",
+      "created": 1628251593,
+      "upvotes": 31,
+      "replies": {
+        "h7ykcdw": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7ykcdw/",
+          "text": "We had a discussion in my previous institution about how commenting on grammar and style (especially when there is a language barrier) is discriminatory.",
+          "author": "foundingflounders",
+          "created": 1628271608,
+          "upvotes": 2,
+          "replies": {
+            "h7yknaz": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7yknaz/",
+              "text": "Is it discrimination to not tell them nicely and let them publish something that people won't read or take seriously? Or even understand.",
+              "author": "zorglubb",
+              "created": 1628271735,
+              "upvotes": 6,
+              "replies": {
+                "h7ykz83": {
+                  "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7ykz83/",
+                  "text": "We were told that it is best to make a confidential note to the editor that the paper will require copy-editing. \ud83e\udd37\u200d\u2640\ufe0f",
+                  "author": "foundingflounders",
+                  "created": 1628271875,
+                  "upvotes": 5,
+                  "replies": {
+                    "h7z8sje": {
+                      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7z8sje/",
+                      "text": "Sounds like soft bigotry.\n\nIf I were writing for a foreign language journal and made some grammatical error, I would prefer to be informed so I could make the change and know for the future.  As it is, I've had the meaning of critical sentences blithely reversed *in English* by editors who misunderstood the original meaning while reading in a hurry or were somehow unaware of some grammatical construct. It's usually easier to make such changes before entering final editing, as context and consistency can complicate that discussion, let alone when edits are sent on without checking.\n\nPersonally I have faith that most authors have the ability to improve their command of a new dialect or language, and that many might prefer to first attempt selection of an alternative that most properly conveys intended meaning.  And as /u/dampew said, it's possible you might not be reviewing what you think you are due to meaning *not* being conveyed.\n\nTalking behind their backs ensures they perpetually remain a second class.  One of many \"well-meaning\" cutthroat tactics, but all's fair in this dog-eat-dog world.\n\nAs far as style, it again seems preferable to flag this but a different tone may be suitable: \"I noticed you wrote in this stile, whereas most papers in this domain tend to be in that style\".  Then, again, the author can choose whether to conform to common usage, *and reduce work for the future*, or retain an idiosyncratic style and make clear to editors that it was intentional.",
+                      "author": "vsync",
+                      "created": 1628282207,
+                      "upvotes": 8,
+                      "replies": {}
+                    },
+                    "h7z0tnl": {
+                      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7z0tnl/",
+                      "text": "Depends how bad it is.  It's a problem if you can't understand the point of the paper or follow the logic of what they've done.",
+                      "author": "dampew",
+                      "created": 1628278694,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                },
+                "h7zcgst": {
+                  "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7zcgst/",
+                  "text": "It\u2019s a touchy subject, but there are definitely people who get upset when people complain about academics who have difficulty speaking/writing another language. On the one hand, I can definitely understand how incredibly difficult some people work to try and learn another language and have some people make fun of and be unhelpful in trying to learn that language. And often it is very difficult to learn that language at an academic level. And there are definitely some who use these issues to be xenophobic or express internalized xenophobia (this is usually why people are advised not to comment on language in my experience). On the other hand, I do think that effective communication is important in education and sometimes people with knowledge are not effective communicators, including when they are not teaching in their native language. I\u2019m sure we\u2019ve all had instructors or worked with people who we were trying our best to understand, but despite our best efforts, we simply found it extremely difficult to understand them. \n\nSo, there\u2019s a balancing act to be had here. If you absolutely cannot understand someone\u2019s prose and the ideas they are trying to convey, then that\u2019s an issue. And if you think style choices or poor English will cause harm to the credibility of the work, then that may be worth discussing as well. But addressing this issue of poor English must be done with tact and empathy, and sometimes there are better people to address it (though in reviewing a paper, there may not be a better person).",
+                  "author": "cprenaissanceman",
+                  "created": 1628283834,
+                  "upvotes": 2,
+                  "replies": {
+                    "h816n04": {
+                      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h816n04/",
+                      "text": "Indeed. The main point is to not be an asshole about it of course. You may offend someone by suggesting language editing, but you may also be helping someone out, and you can't always get it right.\n \nI'm not a native English speaker, and I do try to at least get several people to read any important text I write. The manuscripts I am involved in usually have a bunch of coauthors with an ok level of English & useful comments, but even that is of course no guarantee. \n\nIf a reviewer thought the level of English in my manuscripts was bad enough to be irritating, I'd prefer to know, so it can be fixed. However, I only have the Northern European perspective, molecular biology, and I don't think I've ever had discussions with peers really about this isssue. It's interesting, it probably shows how priviledged I am. I won't likely stop suggesting language revision, but making it more subtle comments to the Editor instead makes sense.",
+                      "author": "zorglubb",
+                      "created": 1628321503,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "h7yllj6": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7yllj6/",
+          "text": "I really wish that a simple english style guide for academic work was formalised to ensure the text is not too complex, say comprehensible at a ~B level + jargon. Increasingly more international academia is English first, and texts that read like single sentence sonnets make it just way too difficult, even for me with my near-native English. Not saying like some nonsensical \"simple\" Englishes, or strict constraints, but having a preference towards being a bit more verbose and explicit sometimes.",
+          "author": null,
+          "created": 1628272134,
+          "upvotes": 1,
+          "replies": {
+            "h7ze8r6": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7ze8r6/",
+              "text": "I\u2019m wondering if you can provide some examples and how they might be revised. I too think academic writing (and the available forms it takes) needs to be rethought a bit, but I tend to find the worst part about academic writing is how much it relies on the most jargon-y aspects of its field, often in order to be perceived as \u201cacademic\u201d. And that jargon is never brought down to a reasonable level (or a good source pointed out to explain it), where a person in the field but who is not a specialist on that topic can understand it. There are of course trade offs between technical jargon\u2019s specificity and the ability to convey ideas to a wider audience, but it seems to me that we very often don\u2019t consider them to the degree we should. Sometimes jargon is the answer. Sometimes it\u2019s not. And sometimes you should consider explaining it, but sometimes it is reasonable to assume people have prior knowledge.",
+              "author": "cprenaissanceman",
+              "created": 1628284642,
+              "upvotes": 1,
+              "replies": {
+                "h7zwiw2": {
+                  "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7zwiw2/",
+                  "text": "I mean I don't really have good examples in mind but some patterns. One of the biggest offenders is excess parentheticals for me. They really disorient me. E.g. from the page I am reading right now:\n\n> Systems in which high pitch rather obviously signals indisputable accent locations (and this includes unpredictable locations, as well as those that occur at edges) will be referred to as pitch accent systems [... .]\n\nThis is nowhere near as egregious as it gets (not seldom that I encounter parentheticals so long you forget where they started, or that they ever did), but it could be rewritten as such:\n\n> Systems in which high pitch signals indisputable accent locations rather obviouslywill be referred to as pitch accent systems; including when these locations are unpredictable or coincide with word edges.\n\nIn the first example you have a definition with a qualification, fairly distant from the point where the new jargon is introduced. In the second version, the definition and the new jargon are adjacent, and the qualification is tacked on. I'd probably read the latter once, the former twice or thrice if I'm having trouble concentrating. So \"avoid parentheticals\" could be good advice. Similarly good advice is \"Say something, then qualify\" instead of \"say something with a baker's dozen qualifications in the middle\". So, say \"All animals are equal. Some are more equal\" instead of \"All animals, some that are more equal notwithstanding, are equal\".\n\nAnother thing that absolutely throws me off is the APA full author year citations, especially when multiple. Something like (Doe, 1934; Godknowswhosson, 2020; Chang, 1995; van Hooijdonk, 2003; Pinksmith, 1969; Kayaalp; 1984) is just hell for me because it doesn't at all stand apart from prose. But if it's like [Doe1934; God2020; Cha1995; Hoo2003; Pin1969; Kay1984], it stands out more, and it's also nicer than [3, 5, 12, 13, 19, 42], because you still have some mnemonics. E.g. if I she Cho1957, that's as good a cue as (Chomsky, 1957) for Syntactic Structures, a foundational text of late 20th century linguistics. But, in 2021, you can have [1] have a tooltip with the full citation, so even that's not really necessary.\n\nOne thing that grinds my gears is excessive use of initialisms and abbvreviations (EUIA). When EUIA is employed, all you save is a few characters, but it just adds unncecessary cognitive load. Like, everytime the reader encounters and instance of EUIA, they will be like \"wth is EUIA\" and will have to track back to it.\n\nIMO the intro should be the place where all terminology and a sane amount of abbreviations are clarified. If there's a dictionary for the field's jargon (like the Concise Oxford Dictionary of Linguistics), and your use deviates from them, define explicitly.\n\nAnother guideline could be, if you referred to something by a pronoun twice already, for the third time use its name. If you used an abbreviation two times, the third time, just type it out. These \"long distance dependencies\" are taxing and can become hard to maintain. So: \"The term stress here will strictly refer to word stress. It's also used, in phonology and rest of linguistics, to refer to sentence stress, and sometimes even focus. Thus, the unqualified term 'stress' is ambiguous\" instead of \"~. Thus, it's an ambiguous term.\"\n\nMaybe the APA thing is somewhat subjective but IMO the three other \"rules\" could in and of itself improve most academic texts.",
+                  "author": null,
+                  "created": 1628293359,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h7w4hjw": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7w4hjw/",
+      "text": "I shouldn't agonise too much over your recommendation - the editor will (or should!) carefully read your comments and those from the other reviewers, then read the paper carefully forming their own view about how crucial/fatal each one is. The actual recommendation made by the reviewer is really not that vital. I know that some reviewers will recommend that almost all papers are rejected... others that almost every paper is accepted! So editorial decisions are not just based on revieer recommendations. Personally, if the data are good and the methodology and theory are sound, I wouldn't recommend rejection. Everything else can be fixed, so it seems fair to give the authors the opportunity to do so!",
+      "author": "pixiepasty",
+      "created": 1628219610,
+      "upvotes": 19,
+      "replies": {}
+    },
+    "h7xi6o7": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xi6o7/",
+      "text": "I guess I'm reviewer no. 2. \n\n\n\nI reject quite a few papers, but never without justification. I hate it when an editor sends me a bad paper because a bad review is so much harder than a good one. \n\n\n\n- I rejected one this week because the authors didn't do what I asked for in the first review. The paper had major flaws, but by changing a few things it would get over the bar. I said major revision, and outlined exactly what it needed. Later, I saw that one of the other reviewers gave almost exactly the same feedback. When we got the revision it was different but still bad; it didn't address the changes we needed to see at all. Reject. \n\n\n\n- I rejected one a few months ago because the experiment was poor and the conclusions were not justifiable from the data. It took both of these things to get the reject. If the data were good then I would've helped them with different conclusions. Even if the experiment was not ideal, I'd be willing to see if the results were still useful in some limited context. Bad design of experiment AND bad use of data is gonna get the hose. \n\n\n\n- I rejected another paper a few months ago because it was a mess. Reading below, it seems like some of you try to save these. For me, I get uncomfortable if I can't say what I don't like about the paper on the first draft. Sometimes a paper has so many issues that I know many more criticisms will arise once they clean it up. As an author, I hate it when reviewers bring up new issues after the first revision. For a messy paper I'll reject it but tell the authors they just need to clean it up - it's not like it'll never get published, but I also don't want them to think there is a clear path to publication.",
+      "author": "blue_pez",
+      "created": 1628254978,
+      "upvotes": 16,
+      "replies": {}
+    },
+    "h7x1wd8": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7x1wd8/",
+      "text": "First off, remember that rejection isn't the end of the road for a paper. Often, a rejection means that the reviewer doesn't believe that the paper can be salvaged in a reasonable timeline and that resubmitting after significant work has been done might be an option.\n\nRejection because the paper doesn't fit the journal's scope is also common.\n\nRejection because the paper is an unreadable mess is fair in my book. Like, maybe there's a brilliant paper in there, but it's not the reader's job to find it. I've rejected before with \"figure out what you want to say and come back later\" as the general comment before.\n\nRejection because the paper is clearly trying to sell a quarter of the actual results to multiply the number of publications is also fair. Journal papers aren't meant to be sliced into shorter, less significant, repeating pieces.\n\nRejection because the paper spends most of its time explaining how a well known method works, only to use it (maybe badly) to get data that is presented without analysis is also totally fine. Not every study is a worthy contribution to science.",
+      "author": "NilsTillander",
+      "created": 1628243831,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "h7w60jd": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7w60jd/",
+      "text": "I recently rejected my first paper. I have written some hard reviews before, but I had not ever outright written a recommendation to reject without the possibility of revision.\n\nThe article in question was attempting to cash in on a recent fad in the field. It was written by a lone clinician with no access to equipment to make any kind of measurements. The paper represented a theoretical design to achieve the said fad, using old technology.\n\nThe concept wasn't bad - had the design been feasible, or had it solved some problems that no better alternative could, it probably could have been published. But it really suffered in its execution. There was a simplistic computer model that showed the design would work on its face, but it did not address any of the glaring flaws associated with that particular methodology. There was not much time spent on acquiring data or validating the proposed methodology past the very basics. \n\nThe proposed method used obsolete technology associated with a large number of practical and fundamental difficulties that would prevent the design from ever becoming a useful prototype. It solved no problems that were not already solved by existing, commercially available technology. \n\nThe kiss of death was that the author tried to salami cut their already-paltry paper into three - promising two more followup papers where the method would be adapted to slightly different geometries. A single paper where all three geometries were presented and compared and contrasted might have had a lot more standing? But this was egregious.\n\nAnother paper I rejected recently was from a chiropractor writing pro-x-ray imaging propaganda that had been copied and pasted in numerous other publications ad infinitium. The same figures were in 4-5 other articles I linked. I wrote to the editorial staff that I was shocked and appalled it had actually made it to review.",
+      "author": "ThePhysicistIsIn",
+      "created": 1628220406,
+      "upvotes": 26,
+      "replies": {
+        "h7wwcxt": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7wwcxt/",
+          "text": "The paper you rejected about the alternative design. Was the design itself feasible? Unless you could show it categorically could not work, you had no right to reject the paper, imo.",
+          "author": "radionul",
+          "created": 1628239081,
+          "upvotes": 2,
+          "replies": {
+            "h7wyjr5": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7wyjr5/",
+              "text": "It was not. The conceptual problems were glaring and not at all adressed.\n\nPart of what I do is to evaluate if the article belongs in the journal - meaning novelty and relevance. An irrealisable design is neither.\n\nThe other reviewer and associate editors had nearly identical concerns to mine and it was summarily rejected.",
+              "author": "ThePhysicistIsIn",
+              "created": 1628240995,
+              "upvotes": 15,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h7wtkt0": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7wtkt0/",
+      "text": "I wish there was more openess regarding reviews. Like you, I've never been taught how to review a paper and I wish there was some system where some reviews could be made public for learning purposes.\nWith no training myself, I felt so uncomfortable rejecting the first ever paper I reviewed. To be fair, their methodology was \"we used Excel to store our data\" and that was pretty much it.",
+      "author": "planetniffer",
+      "created": 1628236684,
+      "upvotes": 8,
+      "replies": {
+        "h7x1a92": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7x1a92/",
+          "text": "Journals from the EGU are open review, at least to a degree. It's interesting to skim reviews and see the different styles. Of course, the reviews being public and often attached to the reviewer's name, they are on the more substantial side of things.",
+          "author": "NilsTillander",
+          "created": 1628243324,
+          "upvotes": 4,
+          "replies": {
+            "h7xy49y": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xy49y/",
+              "text": "Oh cool! Thanks for this. I didn't think something like this would exist. Will check it out.",
+              "author": "planetniffer",
+              "created": 1628262249,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "h8108g6": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h8108g6/",
+          "text": "The journal Elife publishes the reviews and responses to reviews along with articles.",
+          "author": "n3gr0_am1g0",
+          "created": 1628316391,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h7wyxjv": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7wyxjv/",
+      "text": "I think it's great you're seriously thinking about this, first off. There's a certain kind of obviously but generally low-quality paper that's particularly difficult to evaluate, which might be what you're dealing with in this specific case - there's not really one glaring fault that makes it clear it needs to be rejected in its current form (I agree that salvageability decides whether you think resubmission makes sense). It's very honorable to want to be constructive but I would suggest being very intentional about who/which papers deserve it, as some people even really will just submit utter shit in order to get reviewers to do their work for them, or just to see whether they get lucky. Those types, where it's just obvious, only should get very general, generic feedback - \"serious lack of clarity/adequate reflection of the literature/methodological justification/etc throughout\", or whatever. If I think the authors made a good faith effort but made a mistake somewhere then I'll go into detail for them.\n\nIt might help to consider explicitly what you see the role as being, or what you agree to when doing it. Are you a copy-editor for free? Do you primarily want to change other people's papers so they're better (\"better\" as per your opinion)? Do you want to serve as a quality control mechanism to try to reduce at least the worse, most obvious nonsense getting into the peer-reviewed scientific literature? (Personally, I've come to lean mostly towards 3, with some of 2 but I try to make it extremely clear when I'm making honestly optional suggestions for improvement, since it's so easy to abuse the role to push opinions.)",
+      "author": "waterless2",
+      "created": 1628241325,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "h7ywgkn": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7ywgkn/",
+      "text": "For me in my discipline, \"it is a mess with no clear point\" is absolutely good enough to reject, because the authors can't just fix a few specific things -- if they revise it enough to fix it, the new draft is going to functionally be a new paper.\n\n> I won\u2019t reject it. I will provide constructive feedback.\n\nYou're allowed to manage your time more \"selfishly\" than that.  This is going to raise some hackles, but back when I was an assistant professor my workflow for reviews looked like this:\n\n*  Read the paper\n*  Decide whether I'm going to recommend rejection, an R&R, or acceptance.\n*  Having already decided on what I'm going to recommend but not having written the review yet, do a quick google to see if I can find out who wrote it.  In practice, I will have probably seen the paper presented before at conferences anyway, as would everyone else in my subfield.\n*  If it's another assistant or a grad student, write the full \"mentoring\" review.  Lots of specific feedback about what they're doing right, what are the specific things I don't like about the paper, some things to do that might help, and so on.\n*  If it's someone above me on the great chain of being, write a review that's just the recommendation and reasons.  I'm recommending rejection for the following reasons:  This review takes about a tenth of the time as a full \"mentoring\" review.  I did it this way because if I'm an assistant, some full prof doesn't really need my advice about how to fix things.\n\n(edited to try to unfuck formatting)",
+      "author": "smapdiagesix",
+      "created": 1628276788,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "h7xnzje": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xnzje/",
+      "text": "God, I wish you were the reviewer for some of my papers. Serving as AE I think I recommend rejection for 80% of the papers I get, and I get extremely annoyed when I send a paper out for reviews and find out my reviewers are a bunch of dingbats who will recommend major revision on a lousy/pointless paper and I have to work harder to justify rejecting it.\n\nI can\u2019t wrap my head around a lot of the other posts here saying they don\u2019t reject papers often. How do you folks square recommending revisions (which usually leads to acceptance) so much with the fact that most top journals have very low accept rates?",
+      "author": "NOTWorthless",
+      "created": 1628257807,
+      "upvotes": 6,
+      "replies": {
+        "h7y0yes": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7y0yes/",
+          "text": "I kind of think it says something about a journal's bar if I get a manuscript. The editor apparently thinks this is good enough to bother reviewers with it, i.e. major revisions at worst. \n\nIf I think it is highly unlikely that the authors can fix the problem, I don't waste time on actionable feedback. I just state the problems in the text. (\"More relevant sources needed,\" \"needs to be proofread by a native speaker,\" etc., rather than suggest direct improvements.)",
+          "author": "molobodd",
+          "created": 1628263462,
+          "upvotes": 2,
+          "replies": {
+            "h7y48sw": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7y48sw/",
+              "text": "Editors and AE's aren't always experts on the subject of the paper, so you shouldn't read into the fact that it made it to the reviewer stage that it should be a major revision. Some reasons I send things out for review rather than screening are:\n\n- I'm not 100% sure I am correct to screen it, and want to see if reviewers pick on the same issues.\n\n- The paper looks weak, but I'm not an expert in the particular field so I defer to reviewers.\n\n- Sometimes I am too busy to read the article carefully and still make the journals deadline for sending off the review versus screening, so I send it off for review to buy some additional time. \n\nSo you can see how I might get annoyed when a paper looks bad, I send out to reviews to confirm it is bad, and the reviewers pick up on the fatally bad part but still recommend major revision. Now I need to make sure the thing gets rejected, but if the reports are too friendly the the authors might contest the decision. So I need to actually do a thorough review and justify why it is being rejected.",
+              "author": "NOTWorthless",
+              "created": 1628264855,
+              "upvotes": 4,
+              "replies": {
+                "h7yaifr": {
+                  "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7yaifr/",
+                  "text": "Thanks, I'll keep that in mind. I actually got a request in the mail right after I posted that.\n\nI haven't replied yet, but from the abstract alone I am not optimistic. The author(s) are clearly not native English speakers (neither am I) and the text is full of stuff a basic spell- and grammar check in Word would catch. It is overly repetitive and long, but I still had to read it several times to make out what it was about.\n\nI have become a stickler for good, effective abstracts over the years. If I don't get to know why this is important, the methodologies used, and the main results in one reading we have a problem.",
+                  "author": "molobodd",
+                  "created": 1628267496,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h7ymwtt": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7ymwtt/",
+      "text": "Cases like these is why most publishers have to option to send confidential feedback to the editor along with the review.\n\nA senior editor friend of mine once told me that if the paper is a train wreck but you don't necessarily want to reject, you should reject it and tell the editor that you were on the fence. They can then make the bench decision to accept the submission (or throw in another major revision) based on the other reviewers' feedback.\n\nBut don't do the opposite (where you don't reject a paper that you almost want to reject), because then it looks as if the editor made a decision to reject against your recommendation, which leads to a lot of bad juju and often escalation to more senior editors.",
+      "author": "tpolakov1",
+      "created": 1628272687,
+      "upvotes": 6,
+      "replies": {
+        "h7yn7em": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7yn7em/",
+          "text": "This is good advice, thank you! I think I have probably caused this exact problem several times. I recommend major revisions and say that I would be willing to review the second round and then I never hear anything else about the paper and it never comes out!",
+          "author": "foundingflounders",
+          "created": 1628272812,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h7xif0z": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xif0z/",
+      "text": "I\u2019ve been reviewing bio papers for twenty years, many for top journals, and been an academic editor for a high-impact journal for ten. Like you, I was never explicitly taught how to do this and my approach has changed over the years. \n\nIMO, your job as a reviewer is not to tell the authors how you would have approached the problem (with full benefit of hindsight), or to nitpick every last detail in the paper. It is to assess whether the claims made are backed up by sufficient evidence, if the data are generated and interpreted appropriately, and if the paper adds up to a meaningful contribution to a topic. \n\nHere\u2019s how I go about it:\n\nStart with an overall evaluation: \n\n* does the paper address a significant problem in the field? Do the authors try to answer a clear question or do you get the impression they are doing \u201cstuff\u201d in this area?\n\n* Is this a thorough treatment? Or a sorta/kinda stab at the issue?\n\n* Does our knowledge change in any meaningful way as a result of this? The topic has probably been covered before - does this work add meaningfully to that discussion?\n\n* are there technical or conceptual issues that seem to cast doubt on the validity? \n\n* Would the authors have to redo analyses or experiments, or add entire new sections, to address any of the above?\n\nAn * informative* rejection review, with the key flaws listed, is much better than a major resubmit recommendation with a litany of issues that would take the authors months to address for little meaningful gain in final paper quality. It gives the authors space to look at the paper again and rethink some of it. \n\nIf you cannot assess these issues because the writing is impenetrable or flabby or you would have to assume the authors\u2019 intentions, recommend rejection and say the paper needs to be restructured for narrative and clarity before it can be fully evaluated.",
+      "author": "ccots",
+      "created": 1628255098,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h7xjwux": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xjwux/",
+      "text": "For christs sake reject it. And don't spend that much time reviewing. It's free work for journals. If they can't send you a reasonable paper, reject it and move on. It's the editors job to make sure it's not atrocious. Sure, there's wiggle room, but that paper sounds ridiculous. \n\nDon't review on your own time if possible. If you aren't allowed to review at your post doc, do very little reviewing. Are you submitting papers in your postdoc? Bc I think it's fucked up for your pi to have you submitting but not let you review.",
+      "author": "SciHeart",
+      "created": 1628255854,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h7y2t7m": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7y2t7m/",
+      "text": "Three days to review a paper is excessive especially as you're doing it in your own time. It is the authors' responsibility to make the manuscript readable and interpretable. If it isn't then say so and highlight were clarity is required. It is a fact a life that with the digital age supplementary information has ballooned and it just isn't feasible to review it properly. That's despite the fact most of the interesting stuff is in there.\n\nIf, as you say, they've done statistical tests with no consideration of why or what the hypothesis is then I would certainly reject. It sounds like p-hacking or [post-hoc analysis](https://en.wikipedia.org/wiki/Post_hoc_analysis), both of which are poor science and the paper is a waste of time.\n\nYou can reject whilst still providing constructive feedback.",
+      "author": "Kiss_It_Goodbyeee",
+      "created": 1628264249,
+      "upvotes": 5,
+      "replies": {
+        "h7y7m38": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7y7m38/",
+          "text": "Oh wow. You are right. It\u2019s totally post-hoc analysis. Something about it was just not sitting right with me. Too bad I already recommended major revisions and that they clarify their hypothesis/objectives. If it comes back for a second round, I will make a bigger deal of it. Re: 3 days - it\u2019s because it was so unreadable that it took me that long! A clearly written paper with a reasonable amount of tables and figures only takes a few hours to review.",
+          "author": "foundingflounders",
+          "created": 1628266270,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "h7y2uwl": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7y2uwl/",
+          "text": "**[Post_hoc_analysis](https://en.wikipedia.org/wiki/Post_hoc_analysis)** \n \n >In a scientific study, post hoc analysis (from Latin post hoc, \"after this\") consists of statistical analyses that were specified after the data were seen. This typically creates a multiple testing problem because each potential analysis is effectively a statistical test. Multiple testing procedures are sometimes used to compensate, but that is often difficult or impossible to do precisely. Post hoc analysis that is conducted and interpreted without adequate consideration of this problem is sometimes called data dredging by critics because the statistical associations that it finds are often spurious.\n \n^([ )[^(F.A.Q)](https://www.reddit.com/r/WikiSummarizer/wiki/index#wiki_f.a.q)^( | )[^(Opt Out)](https://reddit.com/message/compose?to=WikiSummarizerBot&message=OptOut&subject=OptOut)^( | )[^(Opt Out Of Subreddit)](https://np.reddit.com/r/AskAcademia/about/banned)^( | )[^(GitHub)](https://github.com/Sujal-7/WikiSummarizerBot)^( ] Downvote to remove | v1.5)",
+          "author": "WikiSummarizerBot",
+          "created": 1628264268,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h7ypfhm": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7ypfhm/",
+      "text": "As a reminder, as a reviewer you cannot reject a paper. The academic/handling editor makes that decision - you can only make a suggestion. A good editor will read your review and consider whether the concerns merit rejection or not. \n\nIn my view, based on what you have suggested, a suggestion of rejection would be reasonable. Any academic paper needs to make  a contribution to the literature, and if it's not possible to make any conclusions based on the content of the manuscript, it does not make a contribution.\n\nAnother frequent reason for rejection is that the conclusions are not supported by the results. Sometimes this is easily fixed with a few tweaks to make the conclusions more tempered (so normally addressed through revisions). However, for rejection decisions, there could be serious issue with the analysis or study design that mean the paper is not able to make a meaningful contribution. This might be a very small sample size, missing control groups, or serious flaws in the analysis performed. If the underlying analysis needs to be repeated it makes sense to reject a paper, since the authors need to repeat their analysis, which could change the results and whole message of the paper.",
+      "author": "ConicalFern",
+      "created": 1628273781,
+      "upvotes": 5,
+      "replies": {
+        "h80f1u0": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h80f1u0/",
+          "text": ">ThePhysicistIsIn\n\nIf you recommend reject, and the editor goes with MR&R, then the editor looks like a hero to the author. A good reason to recommend reject for weak articles.",
+          "author": "IkeRoberts",
+          "created": 1628303408,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h7w8ea7": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7w8ea7/",
+      "text": "Usually, I would say that the main criteria should be what the journal states as the requirements for a paper. Usually this is some variation of whether the paper is (1) novel and intellectually meritorious, (2) within the journal's scope, and (3) well-written. Remember, the decision to reject is not made by you but rather by the editor who uses your feedback as input to that decision, and therefore you should not worry too much about this part of your decision. Focus more on providing effective feedback. Personally I recommend rejection of maybe a third to half of the papers I am asked to review (this is going to vary tremendously by field and journal), but in all cases I provide ample feedback that can be used for revisions regardless of the editor's decision.\n\nIn this case, remember that you should not recommend acceptance based on the *potential* for good work, but on whether good work has actually been done and written into a publishable form. \"Major revisions\" should usually be understood to mean additional work to address weaknesses in a paper that is interesting and valuable, not that there might be something there if the authors get their shit together.",
+      "author": "nuclearslurpee",
+      "created": 1628221644,
+      "upvotes": 10,
+      "replies": {
+        "h7xjbbw": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xjbbw/",
+          "text": "The idea of novelty in humanities and social sciences is a joke. How would you judge novel or original? There is no such think as novel, everything is so slowly incremental that even those doing it do not realize the novelty if there is some of it.\n\nI had a paper recently and thought about one of the evaluation criteria: originality. What a bullshit! The theme I was digging into has not come with anything novel or original since the 1960s. Mine certainly did not have anything original since it was applying the same old concepts from the 60s (with updated references lacking originality in their own,) besides the case. I was about to throw it in the bin, but in the dung of the other boring thousand other papers published every month, I will let my flower bloom.",
+          "author": null,
+          "created": 1628255556,
+          "upvotes": -3,
+          "replies": {
+            "h7xubx6": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xubx6/",
+              "text": "If you really feel this way, maybe you're in the wrong line of work.",
+              "author": "truagh_mo_thuras",
+              "created": 1628260645,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "h7y5gp1": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7y5gp1/",
+              "text": "OP is in STEM, so this really isn't relevant.",
+              "author": "nuclearslurpee",
+              "created": 1628265363,
+              "upvotes": 1,
+              "replies": {
+                "h7yi2w7": {
+                  "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7yi2w7/",
+                  "text": "Check Henry blair's comment, last sentence... Though with a little grain of scepticism, low IF or open access means those not of the old boy's club.\n\nActually, as someone suggested above, if an algorithm was going to assess originality (classification, relationships of concepts/sources, or uniqueness of their relations) probably much of STEM will fail in the originality criterion too. Economists have been talking about low productivity of tech for sometime.\n\nhttps://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/",
+                  "author": null,
+                  "created": 1628270664,
+                  "upvotes": -2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h7x0vco": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7x0vco/",
+      "text": "If a paper takes 3 days to review/understand , major revisions won\u2019t cut it. And tbh I don\u2019t see a scenario where I can justify spending a whole weekend on an unpaid review! \nIf it needs to be rewritten, then a rejection with clear reasoning might help with that. I have seen aggressive and almost offensive reviewer comments with a recommendation for \u201cmajor revision\u201d and it doesn\u2019t make sense!! \nRejection hurts badly and as a researcher I understand the urge of being \u201cnice\u201d here , but do yourself and these authors a favor - you really don\u2019t want to re-review papers that are a total mess again after revisions",
+      "author": "ClassyNerd21",
+      "created": 1628242976,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "h7wpnd2": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7wpnd2/",
+      "text": "Ask yourself:-If this paper gets published here, will it damage science or the scientific credibitility of the venue?\n\n\\-If not, what are its faults? Is it at its core message and contributions? Is it at its results (e.g. major statistical error? drawing the wrong conclusions)?\n\n\\-If not, are the faults fixable within a reasonable timeframe (e.g. 14 days)? Or do the authors need to run another study, run another experiment, or otherwise significantly rewrite the paper?\n\nIf the answer to any of the above is 'yes,' then it is a *reject*.   \n\n\nThe publisher Wiley, offers a good guide: https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/step-by-step-guide-to-reviewing-a-manuscript.html",
+      "author": "RecklessCoding",
+      "created": 1628233388,
+      "upvotes": 6,
+      "replies": {
+        "h7x2gc4": {
+          "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7x2gc4/",
+          "text": ">If not, are the faults fixable within a reasonable timeframe (e.g. 14 days)? Or do the authors need to run another study, run another experiment, or otherwise significantly rewrite the paper?\n\nIs this common in your field? We get asked - and as reviewers, recommend - extra experiments all the time. Major revisions usually get 6-8 weeks allotted for the revision.",
+          "author": "ThePhysicistIsIn",
+          "created": 1628244283,
+          "upvotes": 8,
+          "replies": {
+            "h7yi3do": {
+              "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7yi3do/",
+              "text": "In CS, we publish mainly at conferences. This means that after the first reviewing phase, you only get one chance for a rebuttal and a very tight timeline. This is why papers are taken on their 'face' value, i.e. based on the context they have. A good review, even if the recommendation is a rejection, may still indicate the need for further work/data to support any conclusions made. \n\nEven in journal articles, it is very rare to request major additions \u2014at that point, it is more likely to reject rather than accept a paper. Ironically, one of my students got a review from a journal article last night; the reviewer requested that we run an additional quantitive analysis of some data. However, we were still given 14 days.",
+              "author": "RecklessCoding",
+              "created": 1628270670,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h7y16eg": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7y16eg/",
+      "text": "Its always acceptable. \n\nThis year has been a mess for the literature and letting in more papers that are not up to publication quality due to covid is going to have long-term negative implications for science. \n\nI have rejected more manuscripts this year than I have in the last 25. I get it that with labs being closed everyone is writing, but it seems like this has devolved into slapping together nonsense and throwing it out into he wild to see if it sticks. \n\nOur job as academics is to gatekeep. Unfortunately this game of publish or perish we all complain about will just continue to get worse if we don't do our job as reviewers and reject manuscripts that do not contain results to substantiate conclusions, or just are outright wrong.",
+      "author": "Boogers_my_dad",
+      "created": 1628263556,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h7yasw4": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7yasw4/",
+      "text": "Whenever you feel the paper isn't good enough for the journal. The final decision is the editor's, you're just making a recommendation.",
+      "author": "ph0rk",
+      "created": 1628267617,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h7yu3f9": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7yu3f9/",
+      "text": "The first paper I ever reviewed was *terrible* & had to be rejected. \n\nIt sucked because I was so excited to be the nice reviewer! I kept reading it thinking maybe it was byte not understanding what I was reading, but I doubt anyone could have. I\u2019m pretty sure I\u2019ve seen better writing come out of high schools. Sentences were non-sequitur, acronyms weren\u2019t defined, they didn\u2019t even say how many animals they used in their experiments.",
+      "author": "RedBeans-n-Ricely",
+      "created": 1628275775,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h7x5sra": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7x5sra/",
+      "text": "When you tell them how to fix it to make it publishable, and they ignore you.",
+      "author": "Spambot0",
+      "created": 1628246977,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h7xr1nz": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7xr1nz/",
+      "text": "I used to edit a legal journal (so not too close to STEM stuff). Normally we would reject in these situations:\n\n(a) the paper doesn't make any novel points;\n\n(b) it is so bad that the amount of work it would take my editors wasn't worth it; or\n\n(c) we already published too much on this topic recently. \n\nI found that (c) was actually pretty common - and in those cases we just tried to respond as quickly as possible to the author and explain why we wouldn't publish them (but normally we'd give them a reference to another journal with a note saying \"this seems good, we've just published too much on this recently\").",
+      "author": "origamitiger",
+      "created": 1628259209,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h7y0zuy": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7y0zuy/",
+      "text": "My field is more of a conference style, so maybe I do reject more often.\n\n> This is not a language barrier issue (I would never comment on that or fault an author for that), but rather that there is no point to the analysis.\n\nI only have to comment on this. As someone whose English is a 2nd language, I would love to have someone said it to my face, so I can do something about it.",
+      "author": "BeatriceBernardo",
+      "created": 1628263479,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h7z6wfh": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7z6wfh/",
+      "text": "Mine usually get rejected for \"not being close enough to the conversation of the journal\" or \"too much passive voice\" or other nonsense that doesn't matter.\n\nThink I've had more editor table rejections actually than anything else. Although when I do get it actual reviewers they never have any problems with the research, it's always grammar bullshit or shoehorning in some connection to random articles I don't have the time to read.",
+      "author": "Prof_Acorn",
+      "created": 1628281363,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h7z9bck": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7z9bck/",
+      "text": "I don\u2019t know about your field, but for me three days (!!!!) to review a paper using your vacation days (!!!!!!!!!!!) is ridiculous. \n\nSomething like \u201cI expect major revisions including a complete rewrite of the text\u201d with bullet points summarizing your main conceptual problems is advised here.",
+      "author": "rappoccio",
+      "created": 1628282440,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8bs2te": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h8bs2te/",
+      "text": "For not great papers, I'll usually recommend \"major revisions\" unless there's a true fundamental error in the paper that can't be overcome. Ultimately, I don't believe its my job to reject a paper, it's the editor's. I will write a brief honest evaluation of the merits and shortcomings of the paper (in addition to suggested edits to overcome the shortcomings) and will leave it to the editor to make a decision one way or another.",
+      "author": "LeopoldTheLlama",
+      "created": 1628540030,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h7wefxp": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7wefxp/",
+      "text": "The only three things you should concentrate on are whether conclusions are valid, new, and substantial. \n\nIf you are looking for arbitrary reasons to reject you are harming science. \n\nBy valid we mean that you could not find a reasonable alternative explanation for the results other than the conclusions offered. This means that every relevant control was used (positive and negative), and disqualified the tested explanation (this is what controls do. They are there to test alternative possible reasons for effects and disqualify them). Validity also means that the writer did not make assumptions, implicitly, when drawing the conclusion offered. This means you need to look for hidden assumptions added to data when extracting a conclusion (over-generalizations; all possible analysis issues including power and variability go here). The above covers every possible flaw a method may have. If a method is not suffering from the above, it is not flawed.\n\nBeing new: this became impossible to verify today, with the accumulation of papers. I know for a fact of a woman who got her PhD for a paper that she knew was not the first to report those findings, and she got it three decades ago. Your best chance is reading a little and searching for similar works. It's not a valid way but you really don't have much more you can do, until AI is introduced to databases (the EU is using it for the first time this year to assess innovation of grant pre-applications. Stay tune). \n\nThe actual contribution, how substantial results are - well that would depend on journal quality. A low IF publication regards even absurd definitions of \"new\" as sufficient (\"We repeated a previous finding wearing red shirts this time\" \"fine never done before\").",
+      "author": "Henry_Blair",
+      "created": 1628225184,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h7x0f2a": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h7x0f2a/",
+      "text": "I have only recommended rejection once. A couple of references used were totally bonkers in an anti-science, Flat Earth kind of way.\n\nOther times I have chosen Major revisions but made it clear in the commentary that the entire study had to be redone. Someone treated non-random sampling as if it was random and similar.\n\nOther than that, I mostly hear of people getting rejected because their work doesn't fit the journal's profile.",
+      "author": "molobodd",
+      "created": 1628242595,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h80f86r": {
+      "link": "/r/AskAcademia/comments/oyxx62/when_is_it_acceptable_to_reject_a_paper/h80f86r/",
+      "text": "Ultimately, your job as a reviewer is to evaluate the significance, quality, and accuracy of the paper, and to point out any flaws and make suggestions to improve the paper. The decision whether to accept or reject a paper ultimately rests with the editor, based on the substance of your review.",
+      "author": "mleok",
+      "created": 1628303502,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

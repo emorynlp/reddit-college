@@ -1,0 +1,31 @@
+{
+  "sid": "q61hp9",
+  "link": "/r/AskAcademia/comments/q61hp9/article_analysis_outside_of_an_institution/",
+  "title:": "Article analysis outside of an institution",
+  "text": "I\u2019m putting together a literature review on a topic and would like to do an analysis of my bibliography. I want to see which articles are cited the most not just total but within my current bibliography. Am I missing articles/authors that should be included? As I mentioned in the title, I\u2019m not currently part of an institution to use web of science and I don\u2019t see anywhere to get an individual license. I don\u2019t want to put my bibliography in a graph database and analyze everything manually if existing tools are available. What do you all use outside of institution-only tools?",
+  "author": "ravingStork",
+  "created": 1633974719,
+  "updated": 1634078376,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hgc8mob": {
+      "link": "/r/AskAcademia/comments/q61hp9/article_analysis_outside_of_an_institution/hgc8mob/",
+      "text": "Bit unclear but if you're trying to do some type of bibliographic network analysis. If you are, you can use [VOSviewer](https://www.vosviewer.com/getting-started ). It's free. Alternatively, I guess you could use [Connected Papers](https://www.connectedpapers.com/), but you'd be manually copy/pasting the DOIs into the searchbar. Which might be a bit over the top. Both use CrossRef in the back end mainly.",
+      "author": "MFA_Nay",
+      "created": 1634035803,
+      "upvotes": 1,
+      "replies": {
+        "hgcmo8k": {
+          "link": "/r/AskAcademia/comments/q61hp9/article_analysis_outside_of_an_institution/hgcmo8k/",
+          "text": "That is a great start thanks! Tried google searching again Since I don\u2019t know how I could have missed those and all that comes up is still web of science. Those resources help unlock the world I was looking for.",
+          "author": "ravingStork",
+          "created": 1634044458,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

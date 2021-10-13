@@ -1,0 +1,476 @@
+{
+  "sid": "gm3zk2",
+  "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/",
+  "title:": "Librarians of Reddit, what tools or systems at the library could greatly benefit a researcher\u2019s search and workflow, but is rarely or improperly used?",
+  "text": " ***TL;DR:* Researcher and Librarians of reddit, I was hoping you could share techniques and tools/services/features that are often forgotten, tucked away, or just plain underutilized. I\u2019m referring to things that could greatly help researchers in their lit- or topical searches, and information collection & management after they\u2019ve begun finding info.**\n\n___ \n&nbsp;\n\nI was going through some old documents that I needed to organize and thought about the systems that librarians used to use, such as index cards, and topic bibliographies. \n\nI remember getting a library ran crash-course in my undergraduate education on using EBSCO and other things, but it was relatively identical to what they taught to highschool students in the late 2000s: relatively analog methods of search, easybib and EBSCO as a search engine. Before that we learned about bibliographies written by subject-experts in a field that lists books and publications on a subject or sub-discipline. These were rarely used or findable during undergrad. *Is there a good digital version of subject bibliographies?* Most search algorithms don\u2019t seam to curate the best books for a subject matter for a given year. \n\nMendeley is a great tool it was relatively fresh in My undergrad years. However I\u2019ve always wanted to know more about little known research tools that could drastically improve your research workflow and it\u2019s organization. Researchers in academia often have access to software or database subscriptions as well interlibrary programs, but there are many facets to these things.\n\n*What tools or functions (digital or self-used) in a library is often underutilized or in-plain sight but is so useful if people actually knew about it?* \n\nWhen I think of tools & services, I typically think of EBSCO/EBSCO-Host, JSTOR, or WorldCat. Basically things almost every University provides. *What little known, tucked away, or underutilized features such as source referencing and search management, workflow aids, or other features that are super useful are rarely found by the average first year grad student?* Or *what features or common tool do you share that are rarely talked about that is a game-changer?*\n\n***Side-notes:***\n\n1. I know that reference librarians are invaluable tools and people, but I want to focus on things that they and other librarians provide or teach about.\n2. I hope this is the right place to ask.",
+  "author": "SamL214",
+  "created": 1589817074,
+  "updated": 1634081155,
+  "over_18": false,
+  "upvotes": 162,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "fr1vr1w": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1vr1w/",
+      "text": "I'm an academic librarian... I've learned about research through my degree, and through dogfooding, my university has faculty librarians so I have to do personal research, as well as helping students.\n\nI'm cribbing from my instructional presentation for incoming PhDs:\n\n\\- Forward citation searching. Very few grad students know about this. Scopus used to be the only tool, but now Google Scholar is so good at it, just truly choice. I teach this all the time. Most of them know about regular (backwards) citation searching, so the idea of doing it in the other directions pleasurably blows minds.\n\n\\- Google Scholar Alerts\n\n\\- Statistics, how to find them. Usually subject specific so you'd have to tell me what you're into. Also getting students to understand stats don't just come out of some ethereal butt - no one can say \"How many people use potholders instead of oven gloves in the US?\" unless someone pays to do a study to get that number.\n\n\\- HathiTrust, search-inside feature for in-copyright books, you can use it as a power index for books you have in your hand\n\n\\- Subject Heading searches in catalogs and databases - this is the main value of professional databases over Google Scholar\n\n\\- LibGuides - these are the modern version of the subject bibliography (though I am tickled pink to see someone who doesn't have an MSLIS who remembers them), if you can hit on a good one you've got a hot little ticket to get your research in an area going. I maintain a very specific one for a unique study of subject that gets thousands of hits a year, outside of my university.\n\nThat's all I can think of off the top of my head! But I can answer questions about the mysterious powers on the other side of the reference desk.",
+      "author": "caffarelli",
+      "created": 1589826754,
+      "upvotes": 64,
+      "replies": {
+        "fr1ygr5": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1ygr5/",
+          "text": "By forward citation searching, are you talking about looking at publications that cite the paper you\u2019re already reading? (Basically the opposite of the bibliography?)",
+          "author": "ohheytom",
+          "created": 1589828074,
+          "upvotes": 16,
+          "replies": {
+            "fr1yncx": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1yncx/",
+              "text": "You've got it! Here's a few screenshots from someone else's libguide: https://libguides.utoledo.edu/c.php?g=479409&p=3281339",
+              "author": "caffarelli",
+              "created": 1589828162,
+              "upvotes": 20,
+              "replies": {
+                "fr1yv98": {
+                  "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1yv98/",
+                  "text": "Yes! I wrote an undergrad thesis (not much else research experience yet unfortunately) and this feature on Google Scholar was infinitely helpful. Thank you for all your tips!!! These are so appreciated for those of early on in our journeys!",
+                  "author": "ohheytom",
+                  "created": 1589828270,
+                  "upvotes": 9,
+                  "replies": {
+                    "fr203tc": {
+                      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr203tc/",
+                      "text": "The fact that you already knew about it puts you head and shoulders above many professors I know.",
+                      "author": "caffarelli",
+                      "created": 1589828876,
+                      "upvotes": 9,
+                      "replies": {}
+                    }
+                  }
+                },
+                "fr2r3ps": {
+                  "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr2r3ps/",
+                  "text": ">Forward citation searching\n\nI honestly thought this meant that you start looking for your information from the citations and build your paper from there, rather than the other way around (you write your paper and find citations to match as normal).",
+                  "author": "Hardcore90skid",
+                  "created": 1589842287,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fr1yvqe": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1yvqe/",
+          "text": "> the modern version of the subject bibliography\n\nOne thing I miss from the old physical reference book days are bibliographies of bibliographies. My students in the 1990s were always surprised when I'd say \"Why haven't you consulted these three published bibliographies on your topic?\" that I found with a 30-second flip through one of those.",
+          "author": "SnowblindAlbino",
+          "created": 1589828276,
+          "upvotes": 5,
+          "replies": {
+            "fr1zqlf": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1zqlf/",
+              "text": "[A true marker of a librarian's affection for something is giving it its own subject heading.](https://www.worldcat.org/search?q=su%3ABibliography+of+bibliographies.&qt=hot_subject)",
+              "author": "caffarelli",
+              "created": 1589828696,
+              "upvotes": 10,
+              "replies": {
+                "fr20i9p": {
+                  "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr20i9p/",
+                  "text": "I sorted that search by publication date and was happy to see there are still some being published in English, but of course nothing like it once was. I know our SLAC library once had at least a three different cloth-bound bibliographies of bibliographies of the American Civil War. Long gone, sadly, along with 95% of our physical reference books because students stopped using them 15+ years ago and the shelf space was removed to make way for a coffee shop or something.",
+                  "author": "SnowblindAlbino",
+                  "created": 1589829064,
+                  "upvotes": 6,
+                  "replies": {}
+                },
+                "fr5akl0": {
+                  "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5akl0/",
+                  "text": "[Available on the internet archive](https://archive.org/details/bibliographyofbi36monr/page/n1/mode/2up)",
+                  "author": "SamL214",
+                  "created": 1589905360,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fr35t82": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr35t82/",
+          "text": "TIL about HathiTrust and LibGuides. Thank you!",
+          "author": "Cantos",
+          "created": 1589850534,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "fr2tg53": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr2tg53/",
+          "text": "Would you mind expanding a bit on how one practically uses/looks for a LibGuide? The concept sounds amazing, but it\u2019s not quite clicking on how this actually works. For example, if I needed to start a research paper on the Congo Crisis, would I just google \u201cCongo Crisis LibGuide\u201d?",
+          "author": "nietzsches_morals",
+          "created": 1589843559,
+          "upvotes": 3,
+          "replies": {
+            "fr2uovi": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr2uovi/",
+              "text": "I\u2019m not sure you\u2019d find one that specific, but that\u2019s the general idea. I\u2019d try, in your case, broader ones like \u201cAfrican studies libguide\u201d \u201cAfrica history libguide\u201d \u201cdecolonization libguide\u201d and \u201cCongo libguide.\u201d We usually write them to be either for a discipline/major or for a certain class, so tailored to that class\u2019s specific assignments. I usually create 3ish of those class ones a year, and update my big discipline one all year.",
+              "author": "caffarelli",
+              "created": 1589844245,
+              "upvotes": 5,
+              "replies": {
+                "fr55fnc": {
+                  "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr55fnc/",
+                  "text": "Awesome! Thanks for the reply.",
+                  "author": "nietzsches_morals",
+                  "created": 1589902825,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fr4cmsf": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr4cmsf/",
+          "text": "> Scopus used to be the only tool, but now Google Scholar is so good at it, just truly choice. \n\nIEEE Xplore has it too. It definitely is useful.",
+          "author": "Matthew94",
+          "created": 1589883845,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "fr4wcyo": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr4wcyo/",
+          "text": "I'm going to piggyback off this awesome reply as another academic librarian to emphasize that so many researchers have trouble coming up with search terms, which limits the results you might find. Subject headings are an awesome tool and are found in the metadata when you click on an article title. Additionally, many databases (and this is definitely true for EBSCO), have a thesaurus you can use to find terms for your search. I'll also add that thinking through synonyms or related terms is immensely helpful to get you the results you are looking for. For example, searching for \"concussion\" is fine, but you'll find way more articles by adding \"TBI\" OR \"traumatic brain injury.\" \n\nThe filters in databases are also immensely helpful and contain related terms as well. You can narrow in your focus so you're not finding too much information, and find related terms that will help your search. Depending on your discipline, the database may allow you to filter for article types (reviews vs case studies vs systematic, etc). I help a lot with medical research, so guiding students towards filters and analyzing article types is helpful. \n\nLast tip! Putting terms with more than one word in quotes, like I did above, forces the database to search for it as if it's one word. Otherwise, if you search traumatic brain injury without the quotes, the database is going to show you results that include those three terms somewhere in the text, but not necessarily together. Putting the term in quotes will give you results where \"traumatic brain injury\" appears as one term.\n\nYour university librarians also have several ways to get in contact with them. They want you to do this. You can usually set up a consultation, connect over chat, or email if you need help or have questions.",
+          "author": "badgersssss",
+          "created": 1589898125,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "fr59jp7": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr59jp7/",
+          "text": "I assume by forward citation searches, you\u2019re referring to things like \u201cwho has cited this paper\u201d \n\nAmerican Chemical Society keeps an active counter on each article that gives that. I\u2019m glad to see that google scholar is catching up. I think it is also trying to compete with Web of Science which aggregates articles or publications by specific authors. The only thing it doesn\u2019t do well is list the author you are trying to find and filter out for that specific author. Sometimes it lists the most relevant work that aligns similarly to theirs. It seems to have a hard time separating authors with similar names first or last. \n\nThe LibGuide thing I\u2019m still trying to understand as I am not on a campus as of now. But when I use my old colleges libguide it just takes me to a page of the subject and then links to article websites. Which is anticlimactic. Do you know of a good example of what a libguide could/should look like?\n\nYou\u2019ve shown me a lot, one thing I am stoked to mess with is Google Scholar alerts. Which could be helpful.",
+          "author": "SamL214",
+          "created": 1589904864,
+          "upvotes": 1,
+          "replies": {
+            "frcct66": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/frcct66/",
+              "text": "Here's one nice one: [Soviet Deportation of Poles during World War II](https://guides.library.illinois.edu/c.php?g=347488&p=2343832). This one was created for a class so it's obviously very specific. But if you happened to be researching that, wow! (The Slavic Reference Service at UIUC is a legendary group of librarians which is why I thought of it.)",
+              "author": "caffarelli",
+              "created": 1590069665,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fr1x871": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1x871/",
+      "text": "Anyone of those that can show you network graphs of interconnected citations. Many times during literature reviews, I find that there is a \u201ccore\u201d set of papers that represent the current understanding of my topic and these will be those nodes that are highly interconnected. It helps me find research areas that have sprouted off of this and identify what I\u2019ve missed. Great for writing reviews.",
+      "author": "Stereoisomer",
+      "created": 1589827463,
+      "upvotes": 21,
+      "replies": {
+        "fr1zgo5": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1zgo5/",
+          "text": "Do you have any advice on how I can go about that? I am struggling to limit a literature review to manageable levels (I have almost 2000 papers that I downloaded over a year and half somehow, and I'm sure I would need 3 lifetimes to go over that).",
+          "author": "braznadian",
+          "created": 1589828559,
+          "upvotes": 5,
+          "replies": {
+            "fr1zs34": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1zs34/",
+              "text": "Idk sounds to me like you need to really pin down the scope of your review. It helps for me to just start writing because then I have to commit to a story and thus a set of papers. When I\u2019m accumulating too much literature, it means I don\u2019t know what story I\u2019m telling.\n\nYou really need to find some \u201cthread\u201d to follow as in how some idea was founded and evolved across time. Something very specific like \u201cmodels of population coding in motor cortex\u201d",
+              "author": "Stereoisomer",
+              "created": 1589828716,
+              "upvotes": 8,
+              "replies": {
+                "fr3ikgu": {
+                  "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr3ikgu/",
+                  "text": "Thank you!",
+                  "author": "braznadian",
+                  "created": 1589858174,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "fr27vdi": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr27vdi/",
+          "text": "Do most tools have this feature? It\u2019s been awhile since I was in grad school and I\u2019m looking at going back in the fall.",
+          "author": "Winejug87",
+          "created": 1589832657,
+          "upvotes": 3,
+          "replies": {
+            "fr28pgg": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr28pgg/",
+              "text": "None of the ref managers do afaik",
+              "author": "Stereoisomer",
+              "created": 1589833069,
+              "upvotes": 6,
+              "replies": {
+                "fr28xc6": {
+                  "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr28xc6/",
+                  "text": "I\u2019d love something like this. Do you have a suggestion for one?",
+                  "author": "Winejug87",
+                  "created": 1589833178,
+                  "upvotes": 2,
+                  "replies": {
+                    "fr296zh": {
+                      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr296zh/",
+                      "text": "A ref manager or a network citation graph tool?",
+                      "author": "Stereoisomer",
+                      "created": 1589833309,
+                      "upvotes": 2,
+                      "replies": {
+                        "fr2ahme": {
+                          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr2ahme/",
+                          "text": "Network citation graph tool",
+                          "author": "Winejug87",
+                          "created": 1589833938,
+                          "upvotes": 2,
+                          "replies": {
+                            "fr2lbgg": {
+                              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr2lbgg/",
+                              "text": "I use CiteGecko but it doesn\u2019t handle a ton of papers well",
+                              "author": "Stereoisomer",
+                              "created": 1589839302,
+                              "upvotes": 6,
+                              "replies": {}
+                            },
+                            "fr2csad": {
+                              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr2csad/",
+                              "text": "I've never used it, but this seems to do the trick: https://www.citnetexplorer.nl/",
+                              "author": "notadoctor123",
+                              "created": 1589835061,
+                              "upvotes": 3,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fr1fodk": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1fodk/",
+      "text": "Talk to the research librarians. It\u2019s amazing how they can help you sometimes",
+      "author": "zastrozzischild",
+      "created": 1589818909,
+      "upvotes": 30,
+      "replies": {
+        "fr1h8t1": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1h8t1/",
+          "text": "This was the exact answer I was going to give. It\u2019s their job to help researchers and they can point you in directions you might not have considered.\n\nOP I just read your side notes. Other than learning boolean codes, research librarians *are* the \u201chidden, tucked away secret.\u201d",
+          "author": "pokeydo",
+          "created": 1589819690,
+          "upvotes": 16,
+          "replies": {
+            "fr5dgl3": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5dgl3/",
+              "text": "Yeah... I knew this going into posting this. I mainly wanted to see what things people underutilize that are at their fingertips that are not just in the library but remotely accessible too. For the time being.",
+              "author": "SamL214",
+              "created": 1589906746,
+              "upvotes": 1,
+              "replies": {
+                "fr5e6e9": {
+                  "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5e6e9/",
+                  "text": "If you\u2019re in University, you may have research librarians that are working remotely that you can contact. I know for my Uni we even had assigned research librarians for our specific fields that we could contact through help chats or email. If you\u2019re not, you can still contact libraries and get in touch with research librarians. A lot of their work happens online and they\u2019re more available remotely than you might have considered.",
+                  "author": "pokeydo",
+                  "created": 1589907088,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "fr1vobu": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1vobu/",
+      "text": "Boy did i find myself in the right place at the right time. My research methods and flow stinks, and im in the middle of writing a paper. I had never heard of mendeley and just downloaded it, and it fucking kicks ass compared to my old method. I don't have any good advice for you, but thanks for making this post so i could learn something new!",
+      "author": null,
+      "created": 1589826719,
+      "upvotes": 12,
+      "replies": {
+        "fr1wkv9": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1wkv9/",
+          "text": "Try Zotero as well - I prefer it on a functional level, its Word doc citation plugin is choice, and it's open source.\n\nMendelay is owned by the librarian's devil (Elsevier).",
+          "author": "caffarelli",
+          "created": 1589827145,
+          "upvotes": 11,
+          "replies": {
+            "fr21d9g": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr21d9g/",
+              "text": "With the [Zotfile](http://zotfile.com/) addon.",
+              "author": "Flubb",
+              "created": 1589829476,
+              "upvotes": 10,
+              "replies": {}
+            },
+            "fr5dkbu": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5dkbu/",
+              "text": "Yeah. Mendeley has a plug in too, which you can even load custom citation formatting, but I haven\u2019t used it in a long time.",
+              "author": "SamL214",
+              "created": 1589906795,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fr1z92z": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1z92z/",
+      "text": "Not a librarian but a professor that is routinely shocked to meet advanced undergrads (from other departments) that not only do not use, but are not aware of the existence of citation/bibliography management software. We are an Endnote campus, but any of them will work wonders compared to trying to maintain lists on your own, much less shifting between citation formats.\n\nWe teach Endnote in our first-year classes in my department, but most other departments never do. I often run into senior STEM majors for whom a bibliography is just a long Word document and they have no record at all of citations used in their prior courses. That anyone would be in graduate school and still not using some software solution to manage references is a real puzzle, but I know it happens.",
+      "author": "SnowblindAlbino",
+      "created": 1589828456,
+      "upvotes": 10,
+      "replies": {
+        "fr5dnkc": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5dnkc/",
+          "text": "Yeah...that\u2019s almost painful.",
+          "author": "SamL214",
+          "created": 1589906838,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fr1r62v": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1r62v/",
+      "text": "Not a librarian, but I personally like publish or perish, sci-val and playing around with Zotero plugins",
+      "author": "jetpumps",
+      "created": 1589824547,
+      "upvotes": 6,
+      "replies": {
+        "fr1s587": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1s587/",
+          "text": "Zotero is revolutionary for research and citations.",
+          "author": "aerrin",
+          "created": 1589825013,
+          "upvotes": 8,
+          "replies": {}
+        },
+        "fr5drip": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5drip/",
+          "text": "I\u2019m going to have to look at these given that I\u2019ve never heard of them.",
+          "author": "SamL214",
+          "created": 1589906891,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "fr1z285": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr1z285/",
+      "text": "I'm not a librarian, but have recently started doing a bunch of information management. I would definitely recommend looking into data management plans, and data protection regulations. They weren't even on my radar during my PhD, but are a massive deal in professional research.",
+      "author": "johu999",
+      "created": 1589828364,
+      "upvotes": 7,
+      "replies": {
+        "fr5dpkx": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5dpkx/",
+          "text": "Could you point to some examples?",
+          "author": "SamL214",
+          "created": 1589906865,
+          "upvotes": 1,
+          "replies": {
+            "fr5mctu": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5mctu/",
+              "text": "Sat management plans aren't generally shared, as they might reveal confidential information about information storage methods or data sources. But this is definitely a good place to start: https://www.ukdataservice.ac.uk/manage-data/plan/planning.aspx\n\nOn data protection regulations, it depends on where you are in the world. But your country should have a data protection authority (especially in the EU), who should have guides on data protection issues.",
+              "author": "johu999",
+              "created": 1589910937,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fr35l3y": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr35l3y/",
+      "text": "Not a librarian but a PhD candidate. I use zotero to manage my citations. But that\u2019s only the first part. I recently got into emacs and have been using org-roam and org-roam-bibtex to port over all my notes and build links between the papers. I use the zettelkasten technique but use emacs for it. \n\nThere is obsidian.md and roam research that allow you to do the same via a web browser. In the last 2 weeks I\u2019ve written two lit reviews using ZK and I am kinda pissed at myself for not doing so earlier in my career.",
+      "author": "Cantos",
+      "created": 1589850406,
+      "upvotes": 4,
+      "replies": {
+        "fr58ilt": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr58ilt/",
+          "text": "That\u2019s awesome. I\u2019m glad to see a discovery made that can help others!",
+          "author": "SamL214",
+          "created": 1589904358,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "fr5e4ea": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5e4ea/",
+          "text": "Ooooo. Things I\u2019ve never heard of..gonna do some digging.",
+          "author": "SamL214",
+          "created": 1589907063,
+          "upvotes": 1,
+          "replies": {
+            "fr62won": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr62won/",
+              "text": "Feel free to ask questions if you need some help.",
+              "author": "Cantos",
+              "created": 1589918975,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fr306li": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr306li/",
+      "text": "This may be slightly more beginner focused as I currently work in a public library and have to help patrons understand research from the ground up. \n\n\u2022 Use a subject thesaurus if one is available. Many LibGuides will have them listed if they exist.  Often users fail to chose the best words for their searches. Likewise, use the related terms that are listed in articles you have found through your favorite databases. These will also help you find better information on your topic. Also, use LibGuides from multiple schools. The information provided is different on each and they\u2019re a quick way to gather a lot of information. \n\n\u2022Use a citation management tool. The university I attended provided RefWorks for all students. I found it helpful to write annotated bibliographies and attach them to each citation. If it had been a while I was able to read my summary of the paper and why I thought it was useful. This helped me streamline my work when doing Lit Reviews. \n\n\u2022Understand how to use Boolean Logic. I have to explain this to patrons almost daily. The amount of information on the internet is insane- but if you do not use the correct search form you are just making work harder on yourself \n\nAlso, utilize the chat service on your libraries website if you ever get stuck. If your school doesn\u2019t provide one, many public libraries do or other schools that do not require any type of school ID to use.",
+      "author": "defios",
+      "created": 1589847310,
+      "upvotes": 3,
+      "replies": {
+        "fr5dvfh": {
+          "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5dvfh/",
+          "text": "Do the LOC big red books work best for a subject guide or thesaurus?\n\nEdit: what\u2019s the best kept secret of Boolean logic, that you see people who are relatively familiar with Boolean logic, never use?",
+          "author": "SamL214",
+          "created": 1589906943,
+          "upvotes": 1,
+          "replies": {
+            "fr5famv": {
+              "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fr5famv/",
+              "text": "You could use the LOC big red books for a thesaurus if you wanted to. Most online databases (Ebsco, ProQuest) have their own. If you are using a thesaurus you should be looking for like terms for an already decided subject. \n\nIf you are still looking for a subject, or to narrow it down, the LOC big red books or even an Encyclopedia could be useful. \n\nAs for Boolean logic, I find that patrons under utilize quotations and parenthesis. Both can help clarify the search and ensure that the terms are being used exactly how you want them to be. A lot of people also use too many words in a search, which can lead to muddled search results.",
+              "author": "defios",
+              "created": 1589907614,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "fs5o3gz": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/fs5o3gz/",
+      "text": "\\+1 for u/caffarelli's suggestions\n\nI find most people use nothing but Google, and even then, are not great at formulating queries.\n\nI hope that my website, [https://www.faganfinder.com/](https://www.faganfinder.com/) , which brings together some of the other tools people have listed here, will encourage people to try looking in more places and maybe even learning a bit more about how to get the most out of each.",
+      "author": "mfagan",
+      "created": 1590718549,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ftifs7f": {
+      "link": "/r/AskAcademia/comments/gm3zk2/librarians_of_reddit_what_tools_or_systems_at_the/ftifs7f/",
+      "text": "I'm no longer working as a librarian, but as I like to say, you can take the girl out of the library, but you can't take the MLS out of the girl.\n\nFirst (and I'm guilty of this now that I'm back in student status, and because I have the training myself), I think people forget that there are actual humans behind all those databases and libguides, and you are not just allowed to ask them for help but actually encouraged to do so! There's a caveat, which is please do your own legwork first--since you're not an eighth grader, I would prefer not to explain to you what \"ILL\" means or define the difference between peer-reviewed/refereed and not. But it's actually kind of *fun* to be given a challenge to find something. I'm great at coming up with incredibly complicated (and thus incredibly refined and useful for narrowing results and disambiguating common words) search strings with booleans, wildcards, and parentheticals, but lately it seems like my school's ILS has actually gotten less intelligent with them, so I've worked with my liaison librarian to come to a happy medium between 8000 results and no results from being too talented at searching for it to handle haha.\n\nOn the other hand, keep in mind that with covid, everyone who works at the library from page to actual librarian is really stressed out and doing their absolute best, so some things that would otherwise be absurdly easy to provide you with are impossible to get. That's when it's also good to have friends who work at other academic libraries to find a journal article that your home institution doesn't subscribe to, for example. (I realize this is way easier for me to accomplish because I spent 23 months with a large group of people who still work as librarians today, but try?)\n\nThe other two things that are amazing skills to develop at any age, and which I learned from a colleague who was a Google librarian before coming to the school I worked at: 1. **SEARCH FOR YOUR RESULT, NOT YOUR QUESTION**. If your question is \"how many people do X in a given year,\" that's fine, but think about what your result would look like. Is it likely that somebody would title their graph \"how many people do X in a given year?\" Nah. What might they title it? \"Frequency of X by year.\" You want to know \"what themes do Author A and Author B have in common?\" Good luck finding an article that has such a remedial-sounding title. \"\\[Author A in quote marks\\] \\[Author B in quote marks\\] \\[particular theme or framework or theoretical lens you are hoping to find in common\\]\" is more likely to yield something useful.\n\nGoogle is weird and horrible because they claim to be designed for stupid people in order to democratize information but actually serve to deprofessionalize essential roles like educator and librarian. They actually have secret hidden smart skills and functionality for librarians or for people who know how to search like librarians. Search as usual, but on your results page, hit Tools. That'll reveal a second menu that allows you to filter results by a time period of publication; to filter image results by color, size, or type (line drawing, photograph, etc); to filter by usage results, etc. Another way they are secretly for smart people is that you can run searches for a particular website *only* even if that site itself has a garbage search tool or no searchbar at all. Here's how you do it (remove quote marks and brackets): \"\\[search term\\] \\[space\\]  \\[the word \"site\"\\]  \\[no space\\]  \\[colon\\]  \\[no space\\] \\[no http or www\\] \\[blahblahblah dot com/org/whatever\\]\"",
+      "author": "mixedgirlblues",
+      "created": 1591733442,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

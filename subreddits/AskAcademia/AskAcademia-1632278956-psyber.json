@@ -1,0 +1,38 @@
+{
+  "sid": "psyber",
+  "link": "/r/AskAcademia/comments/psyber/can_i_publish_an_integrative_review_on_my_own/",
+  "title:": "Can I publish an integrative review on my own (single author)?",
+  "text": "Hey everyone.\n\nI recently finished my masters in neuropsychology and I'm currently looking into publishing my thesis as an article. Said thesis was an integrative review of the effects of psychedelic substances on creativity. In this review, I performed a systematic search of articles in databases and screened them. I also assessed the risk of bias in these studies using systematic review bias assessment tools.\n\nHowever, I'm currently wondering if my thesis is apt to be published because it was done entirely by me. Systematic review guidelines say that at least two independent reviewers are needed in the systematic search and screening process. Although in the end this was instead an integrative review, I still used systematic review protocols to perform it. Also, I'm not entirely sure if this rule is supposed to apply to integrative reviews as well.\n\nCan anyone help shed some light on this?",
+  "author": "harowkun",
+  "created": 1632278956,
+  "updated": 1634078890,
+  "over_18": false,
+  "upvotes": 7,
+  "upvote_ratio": 0.89,
+  "comments": {
+    "hdt55uf": {
+      "link": "/r/AskAcademia/comments/psyber/can_i_publish_an_integrative_review_on_my_own/hdt55uf/",
+      "text": "You supervisor will have to be a co-author for sure",
+      "author": "DeepSeaDarkness",
+      "created": 1632285847,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hdszr2o": {
+      "link": "/r/AskAcademia/comments/psyber/can_i_publish_an_integrative_review_on_my_own/hdszr2o/",
+      "text": "I've not heard of an integrative review before, but you are correct that it can't be labelled as a systematic review (in accordance with PRISMA guidelines, etc) because only one person was involved in the literature search stage.\n\nYou might be able to label it as a 'rapid review', which is similar to a systematic review but the protocol is less onerous on needing the second reviewer and on what meta analysis is performed. A more conservative and safer option would be to just call it a 'review'.\n\nHowever I think you will need to include your thesis supervisor as a co author, and seek their advice and agreement re publication approach.",
+      "author": "RagingHomophone",
+      "created": 1632282531,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hdtzbbi": {
+      "link": "/r/AskAcademia/comments/psyber/can_i_publish_an_integrative_review_on_my_own/hdtzbbi/",
+      "text": "Im not sure of the review types but know of someone in neuroscience that published a trimmed down version of their thesis introduction as a review. The sole author was the grad student since the PI felt they did not contribute to the writing or intellectual process.",
+      "author": "tiebow5",
+      "created": 1632310662,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

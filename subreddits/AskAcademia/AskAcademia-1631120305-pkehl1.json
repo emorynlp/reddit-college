@@ -1,0 +1,99 @@
+{
+  "sid": "pkehl1",
+  "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/",
+  "title:": "Academic Lab Facebook account?",
+  "text": "Dear fellow academi-people,\n\nI was wondering if any of you has familiarity with potential issues related to opening a lab Facebook account.\n\nBy \"lab Facebook account\" I mean an account in which the \"first name\" is something like \"Social Awareness\", the \"last name\" is \"Lab\", and then the photo is the lab logo. The account will have a couple of friends, but not much activity apart from that.\n\nThe \"potential issues\" worrying me are that Facebook's bot detector or some moderator may block the account because it is not \"genuine\" (that is, not linked to an individual, specific user.)\n\nThe reason why I would like to create a lab Facebook account is to conduct research with the Oculus Quest 2 - if Facebook shuts down the admin account for the device, I would lose access to the headset.\n\nPlease let me know if any of you has familiarity with opening a Facebook Account for a lab (or even with using the Quest 2 for research.)\nThank you!",
+  "author": "emystats",
+  "created": 1631120305,
+  "updated": 1634079356,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.84,
+  "comments": {
+    "hc2xfdd": {
+      "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/hc2xfdd/",
+      "text": "I believe this would technically be against Facebook's Terms of Service. Facebook accounts are meant to belong to individuals with one account per person. I could certainly imagine a scenario where you could lose access to this Facebook account and therefore all of your purchases on Oculus. \n\nI would recommend reaching out to u/OculusSupport on their website to determine the best course of action. There are plenty of people that use Oculus devices in classrooms; therefore, there must be a recommended way to set them up.",
+      "author": "mjboring",
+      "created": 1631121392,
+      "upvotes": 5,
+      "replies": {
+        "hc3jevz": {
+          "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/hc3jevz/",
+          "text": "To add, they do have a system for businesses to use non-personal accounts to manage access, c.f. [https://business.oculus.com/support/720753828417278/?locale=en\\_GB](https://business.oculus.com/support/720753828417278/?locale=en_GB)  \nMight be the same route.",
+          "author": "Flemon45",
+          "created": 1631130418,
+          "upvotes": 8,
+          "replies": {
+            "hc7c3oo": {
+              "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/hc7c3oo/",
+              "text": "Thanks! So the Oculus Business is about $500 more unfortunately and I don't know if we (as a lab) can afford it. We currently have the regular Oculus. I contacted Oculus support and they told me to contact Oculus Business support, even if we have the regular Oculus. \n\nI did so but I just received a [canned AI answer](https://www.dropbox.com/s/awrt8vs2q6f0bws/OculusSupportAnswer.docx?dl=0) that basically says to use my own account and pick a \"nickname\" for when I play with the Oculus.",
+              "author": "emystats",
+              "created": 1631207828,
+              "upvotes": 1,
+              "replies": {
+                "hc7wa92": {
+                  "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/hc7wa92/",
+                  "text": "It seems like Oculus Business is indeed the only supported solution. The only other option I can recommend is linking the Quest to the PI's Facebook account (or creating one under their name if they do not yet have one). That way you are less likely to loose access to content purchased on Oculus. \n\nI just checked and it does not seem very intrusive to use their personal account for the device. Just disable Facebook messenger and sign out of Facebook on the browser and you should not be able to access sensitive content on the Quest, but I might be wrong about that.",
+                  "author": "mjboring",
+                  "created": 1631216142,
+                  "upvotes": 1,
+                  "replies": {
+                    "hc7z7wy": {
+                      "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/hc7z7wy/",
+                      "text": "Thanks a lot for your help.",
+                      "author": "emystats",
+                      "created": 1631217328,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                },
+                "hc7x42v": {
+                  "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/hc7x42v/",
+                  "text": "Is there a reason why you don't want it tied to anyone's (e.g. the PI) personal FB account? If it's a lab device then it probably have to be the PI, rather than someone on a temporary contract.\n\nAssuming everyone in the lab is trustworthy/participants are monitored, so you don't end up with VRchat shenanigans being posted on the PI's FB page...",
+                  "author": "Flemon45",
+                  "created": 1631216482,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hc7c80u": {
+          "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/hc7c80u/",
+          "text": "I did reach out to them (see other answer) but they were not helpful.",
+          "author": "emystats",
+          "created": 1631207877,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hc7lkxo": {
+      "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/hc7lkxo/",
+      "text": "I'm not quite sure why people are saying it's against fb's terms because there are loads of groups and businesses that have pages on FB. I haven't tried setting one up but presumably you just select the page type when setting up the account. \n\nCan't you just set up one of those pages?",
+      "author": "ACatGod",
+      "created": 1631211743,
+      "upvotes": 1,
+      "replies": {
+        "hc7sc8e": {
+          "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/hc7sc8e/",
+          "text": "Pages are made by individuals. Oculus accounts are linked to individuals, not pages. OP could make a page for her lab, and invite all his/her lab-mates to join, but he/she could not link that page to their Quest.",
+          "author": "mjboring",
+          "created": 1631214508,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hc7scjx": {
+          "link": "/r/AskAcademia/comments/pkehl1/academic_lab_facebook_account/hc7scjx/",
+          "text": "Thanks, but to use the Quest I need a user account, rather than a page.",
+          "author": "emystats",
+          "created": 1631214511,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

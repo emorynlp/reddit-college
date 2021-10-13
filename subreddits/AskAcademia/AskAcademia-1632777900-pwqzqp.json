@@ -1,0 +1,90 @@
+{
+  "sid": "pwqzqp",
+  "link": "/r/AskAcademia/comments/pwqzqp/i_created_a_free_notetaking_app_for_research_is/",
+  "title:": "I created a free note-taking app for research: is this something you'd find as useful?",
+  "text": "So a few months back, on my free time, I developed [Avidnote](https://avidnote.com/?utm_source=social&utm_medium=reddit&utm_campaign=aska) - a free web-based app for researchers to write and organize their research notes & papers online. Basically, you can write longer notes side-by-side with your PDF documents (without switching windows), as well as highlight, redact, collaborate on your research notes. It's also possible to find new papers directly within the app and keep track of references in one integrated platform.\n\nI'd love to know if this would be something useful to you, and if not, what system would you prefer to use instead?",
+  "author": "cabdirazzaq",
+  "created": 1632777900,
+  "updated": 1634078835,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.4,
+  "comments": {
+    "heiqp7v": {
+      "link": "/r/AskAcademia/comments/pwqzqp/i_created_a_free_notetaking_app_for_research_is/heiqp7v/",
+      "text": "It *could* be useful, except it looks like I'd have to upload every PDF myself.\n\nI keep all of my papers organised with Zotero and having to upload *all* them, one by one, to a different website so I can take notes would simply be too much effort. I don't want to have to flick between Zotero and this.\n\nSo I think you either need to have some kind of seamless integration with Zotero (or Mendeley), or your app needs to have a browser plugin like Zotero so people can save papers of interest directly to your app, without having to find the PDF, download it, and reupload it.\n\nI'd also prefer that it were a proper app, not purely web-based. Having to navigate to a webpage is annoying, and I don't always have access to the internet. I need to be able to still do some work even without internet.\n\nEdit: seems I can upload my Zotero library, except I can't because the free account for your website doesn't allow the number of papers I have (~400). Zotero is close to free, it handles all 400, and it has a section to add notes. There is absolutely no way I can or will pay $200 p.a. for a service that Zotero provides for $20 p.a. ($120 for unlimited articles).",
+      "author": "officially_anxious",
+      "created": 1632779143,
+      "upvotes": 6,
+      "replies": {
+        "heit8la": {
+          "link": "/r/AskAcademia/comments/pwqzqp/i_created_a_free_notetaking_app_for_research_is/heit8la/",
+          "text": "Thanks for the detailed feedback. Really means a lot that you took the time to explain it.\n\nI'm working on integrating it with Zotero. At the moment, you can import your reference library, but it will only import the references and not the PDFs which you would need to upload manually. I'm working on fixing this, but it's a bit tricky to get right.\n\nThe use case for Avidnote is a bit different than Zotero. Not just in terms of the interface which is customized more for note-taking than Zotero (with the side-by-side view) but also with respect to being able to import papers directly within the app, and having all of your research notes easily searchable and accessible in one view.\n\nI understand if the storage space limitation is an issue, but I should add that the free version of Avidnote has the same storage limitation as Zotero free (300 mb). Most of our users don't typically upload their entire library, but rather the specific papers they are reading at the moment, and they keep using their reference manager of choice for their references.\n\nI would argue that Zotero is better for reference management, and that Avidnote is better for note-taking. If you're only using Avidnote for annotating current papers, the free version should be more than enough (several hundred papers).",
+          "author": "cabdirazzaq",
+          "created": 1632780403,
+          "upvotes": 1,
+          "replies": {
+            "heiv96d": {
+              "link": "/r/AskAcademia/comments/pwqzqp/i_created_a_free_notetaking_app_for_research_is/heiv96d/",
+              "text": "FWIW, 300 mb isn't close to several hundred papers looking at my current library. Most PDFs average 2-6 mb, so it's somewhere between 50 and 150. \n\nMoreover, the free storage doesn't really matter in Zotero, because it can be run entirely as a desktop app and utilize local or cloud storage, whereas AvidNote seems to be entirely online based.",
+              "author": "Eigengrad",
+              "created": 1632781359,
+              "upvotes": 4,
+              "replies": {
+                "heix30y": {
+                  "link": "/r/AskAcademia/comments/pwqzqp/i_created_a_free_notetaking_app_for_research_is/heix30y/",
+                  "text": "I think you make a really good point there regarding local storage vs cloud-based storage. It definitely made me reconsider deploying Avidnote as a desktop app in addition to the cloud-based version.\n\nWith regards to PDF averages, I honestly believe this depends on your research field and how \"heavy\" the PDF files are. I calculated the average PDF paper stored on Avidnote for all of our users and it was very close to 1 mb per paper on average.",
+                  "author": "cabdirazzaq",
+                  "created": 1632782226,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "heix4y1": {
+              "link": "/r/AskAcademia/comments/pwqzqp/i_created_a_free_notetaking_app_for_research_is/heix4y1/",
+              "text": ">having all of your research notes easily searchable and accessible in one view\n\nI don't need to take a lot of notes on most papers, though. I don't know anyone who does because it'd frankly be a massive waste of time in many fields. I have many meetings per week where I need to make small notes on quite a few papers. The number of papers uploaded is a million times more important than the length of notes possible. Plus I can already search across notes in Zotero.\n\n>Most of our users don't typically upload their entire library, but rather the specific papers they are reading at the moment, and they keep using their reference manager of choice for their references.\n\nThe biggest problem with this is that I'm never just reading a few select papers. I read all of the papers in my storage and I usually add a couple more each day. I am constantly referencing things I added years ago. So I need access to all of them all the time, without having to stop what I'm doing to upload a PDF that Zotero has hidden in its bowels somewhere. I also can't afford to delete anything.\n\nHaving to log in to a specific website to gain access is another unreasonable burden that would mean I never used the site. I need to use many tabs at a time already when I use internet and adding *yet another* tab to that list, one that I cannot close (since I would need it open to use it), is terrible. Time spent accidentally closing it or losing it amongst 6 screens is time wasted. \n\nAlso, most of your users only upload a small selection of papers because they have no other option. You don't give them the option to upload all the ones they have annotations for, so you can't say it's something people don't desire. People who need that feature don't use your website. \n\n>the free version should be more than enough (several hundred papers)\n\n**Nope**\n\nMy 400 papers are 1443.7 MB. Even if your \"several hundred\" means only 200, that'd be around 700MB for me. Your website only permits 300MB, so I'd be looking at less than 100 papers. I used and actively annotated more papers for my *first year PhD review*. 300MB is a severe limitation that makes it useless to me and anyone else who is in a paper-heavy field (probably most of STEM).\n\n>but also with respect to being able to import papers directly within the app\n\nThe problem with this is that I already have a system for searching and viewing papers: arXiv. I get daily emails with relevant new preprints and I can import those directly into Zotero using the Chrome plugin. I *never* have to download PDFs, deal with metadata, or reupload them anywhere.",
+              "author": "officially_anxious",
+              "created": 1632782251,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "heis27k": {
+      "link": "/r/AskAcademia/comments/pwqzqp/i_created_a_free_notetaking_app_for_research_is/heis27k/",
+      "text": "Nah, Zotero works just fine for me.",
+      "author": "pipkin42",
+      "created": 1632779834,
+      "upvotes": 3,
+      "replies": {
+        "heitbmy": {
+          "link": "/r/AskAcademia/comments/pwqzqp/i_created_a_free_notetaking_app_for_research_is/heitbmy/",
+          "text": "O.K thanks for letting me know.",
+          "author": "cabdirazzaq",
+          "created": 1632780442,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hejufmv": {
+      "link": "/r/AskAcademia/comments/pwqzqp/i_created_a_free_notetaking_app_for_research_is/hejufmv/",
+      "text": "The web based aspect makes it a non starter for me. I have mamy gigabytes of PDFs that i need access to om a regular basis. If it was a Mac app, perhaps I'd try it out.",
+      "author": "hartfordmove",
+      "created": 1632797954,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hek6urw": {
+      "link": "/r/AskAcademia/comments/pwqzqp/i_created_a_free_notetaking_app_for_research_is/hek6urw/",
+      "text": "No - because you can take notes in Zotero, and you can pop out the notes editor into a separate window so you can see it side by side with a PDF. Or I could use the Adobe Acrobat app and add notes directly to a PDF if it's not in Zotero, or I could use GoodReader on my iPad.\n\nAs others have said, I rarely need to write extensive notes on papers, so this isn't useful for that purpose. Graduate students may find it more useful to take notes on their readings, perhaps.",
+      "author": "roseofjuly",
+      "created": 1632805041,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

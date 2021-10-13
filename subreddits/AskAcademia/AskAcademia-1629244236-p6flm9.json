@@ -1,0 +1,332 @@
+{
+  "sid": "p6flm9",
+  "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/",
+  "title:": "What is it like to work in academic publishing/science communication (STEM PhD)?",
+  "text": "I'm curious if anyone with a PhD in STEM has any insider knowledge on what it's like to work in academic publishing (e.g., Assistant or Senior Editor at high impact journals like Nature):\n\n1. **How hard is it to get a job in science communication at the PhD level? (Do you even need a doctorate to be considered? Any jobs open at just the bachelor's or master's level?).** With there being such a scarcity of TT faculty positions and lots of people heading towards industry, will science communication jobs become increasingly competitive?\n2. **What is job security like?** If you landed a job as a full-time editor at a renowned journal, would you theoretically be employed for as long as you want to be there (assuming you perform well)?\n3. **What is the salary range like for editors in academic journals?**\n4. **What is the work life balance like?** Editorial work seems like a pretty straightforward desk job, but I imagine there would be a lot of pressure meeting deadlines, especially with a high volume of submissions. Does working as an editor allow for a 9-5 lifestyle? Or, do editors often work odd hours and weekends too?\n5. **How much of the job involves independent \"desk\" work, and how much of it involves conferencing, presenting, extroverted people skills?**\n\nI'm mostly interested in hearing about careers in academic publishing, but I'm also curious about less traditional routes where there is a focus on communicating scientific information to the general public in a \"pop science\" way.\n\nThanks!",
+  "author": "sumonewhoisntme",
+  "created": 1629244236,
+  "updated": 1634079564,
+  "over_18": false,
+  "upvotes": 146,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "h9cx1co": {
+      "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9cx1co/",
+      "text": "I\u2019m an editor-in-chief at a high tier journal. Shortish answers:\n\n1. It\u2019s relative competitive. Not as bad as tenure track positions. If you get an interview, it\u2019ll be a half or full day, they will get you assess manuscripts on the spot, talk about hot topics in the field, etc. Typically a Ph.D. is required in the field of the journal (I.e., chemistry for, say, Nature Chemistry... usually they look for a more specific area... like carbon catalysis or something... depends how big the journal is). \n\n2. Job security is pretty good. Mostly lateral movements from journal to journal (or when new journals launch). \n\n3. Assistant editors start around the $70K range. Depends on the journal/publisher. \n\n4. Depends on the team. Close to a 9-5, but teams are typically spread out geographically, which leads to flexibility. Sometimes there\u2019s early morning meetings to chat with authors in China, Europe, etc. Work life balance is respected. Meet some deadlines, and no one expects to work more than 40 hours a week (approximately). \n\n5. About 50% of the job is handling papers, from submission through peer review to publication (or rejection). There\u2019s also the planning of events (webinars, symposia, etc.). Strategic meetings with other journals. Recently travel is waaaay down (I.e., COVID), but most journals have a healthy travel budget for conferences and site visits (travel to a university to give a talk and network with researchers). I\u2019d say 5-6 trips per year, some international, some domestic, conferences of different sizes.\n\nAny other questions, just ask!",
+      "author": "cranfordEIC",
+      "created": 1629249218,
+      "upvotes": 90,
+      "replies": {
+        "h9d5nit": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d5nit/",
+          "text": "Editor in chief at a high tier journal you say.....I wonder if reddit gold could get me published in Nature.... \n\nA man can dream.",
+          "author": "PhysicsVanAwesome",
+          "created": 1629253600,
+          "upvotes": 32,
+          "replies": {
+            "h9d8kwp": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d8kwp/",
+              "text": "Unfortunately not Nature. Keep your gold!",
+              "author": "cranfordEIC",
+              "created": 1629255153,
+              "upvotes": 14,
+              "replies": {
+                "h9d9poq": {
+                  "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d9poq/",
+                  "text": "Hahahaha....*of course I was joking* but, incidentally, I am about to submit to JAP for my first 1st author paper (fingers crossed!). Pretty excited, NGL.",
+                  "author": "PhysicsVanAwesome",
+                  "created": 1629255772,
+                  "upvotes": 5,
+                  "replies": {
+                    "h9dafct": {
+                      "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9dafct/",
+                      "text": "JAP is solid. Hopefully it will get reviewed well!",
+                      "author": "cranfordEIC",
+                      "created": 1629256164,
+                      "upvotes": 6,
+                      "replies": {
+                        "h9dat98": {
+                          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9dat98/",
+                          "text": "Thanks :D I have high hopes!",
+                          "author": "PhysicsVanAwesome",
+                          "created": 1629256385,
+                          "upvotes": 0,
+                          "replies": {
+                            "h9dbtyx": {
+                              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9dbtyx/",
+                              "text": "Curious... what\u2019s the topic?",
+                              "author": "cranfordEIC",
+                              "created": 1629256960,
+                              "upvotes": 4,
+                              "replies": {
+                                "h9gti7i": {
+                                  "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9gti7i/",
+                                  "text": "Short story:\n\nCondensed matter--modeling transport in thin ruthenium films to better understand the resistivity size effect and its relation to simple surface disorder.\n\nA little more detail, if you're curious: \n\nWe use a pretty interesting method for modeling transport, electronic structure is calculated with a realistic tight-binding model (9 orbitals per atomic site), the starting point for which was an NRL model. The elements of the Kubo-Greenwood conductivity tensor are calculated using the kernel polynomial method. What makes this approach interesting/unique is that one can calculate transport characteristics for huge systems because the computational complexity of the transport calculations scale approximately linearly with the system size. On our cluster, I've run the calculations for systems that were over 300k atoms, nearly 1 million orbitals. If I had access to a beefier cluster, I could easily do larger systems. Next paper should have phonons included as well, wooo!",
+                                  "author": "PhysicsVanAwesome",
+                                  "created": 1629328714,
+                                  "upvotes": 2,
+                                  "replies": {
+                                    "h9gvzot": {
+                                      "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9gvzot/",
+                                      "text": "Cool. Find anything interesting regarding the ruthenium, or is it really more of a platform to show the computational method?",
+                                      "author": "cranfordEIC",
+                                      "created": 1629329895,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "h9e49ro": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9e49ro/",
+              "text": "> ..I wonder if reddit gold could get me published in Nature\n\nyet still I see no gilded comment",
+              "author": "advanced-DnD",
+              "created": 1629279718,
+              "upvotes": 3,
+              "replies": {
+                "h9gtnb5": {
+                  "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9gtnb5/",
+                  "text": "I would never commit such a breach of ethics!",
+                  "author": "PhysicsVanAwesome",
+                  "created": 1629328779,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "h9d5whl": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d5whl/",
+          "text": "It's really interesting to me what you said about salaries -- I was under the impression that a lot of academic journal editing was unpaid work. Do you know if these being paid positions is more or less universal, or does it vary a lot (maybe lower tier journals don't tend to pay)?\n\nAnd relatedly, is this your full time job? I ask because I know at least one university professor who is also an editor for a journal.",
+          "author": "MetalHalide13",
+          "created": 1629253732,
+          "upvotes": 6,
+          "replies": {
+            "h9d8i9x": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d8i9x/",
+              "text": "Society journals... ACS, RSC, APS, etc... have editors that are also faculty at various universities. They are either unpaid, or get a nominal fee (ACS, for example, pays a few thousand a year for editors). \n\nFor-profit journals, which includes Science, Nature, Cell and their sister journals, have full time professional editors. That\u2019s all we do. Personally, I used to be faculty, but now I\u2019m full time editor. I have a team of full time editors under me, and we handle all papers. \n\nThere\u2019s pros and cons - faculty editors are definitely more in touch with the field, but full time editors can focus more on the journal/papers.",
+              "author": "cranfordEIC",
+              "created": 1629255114,
+              "upvotes": 16,
+              "replies": {}
+            }
+          }
+        },
+        "h9d3hdf": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d3hdf/",
+          "text": "Thanks so much for replying! This is super helpful. I'll probably be back soon with follow-up questions!",
+          "author": "sumonewhoisntme",
+          "created": 1629252466,
+          "upvotes": 5,
+          "replies": {
+            "h9d8t6b": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d8t6b/",
+              "text": "No problem! \n\nI can say it\u2019s a pretty rewarding job if you\u2019re \u201cinto\u201d science but don\u2019t envision yourself doing bench work for a company and/or want to avoid the politics of academia.",
+              "author": "cranfordEIC",
+              "created": 1629255277,
+              "upvotes": 6,
+              "replies": {}
+            }
+          }
+        },
+        "h9dwklk": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9dwklk/",
+          "text": "Not OP but I dare to ask other questions.\n\n* Do you know about challenges or major differences between STEM and social sciences in your job field?\n\n* What are the best and worst parts of your job?\n\nThank you so much! (also to OP; this thread is so interesting)",
+          "author": "RoadsidePicnicBitch",
+          "created": 1629272399,
+          "upvotes": 5,
+          "replies": {
+            "h9fvezn": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9fvezn/",
+              "text": "What I know about the social sciences is only anecdotal, but in the STEM field it is a little faster paced - typically manuscripts are handled quicker and the turnaround is faster in terms of reviews, revisions, and publication. This is good in some ways, but also means a single editor typically handles more papers.   \n\n\nBest parts are meeting people and talking about research, particularly those that are outside your particular area. If you are a researcher at a conference, for example, you might attend your speaker session, and listen to talks that are somewhat similar. My team and I try to expose ourselves to as many sessions as possible and meet as many speakers and researchers as possible. Always something new and exciting!\n\nThe worst past is the minor conflicts that arise, sometimes between reviewers and authors, sometimes rebuttals, corrections, retractions, etc. Some authors take criticism VERY seriously, and don't like rejection. We try to be transparent about all of our decisions.",
+              "author": "cranfordEIC",
+              "created": 1629313183,
+              "upvotes": 4,
+              "replies": {}
+            },
+            "h9g1uiq": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9g1uiq/",
+              "text": "Thanks. I'm so glad it is interesting and helpful to more than just me! I think it's pretty normal (and prudent) these days for early-career academics to be thinking of \"alternative\" paths.",
+              "author": "sumonewhoisntme",
+              "created": 1629316074,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "h9de85k": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9de85k/",
+          "text": "I think I talked to you during one of your journal\u2019s launch events, and might have a paper there (what does it matter though ;)). I\u2019m a staff scientist at a US Nat Lab and am thinking about transitioning to a career in publishing as I tire of the rigamarole of writing proposals and doing research. Beyond the comments you have already shared, do you have any other advice or insight for career realignment along this trajectory?",
+          "author": "PoorHungryDocter",
+          "created": 1629258345,
+          "upvotes": 1,
+          "replies": {
+            "h9fvmz5": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9fvmz5/",
+              "text": "It's a pretty good position if you are excited about research/science. There is some opportunity for creativity, and I think the industry itself is evolving pretty quickly (i.e., more focus on open access, as an example).   \n\n\n(hope we treated your paper OK!)",
+              "author": "cranfordEIC",
+              "created": 1629313282,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "h9dgsle": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9dgsle/",
+          "text": "Being an EIC is so cool! May I know what are your thoughts about the first author/any of the co-authors that submitted the paper, emailing you after 3 months or so if there has been no progress on the review of the paper?\n\nI've heard of stories about EIC desk rejecting papers if authors send an email enquiring about review status.",
+          "author": "givemeyourdonut",
+          "created": 1629259913,
+          "upvotes": 1,
+          "replies": {
+            "h9fw14c": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9fw14c/",
+              "text": "Totally reach out to the handling editor. Likely it is hung up in peer review (maybe getting reviewers to agree... sometimes we have to invite 20 or more reviewers before someone agrees). If there is a 3 month wait, it shouldn't be a desk reject (I hope).  Any ethical editor would simply explain the delay. We get antsy if a manuscript is sitting there more than 3-5 days without a decision.   \n\n\nIf the editor is faculty somewhere, it could also be a summer break issue.",
+              "author": "cranfordEIC",
+              "created": 1629313457,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h9d0b9y": {
+      "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d0b9y/",
+      "text": "For your last comment - I left academia for a K-12 STEM education nonprofit. Think like Bill Nye but not famous. I am usually behind the camera and not in front of it. There are a surprising number of organizations like this (e.g. science museums and other nonprofits) that hire STEM PhDs. This was all news to me as a grad student. It's clearly not for everyone but I love it and have no regrets.",
+      "author": "bengineering103",
+      "created": 1629250868,
+      "upvotes": 31,
+      "replies": {
+        "h9d0vgo": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d0vgo/",
+          "text": "I apologize for hijacking OP's thread, but can you explain a bit more about your job?",
+          "author": "jdoe36",
+          "created": 1629251149,
+          "upvotes": 9,
+          "replies": {
+            "h9edkos": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9edkos/",
+              "text": "So speaking more generally first - there's a whole ecosystem of science education stuff and a lot of those people have STEM degrees (some PhDs, some not). I mistakenly thought basically everyone involved in science education had a teaching degree, until I met a woman working at a science museum who had a PhD in biology. The people who design exhibits and public programs at museums, people who create curriculum (textbooks etc), other organizations that run STEM programs and camp for kids (e.g. FIRST robotics), educational websites (I don't know if automod blocks URLs here, but for example code dot org or Khan Academy), sciencey toys, etc. \n\nIn my specific case, I work for a science education website (it's a small company so I can't name it without giving myself away on this account). I write instructions for projects, make how-to videos, and design kits of supplies that parents/teachers can buy if their kids want to do a project. So I'm not doing PhD-level research, but I need to be able to explain the science behind a variety of topics at a variety of difficulty levels (e.g. a simple activity for kindergarteners is different from an advanced high school project). In my experience a lot of academics are terrible at that because they spend all day around other people with PhDs in their highly specialized field, so they forget how to communicate with the general public (insert rant about how this should really be part of the training all grad students get, especially in the US where half the public doesn't believe in science). \n\nAnyway, for the most part I am entirely behind the scenes, which is what I meant by the Bill Nye comment. I did miss interacting with students and teaching in person, so I used to get out more often and volunteer at makerspaces/libraries/schools etc - but now I have my own kids and they keep my hands full :-). \n\nAs an example of what I mean, using a website that I DON'T work for - check out teachengineering dot org and look at some of their lesson plans. I write stuff like that. (in their case I think most of their content is written by faculty at universities who are part of the NSF grant funding the site, I don't know if they have their own in-house PhD level employees). And that reminds me that there are also careers like this in academia and industry that require PhD - many university departments and companies have an \"outreach coordinator,\" someone who is in charge of helping the research faculty - who as mentioned above, many times are not great at science outreach (but not always! some of them are great!) - with outreach programs (which for example are required by an NSF grant).\n\nHope that helps!",
+              "author": "bengineering103",
+              "created": 1629287297,
+              "upvotes": 8,
+              "replies": {
+                "h9ejsgb": {
+                  "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9ejsgb/",
+                  "text": "thank you!",
+                  "author": "jdoe36",
+                  "created": 1629291212,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "h9d3ene": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d3ene/",
+              "text": "Haha, no worries for 'hijacking it'. I'm happy it's becoming an open discussion :)  I want to hear more about this nonprofit position too. It sounds super interesting!",
+              "author": "sumonewhoisntme",
+              "created": 1629252427,
+              "upvotes": 7,
+              "replies": {
+                "h9edmgr": {
+                  "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9edmgr/",
+                  "text": "I'm not sure who gets notifications about what comments (I'm bad at reddit), so just in case, see my reply to u/jdoe36",
+                  "author": "bengineering103",
+                  "created": 1629287332,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "h9dcvga": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9dcvga/",
+          "text": "I\u2019m really interested in science education, but I\u2019ve only seen lower paid positions for people with just a bachelors. Tips for finding these jobs?",
+          "author": "gingeroo96",
+          "created": 1629257560,
+          "upvotes": 3,
+          "replies": {
+            "h9ecq4b": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9ecq4b/",
+              "text": "Like anything else - networking. Just a different type of networking that what you usually get by default in academia (research and attending conferences etc). In grad school I got heavily involved in science outreach - giving guest presentations at schools and science museums, attending science festivals (google \"USA Science and Engineering Festival,\" (USASEF) they also have smaller satellite events in cities around the country). For one job I literally just met someone at a booth at USASEF and that conversation led to a job. For another, a fellow grad student I met in a science outreach club (we gave free lectures to the public about our research) saw a job posting she thought I'd be interested in and forwarded it to me. Of course, this was ten years ago and I realize COVID probably makes this much harder. I'll talk more about my actual job in my reply to u/jdoe36.",
+              "author": "bengineering103",
+              "created": 1629286712,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "h9d8j8a": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9d8j8a/",
+          "text": "Yes! What is this type of job?",
+          "author": "kevinbsmith006",
+          "created": 1629255128,
+          "upvotes": 2,
+          "replies": {
+            "h9edlem": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9edlem/",
+              "text": "see my reply to u/jdoe36",
+              "author": "bengineering103",
+              "created": 1629287311,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h9cvo5d": {
+      "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9cvo5d/",
+      "text": "Commenting so I can see replies later, I\u2019m also very interested in getting answers to these questions",
+      "author": "JackfruitGreedy1982",
+      "created": 1629248520,
+      "upvotes": 4,
+      "replies": {
+        "h9dw994": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9dw994/",
+          "text": "I have been super stuck lately with everything :/\nThis is wonderful inspiration, thank you!",
+          "author": "RoadsidePicnicBitch",
+          "created": 1629272104,
+          "upvotes": 2,
+          "replies": {
+            "h9g2qes": {
+              "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9g2qes/",
+              "text": "Honestly though, same here. I have a good sense of my general interests, but a harder time figuring out how & where exactly to follow them. Glad to hear this discussion is helpful to more than just me!",
+              "author": "sumonewhoisntme",
+              "created": 1629316471,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "h9dapsq": {
+          "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9dapsq/",
+          "text": "^^^",
+          "author": "oodlesofnoodles_",
+          "created": 1629256330,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h9cs3sg": {
+      "link": "/r/AskAcademia/comments/p6flm9/what_is_it_like_to_work_in_academic/h9cs3sg/",
+      "text": "To address your final comment - http://www.engineerguy.com/ - not sure what he has made overall on his books/YouTube/etc but there is opportunity.",
+      "author": "GetCookin",
+      "created": 1629246680,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

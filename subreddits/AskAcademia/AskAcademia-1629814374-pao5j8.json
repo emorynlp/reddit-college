@@ -1,0 +1,81 @@
+{
+  "sid": "pao5j8",
+  "link": "/r/AskAcademia/comments/pao5j8/sharing_experimental_data_between_thesis_and/",
+  "title:": "Sharing experimental data between thesis and research paper: questions from a student new to research",
+  "text": "I'm currently in the thesis-writing portion of my Master's program in Machine Learning and am advised by a postdoc working in my professor's lab. My thesis is based on a previous paper published by the professor and postdoc where the postdoc was an author. I have discovered some interesting results through my thesis research, and the postdoc has said that they think that it is publishable. They have come up with a plan for a paper to submit to a major ML conference that combines my results with some results from other members of the lab.\n\nThe postdoc has said that I could be an author on the paper, and have asked me to provide them the data from my experiments. I\u2019ve got 2 questions:\n\n-Should I confirm with the professor that they are aware of the plan for this paper before sending the data over? If so, any suggestions for phrasing it in a way that isn\u2019t insulting to the postdoc?\n\n-Should I request that the paper also cite my thesis when it presents my results?",
+  "author": "Oh__Frabjous_Day",
+  "created": 1629814374,
+  "updated": 1634079509,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "ha6lf6o": {
+      "link": "/r/AskAcademia/comments/pao5j8/sharing_experimental_data_between_thesis_and/ha6lf6o/",
+      "text": "I think you absolutely should discuss this with your PI. You don't need to present this as an issue with the postdoc but at the same time I think you need to get their take on authorships, because from my reading of this post you should be an author and if you're in a field that has different positions for authors you should be discussing first/joint first authorship. I'm not saying you absolutely should be first author but just because the postdoc is writing and conceiving the paper that doesn't mean they should automatically be first author either. It needs to be discussed and your PI should be aware and overseeing all publications coming from their lab and ensuring everyone is appropriately acknowledged - that is a fundamental part of their job.\n\nLastly, you don't cite your thesis - the publication is viewed as the original source of the research so all future references will cite the paper not your thesis, ditto your future research. You would only really cite a thesis if it was someone else's thesis and the research was unpublished - quite uncommon in STEM.",
+      "author": "ACatGod",
+      "created": 1629824755,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "ha5xrhz": {
+      "link": "/r/AskAcademia/comments/pao5j8/sharing_experimental_data_between_thesis_and/ha5xrhz/",
+      "text": "Papers cannot cite theses usually. Sometimes doctoral theses are allowed, but that's rare, because theses are not peer reviewed.\n\nYou could check in with your prof, but I dont think that's needed. If you feel like it, just tell them that you're super excited to see that your work is being used for a publication by the postdoc.",
+      "author": "DeepSeaDarkness",
+      "created": 1629814924,
+      "upvotes": 0,
+      "replies": {
+        "ha62f5r": {
+          "link": "/r/AskAcademia/comments/pao5j8/sharing_experimental_data_between_thesis_and/ha62f5r/",
+          "text": "Thanks for the advice! If the thesis can't be cited, is there any problem with using the same results for my thesis as well as in the paper? wrt academic integrity/plagirism type concerns? I know that in school we aren't allowed to submit the same work for multiple assignments",
+          "author": "Oh__Frabjous_Day",
+          "created": 1629816933,
+          "upvotes": 2,
+          "replies": {
+            "ha62qze": {
+              "link": "/r/AskAcademia/comments/pao5j8/sharing_experimental_data_between_thesis_and/ha62qze/",
+              "text": "A paper is not an assignment. A thesis is only for your university, your results need to be published in a paper to become accessible to the scientific community.  \nIt is very normal and common that a thesis (usually doctoral, sometimes Masters, rarely bachelors) gets partially recycled into a paper.",
+              "author": "DeepSeaDarkness",
+              "created": 1629817074,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        },
+        "ha8pghd": {
+          "link": "/r/AskAcademia/comments/pao5j8/sharing_experimental_data_between_thesis_and/ha8pghd/",
+          "text": "I disagree, I don't see any reason you can't cite a master thesis. Lots of papers cite preprints that haven't been peer reviewed.",
+          "author": "setholopolus",
+          "created": 1629856972,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hac2wln": {
+          "link": "/r/AskAcademia/comments/pao5j8/sharing_experimental_data_between_thesis_and/hac2wln/",
+          "text": "books aren't peer reviewed either but people still cite them!",
+          "author": "doornroosje",
+          "created": 1629922012,
+          "upvotes": 1,
+          "replies": {
+            "hac3t84": {
+              "link": "/r/AskAcademia/comments/pao5j8/sharing_experimental_data_between_thesis_and/hac3t84/",
+              "text": "Not in my discipline",
+              "author": "DeepSeaDarkness",
+              "created": 1629922370,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ha6hqp0": {
+      "link": "/r/AskAcademia/comments/pao5j8/sharing_experimental_data_between_thesis_and/ha6hqp0/",
+      "text": "> Should I confirm with the professor that they are aware of the plan for this paper before sending the data over? If so, any suggestions for phrasing it in a way that isn\u2019t insulting to the postdoc?\n\nYeah, the prof should at least be aware of what's going on in their lab. This gives you the chance to clearly lay out the plan for writing the paper and your involvement. Ask how they would like to move forward and what they would like you to do. It sounds like the postdoc would write the paper and be the first author while you'd in the middle.\n\n> Should I request that the paper also cite my thesis when it presents my results?\n\nAs far as I am aware, this isn't really a thing.",
+      "author": "CheeseWheels38",
+      "created": 1629823289,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

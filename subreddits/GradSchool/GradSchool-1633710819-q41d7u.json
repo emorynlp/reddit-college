@@ -1,0 +1,65 @@
+{
+  "sid": "q41d7u",
+  "link": "/r/GradSchool/comments/q41d7u/preprint_policy/",
+  "title:": "Preprint policy",
+  "text": "If I submit a manuscript to a publisher, is it detrimental to post it to arXiv during the review process? I imagine some reviewers may not appreciate this. My knowledge of preprints is that they are reserved for urgent publications that pose an immediate and significant influence on their field of study (e.g. several covid studies were released as preprints, any groundbreaking discovery, etc.). Is this correct? I imagine it depends on policies of the publisher as well. This APS news post from 2012 implies that a premature preprint post can potentitally sway the conclusion of the reviewers:\n\n[https://aps.org/publications/apsnews/201211/preprint.cfm](https://aps.org/publications/apsnews/201211/preprint.cfm)",
+  "author": "lnwarwaruk",
+  "created": 1633710819,
+  "updated": 1634099822,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hfvf6dy": {
+      "link": "/r/GradSchool/comments/q41d7u/preprint_policy/hfvf6dy/",
+      "text": "Some publishers have rules about this, the reviewers are not going to care, the editor might.",
+      "author": "PityUpvote",
+      "created": 1633711373,
+      "upvotes": 4,
+      "replies": {
+        "hfw6y4h": {
+          "link": "/r/GradSchool/comments/q41d7u/preprint_policy/hfw6y4h/",
+          "text": "The journal does say we retain copyright up until acceptance. I figure that gives us free reign on what we do with the manuscript. We probably will run it past the editor though, just to be safe.",
+          "author": "lnwarwaruk",
+          "created": 1633722895,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hfvf4z4": {
+      "link": "/r/GradSchool/comments/q41d7u/preprint_policy/hfvf4z4/",
+      "text": "What field are you in? This depends on the norms of the field.\n\nFor example, in computer science, mathematics, physics, and statistics, many papers are available as preprints, and preprints are not reserved for urgent publications in any way. They're just a way of sharing work without the 1-2 year wait that peer review and the publication process imposes. This is widely accepted by journals and peer reviewers, and having a preprint out does not affect the peer review process at all.\n\nOther fields differ; in medicine, the top medical journals may be unhappy if you publish a preprint before submitting to them, because they like to be able to break news directly.",
+      "author": "capnrefsmmat",
+      "created": 1633711357,
+      "upvotes": 3,
+      "replies": {
+        "hfw6sn7": {
+          "link": "/r/GradSchool/comments/q41d7u/preprint_policy/hfw6sn7/",
+          "text": "Fluid dynamics, so more like the former. Good to know though, thanks for the insight.",
+          "author": "lnwarwaruk",
+          "created": 1633722833,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hfvl1qt": {
+      "link": "/r/GradSchool/comments/q41d7u/preprint_policy/hfvl1qt/",
+      "text": "On top of what's been said, preprints also make the paper open-access, and there's an option to submit a paper to the arXiv that's been accepted (and then update, once published). Check with your co-authors though, some organizations prohibit preprints too.",
+      "author": "Planetary_Piggy",
+      "created": 1633713813,
+      "upvotes": 1,
+      "replies": {
+        "hfw73xq": {
+          "link": "/r/GradSchool/comments/q41d7u/preprint_policy/hfw73xq/",
+          "text": "Good to know, thank for the info.",
+          "author": "lnwarwaruk",
+          "created": 1633722960,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

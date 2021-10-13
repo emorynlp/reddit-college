@@ -1,0 +1,505 @@
+{
+  "sid": "cuk0nw",
+  "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/",
+  "title:": "What open-source (or freemium) software do you use in your academic practice?",
+  "text": "I'm a new postdoc, and my boss has asked me to compile a list of open-source software and present it to my group. I've got the obvious things, like LaTeX, text editors, Zotero/Mendeley, Overleaf, python/Octave, and of course git and Linux. \n\nIs there anything else you guys use, even if it's discipline-specific?\n\nEdit: I'm especially interested in software for making figures. I have to admit, I'm not very good at artistic things and so I rely heavily on software to make the plots nice for me.",
+  "author": "notadoctor123",
+  "created": 1566594766,
+  "updated": 1634081837,
+  "over_18": false,
+  "upvotes": 114,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "exvakv9": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvakv9/",
+      "text": "I do all my analyses and visualizations using R. That's another popular free and open-source software.",
+      "author": "Verisimilitude_Dude",
+      "created": 1566595812,
+      "upvotes": 85,
+      "replies": {
+        "exvgg5p": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvgg5p/",
+          "text": "R and RStudio!",
+          "author": "planitall",
+          "created": 1566599361,
+          "upvotes": 25,
+          "replies": {
+            "exwclck": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exwclck/",
+              "text": "R is open source  but r studio is freeware with paid versions, is it really open source?",
+              "author": "c10do",
+              "created": 1566617465,
+              "upvotes": 6,
+              "replies": {
+                "exwhxbb": {
+                  "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exwhxbb/",
+                  "text": "It's not. Not like... emacs\n\nhttps://ess.r-project.org/ \ud83d\ude09",
+                  "author": "_-l_",
+                  "created": 1566619650,
+                  "upvotes": 7,
+                  "replies": {}
+                },
+                "exxkv7w": {
+                  "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exxkv7w/",
+                  "text": "RStudio is FOSS. I maintain the arch linux package for it.",
+                  "author": "StephenSRMMartin",
+                  "created": 1566637853,
+                  "upvotes": 5,
+                  "replies": {}
+                },
+                "exxa5xo": {
+                  "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exxa5xo/",
+                  "text": "I didn't know that were paid versions? In what they are better than the free one? In my limited experience I only needed the free one",
+                  "author": null,
+                  "created": 1566632758,
+                  "upvotes": 2,
+                  "replies": {
+                    "exxhxc7": {
+                      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exxhxc7/",
+                      "text": "The difference is mainly in the license used + you should get priority tech support. It\u2019s for businesses, basicaly.",
+                      "author": "Croc600",
+                      "created": 1566636229,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "exvecn6": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvecn6/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1566598023,
+          "upvotes": 10,
+          "replies": {}
+        },
+        "exz1p7i": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exz1p7i/",
+          "text": "How difficult is R to learn? I've been dragging my feet about it and mostly sticking with SPSS. I know it's important for my cv to know it but...ugh. are there some easy to follow tutorials anywhere?",
+          "author": "FolkMetalWarrior",
+          "created": 1566659779,
+          "upvotes": 1,
+          "replies": {
+            "exzdmg2": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exzdmg2/",
+              "text": "It's not that bad. If you understand basic stat principles it helps. It's just a matter of getting used to the r way of doing things with data frames and slices.",
+              "author": "fleemfleemfleemfleem",
+              "created": 1566664437,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "exzb8aj": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exzb8aj/",
+              "text": "Coursera if you have access to that with your university",
+              "author": "trevorefg",
+              "created": 1566663499,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "ey20ljp": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/ey20ljp/",
+              "text": "DataCamp has an amazing intro to R online course! Otherwise, \"Introduction to SPSS using R\" by Andy Field.",
+              "author": "yay_knowledge",
+              "created": 1566718908,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "exvbh2y": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvbh2y/",
+      "text": "Allow me to share this list maybe you can share it with your group\n\n [http://openmetric.org/tool/#be-organized](http://openmetric.org/tool/#be-organized)",
+      "author": "CBornes",
+      "created": 1566596293,
+      "upvotes": 66,
+      "replies": {
+        "exvc1oa": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvc1oa/",
+          "text": "Welp, /endthread. Thanks a bunch for this link! This is exactly what I needed!",
+          "author": "notadoctor123",
+          "created": 1566596606,
+          "upvotes": 17,
+          "replies": {
+            "exvivzl": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvivzl/",
+              "text": "The nice thing with that list is that if you think something is missing you can add suggestions. Enjoy",
+              "author": "CBornes",
+              "created": 1566600537,
+              "upvotes": 6,
+              "replies": {}
+            }
+          }
+        },
+        "exvlege": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvlege/",
+          "text": "Great list",
+          "author": "brock_coley",
+          "created": 1566601553,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "exv9ynn": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exv9ynn/",
+      "text": "Biorender!! It\u2019s free to use in presentations and on posters, and has definitely made my figures stand out! My lab has also been fiddling with gimp, but I haven\u2019t used it enough to really speak on it.",
+      "author": "bergdokn",
+      "created": 1566595448,
+      "upvotes": 30,
+      "replies": {
+        "exzdooy": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exzdooy/",
+          "text": "It looks super expensive to use for papers though.",
+          "author": "fleemfleemfleemfleem",
+          "created": 1566664466,
+          "upvotes": 1,
+          "replies": {
+            "exzk3k7": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exzk3k7/",
+              "text": "The student account works out to be about $100/year. We do a lot of method development, and  that makes it super worth it for us.",
+              "author": "bergdokn",
+              "created": 1566667430,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "exvg473": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvg473/",
+      "text": "ggplot in R is great for making figures. Inkscape is a freemium Adobe Illustrator stand in. Fiji (ImageJ) is freemium image analysis software that does a really good job of standing in for basic Photoshop among other things.",
+      "author": "riricide",
+      "created": 1566599147,
+      "upvotes": 23,
+      "replies": {
+        "exvpvt0": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvpvt0/",
+          "text": "I second Inkscape. I do know some people that still swear Illustrator is worth the $$, but I personally have never had to make a figure that Inkscape couldn't handle just fine.",
+          "author": "bradiation",
+          "created": 1566604239,
+          "upvotes": 9,
+          "replies": {
+            "exw7dan": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exw7dan/",
+              "text": "I adore inkscape. Highly recommend to anybody putting together figures for pubs (especially if you don't already have illustrator).",
+              "author": "I_Like_Eggs123",
+              "created": 1566614522,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "exxob2d": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exxob2d/",
+              "text": "The only reason I\u2019ve found not to use Inkscape is if your using an Mac as it doesn\u2019t handle retina displays very well and is a little bit janky in performance",
+              "author": "Captaincadet",
+              "created": 1566639727,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "exvwhzu": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvwhzu/",
+          "text": "Gravit is another illustrator clone that I've found pretty intuitive.",
+          "author": "barra333",
+          "created": 1566608084,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "exvpbqs": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvpbqs/",
+      "text": "QGIS is open-source and super useful if you ever find your self spatially referencing any kind of data. It is python-based (I think). \n\nThere is also a subreddit for it with knowledgeable people who can help!",
+      "author": "TourmalineTart",
+      "created": 1566603948,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "exvpgt0": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvpgt0/",
+      "text": "Also, InkScape is a free version of Adobe Illustrator.\n\nEdit: Not really AI directly, but you can make vector files of artwork.",
+      "author": "TourmalineTart",
+      "created": 1566604022,
+      "upvotes": 11,
+      "replies": {
+        "exwkw1r": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exwkw1r/",
+          "text": "What do you think of InkScape? I have been told of it a few times, but I never tried it as I have access to AI in one of our labs.",
+          "author": "Screamshock",
+          "created": 1566620836,
+          "upvotes": 2,
+          "replies": {
+            "exx122a": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exx122a/",
+              "text": "I\u2019m sorry, I don\u2019t actually use it! One of my friends from grad school uses it for all of her paper figures though. She\u2019s happy with it, but she also has never used Illustrator.",
+              "author": "TourmalineTart",
+              "created": 1566628342,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "exvjq6e": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvjq6e/",
+      "text": "It has a moderately steep learning curve - but Blender is amazing for making schematics if you can learn it.",
+      "author": "N1H1L",
+      "created": 1566600677,
+      "upvotes": 8,
+      "replies": {
+        "exxcjnw": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exxcjnw/",
+          "text": "A steep learning curve is actually a good thing; it means everything can be learned in a short period of time. It's the slog of a long, shallow one you don't want to have to go through.",
+          "author": "Glaselar",
+          "created": 1566633766,
+          "upvotes": 1,
+          "replies": {
+            "exz6690": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exz6690/",
+              "text": "It pains me to see downvotes for technically correct language. \n\nColloquially, \u201csteep learning curve\u201d means exactly the opposite of its true meaning. I find it a lost cause to try and correct anymore, like \u201cnauseous\u201d, \u201chealthy\u201d, and \u201cbegs the question\u201d. \n\n\u201cComprise\u201d would be lost as well if it wasn\u2019t for legal/patent language.",
+              "author": "BillyBuckets",
+              "created": 1566661499,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "ey2e2tn": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/ey2e2tn/",
+              "text": "I couldn't understand why it is downvoted. I kinda like steep learning curves, because it forces to use most of its features.",
+              "author": "atrlrgn_",
+              "created": 1566736547,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "exvhk4m": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvhk4m/",
+      "text": "You could add JASP and JAMOVI as free/open source graphical stats programs.",
+      "author": "dhen061",
+      "created": 1566599905,
+      "upvotes": 6,
+      "replies": {
+        "exvtjag": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvtjag/",
+          "text": "+1 for JASP, especially for how easy to makes doing Bayesian statistics.",
+          "author": "Doofangoodle",
+          "created": 1566606336,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "exvnuvm": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvnuvm/",
+      "text": "While it requires hardware too, I am *extremely* fond of NextCloud (self-hosted cloud storage and many other secondary webapplications). I have a home server running to synchronize all my PDFs, contacts, calendars and such without needing a third-party server. Much less necessary if security, GDPR etc. aren't a problem, but I couldn't go without it.\n\nI've used ImageJ (or the [FIJI](https://imagej.net/Fiji) \"distribution\" of it, rather) for microscopy a lot. I've used [RDKit](http://www.rdkit.org/) for basic chemistry in relation to training a neural network during undergrad.  Also mol2chemfig is one of my favourite timesavers for importing chemical structures into LaTeX documents with ease and retaining the prettiness one should expect from LaTeX.\n\nFor visualizing data, Matplotlib/Pyplot via Python are definitely my go-tos. I've used Python's probfit for nonlinear regression quite often.\n\nThere's a lot of basic stuff that I don't use exclusively for academic things like Thunderbird, Riot.im (for conference calls and such, though I haven't used it in an academic capacity yet due to the lack of other people who use it), Unison (file syncing between devices), GIMP or Inkscape, krunner/Launchy (I can't ever stop enjoying how convenient having a quick unit conversion tool and drop-down calculator is), ssh, etc.\n\nGenerally, it's easy to make a list of libre software that's great, but it's difficult to not make it too bloated with things that are only tangentially related because they relate to just making your experience with your computer better.",
+      "author": "BigBlackRichard",
+      "created": 1566603143,
+      "upvotes": 6,
+      "replies": {
+        "exx3r97": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exx3r97/",
+          "text": "Oh yes! I second ImageJ its great! I use it for point counting microscope slides.",
+          "author": "TourmalineTart",
+          "created": 1566629688,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "exvqjck": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvqjck/",
+      "text": "Look at d3 in JavaScript for visualization and consider inkscape for vector graphic design. I work with an artist who praises inkscape for having superior filters and gradients to adobe.\n\nAlso consider Tikz in latex. for scientific computing look at python, R, scilab, octave as natural choices depending on your applications.",
+      "author": "danjd90",
+      "created": 1566604593,
+      "upvotes": 5,
+      "replies": {
+        "exwedn9": {
+          "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exwedn9/",
+          "text": "Hey OP this guy knows how to make figures in tex.",
+          "author": "MotorButterscotch",
+          "created": 1566618241,
+          "upvotes": 2,
+          "replies": {
+            "exwety0": {
+              "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exwety0/",
+              "text": "I actually don't know how to use Tikz at all! One of my profs loved that API, though, and she told me it was what she used to make beautiful graphs for notes in classes I had with her.",
+              "author": "danjd90",
+              "created": 1566618419,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "exvlboe": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvlboe/",
+      "text": "Mendeley and python",
+      "author": "Bondulance911",
+      "created": 1566601501,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "exvlkk8": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvlkk8/",
+      "text": "Oh Geeze. I mostly try to go open source.\n\nPython (and associated libraries)\nLibreoffice\nZotero\nFirefox\n\nAre by far the ones I use the most.",
+      "author": "Prukutu",
+      "created": 1566601667,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "exvpwt1": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvpwt1/",
+      "text": "Zotero\n\nGNU plot",
+      "author": "LeftPenguin",
+      "created": 1566604254,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "exvqkts": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvqkts/",
+      "text": "As far as data vis goes\n\n* Programming tools: R/ggplot2, Python, Dash/Plotly, D3.js\n* Network specific tools: Gephi, Cytoscape\n* Chart making tools: RAWGraphs\n* Image manipulation tools: Photopea, GIMP",
+      "author": "datana3",
+      "created": 1566604615,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "exvu7iy": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvu7iy/",
+      "text": "Julia",
+      "author": "nabjol",
+      "created": 1566606733,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "exw8sne": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exw8sne/",
+      "text": "Inkscape is useful to manipulate vector files. I usually create plots as PDF in R and add or organize the layout in Inkscape",
+      "author": "AldoHC",
+      "created": 1566615579,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "exvfehy": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvfehy/",
+      "text": "BIDS apps for neuroimaging data analysis. http://bids-apps.neuroimaging.io/apps/  Atom editor for writing code. https://atom.io/ \nScilab is an open source alternative to Matlab or Octave.",
+      "author": "minitrojanhottub",
+      "created": 1566598694,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "exvrqi2": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvrqi2/",
+      "text": "R, estudio and rmarkdown...oh and PSPP..",
+      "author": "howaboutudance",
+      "created": 1566605256,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "exxm3nq": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exxm3nq/",
+      "text": "Nearly everything.\n\nI run linux. I write papers in latex. I do analyses in R and Stan, with Rstudio or vim. I occasionally use libreoffice when necessary. I use dia for diagramming (or tikz, in latex). Gimp for any image tweaking. Git for version control. Vim for writing.\n\nI think the only think I use that isn't FOSS is mendeley. Literally, aside from gaming, that is the only application I use on my desktop/laptop that is not FOSS.",
+      "author": "StephenSRMMartin",
+      "created": 1566638496,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "exvo3yr": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvo3yr/",
+      "text": "Big fan of Bakoma Tex. It's a true WYSIWYG\u00a0editor. Freemium.",
+      "author": "MotorButterscotch",
+      "created": 1566603294,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "exvs1h8": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exvs1h8/",
+      "text": "Gnuplot is the king of graph making. CERN's ROOT is a pain for graphs, but it does make good looking figures. InkScape for vector graphics editor which is great for posters or for editing figures for presentations (and its multi-platform friendly).",
+      "author": "priestess-time",
+      "created": 1566605436,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "exw4txu": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exw4txu/",
+      "text": "Paraview for visualizing numerical simulation results, gnuplot for making graphics",
+      "author": "e_for_oil-er",
+      "created": 1566612765,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "exyp2vw": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exyp2vw/",
+      "text": "Inkscape, Blender, LibreCAD, and GIMP are great for figures. I used to use GNUPlot for graphing, but Python has some nice plotting tools that's much easier to figure out. I also have TIkZedt for editing TikZ images, but it's possibly abandonware. It *mostly* works.\n\nI use Joplin to write notes (it works with Markdown and LaTeX), Atom for editing bigger projects (works well with Overleaf, which is pretty slow imo), Zotero for references (because I tried Mendely once and it sucked), Jekyll on Github pages for my website (I'm broke and cheap), and Linux, of course.",
+      "author": "vardonir",
+      "created": 1566654959,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "exzfaw0": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exzfaw0/",
+      "text": "Text editor: Vim\n\nBib management: Paste stuff in BiBTeX\n\nDrawing: InkScape\n\nCSV manipulation: On-server it's sed/awk or a bunch of other command line tools.\n\nGraphs: Gnuplot\n\nWorkflow management and automation: Git and Makefile",
+      "author": "lunaticneko",
+      "created": 1566665205,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "exw6ieu": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exw6ieu/",
+      "text": "I find [IPE](http://ipe.otfried.org/) is pretty good to make simple line art (or quickly editing text/colors on a pdf plot). Much simpler than Inkscape, but the documentation is a bit lacking.\n\nNot technically software, but [this page](https://www.bastibl.net/publication-quality-plots/) and [this one](https://fraserlab.com/2014/08/20/Figures-with-Python/) have tips for making python/matplotlib plots look good",
+      "author": "Xilef11",
+      "created": 1566613818,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "exwe0ur": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exwe0ur/",
+      "text": "I use python + plotly + jupyterlab daily for my research\n\nData analysis, beautiful interactive plots, easily sharable notebooks, you name it",
+      "author": null,
+      "created": 1566618091,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "exwpky1": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exwpky1/",
+      "text": "Dia for making diagrams.",
+      "author": "PM_MOI_TA_PHILO",
+      "created": 1566622854,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "exxuoc3": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exxuoc3/",
+      "text": "BKChem is good enough if you don't want to pay for the ChemDraw license.\n\nInkscape, GIMP and Dia for images.\n\nI've tried using Avogadro, but it's not good, as it doesn't Actually Work(tm). My kingdom for an actually good chemical 3D visualisation software!\n\nI've used BibTeX, but it's not EndNote.\n\nI haven't found a freeware replacement for OriginPro yet.",
+      "author": "RRautamaa",
+      "created": 1566642892,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "exy3jws": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exy3jws/",
+      "text": "This podcast talks about a few different pieces of software/apps that people use in their academic work\nhttps://open.spotify.com/episode/2XmZdm3NvApnumNWxfnfvu?si=n0vVNTD1S12sN5G3BVZYoA",
+      "author": "johu999",
+      "created": 1566646743,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "exzfd5h": {
+      "link": "/r/AskAcademia/comments/cuk0nw/what_opensource_or_freemium_software_do_you_use/exzfd5h/",
+      "text": "Simplenote for iOS and OSX",
+      "author": "rshaq99",
+      "created": 1566665233,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

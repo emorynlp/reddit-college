@@ -1,0 +1,457 @@
+{
+  "sid": "bb8keo",
+  "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/",
+  "title:": "Personal web site as PhD Student. What do you use and why / why not ?",
+  "text": "I'm looking at a simple platform to have a personal site. Something that I can use mainly to take notes actually. I find that I gather so much notes, tutorials, websites for references, etc. and haven't found a good way to do that in a way that works well. I find that a hierarchical tool like a web site makes more sense than a word document. \n\n&#x200B;\n\nAlso, it would be public facing, have my publications and work, and link to researchgate / Orcid / twitter etc. in one place.\n\n&#x200B;\n\nSo, what are your simple to use tool to achieve that ? (I can do programming but prefer not to take my time to do too much of that myself).\n\nThanks !",
+  "author": "jtmooon",
+  "created": 1554819970,
+  "updated": 1634081441,
+  "over_18": false,
+  "upvotes": 126,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "ekh2vln": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh2vln/",
+      "text": "If you are technical enough to run a GitHub pages site, then https://github.com/academicpages/academicpages.github.io looks nice and is really easy.",
+      "author": "jdfoote",
+      "created": 1554822939,
+      "upvotes": 76,
+      "replies": {
+        "ekh5v40": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh5v40/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1554824794,
+          "upvotes": 47,
+          "replies": {
+            "ekhn4fo": {
+              "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhn4fo/",
+              "text": "Cannot stress this enough.  \nConsider I use git for managing the versioning of my own writings. I think everybody that writes anything should learn how to use it.",
+              "author": "Menesio",
+              "created": 1554835357,
+              "upvotes": 13,
+              "replies": {
+                "eki3363": {
+                  "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/eki3363/",
+                  "text": "Dropbox does the versioning for me, though within 30 days only.",
+                  "author": "Pathfinder15",
+                  "created": 1554846025,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "ekhni7r": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhni7r/",
+          "text": "Shhhh that's the one I'm using now everybody's page will look like mine!",
+          "author": "JeanLag",
+          "created": 1554835614,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "ekh53rd": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh53rd/",
+          "text": "Damn, that looks neat!",
+          "author": "Pathfinder15",
+          "created": 1554824317,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "ekibz1v": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekibz1v/",
+          "text": ">It requires the most basic understanding of Git, which is a very useful tool if you are doing an\n\nI'm technical enough but don't have time/energy to mess around with code, scripts, maintenance. I just really don't enjoy it anymore and have other things to do with my limited time. Just maintaining a web presence will be enough. I think I might go with Google Site for now or Wordpress.",
+          "author": "jtmooon",
+          "created": 1554852664,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "ekh7uyp": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh7uyp/",
+          "text": "This is pretty cool. thanks.",
+          "author": "thnok",
+          "created": 1554826038,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ekh6jtk": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh6jtk/",
+      "text": "Definitely use GitHub pages. It's free and easy to set-up simple webpages with HTML, CSS, and even a bit of Javascript. Here's mine based on a free template:  [https://tfburns.com/](https://tfburns.com/) \n\nThere are plenty of free website templates these days. I found mine here:  [https://html5up.net/](https://html5up.net/)",
+      "author": "tfburns",
+      "created": 1554825206,
+      "upvotes": 28,
+      "replies": {
+        "ekhgtvf": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhgtvf/",
+          "text": "Haisai! I'd be curious to hear your thoughts on OIST. I study Okinawa (humanities) and hope to be at Ryu dai next year for fieldwork. I know the prefecture has been pushing the PR of OIST, and it looks cool, but just curious about the logistics of it all. Feel free to DM me if that's better.",
+          "author": "hillsonn",
+          "created": 1554831419,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "ekhvdou": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhvdou/",
+          "text": ".",
+          "author": "MAP3Kinase",
+          "created": 1554840828,
+          "upvotes": 5,
+          "replies": {
+            "ekjcpg6": {
+              "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekjcpg6/",
+              "text": "Check out the instructional material here:  [https://pages.github.com/](https://pages.github.com/) \n\nI would recommend downloading a free template somewhere, editing it locally on your PC, then uploading it as a GitHub repo and following the instructions at the website above. You'll get a free subdomain with GitHub, and you can choose to buy and map any other domain you wish, e.g. domain buying websites like GoDaddy.",
+              "author": "tfburns",
+              "created": 1554891908,
+              "upvotes": 3,
+              "replies": {
+                "emb3p0a": {
+                  "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/emb3p0a/",
+                  "text": "Hey!  I really appreciate you posting all of this.  You've definitely inspired me to make my own page!  \n\n\nQuick question: What did you use to purchase [tfburns.com](https://tfburns.com)?  You mentioned buying a domain at GoDaddy.  Is that what you ended up doing?  \n\n\nAgain, thanks so much!",
+                  "author": "equivocal20",
+                  "created": 1556797516,
+                  "upvotes": 2,
+                  "replies": {
+                    "embbzfo": {
+                      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/embbzfo/",
+                      "text": "Yes, I used GoDaddy. Good luck with your website!",
+                      "author": "tfburns",
+                      "created": 1556803593,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "ekh52pm": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh52pm/",
+      "text": "Free: Github pages works wonders. Use it with Jekyll and it'll look great. Takes a bit of manual labor to fully customize it, if you want to, but it's nothing too complex. \n\nFreemium: Wordpress is a classic. If you just want a static website, it might not be for you.\n\nPremium, kinda pricey (IMO): Squarespace or Wix.",
+      "author": "vardonir",
+      "created": 1554824300,
+      "upvotes": 16,
+      "replies": {}
+    },
+    "ekh17o1": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh17o1/",
+      "text": "Have you considered free web hosting platforms like Weebly?",
+      "author": "boringhistoryfan",
+      "created": 1554821897,
+      "upvotes": 10,
+      "replies": {
+        "ekhm7g1": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhm7g1/",
+          "text": "I found Weebly to be better for me than Wix and WordPress. And I also use mine to upload working papers.",
+          "author": "Vande_Kamp",
+          "created": 1554834746,
+          "upvotes": 6,
+          "replies": {
+            "ekhnbb9": {
+              "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhnbb9/",
+              "text": "I use academia for the latter. If you're only looking for a space to put up papers and such like it's a good stopgap",
+              "author": "boringhistoryfan",
+              "created": 1554835485,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "eki9j3x": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/eki9j3x/",
+          "text": "Weebly is excellent.",
+          "author": "planitall",
+          "created": 1554850809,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "ekh25yb": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh25yb/",
+      "text": "In my circle WordPress, SquareSpace, and GitHub pages are popular choices.",
+      "author": "polished_iconoclast",
+      "created": 1554822492,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "ekh1bgc": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh1bgc/",
+      "text": "Have you tried Wordpress? I'm using that to have my personal website on it. Seems to be fairly straight forward. But I'm bit confused on what your requirements are though.",
+      "author": "thnok",
+      "created": 1554821963,
+      "upvotes": 6,
+      "replies": {
+        "ekh71vc": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh71vc/",
+          "text": "Yes I vote for Wordpress as well. The main thing that bugs me about it is that if you're not using an adblocker, the ads are horrific.",
+          "author": "dogleish23",
+          "created": 1554825518,
+          "upvotes": 3,
+          "replies": {
+            "ekic0hs": {
+              "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekic0hs/",
+              "text": "Thanks for pointing that out... I might revise that choice then.",
+              "author": "jtmooon",
+              "created": 1554852694,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ekhjpdb": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhjpdb/",
+      "text": "What does one put on their website? Other than a CV and maybe articles or posters they've done.",
+      "author": "defiantgiant1",
+      "created": 1554833093,
+      "upvotes": 5,
+      "replies": {
+        "ekhvz1c": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhvz1c/",
+          "text": "In addition to what u/RhodaMorgenstern said, also current (and past) projects and outreach activities are possibilities.  I am also currently working on putting together some general information and outside links relating to the speech community that I work with (I'm a linguist).  Especially if your research involves dealing with specific community, it might be nice to include something about them on your website.",
+          "author": "hoffmad08",
+          "created": 1554841222,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "ekh5c54": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh5c54/",
+      "text": "GitHub Pages for hosting, where the site itself is built with React/Sass.",
+      "author": "FlyingQuokka",
+      "created": 1554824464,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "ekh8adn": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh8adn/",
+      "text": "I'm surprised nobody mentioned Google page.\n\nIt's adequate unless you want something much more than putting up your bio, papers, etc.",
+      "author": "winner_in_life",
+      "created": 1554826315,
+      "upvotes": 4,
+      "replies": {
+        "ekhg23w": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhg23w/",
+          "text": "I think the downside is that it's pretty ugly and thus looks like you didn't put a lot of effort into it.",
+          "author": "ADefiniteDescription",
+          "created": 1554830973,
+          "upvotes": 5,
+          "replies": {
+            "ekhitf3": {
+              "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhitf3/",
+              "text": "The new Google sites is pretty good. Of course, my point is if you just get yourself and your publications, CV out there, I don't think anyone would judge. Most people in my field just have one html-page.",
+              "author": "winner_in_life",
+              "created": 1554832561,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ekh2ibt": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh2ibt/",
+      "text": "I made one for myself just last weekend for a similar purpose. I used [github pages](https://pages.github.com/), since I already used github pretty regularly, it wasn't too hard to set up.",
+      "author": null,
+      "created": 1554822712,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "ekh2lw9": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh2lw9/",
+      "text": "You should try personal wiki.",
+      "author": "futureroboticist",
+      "created": 1554822776,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "ekh5my4": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh5my4/",
+      "text": "[https://carrd.co/](https://carrd.co/) !!!!\n\n&#x200B;\n\nWix is lame",
+      "author": "tpm319",
+      "created": 1554824653,
+      "upvotes": 2,
+      "replies": {
+        "ekjfchw": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekjfchw/",
+          "text": "Looks good, if you have nearly nothing on your CV. If you intend on putting up more information than how to contact you and a pub or two, that seems like it would be insufficient.",
+          "author": "TH1NKTHRICE",
+          "created": 1554895396,
+          "upvotes": 1,
+          "replies": {
+            "ekjgiit": {
+              "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekjgiit/",
+              "text": "You can make them pretty detailed, most of the examples are landing pages. \n\nI still stand by that wix is lame.",
+              "author": "tpm319",
+              "created": 1554896691,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ekh679k": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh679k/",
+      "text": "I use squarespace with my own domain. My brother is a graphic designer and made a design for me, but there are loads of nice templates you can use too. Zero programming is required, but obviously you have a lot more control over the layout if you know a little bit of web design. \n\nI don't find it useful for any *personal* use though. It hosts my CV, publications, and slides, and links to all of my other media, but I don't use it to actively take notes or keep track of references. There are other apps you can use to do those things better. Squarespace does have the functionality to easily make certain pages private or by key only, but I only use that when I'm drafting a section prior to publishing it.",
+      "author": "NoxiousQuadrumvirate",
+      "created": 1554824996,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ekh6kgu": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh6kgu/",
+      "text": "I just recently made a basic academic website with GitHub pages and the built-in themes look great, while being surprisingly simple to edit and tweak to your liking. Mine is just a short description of my research interests and a publications list.",
+      "author": "Zhaligkeer318",
+      "created": 1554825217,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ekhc16v": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhc16v/",
+      "text": "Notion? https://www.notion.so/",
+      "author": "cocofluo",
+      "created": 1554828615,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ekhd59m": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhd59m/",
+      "text": "I'm a fan of [http://blot.im](http://blot.im) \\- really easy dropbox integration for posts.",
+      "author": "spiiiralStaircases",
+      "created": 1554829268,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ekhel5l": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhel5l/",
+      "text": "You need a wiki.",
+      "author": "gunch",
+      "created": 1554830112,
+      "upvotes": 2,
+      "replies": {
+        "ekhjsqw": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhjsqw/",
+          "text": "Agreed--a personal MediaWiki instance is the way to go.",
+          "author": "esqueletohrs",
+          "created": 1554833153,
+          "upvotes": 1,
+          "replies": {
+            "ekic2n7": {
+              "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekic2n7/",
+              "text": "Aren't they ugly ?",
+              "author": "jtmooon",
+              "created": 1554852740,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "ekkar5h": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekkar5h/",
+      "text": "I can make a free academic webpage for you. I'm working on a visual CV project that embed videos, images, papers, etc. directly into the webpage. I'm looking for early adopters.",
+      "author": null,
+      "created": 1554918658,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "ekh3n91": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekh3n91/",
+      "text": "I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:\n\n- [/r/u_zuoci] [Personal web site as PhD Student. What do you use and why \\/ why not ?](https://www.reddit.com/r/u_ZuoCi/comments/bb96ui/personal_web_site_as_phd_student_what_do_you_use/)\n\n&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*",
+      "author": "TotesMessenger",
+      "created": 1554823423,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ekhg5zh": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhg5zh/",
+      "text": "I have used Weebly for the last five years or so. It works pretty well for the most part, and is only $8/mo for the hosting. I use a separate service (Namecheap) for the domain name.",
+      "author": "ADefiniteDescription",
+      "created": 1554831034,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ekhmqds": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhmqds/",
+      "text": "why not the new Google Sites? I think they look rather clean. I suppose it depends on aesthetic preference and what you would like to include.",
+      "author": "Farquade",
+      "created": 1554835095,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ekhq9mf": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekhq9mf/",
+      "text": "I like academia",
+      "author": "SunriseJazz",
+      "created": 1554837459,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eki2vf4": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/eki2vf4/",
+      "text": "Simply for the sources organization aspect of this you should try zotero. I\u2019ve only been using it a couple weeks but you can save PDFs, htmls and links and write notes about them. You can also use tags to specify their topics. It\u2019s been great for a recent lit review I wrote.",
+      "author": "purplespice4",
+      "created": 1554845870,
+      "upvotes": 1,
+      "replies": {
+        "ekic6d3": {
+          "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekic6d3/",
+          "text": "Hi ! I already use (and like!) zotero. It's just that I want to list conferences, blogs, etc. too in an easy to use format.",
+          "author": "jtmooon",
+          "created": 1554852816,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "ekiat5k": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekiat5k/",
+      "text": "Notion is great for note taking, even has latex support and can be made public facing",
+      "author": "BobbTheBuilder",
+      "created": 1554851791,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ekim9l5": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekim9l5/",
+      "text": "Try https://carrd.co\nI am building my own https://abdulrehman.carrd.co",
+      "author": "houneie",
+      "created": 1554860290,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ekiwjh4": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekiwjh4/",
+      "text": "I have one and you should *definitely* have one when applying for jobs. All my potential employers checked it out. \n\nIn my case thanks to a side business of freelance writing and Reddit semi-celebrity, I actually paid a friend to make me one who\u2019s good at this sort of thing on the grounds that I would profit if I got just one job from doing so, and that proved right within a year. That\u2019s obviously an unusual grad student situation though.",
+      "author": "Andromeda321",
+      "created": 1554868762,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ekjazur": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekjazur/",
+      "text": "I find wordpress to be great.\n\nBut, why would you want to publish your notes online? I don't know anybody who would want to read someone's notes",
+      "author": "johu999",
+      "created": 1554889120,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ekpmbcy": {
+      "link": "/r/AskAcademia/comments/bb8keo/personal_web_site_as_phd_student_what_do_you_use/ekpmbcy/",
+      "text": "Thanks to all for your input. I did some quick tests and opted for Wordpress for ease of use.",
+      "author": "jtmooon",
+      "created": 1555073606,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

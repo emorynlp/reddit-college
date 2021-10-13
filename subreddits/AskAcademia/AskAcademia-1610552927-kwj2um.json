@@ -1,0 +1,336 @@
+{
+  "sid": "kwj2um",
+  "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/",
+  "title:": "How do I bring up the fact that my PhD supervisor died and that's why I don't have him as a reference (and some more CV questions)",
+  "text": "Hello all,\n\nMy phd supervisor unfortunately passed away this fall so alas, I cannot list him in my references.  \nI'm afraid that not including my main supervisor as a reference might raise some eyebrows.. what if that's enough to stop my application from reaching the point of contacting the other references (who will surely explain the situation)?          \n          \nShould I include a tiny note in the references section of my CV or would that be too tacky/weird ?\n\nBesides this unpleasant issue, I'd also love to read some opinions on the following CV doubts\n\n#####Professional Appointments/Employment\n\nIs this really necessary? I have just finished my phd so this would just be my initial grant and then 3 consecutive contracts in the same lab while finishing my phd. Because of that I don't think it adds much value to my profile, does it?\n\n#####Research experience\n\nSimilarly, i think this will just re-iterate what I did for my phd, I'm not sure I fully appreciate what I'm supposed to highlight in this section Is this where I showcase the things I can do as a researcher?\n\n\n#####Key competencies\n\nI think it's a good idea to have a brief section where you can highlight these but it doesn't seem to be a thing in academic context\nAs my CV stands right now, I have 4 subsections in there: Bioinformatics, Data Science, Informatics, Biology\nwhere I highlight my competences that are most relevant to each section. For example the \"Data science\" parts reads as follows:\n\n>Data Science: Experienced in applying and developing statistical analyses and machine learning tech-niques for biological questions. Enjoys handling big amounts of data and takes pride indeveloping and optimizing fast performing computational pipelines. Very comfortable with the Python data science stack of libraries (jupyter, pandas, numpy, sci-kit, sci-py, seaborn,TensorFlow)\n\nShould all this just go in the cover letter instead ? Or in the research experience somehow ?\n\n\n#####Repositories\n\nAs a bioinformatician, I've created some repositories for which I'm quite proud and I'd like to showcase them. This again doesn't seem to be a thing in academia, what do you think?",
+  "author": "fifnir",
+  "created": 1610552927,
+  "updated": 1634080554,
+  "over_18": false,
+  "upvotes": 252,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "gj4rxyq": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4rxyq/",
+      "text": "On your CV something like\n\n\"PhD 2018 U. of Reddit (advisor: Advisor Name \\[1956-2020\\])\"\n\nshould suffice. If whoever is screening knows your field, they'll probably know about your advisor's passing. If they don't, it won't matter at that stage. In any case the CV notation will make it clear.",
+      "author": null,
+      "created": 1610559036,
+      "upvotes": 330,
+      "replies": {
+        "gj4tudo": {
+          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4tudo/",
+          "text": "This is similar what I do, but because dates are all over the place on CVs and might be overlooked or misunderstood I just write [deceased, YEAR].",
+          "author": "sirtwixalert",
+          "created": 1610559865,
+          "upvotes": 174,
+          "replies": {
+            "gj4yz3y": {
+              "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4yz3y/",
+              "text": "That *is* a good suggestion. The only reason I left it out of my suggestion (and maybe this is also the idea of the dagger suggestion) is that I felt that one wants to draw as little attention to the point to get it across. \"Deceased\" is a natural word, but nonetheless jarring on a CV. If the reader is carelessly scanning through, the applicant would rather they develop the impression from the actual qualifications. However, it sounds like you have real experience on this point, and I don't! Best wishes.",
+              "author": null,
+              "created": 1610562120,
+              "upvotes": 79,
+              "replies": {
+                "gj5ir9u": {
+                  "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj5ir9u/",
+                  "text": "Agreed that deceased would be the most clear. I think you'll want to avoid subtle signals that are too clever or have any chance of being misunderstood.",
+                  "author": "ivyprof",
+                  "created": 1610570883,
+                  "upvotes": 38,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gj6zrrc": {
+          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj6zrrc/",
+          "text": ">PhD 2018 U. of Reddit (advisor: Advisor Name \\[1956-2020\\])\n\nSo the person advised your PhD dissertation from 1956-2020?\n\nThat has got to be a world record time taken to finish a doctorate.\n\nJust kidding, but just wrote that to illustrate why I personally would prefer to go with writing 'deceased' like the other poster suggested. I think putting the dates like that could cause misunderstanding, especially if someone on a search committee is just briefly scanning a CV or resume.",
+          "author": "drwarrengphd",
+          "created": 1610597140,
+          "upvotes": 24,
+          "replies": {}
+        },
+        "gj4tv6r": {
+          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4tv6r/",
+          "text": "From someone who reviews apps, this would be more clear to me than the dagger suggestion above.",
+          "author": "Jeanne23x",
+          "created": 1610559875,
+          "upvotes": 43,
+          "replies": {}
+        }
+      }
+    },
+    "gj4hk25": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4hk25/",
+      "text": "In Europe they tend to put a cross (technically a dagger) by someone's name to indicate they are deceased. ([https://tex.stackexchange.com/questions/268419/why-is-a-cross-used-as-footnote-marker-for-people](https://tex.stackexchange.com/questions/268419/why-is-a-cross-used-as-footnote-marker-for-people)). I think you can put that next to where you would write your advisor's name. \n\nI do think most of the other things you note should be included in the CV - at least appointments to show the grants or contracts. \n\nDepending on where in the world you are and the conventions of the field and the types of jobs you are applying for, you may consider the NSF or NIH biosketch format (for the US) or their equivalents elsewhere. At least note what is included there and map your experience roughly onto that template.",
+      "author": "BananasonThebrain",
+      "created": 1610554350,
+      "upvotes": 109,
+      "replies": {
+        "gj4ki81": {
+          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4ki81/",
+          "text": "> dagger\n\nActually that's a pretty great idea !  It'd decently subtle and gets the point across, at the very least it should trigger a google search from them, right?          \n             \nThanks for the NSF hint as well, i'll have a look !",
+          "author": "fifnir",
+          "created": 1610555697,
+          "upvotes": 62,
+          "replies": {
+            "gj5noob": {
+              "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj5noob/",
+              "text": "Or they assume it's a footnote that you forgot to reference and ding you on two counts",
+              "author": "Dr_Silk",
+              "created": 1610573053,
+              "upvotes": 32,
+              "replies": {
+                "gj5w072": {
+                  "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj5w072/",
+                  "text": "Sure - I guess it could also serve as a footnote, where you write deceased and/or their years of birth and death.",
+                  "author": "BananasonThebrain",
+                  "created": 1610576686,
+                  "upvotes": 6,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gj4m1gu": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4m1gu/",
+      "text": "Ask another letter writer to note this in their letter",
+      "author": "abandoningeden",
+      "created": 1610556382,
+      "upvotes": 50,
+      "replies": {
+        "gj4md0r": {
+          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4md0r/",
+          "text": "Yeah that would be simple, but i'm only giving contact info to my references not letters from them !",
+          "author": "fifnir",
+          "created": 1610556530,
+          "upvotes": 35,
+          "replies": {
+            "gj5djfd": {
+              "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj5djfd/",
+              "text": "How about in your cover letter say something like \"my dissertation on xyz was supervised by the late Dr. Whatever\"",
+              "author": "abandoningeden",
+              "created": 1610568541,
+              "upvotes": 54,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gj4uggi": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4uggi/",
+      "text": "I have a line in my cover letter- though it helps that his death coincided with a change in direction for me. It\u2019s something like \u201cfollowing the death of my advisor, I changed directions somewhat and ...).\n\nOn my CV it is also part of the eduction section- something like \u201cPhD in X under mentor Y [deceased, YEAR].\u201d\n\nIf you feel comfortable asking, I think it helps to have a reference from someone who knew your advisor and is willing to speak to your advisor\u2019s general opinion of you.",
+      "author": "sirtwixalert",
+      "created": 1610560132,
+      "upvotes": 29,
+      "replies": {
+        "gj4w2ck": {
+          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4w2ck/",
+          "text": "Thank you for the answer, it's comforting knowing i'm not the only one facing this (of course i didn't think i'm the first in the world, but you know it's nice to actually read it).       \n       \nYeah, my references are people from the lab who were close so i think they will attest to my advisor's opinion of me",
+          "author": "fifnir",
+          "created": 1610560829,
+          "upvotes": 16,
+          "replies": {
+            "gj4zicx": {
+              "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4zicx/",
+              "text": "(And also, I\u2019m sorry for your loss. For me it was a professional blow but also very personal- we were not close in any way, but he gave me my first job, let me work independently once he trusted my work, helped me get into medical school and then into its MD/PhD program, hired the guy I eventually married and some friends I\u2019m still close with today. And he was still young- my dad\u2019s age, with kids in high school. It\u2019s been almost a decade now and I still get sad thinking about him. Hope you\u2019re doing ok!)",
+              "author": "sirtwixalert",
+              "created": 1610562351,
+              "upvotes": 14,
+              "replies": {
+                "gj67zzw": {
+                  "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj67zzw/",
+                  "text": "Thank you for your nice words, it has been very similar to be; we weren't close but he played a big role in my life.   \nHe was very young too, and it was a bit of a shock for all of us, but you know... moving on.",
+                  "author": "fifnir",
+                  "created": 1610582460,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            },
+            "gj4ytnh": {
+              "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4ytnh/",
+              "text": "It\u2019s such a shitty thing. I should clarify that for me it was not my PhD advisor, but the PI I worked with for four years between college and my PhD. Would have done my PhD in his lab but by that time his health was declining rapidly. He was an incredible mentor though, and very well-known and respected in the field, and a true recommendation from him would have meant much more to employers than from my actual PhD advisor. As it is, just having  worked with him for so long and having two of his colleagues vouch for his opinion of me has been invaluable. I hope you have the same experience!",
+              "author": "sirtwixalert",
+              "created": 1610562055,
+              "upvotes": 6,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gj4i16q": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4i16q/",
+      "text": "[removed]",
+      "author": null,
+      "created": 1610554565,
+      "upvotes": 22,
+      "replies": {
+        "gj4lga4": {
+          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4lga4/",
+          "text": "In a lot of fields, it's standard to list contact info for references on your cv",
+          "author": "mediocre-spice",
+          "created": 1610556120,
+          "upvotes": 18,
+          "replies": {
+            "gj4x43e": {
+              "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4x43e/",
+              "text": "[removed]",
+              "author": null,
+              "created": 1610561295,
+              "upvotes": 0,
+              "replies": {
+                "gj686ce": {
+                  "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj686ce/",
+                  "text": "I\u2019ll be honest if I have 150 applications and 12 say \u201cavailable on request\u201d or any \u201cclever\u201d stuff that comes across as impertinent I\u2019m tossing those 12 in the bin and saving myself a few hours.",
+                  "author": "passwordistako",
+                  "created": 1610582549,
+                  "upvotes": 1,
+                  "replies": {
+                    "gj6q9o8": {
+                      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj6q9o8/",
+                      "text": "[removed]",
+                      "author": null,
+                      "created": 1610591875,
+                      "upvotes": 2,
+                      "replies": {
+                        "gj6se4s": {
+                          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj6se4s/",
+                          "text": "CV. Not one/two page resume.",
+                          "author": "passwordistako",
+                          "created": 1610593010,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gj4j8mw": {
+          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4j8mw/",
+          "text": "The position I have in my sights is specifically asking for references with the application       \n\nThey are adjacent to our field but are bioinformaticians while my boss was pure biologist so I don't know if they'll know about him or not...         \n        \nThanks for explaining the difference between CV and resume, it helps make the distinction in my head !",
+          "author": "fifnir",
+          "created": 1610555120,
+          "upvotes": 7,
+          "replies": {
+            "gj4lmb5": {
+              "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4lmb5/",
+              "text": "This is the sort of thing that should be in a cover letter. You can make a short statement about how your advisor is no longer with us (or however you want to word it).",
+              "author": "CHEIVIIST",
+              "created": 1610556194,
+              "upvotes": 10,
+              "replies": {}
+            }
+          }
+        },
+        "gj5il5c": {
+          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj5il5c/",
+          "text": "This is really good advice!  Thank you.",
+          "author": "Nutmeg_Love",
+          "created": 1610570807,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gj59vb6": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj59vb6/",
+      "text": "This happened to me as well for a TT job application. When I listed my references I put a simple and short footnote down indicating that my PhD supervisor had passed away on X/X/20XX.\n\nNever was brought up, never was a problem, got the job.",
+      "author": "thisicouldnotdo",
+      "created": 1610566916,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gj4nwf6": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4nwf6/",
+      "text": "For your applications are you also including a cover letter? Personal statement? Etc? If so, you could mention it there. \u201cWith great sadness my PhD advisor passed away and I have been doing XYZ in the wake of it\u201d.",
+      "author": "knewtoff",
+      "created": 1610557219,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gj4sdnv": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4sdnv/",
+      "text": "Note it in the cover letter.  You are right that it may raise questions, best just answer it with a simple sentence in the part of your cover letter where you briefly discuss your research.",
+      "author": "gone_to_plaid",
+      "created": 1610559230,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gj50oz9": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj50oz9/",
+      "text": "This is what the cover letter is for, to explain stuff in the CV.",
+      "author": "flagondry",
+      "created": 1610562880,
+      "upvotes": 3,
+      "replies": {
+        "gj6a10l": {
+          "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj6a10l/",
+          "text": "This. Also ask the other reference writers to mention it in passing. It is also possible that the committee will Google it out of curiosity and figure it out.",
+          "author": "fiona0000",
+          "created": 1610583485,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gj4q6v5": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4q6v5/",
+      "text": "> Professional Appointments/Employment\n\nThis is normally there because (at least in my experience) most recent PhD grads have had various jobs prior to applying for postdocs - part-time work as a student, summer jobs, a full-time job between undergrad and grad school, co-ops or internships, etc.\n\n\n> Research experience, Key competencies\n\nPersonally I think that it makes sense to describe your research experience/specialisations as part of your description of your PhD under \"Education\", and a \"Skills\" section below if that isn't covered in the rest of the CV  Alternatively, some people only list the degree title/institution/year under \"Education\" and then include a separate research section.  In either case, I agree you shouldn't have it on there twice, and regardless you should definitely also put these things in your cover letter but much more customized to the specific requirements of the job you're appying for.",
+      "author": "polyphonal",
+      "created": 1610558248,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gj4w9td": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj4w9td/",
+      "text": "This happened to me. I\u2019m sorry that you\u2019re in the same boat. Under education I have my dissertation title and supervisor listed. I wrote \u201c(deceased)\u201d after his name. I\u2019ve never had anything but empathy from people when they find out.",
+      "author": "CTworkingmom",
+      "created": 1610560921,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gj6fjmp": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj6fjmp/",
+      "text": "My CV lists my advisor as \u201cFirst Last (deceased)\u201d.",
+      "author": "Frogmarsh",
+      "created": 1610586287,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gj87w3g": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj87w3g/",
+      "text": "One of my committee members passed and on my CV I put her name with there rest and included (late). Then in cover letters I referred to her as \u201cthe late First name Last name\u201d in the list of my supervisors.",
+      "author": "nikefudge23",
+      "created": 1610633123,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gj5uwyq": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj5uwyq/",
+      "text": "I see no issue with listing him and saying he has passed on on a resume.",
+      "author": null,
+      "created": 1610576189,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gj653bn": {
+      "link": "/r/AskAcademia/comments/kwj2um/how_do_i_bring_up_the_fact_that_my_phd_supervisor/gj653bn/",
+      "text": "You can still keep him on your reference list, just put a note \"Unavailable for contact by conventional means\".",
+      "author": "hbrgnarius",
+      "created": 1610581007,
+      "upvotes": -3,
+      "replies": {}
+    }
+  }
+}

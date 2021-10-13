@@ -1,0 +1,187 @@
+{
+  "sid": "p5d9dy",
+  "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/",
+  "title:": "Organizing your research",
+  "text": "It would be nice to hear which software you guys use to organize your research. Any special recommendations?",
+  "author": "Unfair-Dependent2887",
+  "created": 1629109141,
+  "updated": 1634079586,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 0.81,
+  "comments": {
+    "h9573ju": {
+      "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h9573ju/",
+      "text": "I use OneNote as an electronic lab notebook. Each project gets a page and I group related projects into folders.\n\nMendeley for references/PDFs with Microsoft Word integration for citations. I used to use Papers but the citation function doesn\u2019t work any more.",
+      "author": "torontopeter",
+      "created": 1629113096,
+      "upvotes": 9,
+      "replies": {
+        "h9593nn": {
+          "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h9593nn/",
+          "text": "Thanks for sharing, always interesting to see how others do it!",
+          "author": "Unfair-Dependent2887",
+          "created": 1629114374,
+          "upvotes": 2,
+          "replies": {
+            "h969hbk": {
+              "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h969hbk/",
+              "text": "You should be careful when you choose something that your organisation allows it. For example, we prohibit OneNote for use as an electronic lab book as there's no adequate version control. It's an academic misconduct nightmare and not good for IP claims.",
+              "author": "ACatGod",
+              "created": 1629130916,
+              "upvotes": 4,
+              "replies": {
+                "h972kun": {
+                  "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h972kun/",
+                  "text": "Good point to always check with your superviser or other experienced colleagues/teachers that you don\u2019t use a tool that goes against the organisations polices.",
+                  "author": "Unfair-Dependent2887",
+                  "created": 1629142364,
+                  "upvotes": 3,
+                  "replies": {
+                    "h973vos": {
+                      "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h973vos/",
+                      "text": "Rules definitely vary from place to place. I've worked in many academic orgs over the years. The universities I worked at in the US were definitely the most relaxed about security and provided very limited IT services. Where I work at now in the UK is the strictest I've worked at - personally I think it's better.",
+                      "author": "ACatGod",
+                      "created": 1629142877,
+                      "upvotes": 2,
+                      "replies": {
+                        "h97ahic": {
+                          "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h97ahic/",
+                          "text": "I didn\u2019t know that the rules varied so much. Even more important to always check what\u2019s ok with ok/not ok with your school. Great into, thanks!",
+                          "author": "Unfair-Dependent2887",
+                          "created": 1629145461,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h95ak4z": {
+      "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h95ak4z/",
+      "text": "Zotero to save papers and generate the bibliography (to use with latex).\nZoo for zotero on a tablet to annotate papers and sync with my zotero library, and OneNote (also on a tablet) to take notes during meetings, or to scribble when I have ideas.\n\nOneNote works fine on Android but my only issue with it is that I can't specify a page size, making it hard to export to PDF afterwards.\nZoo for zotero is not an official app, but it's the best that I have found on Android (there is an official zotero app on iOS that is currently in beta).",
+      "author": "garridoq",
+      "created": 1629115258,
+      "upvotes": 7,
+      "replies": {
+        "h95xfbe": {
+          "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h95xfbe/",
+          "text": "Thanks for the detailed description. Would you say that you are 100 % digital?",
+          "author": "Unfair-Dependent2887",
+          "created": 1629126118,
+          "upvotes": 3,
+          "replies": {
+            "h99jt1k": {
+              "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h99jt1k/",
+              "text": "Mostly yes, I used to print papers but as I've been reading more and more it's not the best option anymore.\nBut if I'm using a book, I always prefer to get a physical copy.",
+              "author": "garridoq",
+              "created": 1629187393,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h95w171": {
+      "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h95w171/",
+      "text": "I tried Manuscript, didn\u2019t like, it was crashing a lot and losing my progress which is super frustrating. Sticking to the old-school Word, or docs on drive.",
+      "author": "Realistic-Tap-000",
+      "created": 1629125553,
+      "upvotes": 5,
+      "replies": {
+        "h95x3tl": {
+          "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h95x3tl/",
+          "text": "I really recommend [avidnote.com](https://avidnote.com), you will never use Word for notetaking after that :)",
+          "author": "solborgMy",
+          "created": 1629125989,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "h962fpl": {
+          "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h962fpl/",
+          "text": "Ok thanks for sharing!",
+          "author": "Unfair-Dependent2887",
+          "created": 1629128145,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h952m7w": {
+      "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h952m7w/",
+      "text": "I use Zotero for my references and Avidnote (a relatively new software) for my PDF\u2019s and annotating.",
+      "author": "solborgMy",
+      "created": 1629109889,
+      "upvotes": 3,
+      "replies": {
+        "h958w3r": {
+          "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h958w3r/",
+          "text": "Ok thanks for sharing, Zotero I know a bit about what is unique about Avdinote that made you work with it?",
+          "author": "Unfair-Dependent2887",
+          "created": 1629114245,
+          "upvotes": 1,
+          "replies": {
+            "h95j4q4": {
+              "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h95j4q4/",
+              "text": "I started using Avidnote because the annotating interface is unique. You literally have the PDF on the right and the notetaking box to the left. You can tag the articles with different etiquette/tags to keep the articles organized. You can also search for new articles inside the software. It is web-based and free to use.",
+              "author": "solborgMy",
+              "created": 1629119867,
+              "upvotes": 1,
+              "replies": {
+                "h963q0i": {
+                  "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h963q0i/",
+                  "text": "Thanks for sharing!",
+                  "author": "Unfair-Dependent2887",
+                  "created": 1629128662,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h976bva": {
+      "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h976bva/",
+      "text": "I don\u2019t know if this is what you\u2019re looking for, but I use [Trello](https://trello.com) to keep track of the various projects I\u2019m working on.",
+      "author": "ProbabilisticWorld",
+      "created": 1629143831,
+      "upvotes": 2,
+      "replies": {
+        "h97asgx": {
+          "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h97asgx/",
+          "text": "Yeah Trello is great for projects etc. How do you work when you have lots of articles/papers and need to annotate and take notes etc? Do you print out or do you use any software online?",
+          "author": "Unfair-Dependent2887",
+          "created": 1629145579,
+          "upvotes": 2,
+          "replies": {
+            "h98b5j3": {
+              "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h98b5j3/",
+              "text": "I glance through abstract/conclusion/figures electronically. If from there it looks like something I want to read more thoroughly I print it off to read and take notes on. I've tried reading on a tablet and using a stylus to make notes, but I like having actual paper better. I have a binder that's organized by project that they go into. Everything that's relevant to a project--including stuff that wasn't worthy of a more thorough read--goes into Zotero. If I'm really on top of things I'll put in a brief note about it to help me remember why I looked at it or thought it was interesting.",
+              "author": "ProbabilisticWorld",
+              "created": 1629161267,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h97vhjm": {
+      "link": "/r/AskAcademia/comments/p5d9dy/organizing_your_research/h97vhjm/",
+      "text": "I switched to zotero for the sole purpose of using the google doc plugin. I write notes and all papers there. Will never ever go back to word - in medicine we have lots of co-authors and I hate getting 10 x the same comment or conflicting comments. As you probably know in G docs everyone can follow each others suggestions in real time. And it keeps a record of all changes and who made them.",
+      "author": "LowCommercial9845",
+      "created": 1629154102,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

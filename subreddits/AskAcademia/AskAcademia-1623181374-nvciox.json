@@ -1,0 +1,542 @@
+{
+  "sid": "nvciox",
+  "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/",
+  "title:": "Life w/o either Mendeley or Zotero? File organization drama.",
+  "text": "I know this topic has been all chewed up, but I'm interested in hearing from folks who've found an alternative both to Mendeley and Zotero for \\*organizing\\* their files. \n\nI've used Mendeley for ever, but the new lack of mobile access is the final straw - I need to be able to save articles via mobile devices. I've looked at Zotero, but honestly, it looks like a pain. (Is it worth it? I'm still happy to reconsider.) \n\nI'm just dying here for a solution that:\n\n\\- offers a folder nesting structure for files\n\n\\- that can sync (over iCloud, Dropbox, whatever)\n\n\\- and that you can add files to over mobile (iOS) devices.\n\nI've been using the Highlights app for highlights and notes, so don't necessarily need that to be part of the package. Exporting citations would be a nice benefit, but really, i'm open to workarounds. I just need a simple way to organize and add new files, across devices.",
+  "author": "Prgrph",
+  "created": 1623181374,
+  "updated": 1634081899,
+  "over_18": false,
+  "upvotes": 102,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "h12jfrj": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12jfrj/",
+      "text": "[Readcube Papers](https://www.papersapp.com/) might work for you? It's subscription-based, but the mobile app is quite good, allows mobile uploads, folder nesting (\"lists\" in Readcube's terminology), and (as of last year, anyway) unlimited storage with your subscription. It also syncs notes, highlights, and such, exports citations, and has tools to find new relevant papers based on your library and lists. It's not perfect, particularly for very large and diverse libraries unless you are very careful about organizing, but it seems to hit all the criteria you mention.",
+      "author": "xenotranshumanist",
+      "created": 1623183358,
+      "upvotes": 29,
+      "replies": {
+        "h12lcvj": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12lcvj/",
+          "text": "Thanks, hadn't heard of Readcube before, will check it out!",
+          "author": "Prgrph",
+          "created": 1623184201,
+          "upvotes": 10,
+          "replies": {
+            "h133v9l": {
+              "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h133v9l/",
+              "text": "I would second Readcube. I used Mendeley for 10+ years and recently switched. It\u2019s cheaper and works pretty well, although the actual switch period is still a little painful and there\u2019s no feature to get rid of duplicates. You also can\u2019t cite in Word when you\u2019re offline for some reason. But mostly pretty good and intuitive coming from mendeley",
+              "author": "basshounde",
+              "created": 1623192674,
+              "upvotes": 6,
+              "replies": {
+                "h13401d": {
+                  "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13401d/",
+                  "text": "I'm reading about it now, but am curious about it being web-based - has that been an issue? How do you work offline? Thanks!",
+                  "author": "Prgrph",
+                  "created": 1623192738,
+                  "upvotes": 2,
+                  "replies": {
+                    "h134zt1": {
+                      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h134zt1/",
+                      "text": "It has a web app version but it also has a desktop app. The web and desktop (and mobile) apps all sync pretty quickly. Annotations on one app will appear on another within a few seconds or with a refresh.",
+                      "author": "Stereoisomer",
+                      "created": 1623193228,
+                      "upvotes": 2,
+                      "replies": {
+                        "h13ekcs": {
+                          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13ekcs/",
+                          "text": "I'm playing around with the free trial and I hope you don't mind me asking - am I missing something or are any annotations (highlights) you make within Papers only going to be visible in other apps if they're exported - but not automatically? Thanks!",
+                          "author": "Prgrph",
+                          "created": 1623198034,
+                          "upvotes": 2,
+                          "replies": {
+                            "h13g5k8": {
+                              "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13g5k8/",
+                              "text": "All annotations, notes, underlines, and highlights should appear on the others automatically. It does at least for me. Might be a feature on Pro.",
+                              "author": "Stereoisomer",
+                              "created": 1623198832,
+                              "upvotes": 2,
+                              "replies": {
+                                "h13h0do": {
+                                  "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13h0do/",
+                                  "text": "I love ReadCube Papers but I don\u2019t find that my annotations show up in the file unless I export them. Maybe there\u2019s some setting I need to check off for this?",
+                                  "author": "QueenAsphyxiaXIX",
+                                  "created": 1623199265,
+                                  "upvotes": 3,
+                                  "replies": {
+                                    "h13if63": {
+                                      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13if63/",
+                                      "text": "Oh maybe annotations specifically don't. I don't really add the sticky note things but I do add the text when you click on a highlight. Those should make it through.",
+                                      "author": "Stereoisomer",
+                                      "created": 1623200012,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    }
+                                  }
+                                },
+                                "h13hjgu": {
+                                  "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13hjgu/",
+                                  "text": "Huh. I just went and purchased an academic individual license and I'm still not seeing the highlights in other apps, unless I export the PDF with notes.",
+                                  "author": "Prgrph",
+                                  "created": 1623199557,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "h13ib89": {
+                                      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13ib89/",
+                                      "text": "really? I usually read papers on my laptop and then when i get on the bus, just pick up where i left off on my phone. I don't even know what paper exporting is as I never need to do it.",
+                                      "author": "Stereoisomer",
+                                      "created": 1623199957,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "h14ar84": {
+                                          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h14ar84/",
+                                          "text": "Oh sorry, I meant non-Papers apps!",
+                                          "author": "Prgrph",
+                                          "created": 1623215601,
+                                          "upvotes": 1,
+                                          "replies": {
+                                            "h14b5sy": {
+                                              "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h14b5sy/",
+                                              "text": "Not sure what you mean by non-Papers apps? Are you trying to take an annotated document in ReadCube and read it in like Mendeley? I don't think this is possible because a lot of ReadCube's internals are proprietary and don't offer interoperability with other systems.",
+                                              "author": "Stereoisomer",
+                                              "created": 1623215879,
+                                              "upvotes": 2,
+                                              "replies": {
+                                                "h15oyoe": {
+                                                  "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h15oyoe/",
+                                                  "text": "Exactly. There\u2019s systems highlights (playing nicely like DEVONThink, Highlights, and Skim do), or locked in highlights like Mendeey does as well. I\u2019m sad to see Papers are locking in the annotations as well, that\u2019s quite an annoyance.",
+                                                  "author": "Prgrph",
+                                                  "created": 1623249563,
+                                                  "upvotes": 1,
+                                                  "replies": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "h155c2r": {
+                  "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h155c2r/",
+                  "text": "Can you transfer your folders and files from Mendeley automatically?",
+                  "author": "doornroosje",
+                  "created": 1623239971,
+                  "upvotes": 1,
+                  "replies": {
+                    "h18jbl1": {
+                      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h18jbl1/",
+                      "text": "I don\u2019t think so. But if you have your PDF library stored/downloaded locally you can drag them all over into the Papers watched folder and it will eventually reorganize them. It\u2019s about 90% automatic at recognition. But you\u2019ll probably have to re-do all the folders and labeling. At least, that\u2019s what I did! Maybe there\u2019s a better way?",
+                      "author": "basshounde",
+                      "created": 1623294160,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h12sc32": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12sc32/",
+      "text": "I used zotero through my PhD.  Worked well and is working better and better as more sites sync to it (ex. Google books is now synced and many smaller newspapers and university websites are catching on).  \n\nMy only problem was it would crash frequently when I was working with an online file from my university cloud through outlook.  I had to download the file and work offline to insert citations or bib.  note on this: i am in the NE USA so have crappy internet, it worked way better in Canada.",
+      "author": "MercutiaShiva",
+      "created": 1623187287,
+      "upvotes": 40,
+      "replies": {
+        "h132gr6": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h132gr6/",
+          "text": "> i am in the NE USA so have crappy internet, it worked way better in Canada.\n\nCanadian here. Where were you that had good internet??",
+          "author": "valryuu",
+          "created": 1623191992,
+          "upvotes": 8,
+          "replies": {
+            "h1344e0": {
+              "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h1344e0/",
+              "text": "I'm from Vancouver and my family is on the island.  I had better internet at the Vancouver library or a random coffee shop than I can get at my apartment in Pittsburgh -- and I pay WAY more.  It's absurd.  During the pandemic when the whole family was working from home I just had to make my phone a hotspot.  \n\nAnd I have students who literally have no internet access in their town so they had to stay on campus throughout the pandemic (which was a living hell here) i think it's cuz of a lack of anti-monopoly laws in the USA. ??? And maybe Canada subsidizes rural internet? Cuz i have used the internet in little places like Revelstoke of Cache Creek in Canada with no problem but here that would be impossible but in places just an hour outside Pittsburgh there is no wireless access.  Or maybe it's just the wealth gap cuz rural places here are so poor compared to the cities -- no companies will cater to that level of poverty.",
+              "author": "MercutiaShiva",
+              "created": 1623192797,
+              "upvotes": 9,
+              "replies": {}
+            }
+          }
+        },
+        "h139g76": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h139g76/",
+          "text": "Yes",
+          "author": "CarpenterLeast",
+          "created": 1623195468,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h12w5gk": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12w5gk/",
+      "text": "I love PaperPile",
+      "author": "Evolved_Grad_Blog",
+      "created": 1623189030,
+      "upvotes": 5,
+      "replies": {
+        "h12wbja": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12wbja/",
+          "text": "Is the web-based-only ever a problem for you?",
+          "author": "Prgrph",
+          "created": 1623189107,
+          "upvotes": 3,
+          "replies": {
+            "h13ntor": {
+              "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13ntor/",
+              "text": "That was my hesitation with Paperpile until they made a functional iOS app. I like that I can annotate and read papers offline when I want to, then sync it up when I\u2019m writing again.",
+              "author": "hemrz",
+              "created": 1623202807,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "h13tzen": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13tzen/",
+          "text": "I second this. Paperpile is great",
+          "author": "obgynkenobi",
+          "created": 1623205916,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "h13xzis": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13xzis/",
+          "text": "This is the answer.",
+          "author": null,
+          "created": 1623208015,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h12w88q": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12w88q/",
+      "text": "Any love for BookEnds?",
+      "author": "Prgrph",
+      "created": 1623189065,
+      "upvotes": 5,
+      "replies": {
+        "h14fpbo": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h14fpbo/",
+          "text": "Best kept secret IMO. Apple only is its sole con.",
+          "author": "uncle__ebenezer",
+          "created": 1623219195,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "h16b13m": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h16b13m/",
+          "text": "I LOVE Bookends.  I've been using it since...2012?  Highly recommend.",
+          "author": "NotSomeTokenBunny",
+          "created": 1623258441,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h13c70a": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13c70a/",
+      "text": "As someone else pointed out, Zotfile makes Zotero much more efficient. Regarding iOS syncing, I recently got an iPad and tested different methods (papership, Zotfile+ one drive, iOS Zotero beta). The best option is the beta of the Zotero iOS veraion, you just have to send an email to ask for access and you'll have it in less than a week. Zotero is really good to organize papers, and the web extension makes it that mmuxh much faster to retrieve literature.",
+      "author": "HappinessAndAll",
+      "created": 1623196840,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "h13c8od": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13c8od/",
+      "text": "I switched from Mendeley to Zotero in the past year. Zotfile can do both the first two things as other people suggested (I sync my library with OneDrive). There is a beta iOS app on Testflight that you can add files to via iOS.",
+      "author": "tehnomad",
+      "created": 1623196863,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h132eks": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h132eks/",
+      "text": "It's a little tricky to set up but using ZotFile you can have Zotero libraries sync to something like your Dropbox.",
+      "author": "MeanderinMonster",
+      "created": 1623191963,
+      "upvotes": 12,
+      "replies": {
+        "h135o69": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h135o69/",
+          "text": "Not OP - but is there any tutorial I could refer to figure out how to do this? \n\nI currently use zotero with zotfile.",
+          "author": "eragram",
+          "created": 1623193562,
+          "upvotes": 2,
+          "replies": {
+            "h13bdfp": {
+              "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13bdfp/",
+              "text": "It's on the zotfile website home page.",
+              "author": "HappinessAndAll",
+              "created": 1623196429,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "h143pac": {
+              "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h143pac/",
+              "text": "I did a combo of looking up forum posts and troubleshooting, but this might be a good bet: https://islamicate-dh.github.io/2016-05-27-set-up-zotero-between-multiple-computers/",
+              "author": "MeanderinMonster",
+              "created": 1623211173,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "h153afz": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h153afz/",
+          "text": "I just synch the Zotero data directory between two computers. Zotero says you should never ever do this, but I've never had a problem.\n\nAs long as you don't have a human clone who is simultaneously working on the other computer, it should be ok.",
+          "author": "radionul",
+          "created": 1623238686,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "h132kxy": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h132kxy/",
+      "text": "I just use Dropbox and create my own folder nesting system that automatically syncs to Dropbox - it works fine on my iPhone app in terms of both accessing/sending files and adding files. I really do need a citation manager, though. I tried Mendeley and it was just too frustrating, but I do hate doing and checking all my citations by hand (although I do have citation libraries and such that I can just grab from, since I tend to use certain ones in multiple papers). I know that's not very helpful, but it does work well enough for me.",
+      "author": null,
+      "created": 1623192049,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h13a0gy": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13a0gy/",
+      "text": "Just out of interest. What are you doing on your phone. Replay to email and listen to some lectures when you are on the move I can get, but to write or read and make highlights, can't imagine how painful that workflow is...",
+      "author": "goranstoja",
+      "created": 1623195756,
+      "upvotes": 3,
+      "replies": {
+        "h13gh1x": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13gh1x/",
+          "text": "I often come across articles while on the phone or if working on iPad that I want to add to my library - used to be a breeze with Mendeley, but they killed the mobile apps this Spring. Gaaaaah",
+          "author": "Prgrph",
+          "created": 1623198990,
+          "upvotes": 3,
+          "replies": {
+            "h14fljv": {
+              "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h14fljv/",
+              "text": "I was in the same boat as a Mendeley user. From iOS, I either add them to my watched folder (using the original desktop app feature) or drop them to Google Drive and manually add them later.",
+              "author": "YourMattyK",
+              "created": 1623219113,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "h14r4gn": {
+              "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h14r4gn/",
+              "text": "They are killing the Desktop app slowly there is no search in it nor gropes cos they working on a new Mendeley reference manager that is online and miss all the good things old Mendeley had :(",
+              "author": "goranstoja",
+              "created": 1623228988,
+              "upvotes": 1,
+              "replies": {
+                "h155kyi": {
+                  "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h155kyi/",
+                  "text": "What do you mean, they killed the search? That's the best part of mendeley. I don't update anymore since i had it crash completely 2 years ago after an update and i lost all my files, so i didn't know that",
+                  "author": "doornroosje",
+                  "created": 1623240119,
+                  "upvotes": 2,
+                  "replies": {
+                    "h15ccf5": {
+                      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h15ccf5/",
+                      "text": "Yep, they stop working on it the update (version 1.19.8) that is coming is downgrading the app. There are no groups, no search tab, nor you can search google scholar from the title field for bibli. information. But the new version of Zotero 6 that's in beta has now an amazing pdf reader with tabs and the best notetaking sidebar that I saw. There is no future for Mendeley desktop and the new version that they are pussing dont come to its knees.",
+                      "author": "goranstoja",
+                      "created": 1623243866,
+                      "upvotes": 2,
+                      "replies": {
+                        "h17281j": {
+                          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h17281j/",
+                          "text": "Why are they purposefully killing it? I dont get it? The one thing mendeley has over the other programmes is that you can read and annotate the papers within the application, and its search function.",
+                          "author": "doornroosje",
+                          "created": 1623269434,
+                          "upvotes": 1,
+                          "replies": {
+                            "h178m3v": {
+                              "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h178m3v/",
+                              "text": "Well, they are not, Citavi has in program annotations (its knowledge organize is impressive) and Zotero 6 (its in beta but all works and look amazing). They want people to use their new web-based Mendeley manager. Try it to but you will find it look bad (no dark mode like in Zotero) or half of the features that Desktop hed.",
+                              "author": "goranstoja",
+                              "created": 1623271997,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h13t6rk": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13t6rk/",
+      "text": "As a dramaturg, I got excited when I saw the title and then was supremely disappointed.",
+      "author": "sloanieg",
+      "created": 1623205504,
+      "upvotes": 2,
+      "replies": {
+        "h14b1w0": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h14b1w0/",
+          "text": "Hahahaha sorryyyy\n\nAlthough, if you ever run out of material, I've got stuff for you #RLdrama",
+          "author": "Prgrph",
+          "created": 1623215803,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h12hk81": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12hk81/",
+      "text": "# I've been working with EndNote 20 for the past year and for the most part, it works well. It does continuously sync and provides nested structure for file management in the form of \"groups.\" There are ways to import files from mobile, but the mobile apps are still lagging behind the desktop versions. \n\nOn the positive side, the integration with MS Word works really well.\n\n# A couple of annoyances for me: \n\n\\- Syncing to my iPad sometimes results in inconveniences like corrupted files that I have to go back and re-upload. Not sure why this happens, but perhaps something isn't great about their syncing system? It doesn't happen too often, but often enough that it makes we wary of using the iPad version for file viewing and annotating. \n\n\\- I strongly dislike their embedded annotations software. Instead, I use PDF Expert on Mac. There is an option to \"Open in (your preferred PDF viewer)\" in Endnote, and the annotations are saved the next time you open the PDF in EndNote. However, I've struggled with finding a workaround that allows me to edit on my iPad and save the annotations to EndNote.",
+      "author": "Hughestom1",
+      "created": 1623182542,
+      "upvotes": 5,
+      "replies": {
+        "h12hmnj": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12hmnj/",
+          "text": "sorry not sure why this text is humungous!",
+          "author": "Hughestom1",
+          "created": 1623182570,
+          "upvotes": 39,
+          "replies": {}
+        },
+        "h12jtas": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12jtas/",
+          "text": "Thanks, I'll look into it, but I've had traumatic experiences with the Highlights app corrupting my files so that's a red flag that worries me \ud83d\ude2c",
+          "author": "Prgrph",
+          "created": 1623183525,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "h138o86": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h138o86/",
+          "text": "Did they fix that stupid new thing where you need to click attachment then open pdf to view it? Is there a pdf preview panel like on the last versions?",
+          "author": "goranstoja",
+          "created": 1623195071,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h13rt7u": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13rt7u/",
+      "text": "[removed]",
+      "author": null,
+      "created": 1623204792,
+      "upvotes": 2,
+      "replies": {
+        "h155oe0": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h155oe0/",
+          "text": "OP means subfolders in subfolders in subfolders in the zotero app itself to organise the articles thematically",
+          "author": "doornroosje",
+          "created": 1623240175,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h12jy11": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12jy11/",
+      "text": "And just to add, I use DevonThink, and haven't tried their latest DTTG (mobile app), so if anyone has a positive experience just relying on DT, I'd love to hear it, thanks!",
+      "author": "Prgrph",
+      "created": 1623183584,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h12on2z": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h12on2z/",
+      "text": "[box.com](https://box.com)?",
+      "author": "BusinessTruth",
+      "created": 1623185642,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h13jhix": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13jhix/",
+      "text": "No advice here but I just wanted to share that Mendeley is such a PAIN for BigSur users. It\u2019s not compatible 80% of the time and there\u2019s always bugs everytime. I had to learn how to fix them on the go but i really don\u2019t want to migrate to Zotero or Endnote. I am so used to Mendeley since the days of me using Windows and Zotero does not look user friendly at all. I\u2019m still waiting for a solution for BigSur users \ud83d\ude2d\u270b\ud83c\udffb",
+      "author": "givemeyourdonut",
+      "created": 1623200573,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h13ruu1": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13ruu1/",
+      "text": "I really like [Diigo for research](https://www.diigo.com/learn_more/research). You may be able to get an educators account (free). There is an extension and also a Diigo browser for mobile which is pretty cool. You can browse the web as usual but have all your bookmarking, annotation, and highlighting tools as well as your library and outlines available and not have to switch between apps to do so. I\u2019m not sure if the citation or exporting features are that robust and it uses tags vs nested folders, but might be worth a try.",
+      "author": "phosphenefauna",
+      "created": 1623204816,
+      "upvotes": 1,
+      "replies": {
+        "h14azpg": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h14azpg/",
+          "text": "Oh I love Diigo! And use it all the time, but it really covers different ground.",
+          "author": "Prgrph",
+          "created": 1623215761,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h13yxor": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13yxor/",
+      "text": "Raxter.io  You\u2019ll need to pay a bit but it\u2019s not much. And it\u2019s worth it.",
+      "author": null,
+      "created": 1623208523,
+      "upvotes": 1,
+      "replies": {
+        "h155r6l": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h155r6l/",
+          "text": "Why is it worth it, can you expand?",
+          "author": "doornroosje",
+          "created": 1623240225,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h15j2u1": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h15j2u1/",
+      "text": "I'm a big fan of the Zotero+zotfile+dropbox combo. That way you can directly access the files on iOS using the dropbox app for that device.\n\nSorting out the different preferences between zotero and zotfile can be a problem though, it's a bit of a mess. TBH I don't know why they don't just fold zotfile (and better bibtex) into zotero.",
+      "author": null,
+      "created": 1623247050,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h13g0y1": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13g0y1/",
+      "text": "I gave up on Mendeley because the iPadOS app went away, and I didn't like Zotero's interface either. I finally found the solution that works for me: since my school gives us 5 TB of storage in OneDrive, I sync OneDrive on the adobe iPad app and when I make annotations, it saves across in OneDrive. Then I can access that in my mac through the mac adobe app or on OneDrive itself. Highly recommend!",
+      "author": "themightybicycle",
+      "created": 1623198768,
+      "upvotes": 0,
+      "replies": {
+        "h13gjgh": {
+          "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/h13gjgh/",
+          "text": "Do you use a reference manager as well?",
+          "author": "Prgrph",
+          "created": 1623199024,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

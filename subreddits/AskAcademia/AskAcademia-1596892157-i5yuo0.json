@@ -1,0 +1,419 @@
+{
+  "sid": "i5yuo0",
+  "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/",
+  "title:": "Is it normal to still make silly mistakes as a postdoc?",
+  "text": "Started my first postdoc position three weeks ago. It's a bit of a shift for me; my PhD was in protein-RNA interaction biochemistry and crystallography, very in vitro, and I'm now shifting to a cell culture and bioinformatics lab. Well, I was doing great, but yesterday I made such a DUMB mistake...\n\nI generated six CRISPRi knockdown lines, and I was subculturing at the end of the day when I mixed two of them together in the same flask. So now I pretty much only have four CRISPRi lines for downstream experiments. I have lentivirus in the -80 so I can just reinfect and have the two lines ready within the upcoming week. But I just feel so dumb and so awful. I haven't told my PI yet as this happened Friday evening, I definitely will let him know on Monday.\n\nI don't know him that well and he is a little bit intimidating, which he is aware of and told me not to be intimidated by him. But I just feel so stupid and so scared to tell him. I know that he won't yell at me or anything, I just feel like he might regret hiring me.\n\nHow bad is this?",
+  "author": "hia2008",
+  "created": 1596892157,
+  "updated": 1634081262,
+  "over_18": false,
+  "upvotes": 147,
+  "upvote_ratio": 0.96,
+  "comments": {
+    "g0sblb7": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sblb7/",
+      "text": "Everyone makes mistakes and this one wasn\u2019t a big one, but they can have serious consequences and the key is to develop processes and procedures so that they do not happen.  This is a new area for you and you are going to make some mistakes.  The right question now is how you are going to ensure that this one never happens again.",
+      "author": "bigrottentuna",
+      "created": 1596892677,
+      "upvotes": 158,
+      "replies": {
+        "g0sutgd": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sutgd/",
+          "text": "Agreed. \n\nI've never been yelled at for the first time I made a mistake. I've been yelled at for repeating the same mistake later on. Maybe more importantly, I've been yelled at for *not taking notes* while someone explained to me the mistake I made and how to avoid it moving forward (i.e. acting like \"I already knew\" when clearly I did not). \n\nSwallow pride, admit the mistake, and actively show you're not going to make it again. Use it as a learning experience. If your PI can't appreciate that simple mistakes happen (yes, even to postdocs, even to PIs), that's his problem and not yours.",
+          "author": "ApesInSpace",
+          "created": 1596904103,
+          "upvotes": 60,
+          "replies": {}
+        }
+      }
+    },
+    "g0sh10w": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sh10w/",
+      "text": "It's normal to make silly mistakes as a postdoc.... and a full professor.  We try to avoid them, but when they happen, we move on.\n\nAs a full professor working in the lab with my students, I always point out my own mistakes to them, just to let them know not to be afraid to try.  I once almost single-handedly destroyed a $150,000 experiment because I wasn't paying attention.  I made sure to gather all my students around and show them.  I was pissed at myself, but it happens.",
+      "author": null,
+      "created": 1596896200,
+      "upvotes": 88,
+      "replies": {
+        "g0shhqy": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0shhqy/",
+          "text": "Thank you so much for your honesty and for sharing. That makes me feel loads better. Also, I think it's so wonderful that you allow your students to see your mistakes and the fact that you're only human, they're lucky to have you :)",
+          "author": "hia2008",
+          "created": 1596896484,
+          "upvotes": 24,
+          "replies": {}
+        },
+        "g0tj2g4": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0tj2g4/",
+          "text": "i\u2019d like to hear the particulars of nearly making a $150k mistake if you feel like sharing",
+          "author": "f33dmewifi",
+          "created": 1596916547,
+          "upvotes": 12,
+          "replies": {
+            "g0tvejq": {
+              "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0tvejq/",
+              "text": "Without revealing too much - as this was a pretty famous mistake in my field - I poked a hole into a high-vacuum system after a team of technicians busted their butts to get in place.   This was an experiment-ending mistake if we didn't deal with it.  We ended up concocting a metallic epoxy, which actually sealed the hole, but it was nail-biting for a while.  I'm still pissed over it!",
+              "author": null,
+              "created": 1596923127,
+              "upvotes": 8,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "g0sgc9b": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sgc9b/",
+      "text": "Anyone who isn\u2019t making mistakes is either not trying hard enough or lying to themselves.",
+      "author": null,
+      "created": 1596895784,
+      "upvotes": 84,
+      "replies": {
+        "g0uz9zt": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0uz9zt/",
+          "text": "Sounds like a good slogan",
+          "author": "kiwijohn340",
+          "created": 1596946001,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "g0t0lqz": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0t0lqz/",
+      "text": "If you can generate the cell lines again within a week then why do you even need to tell your PI?\n\nI know some PIs are more involved than others, but even as a PhD student I only really go to my boss with results; she's not interested in every little technical problem I have along the way and can easily solve myself.\n\nI wouldn't lie about a mistake or actively hide it if asked, but everyone makes mistakes, it's not a big deal. No need to broadcast them though.",
+      "author": "EmeraldIbis",
+      "created": 1596907220,
+      "upvotes": 29,
+      "replies": {}
+    },
+    "g0sfdy5": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sfdy5/",
+      "text": "Yes. In my first week I messed up the standards for a calibration curve. We were using vanillin so when the oven on the GC ran the entire floor smelled like a bakery. Everyone knew but it worked out in the end and I never made the mistake twice!",
+      "author": "julianfri",
+      "created": 1596895202,
+      "upvotes": 25,
+      "replies": {
+        "g0sfk1x": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sfk1x/",
+          "text": "Thank you so much for sharing this specific story. It truly made me feel normal and better. I don't know why I feel the need to NEVER make a mistake as a postdoc.",
+          "author": "hia2008",
+          "created": 1596895307,
+          "upvotes": 8,
+          "replies": {
+            "g0sg4mb": {
+              "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sg4mb/",
+              "text": "Postdocs are hard. You have the weight of the lab on your shoulders and are expected to know everything during a time of so much learning. Keep on keeping on. You never know when a mistake might lead to something new!",
+              "author": "julianfri",
+              "created": 1596895654,
+              "upvotes": 14,
+              "replies": {
+                "g0swuuj": {
+                  "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0swuuj/",
+                  "text": "PhD here. I learn the most from my mistakes. Every time the mistake teaches me something new.",
+                  "author": "khusshhh",
+                  "created": 1596905207,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "g0ucrtv": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0ucrtv/",
+          "text": "Ah, vanillin... the forbidden beverage",
+          "author": "spoopyskelly",
+          "created": 1596932768,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "g0siskk": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0siskk/",
+      "text": "I made tons of mistakes as a Postdoc, I consider my experience as a scientist proportional to the amount of stuff I've broken or messed up. I'm probably more of a liability now in the lab as a PI.",
+      "author": null,
+      "created": 1596897269,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "g0skbsm": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0skbsm/",
+      "text": "On the plus side, facing this mistake and coming out the other side will be data point your brain can use to actually understand that your PI isn't as intimidating as you thought. It takes a few experiences like this to train yourself that way. Hopefully your PI will be thinking the same thing (sounds like he's already aware that he has an intimidating aura), and will use this chance to show gentleness to help that along.",
+      "author": "pb-pretzels",
+      "created": 1596898168,
+      "upvotes": 9,
+      "replies": {
+        "g0t9ipi": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0t9ipi/",
+          "text": "Thank you so much, that's a very good point. I do hope, as you said, that this establishes a relationship where I don't feel like the world will end when I tell my PI that I made a mistake.",
+          "author": "hia2008",
+          "created": 1596911780,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "g0ssvyn": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0ssvyn/",
+      "text": "Oh my god yes. I forgot to put a filter on a device and dumped two weeks worth of protein purification onto the Lab floor when I was a postdoc",
+      "author": "invisible760",
+      "created": 1596903050,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "g0t1y5v": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0t1y5v/",
+      "text": "Not bad. This will happen more than once. Just because you are a postdoc doesn't mean you are not a human being with flaws that can occasionally make mistakes.\n\nTo leave some very very hard won advice -  Get over yourself. Seriously, not in a bad way but to move forward. Embrace all the mistakes you are going to make, have made, and are making. I felt SO guilty every time my progress wasn't what I hoped and really thought my PI was going to fire me because I wasn't \"What they expected\". Not only has nobody ever said those words out loud, the fact that I kept saying them to myself made everything worse. You have to be your advocate: In your Lab, in your meetings, in your experiments, in your MIND. It sucks when you make mistakes in a new environment with a new boss and new co-workers while you learn new skills. But, the only thing that will keep you in this place is thinking you are stupid and that other people will regret being around you. Neither of these things are true - YOU ARE SMART. And you're worth the investment. Changes are hard and transitions are hard, but dont beat yourself down before you have a chance to thrive.\n\nWishing you the best of luck and productive communication. You've got this. :)\n\n&#x200B;\n\nEdit to say that I am still actively working on integrating this same advice, if you want some postdoc camaraderie, its hard and constant but I think it's helping!",
+      "author": "shiny_bats",
+      "created": 1596907929,
+      "upvotes": 6,
+      "replies": {
+        "g0t8ok4": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0t8ok4/",
+          "text": "That's some of the best advice I've ever gotten. Thank you so much, seriously. I definitely do need to work on getting over myself :)",
+          "author": "hia2008",
+          "created": 1596911357,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "g0t6hv0": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0t6hv0/",
+      "text": "My grad mentor always said \u201conce is a mistake, twice is a pattern\u201d so just spend some time figuring out how to improve the workflow to prevent repeating the mistake. We all screw up!",
+      "author": "Pathological_RJ",
+      "created": 1596910262,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "g0ssfi1": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0ssfi1/",
+      "text": "I am a postdoc and I went to the post office for the first time in my life last month and I didn't know how to mail a letter. Sooooo I think you are in way better shape than me :-)\nThat being said, I think one of the things that distinguish a postdoc/senior phd from a junior PhD is that we learn from our mistakes",
+      "author": "a220599",
+      "created": 1596902800,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "g0susee": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0susee/",
+      "text": "My supervisor, a senior Postdoc, has submitted dna samples for sequencing using both primers in the same well :D I explicitly told him that we would need both indeed, but that\u2019s not what I meant...",
+      "author": "scientia-et-amicitia",
+      "created": 1596904087,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0sw9j5": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sw9j5/",
+      "text": "I'm not a postdoc but my PI was once training me on something and towards the end of the day he came to me and said he accidentally threw the protein away and we would need to start over another day. Made me feel a lot better about my stupid mistakes because if someone who is normally so on top of things can make these mistakes then there's nothing wrong with me",
+      "author": "vButts",
+      "created": 1596904887,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "g0sehah": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sehah/",
+      "text": "Everyone makes mistakes at all levels of expertise. It's how you handle them that should be the difference as a student vs postdocs vs PI. As the postdoc, it is your responsibility to keep your PI informed of any major setbacks. If you have regular meetings, you bring those up if they aren't urgent are the meetings. If it's an urgent mistake like equipment failure you bring it up asap. If it's minor and unimportant, just correct and move on. The tone of your disclosure should be appropriate. A student should to a certain extent be remorseful to show they understand the gravity of their mistakes. A postdoc need not apologize as much as acknowledge the consequences and either lay out their plan for fixing the mistake or explain how the mistake has already been fixed and will be avoided in the future. A PI that makes a mistake also needs to acknowledge and give clean plan for correction.",
+      "author": "dege369",
+      "created": 1596894627,
+      "upvotes": 10,
+      "replies": {
+        "g0skvna": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0skvna/",
+          "text": "I think how you react is more of a reflection of maturity rather than one\u2019s position. Whether it be student, postdoc, or whatever. If you can acknowledge the issue and bring it to your boss in a way that shows you plan to resolve the issue and move forward than that\u2019s the goal. If the boss is a crazy person, than different approaches may be necessary. Overall, I think it is best to try to be professional and diplomatic about these sorts of things. I\u2019m a PhD student now, but have my MS and worked as an industry scientist and academic lab manger for a few years prior.",
+          "author": "EliteCloneMike",
+          "created": 1596898494,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "g0swbyb": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0swbyb/",
+      "text": "Happens all the time - we just have to adapt!\nOn a side not my crispr KO didn't work - how did you get yours to?",
+      "author": "legs11af",
+      "created": 1596904923,
+      "upvotes": 3,
+      "replies": {
+        "g0t92m8": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0t92m8/",
+          "text": "Thank you so much for sharing. We use the KRAB-dCas9 system, which prevents transcription of the target gene. When you design the sgRNA for this system, it really helps to stay between -50 and +100 as it blocks polymerase before it even gets the chance to gain momentum.",
+          "author": "hia2008",
+          "created": 1596911553,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "g0t3gel": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0t3gel/",
+      "text": "If you are still a human...then yes!",
+      "author": "chmegr",
+      "created": 1596908728,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "g0t4uzm": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0t4uzm/",
+      "text": "It is still normal to make a million mistakes as a chaired professor. If you don't, you're not having fun.\n\n&#x200B;\n\nAnd why not just tell him what happened, each week, instead of every day?",
+      "author": "Arhgef",
+      "created": 1596909462,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "g0tahvy": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0tahvy/",
+      "text": "Cheer up dude, even rocket surgeons make [stupid mistakes](https://en.wikipedia.org/wiki/NOAA-19#Damage_during_manufacture). It happens to everybody, especially when doing a new job. Learn from it and move on.",
+      "author": "hitchhikerwithknife",
+      "created": 1596912264,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "g0u7w4i": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0u7w4i/",
+      "text": "It is normal to make silly mistakes as a *person*.",
+      "author": "BucketFullofSunshine",
+      "created": 1596929977,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "g0t725d": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0t725d/",
+      "text": "I think graduate students will look up to you more if they see you had something not go right and figured out how to fix it.",
+      "author": "madcat1970",
+      "created": 1596910539,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0tbvc0": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0tbvc0/",
+      "text": "We are human. Humans, no matter how much training will make mistakes. \n\nDon't worry about it. :)",
+      "author": "GATX303",
+      "created": 1596912967,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0tztuj": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0tztuj/",
+      "text": "Making mistakes happens. But what is key is learning from these mistakes and moving forward. Big takeaway here\u2014and advice from a molecular biologist\u2014when you\u2019re generating cell lines, ALWAYS keep the parental lines in culture even after expanding out lines, and ALWAYS freeze down as you go. It\u2019s annoying, but it means if you do something silly like mixing lines together, or if there is contamination, you have a parental line to go back to quickly.",
+      "author": null,
+      "created": 1596925513,
+      "upvotes": 2,
+      "replies": {
+        "g0u7l4a": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0u7l4a/",
+          "text": "Thank you so much, I will keep those recs in mind for sure :)",
+          "author": "hia2008",
+          "created": 1596929805,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "g0varya": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0varya/",
+          "text": "I decided a long time ago to never work on more than one cell line at a time in the hood. Takes me a bit longer, but significantly reduces the chance that I'll screw up and cross-contaminate them. \n\nGetting to this decision (along with many other personal and lab policies) was the result of making many mistakes along the way to learn how to minimize the impacts of them in the future.",
+          "author": "Eigengrad",
+          "created": 1596954985,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "g0ub7cm": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0ub7cm/",
+      "text": "A guy on third shift at my last job accidentally activated the overhead crane which then caught on a side loader and tipped it over. If I remember right, it was about $100,000 in damage. But the guy wasn't fired if I remember right. Accidents happen. Drug tested and maybe a disciplinary action, but I don't think he was fired. They just spent $100,000 training him not to do that, after all.\n\nWhat's important is that you can show the ability to learn from your mistakes. I screwed up all the time at one job (but to be fair, they were restarting a factory they bought and almost everyone was new). But I always tried to learn from my mistakes. I once caused production to be shut down because my pen got knocked into the industrial oven cooking food product and nobody could find it. Ruined thousands of pounds of chicken that had been stuck in the oven while we searched (it was a conveyor oven). Nobody had a problem with my paperwork next to the oven entrance before then. But I moved it after that to ensure it would not happen a second time. That kind of action is why I was not fired when I would screw up. I did not hide my mistakes.",
+      "author": "OoglieBooglie93",
+      "created": 1596931871,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0vo4b0": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0vo4b0/",
+      "text": "Yes, even postdocs are human",
+      "author": "radionul",
+      "created": 1596968167,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0x4a08": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0x4a08/",
+      "text": "It's normal to make silly mistakes as a human. The best thing we can do is learn from mistakes and make changes so that they don't happen again. Also, don't hide your mistakes and don't delay telling someone no matter how intimidating or scary it feels, it can only make things seem worse, especially if they have time sensitive importance. \n\nI've found that the best way to handle it is to just approach whoever is in charge of me with something like:  \n\n>On [date] I made mistake X, it has/will have effect Y and Z. I will make changes A, B, C etc. to ensure that it does not happen again in the future. \n\nTry to avoid making excuses or shifting the blame, just own up to it and then move on. We have a tendency to magnify our own mistakes, but in like three weeks your supervisor will probably have forgotten that it ever happened.",
+      "author": "L-Etoile_du_Nord",
+      "created": 1597000954,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g1b5hmz": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g1b5hmz/",
+      "text": "Yes I would hope so. I'm on month 3 and have made a couple dumb mistakes. I always own up to it though, and restart immediately. It's frustrating, but my boss is also absolutely crazy so telling them about the mistake feels like stepping into gunfire because they have out of this world standards for performance. So I get the anxiety around bringing it to your boss's attention",
+      "author": "RemarkableBig6",
+      "created": 1597308504,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "g0sp6wm": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sp6wm/",
+      "text": "I'm a postdoc, still making silly mistakes. My work is theoretical so the worst case scenario I embarrass myself and disappoint people, but enough of that can be career ending. \n\nI have (I hope) got to the point now where I can sense when I'm making a silly mistake, if that makes sense. I sort of know how much checking it takes to make sure that any mistake I make is non-silly (ie an understandable mistake that anyone could make and that would be difficult to spot even for another expert).",
+      "author": "l_lecrup",
+      "created": 1596900994,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0srd33": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0srd33/",
+      "text": "It's human to make mistakes. Objectively think back to why the mix-up might have happened and put in a check so that it doesn't happen next time. I highly doubt your PI is going to be concerned. New protocols require some time to iron out the kinks, which includes figuring out the steps where mistakes can happen. I would acknowledge that two samples were compromised, and that you're reinfecting (if needed), and then use your meeting time to discuss big picture items. Your PI isn't there to punish you and let's not forget as a postdoc you bring a vast amount of experience and expertise - it's a two-way relationship.",
+      "author": "riricide",
+      "created": 1596902215,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0tci5r": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0tci5r/",
+      "text": "Oh totally. However what you want to do is to be able to catch the mistakes yourself and learn from them without having to rely (too much) on someone else. This is one of the more important distinctions between junior and senior researchers in my opinion.",
+      "author": "Typrix",
+      "created": 1596913281,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0tk3du": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0tk3du/",
+      "text": "you are not perfect ? I\u2019m worry.",
+      "author": "FoCoCS",
+      "created": 1596917077,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0tp0z0": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0tp0z0/",
+      "text": "If it comes up naturally (e.g., showing 4 lines rather than data from expected 6 lines) then you can mention it. As a junior PI, i would actually LOVE to hear this. Because mistakes are fine. Covering up mistakes (or also bad not realizing you mixed up) is the thing that can sink labs. But if it doesn\u2019t come up naturally, no need to mention. (E.g., if the next time we mention these lines is at your lab mtg in 4 weeks, and you\u2019ve fixed it by then, there was no need to tell PI).",
+      "author": "schizontastic",
+      "created": 1596919705,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0uggvr": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0uggvr/",
+      "text": "Ask your PI if he can do it for you just this once. I bet he messes it up too.",
+      "author": null,
+      "created": 1596934770,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "g0sqozy": {
+      "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0sqozy/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1596901841,
+      "upvotes": -1,
+      "replies": {
+        "g0wnz73": {
+          "link": "/r/AskAcademia/comments/i5yuo0/is_it_normal_to_still_make_silly_mistakes_as_a/g0wnz73/",
+          "text": "Once had a postdoc tell me that they had done absolutely the wrong experiment - simple thinking would have prevented it. I went on about why this was a bad mistake, but then she told me the result which made no sense at the time. Turns out she had discovered completely new pathway. She\u2019s now Faculty member at top Uni with her own successful group. Sometimes mistakes work out well.",
+          "author": "couloirjunkie",
+          "created": 1596992547,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

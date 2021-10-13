@@ -1,0 +1,38 @@
+{
+  "sid": "p2cxic",
+  "link": "/r/AskAcademia/comments/p2cxic/tools_for_academic_teamwork/",
+  "title:": "Tool(s) for academic teamwork?",
+  "text": "Hi all,\n\nI recently started working in a 4-people applied-econ research group, and I am looking for a software to:\n\n* Quickly communicate with other researchers within the project\n* Share links/files(papers) easily (possibly in a somehow systematic way, but I guess that requires more efforts than just copy-pastying a link...)\n\n&#x200B;\n\nI am thinking of using Microsoft Teams, as it is integrated with other office apps and we could have two (or more) chats:\n\n* Normal communications\n* \"dumpster\" chat for links and files\n\n&#x200B;\n\nAny suggestions/comments?\n\nThank you!",
+  "author": "fc442",
+  "created": 1628688014,
+  "updated": 1634079928,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "h8j5l93": {
+      "link": "/r/AskAcademia/comments/p2cxic/tools_for_academic_teamwork/h8j5l93/",
+      "text": "Slack works for us",
+      "author": "DeepSeaDarkness",
+      "created": 1628688527,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "h8j6sb1": {
+      "link": "/r/AskAcademia/comments/p2cxic/tools_for_academic_teamwork/h8j6sb1/",
+      "text": "Personally I'd go for the simplest common thing: e.g. if all of you can have WhatsApp, Telegram, or similar, just go with that (Telegram has nice desktop apps too, for when you need to type up complex stuff), and start a group with the 4 of you.\n\nAnother tech-you-already-have option would be to start a CC-list. You'd start an email thread with everyone in the CC, and you'd probably want to favourite or pin that thread somehow so that it's always on top of other mail, and you'd all keep replying to that same thread. It's like a mailing list but without the mailing list software.",
+      "author": null,
+      "created": 1628689123,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8jua3m": {
+      "link": "/r/AskAcademia/comments/p2cxic/tools_for_academic_teamwork/h8jua3m/",
+      "text": "we use Microsoft OneNote in our lab",
+      "author": "sofcknmad",
+      "created": 1628699318,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

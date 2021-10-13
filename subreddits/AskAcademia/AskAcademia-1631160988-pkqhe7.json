@@ -1,0 +1,277 @@
+{
+  "sid": "pkqhe7",
+  "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/",
+  "title:": "Does it matter what program I draw my figures in?",
+  "text": "My advisor doesn't like me using Excel to show figures. I don't have huge data files and Excel is pretty useful program to do a lot of different figures, in my eyes at least. I do tons of editing on the figure too. But my advisor likes to follow up the published papers in the field on this matter and if they are drawing it with Origin, we should draw with Origin too, they think.\n\nIs there a reasonable basis to this? Do journals reject the papers because the figures look basic?",
+  "author": "berkayism",
+  "created": 1631160988,
+  "updated": 1634079350,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 0.78,
+  "comments": {
+    "hc59d1p": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc59d1p/",
+      "text": "Sometimes it does matter. Like, when I submit images to journals for publication I need to submit something high quality.",
+      "author": "pseudodoxia",
+      "created": 1631161208,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "hc5b0zx": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc5b0zx/",
+      "text": "I doubt a journal would ever reject for Excel graphs. However, you should consider learning the \"tools of the trade\" like Origin, apparently (first I've heard of it, personally) or a nice plotting library like ggplot in R.",
+      "author": "jessexknight",
+      "created": 1631162292,
+      "upvotes": 11,
+      "replies": {
+        "hc6gbfd": {
+          "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc6gbfd/",
+          "text": "Maybe not SOLELY because of Excel figures. If the paper is great otherwise they'll probably just ask you to remake the figures. As a reviewer though, if I saw a paper with a bunch of crappy looking Excel figures I'm going to be scrutinizing the paper way more closely.",
+          "author": "offalt",
+          "created": 1631194086,
+          "upvotes": 7,
+          "replies": {
+            "hc7vmyt": {
+              "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc7vmyt/",
+              "text": "This is a HUGE redflag for a reviewer. How do bad graphics relate to a poorer manuscript or one potentially more prone for scientific misconduct? Are you more relaxed when reviewing a paper with flashy figures? This is worrying.",
+              "author": null,
+              "created": 1631215874,
+              "upvotes": 0,
+              "replies": {
+                "hc82ydd": {
+                  "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc82ydd/",
+                  "text": "Ehh. I disagree. I think it's unprofessional and shows a lack of attention to detail. No, I'm not looking for \"flashy\" figures, but shitty amateurish ones are a red flag. I've never seen an Excel figure published in the journals I read. Certainly not the good ones.",
+                  "author": "offalt",
+                  "created": 1631218842,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hc5r06w": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc5r06w/",
+      "text": "I remember when I started my PhD my second supervisor at the time basically gave me a three month grace period in which I could use Excel to get plots out quickly, but after that I had to make sure everything I was presenting was done in ROOT, which is the primary analysis framework for particle physics.\n\nAnd it makes sense. If you look at most excel generated plots they appear almost childish compared to those made in other packages (obviously there is scope to improve an excel plot). Using the standard across your field just makes your work appear more professional, it is a useful skill to have (and one future employers would no doubt expect if you stay in the field) and if you do any collaborative work with others it ensures consistency across your outputs.\n\nNot only is there reasonable basis for this, but it would be a strange and unwise hill for you to die on. When you get more familiar with Origin it really won't take an appreciable amount of extra time to produce whatever plots you're making in Excel anyway.",
+      "author": "foibleShmoible",
+      "created": 1631175659,
+      "upvotes": 9,
+      "replies": {
+        "hc5t4ix": {
+          "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc5t4ix/",
+          "text": "> but after that I had to make sure everything I was presenting was done in ROOT\n\nJeez... That sure is an improvement... /s",
+          "author": "lucaxx85",
+          "created": 1631177773,
+          "upvotes": 0,
+          "replies": {
+            "hc6ey30": {
+              "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc6ey30/",
+              "text": "Over Excel it certainly is.",
+              "author": "foibleShmoible",
+              "created": 1631193393,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hca9a03": {
+          "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hca9a03/",
+          "text": ">And it makes sense. If you look at most excel generated plots they appear almost childish compared to those made in other packages (obviously there is scope to improve an excel plot). \n\nThis is the part I have a problem with. If I can make everything I need with Excel as well, the excuse for me to change to a different program is just for the bells and whistles of using a more complicated program. When Excel is not enough, great. Let's move forward. But when it's enough, making it harder for the student just because of the looks is a bit narrow minded to me.",
+          "author": "berkayism",
+          "created": 1631257572,
+          "upvotes": 0,
+          "replies": {
+            "hcahdlq": {
+              "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hcahdlq/",
+              "text": "Sure, but this is why that was one of several points I gave in favour of using Origin instead. If it is the standard for people working in your field then it makes sense to use that standard, and proficiency in it is important if you intend on staying and being employed in the field. And since your supervisor is meant to be training you to be a researcher in your field, making you learn the standard tools is them doing their job, not just being needlessly awkward.",
+              "author": "foibleShmoible",
+              "created": 1631264695,
+              "upvotes": 5,
+              "replies": {
+                "hcbeqbr": {
+                  "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hcbeqbr/",
+                  "text": "Agreed.",
+                  "author": "berkayism",
+                  "created": 1631284579,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "hci43d2": {
+              "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hci43d2/",
+              "text": "> When Excel is not enough, great. Let's move forward. But when it's enough, making it harder for the student just because of the looks is a bit narrow minded to me.\n\nI think the argument would be that you ought to learn the tools of the trade _sooner_ rather than _later_, and that ultimately, though annoying now, this will pay off. It's not just about \"the looks\" (though that arguably does matter \u2014 grab a copy of Tufte's _The Visual Display of Quantitative Information_ if you need to be convinced that the _looks_ and the _content_ are not so separate as they seem), it's about the experience, the standardization, the skills, etc. Frankly starting out with something simple enough that you could do it in Excel, but you're doing it in a more complicated program, will help you learn the complicated program better than if you start out trying to do something complicated. In my experience with software and visualization (not this specific problem).",
+              "author": "restricteddata",
+              "created": 1631406864,
+              "upvotes": 2,
+              "replies": {
+                "hci48eq": {
+                  "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hci48eq/",
+                  "text": "Thank you.",
+                  "author": "berkayism",
+                  "created": 1631406931,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hc6cg6j": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc6cg6j/",
+      "text": "I don't trust Excel for serious work. It sometimes decides to do weird shit on its own.",
+      "author": "molobodd",
+      "created": 1631192051,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hc5al67": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc5al67/",
+      "text": "It would make sense to learn to use the tools that those in your field are using. If many/most are using Origin, it's probably worth learning and using, too.  If it's literally one specific journal, and no one else does it, it probably matters much less.",
+      "author": "winterneuro",
+      "created": 1631162003,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hc5stap": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc5stap/",
+      "text": "My co-supervisor told me recently that when he peer reviews papers, graphs are the first thing he looks at. If the graphs do not look professional, he reads the paper expecting it to be bad, and according to him \"bad graphs are usually a very good indication of a bad paper\". So when you try to your results published having a not professional looking graph may indeed hurt you, especially if that were your first paper.",
+      "author": "dShado",
+      "created": 1631177459,
+      "upvotes": 6,
+      "replies": {
+        "hca9es3": {
+          "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hca9es3/",
+          "text": "Yes. Unfortunately many people look at the figures withut reading the text. I have seen my advisor missing so many details and choking on the words just because they care about the figures a lot as well.",
+          "author": "berkayism",
+          "created": 1631257685,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hc5edqi": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc5edqi/",
+      "text": "Everything counts. You want your article to look professional and attractive. I tell my students that I want all their figures to look like works of art.",
+      "author": "fwafwa",
+      "created": 1631164633,
+      "upvotes": 12,
+      "replies": {
+        "hca8g5g": {
+          "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hca8g5g/",
+          "text": "I give it so much attention too. I edit them so much. Everytime I have chance to implement this idea on any of the subordinates, I push them further too. Because this is the best thing I can leave to someone: attention to detail.",
+          "author": "berkayism",
+          "created": 1631256906,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hc63bi6": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc63bi6/",
+      "text": "It does matter, it is true there a perception that graphics from excel are associated with low quality. I think the real issues is one of reproducibility and editing. An SVG generated from code is fare easier to modify in response to reviewer comments or to meet requirements of specific journals. When I get figures from my students I want to see the annotated code used to generate them so I know exactly how they are made. This has helped on a number in a number of cases to identify errors before submission.",
+      "author": "MasteroftheGT",
+      "created": 1631186497,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hc5bowg": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc5bowg/",
+      "text": "You\u2019ll want to learn to plot in R for flexibility and precision. Most journals want vector graphics of a certain resolution, and I personally do somewhat judge authors based on the quality of the graphical presentation. Excel graphs just look....like...something an undergraduate student would make.",
+      "author": "eggplant_wizard12",
+      "created": 1631162744,
+      "upvotes": 12,
+      "replies": {
+        "hc5vl9d": {
+          "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc5vl9d/",
+          "text": ">Excel graphs just look....like...something an undergraduate student would make.\n\nSounds like the same meme as people who complain about Word without knowing how to use Word. Someone who understands how graphing in Excel works can make graphs nearly identical to graphs made in most other programs.\n\nNote, I'm not arguing that it is usually the best use of time, since likely the data for the figure is already in SPSS, or analyzed through R.",
+          "author": "dexwin",
+          "created": 1631180145,
+          "upvotes": 1,
+          "replies": {
+            "hc6mxv5": {
+              "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc6mxv5/",
+              "text": "I dunno, I\u2019ve never seen good graphs with confidence intervals, joy plots, etc on excel.\nJust my opinion.",
+              "author": "eggplant_wizard12",
+              "created": 1631197196,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "hca8cia": {
+              "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hca8cia/",
+              "text": "I agree with this so much! Like, I don't click on the scatter plot button and leave it like that. I do tons of aesthetic and mathematical editing on the plot that looks so much like the other programs.",
+              "author": "berkayism",
+              "created": 1631256824,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hc9wse0": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc9wse0/",
+      "text": "If your advisor wants you to use Origin, then use Origin. \n\nI agree with others about increased scrutiny with an Excel graph in a paper.  I start to wonder about the calculations used in the paper.   Maybe this is unreasonable on my part.  But, if ggplot did the graph, then the calculations were probably done in R as well.  If Mathematica did the graphs, then it probably did the calculations as well.  If the graphs were done in Excel, then I would wonder if it did the calculations.  Excel doesn't have advanced mathematics ability, it's statistical ability is low.  So that means manual formulas and data columns were created to calculate things, which increases opportunities for error.\n\nI use LaTex and Mathematica.  But, that doesn't imply you should.  I use it, because it's common in Mathematics to use them.  If Origin is what is common for your field, you should use it as well.  \n\nAnd, if your advisor wants you to use it, don't make this the hill your relationship dies on.  There are bigger battles in academia worth standing your ground on, and Excel graphs are not one of them.",
+      "author": "boredpanda858",
+      "created": 1631248797,
+      "upvotes": 3,
+      "replies": {
+        "hca9n76": {
+          "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hca9n76/",
+          "text": "Thank you \\*gives a hug\\*",
+          "author": "berkayism",
+          "created": 1631257878,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hc5csz4": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc5csz4/",
+      "text": "You can use Python. Pandas is one tool that is user-friendly to read excel files in python. Pandas has third party GUI too these days making it more easier. Further, there are excellent plotting tools in Python.",
+      "author": "ultra_citizen",
+      "created": 1631163522,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hc6foxr": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc6foxr/",
+      "text": "No one will write in a peer review that they rejected your paper because it has charts which are clearly made in Excel. Many, many people in the sciences will reject your paper for that reason (subconsciously or otherwise) and then come up with a post-hoc justification for why your paper isn't novel/complete/robust enough. Your Supervisor is right, even though the underlying reason they're right is immensely stupid.",
+      "author": "Radiant-Tax",
+      "created": 1631193772,
+      "upvotes": 2,
+      "replies": {
+        "hca9ict": {
+          "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hca9ict/",
+          "text": ">Your Supervisor is right, even though the underlying reason they're right is immensely stupid.\n\nThe sad truth.",
+          "author": "berkayism",
+          "created": 1631257767,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hc5j1ik": {
+      "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hc5j1ik/",
+      "text": "It also totally depends on what level you are using excel. An excel graph makes a lot of choices for you, and this can all be changed. The main issue in my experience is that labels on a graph will very suddenly changed position for no reason whatsoever. So for reproducibility R is unbeatable and a must for any serious scientist.",
+      "author": "LowCommercial9845",
+      "created": 1631168239,
+      "upvotes": 3,
+      "replies": {
+        "hca8kn7": {
+          "link": "/r/AskAcademia/comments/pkqhe7/does_it_matter_what_program_i_draw_my_figures_in/hca8kn7/",
+          "text": "Definetely. I said it in an another reply there too that I don't just plot something and leave it like that. I don't a lot of editing over it. When the labels move, I move them too. I know what moves labels. When I need to make same figure for so many of different type of data, I can do it in seconds because of years of experience too.",
+          "author": "berkayism",
+          "created": 1631257004,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

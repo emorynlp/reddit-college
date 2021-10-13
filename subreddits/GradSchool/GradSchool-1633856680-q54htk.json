@@ -1,0 +1,64 @@
+{
+  "sid": "q54htk",
+  "link": "/r/GradSchool/comments/q54htk/is_it_professional_to_have_clickable_links_on_the/",
+  "title:": "Is it professional to have clickable links on the CV?",
+  "text": "I was wondering if I could add some GitHub repo clickable links on CV for my projects. Would it make the CV look bit informal?",
+  "author": "Mission-Quiet9897",
+  "created": 1633856680,
+  "updated": 1634099775,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.84,
+  "comments": {
+    "hg385xj": {
+      "link": "/r/GradSchool/comments/q54htk/is_it_professional_to_have_clickable_links_on_the/hg385xj/",
+      "text": "It doesn't have to be visually different from normal text. When attempting to copy the URL the cursor will change to signify it's clickable.",
+      "author": "Single_Blueberry",
+      "created": 1633862016,
+      "upvotes": 11,
+      "replies": {
+        "hg3fxb5": {
+          "link": "/r/GradSchool/comments/q54htk/is_it_professional_to_have_clickable_links_on_the/hg3fxb5/",
+          "text": "I was hoping to add an icon for the same with the Github logo. (Using Latex) Will it do?",
+          "author": "Mission-Quiet9897",
+          "created": 1633867957,
+          "upvotes": 3,
+          "replies": {
+            "hg3isl7": {
+              "link": "/r/GradSchool/comments/q54htk/is_it_professional_to_have_clickable_links_on_the/hg3isl7/",
+              "text": "Sure, but there definitely should be a readable URL too. Not everyone is down to clicking on links in documents. It should be an optional convenience thing.",
+              "author": "Single_Blueberry",
+              "created": 1633869775,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hg4gqsd": {
+      "link": "/r/GradSchool/comments/q54htk/is_it_professional_to_have_clickable_links_on_the/hg4gqsd/",
+      "text": "Depends how it\u2019s formatted! You could absolutely put a hyperlink with the URL embedded in the project name. It can be distinguished with the usual blue/underlined text that will be clickable when converted to PDF.\n\nAlternatively you could have the readable links included in a way that makes them look like a natural part of the formatting. For example, if the entry is like a citation, put it at the very end like you would a doi to a journal article. If your project is more of a summary/bullet point situation, list the URL underneath the entry on a separate line.\n\n50% of my job as an RA is formatting, editing, and assessing CVs in academia. Feel free to DM if you want me to take a look :)",
+      "author": "fliffers",
+      "created": 1633885875,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hg4tuf8": {
+      "link": "/r/GradSchool/comments/q54htk/is_it_professional_to_have_clickable_links_on_the/hg4tuf8/",
+      "text": "I just added my GitHub address up by my phone number and email",
+      "author": "Unofficial_Overlord",
+      "created": 1633891249,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hg6uui1": {
+      "link": "/r/GradSchool/comments/q54htk/is_it_professional_to_have_clickable_links_on_the/hg6uui1/",
+      "text": "Yes, this is good now. Link to projects, code, research papers, etc.",
+      "author": "fwafwa",
+      "created": 1633924828,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

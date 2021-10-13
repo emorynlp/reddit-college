@@ -1,0 +1,47 @@
+{
+  "sid": "q5bs2h",
+  "link": "/r/GradSchool/comments/q5bs2h/field_laptoptablet/",
+  "title:": "Field laptop/tablet",
+  "text": "Looking for recommendations for a laptop/ tablet to download data at remote telemetry sites. Water, dust, drops, and abuse is expected. It doesn\u2019t need to do much, just download files off of data loggers, which will be offloaded when I get back to the lab.\n\niPad with waterproof/drop proof case? Rugged laptop? Anyone have experience or suggestions?\n\nBattery life and reliability are important.",
+  "author": "fuzzytrout",
+  "created": 1633884551,
+  "updated": 1634099773,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "hg4f49y": {
+      "link": "/r/GradSchool/comments/q5bs2h/field_laptoptablet/hg4f49y/",
+      "text": "Well, cheaper can bring peace of mind in that you don\u2019t have to worry about damaging and expensive laptop/tablet. I picked up a (gasp) cheap Amazon Fire Tab 10, side loaded google play store so I can run a terminal, Jupiter lab  in a browser, MS Office and other quality of life apps. Bought it in case my 2012 MB pro decides to die. Honestly it\u2019s excellent for the price, long battery life. What makes it even better is the case/keyboard they make for it, get a cheap Bluetooth mouse and your set with a cursor as well. I don\u2019t have to really worry about damage because it was cheap and the case it honestly quite sturdy. It\u2019s a perfect size too IMHO. USB-C helps for physical connections. If interested: https://www.amazon.com/Bluetooth-Keyboard-detachable-Generation-release/dp/B08SB72Q8F/ref=mp_s_a_1_6?dchild=1&keywords=amazon+tab+10+plus+with+keyboard&qid=1633884907&sr=8-6",
+      "author": "ToHellWithThePhoenix",
+      "created": 1633885185,
+      "upvotes": 3,
+      "replies": {
+        "hg5uf1g": {
+          "link": "/r/GradSchool/comments/q5bs2h/field_laptoptablet/hg5uf1g/",
+          "text": "I've sideloaded google play on one of these to download xodo. It's been great for reading and storing papers and my notes about them. Mines an 8 (not a 10) but I'm curious about getting the keyboard for it and expanding it's repetoir to some coding and paper writing.",
+          "author": "altitude_sick",
+          "created": 1633906678,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hg7bjqy": {
+          "link": "/r/GradSchool/comments/q5bs2h/field_laptoptablet/hg7bjqy/",
+          "text": "This is great info and I think I\u2019m going to go this direction. I can buy 10x of these for the price of one of the dell latitude rugged laptops and all I really need it for is to hold CSV\u2019s until I get to civilization .",
+          "author": "fuzzytrout",
+          "created": 1633936148,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hg5kys0": {
+      "link": "/r/GradSchool/comments/q5bs2h/field_laptoptablet/hg5kys0/",
+      "text": "Juniper Systems makes ruggedized tablets and computers. Don't know the prices, but they've got Android and Windows.",
+      "author": "blteare",
+      "created": 1633902440,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

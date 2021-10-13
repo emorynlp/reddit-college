@@ -1,0 +1,112 @@
+{
+  "sid": "po4up9",
+  "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/",
+  "title:": "Tools for Figures in Papers",
+  "text": "What tools/software do you use for drawing/sketching concepts for a paper? I was looking for something like Tikz but easier to get started with.\n\n( I do not mean tools for plotting raw data)",
+  "author": "Hefty_Raisin_1473",
+  "created": 1631632778,
+  "updated": 1634078993,
+  "over_18": false,
+  "upvotes": 7,
+  "upvote_ratio": 0.89,
+  "comments": {
+    "hctyfom": {
+      "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hctyfom/",
+      "text": "Inkscape.",
+      "author": "01010100111011011011",
+      "created": 1631634051,
+      "upvotes": 13,
+      "replies": {
+        "hcxpllh": {
+          "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hcxpllh/",
+          "text": "and gimp. (this is more for making it look pretty after the technical parts are done)",
+          "author": "dukesdj",
+          "created": 1631703736,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hcu0abb": {
+      "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hcu0abb/",
+      "text": "Powerpoint! I make almost all of my figures in Powerpoint. It's not the most powerful vector art tool, but it's actually surprisingly capable. And most importantly, it makes it really easy to remix parts of my figures for presentations and for future figures. And most people have access to powerpoint so it's easy to share figure sources with collaborators.",
+      "author": "LeopoldTheLlama",
+      "created": 1631634792,
+      "upvotes": 15,
+      "replies": {
+        "hcw351b": {
+          "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hcw351b/",
+          "text": "Powerpoint unfortunately doesn't usually export in the dpi required for manuscripts (for the final copy, anyhow). Some/more journals will yell at you for this.",
+          "author": "eskuche",
+          "created": 1631666009,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hcwu0kk": {
+          "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hcwu0kk/",
+          "text": "I agree. I use PowerPoint all the time for figures.",
+          "author": "NorCalMikey",
+          "created": 1631679083,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hcu7z2f": {
+      "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hcu7z2f/",
+      "text": "Schematics/Drawings (free/paid):\n\n* Inkscape / Adobe Illustrator\n\n\\-------------------------------------------------------\n\nGraphs (free/paid):\n\n* Python\n* Octave / Matlab\n* Gnuplot / Origin Pro\n\nImages (free/paid):\n\n* Gimp, ImageJ / Adobe Photoshop",
+      "author": "Neldorn",
+      "created": 1631637866,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hctzg0m": {
+      "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hctzg0m/",
+      "text": "Draw.io",
+      "author": "Tab_CapsLk",
+      "created": 1631634456,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hcu2a90": {
+      "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hcu2a90/",
+      "text": "Depends what I'm building. For images, it's usually illustrator and photoshop. For charts and graphs I tend to use Veusz. But there are also plenty of things that get output from dedicated bits of software for certain things - e.g. X-RayCT images get done in Dragonfly or similar, ImageJ for image analysis stuff, etc etc.",
+      "author": "OrbitalPete",
+      "created": 1631635592,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hcunn3y": {
+      "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hcunn3y/",
+      "text": "I use Tikz. I know it's not the answer you wanted but it's not that complicated to learn... there is always a tradeoff between the time you spend learning and the time you spend doing. \n\nIt's analogous to \"ggplot (or any programming language) vs making your graphs in Excel\"... you will spend more time learning it upfront but it will save you hours later.",
+      "author": "DeskAccepted",
+      "created": 1631644148,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hctx9zb": {
+      "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hctx9zb/",
+      "text": "I really like affinity designer for figures.",
+      "author": "android_device",
+      "created": 1631633584,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcv4ish": {
+      "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hcv4ish/",
+      "text": "Adobe Illustrator, tikz",
+      "author": "ShrinivasaPrabhu",
+      "created": 1631650794,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hcvqit8": {
+      "link": "/r/AskAcademia/comments/po4up9/tools_for_figures_in_papers/hcvqit8/",
+      "text": "Affinity designer",
+      "author": "JRav_C",
+      "created": 1631660169,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "sid": "ik97ma",
+  "link": "/r/Emory/comments/ik97ma/zoom_and_wifi_issues/",
+  "title:": "Zoom and WiFi issues",
+  "text": "Whenever I'm on a Zoom Call, the Emory WiFi just randomly fives out and disconnects me from the meeting. It only happens when I'm using Zoom, but my entire laptop just disconnects from the WiFi. I'm not sure how to fix it but it's becoming really annoying to have to keep reentering a class five times.",
+  "author": "Automatic-Star1997",
+  "created": 1598916718,
+  "updated": 1634099229,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 0.86,
+  "comments": {
+    "g3jv24a": {
+      "link": "/r/Emory/comments/ik97ma/zoom_and_wifi_issues/g3jv24a/",
+      "text": "I can\u2019t offer a solution but I can say that the I\u2019ve always had that problem with Emory WiFi and I\u2019ve been there for 3 years.",
+      "author": "kissingfish",
+      "created": 1598931748,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "g3j6h1e": {
+      "link": "/r/Emory/comments/ik97ma/zoom_and_wifi_issues/g3j6h1e/",
+      "text": "I have heard from people that Ethernet is much better, so I guess you could try an Ethernet cable.",
+      "author": "YoloMoboJobo",
+      "created": 1598918412,
+      "upvotes": 3,
+      "replies": {
+        "g3j7lr7": {
+          "link": "/r/Emory/comments/ik97ma/zoom_and_wifi_issues/g3j7lr7/",
+          "text": "I can't find the connection in my room. Do all dorms have it?",
+          "author": "Automatic-Star1997",
+          "created": 1598919022,
+          "upvotes": 2,
+          "replies": {
+            "g3j8dtu": {
+              "link": "/r/Emory/comments/ik97ma/zoom_and_wifi_issues/g3j8dtu/",
+              "text": "I'm in Harris. My Ethernet is like right under my air conditioning unit. I think you might have to look around. I heard some peoples' connections are hidden behind the furniture rip. I'm not too sure if all dorms have one though. Maybe ask an RA.",
+              "author": "YoloMoboJobo",
+              "created": 1598919401,
+              "upvotes": 1,
+              "replies": {
+                "g3ke6rv": {
+                  "link": "/r/Emory/comments/ik97ma/zoom_and_wifi_issues/g3ke6rv/",
+                  "text": "I remember Emory IT saying that the ethernet sockets in dorms aren't actually connected to anything.",
+                  "author": "iapetus3141",
+                  "created": 1598947977,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "g3mr969": {
+      "link": "/r/Emory/comments/ik97ma/zoom_and_wifi_issues/g3mr969/",
+      "text": "Normally I'd suggest visiting the STS, but since they are operating over Zoom these days, that could be tricky given your problem.\n\nYou can go here: [http://help.emory.edu/](http://help.emory.edu/) and put in a ticket. Describe your problem in as much detail as possible. Mention you location, your operating system, and any other info you think is useful. (Like if it's only certain times of day.)",
+      "author": "EmoryTechLab",
+      "created": 1598989424,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

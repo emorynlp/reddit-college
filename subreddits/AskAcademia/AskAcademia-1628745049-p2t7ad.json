@@ -1,0 +1,39 @@
+{
+  "sid": "p2t7ad",
+  "link": "/r/AskAcademia/comments/p2t7ad/how_good_is_ieee_globecom_conference/",
+  "title:": "How good is IEEE GLOBECOM Conference?",
+  "text": "Are there any statistics related to the conference except the Core Ranking of B.  \n(Have an accepted Paper (Reinforcement Learning + Wireless Communications), want to put it in CV)  \nLink to the conference:  [2021 IEEE GLOBECOM |IEEE Global Communications Conference | 7-11 December 2021 // Madrid, Spain // Hybrid: In-Person and Virtual Conference (ieee-globecom.org)](https://globecom2021.ieee-globecom.org/)",
+  "author": "deepsamnox",
+  "created": 1628745049,
+  "updated": 1634079894,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "h8mrix4": {
+      "link": "/r/AskAcademia/comments/p2t7ad/how_good_is_ieee_globecom_conference/h8mrix4/",
+      "text": "Unfortunately, there aren't many conferences statistics because they aren't tracked like journals. I should note that in Comms, unlike say CS, journals are more important than conferences. Still, Globecom is a very good conference (at the top for the Comms field) and it should definitely go on your CV as a peer-reviewed publication.\n\nI think on websites for older iterations you can usually find the number of accepted papers, but I'm not aware of other publicly-available stats.",
+      "author": "Vievite",
+      "created": 1628756933,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8mfonr": {
+      "link": "/r/AskAcademia/comments/p2t7ad/how_good_is_ieee_globecom_conference/h8mfonr/",
+      "text": "First of all congratulations! GLOBECOM is one of two flagship conferences in the field of communications, along with the International Conference on Communications (ICC). My thesis supervisor once told me, it is easier to publish an IEEE transactions paper than in these two conferences. They are very well regarded in the field, so adding your accepted paper to your CV will be a great plus. Also, be sure to add the edition of the conference, like \"the 39th conference on....\". This might help those outside the field to recognize that it is a long running conference.",
+      "author": "Groundbreaking-Air73",
+      "created": 1628747388,
+      "upvotes": 1,
+      "replies": {
+        "h8mqoqj": {
+          "link": "/r/AskAcademia/comments/p2t7ad/how_good_is_ieee_globecom_conference/h8mqoqj/",
+          "text": "It would depend on the particular transactions. The globecom acceptance rate is around 35-40%, so it isn't as selective as some other big conferences, especially compared to CS (which may be part of why the core ranking is only B).\n\nWith that being said, yes it's one of the two flagship conferences of the IEEE communications society (the other being ICC, held 6 months later) and both of these are big conferences that are well attended by many in the communications engineering field. As a flagship, it hosts all of the communications society committee meetings (board of governors, journal editorial boards, technical committees), so everyone who is anyone in Comms tends to show up there.\n\nAs I work in Comms, most conferences that I have ever attended are Globecoms and ICCs. And yes, having papers in them is a mark of quality for this field.",
+          "author": "Vievite",
+          "created": 1628756217,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

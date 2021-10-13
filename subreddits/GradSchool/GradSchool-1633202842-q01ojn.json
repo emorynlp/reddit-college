@@ -1,0 +1,82 @@
+{
+  "sid": "q01ojn",
+  "link": "/r/GradSchool/comments/q01ojn/strategies_for_doing_literature_survey_and/",
+  "title:": "Strategies for doing Literature Survey and finding central articles/journals/books in your field?",
+  "text": "I am tasked with a seemingly impregnable problem of finding \"central\" artifacts (papers/books/articles) for 10-15 really niche topics. Right now my strategy is to try and find survey papers (without any luck) and go through each of the references in those papers, check them in google scholar, see if they are \"central\" i.e. cited more than, say, 100 times. In addition, I also have to find out what they are usually cited for.\n\nThis is a mind-numbingly mundane and tedious task and I can't help but think that there is a better/automated way for this. If you could point me to the path of light, however bleak it may be, I would be immensely grateful.",
+  "author": "pddpro",
+  "created": 1633202842,
+  "updated": 1634099973,
+  "over_18": false,
+  "upvotes": 13,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hf5fwct": {
+      "link": "/r/GradSchool/comments/q01ojn/strategies_for_doing_literature_survey_and/hf5fwct/",
+      "text": "I don't know how much this will help but try [connectedpapers.com](https://connectedpapers.com) ?",
+      "author": "bioluminescent-bean",
+      "created": 1633212883,
+      "upvotes": 4,
+      "replies": {
+        "hf5rfo7": {
+          "link": "/r/GradSchool/comments/q01ojn/strategies_for_doing_literature_survey_and/hf5rfo7/",
+          "text": "I am giving it a go and I have to say, I like what I'm seeing. Thanks to people who make tools like these and thanks to people who inform others about tools like these. This tool will surely become an integral part of my research!",
+          "author": "pddpro",
+          "created": 1633218008,
+          "upvotes": 2,
+          "replies": {
+            "hf6me8r": {
+              "link": "/r/GradSchool/comments/q01ojn/strategies_for_doing_literature_survey_and/hf6me8r/",
+              "text": "That's awesome!! I'm glad I could help!",
+              "author": "bioluminescent-bean",
+              "created": 1633232904,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hf5n141": {
+      "link": "/r/GradSchool/comments/q01ojn/strategies_for_doing_literature_survey_and/hf5n141/",
+      "text": "By survey papers, do you mean reviews on the topics?\n\nI\u2019m in science and that strategy is the best one I\u2019ve found in 15 years.\n\nFind a really recent, well-respected review and pull and the citations, then pull that network back out as far as you need to.\n\nIf you want to see if that review is the most recent one that\u2019s good, you can often forward search and see who cited some of the most recent papers or who cited that review you found initially.\n\nIf this is science, I can be of more help, but I\u2019m unfamiliar with the search engines for other fields.",
+      "author": "Weekly-Ad353",
+      "created": 1633216040,
+      "upvotes": 1,
+      "replies": {
+        "hf5s0x1": {
+          "link": "/r/GradSchool/comments/q01ojn/strategies_for_doing_literature_survey_and/hf5s0x1/",
+          "text": "Indeed that is a good strategy. But my problem is that these are really niche subjects and a good review does not exist for most of them.",
+          "author": "pddpro",
+          "created": 1633218274,
+          "upvotes": 1,
+          "replies": {
+            "hf5xxu0": {
+              "link": "/r/GradSchool/comments/q01ojn/strategies_for_doing_literature_survey_and/hf5xxu0/",
+              "text": "At that point you\u2019re left with 2 options that I see- find an expert in the areas and get them to give you a rundown, or do your own thorough research of all of them and compile your own sources- they\u2019ll cite things too, it just won\u2019t be as thorough or clean.\n\nFind a single example in each area, forward search it, look at its citations.  Lots of leg work but it\u2019ll work.",
+              "author": "Weekly-Ad353",
+              "created": 1633220956,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hf84bbs": {
+      "link": "/r/GradSchool/comments/q01ojn/strategies_for_doing_literature_survey_and/hf84bbs/",
+      "text": "Do backward citation search. That way you can read current literature and then look at the key papers that they cite. Usually there are key authors that multiple papers cite once you read more papers.",
+      "author": "givemeyourdonut",
+      "created": 1633268896,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hf9obvd": {
+      "link": "/r/GradSchool/comments/q01ojn/strategies_for_doing_literature_survey_and/hf9obvd/",
+      "text": "One thing I try is to find workshops or symposia on the topic of interest and do the reverse citation search from there in addition to searching for the lead PIs. Workshops and symposia can sometimes be specific and cutting-edge enough to work.",
+      "author": "a-perpetual-novice",
+      "created": 1633292640,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

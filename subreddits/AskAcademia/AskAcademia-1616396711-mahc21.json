@@ -1,0 +1,707 @@
+{
+  "sid": "mahc21",
+  "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/",
+  "title:": "Researchers who work from home, what has helped increase your productivity?",
+  "text": "Looking for suggestions on anything such as things like routines, hardware, software etc.\n\nEDIT: Thank you anonymous Redditors for the awards, hopefully some of the comments have helped some of you as they\u2019ve certainly given myself some ideas!",
+  "author": "haribo001",
+  "created": 1616396711,
+  "updated": 1634080771,
+  "over_18": false,
+  "upvotes": 180,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "grshtn5": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grshtn5/",
+      "text": "I've not been particularly good when it comes to implementing and sticking to routines, but I find doing regular exercise helps quite a lot with my own mental health. That has a knock-on effect on my productivity, and how much I get done (or how much I think I get done, at least).",
+      "author": "epsilonD3LT4",
+      "created": 1616401857,
+      "upvotes": 83,
+      "replies": {}
+    },
+    "grseant": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grseant/",
+      "text": "Multiple monitors. One for the document I\u2019m currently writing, the others for reference documents or the papers I\u2019m citing. Not having to switch back and forth and lose your train of thought is for more valuable to productivity than you would expect.\n\nPlus it lets me game on one and type more of a paper on the other during loading screens XD",
+      "author": "shardsofcrystal",
+      "created": 1616398233,
+      "upvotes": 241,
+      "replies": {
+        "grsexp2": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsexp2/",
+          "text": "Yeah multiple monitors is a game changer, was a big change this time last year when I has having to solely work off of a laptop until my monitors arrived for WFH!\n\nOut of curiosity, do you have a personal and a uni pc/laptop that you switch between? I was looking to see if there was a cheap enough docking station/hub that would allow me to easily switch between the two machines that was also compatible with dual extended displays. Bit of a nuisance constantly switching all the cables and dongles between them and a work laptop too...",
+          "author": "haribo001",
+          "created": 1616398878,
+          "upvotes": 30,
+          "replies": {
+            "grsi9sj": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsi9sj/",
+              "text": "I have a desktop and a laptop hooked up to my dual monitor setup, and I use a KVM-Switch to choose between them. Mine is a fairly cheap one with USB 2.0 and VGA, so I still have to manually switch the other monitor, but it works well.",
+              "author": "randomuserhelp",
+              "created": 1616402328,
+              "upvotes": 13,
+              "replies": {}
+            }
+          }
+        },
+        "grt231n": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grt231n/",
+          "text": "AMENNNNNNN. But my multiple monitors is \u201cthe dual view\u201d that my Macbook offers \ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f\n\nI would love an actual dual monitor in the future.",
+          "author": "givemeyourdonut",
+          "created": 1616418501,
+          "upvotes": 8,
+          "replies": {}
+        },
+        "grsn7mk": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsn7mk/",
+          "text": "I can so relate to this.\nI had a 2nd monitor when I started to write my first review and it took me less than a year to go for the third and less than 3 months to go for a 4th.\nHonestly I can exploit the 4th very rarely (10%of the time) but you understand it\u2019s value when you need it the most. \nFor instance, I had two databases that had shitty csv entry, so I couldn\u2019t download all texts from database A and compare with database B. \nAnd database A had 10k articles and database B had 2k.\n\nI had one database in which I copied the title in screen 1, verified if the title existed in database B in screen 2, checked green or red in screen 3 where I distinguished unique articles and duplicates, and communications sites like mails or researchgate on the 4th.\n\nIt took me approximately 40hours (50k articles in total) of manually doing this because my databases were shitty.\nI don\u2019t even want to think about how much it would have taken if I had a single screen.",
+          "author": "Berfayy",
+          "created": 1616407403,
+          "upvotes": 7,
+          "replies": {
+            "grtld90": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtld90/",
+              "text": "Dude.... that\u2019s like a 5 min script you could have written to do that. Next time you have something like that just DM me and I\u2019ll write one for you for $10.",
+              "author": "johnnydaggers",
+              "created": 1616427605,
+              "upvotes": 10,
+              "replies": {
+                "grtq9sz": {
+                  "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtq9sz/",
+                  "text": "I actually searched individuals who could provide me with a bot that will do that for me however one of the databases had protection that made any of his libraries unexploitable.\n\nThey all went for different approaches but the site (PsychNET) was just too well guarded.",
+                  "author": "Berfayy",
+                  "created": 1616429700,
+                  "upvotes": 3,
+                  "replies": {
+                    "grtvein": {
+                      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtvein/",
+                      "text": "What kind of protection? You could have even automated a browser with selenium if necessary.",
+                      "author": "johnnydaggers",
+                      "created": 1616431919,
+                      "upvotes": 5,
+                      "replies": {
+                        "grtwmck": {
+                          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtwmck/",
+                          "text": "I can't have a dialogue with you in details but the website detected \"superhumand speed\" and banned my IP for a couple of days.",
+                          "author": "Berfayy",
+                          "created": 1616432446,
+                          "upvotes": 4,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gruvr9e": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gruvr9e/",
+          "text": "2 monitors + virtual desktop \ud83d\udda5\ufe0f!!",
+          "author": "JotaPe-exe",
+          "created": 1616448241,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "grsklxn": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsklxn/",
+      "text": "Study with me live streams that follow 50-10 pomodoro - kind of the next best thing to being in a shared work space/office/library",
+      "author": "What_I_Want_Is",
+      "created": 1616404784,
+      "upvotes": 73,
+      "replies": {
+        "grt1jtu": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grt1jtu/",
+          "text": "Do you have any specific ones that you recommend? I've been wanting to try this but not sure where to find a good one... thanks!",
+          "author": "my_frogs",
+          "created": 1616418196,
+          "upvotes": 14,
+          "replies": {
+            "grtes2v": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtes2v/",
+              "text": "I'd also love recs!",
+              "author": "kmalevich",
+              "created": 1616424755,
+              "upvotes": 4,
+              "replies": {}
+            },
+            "grug9re": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grug9re/",
+              "text": "not op but I like \"study vibes\" on youtube",
+              "author": "gods_friend",
+              "created": 1616441155,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "grun6tq": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grun6tq/",
+              "text": "Study Vibes on YouTube (Heleen\u2019s motivational chats in the breaks are awesome)  as well as on discord, and Merve (on YouTube) has some beautiful settings and a very relaxed, calm study space.",
+              "author": "What_I_Want_Is",
+              "created": 1616444277,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "grsr1de": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsr1de/",
+      "text": "Probably not helpful for everyone, but finding out the reason I was constantly distracted and unable to work at home was that I have ADHD. Getting medicated for it has been really helpful.",
+      "author": "vanius",
+      "created": 1616410907,
+      "upvotes": 66,
+      "replies": {
+        "grsw36g": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsw36g/",
+          "text": "Probably helpful for more people than you think! I have had a similar experience as my work role has changed and the day-to-day structure disappeared with the pandemic. \n\nI think it's important for people to know that you can make it through childhood without ever being expected of ADHD. I have talked to senior graduate students (~year 3) who discover this about themselves when their responsibilities increase and they take a more active role in managing their projects and time. \n\nI like this piece from Rob Zacny that talks a bit about his experience finding out as an adult, reflecting on some of the coping strategies that allowed it to go undetected for so long, and how treatment has helped: https://www.vice.com/en/article/dy84pa/rob-zacny-games-of-the-year-2020",
+          "author": "geekcuisine",
+          "created": 1616414753,
+          "upvotes": 30,
+          "replies": {}
+        },
+        "grug1tn": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grug1tn/",
+          "text": "Yep. Getting diagnosed and medicated has made me far more productive than if left unmedicated and to my own devices.",
+          "author": "SaintRidley",
+          "created": 1616441055,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "grv7a3q": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grv7a3q/",
+          "text": "I've often wondered if I should go to a doctor for symptoms, but been put off because I'm a student (postgrad, UK) and worry they'd write off my concerns as trying to get hold of a study drug. Any advice on an approach to get evaluated?",
+          "author": "thatsnotmyname95",
+          "created": 1616453852,
+          "upvotes": 2,
+          "replies": {
+            "grxnbxm": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grxnbxm/",
+              "text": "Not sure what the process is to diagnosis in the UK. I got recommended to get tested from the results of several sleep studies. But I would say: \n\n* Make a list of the ADHD symptoms you think you have\n* Write how the symptoms affect you both at work and in everyday life.\n* Ask your parents (or old teachers) if they have examples of you showing those behaviours when you were a child. I think most doctors will want to see that the behaviours have been there since childhood.\n\nMight as well try with the NHS, not like you'll lose money over it.",
+              "author": "vanius",
+              "created": 1616511059,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "grshltn": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grshltn/",
+      "text": "Having the office set up in a 2nd bedroom and only entering that space during working hours, once I'm done for the day I close the door until the next day. This helped me the most, although I'm aware that not everyone can have a separate soace only for working. \n\nA pomodoro app for when writing.\n\nLitres of decaff coffee.",
+      "author": "asam57",
+      "created": 1616401630,
+      "upvotes": 103,
+      "replies": {
+        "grst6r6": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grst6r6/",
+          "text": "Mmmm I\u2019m loving that shared studio life",
+          "author": "Jagable",
+          "created": 1616412627,
+          "upvotes": 25,
+          "replies": {
+            "grtif2w": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtif2w/",
+              "text": "Yikes. I'm barely managing sharing a one bedroom with someone who works outside the apartment",
+              "author": "tonightbeyoncerides",
+              "created": 1616426347,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        },
+        "grwq8fy": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grwq8fy/",
+          "text": "Seems like a good set up - except for the decaff twist. :)",
+          "author": "molobodd",
+          "created": 1616489249,
+          "upvotes": 3,
+          "replies": {
+            "grx5u1t": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grx5u1t/",
+              "text": "I guess no-one is perfect! :P",
+              "author": "asam57",
+              "created": 1616502194,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "grsv9ib": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsv9ib/",
+          "text": "> Litres of decaff coffee\n\nBut why? Just because you like the taste? I can totally get behind liters of coffee, but for me the caffeine part is kind of important...",
+          "author": "EmeraldIbis",
+          "created": 1616414176,
+          "upvotes": 8,
+          "replies": {
+            "grt0p6o": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grt0p6o/",
+              "text": "As someone commented below, I'm pretty sure it's placebo effect. I am prone to anxiety, found that having only 2 caffeinated coffees a day (one morning first thing, one after lunch) is the best to keep me awake and not feeding the nasty physical symptoms etc. In between those, 2 decaff helps to center the brain (because of the flavour?, I guess  I'm wired to coffee = work time!). I also have a different type of coffee during the weekend, because it adds to that \"day off\" feeling. \n\nI promise, I'm not a coffee neurotic, although it might seems so!!",
+              "author": "asam57",
+              "created": 1616417699,
+              "upvotes": 27,
+              "replies": {
+                "gru9sei": {
+                  "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gru9sei/",
+                  "text": "I do the exact same, but my anxiety is so bad I can't have any real coffees. Only decaf all day :(",
+                  "author": "N0Treal",
+                  "created": 1616438243,
+                  "upvotes": 4,
+                  "replies": {}
+                },
+                "gruiznw": {
+                  "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gruiznw/",
+                  "text": "Decaf coffee still has caffeine in it lol",
+                  "author": null,
+                  "created": 1616442386,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "grtr3w5": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtr3w5/",
+              "text": "Not OC but it's a placebo for me--caffeine doesn't mix well with my meds (anxiety and, funnily enough, I too was diagnosed with ADHD recently, thanks u/vanius !) but it helps me get into \"work\" mode, so I switched to decaf. Then tea is for after work.",
+              "author": "ImpossibleGuava1",
+              "created": 1616430066,
+              "upvotes": 11,
+              "replies": {
+                "gruj1k0": {
+                  "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gruj1k0/",
+                  "text": "Decaf still has caffeine.",
+                  "author": null,
+                  "created": 1616442410,
+                  "upvotes": 0,
+                  "replies": {
+                    "grvuk8v": {
+                      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grvuk8v/",
+                      "text": "I'm aware. It does not contain as much as regular, and I don't have to be super strict about avoiding caffeine (i.e., the amount in decaf won't do anything requiring avoidance), so I'm still drinking it.",
+                      "author": "ImpossibleGuava1",
+                      "created": 1616465856,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "grtt087": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtt087/",
+              "text": "Decaf coffee still has caffeine in it, its just reduced. But after drinking enough of it you'll definitely be caffeinated. It also has mood-enhancing polyphenols just like normal coffee.",
+              "author": "fedawi",
+              "created": 1616430888,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "grswnz2": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grswnz2/",
+              "text": "It's probably a placebo effect to turn on your working mindset.",
+              "author": "lucricius",
+              "created": 1616415156,
+              "upvotes": 18,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "grsdi5i": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsdi5i/",
+      "text": "Computer app: \"self control\"",
+      "author": null,
+      "created": 1616397455,
+      "upvotes": 30,
+      "replies": {
+        "grsh1x0": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsh1x0/",
+          "text": "I know all of these words but they don't make sense in that order.",
+          "author": "baenpb",
+          "created": 1616401058,
+          "upvotes": 37,
+          "replies": {
+            "grsj1ut": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsj1ut/",
+              "text": "I used to use this as well. There's a computer app called \"self control\" where basically you add distracting websites to a blacklist and then turn on a timer. During this time, you won't be able to access any of the distracting sites.\n\nIt was available on MacBook many years ago, not sure of there's a PC option though.",
+              "author": "Yugalarex",
+              "created": 1616403143,
+              "upvotes": 21,
+              "replies": {
+                "grsjg5o": {
+                  "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsjg5o/",
+                  "text": "Ah funny, okay. I thought the comment was about just having self control, this makes sense too. Thanks!",
+                  "author": "baenpb",
+                  "created": 1616403558,
+                  "upvotes": 8,
+                  "replies": {
+                    "grtdcma": {
+                      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtdcma/",
+                      "text": "You could use that too",
+                      "author": "crazyZenMaster",
+                      "created": 1616424116,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "grt8m6d": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grt8m6d/",
+          "text": "I use this to make sure I'm not checking my email every five minutes. It's a lifesaver",
+          "author": "sweetlyascerbic",
+          "created": 1616421903,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "grtdgik": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtdgik/",
+          "text": "Agreed. A combination of pomodoro and self control app does the job most of the times. And once I am immersed into work, it doesn't even matter. It's just the settling time.",
+          "author": "crazyZenMaster",
+          "created": 1616424167,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "grsrzmi": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsrzmi/",
+      "text": "I use something called the Forest app. Set the timer..and watch a tree/flowers go. You can even set it to wither the plants if you touch your phone before the stipulated time runs out. Super useful....and they do plant some plants in real life as well.",
+      "author": "ShBh05",
+      "created": 1616411690,
+      "upvotes": 34,
+      "replies": {}
+    },
+    "grt26lt": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grt26lt/",
+      "text": "Cats. Cats increased my productivity. Being able to go downstairs and hang out with my cats for 10 minutes helped me feel like a human.",
+      "author": "givemeyourdonut",
+      "created": 1616418556,
+      "upvotes": 25,
+      "replies": {
+        "grtw7cp": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtw7cp/",
+          "text": "Same. I also take my dog for walks during lunch breaks and that has helped tremendously in feeling refreshed when I go back to working in the afternoon",
+          "author": "kittymeowss",
+          "created": 1616432266,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "grsqdik": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsqdik/",
+      "text": "Turn off email and only check it at set times.",
+      "author": "Kiss_It_Goodbyeee",
+      "created": 1616410342,
+      "upvotes": 25,
+      "replies": {}
+    },
+    "grsi9n9": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsi9n9/",
+      "text": "Switched from a single 27 inch to a 38 inch. So much easier to work!",
+      "author": "RacktheMan",
+      "created": 1616402324,
+      "upvotes": 19,
+      "replies": {
+        "grtxguz": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtxguz/",
+          "text": "As someone used to a 13 inch laptop, even 27 inches sounds huge.",
+          "author": "thequirkynerdy1",
+          "created": 1616432821,
+          "upvotes": 5,
+          "replies": {
+            "gru4nkn": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gru4nkn/",
+              "text": "Haha, even the thought of me working on a 13 inch screen is terrifying!",
+              "author": "RacktheMan",
+              "created": 1616435967,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "grsl3kw": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsl3kw/",
+      "text": "Taking a break... In the beginning I had a feeling that I have to sit at my PC for 8h and not move anywhere.... Taking a 5min break to make coffee, go to balcony and make some exercise etc helps a lot.",
+      "author": "TheElementsOf",
+      "created": 1616405291,
+      "upvotes": 20,
+      "replies": {}
+    },
+    "grsrycu": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsrycu/",
+      "text": "Eat the frog first.\n\nThe hardest, most boring or stressful work should be done first thing in the morning. If you have to eat a frog, it will quack on you all day if you don't finish it off first thing.",
+      "author": "molobodd",
+      "created": 1616411662,
+      "upvotes": 59,
+      "replies": {
+        "gru3j6g": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gru3j6g/",
+          "text": "I agree with this to some extent, but I also think there is something to accomplishing a few very easy tasks first to gain momentum. I make lists and rank them. I accomplish two or three things that require only a minute or two (e.g., check a deadline, respond to an email I\u2019ve been putting off), mark them off my list, then take on the big task.",
+          "author": "memento_mori_92",
+          "created": 1616435473,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "grt6dd6": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grt6dd6/",
+      "text": "Standing desk.\n\nSwitching to a late schedule (working from 6 pm to 2 am).",
+      "author": "Belzeturtle",
+      "created": 1616420804,
+      "upvotes": 14,
+      "replies": {
+        "grtwi3q": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtwi3q/",
+          "text": "All my best work is magically done from 1 to 4 am",
+          "author": "Onion-Fart",
+          "created": 1616432394,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "grt8239": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grt8239/",
+      "text": "Morning writing group via zoom where we all log in, give a goal or two, and then write/work on whatever writing-adjacent tasks we have. It's a daily thing for an hour or so. \n\nSpending time at the beginning of each week identifying my must-do, want-to-do, and hope-to-do tasks and then allocating them into my schedule based on time blocks I have available. \n\nWebsite blocker plug-in for my browser so I don't mindlessly check gmail and reddit. \n\nTurning off new mail notifications for my outlook and only checking it twice a day. \n\nAnd multiple monitors and a comfortable-ish desk setup.",
+      "author": "ohbonobo",
+      "created": 1616421640,
+      "upvotes": 13,
+      "replies": {
+        "grts2fi": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grts2fi/",
+          "text": "I've been doing a 2-3/week Zoom working/writing meeting this semester too and it has been incredible for my productivity. It's a time when I have to be at my computer working, so I don't find that I got up to go to the bathroom and wandered off to do laundry, or water plants, or play with my dogs, or melt on to the floor and do nothing, or whatever else besides work. They're my most productive times of the week.",
+          "author": "mimariposa",
+          "created": 1616430482,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "grtexvh": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtexvh/",
+      "text": "I use some combination of the following, mixing it up as it gets stale:\n\n* time-boxing (I prefer 25-5 rather than 50-10, see next point)\n* natural planning model/10 minute tasks\n* leave my phone in another room\n* review the night before and select one task to start the next day\n* do not disturb mode on everything \n* clear schedule for personal work in the mornings, meetings in the afternoon (to the extent possible)\n* hour-long lunch break with a real, sit down meal\n* walks\n* don\u2019t check email before noon (really, not even open as a background tab)\n* pick every task/email up once, decide what needs doing, do it or decide to drop it. No pick-things-up-and-put-them-down\n* external accountability\n* time-tracking (I like Timing for Mac)\n* standing desk (I use a vase and some books on top of my regular desk)\n* small treats and rewards, but only after task completion (I sometimes want them ahead of time as a little dopamine hit). \n* knowing when to quit and pick up stuff tomorrow.",
+      "author": "ccots",
+      "created": 1616424828,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "grsewpg": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsewpg/",
+      "text": "I\u2019m using a productivity tracker app, it helped me see how much time I was spending on different tasks so I could then potentially try to optimize or modify my schedule to spend time on more important tasks for example.",
+      "author": "snowwaterflower",
+      "created": 1616398849,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "grsw3j2": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsw3j2/",
+      "text": "I personally work best when I work a 9-5 but only every other day. It\u2019s more productive than 5 days in a row, and on the days I do work I feel more motivated to finish stuff because I know I won\u2019t be working again for another day.",
+      "author": "RHOAcademia",
+      "created": 1616414761,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "grsg22l": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsg22l/",
+      "text": "Focus to do app for computer. It is a kind of pomodoro technique.",
+      "author": "Honestj0e",
+      "created": 1616400024,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "grstswr": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grstswr/",
+      "text": "Working from home :)\n\n\nHad such a distracting, toxic work environment with excessive meetings before.  New job is awesome.",
+      "author": "Depressaccount",
+      "created": 1616413099,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "grsw75v": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsw75v/",
+      "text": "Time-blocking associated with a 50-10mn time structure. You can look it up quite easily and worked to get me more productive than ever (in relative terms of course).",
+      "author": null,
+      "created": 1616414830,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "grtg6b0": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtg6b0/",
+      "text": "Have no idea! My productivity is tanking like the Titanic. I find myself going to campus just to \"feel\" pressure to work or to just buy be alone.",
+      "author": "C-Kasparov",
+      "created": 1616425373,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "grtl0o2": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtl0o2/",
+      "text": "Buying an espresso machine",
+      "author": "johnnydaggers",
+      "created": 1616427457,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "grswppi": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grswppi/",
+      "text": "FocusMate - it\u2019s a godsend",
+      "author": "an_ornamental_hermit",
+      "created": 1616415188,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gru5lya": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gru5lya/",
+      "text": "For me, getting up and getting dressed each (work) morning in work clothes does wonders for me. I (male) still wear a button-up shirt tucked into khakis (or equivalent) every day while I work. The only difference in my dress relative to when I\u2019m in the office is that I wear slippers instead of dress shoes while I work from home (at least partially bc my office is in the basement, which has a 6\u20192 ceiling, and since I\u2019m also 6\u20192 tall, I can\u2019t stand up in the basement with the extra inch my dress shoes add to my height). \n\nGetting into my work clothes every morning and then changing out of them after work every day has been essential for me. My neighbors also get a kick out of seeing me take out the trash (etc.) in my work clothes despite never leaving the house. They find it quite funny.",
+      "author": "NotMitchelBade",
+      "created": 1616436385,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "grtthm1": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtthm1/",
+      "text": "I have live pomodoro sessions with my other grad friends 3 times a week. We work on a 25 min work 5 min rest with a long rest the 4th pomodoro. We typically set aside this time to work *exclusively* on our dissertations.\nMeanwhile I use Forest to block apps from my cellphone so I can't get distracted and sometimes I use the app \"cold turkey\" on my laptop so I can block web access. \nI have ADHD so I get distracted very easily, eventhough I am on meds. \nThe rest of the days I work more freely, mostly on preparing the materials for the classes I teach and grading homework and doing paperwork.\nI make to do lists for what I need to get accomplished in the day in order of importance/urgency. \nAnd I work through that. If I get bored I switch to another task, complete it, and then get back to the former task. \nMy days start at 9ish-10ish, I take a break from 3 to 5 to have a meal, and rest a little bit watch some YouTube videos. Then I work from 5 to 8, sometimes 5 to 9 if I have a deadline, and go to bed, watch some Netflix  or hang out with my husband. \n\nIt took me 2 weeks to write two drafts of an article of 17 pages (previous research done, this was just writing), which is an accomplishment for me since I avoid writing like the plague, It makes me anxious, an constantly feel like ppl are gonna find out I don't belong in academia when they read what I wrote. But that's my imposter syndrome. \nSo, yeah, schedules, to-do lists, pomodoros and app blockers like forest and also taking time to rest and being able to say well, that's enough for the day so you can get a good night's sleep. \nAnd I also agree with the second monitor, it has changed my life, it hella reduces the time it takes me to read through a paper while making notes. And don't get me started on the writing advantages. Just a blessing.",
+      "author": "Omniasapere07",
+      "created": 1616431100,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gru2nad": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gru2nad/",
+      "text": "Two things: noise-canceling earbuds and coffee.  The rest is self-discipline. I either practice it or don't.  Hope that helps.",
+      "author": "Beebeeleen",
+      "created": 1616435089,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "grut1kf": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grut1kf/",
+      "text": "I bought a 30-minute hourglass. Basically it's the Pomodoro technique, but using a clock or a timer on my phone was more distracting and made me feel stressed. Instead of repeatedly checking a clock and thinking, \"28 more minutes, 27 more minutes...\" I just glance at the sand. I like seeing the sand in the bottom, like it represents how far I've gotten. When I can't focus or really get going on something, I sit down and commit to not changing tasks until the sand has run out. \n\nSecond, dangling prizes for myself. Generate the new figures, get a new fountain pen. That kind of thing.",
+      "author": "myristicae",
+      "created": 1616446953,
+      "upvotes": 3,
+      "replies": {
+        "grxjzsp": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grxjzsp/",
+          "text": "I am doing this one until I can get a real one:\n\n[https://play.google.com/store/apps/details?id=net.sandtimer.www&hl=sv&gl=US](https://play.google.com/store/apps/details?id=net.sandtimer.www&hl=sv&gl=US)\n\nIt took some ten tries to find one that didn't have the timer showing upfront, which kind of defeats the purpose.",
+          "author": "molobodd",
+          "created": 1616509549,
+          "upvotes": 2,
+          "replies": {
+            "grylzbn": {
+              "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grylzbn/",
+              "text": "That app looks nice. I also found it surprisingly hard to find affordable real hourglasses.  I ended up getting the orange one from here, but it looks like they're out of most of the colors now: [https://us.hay.com/accessories/by-room/living-room/time-hourglass/2515079.html?lang=en\\_US](https://us.hay.com/accessories/by-room/living-room/time-hourglass/2515079.html?lang=en_US)\n\nFor wordcount goals I used to keep a spreadsheet with my daily goal, actual words written, new goal based on how behind I am, etc. with a bar chart comparing progress to goal. It really helped motivate me to get words down even when I was blocked.",
+              "author": "myristicae",
+              "created": 1616525907,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "grwqnh7": {
+          "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grwqnh7/",
+          "text": "I'm so getting one of those! I have some pretty harsh deadlines coming up and I just have to crank out X number of words per day. When I have a regular timer I get so distracted by it that I get less quality out of it.",
+          "author": "molobodd",
+          "created": 1616489658,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "grssqfg": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grssqfg/",
+      "text": "Modafinil",
+      "author": "no-nox",
+      "created": 1616412277,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "grt0xfg": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grt0xfg/",
+      "text": "Citavi app",
+      "author": "aizaz4",
+      "created": 1616417832,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "grtwtp4": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grtwtp4/",
+      "text": "Focusmate",
+      "author": "disah14",
+      "created": 1616432535,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gru44nd": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gru44nd/",
+      "text": "Printing up documents that I have to seriously engage with (drafts of papers I'm working on, articles to be refereed or reviewed) and working only with hard copies until I have no choice but to go digital.",
+      "author": "fredholm-alt",
+      "created": 1616435737,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gru79mh": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gru79mh/",
+      "text": "Everything is within arm's reach and not having to walk two minutes to get to the bathroom certainly helps.",
+      "author": "SubcooledBoiling",
+      "created": 1616437119,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gruaaxs": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gruaaxs/",
+      "text": "Frequent breaks and moral support, plus speech to text functions. Walks. Qoya. Random hikes.",
+      "author": null,
+      "created": 1616438477,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "grugudl": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grugudl/",
+      "text": "Study groups. There are many out there. I like this one [Phd Thrive](https://www.thrive-phd.com/).",
+      "author": null,
+      "created": 1616441411,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gruquqv": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gruquqv/",
+      "text": "I preserve some kind of morning routine, and make myself go on a walk (in some cases I even pack a bag to carry), or pick up coffee. \n\nAlso a standing desk has been immensely helpful. I feel like the \"up\" setting is work mode, and \"down\" mode is the play/relax/email/taxes mode.",
+      "author": "LordSariel",
+      "created": 1616445948,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gs5sd14": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gs5sd14/",
+      "text": "I use [RedForester app](https://research.redforester.com/?utm_source=incomments&utm_medium=reddit&utm_campaign=productivity) to plan my daily tasks, my project, communicate with my teammates, take notes, brainstorm, manage reminders, and so on. Looks like it's convenient for nonlinear work like researching. \n\np.s.\n\nI'm from RedForester development team, to be honest).",
+      "author": "gmdidro",
+      "created": 1616673499,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gtf5hjk": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/gtf5hjk/",
+      "text": "Not sure if it works for everyone, but I decided to use [project management software](https://quire.io/compare/best-project-management-software-reviews-comparisons) and it helped me a lot. \n\nI use [Quire](https://quire.io/?utm_source=Reddit&utm_medium=bcklinks&utm_campaign=reddit_bcklinks) to keep track of my tasks and deadlines, set reminders, priorities, use the kanban board and gantt chart...etc \n\nNever missed a deadline since!",
+      "author": "No_Boss2907",
+      "created": 1617596805,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "grsolfm": {
+      "link": "/r/AskAcademia/comments/mahc21/researchers_who_work_from_home_what_has_helped/grsolfm/",
+      "text": "NO",
+      "author": "ray18203002",
+      "created": 1616408731,
+      "upvotes": -13,
+      "replies": {}
+    }
+  }
+}

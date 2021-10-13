@@ -1,0 +1,162 @@
+{
+  "sid": "peqhki",
+  "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/",
+  "title:": "Only Math for data science PhD?",
+  "text": "Hi guys I\u2019m getting a PhD in data science and I\u2019ve considered taking only math classes.\n\nThe idea being that I think I am less likely to pick it up from applied experience. Also it changes more slowly so universities are more up to date with it than deep learning for example.\n\nWhat do you guys think? Is this a good/bad idea?",
+  "author": "Udon_noodles",
+  "created": 1630355454,
+  "updated": 1634079446,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "haz5hi5": {
+      "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/haz5hi5/",
+      "text": "I believe that focusing on math would allow you to get better papers during the PhD. As a programmer, I am struggling to produce an original research, because I cannot even understand most of the state-of-the-art approaches to improve upon them. I also don't think that deep learning as well as programming classes in general are that useful.\n\nHowever, I would also suggest spending considerable amount of time on improving the coding skills and learning various data science libraries, frameworks, etc. This is crucial for the industry and pretty useful in general, even if you prefer to pursue a career in academia.",
+      "author": "n1ck6667",
+      "created": 1630357253,
+      "upvotes": 5,
+      "replies": {
+        "haz9ob5": {
+          "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/haz9ob5/",
+          "text": "Yes, as said in this post ..  it depends on you: what are you more interested at:   \n\\- improving a model mathematically?   \n\\- or doing the applied work: producing the code and adapting it to the problem? - both will lead, if wished, to an industry position (if you wish not to stay in academics).   \nUsually, people are 'better at' one of it (haha lol .. it seems that it's me who is answering this .. until i gave up, i do not use ML or DL any more since i feel like working with black boxes ..)\n\nso: maybe to think about what you are more inclined to? \n\nas to the courses to take: i am pretty sure that you \\_will\\_ have to take some R or python classes or so .. to be able to present your model results.\n\n.. operation research would be very good, it's anyhow statistics (and the application is probably theoretical in the course)",
+          "author": "sunnyseasun",
+          "created": 1630359031,
+          "upvotes": 3,
+          "replies": {
+            "hb2ft0o": {
+              "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb2ft0o/",
+              "text": "I\u2019m already quite proficient in both R & Python & I\u2019ve been programming since I was 15.",
+              "author": "Udon_noodles",
+              "created": 1630423494,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "hb2pxb1": {
+              "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb2pxb1/",
+              "text": "What I\u2019m most interested in is having a foundation to get a deep understanding of existing models so that I can invent my own.",
+              "author": "Udon_noodles",
+              "created": 1630427578,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hb4eqjb": {
+          "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb4eqjb/",
+          "text": "Ya I basically just don't want to be in a situation where I don't understand anything which is fundamental and I get the impression that math is that way.\n\nYou're right also about the learning applied skills like coding/libraries of course. I was hoping my research work would fulfill that purpose.",
+          "author": "Udon_noodles",
+          "created": 1630453166,
+          "upvotes": 1,
+          "replies": {
+            "hb4svk4": {
+              "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb4svk4/",
+              "text": ">I was hoping my research work would fulfill that purpose.\n\nIt is essential to actually dedicate a lot of time to learning coding (and a lot of data science / ML-related libraries, tools, best practices and etc., which are used in the industry) specifically. There is a reason why PhDs are considered to be terrible programmers. Yes, you will get some practice anyway, but that alone would not be sufficient. Most PhD students end up learning the coding superficially and pick up bad habits along the way.",
+              "author": "n1ck6667",
+              "created": 1630459715,
+              "upvotes": 1,
+              "replies": {
+                "hb6fi71": {
+                  "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb6fi71/",
+                  "text": "Hmm well I have been coding since I was 15. And I usually go out of my way as I work to play with new libraries and features of those libraries.\n\nWhat specifically do you think is important to learn in that regard?",
+                  "author": "Udon_noodles",
+                  "created": 1630498621,
+                  "upvotes": 1,
+                  "replies": {
+                    "hb92drd": {
+                      "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb92drd/",
+                      "text": "Assuming you will be using Python or at least have a choice to use it, becoming a good Python programmer would be the first thing. That requires two things: deep knowledge of the language and standard libraries, and a lot of practice. Since you have been coding a lot, you undoubtedly had many cases when you looked at a piece of code you had previously written and though of many ways to improve it. However, the more proficient you become, the less there is to improve. I would suggest regularly reading other people's code, preferably good one, standard library docs (great for learning features of the language), programming articles and etc. And, of course, you need a lot of practice. When you finish writing a piece of code, always take some time to think how it could be simplified. Always try to write a good code, or find ways to make it better.\n\nNext comes the usage of professional tools. For Python, you should familiarize yourself with either PyCharm or VSCode. Good knowledge of Git is also a must. Most students know the basics, but advanced features (branches, merging/rebasing, stashes, etc.) will help a lot. In addition, for data science / ML specifically, there is an entire discipline called MLOps, which deals with management of data and experiments, and there are many tools and libraries which would help you to do that. Research how this is done in the industry and try to imitate it. Of course, you won't need everything (such as maintaining models in production), but a good portion of it would be useful for research as well.\n\nAt some point, these skills would greatly simplify your work, reduce the time needed for doing experiments, the amount of mistakes you make, and make you much more competitive for positions in the industry.",
+                      "author": "n1ck6667",
+                      "created": 1630540052,
+                      "upvotes": 2,
+                      "replies": {
+                        "hb9dgpu": {
+                          "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb9dgpu/",
+                          "text": "Hmm ok, I think I have most of that stuff down but maybe I need more familiarity with high level libraries. I usually code my own stuff or use lower-level libraries.",
+                          "author": "Udon_noodles",
+                          "created": 1630545211,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "haz30f7": {
+      "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/haz30f7/",
+      "text": "I think you'll likely need statistics and computer science courses. You might also consider optimization/operations research courses as well.\n\nETA: computer science courses are rarely programming courses at the graduate level. Learning algorithm design is important for data science and adjacent areas of study.",
+      "author": "bandinterwebs",
+      "created": 1630356228,
+      "upvotes": 4,
+      "replies": {
+        "hb2qkr9": {
+          "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb2qkr9/",
+          "text": "Are algorithms still so important? I seem to remember hearing that AI is replacing many of them.\n\nYa stats is really important I\u2019m trying to find harder stats classes.",
+          "author": "Udon_noodles",
+          "created": 1630427838,
+          "upvotes": 1,
+          "replies": {
+            "hb3uf8i": {
+              "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb3uf8i/",
+              "text": "Well, AI isn't appropriate for every application. And my hunch is that in your work, you may need to compare/contrast AI against other methods. So my guess is that you will need to know a bit about other approaches out there, and a three-credit hour course is not that much out of your PhD, in the scheme of things. But your advisor will probably have a lot of opinions about which courses you should take anyways, so I'd defer to them :)",
+              "author": "bandinterwebs",
+              "created": 1630444254,
+              "upvotes": 1,
+              "replies": {
+                "hb6fwlo": {
+                  "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb6fwlo/",
+                  "text": "Ok fair enough thanks for advice.",
+                  "author": "Udon_noodles",
+                  "created": 1630498843,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hb1xq32": {
+      "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb1xq32/",
+      "text": "What kind of math? Be careful about doing pure math if you want to get a job, because 95% of jobs out there are for applied people.\n\nHonestly, if I were you, I'd go applied all the way. Can you get it from experience? Sure, but the greatest returns come to those in the top percentiles of skills, and you're more likely to end up there if you specialize. Would you rather one person who is average at everything or someone who is the best at deep learning? Also, even when the cutting edge changes, it changes from *somewhere*, and your previous work could help you understand it faster.",
+      "author": "uniadminthrowaway",
+      "created": 1630415726,
+      "upvotes": 3,
+      "replies": {
+        "hb2rjzm": {
+          "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb2rjzm/",
+          "text": "Theoretical knowledge (like math) lets you understand things (e.g. complex SOTA AI). Do you think it is possible to get in the \u2018top percentiles\u2019 without understanding?",
+          "author": "Udon_noodles",
+          "created": 1630428236,
+          "upvotes": 1,
+          "replies": {
+            "hb3xhpu": {
+              "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb3xhpu/",
+              "text": "You need understanding, but you can pick up understanding of what you need from applied courses. It is not like applied data science courses are atheoretical. At least, they weren't when I took them! Whereas the pure math courses I took were kind of a waste in retrospect.",
+              "author": "uniadminthrowaway",
+              "created": 1630445543,
+              "upvotes": 2,
+              "replies": {
+                "hb4ebs3": {
+                  "link": "/r/AskAcademia/comments/peqhki/only_math_for_data_science_phd/hb4ebs3/",
+                  "text": ">retrospect\n\nHmm interesting, I didn't realize you were talking from personal experience. Thanks for the advice.",
+                  "author": "Udon_noodles",
+                  "created": 1630452975,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

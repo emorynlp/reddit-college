@@ -1,0 +1,65 @@
+{
+  "sid": "pv315d",
+  "link": "/r/AskAcademia/comments/pv315d/refer_to_author_in_thesis/",
+  "title:": "Refer to author in thesis",
+  "text": "I am writing my thesis and I have adopted IEEE standar where the reference to the end like this: \\[1\\]. Lets say I want to refer to the author's name before that e.g. Doe did that \\[1\\]. But the paper is Doe et al. Should I go like \"Doe and his team did that \\[1\\]\" or \"Doe did that \\[1\\]\". An important thing to methion is when I have 2 papers and one paper's team includes the author of the other. e.g. Paper 1 Doe and Joe and paper 2 has just doe.",
+  "author": "giakou4",
+  "created": 1632560014,
+  "updated": 1634078854,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 0.81,
+  "comments": {
+    "he785x2": {
+      "link": "/r/AskAcademia/comments/pv315d/refer_to_author_in_thesis/he785x2/",
+      "text": "Doe et al. and Doe argued that this parameter ... [1,2]",
+      "author": "DeepSeaDarkness",
+      "created": 1632560258,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "he7esjj": {
+      "link": "/r/AskAcademia/comments/pv315d/refer_to_author_in_thesis/he7esjj/",
+      "text": "There are several ways. \"Doe et al showed... [1]\", \"Doe and coworkers showed...[1]\", or \"A study showed...[1]\". I favour the last as there's little reason to name authors of references. It's the work you want to describe not who did it.",
+      "author": "Kiss_It_Goodbyeee",
+      "created": 1632565702,
+      "upvotes": 7,
+      "replies": {
+        "he7i53y": {
+          "link": "/r/AskAcademia/comments/pv315d/refer_to_author_in_thesis/he7i53y/",
+          "text": ">A study showed\n\nI avoided the last option since I got 5 paragraphs with >5 teams. That way I would repeat \"A study showed...\" 5 times. But the border of language is unlimited, I could find a way",
+          "author": "giakou4",
+          "created": 1632568190,
+          "upvotes": 1,
+          "replies": {
+            "he7u9m1": {
+              "link": "/r/AskAcademia/comments/pv315d/refer_to_author_in_thesis/he7u9m1/",
+              "text": "In general, the way to reference articles is make statements about the results or conclusion. For example, \"The structure of DNA is primarily a left-handed double-helix [1] and also exists more rarely in other forms [2-4].\" This makes the writing flow better, avoids repetition of so-and-so did this or a study found that, and is easier to write.",
+              "author": "Kiss_It_Goodbyeee",
+              "created": 1632575324,
+              "upvotes": 3,
+              "replies": {
+                "he83lic": {
+                  "link": "/r/AskAcademia/comments/pv315d/refer_to_author_in_thesis/he83lic/",
+                  "text": "The reference to authors is part the a literature review. 20 people in total dealt with the subject and I refer them by name sometimes. I think I will change it.",
+                  "author": "giakou4",
+                  "created": 1632579845,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hegmw6f": {
+      "link": "/r/AskAcademia/comments/pv315d/refer_to_author_in_thesis/hegmw6f/",
+      "text": "Generally speaking, my go to for stuff like this is almost always the academic phrasebank: https://www.phrasebank.manchester.ac.uk/referring-to-sources/\n\nFor this example, you could potentially blend some of the styles there to get the feel you\u2019re looking for and convey the complexity of the multiple studies with overlapping authorship.",
+      "author": "whycantusonicwood",
+      "created": 1632744024,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

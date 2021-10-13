@@ -1,0 +1,56 @@
+{
+  "sid": "pqmtzn",
+  "link": "/r/AskAcademia/comments/pqmtzn/ways_of_evaluating_science/",
+  "title:": "Ways of evaluating science",
+  "text": "Hi, are there some other ways how to assess science, especially in social science and humanities (but not only)? I know that there are bibliometrics, peer-review and now also altmetrics. I do not know any other way, but i belive there must be something else.\nWhen I tried to google something else i wasn't succesful.\nThanks",
+  "author": "kvetjo",
+  "created": 1631973150,
+  "updated": 1634078943,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.83,
+  "comments": {
+    "hdc3q6a": {
+      "link": "/r/AskAcademia/comments/pqmtzn/ways_of_evaluating_science/hdc3q6a/",
+      "text": "There's lots of stuff out there on this. You could have a look at the REF framework for the UK, which outlines how university (specifically hefce funded) research is assessed. \n\nThere are reports out there like the Metric Tide and I'm sure Rand published some stuff a while back. \n\nIn addition you could check out RoRi, which is the Research on Research Institute. \n\nThese are all UK-centric examples but there should be some translatable stuff.\n\nMore broadly check out the San Francisco Declaration on Research Assessment website. They have a load of resources on responsible metrics and examples of good practice. There's also the Leiden Manifesto and Snowball Metrics which are much more about bibliometrics but are interesting.",
+      "author": "ACatGod",
+      "created": 1631975828,
+      "upvotes": 6,
+      "replies": {
+        "hdg37es": {
+          "link": "/r/AskAcademia/comments/pqmtzn/ways_of_evaluating_science/hdg37es/",
+          "text": "Thanks! I am going to check these.",
+          "author": "kvetjo",
+          "created": 1632046367,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hddiv2g": {
+      "link": "/r/AskAcademia/comments/pqmtzn/ways_of_evaluating_science/hddiv2g/",
+      "text": "I am really unclear what you are trying to do. Can you refine your goal better \u2014\u00a0\"assess science\" how?",
+      "author": "restricteddata",
+      "created": 1631997227,
+      "upvotes": 4,
+      "replies": {
+        "hdg35rp": {
+          "link": "/r/AskAcademia/comments/pqmtzn/ways_of_evaluating_science/hdg35rp/",
+          "text": "By assessing science I mean evaluating quality (by quantitative or qualitative methods) of research outputs - articles. By this I mean ex post evaluating. \nI am writing essay for one of my uni course and my goal for this particular chapter is to put altmetrics in context with other methods of assessing research outputs and to compare them. I am just looking for some other examples.\nI hope I made it little bit clearer now.",
+          "author": "kvetjo",
+          "created": 1632046332,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hdfvfbo": {
+      "link": "/r/AskAcademia/comments/pqmtzn/ways_of_evaluating_science/hdfvfbo/",
+      "text": "The humanities aren't science, so I'm not sure the idea of evaluating science applies to them.",
+      "author": "pipkin42",
+      "created": 1632040161,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

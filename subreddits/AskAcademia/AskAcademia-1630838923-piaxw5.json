@@ -1,0 +1,65 @@
+{
+  "sid": "piaxw5",
+  "link": "/r/AskAcademia/comments/piaxw5/what_softwares_and_websites_do_you_find_very/",
+  "title:": "What Softwares and Websites do you find very useful?",
+  "text": "Using some software made my life as a PhD student way easier and my efforts efficient, some examples are [Connected Papers](https://www.connectedpapers.com/), [Mathpix](https://mathpix.com/), and  [Zotero](https://www.zotero.org/).\n\nI would love to know if you have some other recommendations or suggestions of software, apps, websites or any other services that you find useful as students, researchers, professors, engineers...etc?\n\nThank you in advance.\n\nIf you think that this question would have more answers in some other subreddits, please let me know.\n\nEdit: I am a PhD student of mathematics, working on PDEs, as this may help to get better answers.",
+  "author": "Mikahopff",
+  "created": 1630838923,
+  "updated": 1634079388,
+  "over_18": false,
+  "upvotes": 11,
+  "upvote_ratio": 0.93,
+  "comments": {
+    "hbocpod": {
+      "link": "/r/AskAcademia/comments/piaxw5/what_softwares_and_websites_do_you_find_very/hbocpod/",
+      "text": "What field are you working in?\n\nOther than reference management and general document processing (Microsoft office or similar), most software and websites are *extremely* field-dependent since the types of document and data vary so much.",
+      "author": "JHT230",
+      "created": 1630841628,
+      "upvotes": 7,
+      "replies": {
+        "hbscfqv": {
+          "link": "/r/AskAcademia/comments/piaxw5/what_softwares_and_websites_do_you_find_very/hbscfqv/",
+          "text": "Thank you, I am into mathematics.",
+          "author": "Mikahopff",
+          "created": 1630916253,
+          "upvotes": 1,
+          "replies": {
+            "hbsmqog": {
+              "link": "/r/AskAcademia/comments/piaxw5/what_softwares_and_websites_do_you_find_very/hbsmqog/",
+              "text": "Ah. I don't have many suggestions for mathematics, especially at a high level, although of course some sort of math typesetting software is important (Microsoft Word has gotten much better at that recently it seems). I do remember using one called LyX which was incredibly useful when I was taking math and CS courses, as it doesn't actually require you to know any LaTeX before starting to use it.\n\nI also used Matlab and Mathematica a bit when processing experimental data; not sure how useful they are for more abstract math.",
+              "author": "JHT230",
+              "created": 1630925449,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbons8s": {
+      "link": "/r/AskAcademia/comments/piaxw5/what_softwares_and_websites_do_you_find_very/hbons8s/",
+      "text": "More general, less mathematics focused: \n\nZotero/Mendeley for citation management, particularly if you're in a field that doesn't use LaTeX (and not every field does use it as the *de facto* standard, despite what some people here think). \n\nWhether you use LaTeX, Word or Writer, learn to use styles correctly - it's much easier to reformat things, generate tables of contents etc if you work sensibly from the start. \n\nA knowledge of Python is very useful if you're doing anything that involved scraping or processing large amounts of data and there are some [good tutorials](https://docs.python.org/3/tutorial/) out there. YouTube is actually great for coding tutorials. \n\nhttps://westonruter.github.io/ipa-chart/keyboard/ - IPA input chart that you can click on. Yes, I could learn various shortcuts or X-SAMPA conversion or whatever but also I can just click on them and copy and paste. \n\nGoogle Docs has a very flexible questionnaire tool that you can use to gather both qualitative and quantitative data. I think it's much more flexible than things like Survey Monkey. \n\nWindows' Snipping Tool is actually very good at what you need it for - I've had to insert images taken from manuscripts and it's just an easy way of doing it that's baked into the system. Likewise, PDF export is part of Windows, which people occasionally don't realise. \n\nWhen I was teaching, I used to use a lot of picture resources from [BBC News in Pictures](https://www.bbc.co.uk/news/in_pictures) as a warmup exercise a lot in small groups. \"What can you see?\" is a surprisingly difficult question for some people, who try to analyse or give their opinion - the point I was making was *answer the question you were asked, not an imaginary one you felt like answering*, which some students need to be reminded of. If you do any teaching as part of your PhD, you'll need a crash course in remembering what life was like as an undergrad.",
+      "author": "Gulbasaur",
+      "created": 1630848681,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hbp3wzg": {
+      "link": "/r/AskAcademia/comments/piaxw5/what_softwares_and_websites_do_you_find_very/hbp3wzg/",
+      "text": "Since you study maths, here are my most useful tools when writing mathematical papers:\n\n- Mathematica, for solving analytical equations and then pretending I solved them by hand\n- MATLAB, for plotting things and doing quick numerics to notice patterns that I can then pretend to have noticed from the formulas themselves (some people prefer Python for this, I don't like it that much for mathematical work with matrices)\n\n- PowerPoint, for making schematic plots and diagrams and then pretending I drew them in TikZ.",
+      "author": "sure_complement",
+      "created": 1630856206,
+      "upvotes": 5,
+      "replies": {
+        "hc3cowf": {
+          "link": "/r/AskAcademia/comments/piaxw5/what_softwares_and_websites_do_you_find_very/hc3cowf/",
+          "text": "Let me add to this-\n\nTexniccenter: my preferred latex editor\n\nSublime: editor for everything else\n\nPretext: a very useful xml/mathml  derived typesetting language that produces nice online notes and books and also can render latex. Can embed executable code run off of cocalc. I use this to create open access materials\n\nGitHub: papers, code, and my professional webpage all live here. Never be stuck waiting for marketing to approve your web page updates again!",
+          "author": "amnioticsac",
+          "created": 1631127659,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

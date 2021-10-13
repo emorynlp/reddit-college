@@ -1,0 +1,49 @@
+{
+  "sid": "pzzff9",
+  "link": "/r/GradSchool/comments/pzzff9/zoterobib_disaster/",
+  "title:": "Zoterobib Disaster",
+  "text": "Be careful if you use the online Zoterobib to keep track of your list of references. I had been using this on my iPad to format my citations to NLM style for the past month and when I went to format a new citation today the list was gone. Luckily I had been copying and pasting them into a reference list in Word (and lately, just formatting them from PubMed instead of Zoterobib if the journal article is listed) so I did not lose my 100+ formatted citations. I know I should be using Zotero or some other citation program that is not web based but I prefer to do my work on my iPad and most have limited functions for it. \n\nI really need to find one that does cite in text for Word on the iPad that I can figure out how to use. Today I realized I had included a reference that was not relevant when reviewing what I wrote over the past month and had to remove it. It was #58 of 105. I spent hours searching for a new reference I could use in that section of text so I did not have to adjust the numbers for the citations that came after it in the body of the text.",
+  "author": "UleeBunny",
+  "created": 1633195442,
+  "updated": 1634099976,
+  "over_18": false,
+  "upvotes": 8,
+  "upvote_ratio": 0.85,
+  "comments": {
+    "hf4v7xf": {
+      "link": "/r/GradSchool/comments/pzzff9/zoterobib_disaster/hf4v7xf/",
+      "text": "If you store the PDFs somewhere, you can always drag and drop them into Zotero and recreate your citations (except for special things like webpages)",
+      "author": "myristicae",
+      "created": 1633203870,
+      "upvotes": 4,
+      "replies": {
+        "hf6f2uf": {
+          "link": "/r/GradSchool/comments/pzzff9/zoterobib_disaster/hf6f2uf/",
+          "text": "Less than 10 are are databases, websites, and industry reports. I will have to figure out how to paste them into Zotero. Can I do that with the complete formatted citation or will I need I need to do it piecemeal (eg author, title, journal, date,\u2026 separately for each citation)?",
+          "author": "UleeBunny",
+          "created": 1633229103,
+          "upvotes": 2,
+          "replies": {
+            "hf6mk8f": {
+              "link": "/r/GradSchool/comments/pzzff9/zoterobib_disaster/hf6mk8f/",
+              "text": "You could try going file -> import and seeing if you can import your list of formatted citations. I don't know if you can read from a .doc, but even if it works, the completeness would depend on how much information was stored in that style. For instance, if there were ten authors but your citations only print the first two, you'll not get the other eight back. \n\nMore complete information would be in the original document, like the PDF of the paper. You could also use a DOI or ISBN from the formatted citations to look up the original using the \"Add items by identifier\" tool (it looks like a magic wand with a plus sign next to it.)",
+              "author": "myristicae",
+              "created": 1633232995,
+              "upvotes": 1,
+              "replies": {
+                "hf7f6dj": {
+                  "link": "/r/GradSchool/comments/pzzff9/zoterobib_disaster/hf7f6dj/",
+                  "text": "I do have the doi for about 98% of them.",
+                  "author": "UleeBunny",
+                  "created": 1633252745,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

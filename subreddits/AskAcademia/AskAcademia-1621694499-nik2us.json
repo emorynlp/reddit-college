@@ -1,0 +1,591 @@
+{
+  "sid": "nik2us",
+  "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/",
+  "title:": "Can you study Computer Science without being super passionate about it?",
+  "text": "Atm I study philosophy at uni and due to some logic courses I took I remembered how I used to enjoy programming a few years ago in school and I wasn't too bad at it. Since then I've been thinking about switching to studying computer science. Like I said, I used to quite like programming and in general am interested in the topic as a whole but I am not someone who for example creates websites in their free time or does projects on their own and stuff like that. I feel like a lot of people who study cs are super passionate about it and know so much about computers (which I don't) and spend their free time programming. I'm not like that but still interested in cs, do you think it's a good idea if I still try? I'm also a bit insecure about switching to cs since I'm a girl and the subject is still widely male dominated at my uni (50 women and 250 men) and I don't want to fill out the stereotype of women not being able to do math or code.\n\n&#x200B;\n\nTL;DR: I loved the logic courses I did in philosophy and want to switch to cs but I'm not too tech-savvy or do coding  projects for fun - is it a good idea if I still try? At school I was quite good at math and coding.",
+  "author": "aira_aria",
+  "created": 1621694499,
+  "updated": 1634081941,
+  "over_18": false,
+  "upvotes": 102,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "gz27vim": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz27vim/",
+      "text": "Software engineering != computer science. It really depends on how CS at your uni is taught. If it\u2019s more theoretical and mathematically rigorous (this is the real CS you do in grad school) then it sounds like you are more likely to enjoy it than those who study it just to become software/web developers. If it\u2019s more practical/industry-oriented then it doesn\u2019t sound like an amazing fit for you.\n\nBut to answer your question in the title: yes. CS is quite useful that even if you don\u2019t feel super passionate about it at first you might grow to like it for practicality alone. But if you don\u2019t care about projects and code development, why don\u2019t you consider studying math instead?",
+      "author": "bryanwag",
+      "created": 1621695757,
+      "upvotes": 87,
+      "replies": {
+        "gz2eoo0": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2eoo0/",
+          "text": "First of all thank you for your answer! I'm at the University of Basel (Switzerland) and as far as I can tell you do a lot of theory & math but it's also described as \"application-oriented\". I never thought about studying math and I don't think it would be the right thing for me. I did quite enjoy the projects I had to do at school (e.g. build a website from scratch only using code, make your own little adventure game) so I would like to have a more practical component in my study field :) and adding to that I think finding a job after studying CS is probably easier than if you do math (or philosophy).",
+          "author": "aira_aria",
+          "created": 1621699331,
+          "upvotes": 11,
+          "replies": {
+            "gz2xsbz": {
+              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2xsbz/",
+              "text": "I don\u2019t know enough about Basel to comment but I think in general European CS degree has more theory/math requirements than US counterparts. Check your curriculum.\n\nOh ok I got the wrong impression from your post. If you like practical aspect then yeah math is probably not a good fit. I think European math degree is generally quite pure, not much applied. CS now does sounds like a good path for you. Good luck!",
+              "author": "bryanwag",
+              "created": 1621708779,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "gz2uwaw": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2uwaw/",
+          "text": "Just venting for a second: I wish more schools would offer classes/degrees in software engineering. I get so many complaints from CS graduates who later become software engineers that \"College is a total waste of time\" and then they hold me (an English person no less) responsible by demanding answers for why their employer demanded a CS degree when \"I never learned anything from my classes. Everything I needed to do the job, I learned on the job in 3 weeks after being hired.\"",
+          "author": "Ethan-Wakefield",
+          "created": 1621707295,
+          "upvotes": 5,
+          "replies": {
+            "gz2yfuy": {
+              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2yfuy/",
+              "text": "Yup, and even worse some schools just water-down their whole CS curriculum to accommodate these software engineers instead of creating a major for that and keeping CS rigorous.",
+              "author": "bryanwag",
+              "created": 1621709116,
+              "upvotes": 9,
+              "replies": {}
+            },
+            "gz3bhfk": {
+              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3bhfk/",
+              "text": "My bachelor's is in CS, and this drove me crazy, that all my employers all clamored for CS degrees and then got annoyed when I wasn't rigorously versed in, for instance, Linux administration. You would think when there is an entire profession dedicated to \"Human Resources\", they'd have at least slightly more understanding of the significance of college majors than an incoming Freshman.",
+              "author": "thisoneagain",
+              "created": 1621715778,
+              "upvotes": 3,
+              "replies": {
+                "gz3f1km": {
+                  "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3f1km/",
+                  "text": "You\u2019d be surprised. HR\u2019s job is to remove anybody clearly unqualified. If there\u2019s even a possibility, they\u2019ll pass that along. The real question is why nobody who really should have known better, like an IT person, didn\u2019t know. But, I think there is some assumption that if you\u2019re CS then you can do all of the computer things. A bit like how my aunt is shocked that my cousin who\u2019s a PhD in optical physics can\u2019t do her eye exam or make her a pair of reading glasses.",
+                  "author": "Ethan-Wakefield",
+                  "created": 1621717550,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gz29flx": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz29flx/",
+      "text": "You can study anything without being passionate about it.\n\nI'm a woman =) and have a phd in mechanical engineering and im not passionate about it. \n\nWork is work and work doesn't suck if you dont hate it or find it boring .\n\nNow that doesn't mean work can't be fun and i don't enjoy it , my feelings are its nice. The only time i get excited about it is when something works and it wasn't before because im a Type A person who likes making things work and work well lol \n\nIm passionate about music, reading, art, cooking, exercising, walking in woods, traveling, CATS =)\n\nI think you should definitely give it a go! college is the time to try things ! yeah it sucks to have the extra pressure of being not the idiot woman especially when you one of the only women in the class. But there are vast amount of resources and networks especially for woman who code.  If you are feeling alone and need support please reach out and i will help you find some groups, clubs, societies because as fellow woman in STEM id hate to see someone turn away because of the stigmas there are",
+      "author": "RaddishEater666",
+      "created": 1621696592,
+      "upvotes": 44,
+      "replies": {
+        "gz2eykr": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2eykr/",
+          "text": "Thank you for your answer! You did motivate me to go throught with it, I found it really inspiring that you're also not super passionate about your field! And thank you very much for your offer :) I'll try to remember it if I'm struggling.",
+          "author": "aira_aria",
+          "created": 1621699473,
+          "upvotes": 3,
+          "replies": {
+            "gz3cq5n": {
+              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3cq5n/",
+              "text": "My answer is quite similar to the above, so I thought I'd avoid cluttering up the top-level comments.\n\nI am a woman with my B.S. in computer science, and I don't think passion had anything to do with my ability to earn my degree. I was at a school that was a bad fit for me, and *that* hampered me quite a bit, but I found having a general interest but not a DRIVE for logic and coding to be the perfect balance to keep myself motivated in school, but not, for instance, demotivate me through disappointing course after disappointing course.\n\nI also eventually gave up on programming as a profession, but I think here is where I differ from /u/RaddishEater666. I really want my job to be where I'm passionate. I think it would be wiser if I were more like her, so if you can see yourself getting most of your joy and passion from outside of work, I think programming is a fantastic profession to be in.",
+              "author": "thisoneagain",
+              "created": 1621716389,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gz2hdg6": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2hdg6/",
+      "text": "I'll take a wild stab based on what you wrote and suggest the following. I know someone who switched from Philosophy to Math to CS because she loved logic and proofs. She graduated with a Ph.D. this spring. A lot of what I'm going to write is based on my discussions with her. I myself am a female Ph.D. student in software/network security.\n\nIt might not look this way to the outsider, but proofs and [formal methods](https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/) are a huge part of CS research. It's the same with [designing algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/) \\-- it's not just about programming; you have to think about the time complexity (how long it takes to run), space complexity (how much space it takes), and prove these things. Most machines today can handle algorithms that have polynomial complexity. For example, if the size of the \"input\" is N, then the runtime is proportional to N\\^2. But then there's this whole class of problems for which a polynomial algorithm hasn't yet been discovered! \\[I oversimplified a few things here to give you a flavor of the vast area of CS\\]\n\nWhat I'm trying to say is that programming is a very, very small part of CS. I think the kind of intellectual stimulation that someone interested in Philosophy would seek isn't the kind of stimulation programming provides, but it is the kind of work that the [theory side of CS](https://www.cs.virginia.edu/~robins/Sipser_2006_Second_Edition_Problems.pdf) would provide.\n\nThe downside is that some universities don't emphasize these areas at an undergraduate level. You might have to petition to take graduate courses if that's the case.\n\nRegarding the whole women in CS issue, yes, there'll probably be sexist jerks in your cohort. They're jerks because they're insecure and have weird complexes about a girl/woman being better at them in tech. Yes, it is an extra source of annoyance, but I can see that the field is getting better with the issues of sexism.\n\nAnother thing to consider is that for whatever reasons, there are more women in the theory side of CS (formal methods, algorithms, theory of computation)  than in the applied side of CS, and the representation of women on the applied side is getting better! I can PM you some details from the faculty list in my university if you want (I'd rather not share that in an open forum because it'll likely doxx me :))",
+      "author": null,
+      "created": 1621700701,
+      "upvotes": 11,
+      "replies": {
+        "gz3uey1": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3uey1/",
+          "text": "> Another thing to consider is that for whatever reasons, there are more women in the theory side of CS (formal methods, algorithms, theory of computation) than in the applied side of CS\n\nI'll take a stab at guessing why: when personal computers became a thing, they were heavily marketed towards men, which drove many men to learn programming even while they were young. As a result, they often had a head start when starting in applied CS, leading to women feeling outcompeted. \n\nMeanwhile, CS theory obviously did not get marketed either way, and in addition you can enter it from the math side as well - math having a much more even ratio of men to women, that evens it out a bit.",
+          "author": "Aliudnomen",
+          "created": 1621725591,
+          "upvotes": 3,
+          "replies": {
+            "gz4gqjt": {
+              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz4gqjt/",
+              "text": "Yeah, that makes sense. \n\nBack in my home country India, the gender disparity in CS isn't actually as bad as it is in the US. Not to say that gender stereotypes don't exist, but the gender ratio in undergrad CS classes in the US frustrates me immensely.",
+              "author": null,
+              "created": 1621738834,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gz27z6c": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz27z6c/",
+      "text": "Go for it. I studied math, philosophy (lots of logic), and computer science together and loved it. Not all CS is coding, nor is the stereotype of CS people entirely accurate. Some of it is theoretical and someone with a strong math and logic background can do very well.",
+      "author": "bigrottentuna",
+      "created": 1621695813,
+      "upvotes": 10,
+      "replies": {
+        "gz2f7bh": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2f7bh/",
+          "text": "Thank you for your answer! I could actually study philosophy and CS at the same time and I'm still not sure if I should actually do that, but then on the other hand I also want to get the most out of CS that I can. I think I will go for it :)",
+          "author": "aira_aria",
+          "created": 1621699597,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gz2mvy0": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2mvy0/",
+      "text": "Ooh the girls-in-CS thing hits soo hard for me (engineering).  You just have to adopt an attitude of \u201cI don\u2019t care what anyone thinks,\u201d trust me the guys don\u2019t actually \u201cknow what they\u2019re doing\u201d any more than you do, it\u2019s just that no one is advertising it.  Finish the degree and that in itself is success.  It\u2019s persistence over innate ability\n\nI was attracted to the logic/problem-solving aspect of CS also!",
+      "author": "Useful_Bread_4496",
+      "created": 1621703429,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "gz2n376": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2n376/",
+      "text": "You would really enjoy the logic and proof-based areas of computer science. They follow the idea of philosophical logic quite well, we even had a philosophy course at our university that was meant for computer science students all about logic. Most typical Computer Science degrees in universities have many of those courses. They tend to not be very programming-based, you write proofs mainly, and sometimes you may program them. There are some really big areas of research in that stuff too. In the end that work helps design algorithms or build tools that make regular developers\u2019 lives much easier (because better logic = better algorithmic speed).\n\nAlso I\u2019m a girl in CS doing her PhD now and don\u2019t let the male dominated part keep you away!!! We need more women and it\u2019s really not as bad as it used to be.",
+      "author": "cm0011",
+      "created": 1621703523,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gz2bvo7": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2bvo7/",
+      "text": "Programming isn't computer science. And considering the fact that all you need for programming is some pen, paper and a computer, I'd suggest do programming at your own pace. I'm an EE grad student and I love programming. Pretty good at it too. But like you said, I didn't want that as a career. So I do programming as a hobby and it's wonderful.",
+      "author": null,
+      "created": 1621697876,
+      "upvotes": 3,
+      "replies": {
+        "gz2g2xs": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2g2xs/",
+          "text": "Thank you for your answer :) ! Reading the comments I do think I have to get the idea out of my head that I'll only be coding, thanks!",
+          "author": "aira_aria",
+          "created": 1621700057,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "gz2cup3": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2cup3/",
+      "text": "One thing with coding is that you can teach yourself in your own time. For instance I've used \n\n[https://www.hackerrank.com/](https://www.hackerrank.com/)\n\na lot, it's free and has loads of resources for different languages and interactive puzzles.\n\nWhy not try learning to code with that, or something similar, for a few hours and see how you get on. It's a small way of tasting what that sort of thing is like without having to make a big decision.",
+      "author": "parkway_parkway",
+      "created": 1621698385,
+      "upvotes": 3,
+      "replies": {
+        "gz2htzu": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2htzu/",
+          "text": "While I like hackerrank, I'd not recommend it to someone seeking to have a flavor of CS because a) OP might not like programming, but like other areas of CS (theory, hardware, security, AI), and b) the interface for hackerrank could be quite frustrating for someone seeking to simply play with it. It's easier to install a compiler toolchain to compile programs on your machine than wait for hackerrank to compile and test.",
+          "author": null,
+          "created": 1621700936,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "gz2gh56": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2gh56/",
+          "text": "Thank you for your answer and the link! I'll definitely check it out during my semester break :)\n\nI have done some coding before in school (HTML, CSS, Java, ActionScript (Rip)) so I'm not starting from zero but it has been a couple years so it's definitely going to be a big help since I'm pretty sure I don't remember most of it.",
+          "author": "aira_aria",
+          "created": 1621700258,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gz3qgrg": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3qgrg/",
+      "text": "IMHO for vast majority of cases, passion is overrated. Not because it doesn't matter (it matters a lot - sooner or later your passion will have to get you out of bed), but because it's something we tend to find as we live. The idea that we inherently know something we can be passionate about is a myth. \n\nAbout a third of biology graduate students I know kind of stumbled into the field from being undergraduate premeds - about half of the third absolutely don't give a damn - they just need a certificate with some social status attached to it. The rest though? I'd say they eventually found something in the field to be passionate about. All of them are competent enough for a job, and some of them are even pretty darn good. \n\nI'd say - it might be good for you if you can find something to test the waters a little - perhaps even with a deep dive. An internship/apprenticeship over the summers maybe.",
+      "author": "ionsh",
+      "created": 1621723516,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gz28f05": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz28f05/",
+      "text": "Coding or making websites isn't what CS is about, it's just one of the many applications. You don't necessarily have to be a computer scientist to be a good programmer. Basically it is just the tip of the ice berg.\n\nCS on the other hand and AI field specifically is almost compeletely about modeling using math(to that logic is a huge part so you might have an upper hand there).\n\nI believe it is male dominated for a reason but don't let that stop you if you feel you really like it because that passion will be your number one force to progress and move forward in the field.\n\nIn any case look into some of the very basic textbooks like 'automata and languages' or 'data structures and algorithms' or any other thing that you think you might like. It will help a lot to make a decision before commiting to anything.",
+      "author": "Donut_Dudes",
+      "created": 1621696048,
+      "upvotes": 7,
+      "replies": {
+        "gz37yvd": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz37yvd/",
+          "text": ">I believe it is male dominated for a reason\n\nWhat do you mean by this?\n\nOP's point was she's not necessarily passionate.\n\nOP - I'm a woman and I did math and CS in undergrad. I was never interested in doing anything extra like side projects. I still feel like I don't know much about computers in general. I did CS because I like discrete math and algorithm analysis (and I wanted to be more employable).",
+          "author": "kassandra458",
+          "created": 1621714022,
+          "upvotes": 6,
+          "replies": {
+            "gz3duze": {
+              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3duze/",
+              "text": "I gather she simply doesn't have enough information yet. She says that discrete math, algorithm analysis and logic are her favorite subjects which are basically the foundation of CS so she is in fact passionate about it, just doesn't know it. \n\nSTEM fields are male dominated and even in the most egalitarian societies the gap is still huge and that is a fact. Now I'm pretty sure this makes it even harder to compete as a woman in these fields so that's why passion is a huge factor in my opinion.",
+              "author": "Donut_Dudes",
+              "created": 1621716954,
+              "upvotes": 1,
+              "replies": {
+                "gz3knzb": {
+                  "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3knzb/",
+                  "text": "Where did she say anything about discrete math or algorithms? That's what *I* said. Sorry if I was unclear - my last paragraph was supposed to be a message directly to OP.\n\nAnd I'd still like to know what exactly you think the reason is that CS is male dominated.",
+                  "author": "kassandra458",
+                  "created": 1621720449,
+                  "upvotes": 3,
+                  "replies": {
+                    "gz3qdbb": {
+                      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3qdbb/",
+                      "text": "The same reason that many other fields are female dominated or at least the percentage is different. I'm certain that it's not only related to gender stereotypes or social norms and politics.",
+                      "author": "Donut_Dudes",
+                      "created": 1621723465,
+                      "upvotes": -1,
+                      "replies": {
+                        "gz3s1gj": {
+                          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3s1gj/",
+                          "text": "I'm sorry, I'm not following. What is the reason?",
+                          "author": "kassandra458",
+                          "created": 1621724339,
+                          "upvotes": 3,
+                          "replies": {
+                            "gz5aap8": {
+                              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz5aap8/",
+                              "text": "The difference of interest",
+                              "author": "Donut_Dudes",
+                              "created": 1621763836,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        },
+                        "gz3un5z": {
+                          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3un5z/",
+                          "text": "What makes you so certain about this?",
+                          "author": "Aliudnomen",
+                          "created": 1621725712,
+                          "upvotes": 3,
+                          "replies": {
+                            "gz5a2wh": {
+                              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz5a2wh/",
+                              "text": "The fact that in the wealthy and gender equal societies the gap is still big",
+                              "author": "Donut_Dudes",
+                              "created": 1621763623,
+                              "upvotes": 0,
+                              "replies": {
+                                "gz5alj3": {
+                                  "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz5alj3/",
+                                  "text": "Don't you think it's possible that even in those societies, there's still a large amount of societal pressure for women and men to conform to social norms? I live in one of the most gender equal countries, but even as a man I find the gender stereotyping pretty noticeable.\n\nJust an example, but in computer science, it was far more common for women to enter the field up until personal computers became a thing (hell, the people who programmed those old supercomputers were usually women). When PCs starting entering households (marketed mainly towards men), the percentage of women entering CS dropped sharply.\n\nIt's just one example, but it shows the influence of society on people's choice of major pretty clearly.",
+                                  "author": "Aliudnomen",
+                                  "created": 1621764129,
+                                  "upvotes": 2,
+                                  "replies": {
+                                    "gz5bx32": {
+                                      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz5bx32/",
+                                      "text": "Of course it is a factor, it's just not the main reason in many places anymore",
+                                      "author": "Donut_Dudes",
+                                      "created": 1621765400,
+                                      "upvotes": 0,
+                                      "replies": {
+                                        "gz5c3bp": {
+                                          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz5c3bp/",
+                                          "text": "I don't know, if female participation in CS can fall from 37% to 18% just due to societal influences, it could very well be the main reason.\n\nhttps://www.computerscience.org/resources/women-in-computer-science/",
+                                          "author": "Aliudnomen",
+                                          "created": 1621765566,
+                                          "upvotes": 3,
+                                          "replies": {
+                                            "gz5dgxm": {
+                                              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz5dgxm/",
+                                              "text": "No if that were true the number would've changed by now. In fact unis have many reverse policies to change that view for quite some time now.",
+                                              "author": "Donut_Dudes",
+                                              "created": 1621766889,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "gz5dsly": {
+                                                  "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz5dsly/",
+                                                  "text": "If what were true, exactly? The article I shared makes a pretty strong case for external influences.",
+                                                  "author": "Aliudnomen",
+                                                  "created": 1621767196,
+                                                  "upvotes": 2,
+                                                  "replies": {
+                                                    "gz6vq5u": {
+                                                      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz6vq5u/",
+                                                      "text": "That it was only due to social influences.\n\nWhat? The marketing thing?! that's more like a sad excuse",
+                                                      "author": "Donut_Dudes",
+                                                      "created": 1621796502,
+                                                      "upvotes": 1,
+                                                      "replies": {
+                                                        "gz6yklk": {
+                                                          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz6yklk/",
+                                                          "text": "But why is that only a sad excuse? I mean you can't really state something like that as fact without coming with some reason as to why you believe so.\n\nI'm not sure is it's *only* social influences, but it seems strange to me to so strongly state that you're *certain* it's not the main reason, when as far as I can tell researchers in the field generally aren't sure themselves, either.",
+                                                          "author": "Aliudnomen",
+                                                          "created": 1621797852,
+                                                          "upvotes": 2,
+                                                          "replies": {
+                                                            "gz78imi": {
+                                                              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz78imi/",
+                                                              "text": "I am certain because numbers don't lie. Yes it was true a couple decades ago but policies have gone through a major overhaul especially in academia. You can [see](https://nces.ed.gov/programs/digest/d20/tables/dt20_303.10.asp) that male to female ratio for enrollment has changed from being male dominated in 50s to female dominated now and is expected to grow even more. The female students are doing way better overall so why is it that the number is different for STEM and [even worse](https://journals.sagepub.com/doi/abs/10.1177/0956797617741719) in more gender equal countries?! Don't you think that it might a matter of choice and interest and not necessarily social influence in all cases?",
+                                                              "author": "Donut_Dudes",
+                                                              "created": 1621802601,
+                                                              "upvotes": 1,
+                                                              "replies": {
+                                                                "gz7ad8i": {
+                                                                  "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz7ad8i/",
+                                                                  "text": "I'm aware of that study, but its actually quite controversial; you can read more about it [here](https://en.wikipedia.org/wiki/Gender-equality_paradox).\n\nMy contention is that choice and interest are influenced by social pressures.",
+                                                                  "author": "Aliudnomen",
+                                                                  "created": 1621803467,
+                                                                  "upvotes": 2,
+                                                                  "replies": {
+                                                                    "gz7jx9l": {
+                                                                      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz7jx9l/",
+                                                                      "text": "I think the main empirical evidence still stands.\n\nI'm not dismissing the social factors and it is obviously a complex system with many variables but my whole point was that biological ones are bigger no matter how much social engineering/structuring we deploy.",
+                                                                      "author": "Donut_Dudes",
+                                                                      "created": 1621808052,
+                                                                      "upvotes": 1,
+                                                                      "replies": {
+                                                                        "gz7l6or": {
+                                                                          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz7l6or/",
+                                                                          "text": "And my point still stands that you can't possibly know that for certain. The stats you cited do not imply that at all, the study you cited has been disputed. You can have the opinion that biological factors are the main cause, sure, but why state it so certainly as if it's a done deal?",
+                                                                          "author": "Aliudnomen",
+                                                                          "created": 1621808680,
+                                                                          "upvotes": 2,
+                                                                          "replies": {
+                                                                            "gz7o639": {
+                                                                              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz7o639/",
+                                                                              "text": "The stats and the study provide 'enough' indication. What? You can't know for sure that biology is the biggest factor? Take a look at history, our social hierarchies. It's a fact that we are hardcoded for many of those bahaviors and there's only so much we can change.",
+                                                                              "author": "Donut_Dudes",
+                                                                              "created": 1621810203,
+                                                                              "upvotes": 1,
+                                                                              "replies": {
+                                                                                "gz7pv2f": {
+                                                                                  "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz7pv2f/",
+                                                                                  "text": "> The stats and the study provide 'enough' indication.\n\nNo, they don't. As I said, the study is disputed. If it was as easy as looking at the data and going, \"well that's case closed, guess women just don't like maths\" this wouldn't be such a huge debate.\n\n> What? You can't know for sure that biology is the biggest factor? Take a look at history, our social hierarchies. \n\nThis isn't an argument, just an is-ought fallacy. In social hierarchies men often took up physical jobs due to men being physically stronger (obviously). In what way does this imply that women have less affinity for STEM? I can tell you for sure that I need exactly none of my male physical prowess in my daily research.",
+                                                                                  "author": "Aliudnomen",
+                                                                                  "created": 1621811099,
+                                                                                  "upvotes": 2,
+                                                                                  "replies": {
+                                                                                    "gz7sel6": {
+                                                                                      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz7sel6/",
+                                                                                      "text": "Disputed by whom? Based on what criteria? You gave me a wiki page that anyone can edit. And no the conclusion was never that 'women do not like math' and it was not my intention to imply that at all because I don't think that is true.\n\nNone of us do use our physical abilities as much because we don't live in caves anymore but there's a tendency towards some jobs and fields and it's different in men and women. For STEM it seems that the ratio is higher for men(once again that doesn't mean men are better at it or anything) and believe it or not your physical prowess has contributed a lot to that fact in a course of millions of years.\n\nNow tell me why do you think in a country like Switzerland the gap is still this high? Please give me something better than the marketing and patriarchical society. That hasn't been the case in at least a few decades",
+                                                                                      "author": "Donut_Dudes",
+                                                                                      "created": 1621812474,
+                                                                                      "upvotes": 1,
+                                                                                      "replies": {
+                                                                                        "gz7ve1b": {
+                                                                                          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz7ve1b/",
+                                                                                          "text": "> Disputed by whom? Based on what criteria? You gave me a wiki page that anyone can edit\n\nhttps://journals.sagepub.com/doi/10.1177/0956797619872762\n\nResponse by the original authors: https://journals.sagepub.com/doi/10.1177/0956797620904134\n\nPoint being, the original study was not a slam dunk.\n\n> None of us do use our physical abilities as much because we don't live in caves anymore but there's a tendency towards some jobs and fields and it's different in men and women. For STEM it seems that the ratio is higher for men(once again that doesn't mean men are better at it or anything) and believe it or not your physical prowess has contributed a lot to that fact in a course of millions of years.\n\nHow has male physical prowess influenced their STEM ability? Again, you can't just state that as fact without backing it up at all.\n\n> Now tell me why do you think in a country like Switzerland the gap is still this high? Please give me something better than the marketing and patriarchical society. That hasn't been the case in at least a few decades\n\nThat's not true at all, marketing still differs *wildly* between men and women. For instance, if I go to the largest online shopping site in my country and look for gifts, I immediately get pointed to choice of \"[for him](https://www.bol.com/nl/l/cadeaus-mannen/N/4268053379+14033/filter_N/37910?view=tile)\" or \"[for her](https://www.bol.com/nl/l/cadeaus-vrouwen/N/4268053379+14033/filter_N/37911?view=tile)\". The former mostly consists of video games, gadgets, powertools. The latter? Kitchen gear, cleaning supplies, cosmetics. Which of these is more likely to influence people to have greater propensity for tech?\n\nMy guess would be that less gender equal countries are often less economically well off (the original study largely looked at eastern Europe). As STEM jobs are usually well paid, there's a greater incentive for women to join STEM in these countries regardless of traditional gender roles. By contrast, countries with high gender equality have less incentive to maximize earnings, so women (and just people, in general) are more likely to allow external influences to guide their decisions, rather than just financial considerations. If one of these less gender-equal countries had the economic stability of Switzerland, I think it's quite likely that you'd see far fewer women entering STEM than currently do in Switzerland.",
+                                                                                          "author": "Aliudnomen",
+                                                                                          "created": 1621814105,
+                                                                                          "upvotes": 1,
+                                                                                          "replies": {
+                                                                                            "gz89d3e": {
+                                                                                              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz89d3e/",
+                                                                                              "text": "Once again you are leaving preferences completely out of the equation. \n\nI agree with what you said in the last paragraph because it seems reasonable that employability had a lot to do with the choice of people in those countries. That doesn't answer my question of why is it there such a gap in the first place?",
+                                                                                              "author": "Donut_Dudes",
+                                                                                              "created": 1621821853,
+                                                                                              "upvotes": 1,
+                                                                                              "replies": {
+                                                                                                "gzbkdtg": {
+                                                                                                  "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gzbkdtg/",
+                                                                                                  "text": "> Once again you are leaving preferences completely out of the equation.\n\nI've mentioned already that I believe preferences are strongly influenced by gender stereotypes. I'm not \"completely leaving them out of the equation\", but I'm acknowledging that people don't have perfect agency over their decisions.",
+                                                                                                  "author": "Aliudnomen",
+                                                                                                  "created": 1621892423,
+                                                                                                  "upvotes": 2,
+                                                                                                  "replies": {
+                                                                                                    "gzbphcy": {
+                                                                                                      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gzbphcy/",
+                                                                                                      "text": "Have a good one :)",
+                                                                                                      "author": "Donut_Dudes",
+                                                                                                      "created": 1621894903,
+                                                                                                      "upvotes": 1,
+                                                                                                      "replies": {
+                                                                                                        "gzbpk7l": {
+                                                                                                          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gzbpk7l/",
+                                                                                                          "text": "Cheers",
+                                                                                                          "author": "Aliudnomen",
+                                                                                                          "created": 1621894940,
+                                                                                                          "upvotes": 1,
+                                                                                                          "replies": {}
+                                                                                                        }
+                                                                                                      }
+                                                                                                    }
+                                                                                                  }
+                                                                                                }
+                                                                                              }
+                                                                                            }
+                                                                                          }
+                                                                                        }
+                                                                                      }
+                                                                                    }
+                                                                                  }
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gz2frj8": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2frj8/",
+          "text": "Thank you for your answer! You actually have to complete some courses specifically on AI at my uni which I'm quite excited about! And also thank you for your textbook suggestions :)",
+          "author": "aira_aria",
+          "created": 1621699891,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gz2uino": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2uino/",
+      "text": "You can study anything with minimal passion, as long as you make up for it in discipline. And honestly... passion only gets you so far. At some point you end up needing discipline anyway.",
+      "author": "Ethan-Wakefield",
+      "created": 1621707099,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gz3rjt9": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3rjt9/",
+      "text": "Yeah you can but why? Everyone is chasing it currently because it is profitable but soon it\u2019ll be glutted and salaries will drop. Not worth it. Do something more practical but that you will enjoy.",
+      "author": "writetodeath11",
+      "created": 1621724080,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gz43s8t": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz43s8t/",
+      "text": "> I am not too tech-savy.\n\nThat is not a problem at all. The subject computer science predates computers, and many computer scientists hates tech, som can hardly program, and some even hates to use a computer. \n\n> I love logic.\n\nThat is great! There are tons of popluar fields that are highly related to logic. Notably, program verification, formal method, automated reasoning, program semantics, type theory etc.\n\n> I am a girl.\n\nHere are some of the most successful computer scientists, who happens to be woman; most of their work are highly related to logic:\n\n- Catarina Coquand, the developer of agda. One of the most popular dependent type languages.\n- Alexandra Silva, one of the most notable researcher on Kleene Algebra.\n- Sofya Raskhodnikova, leading expert on sublinear algorithm.\n- Ursula Martin, a leading expert in formal method (also, as I learnt today, she is a commander of british empire)\n- Simona Ronchi Della Rocca, experts on semantics of programming language.",
+      "author": null,
+      "created": 1621730893,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gz2b3ls": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2b3ls/",
+      "text": "See Indians. There are millions literally and I seriously doubt most of them are \"passionate about it\".\n\nIn fact in today's world I would say most people are not passionate about what they study.",
+      "author": "aNu2001",
+      "created": 1621697475,
+      "upvotes": -5,
+      "replies": {
+        "gz2fh8i": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2fh8i/",
+          "text": "Thank you for your answer! I feel like my problem is that I'm not really passionate about any subject and was quite good at all of them (I did have to work for it though) so now I'm a bit lost with what I should do. But you're probably right about how not everyone is passionate about what they do, which does make me feel more confident in my choice.",
+          "author": "aira_aria",
+          "created": 1621699741,
+          "upvotes": 2,
+          "replies": {
+            "gz2xwlq": {
+              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2xwlq/",
+              "text": "I think you'll find the passion as you go.\n\nI've never met anyone who is passionate about every aspect of what they do. \n\nI think the most important thing is to pick something that you know won't make you miserable and go from there. \n\nI spent a long time agonizing because I didn't feel motivated or passionate enough about anything to justify pursing it. I had to redefine what passion meant to me from something that I feel all the time to something that is often just behind the curtain, and I'm always trying to get a glimpse of.  \n\nI'm studying physics. I find that a lot of the time doing physics feels like a job for me. But, every once in a while, I get a little glimpse of real, true beauty and passion, and that makes all the work worth it. \n\nI think that, at least for me, that's about as close as I'll ever get to being \"passionate\" about anything.",
+              "author": "function_of_time",
+              "created": 1621708841,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gz2d9bj": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2d9bj/",
+      "text": "I studied math. No one would have accused me of being good at it before I started and I definitely don't have a passion for it. Math was a stepping stone towards the thing I do love, economics.\n\nYou can study something without being particularly enthused by it but thinking about what you'd do with the degree can be helpful. What kinds of jobs will be available and would you actually enjoy them? For example, you like coding. Well, how would you feel working as a code monkey? Would you be bored?",
+      "author": "sophtine",
+      "created": 1621698593,
+      "upvotes": 1,
+      "replies": {
+        "gz2gpym": {
+          "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2gpym/",
+          "text": "Thank you for your answer! That definitely motivates me! And one reason why I want to switch to CS ist because of job opportunities (which aren't really great if you do philosophy), but then on the other hand I have ABSOLUTELY no clue what I want to work as in the future. But I'm pretty sure I'd enjoy an office job so I think CS isn't a bad fit.",
+          "author": "aira_aria",
+          "created": 1621700378,
+          "upvotes": 2,
+          "replies": {
+            "gz2ud78": {
+              "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2ud78/",
+              "text": "Like, don't spend years of your life hating what you're studying but just because it isn't your favourite thing doesn't make it a mistake. My top advice is find people working in the field and ask them about their jobs. (How do they spend their day, what coding languages they use, etc.)\n\nI, too, am a lady. Do not fear being bad at math. It is to be embraced and overcome. Ask whatever questions you need to ace the exams. \n\nStory time: I was once in a financial math class where we were calculating different kinds of annuities. I literally asked the prof why I was getting 4 months of payments but he'd put 3 months (for example). No joke, I asked about counting in a 2nd year university math course and I still feel no shame about it. Do what you need to do. Just don't make the same mistake twice.",
+              "author": "sophtine",
+              "created": 1621707022,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gz2sckz": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2sckz/",
+      "text": "Well you\u2019ll definitely have a job waiting for you. Can\u2019t exactly say that for philosophy. It really helps to be passionate. It\u2019s a very difficult degree. Being insecure about being in a male dominated field is ridiculous. It really comes down to whether or not you want to spend your life solving conceptual problems.",
+      "author": null,
+      "created": 1621706074,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gz2sul4": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2sul4/",
+      "text": "I got my first degrees in Art History before getting my degree in Computer Science. I loved learning languages, but I didn't want to study literature, so O found a way to apply the language knowledge I had. (I studied art history before the web existed so we had to read in various languages depending on what we were studying). I also love the problem-solving aspect of art history. I love computer science, and I enjoy programming, but it's only one thing I'm passionate about. I'm interested in a lot of things, and while I enjoy learning more about my current field, it's not my whole life. \n\nAs a non-traditional student, I didn't really have issues with being one of few women in my program. I was very different anyway, and I already had a family, so I wasn't looking for a social life. \n\nIt sounds like you might enjoy studying computer science, and I think you should consider it.",
+      "author": "grayhairedqueenbitch",
+      "created": 1621706315,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gz2taa6": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz2taa6/",
+      "text": "I retired last year from a technology company that provided online systems to banks. There are many jobs available to complement programming and knowledge of programming, networks, telecommunications are invaluable in this type of industry. I spent the last 20 years writing policy, business continuity plans along with liason between technical and customer service. I wasnt a programmer and learned on the job as the industry evolved. It was a great job and paid well. I loved writing, training and problem solving. PS i am a woman too!",
+      "author": "maclass",
+      "created": 1621706525,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gz30lry": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz30lry/",
+      "text": "Can someone tell me the difference between BIS (Business Information Systems) and CS?",
+      "author": "Nathan2017aeo",
+      "created": 1621710187,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gz39ilq": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz39ilq/",
+      "text": "There are tons of things to do! I for one don't like web-developing either or business software developing. Here are some areas on the computer science [wiki](https://en.m.wikipedia.org/wiki/Computer_science) (look under \"Fields\").\n\nI had the same feelings and having done a pure mathematics major as well, I pushed more to the theoretical and mathematical side of programming. I also enjoyed a bit of cryptography.\n\nBut sadly, I still had to do web-dev, software-dev, networking and so on for my degree. It makes sense why as generalized computer science are aimed that way. But there are topics in or related to logic (like [Theory of Computability](https://en.m.wikipedia.org/wiki/Computability_theory)).\n\nThere is hope though! You can do a standard computer science degree which would give a taste of everything. If you aren't so interested in all the topics, then I would suggest taking a course in something you want to do or like. Most courses either tend to lead to programming in some way, or you can just self-teach it and apply it in your own way (my wife does anthropology and uses programming to help her with statistics and visualizations).",
+      "author": "Mathemachicken4",
+      "created": 1621714796,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gz3zv15": {
+      "link": "/r/AskAcademia/comments/nik2us/can_you_study_computer_science_without_being/gz3zv15/",
+      "text": "I did a bachelor in philosophy and then did a masters in AI. I loved it. But at my uni the AI master was developed by four different departments: Philosophy, linguistics, cognitive science and computer science. I loved the courses I had about logic in language and computation theory. I would say, look at the courses that are offered and read a bit about them, most of the time the syllabusus can be found online. If you like the sound of them, go for it! Comuter science is so much more than coding :).",
+      "author": "Proinn",
+      "created": 1621728629,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

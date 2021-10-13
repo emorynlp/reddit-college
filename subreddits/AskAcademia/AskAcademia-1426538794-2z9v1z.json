@@ -1,0 +1,1176 @@
+{
+  "sid": "2z9v1z",
+  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/",
+  "title:": "Academics of reddit, what are the dirty secrets of your disciplines ?",
+  "text": "I 'll start: Computational Biologist here. Everyone talks how -omics technologies is the biggest thing to happen in science. You know what, this data is so damn noisy especially in e.g. whole blood of patients, that are not applicable everywhere, like people like to claim. The studies published is probably a very small subset of what people have tried before reaching positive results.",
+  "author": "ioannismech",
+  "created": 1426538794,
+  "updated": 1634082345,
+  "over_18": false,
+  "upvotes": 95,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "cpgzaji": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpgzaji/",
+      "text": ">The studies published is probably a very small subset of what people have tried before reaching positive results.\n\nThat's true of every area of scientific research.",
+      "author": "biocomputer",
+      "created": 1426540836,
+      "upvotes": 55,
+      "replies": {
+        "cprq27j": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cprq27j/",
+          "text": "Of course, the issue is when you have statistical results that don't control for multiple hypotheses.",
+          "author": "_Panda",
+          "created": 1427399216,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "cphg0ks": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphg0ks/",
+      "text": "While part-time faculty are working for a low wage without benefits, academic librarians are purchasing multiple e-journal subscriptions for journals they already own (tens of thousands of dollars each) because the different packages are too complicated to analyze. ",
+      "author": "Alieda",
+      "created": 1426573244,
+      "upvotes": 44,
+      "replies": {
+        "cphpc5o": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphpc5o/",
+          "text": "They're not necessarily too complicated to analyze.  We do it regularly.  Publishers, more and more, are only providing access through packages.  So if you only need a subset of journals in a package, you have to pay for all of them.  And if another package with a lot of overlap has unique journals you also need, then you're forced to pay twice for all the titles that appear in both.  Try telling faculty that you won't get them access to the journals they need because the publishers are greedy and refuse to allow a la carte leasing. ",
+          "author": "libgeek",
+          "created": 1426604799,
+          "upvotes": 17,
+          "replies": {
+            "cpi9bqx": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi9bqx/",
+              "text": "Yep. Exactly this.  Then, when one journals access is better through one publisher than another, you try and route your patrons to the better publisher.  But you then find the publisher has made backroom deals with your discovery provider to ignore your configuration and give the worst link first.  Or the publishers that specifically break the links out of your discovery service so you don't go right to the article, you go to the journals home page and the user has to search again.  ",
+              "author": "Cherveny2",
+              "created": 1426637611,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "cphmsm0": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphmsm0/",
+          "text": "That's why my library always gives me 13 options to access the same journal! I get it now!",
+          "author": null,
+          "created": 1426599734,
+          "upvotes": 16,
+          "replies": {}
+        },
+        "cpho14a": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpho14a/",
+          "text": "I actually made a tool to help our library system with this and the amount of overlap made me sad.",
+          "author": null,
+          "created": 1426602342,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "cph9vlx": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cph9vlx/",
+      "text": "All empirical fields (although I am in finance): publication bias makes lots of things that are not actually true appear to be statistically significant.\n\nMost empirical papers ultimately rely on a statistical measure for hypothesis testing (like a t-test, F-test, chi-square test, etc.) These statistical tests are generally set up so that if you find a result that supports your hypothesis that there is only a 5% or less chance that you have found this result in error (that is due to random chance.)\n\nThe problem is, you typically cannot get papers publish that find \"no results.\" All academics know that, so they don't even try to publish such papers. So know let's say that 1000 researchers independently decide to test Hypothesis A, which is actually false. 950 of the researchers will get a \"non-result\", and simply stop - they won't try to get it published. 50 researchers will, however, get a false-positive. They *will* submit for publication, and will get published. If everybody knew about the 950 other studies that found nothing, it wouldn't be a big deal since we would figure out the result wasn't really there. But since neither we nor the journals see all those failed tests (because the authors just stop working on them and never write them up for publication), it looks like a new hypothesis has been proven statistically when if fact it's just a bunch of false positives. (this may be what OP was referring too, but it affects all empirical fields, nit just biology.) ",
+      "author": null,
+      "created": 1426559310,
+      "upvotes": 82,
+      "replies": {
+        "cphm0hm": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphm0hm/",
+          "text": "Anyone interested in this, and how it affects them, should read the book [Bad Pharma](http://www.amazon.com/Bad-Pharma-Companies-Mislead-Patients/dp/0865478007)\n\nHighly recommended, and though a little hysterical in parts, absolutely true. ",
+          "author": "ChesterChesterfield",
+          "created": 1426597891,
+          "upvotes": 8,
+          "replies": {}
+        },
+        "cphbt3w": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphbt3w/",
+          "text": "Hm, what are some viable alternatives to this mess?",
+          "author": "DownvotePeas",
+          "created": 1426562860,
+          "upvotes": 3,
+          "replies": {
+            "cphc28t": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphc28t/",
+              "text": "Lots and lots of robustness checks, but even that has limitations. Would be great if there were a way to \"catalog\" failed tests so that people could see when a topic had been explored.\n\nIn the hard sciences you can normally demand that others independently replicate results, including generating new data through experiments. In the social sciences this is much more difficult because we rely on data observed from real life and you just cannot go get more data. For example, in my field of finance you may want to use stock market data to test a theory. You cannot ask others to replicate the results with different data because there is really only one stock market and you just have to live with the data you get from it.\n\nIn short, it's a very hard problem.",
+              "author": null,
+              "created": 1426563347,
+              "upvotes": 18,
+              "replies": {
+                "cphovse": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphovse/",
+                  "text": "It's only hard politically, because everyone wants to publish to get ahead so badly that they will make garbage claims to do so.",
+                  "author": "throwaway",
+                  "created": 1426603970,
+                  "upvotes": 3,
+                  "replies": {
+                    "cphyph4": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphyph4/",
+                      "text": "Well, it's a bit more subtle than that - the researchers that run the test and get statistically significant results won't know about the 995 tests that failed to find results. They will honestly believe they found something.",
+                      "author": null,
+                      "created": 1426619954,
+                      "upvotes": 3,
+                      "replies": {
+                        "cplacyp": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cplacyp/",
+                          "text": "Oh nonsense.  People know they're playing these games, they just don't see a way to stop and remain competitive.",
+                          "author": "throwaway",
+                          "created": 1426878117,
+                          "upvotes": -2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "cphj54e": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphj54e/",
+              "text": "Low impact journals and arxiv. The world needs non-blockbuster research as much as it needs the \"groundbreaking\" discoveries.",
+              "author": "happyhessian",
+              "created": 1426587475,
+              "upvotes": 10,
+              "replies": {
+                "cphnk2x": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphnk2x/",
+                  "text": "On that note for bio related stuff bioarxiv needs  more love. ",
+                  "author": "hyperblaster",
+                  "created": 1426601378,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            },
+            "cphfng3": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphfng3/",
+              "text": "Require papers to report a power analysis, show that their study was adequately powered to detect their effect, and effect sizes to show that the effect was not overestimated.\n\nDoes not solve the problem but mitigates it somewhat.",
+              "author": null,
+              "created": 1426572033,
+              "upvotes": 8,
+              "replies": {}
+            },
+            "cphj5v2": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphj5v2/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1426587580,
+              "upvotes": 3,
+              "replies": {
+                "cphmm2q": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphmm2q/",
+                  "text": "That doesn't solve the problem. Those researchers who found a negative result would love to publish it already -- they can't because the top journals are incredibly hostile places to try to publish a negative finding. You can mandate that everyone write a tech report, I guess, but no one is going to read them all, so it's highly doubtful it would make much of a difference.",
+                  "author": "deong",
+                  "created": 1426599326,
+                  "upvotes": 5,
+                  "replies": {
+                    "cphn41e": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphn41e/",
+                      "text": "[deleted]",
+                      "author": null,
+                      "created": 1426600426,
+                      "upvotes": 2,
+                      "replies": {
+                        "cphnlx7": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphnlx7/",
+                          "text": "In principle, sure. In practice, you're talking about asking people to read maybe 20 times more papers, which basically isn't going to happen.\n\nIt's also more or less impossible to enforce. What is a negative result, and what is a minor bump on the road to a positive result?\n\nPeople want to publish negative results that are in some sense \"final\". If I take your grant money, do the best I can, and it just doesn't work, then sure, at the end, I'd love to publish that paper. But that's not normally how it works. How it works is, \"I tried one thing, and that didn't work well enough, so I made a bit of a tweak here and there and then it did.\" In those cases, no one wants to publish the failure, because it's going to go into a venue no one reads, and if they do, then they scoop themselves out of the publication that did work. The positive result might have been a Nature paper before, but now it's a minor tweak on earlier already published work, which is going to kill it from the big journals.\n\nI can sympathize with the goal here, and I support mandatory open-access publications for all publicly funded work. But trying to mandate to a researcher exactly what and when has to be published isn't the solution. ",
+                          "author": "deong",
+                          "created": 1426601482,
+                          "upvotes": 2,
+                          "replies": {
+                            "cphodgb": {
+                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphodgb/",
+                              "text": "[deleted]",
+                              "author": null,
+                              "created": 1426603015,
+                              "upvotes": 0,
+                              "replies": {
+                                "cphp80p": {
+                                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphp80p/",
+                                  "text": "If you're just talking about basically a big data dump at the end of a project, I don't have any real objection there. But note that this is almost always already required. My funding agency requires a final report, and it includes summarizing all the work I did, including things that didn't pan out. \n\nWhat isn't required is spending a year going back and forth in peer review to get that same material published in a traditional journal. That's not a \"small\" amount of extra work. Obviously I can just put in on arXiv and avoid that, but again, most people aren't going to read 1000 papers from arXiv. The purpose of peer-reviewed journals is supposed to be to provide a service that lets researchers have some hope of figuring out the current state of knowledge. \"Everyone must publish everything\" doesn't give you that ability.\n\nI have no great objection to doing it anyway. As I said, I think the public deserves to have free access to the research they've paid for. I'm just saying that telling everyone to put everything on arXiv doesn't solve the publication bias problem well enough to consider it as a real solution.",
+                                  "author": "deong",
+                                  "created": 1426604589,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "cphno5k": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphno5k/",
+                          "text": "Doesn't work like that. No journal wants to publish as manuscript with primarily negative result. Best you can do is present a nice positive result and mention the negative result in passing. If you are forced to do that anyway, might as well try for the best journal that will publish you. Websites like arxiv or even personal blogs is a better way to go. No stringent peer review, but at least a cursory google search will tell you what didn't work. Of course, this is assuming you trust the authors to be honest. ",
+                          "author": "hyperblaster",
+                          "created": 1426601610,
+                          "upvotes": 1,
+                          "replies": {
+                            "cphuzz1": {
+                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphuzz1/",
+                              "text": "> No journal wants to publish as manuscript with primarily negative result.\n\nThere do seem to exist some journals that are trying to change this. Here's [a list of such journals](http://www.psychfiledrawer.org/journal_of_negative_results.php) that I found using Google. My search also turned up some journals not on this list as well as journals that are introducing \"negative results\" sections.\n",
+                              "author": "TauNowBrownCow",
+                              "created": 1426614073,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "cphvvpc": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphvvpc/",
+              "text": "A lot of fields are setting up programs to combat this.  For example, a bunch of journals in my field (Psychology and Marketing), now explicitly ask some questions, that typically get omitted.  It's a lot easier to omit information than to overtly lie.  \n\nFor example, researchers might have collected a few control variables but since they didn't predict anything, didn't report them.  OR they may have tried a similar version of the study 1 or 2 other times and not found the effect, but then got it on the 3rd try (this ups type I error).  So now, journals ask about these specific questions.\n\nIn addition, there are some open-science projects going on.  The one I'm most familiar with is the [center for open science](https://osf.io/about/) \n\nThe call now is to pre-register every study we do.  It might slow down science in the short-term, but if it means less false-positives,  it will only be  a good thing!",
+              "author": "Fibonacci35813",
+              "created": 1426615480,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "cphrosw": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphrosw/",
+              "text": "The alternative is to step away from hypothesis testing and measure effects.  \n\nOne option, you formulate a hypothesis like \"People who have characteristic A run faster than people who don't.\" which is tested with some statistical test, then you conclude that the data support your hypothesis (which people interpret to mean that your hypothesis is true).\n\nA better option, you measure how fast people with characteristic A run and compare it to people without characteristic A.  Results are something like people with A run 12.2 mph (95% confidence interval  11.0-13.4 mph), people without A run 11.3 mph (10.1-12.5 mph).\n\n",
+              "author": "ron_leflore",
+              "created": 1426608752,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "cphr5o4": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphr5o4/",
+          "text": "> These statistical tests are generally set up so that if you find a result that supports your hypothesis that there is only a 5% or less chance that you have found this result in error (that is due to random chance.)\n\nThis is an incorrect claim. The tests you described are set up so that even if there is no effect, there is a 5% chance that you will observe a false positive (observe a p-value less than 0.05). \n\nThis is entirely different than what you have stated. It is plausible to observe 50 statistically significant results and have none of them be anything but noise, as long as you test around 1000 hypotheses. In this case, all of these results (100%) have been observed in error. Not only 5%.\n\n",
+          "author": "nspencer",
+          "created": 1426607878,
+          "upvotes": 2,
+          "replies": {
+            "cphymt3": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphymt3/",
+              "text": "Yeah, I didn't word it very carefully, as I was writing for a lay audience. Note that I didn't say \"null hypothesis\" but rather finding evidence in favor of \"your hypothesis.\" What I meant by that is that if your run the test 1000 times, you will falsely reject the null 5% of the times or 50 times. I realize that I was sloppy with the wording, but most lay people don't get the reject/fail to reject a null thing, and I didn't want to write a wall of text explaining hypothesis testing. ",
+              "author": null,
+              "created": 1426619839,
+              "upvotes": 3,
+              "replies": {
+                "cpi0pqf": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi0pqf/",
+                  "text": "No worries at all! While writing my reply I realized how difficult it was to succinctly explain it. Your third paragraph is great (and conveys that you understand what is going on), but I just wanted to emphasize for others that a significance level of 0.05 does not indicate that only 5% of results found are false positives. It is surprising how many experts implicitly (or even explicitly) draw this conclusion when they determine their p-value.",
+                  "author": "nspencer",
+                  "created": 1426623105,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "cph2w3n": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cph2w3n/",
+      "text": "Computer science: A lot of papers on machine learning are just minor tweaks on existing algorithms then \"proving\" that their new technique is better by comparing them on a few datasets. This amount of empiricism and lack of rigour has sort of turned me off from ML.",
+      "author": null,
+      "created": 1426547063,
+      "upvotes": 55,
+      "replies": {
+        "cphhxr4": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphhxr4/",
+          "text": "can confirm. I am in the process of publishing a paper that uses neural networks to control a robot. I \"changed\" one aspect of the traditional approach, it was a total of like 5 lines of code different.",
+          "author": null,
+          "created": 1426581320,
+          "upvotes": 7,
+          "replies": {}
+        }
+      }
+    },
+    "cphhzb8": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphhzb8/",
+      "text": "Natural Language Processing: No matter which sub-field, 90% of everything is string matching and regular expressions. The remaining 10% are overfitting the machine learning algorithm de jour to your dev set, and publishing if performance happens to be good on the test set as well.",
+      "author": "NotAName",
+      "created": 1426581530,
+      "upvotes": 21,
+      "replies": {}
+    },
+    "cphrgez": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphrgez/",
+      "text": "Epigenetics. We are probably looking at differences at the 5% level, but the technical noise of our methods is 10%...",
+      "author": "zorglubb",
+      "created": 1426608375,
+      "upvotes": 13,
+      "replies": {}
+    },
+    "cph3ghe": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cph3ghe/",
+      "text": "Developmental Biologist.\n\nOff-target effects.",
+      "author": "tchomptchomp",
+      "created": 1426548082,
+      "upvotes": 17,
+      "replies": {
+        "cpiyii0": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpiyii0/",
+          "text": "Are you referring the the off-target effects of CRISPR?\n",
+          "author": null,
+          "created": 1426699901,
+          "upvotes": 3,
+          "replies": {
+            "cpj1ak8": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpj1ak8/",
+              "text": "Or RNAi or morpholinos or vector-based transgenes etc",
+              "author": "tchomptchomp",
+              "created": 1426704265,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "cphl0oi": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphl0oi/",
+      "text": "History: There is a stigma against almost all quantitative methods. This sufferers from a confirmation bias stemming from the only two movements that have tried to use these methods: social history and ciometrics. In both cases, the ones trying to use methods from other disciplines were not actually trained in the methods. This is used to confirm the belief that quantitative methods have no place in history, and any attempt to use them is almost categorically dismissed. I say almost because there are a few minor exceptions outside the mainstream.",
+      "author": "orangecamo",
+      "created": 1426595084,
+      "upvotes": 15,
+      "replies": {
+        "cphn8eo": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphn8eo/",
+          "text": "While I think you're right about some parts of the field, there is a whole field of economic history, and history conducted with economic methods. Cliometrics is alive and well, and there are many departments that, in my opinion, have too strong a quantitative focus. However, in my experience most departments lean strong one way or the other, and it can be easy to be caught in one perspective. ",
+          "author": "cantaloupe_penelope",
+          "created": 1426600690,
+          "upvotes": 8,
+          "replies": {
+            "cphnlpy": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphnlpy/",
+              "text": "Econ History is a major part of my research, but my research is both qual and quant based. There are enough econ historians out here, I think, that the claim above is only partly true. ",
+              "author": "strixus",
+              "created": 1426601473,
+              "upvotes": 3,
+              "replies": {
+                "cphnwub": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphnwub/",
+                  "text": "Quant is a big part of what I do as well, and have received a lot of push back because of it. It may be that other departments are more accepting of these things, and I just haven't been exposed to them. ",
+                  "author": "orangecamo",
+                  "created": 1426602101,
+                  "upvotes": 1,
+                  "replies": {
+                    "cpht837": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpht837/",
+                      "text": "My adviser is good about making me do a good 50/50 split in my work between quant and qual, because he knows if left to my own devices, I'd churn out a statistical analysis as my dissertation. But I honestly think I'm growing a lot more as an academic and researcher by being forced to do the blend of the two approaches. It is also really making my argument a lot stronger. I really think quant practices should be taught to historians, so they have the methods, if they need them.",
+                      "author": "strixus",
+                      "created": 1426611229,
+                      "upvotes": 2,
+                      "replies": {
+                        "cpi4bau": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi4bau/",
+                          "text": "I have had a similar experience. Digging into the implications for the individuals is useful and brings human meaning to the statistical results. I guess I just have had a few bad situations where I was dismissed simply because I used quantitative methods. If you don't mind the strange internet person asking, which school are you at?",
+                          "author": "orangecamo",
+                          "created": 1426628739,
+                          "upvotes": 1,
+                          "replies": {
+                            "cpi8biq": {
+                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi8biq/",
+                              "text": "Not a problem - we are all strange internet people on the internet together. I'm at /r/GAState (hehe, yes, we have a sub for the unv.). ",
+                              "author": "strixus",
+                              "created": 1426635765,
+                              "upvotes": 2,
+                              "replies": {
+                                "cpij1t4": {
+                                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpij1t4/",
+                                  "text": "Cool. I am at FSU, so not too far away. \n\n",
+                                  "author": "orangecamo",
+                                  "created": 1426657561,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "cpimw3f": {
+                                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpimw3f/",
+                                      "text": "Kickass, always glad to know there are more of us hybrid folks out there.",
+                                      "author": "strixus",
+                                      "created": 1426674236,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "cphnv3x": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphnv3x/",
+              "text": "Perhaps I am guilty of my own confirmation bias, and would be interested to know where there is a strong emphasis on quantitative history (especially because that is what I actually do). As far as I am able to gather, there is a serious disconnect between the history departments and economic historians. Economic historians (usually in economic departments where they landed after being chased out of history departments) recognize the problems in early cliometrics and have learned from it, while history departments' take away seems to have been that history cannot be quantified. ",
+              "author": "orangecamo",
+              "created": 1426602004,
+              "upvotes": 3,
+              "replies": {
+                "cphsi6n": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphsi6n/",
+                  "text": "You mean in which departments? I'm not terribly good at American universities, and I tend to know individuals better than the departments, but I think that Cambridge and Utrecht both have strong economic history groups in their history departments. Several places have their own economic history departments; the biggest I believe are at Lund University in Sweden and the LSE, but there are many. Chicago and Berkeley also have strong economic historians. Sorry for the rushed answer, it's a busy night. ",
+                  "author": "cantaloupe_penelope",
+                  "created": 1426610076,
+                  "upvotes": 1,
+                  "replies": {
+                    "cpi4gvc": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi4gvc/",
+                      "text": "Perhaps it is just a weird American thing. Slavery can still be a hot topic here. When Time on the Cross came out, there were fist fights at  one of the major conferences over it. If cliometrics had been introduced through another topic, it probably would have received a milder response. Now I want to do a study on attitudes towards quantitative methods in history departments from different countries. ",
+                      "author": "orangecamo",
+                      "created": 1426628991,
+                      "upvotes": 1,
+                      "replies": {
+                        "cpi5m4m": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi5m4m/",
+                          "text": "Time on the cross is a bit loaded, but I think it's loadedness is really a bit of what brought a lot of attention to clio in the first place. Certainly no one (outside of certain groups of economic historians who get really offended at the idea that railroads didn't contribute that much to economic development) gets so worked up at Fogel' railroad book, and that relied on clio before time on the cross. Qual and quant are different skill sets though, and it is very difficult to be good in both. But I don't think it's an American thing. Many of the best economic historians, who use very innovative approaches, are American. I really think it tends to be different more on the micro / institutional level. In the country where I work there is a huge span in the way that different economic history departments approach the field, from heavily quantitative to almost entirely qualitative. ",
+                          "author": "cantaloupe_penelope",
+                          "created": 1426630925,
+                          "upvotes": 3,
+                          "replies": {}
+                        },
+                        "cpi81w2": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi81w2/",
+                          "text": "(sorry, reading over my previous reply it felt a little combative, which is not my intent at all. It's been a long week with no weekend. And you are certainly right that most economic historians tend to hang out in the economics departments rather than the history. I haven't been in a history department since I was an undergrad, so I don't really know how it feels there. Do you ever go to econ history conferences? Even SSHA has a lot of quantitative history.) ",
+                          "author": "cantaloupe_penelope",
+                          "created": 1426635266,
+                          "upvotes": 3,
+                          "replies": {
+                            "cpijcp4": {
+                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpijcp4/",
+                              "text": "No worries. I have had a similar week, so I know how you feel. The SSHA was just suggested to me by a geography professor. Up until now I had never heard of it. It actually seems like I would be right at home there. I have never been to the economics department here, and have never met one at our department. There doesn't seem to be a lot of cross pollination going on.",
+                              "author": "orangecamo",
+                              "created": 1426658515,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "cphllrr": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphllrr/",
+      "text": "Composition studies.  Our field matters pretty much none because the people who teach the majority of composition classes are graduate students and fresh adjuncts who have zero incentive to read the huge body of work about what works in teaching composition.  This is on top of the standard discipline line that no one agrees on what works, so I'm not sure it would make a difference if they did.",
+      "author": "grahamiam",
+      "created": 1426596802,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "cphgdex": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphgdex/",
+      "text": "English literature.\n\nLiterally, I just make everything up.",
+      "author": "s-u-i-p",
+      "created": 1426574518,
+      "upvotes": 38,
+      "replies": {
+        "cphktb0": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphktb0/",
+          "text": "I have to ask, was this an intentional or accidental reference to [XKCD](http://xkcd.com/451/)?",
+          "author": "diazona",
+          "created": 1426594427,
+          "upvotes": 18,
+          "replies": {
+            "cphktfc": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphktfc/",
+              "text": "[Image](http://imgs.xkcd.com/comics/impostor.png)\n\n**Title:** Impostor\n\n**Title-text:** If you think this is too hard on literary criticism, read the Wikipedia article on deconstruction.\n\n[Comic Explanation](http://www.explainxkcd.com/wiki/index.php/451#Explanation)\n\n**Stats:** This comic has been referenced 80 times, representing 0.1427% of referenced xkcds.\n\n---\n^[xkcd.com](http://www.xkcd.com) ^| ^[xkcd\u00a0sub](http://www.reddit.com/r/xkcd/) ^| ^[Problems/Bugs?](http://www.reddit.com/r/xkcd_transcriber/) ^| ^[Statistics](http://xkcdref.info/statistics/) ^| ^[Stop\u00a0Replying](http://reddit.com/message/compose/?to=xkcd_transcriber&subject=ignore%20me&message=ignore%20me) ^| ^[Delete](http://reddit.com/message/compose/?to=xkcd_transcriber&subject=delete&message=delete%20t1_cphktfc)",
+              "author": "xkcd_transcriber",
+              "created": 1426594438,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "cphl8ug": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphl8ug/",
+              "text": "Lol, completely accidental.",
+              "author": "s-u-i-p",
+              "created": 1426595765,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "cphzmo8": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphzmo8/",
+          "text": "I know the discussion here is in good spirits, but I can't for the life of me comprehend how anyone could ever come away with such an idea about literary studies. \n\nI mean, it isn't my field (I'm in the History of Art), but humanities scholarship circulates pretty freely between literatures, philosophy, histories, etc. so a lot of reading overlaps. Maybe I just don't get it (this mindset, I mean). It's practically impossible for me to see how people think \"literary studies is just making things up\" or just throwing words around, because (from my perspective) the theoretical work (good theoretical work, obviously) is as rigorous as can be; the archival work is as precise as can be, and just...everything is so logical, so systematic, so incremental. \n\nI mean, read Ricoeur, for example. His work on meaning, metaphor, narrative, hermeneutics...for me he's one of the most systematic and precise thinkers in the history of human thought. There could be countless other examples, but my point is...I just really do not get how it's possible for someone to think \"this is made up, but *that* (perhaps because it contains numbers and graphs?) is not made up.\"\n\nI won't even touch on deconstruction because the lay public pretty much just doesn't get it; they got acquainted with it through highly warped, oversimplified media misrepresentation, so yeah. Deconstruction at its best is perhaps the most powerful critical approach of the 20th century. And really good scholarship (some of Derrida's finer essays, Martin Hagglund's work, etc.) shows that. \n\nI know a lot of this has to do with lay confusion over \"objectivity\" and \"subjectivity\"...differences that draw from a long, confused history involving observation and interpretation, positivism, etc. I know that the 20th-century fascination with empiricism and consequent denigration of literary studies is only a very recent fad. Still, it's incomprehensible to me. It makes me sad, too, because the people who think that way...to imagine how much they are missing out on...wow.",
+          "author": "Academic_Visitor",
+          "created": 1426621402,
+          "upvotes": 15,
+          "replies": {
+            "cpi5bno": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi5bno/",
+              "text": "I can't speak for literature at a higher-education level, so I'm perfectly happy to give you the benefit of the doubt there, but I suspect people are drawing on A-level (high school) english literature classes. The sort of \"Guess-what-single-inflexible-interpretation-that-is-absolutely-codified-into-the-book-and-if-you-don't-get-it-you're-a-numbskull-is-on-the-teacher's-mind\" game they like to play could probably convince anyone studying at that level that there's nothing significant to it. When we're talking about reading texts and deciphering meaning from them, I think there really is a hell of a lot of freedom. But I guess literature as a degree would be a different kettle of fish?",
+              "author": "Mynotoar",
+              "created": 1426630426,
+              "upvotes": 1,
+              "replies": {
+                "cpi5sjm": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi5sjm/",
+                  "text": "That's exactly the problem. Most people rely on absurdly low-level encounters (of the high-school variety) and then extrapolate wildly. It's like taking high-school physics and then making claims about what graduate researchers do. It makes me believe the problem is at a more basic level--perhaps something in the way that American schools (or most of them anyway) teach literatures to kids. I mean, of course it'll be pretty formalist at that level because you need to learn the basics of reading and interpreting a text beyond the surface, but if it's giving people such a misguided idea after the fact...maybe something should be fixed there. \n\nYes, you read texts and decipher meaning from them, but no--there is not a \"lot of freedom\" in the \"anything goes\" sense. Meaning doesn't emerge within a vacuum; it emerges from within specific discursive structures. So it's really not the case that you can read this post and interpret it as an allegory on the Middle East crisis--and if you do, there *will* be a specific constellation of discourses that might, plausibly, make  such an odd reading sensible.\n\nIt's this crucial condition that seems to get lost when people say you can just read a text and \"make meaning\" from it. ",
+                  "author": "Academic_Visitor",
+                  "created": 1426631233,
+                  "upvotes": 4,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "cphp3x3": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphp3x3/",
+          "text": "Yes, but can you make up something that fits into the latest job market trends?",
+          "author": "0149",
+          "created": 1426604382,
+          "upvotes": 2,
+          "replies": {
+            "cphq0h4": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphq0h4/",
+              "text": "That's what we're all working night and day to figure out.",
+              "author": "s-u-i-p",
+              "created": 1426605975,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "cphihro": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphihro/",
+          "text": "I'm an English student and this is what grinds me about Literature and has made me focus on Linguistics instead. I like literature but interpretation is so subjective and I want to do something more scientific. ",
+          "author": null,
+          "created": 1426584095,
+          "upvotes": 1,
+          "replies": {
+            "cphj2i5": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphj2i5/",
+              "text": "Here's the kicker: *everything is all made up*.\n\nMore seriously: literature is subjective, sure, but that's what's fun (and extraordinarily useful) about it. Life is subjective, memory is subjective, therefore literature is. Working within the miasma of subjectivity tells us a lot about the human experience \u2013 things that the sciences can never hope to tell us.\n\nLinguistics is fun, too, though.",
+              "author": "s-u-i-p",
+              "created": 1426587108,
+              "upvotes": 16,
+              "replies": {
+                "cphje23": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphje23/",
+                  "text": "Yes, no offence meant to you or your subject. Literary criticism just doesn't suit me. I got off on the wrong foot with it as an undergraduate, when a PhD student gave me a bad grade for not sharing her analysis. \n\nI'm into applied linguistics, where science meets human behaviour. Not too keen on the formal part. ",
+                  "author": null,
+                  "created": 1426588704,
+                  "upvotes": 5,
+                  "replies": {
+                    "cphjgji": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphjgji/",
+                      "text": "None taken, I assure you. I probably would have gone for applied linguistics if English didn't take me, so I completely understand your point of view. :)",
+                      "author": "s-u-i-p",
+                      "created": 1426589033,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "cphppdl": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphppdl/",
+      "text": "Every field but education:  They all pretend that they're experts in how to teach their field of study, despite never having taken a single course or read anything on pedagogy, assessment of learning or anything education related.  And they'll scream their heads off if anyone tries to tell them differently.\n\nBut if a biologist insisted they were experts in quantitative analysis without ever studied mathematics or statistics, people would call them an idiot.",
+      "author": "libgeek",
+      "created": 1426605441,
+      "upvotes": 18,
+      "replies": {
+        "cphpu88": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphpu88/",
+          "text": "People in. Education pretend they are experts in the subject instead :)",
+          "author": "AutoBiological",
+          "created": 1426605671,
+          "upvotes": 23,
+          "replies": {}
+        },
+        "cphrpz6": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphrpz6/",
+          "text": "Academics would probably take education departments more seriously if they were focused on the development of teaching as a performance skill, e.g. like music conservatories. Education departments, like other departments, are full of research professors who suck at lecturing and much of the curriculum is garbage.",
+          "author": null,
+          "created": 1426608808,
+          "upvotes": 3,
+          "replies": {
+            "cphuq7p": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphuq7p/",
+              "text": "That's definitely not a broad brush in your hand",
+              "author": "groggydog",
+              "created": 1426613645,
+              "upvotes": 9,
+              "replies": {
+                "cpi3996": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi3996/",
+                  "text": "Identifying general trends is useful.",
+                  "author": null,
+                  "created": 1426627027,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "cpha3qy": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpha3qy/",
+      "text": "Programming languages (and more broadly computer science)\n\nDespite what we typically teach undergrads, complexity results don't translate all that easily into conclusions of intractability. In quite a few domains, \"hand it off to a SAT/ILP/SMT/whatever solver\" is considered an acceptable strategy and actually produces (commercially) deployable results. Type inference for ML programs is EXPTIME-complete (and actually printing the inferred type is even worse), but we have still managed to compile large programs without having the sun engulf the planet.\n\nEven fancy, new static analysis techniques tend to collapse when applied to programming languages people actually use. Nobody knows what to do with `eval`, but JavaScript has it whether we like it or not.\n\nSome promote dependent types as the way forward as they allow much more thorough (machine-checked) specification of how some code should behave. However, implementing an underclassman-level data structures homework assignment in this \"correct by construction\" manner is considered a significant research result.\n\nThere's a lot of concern about \"programming in the large,\" but nobody really has the wherewithal to properly study how a range of different language features affect the productivity of professional programmers working on large-scale projects. There have been a fair number of empirical studies, but practical concerns generally limit this to observing students attempting small, artificial tasks. I suspect this is the hardest problem in PL research.\n\nHaskell programs have effects (ok, not that much of a secret, but still something many people are loath to admit).",
+      "author": "east_lisp_junk",
+      "created": 1426559692,
+      "upvotes": 12,
+      "replies": {}
+    },
+    "cpht6x5": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpht6x5/",
+      "text": "Philosophy - A whole lot of it is just quibbling over the meanings of words \"Knowledge\" \"Truth\" \"Meaning\" \"Justice\".  There is real stuff, but 90% of it is \"word policing\".",
+      "author": "Remansilent",
+      "created": 1426611179,
+      "upvotes": 20,
+      "replies": {}
+    },
+    "cph964i": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cph964i/",
+      "text": "Sensory science, putting up \"latest\" statistical or multivariate approaches especially for time series data that's currently trending in the field. This is done to make bad data look good. Sadly this approach works everytime >_>",
+      "author": "jkevink",
+      "created": 1426558109,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "cphh4ei": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphh4ei/",
+      "text": "Journalism - everything we study will be completely out of date and useless by the time we publish. ",
+      "author": "wishfuldancer",
+      "created": 1426577512,
+      "upvotes": 15,
+      "replies": {
+        "cphp4i0": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphp4i0/",
+          "text": "Maybe.\n\nI'm a journalism grad student, and while I may not be able to publish what I am currently working on, it's a pretty small sub-set of journalism/mass comm that doesn't have much research yet. There is still crevices that need to be explored.",
+          "author": null,
+          "created": 1426604413,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "cpgzkrf": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpgzkrf/",
+      "text": "We purposely \"fudge\" the numbers when doing C14 dating with an AMS system. \n\nIt's perfectly normal, just confused me when I learned it. ",
+      "author": "Carbonkid",
+      "created": 1426541292,
+      "upvotes": 17,
+      "replies": {
+        "cph5gjh": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cph5gjh/",
+          "text": "Oh god, don't let the young earth creationists find this comment...",
+          "author": "Yeti_Poet",
+          "created": 1426551669,
+          "upvotes": 37,
+          "replies": {
+            "cphex0x": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphex0x/",
+              "text": "My old boss runs into them a lot. They actually cite one of his papers for anomalous C14 ages from diamonds. ",
+              "author": "Carbonkid",
+              "created": 1426569825,
+              "upvotes": 9,
+              "replies": {}
+            }
+          }
+        },
+        "cph5zak": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cph5zak/",
+          "text": "What exactly do you mean by this?",
+          "author": "wazoheat",
+          "created": 1426552588,
+          "upvotes": 24,
+          "replies": {
+            "cphc23z": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphc23z/",
+              "text": "Yea, what do you mean be this? I am curious too",
+              "author": "dbzgtfan4ever",
+              "created": 1426563339,
+              "upvotes": 6,
+              "replies": {
+                "cphef9i": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphef9i/",
+                  "text": "I didn't think this would cause a huge stir....I don't think it's that big of a deal.\n\nIt's a program developed by Lawrence Livermore Labs...quite literally called Fudger. It's used for data analysis.\n\nWhen samples are measured for radiocarbon dating using AMS (accelerator mass spectrometry) you directly measure the ratio of C12, C13, & C14. This is different from Libby's way of counting using the beta emissions. Now measuring the carbon ratio is something, but quite literally means nothing without some sort of context (i.e. a standard). This standard will depend on the lab, but the two I'm used to is OX-I and OX-II (oxalic acid, harvest from beet sugar back in the good old days). These standards are used to tune the AMS for a specific sample run and for data analysis. We know the carbon isotopic ratio of OX-I and OX-II...so we normalize \"or fudge\" every data point collected to the ratio of OX-I or -II. \n\nOnce the data analysis is complete, the software spits out a ratio for the sample in question, that ratio is plugged into a equation, background corrected, internal/external error calculated, etc etc.. and out comes a FmC value (fraction modern carbon) and an age (radiocarbon years). This age needs to be calibrated using OxCal to get a calibrated age. \n\nKind of seems...anti-climatic...\n\nedit: Alright...will discourage the use of \"fudging\" the numbers when performing data anaylsis...we *normalize*",
+                  "author": "Carbonkid",
+                  "created": 1426568544,
+                  "upvotes": 16,
+                  "replies": {
+                    "cphgus1": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphgus1/",
+                      "text": "I don't think use of the word 'fudge' is particularly useful. It's one of those in jokes that happens in labs all the time, but seems incongruous, or takes on a meaning which was not intended when taken out of that context.\n\nAll that is actually happening is normalising to a standard, which has to be done for *any* analytical testing.",
+                      "author": "OrbitalPete",
+                      "created": 1426576397,
+                      "upvotes": 25,
+                      "replies": {
+                        "cphkj5h": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphkj5h/",
+                          "text": "Fudge is not the right word. Every isotope geochemist normalizes data to a standard because these machines have excellent precision within runs but terrible accuracy. Therefore in order to get usable data they must all be corrected to the same well known standard. If you didn't normalize to the standard then it would be impossible to compare the results you get with anyone else or values from literature. The standard in question here is used by many AMS labs around the world for 14C and has been rigorously tested by intercomparisons. Also, AMS is infinitely more complex than IRMS in that a lot of tweaks can be made in terms of machine tuning and ion source behavior (ion sorcery), therefore, if you didn't normalize the true ratio as you call it would actually just be subject to the conditions of machine during the run. By the way, that's a nice little AMS system - 500kV? Try to make it to AMS14 in Ottawa in a few years!",
+                          "author": "GeoHerod",
+                          "created": 1426593445,
+                          "upvotes": 5,
+                          "replies": {
+                            "cphncyz": {
+                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphncyz/",
+                              "text": "Yeah I missed out on the last AMS conference since I left the lab to pursue grad school at UofA in Edmonton.... But I'll see.",
+                              "author": "Carbonkid",
+                              "created": 1426600964,
+                              "upvotes": 1,
+                              "replies": {
+                                "cpho9yu": {
+                                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpho9yu/",
+                                  "text": "Nice! Well, if you need domestic prices uOttawa has the only AMS in Canada. ",
+                                  "author": "GeoHerod",
+                                  "created": 1426602825,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "cphq88t": {
+                                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphq88t/",
+                                      "text": "Yeah I know, but a lot of folks i know send stuff down to the Keck ( at least from UofA and one from Montreal). Hell they stole me to prep the UofA in radiocarbon prep. \n\nI mostly desk with collagen extractions. ",
+                                      "author": "Carbonkid",
+                                      "created": 1426606340,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "cphqrmn": {
+                                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphqrmn/",
+                                          "text": "Interesting. We are just building a client base now. It would be great if those researchers would consider out lab. You should look into our graphitization system. It is a completely new design and is extremely efficient/automated.",
+                                          "author": "GeoHerod",
+                                          "created": 1426607236,
+                                          "upvotes": 1,
+                                          "replies": {
+                                            "cphuhpg": {
+                                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphuhpg/",
+                                              "text": "Automated system? Nice! I'm guessing from ionplus? Regardless, how are the memory effects? How good is the vacuum? Using a dry ice slush as a water trap? Or magnesium perchlorate? How many samples can you do in a day? I spent a good portion of my undergrad and 3 years post behind a graphitization line processing samples and repairing pumps...oh how I wish it was automated.\n\nIdk... I'd feel kind of bad stealing work from my old lab (they're like family). A lot of researchers send stuff down due to our pretty good track record with standards and blanks, fast turnover and pretty low prices. \n\nIt'd be nice to see your set up... Does uOttawa have a Micadas system? \n",
+                                              "author": "Carbonkid",
+                                              "created": 1426613272,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "cphuuxt": {
+                                                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphuuxt/",
+                                                  "text": "We actually designed and built the graphitization system ourselves. I am not directly involved with the 14C lab. I do radiohalides like 129I and 36Cl. \n\nThe line can do about 10 samples at a time, which doesn't take long. The website has a nice picture: http://www.ams.uottawa.ca/Radiocarbon/welcome.html and the sample processing page has the details about water trapping an vacuum since the temperature and vacuum of each sample are continuously monitored. The automation also makes it possible to avoid human error from certain steps as well. So far the AMS data for 14C has been top notch. I would say that getting the material to CO2 is the most labour intensive part of the process.\n\nOur AMS system is a brand new 3MV HVE since we are doing cosmogenics, 129I, actinides, 14C as well as setting up an experimental AMS line as well to play with isobar separation. ",
+                                                  "author": "GeoHerod",
+                                                  "created": 1426613851,
+                                                  "upvotes": 1,
+                                                  "replies": {
+                                                    "cphvhfx": {
+                                                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphvhfx/",
+                                                      "text": "Whoa, you guys built that? Looks sweet...but I'm actually having a little difficulty understanding how your getting the water out. I can decearn any connection from the reaction tube to the water trap...unless its happening somewhere where the photo isn't showing. \n\nNone the less, nice lab and nice set-up!",
+                                                      "author": "Carbonkid",
+                                                      "created": 1426614840,
+                                                      "upvotes": 1,
+                                                      "replies": {
+                                                        "cphvrsh": {
+                                                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphvrsh/",
+                                                          "text": "Hmmm. I'm not sure where the connection is specifically, but the blue beer coolees (that's actually what they are) are immersed in the coolant. \n\nIt took like 4 years to design and build, but now it is operating at full capacity.\n\nIf you guys have money we have sold a few to other labs around Canada. Or if you have lots of samples and your set up is down at some point you should come for a visit. We encourage grad students from other universities come themselves to prep samples at a reduced rate. What department are you in at UofA?",
+                                                          "author": "GeoHerod",
+                                                          "created": 1426615302,
+                                                          "upvotes": 1,
+                                                          "replies": {
+                                                            "cphwhet": {
+                                                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphwhet/",
+                                                              "text": "That would be nice... I love seeing other labs. I'm in the earth and atmospheric sci dept.\n\nI actually have a trip planned to visit the Keck to process 90 odd samples... But I'll bring up ARC to my advisors and sample submitters. ",
+                                                              "author": "Carbonkid",
+                                                              "created": 1426616441,
+                                                              "upvotes": 1,
+                                                              "replies": {
+                                                                "cphwt1b": {
+                                                                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphwt1b/",
+                                                                  "text": "Nice. We are in the Earth Sciences department as well. \n\nWow!! That is a lot of samples. For that many plus if you came there would almost certainly be a discount.",
+                                                                  "author": "GeoHerod",
+                                                                  "created": 1426616954,
+                                                                  "upvotes": 1,
+                                                                  "replies": {
+                                                                    "cphxu1z": {
+                                                                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphxu1z/",
+                                                                      "text": "I'm certain I would! I think by sending me to the Keck and doing the prep here (@ UofA) my adviser saves something around 6-8K in general. Only paying for machine time.\n\nIt's also pretty quick work...I can graphitize (well used to...it's been 6 months) 36 samples a day (from 8AM to 5PM). \n\nIt doesn't hurt that home is orange county/San Diego...these sample prep trips are a nice way to go home on the lab's dime. \n\nWell enough about our labs. I notice you're studying geology? What specifically about 129I and 36Cl? Dating some rocks? Like erratics? \n\nI'm personally working on 87Sr/86Sr to determine  mega fauna migration during the late Pleistocene.",
+                                                                      "author": "Carbonkid",
+                                                                      "created": 1426618572,
+                                                                      "upvotes": 1,
+                                                                      "replies": {
+                                                                        "cpi0pig": {
+                                                                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi0pig/",
+                                                                          "text": "You're right! That is a nice way to visit home on the labs dime. Sounds like you get a great deal too. \n\nMy work is a broad look at 129I geochemistry and using it as a tracer/timer in surface water, groundwater, the vadose zone, and a dating tool of groundwater at a proposed deep geologic repository for radioactive waste. We were going to play with 36Cl a bit, but its kind of a hassle. Purdue is the only place to analyze it these days.\n\nYour project sounds pretty cool. You working up in the Yukon/NWT? I have done some work in Beringia and around Dawson. The Yukon paleo survey has soooo many bones just lying around.",
+                                                                          "author": "GeoHerod",
+                                                                          "created": 1426623097,
+                                                                          "upvotes": 1,
+                                                                          "replies": {
+                                                                            "cpiajag": {
+                                                                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpiajag/",
+                                                                              "text": "I actually ran into my co-adviser (he gets most of the contract work) before I left the lab today and mentioned that the Ottawa AMS was up. He said he'd look into it.\n\nYeah I will be working Beringia, I'll be Dawson city and Old Crow this summer. I'll be going through permafrost melt out areas and find me some bones. I actually know the guy (Grant Z.) who manages the Yukon Paleo collection. He frequently sends samples down to the Keck...hell he recommended me to my adviser when he got wind I was looking into grad school. I've never seen the collection, but I'll be there getting some caribou mandibles and teeth. \n\nDoes you work bring you to the Yukon? \nYou project sounds neat...a bit over my head, but neat. How is 36Cl a hassle? Hard to isolate? I imagine it get isolated in gaseous form...so a bit...toxic. ",
+                                                                              "author": "Carbonkid",
+                                                                              "created": 1426639778,
+                                                                              "upvotes": 1,
+                                                                              "replies": {
+                                                                                "cpies5e": {
+                                                                                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpies5e/",
+                                                                                  "text": "You're lucky. I miss field work! Dawson is a terrific place. You should try and stay with Dieter at the hostel across the river, do the sourtoe and definitely check out Diamond Tooth Gertie's casino. \n\nIf you get a chance on your way to Dawson stop in at the collection and have a look around. It's pretty amazing. The archaeological collection is great too. I've met Grant on my way through a few times. It's a small world, particularly amongst people working in the Yukon!\n\nI was working a on a few watersheds throughout the Yukon and up near Fort McPherson for a while looking at geochemical cycling and storage of 129I. We have a few people doing work in Old Crow though as well. \n\nThe reason 36Cl is a hassle is that not many labs can analyze it due the 36S isobar. The sample prep is pretty easy (precipitate as AgCl), but you need a very large AMS with a gas filled magnet to drop the isobaric interference. We are working on doing it with a 3MV, but aren't there yet. Right now only Purdue can run 36Cl easily in North America. ",
+                                                                                  "author": "GeoHerod",
+                                                                                  "created": 1426647511,
+                                                                                  "upvotes": 1,
+                                                                                  "replies": {}
+                                                                                }
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "cphfyin": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphfyin/",
+                      "text": "I don't understand most of what you just said but is it really \"fudging\" or just \"normalizing\"?  In my opinion, fudging is when you do something illegitimate to your data while normalizing is a legitimate and often necessary adjustment.",
+                      "author": "biocomputer",
+                      "created": 1426573049,
+                      "upvotes": 10,
+                      "replies": {
+                        "cphg3hc": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphg3hc/",
+                          "text": "The closest word would be normalizing. We call it \"fudging\" the results because \n\n* the software is called fudger\n\n* we are altering the true ratio - which can be viewed in someway as changing the number...\n\nbut in the sense that it's something we make up...no.",
+                          "author": "Carbonkid",
+                          "created": 1426573527,
+                          "upvotes": 4,
+                          "replies": {
+                            "cphp7qo": {
+                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphp7qo/",
+                              "text": "If I were in your field I would be getting very active in trying to move away from terminology like that. It does nothing to help science communication when things like this get found by people who take it literally. This is exactly the kind of thing that can lead to people having low confidence in the scientific process, simply through misunderstanding in-jokes or slang.",
+                              "author": "OrbitalPete",
+                              "created": 1426604575,
+                              "upvotes": 3,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "cphenwr": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphenwr/",
+                      "text": "Don't worry, that was fascinating ",
+                      "author": "myfrenchisterrible",
+                      "created": 1426569154,
+                      "upvotes": 4,
+                      "replies": {
+                        "cpheu34": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpheu34/",
+                          "text": "Thanks...If you guys want a little article to read...or a photo of the AMS system [Here's one](http://news.uci.edu/features/time-travelers/).\n\nI'm actually the young guy in the photo. ",
+                          "author": "Carbonkid",
+                          "created": 1426569603,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "cph9q31": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cph9q31/",
+          "text": "I'd be interested to know what you mean by this. [Archaeologist who uses radiocarbon dating regularly.]",
+          "author": "deaconblues99",
+          "created": 1426559050,
+          "upvotes": 8,
+          "replies": {
+            "cphbk6h": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphbk6h/",
+              "text": "I am really hoping he means 'calibrating'.",
+              "author": "WhovianMoak",
+              "created": 1426562381,
+              "upvotes": 4,
+              "replies": {
+                "cphbvzq": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphbvzq/",
+                  "text": "Yeah I assume he/she means the conversion from radiocarbon years to calendar years, but I agree the way they put it sounds terrible. ",
+                  "author": "Archaic_Z",
+                  "created": 1426563010,
+                  "upvotes": 5,
+                  "replies": {
+                    "cphcwr1": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphcwr1/",
+                      "text": "We scientists need to be careful about the language we use to describe stuff like this. Calling a statistical method a \"trick\"  is basically what caused the climate gate mess. ",
+                      "author": "GuyNBlack",
+                      "created": 1426565060,
+                      "upvotes": 14,
+                      "replies": {
+                        "cpho8h2": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpho8h2/",
+                          "text": "Source?",
+                          "author": "shaunsanders",
+                          "created": 1426602743,
+                          "upvotes": 1,
+                          "replies": {
+                            "cphskoq": {
+                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphskoq/",
+                              "text": "Well I or anyone reading/watching news coverage at the time could be a source that a major focus of the news coverage tended to be on the use of the word \"trick\" in the stolen  emails,  which referred to mathematical and statistical methods that had been checked by peer review and later double checked by the various educational institutions involved when the researchers were exonerated of any wrong doing. \n \nHere is a news article that backs this up in case you were living under a rock during the whole thing: http://www.theguardian.com/environment/2010/feb/09/climategate-bogus-sceptics-lies\n",
+                              "author": "GuyNBlack",
+                              "created": 1426610190,
+                              "upvotes": 1,
+                              "replies": {
+                                "cphuw70": {
+                                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphuw70/",
+                                  "text": "Law school is pretty much living under a rock, so I guess I missed the \"trick\" drama, though I was aware of the drama itself. ",
+                                  "author": "shaunsanders",
+                                  "created": 1426613909,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "cphvf62": {
+                                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphvf62/",
+                                      "text": "Source? \n\nSee how dickish this comes off? Next time try actually asking a specific question if you aren't sure about something. I wasn't even sure what you wanted a source on.",
+                                      "author": "GuyNBlack",
+                                      "created": 1426614737,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "cpi0edv": {
+                                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi0edv/",
+                                          "text": "...lolwut? What is your problem and why are you coming off so defensive?\n\nYour original post was interesting to me. I hadn't ever heard about someone referring to a statistical method as a \"trick\" as being the powder keg that caused the climate gate mess.\n\n\"Source?\" doesn't mean I called you a liar, or questioned your in anyway... it's a harmless request for more information about something you know. If it causes your jimmies to get in a twist, then you are free to not provide a source, ignore the request, tell me to google it myself, etc.\n\nBut to provide an answer and be helpful *while* being a jerk... this is new lol.\n\n>Next time try actually asking a specific question if you aren't sure about something. I wasn't even sure what you wanted a source on.\n\nFirst, you obviously understood my request... as you provided the exact answer I was looking for. Second, my \"source\" request was in response to your sentence post with no more than 30 words in it. If ever there is a time when nothing more than \"source\" is sufficient enough to communicate, \"can you link me to something that supports what you just said,\" this would be it.\n\nRelax. <3",
+                                          "author": "shaunsanders",
+                                          "created": 1426622623,
+                                          "upvotes": 1,
+                                          "replies": {
+                                            "cpig789": {
+                                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpig789/",
+                                              "text": "I'm fine, I just think the one sentence \"Source?\" reply is just played, lazy and douchey. So I'm calling it out whenever I have to deal with it. It is like going to a journal club and having everybody bitch about the statistics in the paper rather then saying something meaningful about the paper. \n\nIf you were actually interested in climate gate you could have checked the wikipedia article on climategate, hit clt+F typed \"trick\" and look at the 1st citation that came afterward (which is what I did to give you your source). You could have even taken the time to type \"This is interesting to me. I hadn't ever heard about someone referring to a statistical method as a \"trick\" as being the powder keg that caused the climate gate mess. Do you have a source?\" and gotten a completely different response with the same information.\n\nAnd I actually didn't understand your request, I thought you were a climate change denier who was going to claim that there was actually some sort of misconduct found in \"climate gate.\" I originally was going to respond to that but I figured the guardian article would get you riled up and then a climatologist (which is not my field) would come along and set you straight. Sorry but my tone was just a response to yours.",
+                                              "author": "GuyNBlack",
+                                              "created": 1426650338,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "cpigc8v": {
+                                                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpigc8v/",
+                                                  "text": "Your life must be sad and empty if you have enough time to look into everything that passively interests you on the Internet.\n\nYou're right -- I could have done all of that. But I didn't. I was on mobile, it was a simple curiosity, and, in the end, it worked. The answer was more angry than usual, but if that's your thing, then be you, bro.",
+                                                  "author": "shaunsanders",
+                                                  "created": 1426650631,
+                                                  "upvotes": 0,
+                                                  "replies": {
+                                                    "cpigm3i": {
+                                                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpigm3i/",
+                                                      "text": "Yes, yes, my life is so sad and empty that I care what people on the internet think. Grow up and have a nice day.\n\n ",
+                                                      "author": "GuyNBlack",
+                                                      "created": 1426651212,
+                                                      "upvotes": 1,
+                                                      "replies": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "cphemro": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphemro/",
+                      "text": "not really calibrating in the sense of going from radiocarbon years to a calibrated dates...typically OxCal is used for that. We normalize data collected to a known standard to determine FmC (fraction modern carbon) and a radiocarbon age. The act of normalizing to a standard alters or \"fudges\" the true sample ratio. \n\nI explained more somewhere in my comment thread.",
+                      "author": "Carbonkid",
+                      "created": 1426569072,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "cphefsd": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphefsd/",
+              "text": "I hope I answered you question (somewhere in the thread of comments underneath my own)",
+              "author": "Carbonkid",
+              "created": 1426568580,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "cphlnta": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphlnta/",
+      "text": "Economics: Arguing opinions with models that show whatever we want.",
+      "author": "davidzet",
+      "created": 1426596963,
+      "upvotes": 15,
+      "replies": {
+        "cphsbs1": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphsbs1/",
+          "text": "I thought the actual secret is that every single dissertation probably has 5 more pages of econometrics than is at all necessary, the grad students just need to find a job afterwards and they just overdo it on the stats to show they know math.\n\nAt least I know a lot of economists who don't just think they're arguing opinion.",
+          "author": "martong93",
+          "created": 1426609789,
+          "upvotes": 5,
+          "replies": {
+            "cpm8x66": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpm8x66/",
+              "text": "Sure there are, but many of them miss the role of opinion in, e.g., choosing variables, models and interpretation. My point is that economics is a lot more social than science :)",
+              "author": "davidzet",
+              "created": 1426965987,
+              "upvotes": 2,
+              "replies": {
+                "cpmbbwq": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpmbbwq/",
+                  "text": "> more social than science\n\nI think you're missing the point of \"science\" entirely. ",
+                  "author": "martong93",
+                  "created": 1426970763,
+                  "upvotes": 1,
+                  "replies": {
+                    "cpn92ik": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpn92ik/",
+                      "text": "No. They are.\n\nEconomics has been upended by experimental methods but you would see those results in many papers, textbooks and lectures",
+                      "author": "davidzet",
+                      "created": 1427056796,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "cpi58xd": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpi58xd/",
+              "text": "Right. They are VERY good at math that shows... what?\n(\"real\" mathematicians don't think economists do math; failed physicists do quite well at economics. Unfortunately, this is more because they can understand brownian motion, not because they can model complex systems)",
+              "author": "davidzet",
+              "created": 1426630294,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "cpj19wd": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cpj19wd/",
+      "text": "Psychology (especially in relation to psychotherapy and personality): we have multiple words for the same general construct because each theorist comes up with his/her own terms rather than using already established terms from other theorists. It can be confusing as hell. ",
+      "author": "ryanpsych",
+      "created": 1426704236,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "cphstg6": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphstg6/",
+      "text": "Higher Ed: It's all the same research from the 1960's, just modified for the 21st century. It'll never change a university because admin gives no fucks about student development, success, and retention. ",
+      "author": "thetiffany",
+      "created": 1426610584,
+      "upvotes": 3,
+      "replies": {
+        "cphurmu": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphurmu/",
+          "text": "It certainly seems like the research that has the biggest influence on higher ed policy comes from outside the field (e.g. sociology or economics)",
+          "author": "groggydog",
+          "created": 1426613708,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "cphj7ud": {
+      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphj7ud/",
+      "text": "[removed]",
+      "author": null,
+      "created": 1426587855,
+      "upvotes": -41,
+      "replies": {
+        "cphmtp9": {
+          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphmtp9/",
+          "text": "[removed]",
+          "author": null,
+          "created": 1426599799,
+          "upvotes": 12,
+          "replies": {
+            "cphnj2z": {
+              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphnj2z/",
+              "text": "[removed]",
+              "author": null,
+              "created": 1426601323,
+              "upvotes": -12,
+              "replies": {
+                "cphowxy": {
+                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphowxy/",
+                  "text": "[removed]",
+                  "author": null,
+                  "created": 1426604029,
+                  "upvotes": 5,
+                  "replies": {
+                    "cphqet1": {
+                      "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphqet1/",
+                      "text": "[removed]",
+                      "author": null,
+                      "created": 1426606644,
+                      "upvotes": -6,
+                      "replies": {
+                        "cphqre2": {
+                          "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphqre2/",
+                          "text": "[removed]",
+                          "author": null,
+                          "created": 1426607225,
+                          "upvotes": 2,
+                          "replies": {
+                            "cphr2bc": {
+                              "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphr2bc/",
+                              "text": "[removed]",
+                              "author": null,
+                              "created": 1426607723,
+                              "upvotes": -5,
+                              "replies": {
+                                "cphs75m": {
+                                  "link": "/r/AskAcademia/comments/2z9v1z/academics_of_reddit_what_are_the_dirty_secrets_of/cphs75m/",
+                                  "text": "[removed]",
+                                  "author": null,
+                                  "created": 1426609584,
+                                  "upvotes": 2,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

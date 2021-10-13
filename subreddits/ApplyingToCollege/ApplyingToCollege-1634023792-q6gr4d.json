@@ -1,0 +1,57 @@
+{
+  "sid": "q6gr4d",
+  "link": "/r/ApplyingToCollege/comments/q6gr4d/formatting_issue_in_commonapp_personal_essay/",
+  "title:": "formatting issue in commonapp personal essay",
+  "text": "When I pasted my essay in the box, it left a 3 line space between each para. I fixed it and kept 1 line space, but in the preview it still shows a 3 line space between each paragraph.\n\nHow can I fix it or is it okay if I submit the essay with the spaces?",
+  "author": "chotta_bheem",
+  "created": 1634023792,
+  "updated": 1634072859,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hgbvjzk": {
+      "link": "/r/ApplyingToCollege/comments/q6gr4d/formatting_issue_in_commonapp_personal_essay/hgbvjzk/",
+      "text": "This is a known issue, where it converts each newline into two newlines, but don't worry too much about that. The cleaner option would be to not have any blank lines, so one will be automatically added.",
+      "author": "prsehgal",
+      "created": 1634024052,
+      "upvotes": 2,
+      "replies": {
+        "hgbw19a": {
+          "link": "/r/ApplyingToCollege/comments/q6gr4d/formatting_issue_in_commonapp_personal_essay/hgbw19a/",
+          "text": ">where it converts each newline into two newlines, but don't worry too much about that. The cleaner option would be to not have\n\nThank you so much. Just tried it out now and its working. Can I still leave a line just to make sure there will still be spaces between my paragraphs?",
+          "author": "chotta_bheem",
+          "created": 1634024480,
+          "upvotes": 1,
+          "replies": {
+            "hgbwdsd": {
+              "link": "/r/ApplyingToCollege/comments/q6gr4d/formatting_issue_in_commonapp_personal_essay/hgbwdsd/",
+              "text": "Sure... The AO's care more about the content rather than the formatting.",
+              "author": "prsehgal",
+              "created": 1634024792,
+              "upvotes": 2,
+              "replies": {
+                "hgbwmjn": {
+                  "link": "/r/ApplyingToCollege/comments/q6gr4d/formatting_issue_in_commonapp_personal_essay/hgbwmjn/",
+                  "text": "Thanks!!",
+                  "author": "chotta_bheem",
+                  "created": 1634025012,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "hgc8heo": {
+              "link": "/r/ApplyingToCollege/comments/q6gr4d/formatting_issue_in_commonapp_personal_essay/hgc8heo/",
+              "text": ">Can I still leave a line just to make sure there will still be spaces between my paragraphs?\n\nUnnecessary - what you see in preview is what the AO will see.",
+              "author": "Strict-Special3607",
+              "created": 1634035697,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

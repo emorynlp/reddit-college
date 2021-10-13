@@ -1,0 +1,57 @@
+{
+  "sid": "pfqoka",
+  "link": "/r/AskAcademia/comments/pfqoka/uk_academics_are_systematic_reviews_refable_in/",
+  "title:": "UK Academics: are systematic reviews REFable in the social sciences",
+  "text": "Niche questions for folks in the UK. I'm getting in a fight with my department head about how we evaluate new hires. Are papers that are systematic reviews or meta-analyses eligible to be submitted for the REF? He's saying that only papers with new data can be submitted, which sounds a bit crazy to me. The formal rules allow it, but maybe people more connected to the old boys club that does the review know something I don't.",
+  "author": "bad_jew",
+  "created": 1630490303,
+  "updated": 1634079436,
+  "over_18": false,
+  "upvotes": 12,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "hb699se": {
+      "link": "/r/AskAcademia/comments/pfqoka/uk_academics_are_systematic_reviews_refable_in/hb699se/",
+      "text": "My understanding is that they are eligible, but it's quite hard to make the case for impact.\n\nCitations are recognised as being a bad measure of impact for review papers as they get cited all the time regardless of quality (I know we're not meant to use citations, but in practice people at least look at them), and it's difficult to find non academic impact for most reviews.\n\n  \n\n\nOf course this really depends on the review e.g. something like a Coltrane report would be a superb addition to ref, as they tend to have wide medical impact as well as clarifying areas of academic disagreement and uncertainty.",
+      "author": "DoorsofPerceptron",
+      "created": 1630494754,
+      "upvotes": 5,
+      "replies": {
+        "hb6d9iz": {
+          "link": "/r/AskAcademia/comments/pfqoka/uk_academics_are_systematic_reviews_refable_in/hb6d9iz/",
+          "text": "Cochrane review, no?",
+          "author": "ACatGod",
+          "created": 1630497327,
+          "upvotes": 8,
+          "replies": {
+            "hb6dc5e": {
+              "link": "/r/AskAcademia/comments/pfqoka/uk_academics_are_systematic_reviews_refable_in/hb6dc5e/",
+              "text": "Autocorrect. Thanks.",
+              "author": "DoorsofPerceptron",
+              "created": 1630497371,
+              "upvotes": 3,
+              "replies": {
+                "hb6dlug": {
+                  "link": "/r/AskAcademia/comments/pfqoka/uk_academics_are_systematic_reviews_refable_in/hb6dlug/",
+                  "text": "No worries! A review of Robbie Coltrane's finest works might be more interesting anyway.",
+                  "author": "ACatGod",
+                  "created": 1630497532,
+                  "upvotes": 10,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hb6iquv": {
+      "link": "/r/AskAcademia/comments/pfqoka/uk_academics_are_systematic_reviews_refable_in/hb6iquv/",
+      "text": "You're correct, there is no such rule.  To get technical, an output must be:\n\n\"The product of research, briefly defined as a process of investigation leading to new insights, effectively shared\" (from the pdf at https://www.ref.ac.uk/publications/guidance-on-submissions-201901/)\n\nThat can of course include a systematic review, the very point of which is to generate new insights through systematically approaching the literature.\n\nHowever, there are disciplinary norms at play here. If you're in a discipline where reviews are less valued/rated, a good review may find it harder to get a 4* rating, and may score lower than an equal quality output generated from primary data. You'd hope that reviewers would be smart enough to recognise good research of all types when they see it, but we know that norms can win out.",
+      "author": "cuccir",
+      "created": 1630500380,
+      "upvotes": 8,
+      "replies": {}
+    }
+  }
+}

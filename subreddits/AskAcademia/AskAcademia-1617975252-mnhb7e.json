@@ -1,0 +1,438 @@
+{
+  "sid": "mnhb7e",
+  "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/",
+  "title:": "How much is too much self citation ?",
+  "text": "Okay so I do understand that self citing is important because it helps you show that you've done stuff based on the same.... but it's a well known fact that self citing increases h index and impact factor even though it hasn't been cited by any other researcher.\n\n\nFor example I found this Physics research paper, which has approximately 120 citations, out of which 110 citations are just self citations, so the same researcher( I do not prefer to name)  does the same thing for every paper of his.....\n\nIn turn the h index of the author comes out to be 30 / 40 , so me being not a physics student, If I need to know whether the research is legit, how do I find it?\n\n\nEDIT: Thank you all for the meaningful responses, my question has been answered ;)",
+  "author": "unbowed_epicure1",
+  "created": 1617975252,
+  "updated": 1634081874,
+  "over_18": false,
+  "upvotes": 109,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "gtxphco": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxphco/",
+      "text": "I mean, I cite my work when it's a continuation of previous work. I don't cite work I've done that is irrelevant.\n\nIn the end we're here to produce scientific knowledge and advance our individual fields. If citing work you've done prior helps readers get a grasp of your work, go for it. If it's irrelevant, don't cite yourself.\n\nEDIT: missing \"is\".",
+      "author": "KenReid",
+      "created": 1617979642,
+      "upvotes": 132,
+      "replies": {
+        "gtxygpw": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxygpw/",
+          "text": "Good to see some integrity once in a while - spread that around would ya!",
+          "author": null,
+          "created": 1617983595,
+          "upvotes": 15,
+          "replies": {}
+        },
+        "gtzcxnz": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtzcxnz/",
+          "text": "I guess the interesting case are papers that are not \"intimately relevant\" (as in \"stuff I build on\"), but just \"somewhat relevant\". In my field, I estimate that 90% of the references in an average paper would belong to that category.\n\nIf I cite all of my \"somewhat relevant\" papers for a paper in my hometurf area, that quickly leads to 10-15 self-citations.",
+          "author": "ColourlessGreenIdeas",
+          "created": 1618006733,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "gty3uui": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gty3uui/",
+          "text": "Thank you for responding!",
+          "author": "unbowed_epicure1",
+          "created": 1617985956,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gtxn2m4": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxn2m4/",
+      "text": "Well if you\u2019re one of the only people who does research in a narrow field or are writing a paper that builds off previous papers you wrote, there\u2019s going to be a LOT of self citing. In a highly researched area or new research topic , less so.",
+      "author": "Contntlbreakfst",
+      "created": 1617978539,
+      "upvotes": 51,
+      "replies": {
+        "gtxu9zd": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxu9zd/",
+          "text": "The leader of my specific field (a niche engineering technology), pretty much invented the field. She wrote a very broad and general review of the field back in 2006. At the time she had done all the seminal works so over 50% of the citations were self citations. \n\nThis is a review in a journal with an IF of 17 and has been cited now 1000 times. So yeah I would say its okay in certain cases.",
+          "author": "rustyfinna",
+          "created": 1617981774,
+          "upvotes": 26,
+          "replies": {
+            "gu0cmul": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gu0cmul/",
+              "text": "That's badass",
+              "author": "hau2906",
+              "created": 1618026620,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gtxgscz": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxgscz/",
+      "text": "I don't think referees for reputable journals would allow someone to get away with an absurdly high number of self-citations. So you can probably see that it's not legit from the journal(s) where this author publishes in.",
+      "author": "Hapankaali",
+      "created": 1617975581,
+      "upvotes": 37,
+      "replies": {
+        "gty22gf": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gty22gf/",
+          "text": "The thing is you can increase your h-index artificially by having a ton of arxiv or psyarxiv or just tons of workshop etc papers and add them all to research gate. I see it a lot across different areas as well.",
+          "author": "Beor_The_Old",
+          "created": 1617985178,
+          "upvotes": 7,
+          "replies": {
+            "gty2l0s": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gty2l0s/",
+              "text": "Do people normally include non-reviewed material when calculating someone's h-index?",
+              "author": "east_lisp_junk",
+              "created": 1617985398,
+              "upvotes": 5,
+              "replies": {
+                "gty2wn0": {
+                  "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gty2wn0/",
+                  "text": "google scholar does yes and i believe research gate as long as you add them there.",
+                  "author": "Beor_The_Old",
+                  "created": 1617985539,
+                  "upvotes": 4,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gtxgxgb": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxgxgb/",
+          "text": "Although highly surprising , the author publishes in Physics of Life Reviews",
+          "author": "unbowed_epicure1",
+          "created": 1617975650,
+          "upvotes": 15,
+          "replies": {
+            "gtxtw9n": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxtw9n/",
+              "text": "I know one author in my field that is quite well respected, although he's recently retired. He published a review on one topic approximately every 1-2 years. Each one cites all of his previous reviews, along with several specific papers.\n\nThe latest review reads like \"In 2012 we discussed aspect A, and followed up in 2013 with additions about aspect B. 2015 saw the addition of C, which led to D. 2016 and 2017 saw extensions into E and F, and we're currently looking into future applications of G.\"\n\nBorderline absurd amount of self-citations, but it is useful to get the chronological context of where this research is going. Especially since he's retiring, and is providing guidance on good places to direct research goals. \n\nI say do use self-citations when it's relevant and provides context. But indeed people will notice if you do it a lot, especially if it's out of place.",
+              "author": "baenpb",
+              "created": 1617981610,
+              "upvotes": 37,
+              "replies": {
+                "gtxy1cw": {
+                  "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxy1cw/",
+                  "text": "It feels like at that point, he should write a book, and have every edition explain what it added, haha.",
+                  "author": "ThisIsSpata",
+                  "created": 1617983413,
+                  "upvotes": 16,
+                  "replies": {}
+                }
+              }
+            },
+            "gtyakeg": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtyakeg/",
+              "text": "I don't think that Physics of Life Reviews is considered to be reliable source of good work. It has some well cited papers, but a lot of the papers are also really bad. At least based on my reading experience.",
+              "author": "DevFRus",
+              "created": 1617988849,
+              "upvotes": 11,
+              "replies": {
+                "gtyfbuy": {
+                  "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtyfbuy/",
+                  "text": "Really? Could you point out some examples?",
+                  "author": "unbowed_epicure1",
+                  "created": 1617990935,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "gtzp71t": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtzp71t/",
+              "text": "I'm a physicist and currently in a car with four others, none of us have ever heard of this journal",
+              "author": "Hypsochromic",
+              "created": 1618013281,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "gtzemhh": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtzemhh/",
+              "text": "I've never heard of this journal.  I've published a few physics papers with over a hundred citations.  I do cite myself but only when it's relevant (say 3-4 times).",
+              "author": "dampew",
+              "created": 1618007595,
+              "upvotes": 6,
+              "replies": {}
+            }
+          }
+        },
+        "gty4ok0": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gty4ok0/",
+          "text": "I actually don't think this is true, I've seen multiple papers in Science which are 30% self citations when there's plenty of other good papers to cite.",
+          "author": "shreddedstallion69",
+          "created": 1617986312,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gtyto08": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtyto08/",
+      "text": "I see no problem with relevant self citation, and I\u2019m not sure why we should care about the purity of the h index. Surely the burden here should be on h index calculation to exclude self citations, rather than on research to exclude relevant citations that would benefit readers and accurately represent the literature.",
+      "author": "papayatwentythree",
+      "created": 1617997422,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gtzs0ru": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtzs0ru/",
+      "text": "I always include the \"Publications\" section of my CV in every paper... ;-).",
+      "author": "dali-llama",
+      "created": 1618014820,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gtxt339": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxt339/",
+      "text": "There's no one in the world who really does what I do.  (or does it well.)  I *have* to cite myself. \n\nIf I cite other people--which I try to find excuses to do--then I'm citing work that is (to be blunt) massively inferior to my own in my narrow area of speciality, *or else*, am citing work that is outside of my area of speciality, and so, literally, *tangential* to the issue at hand.\n\nI have no idea what an \"h index\" even is... so I'm definitely NOT trying to game it!\n\n(but I'm in the humanities, where we realize that the attempt to find an \"objective\" measure of productivity is rather ridiculous.)",
+      "author": "DerProfessor",
+      "created": 1617981249,
+      "upvotes": 15,
+      "replies": {
+        "gty0ot8": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gty0ot8/",
+          "text": "Kinda jealous of this aspect of humanities. On the other hand, doing a PhD in humanities absolutely sucks since you usually don't get paid at all. I guess as soon as there's a lot of money on the table and the field griws, shit hits the fan in terms of the contradictions between the capitalist job market and science's principles.",
+          "author": "fuckwatergivemewine",
+          "created": 1617984574,
+          "upvotes": 5,
+          "replies": {
+            "gtydlr8": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtydlr8/",
+              "text": "Interesting--I'd not thought of it that way. \n\nYes, Humanities grad students make about 1/2 of what sciences grad students make... but it's usually enough to live on, without going into debt.   And (based on this sub!  but also on my friends' experiences) the quality of life of a humanities grad is astronomically higher.  (i.e. they're not working 80-hour weeks in the proverbial coal mines for the Bossman....they're actually learning a profession.)",
+              "author": "DerProfessor",
+              "created": 1617990178,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        },
+        "gtxyn86": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxyn86/",
+          "text": "It's not abnormal in my field for authors to cite themselves pretty frequently. If you're the only one writing on the certain topic, it's pretty unavoidable. Especially when topics get pretty niche (the handful of experts on medieval universities, as an example, would have a tough time *not* citing themselves!)\n\nThat said, I'm also blissfully unaware of what an \"h index\" even is. I assume it's some measure of the amount of citations a paper has, but it's never been mentioned to me before.",
+          "author": "PurrPrinThom",
+          "created": 1617983673,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gtypthz": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtypthz/",
+      "text": "I'm a journal editor. If I ever saw this in a submission to 'my' journal it would certainly set alarm bells ringing. I've just rejected a review where the reviewer recommended publication if the author cited 20 of the reviewer's papers.",
+      "author": "DrLBlack",
+      "created": 1617995655,
+      "upvotes": 4,
+      "replies": {
+        "gu1ghkz": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gu1ghkz/",
+          "text": "Yikes. That's pretty blatant and unashamed self promotion.",
+          "author": "boonamobile",
+          "created": 1618060779,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gtxjq4r": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxjq4r/",
+      "text": "imo you might as well cite yourself in every publication. Helps readers see what else you've published and you need all the visibility you can get",
+      "author": "missquince",
+      "created": 1617976982,
+      "upvotes": 17,
+      "replies": {
+        "gtxrgvm": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxrgvm/",
+          "text": "Citing irrelevant papers just so others can find them is just h-index manipulation, and probably borders on unethical. Gotta do this carefully and only when it makes sense..",
+          "author": "dovaahkiin_snowwhite",
+          "created": 1617980526,
+          "upvotes": 25,
+          "replies": {
+            "gtxuzo8": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxuzo8/",
+              "text": ">and probably borders on unethical\n\nFor sure, and these are the kinds of games academics are forced to play to survive. It sucks.",
+              "author": "CaptainCornerCamper",
+              "created": 1617982087,
+              "upvotes": 9,
+              "replies": {
+                "gtypp8r": {
+                  "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtypp8r/",
+                  "text": "Adding to the problem doesn\u2019t make the problem go away",
+                  "author": "FromU2E",
+                  "created": 1617995600,
+                  "upvotes": 1,
+                  "replies": {
+                    "gtyqoub": {
+                      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtyqoub/",
+                      "text": "Nope, but in academia not adding to it certainly makes you go away.",
+                      "author": "CaptainCornerCamper",
+                      "created": 1617996056,
+                      "upvotes": 10,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gtxjucz": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxjucz/",
+          "text": "Yeah you're right but how would I know if the paper is legit?",
+          "author": "unbowed_epicure1",
+          "created": 1617977037,
+          "upvotes": 2,
+          "replies": {
+            "gtybepn": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtybepn/",
+              "text": "By reading it?",
+              "author": "DevFRus",
+              "created": 1617989216,
+              "upvotes": 4,
+              "replies": {
+                "gtyf42f": {
+                  "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtyf42f/",
+                  "text": "Like I said I'm not an expert I'm physics?",
+                  "author": "unbowed_epicure1",
+                  "created": 1617990841,
+                  "upvotes": -5,
+                  "replies": {}
+                }
+              }
+            },
+            "gtxjybx": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxjybx/",
+              "text": "oh I'd look into where the paper was published, that often gives more of an indication",
+              "author": "missquince",
+              "created": 1617977090,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gtxzo6n": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxzo6n/",
+      "text": "110/120?? Hard to believe",
+      "author": "quohr",
+      "created": 1617984127,
+      "upvotes": 4,
+      "replies": {
+        "gty2x9c": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gty2x9c/",
+          "text": "I KNOW, BUT IM NOT LYING \n\n\nAlso I'm not naming the person because either don't mean to demean anyone",
+          "author": "unbowed_epicure1",
+          "created": 1617985547,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "gtzgzs6": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtzgzs6/",
+      "text": "As I've been saying all my life: my recursive self-referencing is... \u267e\ufe0f",
+      "author": "ImpossibleSong1521",
+      "created": 1618008827,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gtxut16": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxut16/",
+      "text": "I don't think any amount is too much. The advantages of having more citations and a higher h-index far outweigh the disadvantages of the odd person looking at your stats and thinking you cite yourself too much. Most people looking over your publication lists won't spend the time to see how often you are citing yourself.\n\nIs it unethical to manipulate your citation stats? For sure, and these are the kinds of games you have to play in the clown world that is modern academic if you want to survive, unless you already have tenure of course.",
+      "author": "CaptainCornerCamper",
+      "created": 1617982006,
+      "upvotes": -3,
+      "replies": {
+        "gtxy716": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxy716/",
+          "text": "I would disagree tho, trying to look like a legit researcher , seperate from the quacks by citing yourself 200 times so as to increase your h index is not scientific  and ruins the community \n\nPs: I didn't downvote you",
+          "author": "unbowed_epicure1",
+          "created": 1617983480,
+          "upvotes": 4,
+          "replies": {
+            "gtyg56o": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtyg56o/",
+              "text": "I agree it ruins the community. The people who will get the grants/jobs you unsuccessfully apply for won\u2019t care.",
+              "author": "CaptainCornerCamper",
+              "created": 1617991290,
+              "upvotes": 0,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gty005a": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gty005a/",
+      "text": "AFAIK your h-index is defined and calculated based on citations OTHER than self citations.\n\nEdit: Not that this actually solves anything. It leads to the next progression of manipulation which is quid pro quo agreements with collaborators.",
+      "author": "mathisfakenews",
+      "created": 1617984275,
+      "upvotes": 0,
+      "replies": {
+        "gty324v": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gty324v/",
+          "text": "Is it really? I've come across very small researchers too who have only, and only self cited in all papers, but still have an h index of 7",
+          "author": "unbowed_epicure1",
+          "created": 1617985607,
+          "upvotes": 3,
+          "replies": {
+            "gtzceqe": {
+              "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtzceqe/",
+              "text": "This is an interesting question since ultimately its just a metric which could be computed either way. I wonder how much it varies across disciplines and/or platforms. On a whim I just checked my h-index on google scholar and Scopus. They are different, and not just by a little. \n\nOf course there are lots of possible reasons here which may or may not include a difference in how self-citations are treated. Especially since, as a good scientist, I cite everything I've ever written in ever paper I write up to and including my poetry assignments from 5th grade.",
+              "author": "mathisfakenews",
+              "created": 1618006462,
+              "upvotes": 0,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gty1j3b": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gty1j3b/",
+      "text": "Unless your a publishing a massive number of papers, that does not affect your H-index in ny meaningful way",
+      "author": "PersephoneIsNotHome",
+      "created": 1617984945,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gtypsg0": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtypsg0/",
+      "text": "If you're interested in the subject of self citation:\n\nhttps://www.nature.com/articles/d41586-019-02479-7",
+      "author": "Ofbearsandmen",
+      "created": 1617995642,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gtzxtrw": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtzxtrw/",
+      "text": "I don\u2019t have a problem with it as long as it\u2019s not a stretch. I regularly self-cite my own papers and those within my group if I\u2019m publishing something that builds off or incorporates/depends on the previous work. Just have to do this with genuine intent (not to boost your own stats) and I think you\u2019ll be fine",
+      "author": "raulu95",
+      "created": 1618018004,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gtxl1ig": {
+      "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxl1ig/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1617977603,
+      "upvotes": -17,
+      "replies": {
+        "gtxyrnv": {
+          "link": "/r/AskAcademia/comments/mnhb7e/how_much_is_too_much_self_citation/gtxyrnv/",
+          "text": "I'm not sure you commented on the right post.",
+          "author": "PurrPrinThom",
+          "created": 1617983726,
+          "upvotes": 10,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

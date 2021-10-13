@@ -1,0 +1,189 @@
+{
+  "sid": "ph85q5",
+  "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/",
+  "title:": "I hear professors complain a lot about the peer review process \u2014 what's wrong with it, and what was your last experience like trying to get peer-reviewed and published?",
+  "text": "Not sure if this is the right flair \u2014\u00a0let me know if it's wrong and I can edit that!\n\nThis is something I've been wondering about a lot recently. I think I might not fully understand the process. Some smaller/follow-up questions if you feel passionate:\n\n1. Is it true that when you submit to a journal, you have to **pay** to submit? Does your university typically cover that cost for you?\n2. Do you \\*actually\\* reach out to peers, or is that more an artifact of an older time? I've heard that professors often pay a journal peer-review board to look over their study.\n3. How long does the process take? Do you track your paper the whole way, or just wait in limbo for months on-end while the process drags on?\n\nI'm really just interested in understanding what the process looks like in 2021, why it sucks, and how your personal experience has been (I always love anecdotes to understand things more concretely!) with the system.\n\n**And lastly** \\- if you were in charge, what would you do to change the way we do peer-review?",
+  "author": "_garyboy",
+  "created": 1630685116,
+  "updated": 1634079413,
+  "over_18": false,
+  "upvotes": 11,
+  "upvote_ratio": 0.79,
+  "comments": {
+    "hbhuy6y": {
+      "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbhuy6y/",
+      "text": "Apparently this is field specific, because it's news to me that people pay for submitting their articles. I've never had to do this.\n\nI've also always understood that peer-review implies *blind* peer review, ie. you don't know who the readers are.",
+      "author": "narwhal_",
+      "created": 1630704457,
+      "upvotes": 13,
+      "replies": {}
+    },
+    "hbhao4u": {
+      "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbhao4u/",
+      "text": "1. In the humanities you do not pay to submit. Some publishers will charge you a fee to make your accepted paper open-access once published. A publishing company for a journal I looked into asks for around $1500 to make a paper open-access.\n2. The journal will choose peer-reviewers for your paper from their database.\n3. In the humanities the process can be very very slow. I've waited over a year for peer-reviews (never submitting there again), and I'm at the 8 month mark on one paper now. But I've also had great reviews in four months. You can email about progress, and they may not even respond. Maybe this is different for well-established scholars. \n\nWhat would I change? The speed of the process. There should be an updated and acceptable standard protocol for how long a peer-review should take. There really are almost no excuses for not being able to review an article within 2-4 months. \n\nAlso, mean and unprofessional reviews should be handled by the editor before sending the reviews to the writer. It's not difficult to have an acceptable standard protocol around the tone of the review either. \n\nPeer-review, for me, has been really helpful in many more ways than it has been unhelpful, but it's a very slow process.",
+      "author": "gggggggggggfff",
+      "created": 1630695411,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hbhwnit": {
+      "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbhwnit/",
+      "text": "I'm in the social sciences.  \u0130 have never had to pay to submit.  \u0130 have also never had wildly contradictory comments from reviewers.  My main issue is the time-lag: the worst was TWO YEARS from submission to publication and it's not like there were even major edits.",
+      "author": "MercutiaShiva",
+      "created": 1630705243,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hbgs91t": {
+      "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbgs91t/",
+      "text": "1 - Yes, you pay to submit. It's usually more for colour figures, too. And it doesn't matter if it's an online-only journal, you still pay several thousand dollars. And if you want your paper to be open access (which some funding agencies make compulsory to grant holders), you start to enter crazy prices. Nature Publishing and Cell Press are about 10k per paper for full open access, which is beyond what some labs can afford. Universities might help pay for it, but usually this is up to the lab to cover it from grants.  \n2 - The journal editor will chose which peers will review your work. This may or may not be anonymous.  \n3 - Anywhere from a couple of months to several years, depending on the reviewer comments. If it's smooth, they might just ask for a couple of minor things. In other cases, there will be multiple rounds of revisions before the reviewers are happy. Note that you can go through multiple round of revisions, do all the experiences requested by the reviewers, and **they can still reject your manuscript**.  \nTo build on what is wrong with the current publishing industry: the published research is funded by tax payers. Then tax payers also foot the bill for actually publishing the work, since publication fees are also covered by grants. Then, if the work isn't open access, the public will have to pay once more to access and read the work. Does this sound fair?\n\nAnother thing: journals take money from researcher to publish work... which the researchers did. They then ask other researchers to review that work... for free. They then charge individuals and institutions to access and read that work. They also get extra cash from advertisers. And with most journals being online these days, where are their expenses except for a few salaries? Well, it would explain why their profit margins are [insane](https://twitter.com/MatteoCarandini/status/1272142843235250181?s=20), at \\~37%. That's higher than banks. If I try to explain this to anyone outside academia, they will wonder wtf is wrong with us. It's blatantly a type of racket which we put up with.\n\nNow consider that it might take you several years to publish the work, as some manuscripts do. By then, your work might be a little out of date. Or someone else may have scooped you, by publishing the same results are yours. Which again means that tax payer money was put to very poor use. This is being somewhat addressed by means of preprint repositories, where academics can put manuscripts which will be accessible to anyone within 48 hours. It isn't peer reviewed, but at least your results are out there for your colleagues to see which accelerates the pace of science, and the upload date means it will be clear if you were the first to show these results.\n\nAnd the cherry on the cake: academics are judged by their publications. That is the primary way in which we are evaluated for jobs, for grants, for promotions, for everything. And it is based on a broken system. Publications can take years to go through peer review, so they clearly are not correlated with how much work you put in. There is a large amount of luck involved, and not all labs will be able to afford to publish in the same fancy journals. Yet this is what governs our career prospects. \n\nI'm sure I might have forgotten a few other aspects of peer review and the publishing system... but yeah, it isn't really a good thing for anyone. Except the publishing corporations, which are raking in money.",
+      "author": "Cell_Division",
+      "created": 1630687582,
+      "upvotes": 14,
+      "replies": {
+        "hbgtzg8": {
+          "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbgtzg8/",
+          "text": "To add to this: for conference-heavy fields like computer science, it\u2019s often supposed to be \u201canonymous\u201d but reviewers who work in the specific sub-field can almost always identify the group a paper comes from (if not the exact author), so even double blinding does not work. And more often than not, there is a clique circlejerk going on, so it gets very difficult for new researchers from lesser-known communities trying to break into the field.",
+          "author": "HoolooVee",
+          "created": 1630688296,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "hbguz2k": {
+          "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbguz2k/",
+          "text": ">Yes, you pay to submit.\n\nPlease name one (reputable) journal where you pay to **submit** a paper.  (I'm genuinely curious as I have never heard of this; in contrast, paying to publish an accepted paper is common practice in open-access journals and heavily grant-oriented fields).",
+          "author": "DeskAccepted",
+          "created": 1630688711,
+          "upvotes": 11,
+          "replies": {
+            "hbhl5pf": {
+              "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbhl5pf/",
+              "text": "Journals unfortunately are increasingly charging submission fees in response to UK/European funders getting much tougher on hybrid publishers and refusing to pay APCs etc. I don't think it's going to be a lasting feature, but it is annoying. Most funding policies such as Wellcome, Gates and UKRI don't account for those fees so while I think we all know it's not in the spirit of the policy it's a bit of a grey area in terms of compliance.",
+              "author": "ACatGod",
+              "created": 1630700059,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "hbgyzj2": {
+              "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbgyzj2/",
+              "text": "Ah, apologies. The wording here wasn't ideal. You typically pay once the paper is *accepted*. However, I did heard recently of a system where researcher would pay for an initial submission inquiry, though I don't remember which journal it was.",
+              "author": "Cell_Division",
+              "created": 1630690389,
+              "upvotes": 1,
+              "replies": {
+                "hbhv4lv": {
+                  "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbhv4lv/",
+                  "text": "I've never heard of any journal charging for a paper at any stage, except perhaps art history when a bunch of color figures are needed. I've certainly never had to pay, and have even been paid to write an article.",
+                  "author": "narwhal_",
+                  "created": 1630704540,
+                  "upvotes": 7,
+                  "replies": {
+                    "hbhxan7": {
+                      "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbhxan7/",
+                      "text": "Open access journals you sometimes have to pay for since the journal won't get the income that they would otherwise with a 'normal' article.\n\nBut they are often fairly reasonable, in the low hundred dollar range rather than thousands, and sometimes universities, departments, or their libraries will cover some or all of the cost.",
+                      "author": "JHT230",
+                      "created": 1630705545,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                },
+                "hbiv04q": {
+                  "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbiv04q/",
+                  "text": "That journal is likely predatory and should be avoided.",
+                  "author": "TourmalineTart",
+                  "created": 1630722470,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "hbkanjo": {
+              "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbkanjo/",
+              "text": "All sociology top journals charge between US$20-50 these days for submission (AJS, ASR, SF, SQ, etc). It\u2019s not a lot but still a growing practice.",
+              "author": "Overall_Designer7502",
+              "created": 1630760050,
+              "upvotes": 1,
+              "replies": {
+                "hblndd4": {
+                  "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hblndd4/",
+                  "text": "Thanks. I would be happy to pay $20 or 50 per submission if it helped weed out the complete junk papers that consume editors' time.",
+                  "author": "DeskAccepted",
+                  "created": 1630782669,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hbgzli7": {
+          "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbgzli7/",
+          "text": "\"And the cherry on the cake: academics are judged by their publications. That is the primary way in which we are evaluated for jobs, for grants, for promotions, for everything. And it is based on a broken system. Publications can take years to go through peer review, so they clearly are not correlated with how much work you put in. There is a large amount of luck involved, and not all labs will be able to afford to publish in the same fancy journals. Yet this is what governs our career prospects\"\n\nI would say it is the other way around, part of the system is broken because people are judged by (metrics) on their publications. So they have to submit papers even if the work is not something essential for the scientific community, and the reviewers kind of know that the person need the paper like they need theirs, so they let it pass if it is ok. Not to say about the journals which are the ones most happy with the game and competition that happens.",
+          "author": "phiupan",
+          "created": 1630690646,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hbgunu9": {
+      "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbgunu9/",
+      "text": "1. No. Paying to submit is not common at all, maybe in predatory journals but I've never seen pay-to-submit. Paying to publish after acceptance (\"page charge\") is only common in certain fields, primarily where the standard is open-access. I have never paid a cent to publish any of my work as I publish mostly in society journals (i.e., the journal is owned and operated not-for-profit by a professional society).\n2. The journal reaches out to the reviewers. The authors may suggest reviewers but the editors don't have to follow those suggestions. Before submitting a paper, I often get a \"friendly\" review from my colleagues or peers that I trust, but I don't pay them. \n3. It takes forever.  Since peer review is volunteer service to the academic community, it's hard as an editor to get good reviewers. So when someone good agrees to review you don't usually push them much on timeliness (otherwise they would just turn you down saying they're too busy, which is usually true).\n\nI would disagree that the process as a whole sucks. In fact, I have had some papers where the paper got *a lot* better because of excellent suggestions from peer reviewers. The fact that it takes forever does suck. Since the problems are mainly caused by the fact that we rely on the generosity of our peers, I would actually like to see a small stipend for (on-time) peer reviews. I think it would help make it less of a burden.",
+      "author": "DeskAccepted",
+      "created": 1630688581,
+      "upvotes": 8,
+      "replies": {
+        "hbiv5kv": {
+          "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbiv5kv/",
+          "text": "I second this comment. Well put.",
+          "author": "TourmalineTart",
+          "created": 1630722550,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hbkaz1q": {
+          "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbkaz1q/",
+          "text": "This is not true. Just because it is not common in one field doesn\u2019t mean it is the same way all across the board.",
+          "author": "Overall_Designer7502",
+          "created": 1630760239,
+          "upvotes": 1,
+          "replies": {
+            "hbln4v2": {
+              "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbln4v2/",
+              "text": "Op was asking for individuals experience, which I provided. \n\nI said in my comment that things are different by discipline.",
+              "author": "DeskAccepted",
+              "created": 1630782559,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hbid0e0": {
+      "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbid0e0/",
+      "text": "here is a good paper arguing against pre publication peer review https://www.liamkofibright.com/uploads/4/8/9/8/48985425/ispeerreviewagoodidea.pdf",
+      "author": "isaac-get-the-golem",
+      "created": 1630713200,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hbinjt0": {
+      "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbinjt0/",
+      "text": "Starting graduate school this semester and published my first author paper from my senior thesis project.\n\n1. You don't have to pay to submit. However, my journal requires authors to pay to get their journal open access which is good for citation I guess. \n\n2. Nope I did not reach out to any peers as I am very new and I don't know any researcher :(. For the peer review process, I select the people whom I had cited from them the most.\n\n3. It takes a few months. There are periods of waiting but thankfully not so long as I only need to revise the paper once. Twice actually but the editor accept it after my first resubmission and ignore the one reviewer's comments. For me this is the part where is sucks because that reviewer insisted I cite multiple papers of his that are irrelevant to my work. In the end, we wrote to the editor after my first resubmission got accepted by the rest of the reviewers and the editor agree to accept it.\n\nIf I am in-charge, I will make sure that reviewers are not allowed to ask reviewee to cite their papers unless they are highly relevant (though this can be hard to justify). If not, it just put reviewee in a vulnerable position - ruining the quality of their work or risking not getting accepted.",
+      "author": "SpaceAuk",
+      "created": 1630718585,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hbhp0te": {
+      "link": "/r/AskAcademia/comments/ph85q5/i_hear_professors_complain_a_lot_about_the_peer/hbhp0te/",
+      "text": "The publishing world is changing very fast, so the answers to those questions depends on the journal. As far as I know, you cannot currently get a rapid, thoughtful peer review and publish in a journal at no cost. That was, however, the standard 20 years ago. \n\nSome journals are better than others at peer review, so some deserve complaints. But the main complaint generally stems from having someone criticize your work. Most of us don't like that.",
+      "author": "DrTonyTiger",
+      "created": 1630701768,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

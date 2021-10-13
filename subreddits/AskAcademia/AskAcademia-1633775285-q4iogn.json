@@ -1,0 +1,342 @@
+{
+  "sid": "q4iogn",
+  "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/",
+  "title:": "Is it okay to do a personal/side project in a full-time postdoc position without letting the supervisor know?",
+  "text": "I am doing a postdoc in computer science. I kind of lose interests in the project after 1.5 year, but I still keep trying to be productive (2 papers accepted).  I was doing a side projectby myself from like half year ago. The side project is not quite relevant to the funded project. The result is interesting and I think it's publishable. I am considering submitting it to a conference without letting him know, as  I am concerned that my supervisor would be upset as he might think it's a full-time job and I should not do any other side project.  Any advice? thanks",
+  "author": "xiikjuy",
+  "created": 1633775285,
+  "updated": 1634078394,
+  "over_18": false,
+  "upvotes": 75,
+  "upvote_ratio": 0.93,
+  "comments": {
+    "hfyvyo9": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfyvyo9/",
+      "text": "Read your contract. It will probably hinge on how much time it will consume and what you are using. If you're using your supervisors resources (and that can include your university supplied laptop) and/or time they are paying for then you should talk to them.",
+      "author": "IntLawprof",
+      "created": 1633777228,
+      "upvotes": 81,
+      "replies": {}
+    },
+    "hfz6ve9": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfz6ve9/",
+      "text": "Your postdoc supervisor is supposed to be your champion and academia is a very small world. You don't want your paper to be/stay secret and it won't.\n\nIs there a reason you're treating your supervisor like an untrustworthy antagonist to your success instead of a valuable resource?",
+      "author": "cactusmittens",
+      "created": 1633784437,
+      "upvotes": 68,
+      "replies": {
+        "hg0amf9": {
+          "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg0amf9/",
+          "text": "Probably because the advisor would tell OP not to work on any other projects/insist that their name be put on it even though they had absolutely nothing to do with it.\n\nThis situation comes here on the reg.",
+          "author": "ThePhysicistIsIn",
+          "created": 1633803128,
+          "upvotes": 15,
+          "replies": {}
+        }
+      }
+    },
+    "hfz0jpd": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfz0jpd/",
+      "text": "Is there a reason why you don't want your supervisor to know? After all, if it gets published, they may well find out anyway, and you would not be well-looked on to publish \"secretly\".\n\nMost academics would be happy that their lab was producing more than they expected...",
+      "author": "dapt",
+      "created": 1633780532,
+      "upvotes": 47,
+      "replies": {}
+    },
+    "hfz07lq": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfz07lq/",
+      "text": "Just to add you should also consider the IP implications if there is any commercial implication, especially if you use any university resources. Even it can be the  case in some organisations and locations that they are assumed to also own IP to \"related\" work you do off the clock with your own resources. \n\nThough, it would really not be a good idea to submit work to a conference without having made your supervisor aware, even if it would in principle be allowed. At least for me I am confident that my supervisor would allow something like this, but certainly not all supervisors would. It might come with conditions like e.g. not using your university affiliation to present or publish.",
+      "author": "nickbob00",
+      "created": 1633780303,
+      "upvotes": 25,
+      "replies": {}
+    },
+    "hfzew56": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzew56/",
+      "text": "Red flag \"a conference without letting him know,\" Would do more harm than good I suppose.",
+      "author": "ch1253",
+      "created": 1633788717,
+      "upvotes": 8,
+      "replies": {
+        "hfzzpb9": {
+          "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzzpb9/",
+          "text": "I guess that if you're working in Computer science and your side project is Poetry, your advisor won't give a single fuck",
+          "author": "Txnda",
+          "created": 1633798344,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "hfz3rum": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfz3rum/",
+      "text": "There may be things about it that are not at all \u201cside\u201d\n\nDid you use program with license from the university?  Computers and cloud storage?  Who is paying your conference registration ?  Who is vetting and advising?  Most of our even rock star faculty get other peoples opinions and input - there is not benefit at all to NOT doing this.\n\nYour supervisor will undoubtedly be upset if you do it without telling him",
+      "author": "PersephoneIsNotHome",
+      "created": 1633782609,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "hfywb99": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfywb99/",
+      "text": "Your postdoc *is* a full-time job and it is unethical to work on an unrelated side project during the time you are paid to work on the postdoc. If that\u2019s what you are doing, I advise you to stop.\n\nIf you mean that you are putting in your full hours on the postdoc project and genuinely doing the side project as a side project, in your spare time, then while your supervisor may be unhappy, that\u2019s their problem. Go ahead and publish it. There\u2019s no need to keep it a secret, and some potential downside if your supervisor finds out about it in some other way.",
+      "author": "bigrottentuna",
+      "created": 1633777485,
+      "upvotes": 49,
+      "replies": {
+        "hfzerf5": {
+          "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzerf5/",
+          "text": "> Your postdoc is a full-time job and it is unethical to work on an unrelated side project during the time you are paid to work on the postdoc. If that\u2019s what you are doing, I advise you to stop.\n\nThis might depend on a lot of things. In the UK it is not that big of a deal to work on something else while doing the postdoc project as long as the majority of your time is spent on the post doc project (and that any papers give credit to the grant number).",
+          "author": "dukesdj",
+          "created": 1633788652,
+          "upvotes": 17,
+          "replies": {
+            "hfzg3a6": {
+              "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzg3a6/",
+              "text": "[removed]",
+              "author": null,
+              "created": 1633789314,
+              "upvotes": -1,
+              "replies": {
+                "hfzh21r": {
+                  "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzh21r/",
+                  "text": "Are you actually trying to claim that you have such a encyclopedic knowledge of the terms of every funding agreement in the world that you could reasonably make that claim?\n\nBecause, I'll be frank. I rather suspect what you actually should be saying is \"that's a violation of the terms of every funding agreement that I've ever signed\".",
+                  "author": "BarackTrudeau",
+                  "created": 1633789791,
+                  "upvotes": 12,
+                  "replies": {
+                    "hfzkivn": {
+                      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzkivn/",
+                      "text": "I\u2019m a long-time professor and former VP of Research who oversaw contracts and grants for my university for nearly a decade. I\u2019m intimately familiar with the terms and conditions of grants in the US and Europe.\n\nAm I saying the stupid words you tried to put in my mouth? No, of course not. Am I almost certainly correct? Yes.\n\nI will concede your point if you can show me a funding agency anywhere that says that 1/3 of the time budgeted and paid for on the projects they fund may be spent on unrelated projects, without the knowledge of the PI.",
+                      "author": "bigrottentuna",
+                      "created": 1633791447,
+                      "upvotes": 5,
+                      "replies": {
+                        "hfzsd62": {
+                          "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzsd62/",
+                          "text": "I am a UK professor and I agree. If the position is funded full time by a grant, then that is the work you are being paid for. You can\u2019t do other stuff without agreement of the supervisor in that time. What you do n your spare time is up to you. Of course, there are usually gentle(wo)man agreements that post docs can write papers from their prior job, under the assumption that even after they have left they will continue to work in the papers of the current one (which often have a substantial lag time). But even that is usually explicitly agreed on.",
+                          "author": "PandoraPanorama",
+                          "created": 1633795083,
+                          "upvotes": 10,
+                          "replies": {
+                            "hfzxj9v": {
+                              "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzxj9v/",
+                              "text": "Exactly.",
+                              "author": "bigrottentuna",
+                              "created": 1633797384,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "hfzjkj7": {
+                  "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzjkj7/",
+                  "text": "I agree with /u/BarackTrudeau and /u/dukesdj; do not generalise. For example, European postdocs are expected to start forming their own research agenda. They are even expected to work on grant applications and attract funding as in some countries you are expected to do 2-3 postdocs (I met people in niche foundational CS that had completed 4 and 5 postdocs) before landing a permanent job. Depending on the university, you may even be funded by multiple projects at once during your postdoc. In Sweden, they are even considered faculty and could be PIs of themselves.\n\nResearch funding can come in all shapes and forms, including high-level descriptions of projects, fellowships, internal funding from uni. etc making it impossible ard to generalise any terms.  Probably, the only common term in grant agreements is that deliverables should be on time \u2014or the funding body's PO consent for any delays.\n\nI agree about the need for the 'supervisor' to know about the project and even be given the chance to contribute. It is a bad social practice not to tell them.",
+                  "author": "RecklessCoding",
+                  "created": 1633790990,
+                  "upvotes": 3,
+                  "replies": {
+                    "hfzm3ka": {
+                      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzm3ka/",
+                      "text": "That\u2019s not what OP described. OP described being paid as a postdoc and doing *an unrelated project* for six months out of the past 1.5 years. No granting agency that I am aware of is going to be ok with paying someone to do what was proposed and discovering that 1/3 of their funded time was spent on an unrelated project.",
+                      "author": "bigrottentuna",
+                      "created": 1633792182,
+                      "upvotes": 6,
+                      "replies": {
+                        "hfzspc9": {
+                          "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzspc9/",
+                          "text": "[deleted]",
+                          "author": null,
+                          "created": 1633795238,
+                          "upvotes": 1,
+                          "replies": {
+                            "hfzwhca": {
+                              "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzwhca/",
+                              "text": "That's exactly what I said in my original comment.",
+                              "author": "bigrottentuna",
+                              "created": 1633796921,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "hg01h6q": {
+                  "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg01h6q/",
+                  "text": "Unrelated projects are perfectly fine. I cant think of a post doc I have spoke to that has NOT been working on extra projects, yes, this includes unrelated projects to the funding. \n\nThe silly part is to do it without your supervisors knowledge because in my experience most of them are perfectly happy for you to do this as they are (the good ones at least) interested in your further development as an independent researcher.\n\nThis is of course in my field and in the UK\n\n\nedit - note I only quoted you on the unrelated project part. The not speaking to the supervisor is the silly thing here. Working on other unrelated projects is pretty normal providing the majority of your time is spent on the main project.",
+                  "author": "dukesdj",
+                  "created": 1633799130,
+                  "upvotes": 1,
+                  "replies": {
+                    "hg0nikt": {
+                      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg0nikt/",
+                      "text": "I invite you to contact your funding agency and ask them if they are perfectly fine with a postdoc spending 1/3 of their grant-funded time working on an unrelated research project.\n\nDoing something else on your own time is always ok, and most academics work much more than the 40 hours/week we are paid for anyway, so there is plenty of leeway.",
+                      "author": "bigrottentuna",
+                      "created": 1633808883,
+                      "upvotes": 1,
+                      "replies": {
+                        "hg1cesn": {
+                          "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg1cesn/",
+                          "text": "It's common practice for researchers to spend a portion of their time working on data for the \"next grant\", i.e. spending the money from the funder on work not described in the grant application.\n\nThis is considered acceptable because the grant application likely contained a lot of data that was not funded by the new award, but will be included in reports of outcomes \"funded\" by the awarding body.\n\nIt isn't a situation that an accountant would consider acceptable, but it is common.",
+                          "author": "dapt",
+                          "created": 1633820131,
+                          "upvotes": 3,
+                          "replies": {
+                            "hg1dmya": {
+                              "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg1dmya/",
+                              "text": "Of course, but that is not what OP is talking about, nor is it unrelated. It\u2019s typically directly related follow-on work.",
+                              "author": "bigrottentuna",
+                              "created": 1633820727,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        },
+                        "hg1kpay": {
+                          "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg1kpay/",
+                          "text": "As I pointed out in my previous post I am specifically replying to the part where you state that it is unethical to work on other projects. This is misleading as it suggest it is always unethical. The unethical part is to not discuss it with the PI/grant holder. The point of me replying was so people thinking about post docs dont misunderstand what you have said and think they cant work on other projects when in fact any PI worth working with will be accommodating.",
+                          "author": "dukesdj",
+                          "created": 1633824183,
+                          "upvotes": 0,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hfzfjlh": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzfjlh/",
+      "text": "I need to know about side projects as soon as they start, especially if they are likely to lead to proposals for funding, but also if they will lead to published products that can't acknowledge the project you are funded by (if relevant, I might not care). \n\nIn the US, postdocs are accounted for on an FTE basis, and work being done on the side it is equivalent to work on the project, even if outside work hours - In an academic environment, your FTE includes all work you do, and for a postdoc you are probably 100% on your supervisor's project(s). So, their project is supporting your side project.\n\nSo, I'd need to actually fund part of your salary with university funds to pay you to be able to work on a not-quite-relevant side project. In that case, I'd encourage you to write your own proposal through our institution and stay as a research associate if you wanted, especially if it were early in the postdoc term.",
+      "author": "Jon3141592653589",
+      "created": 1633789043,
+      "upvotes": 10,
+      "replies": {
+        "hg0beb3": {
+          "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg0beb3/",
+          "text": "I'm not following the logic here. You are paying your postdoc for 100% of their salary to work on your project. So long as they are keeping the project on schedule, what's the issue if they also work on something else?\n\nI don't think I've ever devoted my attention to a single project in my entire life. Not for more than a few weeks at a time, anyway.",
+          "author": "ThePhysicistIsIn",
+          "created": 1633803475,
+          "upvotes": 4,
+          "replies": {
+            "hg0cvqj": {
+              "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg0cvqj/",
+              "text": "What you want to avoid is the appearance of using one project's funds to support another effort that cannot be reasonably charged to that project, or to do IR&D to fund a new proposal's development. Otherwise, what the agency may see is 100% effort on one project, while a bunch of papers without acknowledgement or a new proposal show up by the same participant. What we do, to avoid questions, is fund 5-10% of a postdoc or research associate to a university account -- so if they are working on something else, it can be considered university-sponsored and won't raise compliance issues. (Academic US 1 FTE = all time spent working, not 40 hours/week.)",
+              "author": "Jon3141592653589",
+              "created": 1633804138,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hfzc2lm": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzc2lm/",
+      "text": "I would say that it entirely depends on your institution's culture. E.g. continental European CS postdocs are to a large degree independent researchers \u2014in many countries, you are even allowed to apply and manage your own grants as a postdoc! UK and US postdocs are much more micromanaged, not allowed to be PIs in project proposals, etc etc.\n\nIn general, I would say that if you meet the deliverables of your primary funding source, then you should be fine. However, it might be in your best interest to  go to your PI and say a simple 'Hey, I spent some time on this thing and I think that I got some interesting results. Do you want to have a look?' If your PI is upset with you creating your own research agenda, then you should reevaluate staying in that position (again, assuming that any hard deliverables are met).",
+      "author": "RecklessCoding",
+      "created": 1633787282,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hfz7i7m": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfz7i7m/",
+      "text": "yes, if you are doing the personal project in your free time",
+      "author": "mr_kazemiro",
+      "created": 1633784792,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hfzggnk": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzggnk/",
+      "text": "I think as long as you're getting the work done for your post-doc project, there shouldn't be an issue. I wouldn't hide it from them, though. Is this something you started while in the post-doc? I'm applying for a post-doc now and while I'm proposing one project, I know it's common to also improve on your diss. if the hosting institution is a good place to do that.",
+      "author": "Haunting0fMilhouse",
+      "created": 1633789500,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hg02dki": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg02dki/",
+      "text": "During your postdoc, you are *expected* to have independent research ideas. The transition from a postdoc role to a faculty role requires you to develop an independent research program and the most successful looking research proposals have preliminary data (generated during your postdoc) supporting your idea as exciting and feasible, while also disintinguishing it from your supervisor's work and ideas.\n\nIt is a mystery to me why you would hide this as it's (1) a very positive thing for you to be doing if the work is strong and you have faculty aspirations, (2) even somewhat unrelated work benefits from the feedback your supervisor can provide and/or feedback from his/her contacts, (3) you want the best relationship possible with your supervisor when it comes time for them to write you letters of reference. Have them say you showed initiative and creativity - not that you were sneaky and uncommunicative creating awkward professional situations.\n\nIf you are meeting all the reasonable expectations for your funded project, and/or your supervisor has budget flexibility to fund a portion of your time from a different fund, and/or there is a reasonable way to apply your side project efforts towards your funding agreements - you can definitely get protected and supported time to work on your things. Professional development of postdocs is one of a supervisor's responsibilities, not just ensuring you get the previously agreed-upon project work completed. Talk to him/her.",
+      "author": "IAmAQuailBiologist",
+      "created": 1633799523,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hfzsxq0": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzsxq0/",
+      "text": "Unless you have a contact saying you can't do outside work, there is no reason you can't do that. Just do it on your own time and don't use your lab's resources.",
+      "author": "Zernhelt",
+      "created": 1633795344,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hg022g1": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg022g1/",
+      "text": "This will come back to bite you. Why not involve your advisor?",
+      "author": "professorbix",
+      "created": 1633799386,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hg0jfih": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg0jfih/",
+      "text": "I think this is a bad move. Your boss is going to be frustrated that you're spending a significant amount of time working on a project that they didn't know about, presumably when you should have been working for them (or at least that's going to be how it appears to them). They are also going to want to know if you used any of their resources for the project. If someone else mentions seeing your paper or talk at a conference to them it will be very awkward. Lastly, if you don't tell them, they will most likely find out, and it's going to feel like you've been lying by omission to them.\n\nYou should tell your boss what you're working on. Deceiving them is just going to absolutely tank the relationship and make your day job very difficult and uncomfortable when they find out.",
+      "author": "ACatGod",
+      "created": 1633807080,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hg2uqpr": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg2uqpr/",
+      "text": "See: how Google was founded",
+      "author": "SnooDogs1613",
+      "created": 1633850963,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hg0do6c": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg0do6c/",
+      "text": "I am actually flabbergasted that this needs to be discussed at all. The funding agency, and through them the supervisor, employs you to do a job. You can\u2019t just \u201close interest\u201d and do something else \u2014 it\u2019s not like a PhD where the only one who bears the consequences is yourself. The supervisor is in it with their good name and the promises they made to the funding body. The grant output may be evaluated \u2014 it therefore matters wether it is 2 or 3 papers for example.\n\nTbh, this all sounds like very shitty behaviour of yourself. I can only hope the supervisor is completely happy with the progress so far. Grant holders constantly worry that they can pull off everything they promised, and a post doc that subtly sabotages the work by secretly giving less than they are paid for is a massive problem.",
+      "author": "PandoraPanorama",
+      "created": 1633804490,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hfzp5x1": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hfzp5x1/",
+      "text": "Rules are one thing. Where I am at all employees have to declare if they have any side jobs. So, if they are caught having one without telling they may be in big trouble, just by not having reported it.\n\nThen there is an ethics part of things. If you do everything that you are required to (not the bare minimum, the full-time commitment) in your post-doc, you are good to go in my book -- as long as it doesn't harm your main task somehow. (If you do cancer research and work for Big Tobacco on the side, there is a problem.)",
+      "author": "molobodd",
+      "created": 1633793609,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hg18od2": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg18od2/",
+      "text": "If it doesn't cost them money.",
+      "author": "Malpraxiss",
+      "created": 1633818345,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hg1qm5u": {
+      "link": "/r/AskAcademia/comments/q4iogn/is_it_okay_to_do_a_personalside_project_in_a/hg1qm5u/",
+      "text": "Just let your advisor in on it. If you have been productive to the level expected of you, then what's the problem? \"Hey, in my free time i've been slowly working on this other idea, what do you think?\" He might provide valuable input.\n\nHe's going to find out, and unless there's some big cultural difference in CS compared to my field, it's probably going to seem strange. I think a clear exception might be if you had already started on the side project before you started your postdoc -  say someone had an idea they started with their old lab before beginning a postdoc. \n\nAlso, I agree with people who are flagging possible issues with you using University resources for a side project. Even if those resources are your time - you've been paid for approx 40 hour working weeks and it's expected they are paying you for the postdoc work. HOWEVER, once you are open about it and raise it with your advisor I don't think this is an issue anymore because then it's just a smaller postdoc project and part of the institution's research output.",
+      "author": "ravencrawr",
+      "created": 1633827145,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

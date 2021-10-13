@@ -1,0 +1,118 @@
+{
+  "sid": "pbavpr",
+  "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/",
+  "title:": "Dissertation Formatting- Merge Documents and Footnotes",
+  "text": "Hi All,\n\nI worked on my chapters separately, now needing to merge the documents into a single word document.  Easy enough.  However, I've run into an issue- How do I keep footnotes in consecutive order for each chapter? (I.E. Footnote 1 from Chapter 3 remains Footnote 1, not Footnote 367 in the merged document). \n\nFigured Ask Academia is the best place to start!",
+  "author": "NotSoTeenageDirtbag",
+  "created": 1629896966,
+  "updated": 1634079495,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.83,
+  "comments": {
+    "haaomb7": {
+      "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/haaomb7/",
+      "text": "I think you can insert chapters as sections, meaning that all automatic numbering will start anew with each section (pretty sure that there are settings for numbering within footnotes that says something about starting new each section). Might mean you have an issue with page numbers though\u2026",
+      "author": "GnomeChomChom",
+      "created": 1629901766,
+      "upvotes": 4,
+      "replies": {
+        "haapkbw": {
+          "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/haapkbw/",
+          "text": "I second this, normally you should be albe to continue page numbers from the previous section (under \u00b4insert\u00b4, \u00b4page number', \u00b4format page numbers\u00b4 in Word). This should solve that problem.\n\nEDIT: I would also recommend using a citation program for future writing.",
+          "author": "Zealousideal_Art_209",
+          "created": 1629902162,
+          "upvotes": 2,
+          "replies": {
+            "haapoix": {
+              "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/haapoix/",
+              "text": "True, I forgot that check box!",
+              "author": "GnomeChomChom",
+              "created": 1629902211,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "habc4xu": {
+              "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/habc4xu/",
+              "text": "Thanks everyone! This was the answer!",
+              "author": "NotSoTeenageDirtbag",
+              "created": 1629911318,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "haadu02": {
+      "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/haadu02/",
+      "text": "what citation program are you using?",
+      "author": "Ru-tris-bpy",
+      "created": 1629897011,
+      "upvotes": 2,
+      "replies": {
+        "haaeka0": {
+          "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/haaeka0/",
+          "text": "No citation program- just inserted footnotes in word as I went along writing",
+          "author": "NotSoTeenageDirtbag",
+          "created": 1629897360,
+          "upvotes": 1,
+          "replies": {
+            "haaft29": {
+              "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/haaft29/",
+              "text": "No idea then. I know for things like endnote you can tell it to put citations in for each chapter I would hope word has a similar feature",
+              "author": "Ru-tris-bpy",
+              "created": 1629897940,
+              "upvotes": 1,
+              "replies": {
+                "haag0ui": {
+                  "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/haag0ui/",
+                  "text": "Lesson learned for next big body of work- use a citation program!",
+                  "author": "NotSoTeenageDirtbag",
+                  "created": 1629898040,
+                  "upvotes": 2,
+                  "replies": {
+                    "haazc1x": {
+                      "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/haazc1x/",
+                      "text": "I think you need to insert section breaks (different from a page break) and then there's a setting that allows you to have different headers and footers in one section from another. However, I don't know if that works with footnotes.",
+                      "author": "ACatGod",
+                      "created": 1629906195,
+                      "upvotes": 1,
+                      "replies": {
+                        "habbzxi": {
+                          "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/habbzxi/",
+                          "text": "This is the answer- section break for each chapter, then open footnotes, and theres an option to start each section from 1",
+                          "author": "NotSoTeenageDirtbag",
+                          "created": 1629911261,
+                          "upvotes": 2,
+                          "replies": {
+                            "habf3h4": {
+                              "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/habf3h4/",
+                              "text": "Hurrah! Glad it worked out.",
+                              "author": "ACatGod",
+                              "created": 1629912509,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "habby5l": {
+      "link": "/r/AskAcademia/comments/pbavpr/dissertation_formatting_merge_documents_and/habby5l/",
+      "text": "I'm not sure but my university has a dissertation formatting staff person who is part of the graduate school that does consultations with students on these types of issues. Maybe your university has one too?",
+      "author": "hellokoalaa",
+      "created": 1629911242,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

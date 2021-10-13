@@ -1,0 +1,394 @@
+{
+  "sid": "limsbb",
+  "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/",
+  "title:": "What do you do when you think the topic you got your PhD in is no longer research worthy?",
+  "text": "I got my PhD in a topic related to a specific energy generating device. \n\nThis particular energy generating device has been researched continuously for the past 80+ years, and scientists have always said \"It's 10-15 years away from widespread public use.\" Yet, there is still zero successful commercialized products using this device. (There has been the odd \"Look it's actually possible\" device, but nothing worth mentioning.)\n\nAs a PhD in my position, I am expected to have a research group, but I do not believe that this particular energy generating device is worth researching anymore. If anybody is qualified to make that decision, it's me. I know more about these devices than 99.9% of all people in the world. I've seen/read the \"heyday\" of this device (30-40 years ago) and I've seen a decreasing interest ever since.\n\n**The simple fact is, we have better options nowadays.** Solar is great. Batteries are becoming great. This device doesn't have a leg to stand on anymore. They COULD BE useful for some very niche applications (manned space travel) but that's not really research worthy when we also have better options there (nuclear). Furthermore, no one wants to really fund it anymore. \n\nSo what do I, someone who spent 5 + 2 (grad school + post doc) years of my life researching these devices, do? I can't start researching something ELSE because my expertise isn't in something else. I could use one of the few techniques I learned while researching these devices and apply that to another problem, but I'm not an expert in any other problem so why would anybody trust anything I write? Furthermore, I'm not an expert in any of those techniques. I just... used them. (I mean, I know a lot about the techniques, and I'd be an expert to most people, but just because I know how to use a particular spectrometer doesn't mean I automatically know which problems I can apply it to.)\n\nI just feel so... lost. Like I've failed as a scientist. I didn't know any better when I started grad school that the TOPIC in which you did your PhD was important. I thought it was basically \"You get PhD, you qualify for all jobs that require PhD.\" No, it's more like \"You get PhD in a specific subject, you qualify for all jobs that are centered around that subject/technique.\" I know I should have ideas about problems to solve but I always run into the \"I don't know enough to know if this is worth researching.\" Do I sit down and spend weeks/months reading literature to figure out if it's worth researching? Is that my best course of action? \n\nMy expertise isn't marketable.... is what I'm saying. I don't know where to go from here.",
+  "author": "corrado33",
+  "created": 1613169756,
+  "updated": 1634081868,
+  "over_18": false,
+  "upvotes": 109,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "gn4195f": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn4195f/",
+      "text": "You pivot.  What matters in your PhD isn't necessarily the specific topic but the skills and knowledge you have acquired. I didn't want to continue the subject in my PhD, so I am doing a postdoc on something completely different.",
+      "author": "colddarkstar",
+      "created": 1613170209,
+      "upvotes": 142,
+      "replies": {
+        "gn5b5wj": {
+          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn5b5wj/",
+          "text": "This. My pharmacology professor got his PhD in physical chemistry before pivoting to biochemistry. This is the way things are in academia, you have to bw flexible to survive.",
+          "author": "Bim_my",
+          "created": 1613196896,
+          "upvotes": 20,
+          "replies": {}
+        },
+        "gn41kvn": {
+          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn41kvn/",
+          "text": "How on earth did you manage to get a post doc in something different? I tried, but nobody was interested. (I was well published when I finished up.) Why would they take me on as a post doc when they could just take someone else on that got their PhD in that subject?",
+          "author": "corrado33",
+          "created": 1613170375,
+          "upvotes": 19,
+          "replies": {
+            "gn4jacv": {
+              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn4jacv/",
+              "text": "You have to convince a potential postdoc adviser that your fundamentals are solid - you understand the science/engineering underlying the work you did earlier, and are ready to apply this knowledge to a new topic. While some PIs will of course only hire domain experts, there are many others who are just looking for people with a solid background and who seem like they can learn the rest quickly enough. My grad PI for example mostly cared whether a postdoc applicant could answer hard questions about their current research, even if it was completely unrelated to our lab's work (rather than saying \"uh, this is the button my boss told me to press\"), under the assumption that such a person would learn our field quickly enough.",
+              "author": "such_science_wow",
+              "created": 1613179882,
+              "upvotes": 28,
+              "replies": {}
+            },
+            "gn54flc": {
+              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn54flc/",
+              "text": "I would go one further and suggest it\u2019s actually normal to pivot. I was not allowed to continue to perform research on the device I designed and built for my PhD because my PI wanted to continue doing research on it. We were roughly  in biomedical engineering and he also asked me to stop doing research in the specific medical condition I worked on for my PhD. So I\u2019ve switched to different devices and different problems in my field and I may have to in the future again. You can use your knowledge creativity and experiences for new things - give it a try and write an grant or job application for something new and relevant to you!",
+              "author": "organicautomatic",
+              "created": 1613192173,
+              "upvotes": 17,
+              "replies": {}
+            },
+            "gn5y99a": {
+              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn5y99a/",
+              "text": "I think you are focussing too strongly on your subject knowledge rather than your experience.\n\nA PhD is training in how to do research, and that includes the process of starting at ~undergrad level understanding to becoming an expert. As now an expert in one area, moving to an adjacent one is much easier.\n\nSo the trick is making sure your applications and resume/CV focus on your skills and capabilities, rather than how you speciaiised in this one tiny little niche on some particular subject. As an example - my PhD was in developing new experimental methods to explore the behaviours of weird flow type 1. My first postdoc was in evaluating computational models of weird flow 2. The fact I had no experience in computational evaluation, or in this weird flow 2 didn't matter, because the PI on the project could see that I had a good grasp of unusual flow dynamics, and a grounding in what real flows and deposits looked like that would transfer well to evaluating the outputs of numerical models. A few years down the line I ended up running a lab on another postdoc-type contract which had *absolutely nothing* to do with flows at all, but the PI saw that I had lots of practical skills and the ability to link experimental and numerical data, with a good handle on experiment design.",
+              "author": "OrbitalPete",
+              "created": 1613206108,
+              "upvotes": 14,
+              "replies": {}
+            },
+            "gn456rb": {
+              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn456rb/",
+              "text": "Well in my case I have good math and programming skills, and also had some good rec. letters.It depends on the open mindedness of a PI. My PI for example thinks an outside perspective is good, since often when you are trained on something specific you tend to miss some low hanging fruits because you think in the same way as everyone else in your discipline.  \nAlso I didn't even just change of research topic, I completely pivoted fields.",
+              "author": "colddarkstar",
+              "created": 1613172223,
+              "upvotes": 27,
+              "replies": {}
+            },
+            "gn9jw3z": {
+              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn9jw3z/",
+              "text": "I worked in a neuroscience lab as an undergrad where the PI did his PhD in entomology but then did a post-doc in genetics/neuroscience. It's possible but doesn't sound easy.",
+              "author": "3dprintingn00b",
+              "created": 1613242236,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gn47jri": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn47jri/",
+      "text": "See Richard Hamming's lecture \"You and Your Research.\"\n\n[https://www.cs.virginia.edu/\\~robins/YouAndYourResearch.html](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)",
+      "author": "fdsnjhk",
+      "created": 1613173464,
+      "upvotes": 24,
+      "replies": {}
+    },
+    "gn56xat": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn56xat/",
+      "text": "That\u2019s not failing as a scientist, finding out when to move on from old technology is part of science. I\u2019m sure the skills you used to learn your expertise can be applied elsewhere. Good luck!",
+      "author": "spleen5000",
+      "created": 1613193807,
+      "upvotes": 17,
+      "replies": {}
+    },
+    "gn68d4u": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn68d4u/",
+      "text": "And I'm about to do my master in plasma physics/fusion energy. How exciting!",
+      "author": "SaltedCaffeine",
+      "created": 1613208768,
+      "upvotes": 12,
+      "replies": {
+        "gn7brih": {
+          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn7brih/",
+          "text": "I did that and then moved to different topic for PhD as I realized how the situation of fusion plasma was... Still I like to look back and see what is happening in this reasearch area. I remember there was still a lot to do regarding theory.",
+          "author": null,
+          "created": 1613220332,
+          "upvotes": 7,
+          "replies": {
+            "gn7du0i": {
+              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn7du0i/",
+              "text": "Was it in the US? Apparently US' DoE is interested in long-term plan for fusion energy: [http://usfusionandplasmas.org/](http://usfusionandplasmas.org/)\n\nChina is also seriously investing into fusion energy and has built two medium sized research reactors in the last decade.",
+              "author": "SaltedCaffeine",
+              "created": 1613221144,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gn5aqh3": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn5aqh3/",
+      "text": "I'm curious. What is the device?",
+      "author": "alene_dn",
+      "created": 1613196565,
+      "upvotes": 8,
+      "replies": {
+        "gn5giir": {
+          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn5giir/",
+          "text": "The one that has always been 10-15 years away is fusion",
+          "author": "OrbitalPete",
+          "created": 1613200051,
+          "upvotes": 29,
+          "replies": {
+            "gn63539": {
+              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn63539/",
+              "text": "That's what I'm guessing too. I'm a freshman in Physics and I picked this track to go just because I want to do fusion research.\n\nReally see a problem now...",
+              "author": "micropithecus",
+              "created": 1613207448,
+              "upvotes": 9,
+              "replies": {
+                "gn6rqeb": {
+                  "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn6rqeb/",
+                  "text": "Fusion also involves the study of plasmas and the effects of magnetic fields (especially magnetic instabilities) within them. Know what else has magnetic fields? **Basically everything**. And nearly everyone else hates them and tries to avoid doing anything with them. \n\nIf you can model weak, strong, stable, unstable magnetic fields and have an intuitive understanding of what instabilities a magnetised plasma is prone to, you have so much power to move between fields. \n\nThere are industries that rely on magnetic fields. There are other academic areas that feature magnetic fields too (e.g. astronomy/astrophysics, engineering). So there are definitely ways to pivot!",
+                  "author": "officially_anxious",
+                  "created": 1613214510,
+                  "upvotes": 7,
+                  "replies": {}
+                },
+                "gn670i0": {
+                  "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn670i0/",
+                  "text": "I mean, I would ahve thought anyone even approaching fusion research sees that the finish line keeps hovering someway in the distance almost regardless of steps in progress. But there *is* progress being made, and while funding is harder to get the benefits of success are so enormously vast that it's difficult to argue against merit.\n\nI'm also a bit confused at OP's post, as they seem to equate batteries (energy storage tech) with energy generation. SOlar is certainly OK, but resource wise is highly dependent on a range of critical minerals *and* real estate, and is not a viable solution everywhere. Solar and batteries do not solve the same problem as fusion.\n\nPeople getting disillusioned with their subject happens everywhere - I wouldn't necessarily take the OP's post as gospel on the subject.",
+                  "author": "OrbitalPete",
+                  "created": 1613208381,
+                  "upvotes": 11,
+                  "replies": {
+                    "gn6ibdk": {
+                      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn6ibdk/",
+                      "text": ">they seem to equate batteries (energy storage tech) with energy generation. \n\nI think the logic is that what OP researches is meant to provide a constant/steady flow of power, which isn't necessary if you can store sufficient power that is intermittently generated.\n\nIt would help us understand if we knew what precisely OP researched/researches.",
+                      "author": "ObviousReindeer235",
+                      "created": 1613211701,
+                      "upvotes": 8,
+                      "replies": {}
+                    },
+                    "gn6stk2": {
+                      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn6stk2/",
+                      "text": ">I mean, I would ahve thought anyone even approaching fusion research sees that the finish line keeps hovering someway in the distance almost regardless of steps in progress.\n\nIt's painfully common for new students in physics to have lofty notions of research and what their contribution would be. That's especially common for anything involving quantum physics (the inclusion of the word \"quantum\" is more important than the definition of any topic involving it), string theory, a \"theory of everything\", and fusion.\n\nThey don't see that the finish line keeps moving because they haven't been educated in the topics yet and won't be to any significant degree until their final year or Masters or PhD (if in the US). They don't know what the work involves or the challenges that are limiting progress. They don't know yet that they won't be the person to solve it all, because they don't even know what they'd be solving.",
+                      "author": "officially_anxious",
+                      "created": 1613214813,
+                      "upvotes": 7,
+                      "replies": {
+                        "gn6vshb": {
+                          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn6vshb/",
+                          "text": "Right, but fusion technology has been very publically in this state for decades. Anyone with a passing interest in it knows this (and admittedly, I am assuming this is fusion tech we're talking about here - but I struggle to think what else meets OP's description).",
+                          "author": "OrbitalPete",
+                          "created": 1613215641,
+                          "upvotes": 2,
+                          "replies": {
+                            "gn6zk3g": {
+                              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn6zk3g/",
+                              "text": "A freshman in physics is most likely only ~18 years old. They may have had their first ever physics class at 16, where they turned on lamps and wrote down \"lamps emit light energy and heat energy\". They may have learnt about fusion energy as a concept at 17. So you're not talking about people who have decades of knowledge. They have 1-2, and it's very likely that neither of those years was intensely focussed on all the challenges fusion technology faces. Your average freshman doesn't actually know what a Masters degree or PhD even is!\n\nI know it's hard to remember when you're so much older and so much further through your education, but incoming university students know remarkably little. They know effectively nothing about the current state of any field as a default. They know effectively nothing about the history of any field as a default. And whatever knowledge they do have is at such a low level that they're stuck only with popular science videos and overly positive pop-sci books as an immediate resource to learn more. All of these resources try very, very hard to avoid anything negative and so will not tell the truth about working in any field.",
+                              "author": "officially_anxious",
+                              "created": 1613216958,
+                              "upvotes": 5,
+                              "replies": {
+                                "gna56bg": {
+                                  "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gna56bg/",
+                                  "text": "I definitely agree with this. When I started my apprenticeship as a research technician in biology after finishing school I had way different expectations what fields of biology are and totally different plans on in which field I wanted to work. In school you learn so far different things about biology that most biologists have nothing to do with. If I had followed my initial expectations I would have probably done either something focusing mainly on evolution or animal behaviour as that was most of what we learned about.  Totally different from what I now would or will do a PhD in. \nWhen I started university afterwards it was actually fun to see how all the other students changed their views of the field over time and learned about the actual fields most biologists work in and some current states of research but that was all still very late into the studies. Also I thought it was quite little we got to know about how far scientists actually are in those fields. Like for example we were told about how good the chances for alternative antibiotics are and how much research is done and needs to be done and how so many people should start focusing on that. But honestly if I now in my point of studying would decide to focus on that for like a PhD there probably would not be all too much big things to study there when I am there. There already is a lot happening with high potential and the situation probably will be a lot different in the 8 or so years I'd still need.\nI'm very lucky that my uni helps with that and offers seminars at the end of the bachelor degree to show recent research and the state of the field and give tips on where to go and where not. But apparently my uni is one of the few ones from what I heard. \n\nAlso I had absolutely no clue about how the whole thing with masters and PhDs work. Like I knew a master comes after bachelor and after studying longer you can someway get a PhD but nothing more.",
+                                  "author": "whitelieslatenightsx",
+                                  "created": 1613247477,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gn8qnbx": {
+          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn8qnbx/",
+          "text": "Fuel Cells.\n\nSuper popular when they were used on the Apollo missions (or was it Gemini missions? I forget.)\n\nDeclining in popularity (and funding) ever since.\n\nRecently the research has pivoted to electrochemical cells, allowing them to produce \"liquid\" (yeah, right) fuel out of CO2. The reason for that pivot is obvious, solar cells and batteries. But even the usefulness of electrochemical cells is waning. If we have good batteries a device like this isn't useful. \n\nAll in all, there just isn't an application out there that hasn't been usurped by something better. \n\nI know research isn't always about \"usefulness\" but let's be real here, no one pays for fundamental research.",
+          "author": "corrado33",
+          "created": 1613235075,
+          "upvotes": 6,
+          "replies": {
+            "gn8vwkh": {
+              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn8vwkh/",
+              "text": "I figured out it was Fuel Cells because I also have a master's and a doctorate in it. I just wanted to make sure.\n\nIn my case, I worked specifically on developing materials for the electrolyte, using polymeric membranes.\n\nRight now, I'm working on a research project that has nothing to do with fuel cells. It's also about developing materials, but for functional packaging. It uses materials alike the ones I used and there is a lot of overlap in the characterization techniques that are used.\n\nI don't think I gave up on fuel cells yet, but I'm doing collaborations with some colleagues on other areas, so I have papers in another areas. It's all material development. So I guess despite your specific area not being that relevant anymore doesn't mean your skills aren't. Science is about change. I don't believe a professional is considered obsolete because the specific area they are specialized in isn't worth it anymore.",
+              "author": "alene_dn",
+              "created": 1613236495,
+              "upvotes": 5,
+              "replies": {
+                "gnf9ko8": {
+                  "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gnf9ko8/",
+                  "text": "> It's all material development.\n\nIt's always been material development. It's always been \"we just need the one super material to make fuel cells economically viable.\"\n\nAt this point it's too late. \n\nUnfortunately, my PhD wasn't in materials development, but rather characterizing degradation when fuel cells are operated using carbon containing fuels. \n\nMy post doc was in materials development... at least it was until I left. The project \"started\" as \"hey, can you do degradation studies on this material that we developed?\" When my initial research uncovered problems with their material (which two of the PhDs had patented), the relationship went downhill fast. I was ostracized and eventually forced out of the program because my research showed their material wasn't as good as they said it was, and I wasn't willing to lie and \"do more trials\" and \"only pick the good ones.\" When I refused to do that they told me to \"find another project.\" Of course, there was no other project, no other avenues of research other than those focused on their \"special material.\" It wasn't just me, 2 other post docs were also trying to replicate their results, and all failed. Except those 2 other post docs had projects to fall back on, I did not. (They were doing lifecycle analysis projects and had other things they could do that analysis on.)\n\nIn the end I figured out they never intended me to do any research. The grant I was hired under gave the lab $20,000 for ever semester I was there. (It was a grant from \"big oil\" trying to keep oil relevant.) This was supposed to be \"support for consumables/lab upkeep\" but instead, the first day I showed up they had paperwork for me to sign saying \"this is what we're buying with the money that's supposed to support your project.\" (None of the stuff ended up in the lab I worked in, but rather in the lab of the PhDs who patented the material.) This was before I even had keys for the lab. Long before the sham of \"you're being hired into a working fuel cell lab\" fell apart. When I did eventually get the keys (literally 3 months later), I found computers with windows 98, potentiostats from the late 80s and early 90s (which was the least of my complaints, they actually still worked well enough), and not a SINGLE working fuel cell rig that I could use. All of the mass flow controllers were so old they would only work on windows 7 with a hack I got from the company themselves. Well, I lie, there was ONE working rig... wanna guess who was using it? Wanna guess what I was told not to touch? Wanna guess what was running a multi 10s of thousands of hour degradation test so it wouldn't be finished even before I left? So another 6 months go by of me painstakingly ordering parts with what little money I had left to try to make this lab work again, I finally got everything \"up to snuff\" as it should be in a research lab. My first dozen or so experiments showed me why they didn't want me to actually have a working lab. Their material was awful, and their results couldn't be replicated by anybody \"outside\" of their lab. \n\nNow, don't get me wrong. This experience sucked, but I fell out of favor with fuel cells and electrochemical cells in general in the middle of my PhD, long before this all happened.",
+                  "author": "corrado33",
+                  "created": 1613318324,
+                  "upvotes": 3,
+                  "replies": {
+                    "gngj3sz": {
+                      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gngj3sz/",
+                      "text": ">It's always been material development.\n\nOh, I didn't mean to say that for fuel cells to work all that we need is material development. I mean the papers I'm trying to publish are all about material development, be it for fuel cells or the ones I'm working in via collaborations. And that I believe this can help me establish myself in the area, even if not doing material development for fuel cells.  \n\n\n> I was ostracized and eventually forced out of the program because my research showed their material wasn't as good as they said it was, and I wasn't willing to lie and \"do more trials\" and \"only pick the good ones.\" \n\nThat is awful. Something like this happened with my research group, other people trying to replicate some results and that not happening, but I'm glad to say no one was punished for saying the truth, the material was just let go. It wasn't with fuel cells though, but gas separation. I guess this depends a lot on the research group and the country you're in. I guess I just assume everyone is from the US. I'm from Brazil and, because we don't have a lot of private funding, I feel we have much less pressure to only do research if it's going to generate profit. The goal is for it to be applied, of course, but fundamental research exists. At least it did, we are not at a good moment for science right now around here.  \n\n\n> In the end I figured out they never intended me to do any research.  \n\nThe whole paragraph is scary, so I'm just gonna use it to mark what I'm replying to. Your experience sounds absolutely terrifying. It doesn't sound like there is anything good that came out of it. From what it's worth, I'm sorry. Not that it makes a difference, but I am. I mean, I understand people wanting their materials to be good, but if it isn't actually good, for how long do they intend to try to pretend it is? It's not gonna last forever. If only they can replicate their results, what purpose does it have? I get it's complicated. If you turn science into an endless search for profits, people get entangled in the system and get defensive when they're scared they will lose their grants for not generating profits. But pretending something works when it doesn't will only delay the inevitable.  \n\n\n>Now, don't get me wrong. This experience sucked, but I fell out of favor with fuel cells and electrochemical cells in general in the middle of my PhD, long before this all happened. \n\nI get that. I'm still interested in the subject and I guess still hopeful it could go somewhere, but your post did put some things in perspective for me. The fact that I read it and immediately thought \"fuel cells?\" is probably a bad sign. Here in Brazil things are a little different. We write projects so we can get the postdoc, but the money is for our salary, not for the project itself. We need to determine who our supervisors will be and prove the labs already have the infrastructure, because the project being approved doesn't mean a lot of money for it to be done. So I get to choose what I will write as my project. It's definitely going to be something for material development, but I will think more deeply about the area.",
+                      "author": "alene_dn",
+                      "created": 1613332158,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gn5b8ir": {
+          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn5b8ir/",
+          "text": "Probably something related to petroleum if I had to guess",
+          "author": "Bim_my",
+          "created": 1613196952,
+          "upvotes": -9,
+          "replies": {}
+        }
+      }
+    },
+    "gn5q2p4": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn5q2p4/",
+      "text": "Go to Google scholar. Type in, at first, each of your \u201cskills\u201d you have. \n\nExample I bet is relevant: I\u2019m sure there are standard codes you are quite proficient with; expertise is valued so that counts. If you doubt that, think like you\u2019re an employed researcher of some sort, I.e. your competitors\u2014Once I get up there in the echelons of academe, what? I\u2019M going to spend two years learning the ins and outs of that code and all the ways it interfaces with the underlying theory it\u2019s based on?? Hell no! I\u2019ve got a damn job! I\u2019d have to hire someone like you\n\nSo you see:\n\nYou. Are. An. Expert. \n\nNow apply this thinking to what ever equipment you know how to operate and/or maintain. Whatever analysis software you are familiar with? Coding languages? ...Get creative! K? Now type them into Google Scholar one at a time + [one] or [two] keywords that have something to do with energy generating systems that run tangentially or maybe obliquely to your device. If you get too many technically relevant results, start adding more of your \u201cskills\u201d in to weed through the chaff. If that\u2019s not working get creative with other devices and processes that could conceivably require your skill. Study up on the theory underpinning your skills. Now *that\u2019s* another skill. Expend your search parameters. \n\nNow start making connections between similar or perfectly dissimilar results. Keep doing that. \n\nIf this or variations on this don\u2019t yield you lines of legitimately interesting research, I don\u2019t know what could.",
+      "author": "PChemE",
+      "created": 1613203316,
+      "upvotes": 7,
+      "replies": {
+        "gn8uwkk": {
+          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn8uwkk/",
+          "text": "I did that... essentially. First off, applying for jobs during covid was... awful\n\nSecondly, I did my post doc in canada. And I had to come back to the us afterwards, so seeing a non local address probably removed my CV from 90% of desks it landed on. \n\nMy entire CV is focused on skills. Programming (I'm a geek, I can program in most common languages, including a few languages for data analysis programs, Origin, matlab, Igor, etc.), scientific instruments, writing, publications, instrument repair, laser systems upkeep and repair/alignment. There's only a single section about my actual research. \n\nIt's hard getting past the \"someone else actually spent 4 years studying the thing you're saying you're good at, so why would we hire you when you only used the technique tangentially?\"",
+          "author": "corrado33",
+          "created": 1613236234,
+          "upvotes": 1,
+          "replies": {
+            "gn9waco": {
+              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn9waco/",
+              "text": "First off, please accept my very heartfelt and sincere condolences on having to do anything in academia during Covid. Ugh. My advice is not meant to minimize the horrible realities of trying to get a job right now. I just want to be helpful. \n\nBut maybe I misunderstood. Are you looking for post doc positions?? Or fellowships? Faculty positions? Research scientist positions? I am guessing the best advice would need to be tailored to your particular position on the academic ladder, so to speak. I\u2019m a post doc myself, but I\u2019m currently looking for faculty positions. I just had to do what I described to come up with some research areas to focus on. \n\nAnother \u201ctrick\u201d might be to look for research areas that *dont* use your skills, but *could*. That can be potentially really big if your techniques actually yield new information/data/insights that the field was previously missing. \n\nI wish I could help more.",
+              "author": "PChemE",
+              "created": 1613245586,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gn58rxl": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn58rxl/",
+      "text": "I don\u2019t think that\u2019s failing at all. You seem very well aware of the situation. Also I don\u2019t think your believe in the technology should distract you from the research of it. I would honestly bench that idea and go about attempting to apply for funding. If you can convince someone to find your research further then it\u2019s valuable. Is there a possibility of a breakthrough? The thing about innovation is that you don\u2019t know what to scaffold on. The computer, for example, has a caused a major revolution in innovation. I\u2019m not suggesting you invent some like like a computer here, but rather, realise that for something like a computer to exist required a scaffold of research which predates it: your work will be used for something. Find out what that is and apply yourself toward it. I\u2019d say you will never get away from your expertise within your life time. Maybe you could take a break for a little, but I\u2019d suggest going for the funding route. Corporations may be interested in your energy knowledge? Industry labs? Commercial Innovation finds?",
+      "author": "playmo___",
+      "created": 1613195100,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gn5bu61": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn5bu61/",
+      "text": "What is that device? Just curious about it. Have you considered collaborating with other researchers if you are changing your research direction. For example, you can generate a new idea and seek your collaborators help to start something new. I mean you can do a \u201cfusion\u201d of your expertise and their expertise.",
+      "author": "crazy_scientist94",
+      "created": 1613197434,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gn6wb7m": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn6wb7m/",
+      "text": "Pivot to an extremely 'hot' topics? I'm in AI/ML. There are a bunch of people from different background pivoting here, from engineering, to pure science, to math, etc.\n\nMany groups are excited to bring new people who can bring new ideas, techniques, and tools.",
+      "author": "BeatriceBernardo",
+      "created": 1613215794,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gn7eoai": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn7eoai/",
+      "text": "Just an idea for a plan b, but you could always take a step back and apply for jobs you'd normally just need maybe a masters degree and would be over qualified for to gather some experience in another area for maybe 2-3 years and then try again to get into that area in a higher position. Of course not ideal to take a step back but it could help to reevaluate some things and gather some useful experience with new things.\nWishing you all the best! This really is frustrating but you did nothing wrong. I mean this could very well have gone the complete different direction",
+      "author": "whitelieslatenightsx",
+      "created": 1613221523,
+      "upvotes": 3,
+      "replies": {
+        "gn8teav": {
+          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn8teav/",
+          "text": "Tried that, no one would hire me because I'm overqualified.",
+          "author": "corrado33",
+          "created": 1613235842,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gn7bvr9": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn7bvr9/",
+      "text": "You\u2019ve run into the valley of despair. Realistically it will take some time to recover a similar skill set if you want to stay in academia unless there is a directly related field of research you can hop to. \n\nThe main issue is that there are so many people who have spent the amount of time you\u2019ve spent in your field, on \\_that\\_ field... so you\u2019ll be playing catch up. If you were someone at the top in your field, the jump is definitely feasible otherwise you\u2019ll need to re-evaluate whether you want to invest more time in academia. \n\nOn the plus side, it turns out that a lot of general scientific rigor and the ability to think methodically is transferable to other professions. Admittedly some companies in industry don\u2019t value a PhD highly but in many companies they do! If you have the chance, find those companies  that are doing something you find interesting and you\u2019ll typically be working with other academic types in that area.",
+      "author": "Seiberg971",
+      "created": 1613220383,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gn7c9vk": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn7c9vk/",
+      "text": "Now I am curious weather the device was tokamak or stellerator... But being serious, if you have done anything with numerical simulations I think you still have great opportunities outside of academia.",
+      "author": null,
+      "created": 1613220525,
+      "upvotes": 3,
+      "replies": {
+        "gn8tmn9": {
+          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn8tmn9/",
+          "text": "I actually LIKE to do numerical simulations in my free time, and I did computational chemistry in my undergrad, but again, none of this is PhD level, so no one would trust my experience in it.",
+          "author": "corrado33",
+          "created": 1613235906,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gn7uxw5": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn7uxw5/",
+      "text": "Can't you just shift the focus to show its potential in a niche area get the phd and then move on? You don't know what will hap2oen 20 years from now when someone blows the dust off your research and discovers its potential for something that hasn't been invented yet. What was the purpose of origami 100 years ago? Well now it's one of the most important aspects of getting  craft into space...point is you never know!",
+      "author": "libginger73",
+      "created": 1613226253,
+      "upvotes": 2,
+      "replies": {
+        "gn8u5zu": {
+          "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn8u5zu/",
+          "text": "I already have my PhD. And I've already done my post doc. \n\nI'm morally opposed to pretending something is useful just so I can keep getting someone to pay me for it. \n\nAgain, these devices have been around for 120 years. They're not \"suddenly\" going to become magically useful in 50 years. And in 50 years batteries are going to be amazing, and solar is already essentially free. These two devices effectively replace every single application my device was used for.",
+          "author": "corrado33",
+          "created": 1613236044,
+          "upvotes": 2,
+          "replies": {
+            "gn9p4b1": {
+              "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn9p4b1/",
+              "text": "Ok that sounds like your between a rock and a hard place. Good luck!",
+              "author": "libginger73",
+              "created": 1613243687,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gn7chpz": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn7chpz/",
+      "text": "What you describe here is exactly why I decided against pursuing a PhD in microbial fuel cells when I was offered the opportunity.\n\nDespite that, skills gained during a PhD are transferable, as others have pointed out. Many academics have pointed this out to me, that the topic almost doesn't matter. I'm sure you'll be able to pivot!",
+      "author": "danfrks",
+      "created": 1613220604,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gn7v7wn": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gn7v7wn/",
+      "text": "Make it worth.",
+      "author": "Cool-Philosophy-5775",
+      "created": 1613226330,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gnfitgp": {
+      "link": "/r/AskAcademia/comments/limsbb/what_do_you_do_when_you_think_the_topic_you_got/gnfitgp/",
+      "text": "There really ought to be bridge programs aimed specifically at people who get a PhD in one topic but then want to pursue research in another.",
+      "author": "thequirkynerdy1",
+      "created": 1613320270,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "sid": "p6o60h",
+  "link": "/r/AskAcademia/comments/p6o60h/how_to_do_a_literature_review/",
+  "title:": "How to do a literature review?",
+  "text": "I got a topic, and time will pass, but I have confused to do a literature review.",
+  "author": "web586f41",
+  "created": 1629281070,
+  "updated": 1634079571,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.36,
+  "comments": {
+    "h9e772m": {
+      "link": "/r/AskAcademia/comments/p6o60h/how_to_do_a_literature_review/h9e772m/",
+      "text": "Focus on the topic. A good database to focus on is Web of Science. It allows you to do a fairly comprehensive search. \n\nThen in web of science select most cited. This will give you an idea about the articles that are heavily influential in your field of choice.\n\nRead through the most cited articles first. Then start going through the rest.\n\nA very efficient way to compile the information would be to do this.\n\nDownload Zotero\n\nIn Web of Science download all the references to Zotero.\n\nThen select all your references in Zotero.\n\nRight click the highlighted references and click\n\n\"Generate Report from Item...\"\n\nThis will generate a report with the references and the abstract, which will allow you to read through all the abstracts in a document.\n\nThis is one of the techniques that I used for a meta analysis. It helps you get an idea quickly, and allows you to prioritise your reading.\n\nWhen you have an idea of the knowledge, you can start working your way through the information. \n\nWhat's the big idea, what contentions are there in the literature, what's missing from the literature, and what is wrong with the research.\n\nThat should get you started",
+      "author": null,
+      "created": 1629282334,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "h9ej1b8": {
+      "link": "/r/AskAcademia/comments/p6o60h/how_to_do_a_literature_review/h9ej1b8/",
+      "text": "Below you can find a collection of resources that I share with my students: \n\n1. Look at these heuristics for understanding if a paper is worth reading or you should move forward to the next one. [https://francescolelli.info/thesis/6-heuristics-for-assessing-the-quality-of-a-publication/](https://francescolelli.info/thesis/6-heuristics-for-assessing-the-quality-of-a-publication/) \r\n2. Understand how to select good venues (conference or journal) where you can search for good publication. [https://francescolelli.info/thesis/how-scientific-venues-work-an-heuristic/](https://francescolelli.info/thesis/how-scientific-venues-work-an-heuristic/) \r\n3. Learn how to read a scientific paper faster and more effectively. [https://francescolelli.info/thesis/read-scientific-papers-quickly-and-effectively/](https://francescolelli.info/thesis/read-scientific-papers-quickly-and-effectively/) \r\n4. Master the right features in MS-Word for handling the related work and managing the growing complexity of the task. [https://francescolelli.info/thesis/how-to-use-references-in-word-a-few-tips-and-suggestions-for-your-thesis/](https://francescolelli.info/thesis/how-to-use-references-in-word-a-few-tips-and-suggestions-for-your-thesis/) \r\n5. Get more insights about related work, literature review and survey papers [https://francescolelli.info/tutorial/related-work-literature-review-survey-paper-a-collection-of-resources/](https://francescolelli.info/tutorial/related-work-literature-review-survey-paper-a-collection-of-resources/) \n6. Categorize the papers in the proper way: [https://francescolelli.info/thesis/warming-up-the-research-engine/](https://francescolelli.info/thesis/warming-up-the-research-engine/) \n\nDepends on how sophisticated you care you can consider also using a dedicated R package for analysis. However, I would start from the links above first.",
+      "author": "flelli",
+      "created": 1629290773,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h9ext85": {
+      "link": "/r/AskAcademia/comments/p6o60h/how_to_do_a_literature_review/h9ext85/",
+      "text": "Well it's a boring \"it depends\", really.\n\nGeneral comments when starting one is to consider the outcome and scope of your review and match it to appropriate searching method, criteria, appraisal and analysis - https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1471-1842.2009.00848.x\n\nA meta-analysis is different to a systematic review (though there's overlap), compared to a narrative qualitative evidence synthesis, scoping review, policy review, or a generic \"narrative\" review, etc. For example your proposed outcome will influence what your searching method is and number of academic databases or even Google for appropriate grey literature. \n\nPlus using something like Connected Papers is a quick way to fill gaps and visually explore the literature (bibliographic network analysis website which connects citations, basically).",
+      "author": "MFA_Nay",
+      "created": 1629298195,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

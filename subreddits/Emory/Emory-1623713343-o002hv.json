@@ -1,0 +1,40 @@
+{
+  "sid": "o002hv",
+  "link": "/r/Emory/comments/o002hv/cs170_insight/",
+  "title:": "CS170 Insight?",
+  "text": "I'm going to be taking CS170 in the fall and I don't know what to expect so I wanted to study ahead. I don't exactly know what I'm supposed to study-- **Is it Java or JavaScript?**\n\nAlso, it would be helpful to know if it's worth taking since I'm a math major but plan on having a career in CS. Is it worth it?",
+  "author": "FioreFee",
+  "created": 1623713343,
+  "updated": 1634097960,
+  "over_18": false,
+  "upvotes": 8,
+  "upvote_ratio": 0.91,
+  "comments": {
+    "h1sote6": {
+      "link": "/r/Emory/comments/o002hv/cs170_insight/h1sote6/",
+      "text": "1. CS 170 is Java\n2. If you\u2019re a math major, you need to take CS 170, it\u2019s a major requirement. Also, if you\u2019re going to work in software engineering, you probably should take some CS courses to get some exposure to it especially if you never programmed before.",
+      "author": "ForeignHyena",
+      "created": 1623718541,
+      "upvotes": 8,
+      "replies": {
+        "h1sqjjh": {
+          "link": "/r/Emory/comments/o002hv/cs170_insight/h1sqjjh/",
+          "text": "Ahh, okay thank you so much! I\u2019m actually a student at Agnes Scott and I was planning on doing the CS dual degree path with Emory. Now I\u2019m planning on sticking to getting a degree in math so CS 170 isn\u2019t a requirement for me, but everything you said makes sense so I\u2019ll stick to it.",
+          "author": "FioreFee",
+          "created": 1623719454,
+          "upvotes": 2,
+          "replies": {
+            "h1t8ctf": {
+              "link": "/r/Emory/comments/o002hv/cs170_insight/h1t8ctf/",
+              "text": "If you want a career in CS, at minimum take 170,171, the data structures and algos class, and databases. From there pick and choose electives relevant to the kind of CS you want to do. Maybe consider the informatics minor if thts interesting to you.\n\nAlso since you are from Agnes Scott, I\u2019m assuming you are a woman, I highly recommend joining Rewriting the Code, a national nonprofit. It\u2019s a great group of women who help each other succeed in tech. Helped me a lot moving into CS and then DS from a nontraditional path.",
+              "author": "Worldlover67",
+              "created": 1623729149,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

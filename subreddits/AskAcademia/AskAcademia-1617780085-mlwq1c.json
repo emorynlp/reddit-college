@@ -1,0 +1,588 @@
+{
+  "sid": "mlwq1c",
+  "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/",
+  "title:": "Starting a research group after achieving financial independence",
+  "text": "I have a Ph.D. in Computer Science, graduated in 2012 from a U.S. institution. I've been working in the tech industry in machine learning and doing well, so I expect in the not so far-off future to achieve my \"FIRE\" goals and be able to live modestly off my investments.\n\nI miss the academic world and I'd like to rejoin that community and contribute my ideas to the research world, but I'm not sure the best way to go about it. My primary goal will be to work on my own research projects (i.e., I'm more interested in research than teaching, although I'd enjoy giving special topics seminars to interested students) and to build up a community of like-minded people to work on problems of interest with me.\n\nDoes anyone have examples of people doing something like this successfully? I don't think it makes sense for me to try to get a tenure-track job since these seem to favor new graduates, and I won't need the salary. But I would like to be associated with a university just to be in the right community to discuss ideas (in my case, I'm interested broadly in human-style AI (AGI) as opposed to mainstream machine learning).\n\nIn an ideal world, somehow I would raise the funds (e.g. through external grants etc) to run my own research group, but again I don't know how feasible this is unless I'm a tenure-track professor as opposed to a crazy independent scholar on the fringes of some academic institute.\n\nLooking forward to suggestions here. Thanks!",
+  "author": "eraoul",
+  "created": 1617780085,
+  "updated": 1634081795,
+  "over_18": false,
+  "upvotes": 112,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "gto0i4l": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gto0i4l/",
+      "text": "Can\u2019t you just apply as an adjunct faculty or research faculty at a university? I\u2019m not sure if you can have your own research group in those roles though. Maybe starting a company would be a better fit.",
+      "author": "notjennyschecter",
+      "created": 1617783811,
+      "upvotes": 48,
+      "replies": {
+        "gto3sqx": {
+          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gto3sqx/",
+          "text": "Yes I considered applying as faculty, but I'm not sure if that gets me where I want to be; e.g., spending time on research instead of teaching.\n\nThe company idea is also something I'm thinking about, for those reasons. It might be simpler, but also might be harder to form the community I'm looking for.",
+          "author": "eraoul",
+          "created": 1617787099,
+          "upvotes": 9,
+          "replies": {
+            "gto3voq": {
+              "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gto3voq/",
+              "text": "Research professors don\u2019t usually teach, so that could work.",
+              "author": "notjennyschecter",
+              "created": 1617787178,
+              "upvotes": 22,
+              "replies": {
+                "gto4a83": {
+                  "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gto4a83/",
+                  "text": "Part of my concern is how I've been told by some faculty that they basically don't want to hire anyone unless they're fresh out of the Ph.D. or are a professor elsewhere. I felt some extreme age-ism coming from these folks, like \"you gradated in 2012? you're too old to start as a prof.\" Maybe it's not like that everywhere, but I found it discouraging. And also sort of baffling since most academics seem rather \"woke\", but they don't seem to mind discriminating based on age. Witness things like the Fields medal, with an explicit age requirement.\n\nI am wondering if I'll have more success, though, since I won't be asking for a high salary (and could very will skip compensation completely).",
+                  "author": "eraoul",
+                  "created": 1617787575,
+                  "upvotes": 0,
+                  "replies": {
+                    "gtp0vnt": {
+                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtp0vnt/",
+                      "text": ">most academics seem rather \"woke\", but they don't seem to mind discriminating based on age. Witness things like the Fields medal, with an explicit age requirement.\n\nThe age-based awards exist to boost younger faculty. Otherwise, awards disproportionately go to those who have been in the field for decades because it's usually an old-boys club.",
+                      "author": "foradil",
+                      "created": 1617807608,
+                      "upvotes": 35,
+                      "replies": {
+                        "gtqryy6": {
+                          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqryy6/",
+                          "text": "[deleted]",
+                          "author": null,
+                          "created": 1617835319,
+                          "upvotes": 4,
+                          "replies": {
+                            "gtrjq2y": {
+                              "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtrjq2y/",
+                              "text": "That's a better system, but then you are still biased against long post-docs.",
+                              "author": "foradil",
+                              "created": 1617849474,
+                              "upvotes": 5,
+                              "replies": {}
+                            }
+                          }
+                        },
+                        "gtpn3y1": {
+                          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtpn3y1/",
+                          "text": "I didn't realize that -- thanks for clarifying!",
+                          "author": "eraoul",
+                          "created": 1617817206,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "gtoalld": {
+                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtoalld/",
+                      "text": "I'm a computer science professor at an R1 university.\n\nYou got a PhD in 2012.\n\nHow many papers have you written in the past 8 years?\n\nI'm guessing not many or you would have mentioned it.\n\nThat is why you won't get hired by a dept in a research role; not because of how long ago you got your PhD.\n\nA research professor is (usually) non tenure track and the vast majority of their salary has to be self funded via grants.\n\nYou're not going to get grants without having papers that indicate you have at least a basic set of expertise in the area.\n\nI'm not trying to be elitist, but unless you had a shit ton of papers during your PhD or a shit ton of papers when you were in industry, there is seriously like zero chance any research oriented department is going to hire you outside of an adjunct instructor position.\n\nWorking with existing faculty is a possibility, but like... I've got my own projects that I've gotten funded and am paying students to work on. Why should I spend the very few minutes of free time I have working on (unfunded) projects that someone else wants to do?\n\nI'm sure this comes across kinda harsh, but that's not really my intent. I'm just being blunt.\n\nBefore academia, I was in industry; academia is much more cut throat than industry.",
+                      "author": "worst",
+                      "created": 1617793225,
+                      "upvotes": 120,
+                      "replies": {
+                        "gtotl6g": {
+                          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtotl6g/",
+                          "text": "I agree with this.\n\nIf you haven't been reading the research literature, publishing and doing actual research in your field, this is a whole different universe and you can't just get good or be good because you do the thing. Like being a good doctor to you as a patient is a totally different skill set than planning and running a clinical trial.",
+                          "author": "PersephoneIsNotHome",
+                          "created": 1617804252,
+                          "upvotes": 26,
+                          "replies": {}
+                        },
+                        "gtpmvfh": {
+                          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtpmvfh/",
+                          "text": "Thanks for the comments here. Yes indeed academia seems more cutthroat from what I'm hearing!\n\nI have a couple dozen papers from my Ph.D. years, but yes as you said I haven't been publishing much in industry (a couple things here and there, and of course I'm keeping up and attending NeurIPS etc, taught a deep learning course at a university in my spare time recently etc.) \n\nBut yes I'm not as interested in getting hired and taking up a valuable faculty slot, but still wondering if I can find a way to contribute.",
+                          "author": "eraoul",
+                          "created": 1617817104,
+                          "upvotes": 10,
+                          "replies": {
+                            "gtqe4xc": {
+                              "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqe4xc/",
+                              "text": "If you had a couple dozen papers during your  PhD and are regularly reading new papers, then you should not have much problem getting back into the swing of things.\n\nGo write a paper and get it accepted.\n\nThen write another one, and another, etc.\n\nIt's easier said than done, but it is the simplest solution.\n\nOnce you do that, industry experience becomes immensely valuable. Before my PhD I slung code/did start ups, and directly after my PhD I worked in an industry research lab before going tenure track. That experience is a big asset now that I'm managing a group of researchers.\n\nBut, without the actual research track record (i.e., papers) industry experience is borderline worthless.",
+                              "author": "worst",
+                              "created": 1617828824,
+                              "upvotes": 5,
+                              "replies": {
+                                "gtqel19": {
+                                  "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqel19/",
+                                  "text": "Thanks. Yeah I had 2 papers accepted in the past year, not super exciting ones though.",
+                                  "author": "eraoul",
+                                  "created": 1617829019,
+                                  "upvotes": 4,
+                                  "replies": {
+                                    "gtqi7nx": {
+                                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqi7nx/",
+                                      "text": "Two is a _lot_ more than zero!\n\nTwo is enough that I would at least pay attention to an email you sent asking about potential collaborations.\n\nYou could (should?) try reaching out to people (especially people that published in the same venue around a similar or synergistic topic).",
+                                      "author": "worst",
+                                      "created": 1617830655,
+                                      "upvotes": 6,
+                                      "replies": {
+                                        "gtqis97": {
+                                          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqis97/",
+                                          "text": "Thanks for the encouragement!",
+                                          "author": "eraoul",
+                                          "created": 1617830919,
+                                          "upvotes": 3,
+                                          "replies": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "gtqabwn": {
+                          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqabwn/",
+                          "text": "I want to disagree with this from the point of view that papers aren't the be-all-end-all. I know of a handful of research faculty that don't publish in the traditional sense (of academic journals, conferences, etc). At the tippy-top, NdG is at Princeton, Stephen Pinker's at Harvard, but there are lots of \"smaller big names\" with university association that are well-known in their field in other spheres, either as public-facing figures for the field, or in industry. I don't think he's affiliated anymore, but someone like Yihui Xie used to be (iirc), and could easily apply for and get, a research faculty position. Even at my own institution there are two scholars with a similar position and title as research faculty, but their primary work is in other industries (medical/government). They have a small office space and university affiliation because both institutes benefit from being associated with the other when stuff comes out in the paper/grants/fellowships/etc.",
+                          "author": "Jacqland",
+                          "created": 1617827149,
+                          "upvotes": 3,
+                          "replies": {
+                            "gtqcjpp": {
+                              "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqcjpp/",
+                              "text": "OP has a CS PhD and I'm speaking from the point of view of a CS professor that has been on both sides of the hiring committee.\n\nPapers matter (and in CS, conference papers matter; journals are worthless).\n\nYes, if Tim Berners-Lee ever decides to apply to my dept, it won't really matter that he only has a BA.\n\nThere are exceptions to every rule, but implying that a random person that was in industry for a decade will land a research role at an R1 university is one of the reasons that there are a ton of unemployed PhDs...\n\nIt's just not a realistic path.",
+                              "author": "worst",
+                              "created": 1617828116,
+                              "upvotes": 11,
+                              "replies": {
+                                "gtqe4wr": {
+                                  "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqe4wr/",
+                                  "text": "I didn't mean to imply that at all, and I'm sorry if it came across that way. I meant to imply that if the OP is famous enough within the field by *any* metric (not just publications), and wealthy enough to support a research group, there's a good chance the university would be happy to take them on.\n\nI'm interested in your experience evaluating applications for research faculty, if you don't mind sharing? I think it would be a pretty fascinating conversation, given a person may come with a lot of money and clout but not necessarily the regular skillset that hiring committees often look for.",
+                                  "author": "Jacqland",
+                                  "created": 1617828824,
+                                  "upvotes": 2,
+                                  "replies": {
+                                    "gtqhspq": {
+                                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqhspq/",
+                                      "text": "Money solves everything, of course.\n\nStroke a fat enough check and you can do whatever you want.\n\nThis maps over to people that aren't independently wealthy btw; if you have $100M in active grants you can probably go wherever you want too.\n\nThat said, in no particular order:\n\n1. Does this candidate fit the area we are trying to hire for (for TT hires vs research professor hires this also implies they can teach some courses that needs to be taught).\n2. How \"good\" is the candidate's research? (What's considered \"good\" is insanely subjective and in many places can come down to internal department politics)\n3. Will the candidate be able to get funding? Competitive funding rates (NSF et al.) are very low.\n4. Is this candisate an asshole/other political concern?\n\nLet me put it this way.\n\nIt costs me like $50k a year per PhD student, and I'm at a state school. I.e., it costs me on the order of $200-300k to graduate a PhD student. That is pure labor costs; nevermind equipment (I have a few hundred thousand bucks in hardware), travel costs, etc.\n\nIf someone was independently wealthy enough that they could spend $150k+ per year out of their own pocket to finance a lab, expected $0.00 in salary or benefits, and wasn't a psychopath, then I guess we'd pay attention.",
+                                      "author": "worst",
+                                      "created": 1617830463,
+                                      "upvotes": 3,
+                                      "replies": {
+                                        "gtqjd24": {
+                                          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqjd24/",
+                                          "text": "That all makes sense. In my particular case I'm not wealthy at all; just planning to get by on investment income with a modest lifestyle, but I won't have $$ to give away unfortunately, so indeed finding funding for grad students etc is important.",
+                                          "author": "eraoul",
+                                          "created": 1617831188,
+                                          "upvotes": 2,
+                                          "replies": {
+                                            "gtqjuwy": {
+                                              "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqjuwy/",
+                                              "text": "Trust me, finding funding is the shittiest part of the job.\n\nIt's only _slightly_ better then when I was trying to hustle investor money for start up :/",
+                                              "author": "worst",
+                                              "created": 1617831417,
+                                              "upvotes": 2,
+                                              "replies": {
+                                                "gtqk6xj": {
+                                                  "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqk6xj/",
+                                                  "text": "Yeah I hear that. I was lucky enough to write an NSF SGER grant proposal for myself in grad school (and had my advisor submit as PI) so I was able to pay my own way back then, but I realize the funding piece is hard and I don\u2019t know how much luck I\u2019d have with it now.",
+                                                  "author": "eraoul",
+                                                  "created": 1617831571,
+                                                  "upvotes": 1,
+                                                  "replies": {
+                                                    "gtqoy6u": {
+                                                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqoy6u/",
+                                                      "text": "Funding is not entirely dissimilar to the start up world, tbqh.\n\nThe idea matters, but perhaps more so is a track record of execution.\n\nMy self and friends have had proposal reviews that (barely paraphrasing) said \"idk about the proposal, but the PI will probably stumble into some valuable stuff if we give them money.\"",
+                                                      "author": "worst",
+                                                      "created": 1617833822,
+                                                      "upvotes": 2,
+                                                      "replies": {}
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "gtz4gdd": {
+                                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtz4gdd/",
+                                      "text": "America runs on overheads. I left a long time back, but someone I'm sure can jump in with the current (I'm sure obscene) rates.",
+                                      "author": "NewInMontreal",
+                                      "created": 1618002504,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "gtqlxk0": {
+                          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqlxk0/",
+                          "text": "THIS!!!! \n\nPublications are academic currency.",
+                          "author": "tardarsource",
+                          "created": 1617832373,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "gto90kw": {
+                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gto90kw/",
+                      "text": "Look into schools with entrepreneur centers. They would be a great fit.  Contact them and see what support they offer. I work with ours and they actively try to get community partners with high levels of industry experience to set up mini labs/offices in their building.\n\nAlso, I know you say you have no desire to teach, but look into pedagogy, adult ed teaching strategies, and research mentoring workshops. Those skills will make your industry experience more attractive to universities. You will still be using those skills in a lab setting",
+                      "author": "CardboardChewingGum",
+                      "created": 1617791935,
+                      "upvotes": 18,
+                      "replies": {
+                        "gtpo7zd": {
+                          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtpo7zd/",
+                          "text": "That's a great idea, thank you! Yes I've done a bit of teaching on the side while in industry.",
+                          "author": "eraoul",
+                          "created": 1617817687,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "gtokqwd": {
+                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtokqwd/",
+                      "text": "I attended a course on machine learning at the University of Cambridge. One of the full professors in the CS department was formerly working for Amazon and then he started his own academic research group at the university.\n\nAs others have said, you may need to demonstrate your research contributions, but there are successful examples out there :)",
+                      "author": "EGCCM",
+                      "created": 1617799831,
+                      "upvotes": 6,
+                      "replies": {}
+                    },
+                    "gtobvye": {
+                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtobvye/",
+                      "text": "I had a professor at my undergrad institution who was a retired police officer without graduate degrees. He started as a teaching-stream faculty, teaching courses in the forensic science department (directly related to the policing career he had). He worked on his graduate degrees part-time within the department. When he completed his PhD at the end of 2019, he got promoted into a tenure-track assistant professor position with both research and teaching responsibilities.\n\nI know this is likely a unique case, but other career experiences can be beneficial in some circumstances.",
+                      "author": "poniesgirl",
+                      "created": 1617794224,
+                      "upvotes": 3,
+                      "replies": {}
+                    },
+                    "gtpk5ft": {
+                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtpk5ft/",
+                      "text": "Well, I understand you have your expertise, but it seems like you are trying to buy your way into academia now that you've made all this money. I don't think that's a great thing to do and I'm sure others get that impression too. IMHO I don't think ageism is at play. Frankly  there's just a preference for people who are actively doing research and publishing, and basically devoting their life to research.",
+                      "author": "notjennyschecter",
+                      "created": 1617815940,
+                      "upvotes": 0,
+                      "replies": {
+                        "gtportf": {
+                          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtportf/",
+                          "text": "I didn't intend to give that impression; thanks for letting me know how it sounded.\n\nBasically I'd like to contribute usefully to the research area I care about, and I'm hoping that I can be useful without fighting over scarce university salary resources.",
+                          "author": "eraoul",
+                          "created": 1617817920,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "gtqlstb": {
+                      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqlstb/",
+                      "text": "It depends what a dept is looking for... a dept can pay younger/junior faculty less, young faculty could have more potential, more thirsty for success, but more senior faculty have more experience, more publications (and citations, boosts dept metrics), so it can go both ways. Just depends on what they're looking for. I heard a dept threw shi ton of money at an older academic super power-couple cos they'd bring a shit ton of citations that would boost their dept TO THE MOON in the rankings, then they could negotiate better overheard (more grant $$$$), etc. \n\nIt's ALL ABOUT THE BOTTOM LINE. What can you bring them? \n\nResearch? Publications? Citations? Grant $$$$ patents? Prestige? \n\nand what do you cost them?? Salary, startup costs etc.",
+                      "author": "tardarsource",
+                      "created": 1617832313,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "gtql7aq": {
+              "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtql7aq/",
+              "text": "Just fyi - you can \"buy yourself\" out of teaching. \n\nThis is most common with tenured faculty (who don't have the pressure of doing things for the sake of tenure), and who have more grant money coming in. Through this they can effectively buy themselves \"course\" releases. Now, I don't know how much of this comes from seniority vs. grant money, but it's a thing. Having said that, dept chairs have burdens on making sure there are enough teaching faculty, so it's a pain for them. So I recommend building some networks with departments that do work similar to yours (i.e. where you would apply for jobs) and then start discussions with them, and see what would be feasible. If you're not looking for much salary, they get an extra faculty, and you'd bring in grant money (overhead fees sometimes 60% goes to college, they're happy, it's a win-win. I would DEFINITELY reach out to depts you'd envision yourself in and start discussions. (Cos we don't really know anything, particularly as it pertains to specific departments).",
+              "author": "tardarsource",
+              "created": 1617832036,
+              "upvotes": 3,
+              "replies": {
+                "gtqn17x": {
+                  "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqn17x/",
+                  "text": "Thanks for the additional insight -- I didn't know that. Much appreciated! Networking with potential departments definitely sounds like a good next step.",
+                  "author": "eraoul",
+                  "created": 1617832897,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "gtrel0d": {
+              "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtrel0d/",
+              "text": "Are you located by a university? If so, reach out to a program you're interested in and see if there's any way to get involved in the programs activities: participating in seminars, student supervision, supporting internships, etc. Use this to eventually become an affiliate, which is fancy speak for someone who hangs out (see e.g. [https://cisac.fsi.stanford.edu/people/network](https://cisac.fsi.stanford.edu/people/network)). Then apply for grants w/university. Or just cut out affiliate and go for grants. Better to do this while employed and in industry because you can go after certain grants with an industry connect better than just some solo random FIRED person. NSF and others are increasingly about research/industry collab these days (e.g. [https://www.nsf.gov/funding/pgm\\_summ.jsp?pims\\_id=504709](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504709)).\n\nIf grants hit, work with researchers and  build your publication profile. Use this as currency to bring in more grants. Build up a network that allows you to churn out grants and papers and grants and papers.\n\nI have no idea why you'd want to do this post retirement. It's super hard work. Applying for grants and managing researchers is stressful. Cut throat competition. It's not like a fun (but stressful) PhD. Impact is questionable: the goal is to be a paper mill. There's basically no fun in it. And the money's not worth it. If you're FIREd why go down this path?\n\nEdit: happy medium is reaching out to profs now and just say you're interested in collabs and happy to hook students up with internships and serve on dissertation committees. Basically the affiliate 'fuck around' position. No real responsibility but some space to engage with university at your own interest/level. If I wasn't burnt out with research I'd do this. (Also, if you can contribute to the NSF I mentioned, pls DM me... looking for an industry partner)",
+              "author": "PROPHYLACTIC_APPLE",
+              "created": 1617846853,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gtoapst": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtoapst/",
+      "text": "What you want to do is unusual, but possible. I know of a couple of examples. Someone who has been out of the academic research game for a decade or more doesn\u2019t have quite as much to offer the university as they think they do, and in general, the university isn\u2019t going to just give them a research position. However, it is entirely possible for someone in that position to join the lab of an existing faculty member, initially in a volunteer capacity, and work with them and their students and then begin submitting their own research proposals and gain independence that way. That\u2019s how I have seen it done, and in both cases the person has gone on to be very successful on their own.\n\nIf I were you, I would find one or more faculty members with whom you might enjoy collaborating and get in touch with them. That\u2019s by far the easiest way to get your foot in the door.",
+      "author": "bigrottentuna",
+      "created": 1617793319,
+      "upvotes": 19,
+      "replies": {
+        "gtpoynn": {
+          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtpoynn/",
+          "text": "Thanks, great ideas!",
+          "author": "eraoul",
+          "created": 1617818003,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gto81cp": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gto81cp/",
+      "text": "Well depending on what you mean by \"successfully\", Stephen Wolfram springs to mind. He certainly is successful financially, and seems to spend a good deal of his time on research projects. I personally think his research amounts to not very much, but I'm sure he's happy.",
+      "author": "l_lecrup",
+      "created": 1617791091,
+      "upvotes": 19,
+      "replies": {}
+    },
+    "gto9b52": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gto9b52/",
+      "text": "I know of someone doing something not very different by starting an open source project that attracted academic interest. You would need to keep track of academic interests by going to conferences but I assume you would do that anyway out of interest so I see this as certainly viable.\n\nA good way to start would be to pick your favourite open source projects, and make contributions that favour some direction that fits in with your research agenda. Contributions includes hiring people to make said contributions. Open source projects are usually linked to some university/research groups.",
+      "author": "catanistan",
+      "created": 1617792183,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "gtnzp1s": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtnzp1s/",
+      "text": "Just spit balling here, but I think the viability of this very much depends on where you live. If you live in an area with a R1 university that has a good CS department that is looking for and interested in talent, you could try to slowly work your way into their community. I would arrange a meeting with the chair of the department, introduce yourself, and state your interests (personally, I don't think you will be able to apply for grants, but you could be a useful asset the department through volunteering your time), and start attending and making good contributions to departmental lectures. If you do this consistently, and aren't a creep / weirdo, the faculty may start to acknowledge that you can make some free / valuable contributions to departmental life (that also takes some stress off them as they won't have to field as many questions from students). BUT this is the best case scenario, it really depends on where you are and what the departmental culture is like. Same goes for being an independent scholar, you can approach it through consulting, attend / submit your work to conferences, and gradually you can start to build a reputation. That's what it's all about - building a reputation for good work and expertise, so people start coming to you.",
+      "author": "Mighty_Specialist88",
+      "created": 1617783011,
+      "upvotes": 26,
+      "replies": {
+        "gtochti": {
+          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtochti/",
+          "text": "To add to this, there are also ways to be able to apply for grants in that situation. I moved near a good university to be with my partner and they gave me Guest Researcher status so that I could be the PI on grant applications. I guess it probably depends on the school/field/country.",
+          "author": "papayatwentythree",
+          "created": 1617794672,
+          "upvotes": 8,
+          "replies": {}
+        },
+        "gto3xte": {
+          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gto3xte/",
+          "text": "Thanks for the ideas here! Yes, these things make sense to me. I'm pretty open about where I live so I might try moving to an area with a department where I think this could work; although I think in that case I'll visit first and talk with the department chair etc as you suggest, to see if this is viable.",
+          "author": "eraoul",
+          "created": 1617787235,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "gtpvyyv": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtpvyyv/",
+      "text": "What you're describing is research faculty.  There will be many opportunities to do this sort of work (it's less competitive than TT lines and, certainly in CS, industry experience is valued).\n\nSchools would be more interested in you working on mainstream machine learning, rather than AGI.  You can decide for yourself what compromises you're willing to make.",
+      "author": "TADodger",
+      "created": 1617820997,
+      "upvotes": 7,
+      "replies": {
+        "gtq0cwr": {
+          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtq0cwr/",
+          "text": "Thanks -- I was more familiar with tenure-track positions and didn't realize research faculty isn't tenure-track. Thank you!",
+          "author": "eraoul",
+          "created": 1617822877,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gtp5xuc": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtp5xuc/",
+      "text": "Just adding something I did not see mentioned too much. \"Running your own research group\" requires that people get paid. You have to convince someone to give you the money. To do that, they have to see prior results (papers). It is like running your own business - you need to worry about your \"employees\" getting paid. Could you convince an investor to give you money to start a company and hire five people for at least three years (several millions) with what you have already achieved, and a promise for some results? \nJust because you have industry experience that does not mean that you have the skills/training to run a research group. You can definitely slowly work your way back to academia, with ways that others here have nicely elaborated, but the way you write you come off as a bit conceited. For better or worse the return cannot happen on your terms, but on academia's terms.",
+      "author": "fiona0000",
+      "created": 1617809846,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gtolz6j": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtolz6j/",
+      "text": "How about non tenure track research faculty or even a research scientist position in an established lab during research in an area you like? Nonprofit research institutes have trouble keeping talented ML people because industry is willing to throw money at them.",
+      "author": "Spamicles",
+      "created": 1617800489,
+      "upvotes": 7,
+      "replies": {
+        "gtppbut": {
+          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtppbut/",
+          "text": "Ah yes, this is an interesting point. I'm having trouble finding an established lab doing the kind of research I care about (e.g., cognitively-inspired AI, not just deep learning). One of my fundamental issues is that I want to do work that's not as much in the mainstream (i.e., deep learning for all the things).",
+          "author": "eraoul",
+          "created": 1617818160,
+          "upvotes": 2,
+          "replies": {
+            "gtpuqu3": {
+              "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtpuqu3/",
+              "text": "These guys are hiring and are world class: https://navlakhalab.net/. I know you are in industry but in the past did you have some good publications and/or conference papers? If you have a strong CV you can pm me I would be happy to look it over and introduce you if interested.",
+              "author": "Spamicles",
+              "created": 1617820470,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gtowso9": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtowso9/",
+      "text": "The question is: is your goal to produce new independent research or is your goal to enjoy the intellectual mileux of a university? If it's the former, you don't have much chance. As others have said, you're a bit far out of your PhD to be a compelling new hire. If you haven't been publishing or going to research conferences in your previous job, you might lack the reputation and network to land a job. Basically, the question is: why would a university spend scarce resources on you? This isn't just salary. It's office space \u2014\u00a0the most important coin in the realm. It's administrative support. It's having to account for your views in faculty meetings. What are you bringing them that will help their goals? \n\nIt isn't impossible. My BIL was a research scientist at a company and one day decided he wanted to be a prof, made a few calls and now has a tenure track job at a R1. But, he was heavily involved in producing new research at his old job. \n\nIf you're looking for an intellectual mileux then I would say start by adjuncting and kind of worming your way in. Many departments have professors of practice in many departments that are involved in the school's intellectual community. \n\nThere are...other, less natural ways to get into the community. Give enough money and you can hang out with the cool kids. Epstien donated so much money that he got an office at Harvard, a really choice prize!",
+      "author": "bad_jew",
+      "created": 1617805756,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gtpkise": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtpkise/",
+      "text": "Check out data science groups at big universities. They often have a few ML/AI ppl on staff who get to work on their own projects for a bit of time, but also spend like half their time consulting with academics in other domains on projects. University of Washington eScience Institute & NYU Center for Data Science are just two examples. I\u2019m seeing more and more of these types of groups at large R1\u2019s.",
+      "author": "Jaxococcus_marinus",
+      "created": 1617816097,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gtqjc3p": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqjc3p/",
+      "text": "This guy joined a hedge fund then went back to academia: https://en.wikipedia.org/wiki/Alkes_Price\n\nIf I were you I'd do a postdoc to get back into research and then apply to faculty positions after you've gotten a couple of publications under you from there.  Unless you think your publication record is so strong that you can actually just apply to faculty positions right now.\n\nThis issue of what kind of position is best for you is a separate question.  As far as not competing for resources -- how are you going to pay the people under you?  Are you going to have graduate students?\n\nIf you don't want to be a professor maybe you could join the staff at some other research facility, or the research division of a large corporation?",
+      "author": "dampew",
+      "created": 1617831176,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gtqye42": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqye42/",
+      "text": "You might be interested in the Ronin Institute: http://ronininstitute.org/. It's for people who want a community of researchers but who don't necessarily have academic positions.",
+      "author": "omearabrian",
+      "created": 1617838575,
+      "upvotes": 3,
+      "replies": {
+        "gtqyuu7": {
+          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqyuu7/",
+          "text": "Fascinating; I'll check it out. Thank you!",
+          "author": "eraoul",
+          "created": 1617838817,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gtohdjn": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtohdjn/",
+      "text": "One thing you could think about, is building a research lab that fulfills this goal of yours. For example, Character Lab is run by professors from Wharton, but isn\u2019t explicitly a part of UPenn. They work with researchers all over the US/World on facilitating research in schools. \nA potential avenue for you would be creating a partnership with a professor and building out this type of research lab that focuses on the area of research you focus on.",
+      "author": "DaMuskiestofMuskrats",
+      "created": 1617797901,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gtokrq9": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtokrq9/",
+      "text": "You can always pair up with faculty at your local R1 CS department that already has a research group in your area of interest and become a 'patron' to a graduate research assistantship. This would be the fastest and most effective way to mandate the areas of interest (you can stipulate that the work of the recipient has to be in, e.g. AGI, the candidate selection) and actually help both a capable student and the institution.",
+      "author": "ethanfinni",
+      "created": 1617799844,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gtou001": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtou001/",
+      "text": "I'm not sure this will interest you as they are full time positions with full time expectations, but look into research software engineer positions with labs or centers. Most of your work will be supporting other researchers, but it will get your foot in the door for an academic community. All the work is still research and there's plenty of opportunities for collaboration. Keep in mind that even tenure-track/tenured academics don't get to do only their own research interests, academia is a lot of politics and grant priorities. Your own research may or may not be valuable, but mostly it will be difficult to get it recognized without playing the game.\n\nExamples of independent researchers off the top of my head who achieved success without being tied to academia are Robert C. Edgar (comp bio) and Yitang Zhang (math)",
+      "author": "cartoonsandcereal",
+      "created": 1617804447,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gtp1app": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtp1app/",
+      "text": "Bill Paxton is an example of someone that did exactly what you have in mind:\n\n[https://en.wikipedia.org/wiki/Bill\\_Paxton\\_(computer\\_scientist)](https://en.wikipedia.org/wiki/Bill_Paxton_(computer_scientist))\n\nI would reach out to faculty working in your areas of interest to see if they are willing to host you. Once you have built a research portfolio you can think of applying for grants etc., but if you are financially independent, you do not need to and you might find it more satisfying to just spend the time doing research, rather than writing grants.",
+      "author": "MadScientist29",
+      "created": 1617807797,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gtqrk4o": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqrk4o/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1617835112,
+      "upvotes": 2,
+      "replies": {
+        "gtqspz5": {
+          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqspz5/",
+          "text": "That's awesome, thanks! Maybe it's time I make good on all those threats to move to Canada :). I actually almost accepted a position at Victoria when I finished my Ph.D. Will look around for this sort of position, thanks!",
+          "author": "eraoul",
+          "created": 1617835696,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gtor3vw": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtor3vw/",
+      "text": "TTIC is one example of a place where you don't have to teach.",
+      "author": "uw_gooselord",
+      "created": 1617803069,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gtp02tk": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtp02tk/",
+      "text": "If you want a real-world example, you can look into [Jeff Hammerbacher](https://en.wikipedia.org/wiki/Jeff_Hammerbacher) who went from Facebook to academia. However, this would probably be much more difficult for someone who is not already a high-profile individual in the industry.",
+      "author": "foradil",
+      "created": 1617807245,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gtp8jkl": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtp8jkl/",
+      "text": "I like that idea, I have the same but I am not and probably never will be financially independent. I also have no answer, I will be curious to read the answers; but I like the question in what way somebody else might have succeeded in sth like this? \nI was thinking sth like kickstarter might work, just for an academic research topic. You still need to be able to formulate well what you want to work on.",
+      "author": "knaecke5",
+      "created": 1617810972,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gtp9ez7": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtp9ez7/",
+      "text": "Isn't better to start a research oriented company? Channel the profit to research itself?",
+      "author": "phil_an_thropist",
+      "created": 1617811347,
+      "upvotes": 1,
+      "replies": {
+        "gtqpm9l": {
+          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqpm9l/",
+          "text": "It's certainly a possibility I'm thinking about, but I'm more inclined towards basic research that may not have an immediate \"profit\", so I'm concerned about diverging too much from my research interests if I go that route. But yeah, in a sense this seems like it might be a viable option.",
+          "author": "eraoul",
+          "created": 1617834148,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gtpxm1u": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtpxm1u/",
+      "text": "/u/eraoul Have you considered funding a research center at a university?",
+      "author": "dlan1000",
+      "created": 1617821695,
+      "upvotes": 1,
+      "replies": {
+        "gtq0ovo": {
+          "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtq0ovo/",
+          "text": "Thanks for asking. I would certainly do that if I could afford it but that's a whole other level. I'm talking about saving up enough to scrape by with a simple lifestyle, not having loads of cash to fund anyone else unfortunately.",
+          "author": "eraoul",
+          "created": 1617823021,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "gtqohvj": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqohvj/",
+      "text": "Move to the Bay Area. Join OpenAI or similar.\n\nIf you're just trying to pursue your own interests, a tenure-track job won't let you do that. A company might not either, but at least you can quit and move around until you find something you like; academia is much less flexible.",
+      "author": "uniadminthrowaway",
+      "created": 1617833603,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gtqyzhw": {
+      "link": "/r/AskAcademia/comments/mlwq1c/starting_a_research_group_after_achieving/gtqyzhw/",
+      "text": "I hate to tell you but you need to work and make as much as possible.\n \n The tax man cometh and he is looking for you.",
+      "author": "TSIDATSI",
+      "created": 1617838885,
+      "upvotes": -2,
+      "replies": {}
+    }
+  }
+}

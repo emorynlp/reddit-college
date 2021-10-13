@@ -1,0 +1,216 @@
+{
+  "sid": "bh7oaa",
+  "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/",
+  "title:": "I am building a mini-guide on how to do a thesis: would love your feedback",
+  "text": "Hi AskAcademia,\n\nI am currently building a set of blog articles on how to do a thesis (Bachelor or Master). The idea is to give them to the students that are doing a thesis with me so that they will not be asking me the basic questions and we will have a better conversation during our meetings. As much as I would like to claim that these articles are general and could be used for any kind of thesis and in any domain I may be bias by both, my domain of expertise and the program at the university.\n\nI would love to have your feedback and especially (but not limited to) in these 2 aspects: (i) is there anything that you believe is missing and should be mentioned. (ii) How much this could be applied to your domain.\n\nThis is a small summary:\n\n## Before you start.\n\n1. Ask yourself what you want to do when you will \u201cgrow up\u201d. This article will help you in understanding how you cold [take the most from your thesis for achieving your future goals](https://francescolelli.info/thesis/take-the-most-from-your-thesis/).\n2. (Optional) Get a grasp of [what kind of mentor I am](https://francescolelli.info/thesis/mentor-for-your-thesis/). It will help you in understanding what I write in these posts and/or if we are compatible in case you are considering pursuing your thesis with me.\n3. Set up the [proper communication tools with your supervisor](https://francescolelli.info/thesis/setting-up-the-proper-communication-tools-with-your-thesis-supervisor/), in this way you will experience a better quality time with him/her.\n\n## Literature research and related work\n\n1. Look at these [heuristics for understanding if a paper is worth reading](https://francescolelli.info/thesis/6-heuristics-for-assessing-the-quality-of-a-publication/) or you should move to the next one.\n2. Understand how to select [good venues (conference or journal)](https://francescolelli.info/thesis/how-scientific-venues-work-an-heuristic/) where you can look for good publications.\n3. Learn how to [read a scientific paper faster and effectively](https://francescolelli.info/thesis/read-scientific-papers-quickly-and-effectively/).\u00a0\n\n## The experimental and scientific part\n\n1. Get an idea on \u201c[how to warm up your research engine](https://francescolelli.info/thesis/warming-up-the-research-engine/)\u201d and do your first step\n2. Get some inspiration from the work of other scientists and learn [how to properly categorize the literature review](https://francescolelli.info/thesis/how-to-use-the-literature-review-for-your-research)\n3. <work in progress>     \n\n\n## The last mile\n\n<work in progress>    \n\n\n&#x200B;\n\nThanks in advance for the useful feedback!",
+  "author": "flelli",
+  "created": 1556193007,
+  "updated": 1634080924,
+  "over_18": false,
+  "upvotes": 171,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "elqsjtr": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elqsjtr/",
+      "text": "This seems like good advice for how to get started finding an idea for a thesis. What does a thesis consist of in your field? It seems like you are mostly advising on how to write a literature review - which is a great place to find an idea. The \"experimental and scientific part\" is lacking in terms of actual experiments from my perspective in STEM. \n\nAlso, you might consider having a native English speaker proof-read your articles, there are a lot of little grammar mistakes. This seems like a really nice resource for your students!",
+      "author": "mimariposa",
+      "created": 1556199030,
+      "upvotes": 11,
+      "replies": {
+        "elqtyhz": {
+          "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elqtyhz/",
+          "text": "Thanks Mimariposa, \n\nI am currently focusing on building the articles and definitively the content need to be proof-read. \n\nThe \"experimental and scientific part\" is currently work in progress. I started from the literature review because: (i) bachelor students are mainly involved in that part (ii) I needed to start somewhere :-). \n\nThinking at loud here: I would like to talk about scientific hypothesis and in the design of qualitative and quantitative experiments. Your opinion is welcome!     \n\nMy definition of thesis in my field (Information Management and please note that colleagues could disagree) is: \"a proof that the student master the scientific process and can deliver a (minor but sound) scientific outcome\".",
+          "author": "flelli",
+          "created": 1556199975,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "elr0jb3": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elr0jb3/",
+      "text": "Literature review matrices and a good reference management system are a must to include.  These organize can transform the literature from an organizational nightmare to something that is simple and easy to write.  These are two skills that are often overlooked though or assumed that students will just know.  Same for a small technical section of formatting.  My school just expected us to know how to properly format our thesis without no instructions.  While it is easy to double space stuff or pick the right font, having the first page of each section not have a page number or setting up a document to do an automatic table of contents is not something many students will know how to off without some digging.",
+      "author": "engelthefallen",
+      "created": 1556204189,
+      "upvotes": 4,
+      "replies": {
+        "elu9tnc": {
+          "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elu9tnc/",
+          "text": "Yes I agree with you, this article cover review matrices and categorizations of articles: \n\n [https://francescolelli.info/thesis/how-to-use-the-literature-review-for-your-research/](https://francescolelli.info/thesis/how-to-use-the-literature-review-for-your-research/)  \n\nI do not have an article strictly related to tooling for organize the references, it may be a good idea. The challenge will be to not introduce a \"tool bias\". Maybe an overview of possible tools and an invitation to seek what your school/supervisor is using will make sense. \n\nAs for the formatting, usually a university has a pre-made template in Latex and/or Word I am not sure that it can be generalized. However the invitation of seeking \"tools for managing references\" could be combined with an invitation of \"hunting for the thesis template\"",
+          "author": "flelli",
+          "created": 1556294430,
+          "upvotes": 1,
+          "replies": {
+            "elv4xkz": {
+              "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elv4xkz/",
+              "text": "I would consider explicitly showing a lit review matrix.  It is not in many books and while talk on organization implies that one will be created, many students do not really understand what exactly the final product of literature review organization looks like.  \n\nI spent a lot of time on reference management and in the end I used a spreadsheet that goes like this.\n\nColumn 1 full reference:\nSmith, J (2019).  \"How to manage references.\"  Journal of Reference Management, 2(3), 4-25.\n\nColumn 2 Author:  Smith, J\n\nColumn 3 Date:  2019\n\nColumn 4 Primary or Support?  (this refers to if it is the top source to use or a supportive source, updated whenever something new comes out to take over)\n\nColumn 5 Usage:  Summary of methods of organizing lit.\n\nColumn 6 Micro Keyword:  Reference organization\n\nColumn 7 Meso Keyword:  Reference section\n\nColumn 8 Macro Keyword:   Research\n\nThis is generally tool free and the spreadsheet is just for the ability to sort and subset to fetch what you want.  The labeling system gives me a good way to get to the level specificity I need, sort out what is the one reference I should return to, and what I should use when I need to support the primary reference and a way to make sure I am using current research.  My adviser uses a similar method but in a word document but uses summarizes and keywords.  He goes through with control f.\n\nAlso given there is a not a whole lot of tools, a separate article on the pros and cons of the tools may be worth it.  So many people find them a vital part of research that even risking a slight tool bias is worth it to cover them.  In the end I found it comes down to taste anyway.  \n\nI found that most universities say they have a word template, but there is no file, just a sample product in the format they want, and sometimes even then they lack information on exact spacing.  Writing a thesis with styles and sections to auto-generate the table of contents and have proper headings and reference tracking to collapse author lists automatically is not something many students know how to do and most thesis writing guides do not think to include.  TeX users def get a template, but most people do not know TeX and moving to it for a thesis is a disaster waiting for happen.  Moreso if the resource management person at the graduate school does not know TeX and demands changes using word settings.  \n\nAs you can see my theme of things I am focusing on to try to present to kids is how to do a thesis without being stuck on items not related to their topic.  I will sooner or later do my own guide, but all this stuff I find to be kind of germane to the task of doing a thesis.  I would prefer time be spent on the ideas and presentation of them and not the technical side of working with tech.  I am a digital literacy person though so, kind of biased.",
+              "author": "engelthefallen",
+              "created": 1556312424,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "elrj3vo": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elrj3vo/",
+      "text": "I haven't checked the links yet, but thank you so much for doing this... All thesis guidance related articles online don't focus on literature review based thesises.. In my field(law) most of the thesises are literature review based... So thank you once again!",
+      "author": "lawrtist",
+      "created": 1556215625,
+      "upvotes": 3,
+      "replies": {
+        "elrkq42": {
+          "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elrkq42/",
+          "text": "You are welcome, Law is a field that is relatively far from Information Management. I will be very curious to know if what I am saying will actually be helpful in your domain as well",
+          "author": "flelli",
+          "created": 1556216622,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "elqwffj": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elqwffj/",
+      "text": "Have friends outside the department. It is super important that your work life isn't just confined within the department. \n\nHave a hobby. Hobbies are good too.\n\nIf you're struggling with mental health go and seek help. Do it.",
+      "author": "DoodleCard",
+      "created": 1556201617,
+      "upvotes": 4,
+      "replies": {
+        "elrk778": {
+          "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elrk778/",
+          "text": "DoodleCard, apologize for misunderstanding you. This may be a case of bias that I mention in the opening.\n\nOur students (at Bachelor and Master level) are not really super focus on study. Actually I found myself in doing exactly the opposite the majority of the time. \n\nBtw, you may be right an article that talks about life-work-study balance could help. I mentioned the topic in this  part were I talk about time management:  [https://francescolelli.info/thesis/warming-up-the-research-engine/](https://francescolelli.info/thesis/warming-up-the-research-engine/)  \n\nHowever it may be more explicit and in the \"preparatory phases\".",
+          "author": "flelli",
+          "created": 1556216309,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "elqx1fr": {
+          "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elqx1fr/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1556201993,
+          "upvotes": -1,
+          "replies": {
+            "elrhf9u": {
+              "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elrhf9u/",
+              "text": "Not sure if I'm missing something, but I think they were suggesting that you could add that language to your guide, not directing it at you.",
+              "author": "Lonelobo",
+              "created": 1556214586,
+              "upvotes": 2,
+              "replies": {
+                "elrjnr4": {
+                  "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elrjnr4/",
+                  "text": "Thanks for notice that. I guess I misunderstood the point of view. My fault I will amend!",
+                  "author": "flelli",
+                  "created": 1556215968,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "elqwuek": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elqwuek/",
+      "text": "The links are taking more than 5 seconds to load. It gets stuck halfway \ud83e\udd28",
+      "author": "givemeyourdonut",
+      "created": 1556201868,
+      "upvotes": 2,
+      "replies": {
+        "elqxifo": {
+          "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elqxifo/",
+          "text": "Mmm maybe you are right.. I am using a shared hosting service, this is far from been optimal but that was the fastest way to start.\n\nI am not exactly looking for an audience and I do not have anything to sell, academia is notoriously poor :-)",
+          "author": "flelli",
+          "created": 1556202289,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "elr39tc": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elr39tc/",
+      "text": "Hello friend thanks for doing this. I want to go back to school but I really dont know... It has been a few years and i dont even know where to begin.",
+      "author": "TLC_15",
+      "created": 1556205884,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "elraj4c": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elraj4c/",
+      "text": "Thank you so much for organizing this. The first stage of writing a thesis is the one I\u2019ve always struggled the most with. I\u2019m going to start my Master\u2019s this fall so I\u2019m super excited to try utilizing these tips!",
+      "author": "wyfancy",
+      "created": 1556210314,
+      "upvotes": 2,
+      "replies": {
+        "elrkcbs": {
+          "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elrkcbs/",
+          "text": "My pleasure, let me know if they work! \n\nAs final remark, if in any case you will find that your supervisor will suggest you something different... well his/her saying trump mine :-)",
+          "author": "flelli",
+          "created": 1556216396,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "elrhryy": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elrhryy/",
+      "text": "Check, Johnson's books on academic writing, also Bailey's books (academic writing for international students)",
+      "author": "buffyprescott46",
+      "created": 1556214801,
+      "upvotes": 2,
+      "replies": {
+        "elrkkd2": {
+          "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elrkkd2/",
+          "text": "thanks I will! Btw, a session on \"pure writing\" is missing for the moment.",
+          "author": "flelli",
+          "created": 1556216527,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "elrpxqj": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elrpxqj/",
+      "text": "The first keystroke would have to be Shift. \n\nProblem solved, you're welcome!",
+      "author": "betterthanastick",
+      "created": 1556219792,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "elqsvd1": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elqsvd1/",
+      "text": "I'm a bot, *bleep*, *bloop*. Someone has linked to this thread from another place on reddit:\n\n- [/r/gradschool] [I am building a mini-guide on how to do a thesis: would love your feedback](https://www.reddit.com/r/GradSchool/comments/bh8nrz/i_am_building_a_miniguide_on_how_to_do_a_thesis/)\n\n&nbsp;*^(If you follow any of the above links, please respect the rules of reddit and don't vote in the other threads.) ^\\([Info](/r/TotesMessenger) ^/ ^[Contact](/message/compose?to=/r/TotesMessenger))*",
+      "author": "TotesMessenger",
+      "created": 1556199253,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "elsljnt": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elsljnt/",
+      "text": "I love this idea. I am in my undergrad but I think there's a lack of information online for how to perform your own home research. I know I can't to chem research in my house, but some people legitimately can perform CS research on their own",
+      "author": "TemporaryUser10",
+      "created": 1556240188,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "eltqgzz": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/eltqgzz/",
+      "text": "I think what i found is that you should, in your prep to the research, map out which methods could garner a satisfactory, well-founded answer to your research question. Then, having lined that up, pick the one that fits best with your energy levels, your mental health capacity and the tools available to you. \n\nThis point is especially pivotal with students who are under pressure to graduate, because sometimes  \"the only good thesis is a finished thesis\". \n\nI was and am very ambitious in my research goals, but i did learn (the hard way) to dose it in a way that makes doing the work i want to do manageable and sustainable. Even if that means \"settling\" for now till i am in a better mode to do the \"real\" work. It is still a building block.",
+      "author": "waltzingindreams",
+      "created": 1556281808,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "elqxok1": {
+      "link": "/r/AskAcademia/comments/bh7oaa/i_am_building_a_miniguide_on_how_to_do_a_thesis/elqxok1/",
+      "text": "You're missing, \"jumping off a 3 story building and if having endured the pain you felt on impact as what you'll go through in a research project as tolerable then proceed to step 2\", but everyone just takes this step as obvious so I'll let it slide.",
+      "author": "strangecharm_",
+      "created": 1556202397,
+      "upvotes": -3,
+      "replies": {}
+    }
+  }
+}

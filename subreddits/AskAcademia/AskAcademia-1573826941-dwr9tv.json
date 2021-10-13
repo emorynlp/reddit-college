@@ -1,0 +1,352 @@
+{
+  "sid": "dwr9tv",
+  "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/",
+  "title:": "How do you keep track of/remember the papers you read?",
+  "text": "Hi,\n\nwhat's your system? Do you take notes? Divide the papers into different folders and highlight the most interesting parts? I've been doing my Ph.D. for 4 years and now I just started my post-doc, the things I read are piling and I'm not sure I'm capable of remembering *everything*",
+  "author": "Stark987",
+  "created": 1573826941,
+  "updated": 1634081744,
+  "over_18": false,
+  "upvotes": 123,
+  "upvote_ratio": 0.99,
+  "comments": {
+    "f7lwrcv": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7lwrcv/",
+      "text": "piles on the floor\n\nbonus to this method: you create your own micro-ecosystems for silverfish and other critters",
+      "author": "a_large_plant",
+      "created": 1573849514,
+      "upvotes": 43,
+      "replies": {
+        "f7mbq42": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mbq42/",
+          "text": "What are you doing in my desk?!",
+          "author": "fuckwatergivemewine",
+          "created": 1573859046,
+          "upvotes": 8,
+          "replies": {}
+        },
+        "f7mkx59": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mkx59/",
+          "text": "Printed out papers everywhere. That and by memory mostly.",
+          "author": "Instantcoffees",
+          "created": 1573866127,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "f7kzmra": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7kzmra/",
+      "text": "Use zotero and set up collections and sub collections to categorize the papers you are reading. This helps in keeping stuff organized instead of being just one huge pile.\n\nThen when you take notes while reading papers, you can add an \"attachment\" to the zotero parent entry to store your notes. If you're taking handwritten notes, scan and make a pdf and then add it to the zotero parent item. Sometimes, I take notes in lyx or word. In that case, I simply attach the file to the parent item.\n\nFinally, set up zotero to store its database in your dropbox folder if you can **or** just back the folder up every once in a while to whatever service your prefer.\n\nMucking around with folders and renaming them and organizing them is a fools errand and I have realized that too late. Just let zotero handle all that low level nonsense.\n\nZotero is like itunes when it was at its peak design. It helps you organize everything.",
+      "author": "awhead",
+      "created": 1573829850,
+      "upvotes": 88,
+      "replies": {}
+    },
+    "f7lhte8": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7lhte8/",
+      "text": "Don't use Mendeley: they are owned by Elsevier, and so are now evil. Didn't use to be evil, but now they are.\n\nMany people use Zotero (open-source).\n\nI used to collect all stuff I read in one giant super-review, like a review of everything I know. But as my interests shifted and spread out, it became impossible.\n\nFor a while I had an Excel-like table (Google Sheets) with a paragraph written about every paper, and a list of papers I want too read. But now it became so huge that it takes 2 minutes to load, and I hate it. It's still kind of useful, as I use keywords as internal tags, but I stopped adding stuff to it.\n\nI also tried to run a personal wiki (aka \"Knowledge base\"). There are some great free wikis out there: Zim is great, then there's also Tomboy (aka Gnome), and Wiki that comes with any repo on GitHub. But it takes a bit of effort, and also I am kinda afraid to create a knowledge base with nooks and crannies, as I'm afraid to forget about some nooks and crannies. I want to be able to \"see everything\" every now and then, even if just to remind myself of what is out there.\n\nNow for about 2 weeks I'm trying a new approach, where for every paper I read I start a markdown file (using Typora editor, which is one of the coolest pieces of software I ever encountered). All of these markdowns are in a git repo that I synchronize with Github, which means that I have access to them from everywere. I know some really cool people that use this approach, so I hope it will work, but I haven't yet quite figured out my personal feelings about it. The actual test will happen at the point when I'll need to write something (an intro, or a review), and so will have to find all relevant papers on a topic. We'll see how easy it would be.\n\nMy \"knowledge base of dreams\" would probably look more like a database, a collection of cards, where every card is filed with a bunch of tags. And then I want to be able to see a tag cloud, and easily get all records for any given tag. It's relatively easy to organize something like that with Tomboy, but it's not automatic. I guess I could have written my own piece of software for that, but for now I'm lazy. Maybe I'll do it in the future; that could be fun actually, especially if it's based on markdown files, and so would be compatible with my current approach.",
+      "author": "ampanmdagaba",
+      "created": 1573840757,
+      "upvotes": 19,
+      "replies": {
+        "f7mquu6": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mquu6/",
+          "text": "What you're describing sounds like a zettlekasten (I use zettlr to manage mine) but a quick google should get you a robust set of strategies for tagging and linking.",
+          "author": "johanngrumblepox",
+          "created": 1573871008,
+          "upvotes": 5,
+          "replies": {
+            "f7mtrq7": {
+              "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mtrq7/",
+              "text": "Wow, this Zettrl looks amazing, and it's almost exactly (or maybe even exactly exactly!) what I envisioned! It's funny that German people have a name for this system I always imagined!! \n\nAnd the program seems so much fun!! It seems to have some weird stylistic choices about it that may be a bit off-putting, but if it gets the technical side right, it will be forgivable. And it renders mathjax out of the box, that usually is a very good sign!! (People who care about mathjax are usually the right sorts of people to deal with when you're looking for note-taking software =)\n\nThank you so much! It may be the best discovery of this season for me =]",
+              "author": "ampanmdagaba",
+              "created": 1573873469,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "f7l118v": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7l118v/",
+      "text": "I'm currently at the beginning of my PhD, but this is a system I've used since 2015. I use endnote and Word simultaneously:\n\n**EndNote** (or any other reference manager): I find, index, tag with relevant keywords and sort references into folders based on topic. I also add the article PDF to the reference and mark out interesting sections. Unread articles are marked as \"unread\", and articles can be easily searched by looking through topic folders or searching for keywords.\n\n**Word**: I have a \"literature document\" where I have headings that are similar to the folders in EndNote.  I copy the article reference from EndNote and format it as a sub-heading, and while reading and marking in Endnote, I make short notes in the Word document. Then the navigation pane works as an index of the topics and related articles. I also always add page numbers to interesting information, so it's easy to go back to the text.  \nI have a list in the beginning of the document of articles I want to read, but haven't yet downloaded, indexed in EndNote or made notes of.   \nI also sometimes have notes for articles that aren't yet indexed in Endnote, and they are easy to find because the reference isn't formatted the same as the indexed ones. \n\nIt's a system that takes a bit of time to implement and follow up, but when I manage to use it properly it works really well. Saved my ass a bunch of times when trying to finish my masters in too little time.",
+      "author": "kaneltroll",
+      "created": 1573830643,
+      "upvotes": 18,
+      "replies": {
+        "f7l3r0d": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7l3r0d/",
+          "text": "Yup. Doesn\u2019t matter which reference manager you use, so long as you have local exports of your library so you don\u2019t lose everything if a cloud-based provider disappears. \n\nI\u2019m a decade out from my PhD. I dip into my PhD ref library al the time still, and I\u2019ve been able to migrate through multiple software changes (Endnote, Sente (RIP), and now Bookends).\n\nI tag and keep my notes in the ref manager, and export them out as a custom bib style as necessary rather than keeping a separate document, but the principle is similar.",
+          "author": "dr_police",
+          "created": 1573832134,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "f7l3r2p": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7l3r2p/",
+          "text": "A second vote for EndNote, especially if you're just starting out.",
+          "author": "8eMH83",
+          "created": 1573832135,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "f7kyhak": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7kyhak/",
+      "text": "When I read a paper I have a word doc open and I type to paraphrase or C+P what is helpful into this document and turn it into a hyperlink to the original paper.(I don't download papers, I just access through websites). At the end of the document I create my reference list as I go and am able to see them all visually and go back to them whenever I need. \n\nWhenever I am looking for more info I just ctrl+F and find the parts in the doc that are most relevant and can explore them again if need be.",
+      "author": "yoyocalldapopo",
+      "created": 1573829185,
+      "upvotes": 9,
+      "replies": {
+        "f7mglx1": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mglx1/",
+          "text": "I have started to do something very similar - as an online google doc. It gives the ability to ctrl+F, have everything centralized (won't lose it like you'd lose a piece of paper), and link to the original paper. Plus, it's on the web so I don't even need my own computer but can jot notes from the library or anywhere. I do also\n\nI have subcategories for different topics, and a \"to read\" list in the same document. \n\nThe best was I also started leaving my \"to read\" papers (just a few) on my computer desktop, so I'm reminded to read them, then when I do I add them to my Mendeley folder.",
+          "author": "indecisive_maybe",
+          "created": 1573862754,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "f7lgh5o": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7lgh5o/",
+      "text": "I just heard this great strategy from a professor. You can keep an excel spreadsheet with columns detailing the articles, authors, and implications as well as a brief summary for each paper in a given row.\n\nI've always just printed papers, annotated them, and filed physical copies, or kept them in folders on my desktop. I think a spreadsheet is a fantastic way to go forward, and I'll be trying this especially for lit reviews.",
+      "author": "dwizzle13",
+      "created": 1573839936,
+      "upvotes": 7,
+      "replies": {
+        "f7mmun7": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mmun7/",
+          "text": "Use Zotero! It's way better!",
+          "author": "IncontrovertbleSnail",
+          "created": 1573867705,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "f7libg3": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7libg3/",
+      "text": "The docear system [http://www.docear.org/](http://www.docear.org/) was specificly developed for academic litterature\n\n I can download my pdf, highlight the passages of interest and save the pdf in a specific folder. Then all my annotations can be found on the docear software, which is basically a mind mapping system.  You can directly organize and  modify all the highlighted textes and ideas in a mind map. For exemple i currently have a pathways: hepatocyte->cell function->proliferation->promitogenic->HGF->concentrations-> PHH  at which end and i can directly find the HGF concentrations used by different teams on PHH. \n\n Bonus point for having the automatic reference of the paper by clicking on the node. \n\nExtra bonus point for being able to export the mind map in .tex /word/libreoffice format. My thesis basically wrote itself.",
+      "author": "mbreizh",
+      "created": 1573841064,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "f7lhgtz": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7lhgtz/",
+      "text": "This is my secret:\n.\n.\n.\n.\nI don\u2019t :) \n\n/s.",
+      "author": "glade_max",
+      "created": 1573840539,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "f7l3h2f": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7l3h2f/",
+      "text": "I always download papers. I copy paste the interesting/usable parts to a text file with the same name as the original article. I organize the files into folders according to topics.",
+      "author": "swiftrobber",
+      "created": 1573831979,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "f7lgh96": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7lgh96/",
+      "text": "Mendeley",
+      "author": "laadedaaaaa",
+      "created": 1573839938,
+      "upvotes": 8,
+      "replies": {
+        "f7lus1w": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7lus1w/",
+          "text": "Second this. I find it simpler than endnote plus free.",
+          "author": null,
+          "created": 1573848490,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "f7lw37s": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7lw37s/",
+          "text": "Seriously, Mendeley is awesome",
+          "author": "electr0_mel0n",
+          "created": 1573849171,
+          "upvotes": 1,
+          "replies": {
+            "f7m1hei": {
+              "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7m1hei/",
+              "text": "It's been a life-changer for me!",
+              "author": "laadedaaaaa",
+              "created": 1573852468,
+              "upvotes": 1,
+              "replies": {
+                "f7m97mg": {
+                  "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7m97mg/",
+                  "text": "Mendeley saved me lots of time and a good bit of my sanity in grad school.",
+                  "author": "am_crid",
+                  "created": 1573857204,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "f7l33yu": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7l33yu/",
+      "text": "I have a folder on my computer with each paper and my reading notes. They're titled by the authors' last name and year, so I can easily find my notes for a paper if I've read it already.",
+      "author": "oooomgg",
+      "created": 1573831785,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "f7lj5ur": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7lj5ur/",
+      "text": "Zotero is fine and all. Those who use minimalist solutions like latex, vim/emacs etc how do they track papers?",
+      "author": "anyfactor",
+      "created": 1573841594,
+      "upvotes": 2,
+      "replies": {
+        "f7mapfk": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mapfk/",
+          "text": "ebib + org mode",
+          "author": "crundar",
+          "created": 1573858294,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "f7mbwze": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mbwze/",
+          "text": "Does just keeping your own set of directories and downloading stuff by hand count as minimalist? I just keep a folder per rough topic, I can't imagine needing anything more!",
+          "author": "fuckwatergivemewine",
+          "created": 1573859190,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "f7meonq": {
+          "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7meonq/",
+          "text": "I use mendeley. It can export bibtex files and you can even right click on articles and \"copy as latex citation command\".",
+          "author": "Overunderrated",
+          "created": 1573861282,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "f7lm9wx": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7lm9wx/",
+      "text": "End Note and One Note, Moving from One Note to Notion now.  I use One note mainly because of pen support which is helpful in classes and seminars to take notes quickly. If you dont need touch id recommend Notion.",
+      "author": "NeuroticKnight",
+      "created": 1573843547,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "f7mkbte": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mkbte/",
+      "text": "One notebook to bind them all. Five Star College Rule composition book. Write on the right side, add additional notes on the left.",
+      "author": "amishius",
+      "created": 1573865658,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "f7l6fg7": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7l6fg7/",
+      "text": "I download all papers as PDFs and keep an excel sheet of major findings and techniques used.",
+      "author": "LeafLifer",
+      "created": 1573833683,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f7lpt9k": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7lpt9k/",
+      "text": "I use Dropbox - I have a \"Papers\" folder divided into topics, and every paper I read / should read goes into the topic, named <authors>-<year>, since that's often how I (and many people I think)  categorize scientific results, as well as reference. I read these papers on tablet with a stylus and the app ezPDF Reader. So rough topical organization but nothing like keywords or anything.\n\nI use Bibtex for referencing my written work, which is a single document with all the papers named with the same naming scheme (<authors>-<year>), so there's no searching around there - just look at the title of paper I'm reading to get the reference.\n\nActually, I just checked out Zotero from this discussion, and it looks interesting. Maybe something to check out for myself....",
+      "author": "cduston44",
+      "created": 1573845746,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f7mlxno": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mlxno/",
+      "text": "Have you tried Mendeley?",
+      "author": "semaforic",
+      "created": 1573866958,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f7mrwdl": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mrwdl/",
+      "text": "Mendeley is your best bet. Take notes, have access to everything on all devices, find relevant literature, directly export citation, i mean I don't see how mendeley can not be the obvious choice",
+      "author": "takhsim",
+      "created": 1573871885,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f7mvs12": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mvs12/",
+      "text": "Honest answer , combinatorial possibility with other papers or emotional response.",
+      "author": "TheGreatBoringVoid",
+      "created": 1573875257,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f7n6pe9": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7n6pe9/",
+      "text": "Another vote for zotero. If it's a paper of any consequence to things I'm working on, I will file it in there.",
+      "author": "agrammatic",
+      "created": 1573886691,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f7n9vb3": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7n9vb3/",
+      "text": "When I was a research assistant, the professor I worked for used EndNote so I worked with it. When I became a grad student, I used EndNote. I\u2019ve never used anything else so I can\u2019t compare it to other organizational software, but I found it very easy and useful. It\u2019s like a little library for all your PDFs. The only barrier is the cost but I just got the torrent for free. You can\u2019t get any updates with the torrent version, but I never had any problems",
+      "author": "JCole",
+      "created": 1573891274,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f7n9vvd": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7n9vvd/",
+      "text": "I second the extensive use of Zotero for organization!\n\nIt's like google drive but designed for academics in the way it  organizes, stores, and backs up everything I come across.\n\nWritten notes sit in Word with headers, which a view can be set to look at headers on the sidebar, to organize sections.",
+      "author": "BlueSky1877",
+      "created": 1573891298,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f7o1brw": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7o1brw/",
+      "text": "I have folders for all of the different topics and references. Each time I write something I  reference the references in the same document.\n\nEvery now and then I write all my references up in excel. \n\nPersonally after a friend lost all her references due to a glitch in reference software during her masters I don't like doing it through reference software.",
+      "author": "DoodleCard",
+      "created": 1573919052,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f7oll0a": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7oll0a/",
+      "text": "Evernote and Scrivener. \n\nEvernote to keep track of papers, webpages, and general notes (including handwritten ones I've made). \n\nScrivener to write with and where necessary to import pdfs so I can use a split screen to make notes with correct quotations and so on. \n\nWouldn't be without either.",
+      "author": "heidiann205",
+      "created": 1573929483,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "f7m2g6w": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7m2g6w/",
+      "text": "Mendeley is helpful.",
+      "author": null,
+      "created": 1573853109,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "f7mkqt6": {
+      "link": "/r/AskAcademia/comments/dwr9tv/how_do_you_keep_track_ofremember_the_papers_you/f7mkqt6/",
+      "text": "I don't have a system and my mind is just kind of a junkyard. I don't recommend it.",
+      "author": "mormoerotic",
+      "created": 1573865987,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

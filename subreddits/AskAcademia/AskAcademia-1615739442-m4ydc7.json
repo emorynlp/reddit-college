@@ -1,0 +1,754 @@
+{
+  "sid": "m4ydc7",
+  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/",
+  "title:": "[STEM] What's the most exciting research being done in your field?",
+  "text": "I just received my bachelor's degree in electrical engineering, and I'm thinking about going back to pursue a PhD at some point.\n\nI'm curious to hear from you: what are the most exciting areas of research in your field right now, and what technologies could it enable in the future? How could someone learn more about this research if they were interested?\n\nThanks!",
+  "author": "alphadax",
+  "created": 1615739442,
+  "updated": 1634081252,
+  "over_18": false,
+  "upvotes": 147,
+  "upvote_ratio": 0.96,
+  "comments": {
+    "gqxdk5n": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxdk5n/",
+      "text": "The most interesting research is what everyone else in lab is working on :P",
+      "author": "SensibleParty",
+      "created": 1615747886,
+      "upvotes": 117,
+      "replies": {
+        "gqy56i9": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqy56i9/",
+          "text": "Yep, there's nothing more boring than my current project.",
+          "author": "SubcooledBoiling",
+          "created": 1615758154,
+          "upvotes": 8,
+          "replies": {
+            "gqzrpj0": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzrpj0/",
+              "text": "Except for most talks at most conferences I visit.",
+              "author": "ColourlessGreenIdeas",
+              "created": 1615796475,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "gqxo3il": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxo3il/",
+          "text": "Haha so true",
+          "author": "Useful_Bread_4496",
+          "created": 1615751705,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "gqx370a": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqx370a/",
+      "text": "Protein design:\n- we are actually getting pretty good at protein structure prediction\n- the field of *de novo* protein design has been improving at a crazy rate over the last 5 years, and now it feels like we can literally code nano-machines in a way that is similar to other engineering fields \n- all of this ultimately empowers us to revolutionize medicine and nanotechnology",
+      "author": "ahf95",
+      "created": 1615744236,
+      "upvotes": 80,
+      "replies": {
+        "gqxlpkv": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxlpkv/",
+          "text": "Interesting, as someone working in AI - what's your take on AlphaFold? Is it something that would impact your research?",
+          "author": "drcopus",
+          "created": 1615750862,
+          "upvotes": 12,
+          "replies": {
+            "gqyzw6j": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyzw6j/",
+              "text": "AlphaFold actually directly impacts my research.  I work in computational protein design (Baker lab), so most of my days are spent using ML-guided structure prediction to refine my designs.  Unfortunately I haven\u2019t been able to access AlphaFold yet, but the current tools at our disposal do a pretty good job in the meantime (given that one knows how to use them for the right task, and each model\u2019s strengths and limitations), but I\u2019m sure incorporating AlphaFold-like architecture into my current toolbox will accelerate my research in a profound way.  With that being said, the headlines around AlphaFold were pretty sensationalized; the protein folding problem is not conclusively solved, and the primary benefits that follow will be most significant to those inside the protein-ML research bubble who know how to use the tools in the right way.",
+              "author": "ahf95",
+              "created": 1615774694,
+              "upvotes": 12,
+              "replies": {}
+            }
+          }
+        },
+        "gqyahvt": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyahvt/",
+          "text": "i am very excited about this field as well. what are the time frames you are thinking in? is it years, is it decades? from the transistor to the internet it was roughly 40-50 years for powerful mainstream adoption.   \nand how can everyone else help? (i am a mathematician, for example)",
+          "author": "pool1892",
+          "created": 1615760415,
+          "upvotes": 3,
+          "replies": {
+            "gqz0at6": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqz0at6/",
+              "text": "The next decade will be insane.  In the past 5 years we have gone from \u201cwe don\u2019t know how proteins fold, so we can\u2019t do much about it.  Best try to randomly mutate native proteins one amino acid at a time\u201d to \u201csure, it\u2019s a lot of hard work, but we can build almost whatever we want from the ground up\u201d.  \n\nEmphasis on the \u201csure, it\u2019s a lot of hard work\u201d part.  Things are continuously getting easier, and it\u2019s a pretty exciting time in this field, because I literally see the capabilities accelerate exponentially month by month.",
+              "author": "ahf95",
+              "created": 1615774932,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gqxq6uc": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxq6uc/",
+      "text": "Wheat Gene Editing. The main bottle neck for wheat is its difficult regeneration. One recent paper has introduced two gene chimera that substantially increase regeneration of wheat from callus.",
+      "author": "normal-guy_",
+      "created": 1615752442,
+      "upvotes": 19,
+      "replies": {
+        "gqy7iia": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqy7iia/",
+          "text": "Hey, can you PM me this paper? I also work in plant genome editing!",
+          "author": "starmagnolia",
+          "created": 1615759152,
+          "upvotes": 3,
+          "replies": {
+            "gqyuu7c": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyuu7c/",
+              "text": "Dmed you",
+              "author": "normal-guy_",
+              "created": 1615771724,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gqy4s0x": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqy4s0x/",
+          "text": "That's so interesting, thanks for sharing! (I also love your synopsis, short and sweet. I need to learn how to do that!)",
+          "author": "-Gravitropism",
+          "created": 1615758006,
+          "upvotes": 2,
+          "replies": {
+            "gqyuvjv": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyuvjv/",
+              "text": "Thanks my friend. You will.",
+              "author": "normal-guy_",
+              "created": 1615771745,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gqx3b6u": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqx3b6u/",
+      "text": "I\u2019m still psyched about the directed evolution method developed by Frances Arnold (2018 chem Nobel) to create de novo enzymes optimized to have certain biological activity, using series of random mutations and choosing the most functional enzyme in each \u201cgeneration\u201d to move forward in the process",
+      "author": "Useful_Bread_4496",
+      "created": 1615744275,
+      "upvotes": 38,
+      "replies": {}
+    },
+    "gqxbrri": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxbrri/",
+      "text": "Quantum Computing:  \n\n\nIn the four years of my PhD we went from quantum computers having 5 qubits, to quantum computers having 50-ish qubits, and the first demonstrations of them doing stuff that couldn't be done on a classical computer have already happened. It is now only a matter of time before we can do actually useful things on them.",
+      "author": "johnie102",
+      "created": 1615747262,
+      "upvotes": 47,
+      "replies": {
+        "gqxdsnf": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxdsnf/",
+          "text": "That's awesome!!! From your research, how many more years do you think it will be for major companies to initiate quantum computing as a norm? From my understanding, companies would need an extensive overhaul and modernization of resourcing and processing power to leverage quantum computing.",
+          "author": "JPao25",
+          "created": 1615747969,
+          "upvotes": 15,
+          "replies": {
+            "gqykcu2": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqykcu2/",
+              "text": "I'm not quite sure what you mean by \"norm\", as classical computers will dominate most of the computational tasks we do today for decades if not centuries, since quantum speedups are for a limited set of problems. With that in mind, I don't think it will be that expensive or difficult to integrate QC into enterprise-level stuff once it's working...you'll just need computer scientists and engineers who know how to deal with them, and some money to buy the hardware or subscribe to the cloud service. \n\nIf I *had* to guess I think it'll probably start visibly ramping up for non-specialist companies in about ten years, though one should keep in mind that these estimates are always terrible.",
+              "author": "Melodious_Thunk",
+              "created": 1615765736,
+              "upvotes": 7,
+              "replies": {
+                "gqz7sdm": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqz7sdm/",
+                  "text": ">\tclassical computers will dominate most of the computational tasks we do today for decades if not centuries\n\nHasn\u2019t this been said by people in the past about cutting edge technology like home PCs and the internet?\n\nAs soon as it becomes cost-effective we will starting finding uses for it in the home.",
+                  "author": null,
+                  "created": 1615779522,
+                  "upvotes": 1,
+                  "replies": {
+                    "gqzq4h2": {
+                      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzq4h2/",
+                      "text": "These are different in that they (currently) require super cold temperatures to operate",
+                      "author": "Blue-Purple",
+                      "created": 1615794853,
+                      "upvotes": 1,
+                      "replies": {}
+                    },
+                    "gr32k92": {
+                      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gr32k92/",
+                      "text": "Yes, I'm not trying to say that the average person won't use quantum processors; in fact they very well may end up in the home (if they're not just outsourced to the cloud, which seems very possible to me). I'm very much conscious of \"200 MB should be more than enough for anyone\" or whatever that quote is.\n\nWhat I'm saying is that they will probably always be accompanied by classical processors, and so the actual user experience will not require such a huge overhaul as the person above me suggested. By the time quantum computing comes to the casual user, the user interface will probably not be noticeably different from any classical UI of the time. If you want to order food, you'll go to the Postmates app. If you want to deliver the food to several dozen people via the most efficient route possible, you'll still use the (delivery version of the) Postmates app, but the route-finding may use quantum optimization (probably server-side in that case but who knows). This is just a prediction, but I think quantum vs. classical processing will mean about as much to the end user as CPU- vs. GPU-based processing: well-understood by some, known to some degree by many enthusiasts, and largely ignored by most, even if it changes the world hugely from under the hood (as many computing innovations have).",
+                      "author": "Melodious_Thunk",
+                      "created": 1615864358,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "gqzy1sg": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzy1sg/",
+              "text": "This is hard to estimate. I see two different paths.  \n1. We find new algorithms that can exploit near-term noisy quantum computers. If this is the case, then within 5 years some companies will be using quantum computers to solve interesting problems.  \n2. Such algorithms don't exists, or we can't find them. In this case we will need fault-tolerant quantum computers. The best estimates we currently have say that we need at least millions of physical qubits to do useful things with such machines. So just for the quantum version of Moore's law to do its thing, we will need at least 20 years of exponential growth in the number of qubits to get these numbers. Alternatively, we find better error correction methods that drastically reduce the number of qubits needed for error correction, or we get so good at controlling qubits in the lab that less error correction is necessary.",
+              "author": "johnie102",
+              "created": 1615803140,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "gqy8l3l": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqy8l3l/",
+              "text": "I am just an undergrad, but I did read some stuff on quantum computing. From what people usually say, around at least 5 years from now this tech should start being used by industry. Most probably it will be cloud based, since it is quite expensive for a single company to build, let alone maintain a quantum computer. The field is developing quickly and there are already lots of quantum programming languages being developed and lots people are already gathering to develop solutions based on quantum computation. It is not even necessary to study quantum physics to be able to develop quantum computing software. So if you are some sort of a software engineer or data scientist, it is very much possible to broaden your skills by studying quantum computation. For more info check out r/quantumcomputing sub, it is very active.",
+              "author": null,
+              "created": 1615759623,
+              "upvotes": 3,
+              "replies": {
+                "gqy8m7z": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqy8m7z/",
+                  "text": "Here's a sneak peek of /r/QuantumComputing using the [top posts](https://np.reddit.com/r/QuantumComputing/top/?sort=top&t=year) of the year!\n\n\\#1: [CERN introductory open course/lectures for quantum computing (6 weeks from 11/6-12/18)](https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november) | [9 comments](https://np.reddit.com/r/QuantumComputing/comments/jrksvk/cern_introductory_open_courselectures_for_quantum/)  \n\\#2: [Comic: Dead or 9 Lives](https://i.redd.it/c23kki6bkbz41.png) | [6 comments](https://np.reddit.com/r/QuantumComputing/comments/glenar/comic_dead_or_9_lives/)  \n\\#3: [Trying to use a quantum computer is like trying to download something on dial-up.](https://i.redd.it/ln3sft1yv6261.jpg) | [4 comments](https://np.reddit.com/r/QuantumComputing/comments/k3a98m/trying_to_use_a_quantum_computer_is_like_trying/)\n\n----\n^^I'm ^^a ^^bot, ^^beep ^^boop ^^| ^^Downvote ^^to ^^remove ^^| [^^Contact ^^me](https://www.reddit.com/message/compose/?to=sneakpeekbot) ^^| [^^Info](https://np.reddit.com/r/sneakpeekbot/) ^^| [^^Opt-out](https://np.reddit.com/r/sneakpeekbot/comments/joo7mb/blacklist_viii/)",
+                  "author": "sneakpeekbot",
+                  "created": 1615759638,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gqyk0eq": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyk0eq/",
+          "text": "I'm also in this field and the progress has been amazing to watch. Also, it's worth noting that we're now more than a *decade* into the transmon era!\n\nI'd say the most exciting thing, aside from my pet interests, is that people are starting to do experimental demonstrations of error correction. I feel like large scale error correction/protection is probably the biggest major physics barrier left for quantum computing, since a lot of scaling up is more of an engineering challenge.",
+          "author": "Melodious_Thunk",
+          "created": 1615765544,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "gqzwe9r": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzwe9r/",
+          "text": "This is cool! I don't know much about computing, but does this mean that quantum computers provide a stronger model of computation than the standard Turing machine model?",
+          "author": "calfungo",
+          "created": 1615801433,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gqwu5qw": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqwu5qw/",
+      "text": "My personal preferences are rf communication, control systems, IoT, embedded systems. I would love one day to continue for higher education in any of these subjects",
+      "author": "riduser",
+      "created": 1615740927,
+      "upvotes": 16,
+      "replies": {}
+    },
+    "gqxi8bs": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxi8bs/",
+      "text": "Geology (specifically mineral exploration):\n\nSpace mining - most of my colleagues  in the mineral exploration industry think there will be some sort of functional operation in the next decade or so. The technology is pretty much there now, it's just a matter of the economics. Especially if things like NASA's Artemis program actually go ahead, which might be a huge accelerant, since they are ok with losing money.\n\nThere's also a lot of really cool work going into hyperspectral imaging at the moment, for everything from regional mapping down to core logging, since it can discriminate really well between different alteration minerals, which makes it a great tool for deposit vectoring.",
+      "author": "FallenShadow1000",
+      "created": 1615749612,
+      "upvotes": 13,
+      "replies": {
+        "gqyehkm": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyehkm/",
+          "text": "I can get behind anything relating to remote sensing.",
+          "author": "Javelin901",
+          "created": 1615762492,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "gr0i12l": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gr0i12l/",
+          "text": "What minerals do you think will we get from space?",
+          "author": "normal-guy_",
+          "created": 1615817420,
+          "upvotes": 3,
+          "replies": {
+            "gr0tbut": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gr0tbut/",
+              "text": "I think the first operations will likely be focused on water to supply government funded programs like Artemis. \n\nIn the longer term, it's going to depend a lot on the economics, so what is easier and cheaper to get in space than on earth. I think some good candidates are rare earth metals (especially  indium and gadolinium), since most models show a (roughly) 20-fold increase in demand, but only a minimal increase in supply based on current extraction and exploration methods. Of course, there are other unconventional mining techniques like seafloor mining that could prove more economical.\n\nFinally, if space travel starts becoming a big thing and orbital construction happens, there will probably be a shift towards iron-nickel alloy from asteroids, and aluminum, possibly from lunar regolith. At this point though, we're firmly into the realm of speculation so it really depends on how things develop in the next 10-20 years.",
+              "author": "FallenShadow1000",
+              "created": 1615822791,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gqxbdjk": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxbdjk/",
+      "text": "Quantum information. Extremely hot topic because so many govts and all top computer related companies are actively interested for the security aspects of it. And you can approach it from so many different angles: algorithms, fabrication, electrical engineering, materials design, optics...!",
+      "author": "dovaahkiin_snowwhite",
+      "created": 1615747125,
+      "upvotes": 13,
+      "replies": {
+        "gqzy45z": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzy45z/",
+          "text": "MIP=RE\\* is such a cool result :)",
+          "author": "johnie102",
+          "created": 1615803208,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gqy843p": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqy843p/",
+      "text": "Clinical pharmacology and neuroscience: \n\nWe do a little PET scan of the brain and take your blood for gene analysis then we can tell you if y\u2019all gonna get addicted to opioids and cannabis or not",
+      "author": "mynameismooshoo",
+      "created": 1615759392,
+      "upvotes": 11,
+      "replies": {
+        "gqywt37": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqywt37/",
+          "text": "Yooo that\u2019s sick af",
+          "author": "vantabean",
+          "created": 1615772870,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gqxylk3": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxylk3/",
+      "text": "I wish I could answer this question, but my phD in theoretical Photonics has been so useless when applying for jobs that I cannot recommend it whatsoever.\n\nInstead, try hot areas of research like Machine Learning, Computer Vision, Quantum Computing, Nano-electronics, AI. There's tons of stuff being done in those domains, and they are in very high demand at the moment. Also with anything ML-related, you shouldn't have trouble landing a job in industry later on if you have to.",
+      "author": null,
+      "created": 1615755620,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "gqyrnc2": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyrnc2/",
+      "text": "Ecology. The first papers predicting anthropogenic climate change by the greenhouse effect came out in the 1890s, and scientists predicted its direct effects. About 100 years later, ecologists realized its indirect effects include ocean acidification, coral bleaching, changes in how plants photosynthesize, and more.  \n\nBiodiversity loss is sort of the new climate change. In the last 50 years, humans have removed 70% of wild vertebrates from ecosystems, especially large animals. In the short term, we know removal of large animals directly reduces biogeochemical cycling, reduces ecosystem productivity (e.g., carbon storage), increases fire size, and increases population sizes and densities of small animals. Among other effects, increased pest population densities means greater likelihood of disease and spillover of disease to humans. \n\nSo I find the most exciting ecological research to be characterizing long-term effects of biodiversity loss (often using the fossil record) in order to predict and combat the changes we are about to see.",
+      "author": "Melivora_capensis",
+      "created": 1615769871,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "gqwztim": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqwztim/",
+      "text": "In engine research; everyone alternates between laughing at Volkswagen and laughing about their grad students being utterly terrified of HCCI/PCCI/RCCI combustion.\n\nLargely, though; we're stuck until either the engine manufacturers start cramming more computational power into Engine Control Units, or people iron the kinks out of additively-manufactured (i.e. 3D printed) engine components.\n\nAlso; people are waiting for California and/or the Biden Administration to come to their senses and realize that a 100% BEV economy isn't going to work, at which point they'll start back up with the million mile engine mandates.",
+      "author": "r3dl3g",
+      "created": 1615742902,
+      "upvotes": 35,
+      "replies": {
+        "gqxqxkq": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxqxkq/",
+          "text": "Can you elaborate on why 100% BEV won\u2019t work?",
+          "author": "yungsemite",
+          "created": 1615752707,
+          "upvotes": 7,
+          "replies": {
+            "gqxwdop": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxwdop/",
+              "text": "For one; energy density. Batteries will have a difficult time getting beyond 12-15 MJ/kg, and even the best hypothetical battery chemistries are limited by thermodynamics at around 24 MJ/kg. By comparison, diesel and gasoline are both north of 40 MJ/kg, and hydrogen is 120 MJ/kg. Internal combustion doesn't have to get much more efficient in order to get beyond the reach of any theoretical battery chemistry. That's not as big of an issue with respect to commuter cars, but as you get to higher and higher necessary energy and power densities, batteries will simply not function correctly. Thus, battery electric vehicles will be everywhere, but they will not be every*thing*; you'll see *either* diesel *or* hydrogen-fueled vehicles on heavier-duty vehicles, all the way from medium pickups to long-haul trucking, in addition to a lot of hybrids.\n\nThis also doesn't remotely touch the issues of long-range air travel or international shipping, and it's considerably easier for those sectors to switch to a synthetic renewable kerosene-esque fuel which the automotive diesel sector will lean on as well (because honestly, what do you think is cheaper, less energy intensive, and less environmentally damaging; ripping out the powertrain of every plane and ship in the world, or just changing their fuel to something that is carbon neutral?).\n\nFor two; there's the issue of sourcing enough material for the batteries; there simply isn't enough lithium that's easy to get at, meaning we'll either have to start mining the more difficult and expensive (and energy-intensive) sources of lithium, or we'll move towards the battery chemistries that make regulators a little more uncomfortable. Things like Nickel-Metal batteries, and *particularly* Nickel-Cadmium. That inherently means limitations on how much lithium is available, in turn leading to a price spike in lithium that will make any lithium-based battery pack wildly unaffordable.\n\nFor three; battery storage isn't going to resolve the issues of intermittency in renewables because of pricing and usage issues, and as a result it's going to be economically impractical to move intermittent renewable market penetration very far past 25-35% of the overall energy contribution of a given markets' electrical grid. This issue is already cropping up in regions that went too heavily into renewables, hence why Germany, California, and Denmark all have extremely high energy costs relative to their peers and neighbors. Once this becomes more widely understood, it's going to become apparent that an all-electric vehicle fleet is not really possible or sustainable unless you're willing to make electricity from coal or natural gas, which of course means that electric vehicles will no longer be worth the environmental costs given that they increase the need for fossil-fuel plants. Oh, and unfortunately nuclear can't really save the day here, as while nuclear is GHG-neutral(ish), literally every other power production method we have plays better with renewables.\n\nFor four; EVs just flat-out don't work for the overwhelming majority of the world's population because of a lack of infrastructure. Expecting Africa or India or central Asia or much of South or Central America to be able to magically switch to battery-electric powertrains is naive and incredibly patronizing, and is about as misguided as the whole Kony 2012 thing was to many of these nations.",
+              "author": "r3dl3g",
+              "created": 1615754840,
+              "upvotes": 29,
+              "replies": {
+                "gqzefs6": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzefs6/",
+                  "text": "Thanks.",
+                  "author": "yungsemite",
+                  "created": 1615784264,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "gqznd27": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqznd27/",
+                  "text": "Very interesting. Thanks!",
+                  "author": "TheSumOfAllPeanuts",
+                  "created": 1615792172,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gqxi4rr": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxi4rr/",
+      "text": "Brain-computer interfaces, especially for clinical scenarios like predicting seizures or identifying dementia biomarkers, or for controlling prosthetics. EEG-based systems are especially challenging. Google and google scholar are a good place to read up on these things.",
+      "author": "curious__cath",
+      "created": 1615749576,
+      "upvotes": 15,
+      "replies": {
+        "gqyp7ux": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyp7ux/",
+          "text": "I'm currently doing my masters research project on neuroinformatics and the use of deep learning/neural networks on spatio/spectro-temporal brain data (fMRI, EEG). It's fucking cool.",
+          "author": "gogobebe2",
+          "created": 1615768468,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "gqyi93v": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyi93v/",
+          "text": "No thanks. Spider-Man 2 was enough for me.",
+          "author": "AerosolHubris",
+          "created": 1615764563,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gqymbn6": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqymbn6/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1615766843,
+      "upvotes": 8,
+      "replies": {
+        "gqzdmyc": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzdmyc/",
+          "text": "Holy moly. Mimics how? Like, what outcomes are produced? Why would *everyone* not currently in competitive athlete-shape not benefit?",
+          "author": "CombatCarlsHand",
+          "created": 1615783635,
+          "upvotes": 2,
+          "replies": {
+            "gqze7iw": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqze7iw/",
+              "text": "It's already super common for diabetes.",
+              "author": "Matterials",
+              "created": 1615784084,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gqxrs1d": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxrs1d/",
+      "text": "Social/Political Sciences\n\nFake news. Who's into them? How does the spread of false and manipulative information through social media influence democratic systems, political processes, stability and our health? How can we prevent damaging propaganda like that from spreading?",
+      "author": "PatienceIsTorture",
+      "created": 1615753071,
+      "upvotes": 37,
+      "replies": {
+        "gqy9n77": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqy9n77/",
+          "text": "Could you tell me, where can I read more about it? I am really curious about this topic.",
+          "author": null,
+          "created": 1615760063,
+          "upvotes": 5,
+          "replies": {
+            "gqzl9v6": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzl9v6/",
+              "text": "I just put the term \"fake news + democracy\" into Google for a quick search standing next to my coffee machine. These are some examples:\n\nhttps://licsjournal.org/index.php/LiCS/article/view/744/518\n\nhttps://digitalcommons.uri.edu/jmle/vol10/iss2/1/\n\nhttps://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=fake+news+democracy&oq=fake+news+democra#d=gs_qabs&u=%23p%3D44509zVNyaAJ\n\nhttps://www.tandfonline.com/doi/full/10.1080/23738871.2018.1462395\n\nhttps://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=fake+news+democracy&oq",
+              "author": "PatienceIsTorture",
+              "created": 1615790196,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gqyj26l": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyj26l/",
+          "text": "^^^THIS is what I want to study",
+          "author": "halfwaywherr",
+          "created": 1615765012,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "gqyqat5": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyqat5/",
+          "text": "SUPER interested in this. With technology like deepfakes getting more and more sophisticated it seems like a race against time.",
+          "author": "j3tman",
+          "created": 1615769094,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "gqz7tw1": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqz7tw1/",
+          "text": "Do you have any papers you'd suggest on the academic side of this? I'm imagining there are somewhat new and used espionage tactics, or is it psychological, or the age of information... It would be great to read some publishes sources for not only on how to spread fake news, but papers on combating it as you mentioned.",
+          "author": "usrnme878",
+          "created": 1615779550,
+          "upvotes": 3,
+          "replies": {
+            "gqzl3zm": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzl3zm/",
+              "text": "https://licsjournal.org/index.php/LiCS/article/view/744/518\n\nhttps://digitalcommons.uri.edu/jmle/vol10/iss2/1/\n\nhttps://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=fake+news+democracy&oq=fake+news+democra#d=gs_qabs&u=%23p%3D44509zVNyaAJ\n\nhttps://www.tandfonline.com/doi/full/10.1080/23738871.2018.1462395\n\nhttps://scholar.google.de/scholar?hl=de&as_sdt=0%2C5&q=fake+news+democracy&oq=fake+news+democra#d=gs_qabs&u=%23p%3DoZZm_2e0RR0J",
+              "author": "PatienceIsTorture",
+              "created": 1615790041,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gqzmcir": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzmcir/",
+          "text": "Really interesting.  I think organized study will likely interface a lot with natural language processing AI for mining and interpreting content",
+          "author": "Useful_Bread_4496",
+          "created": 1615791203,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gqzdvqb": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzdvqb/",
+      "text": "(scours thread for breakthroughs allowing me to eventually upload myself to San Junipero)",
+      "author": "CombatCarlsHand",
+      "created": 1615783828,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gqzpfel": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzpfel/",
+      "text": "Aquaculture- regulations recently passed to approve commercial expansion of insect-based feed for finfish farming. Aquatic protein is in higher demand than any other protein on a global scale. This will allow expansion to meet rising global needs for sustainable protein. Recent studies have shown that insect based diets increase survivorship of farmed fish compared to current fishmeal based diets.",
+      "author": "mommagonefishing",
+      "created": 1615794165,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gqx4miy": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqx4miy/",
+      "text": "Software engineering: self-driving cars",
+      "author": "ColourlessGreenIdeas",
+      "created": 1615744717,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "gqxcifz": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxcifz/",
+      "text": "In (magnetic confinement) fusion: I think most people would say something like the completion of ITER, liquid lithium plans for the resurrected NSTX-U, (potential) construction of the FNSF in the US, Commonwealth Fusion System's pilot power plant in Massachusetts, the much-better-than-expected performance of W7-X, the wild, throw stuff against the wall experiments at EAST, or neutral beam technology, etc.\n\nBut! I'm a computational person so I'm really excited that we are on the cusp of some really high-fidelity whole-device computer models of fusion experiments - kind of the holy grail of computational plasma physics, that simulate everything from atomic processes at the wall to the micron-scale effects such as ionization and redeposition in the near-surface plasma, to impurity transport in the meters-long scrape-off-layer, to the hotter than the center of the sun core - it's an exciting time for fusion computation.\n\nTo learn more about fusion, there's no replacement for graduate classes, but Chen's Plasma Physics text is a great, advanced undergraduate-level starting point.",
+      "author": "plasma_phys",
+      "created": 1615747520,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gqx1uqx": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqx1uqx/",
+      "text": "Bioinformatics:\n\n1. Transformers approach practically solved protein folding in fall, will allow to model whole organisms in silico.\n2. First actual whole human genome was sequenced last summer by PacBio new sequencing tech. Together with CRISPR/RNAi, this will be a step towards new cancer therapies.\n3. Ancient DNA. During the last decade we have managed to determine DNA from ever more ancient bones. This is gonna turn into jurassic Park pretty soon.",
+      "author": "Nevermindever",
+      "created": 1615743774,
+      "upvotes": 13,
+      "replies": {
+        "gqxhvew": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxhvew/",
+          "text": "Can you elaborate on \"solve cancer basically\"? Feels like a stretch to me. I'm in computational genetics (actually, ancient DNA haha) so feel free to get technical.\n\nEdit: I just wanted to say that I really don't think we're gonna get jurassic park anytime soon.",
+          "author": "Monsteriah",
+          "created": 1615749483,
+          "upvotes": 20,
+          "replies": {
+            "gqxkznp": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxkznp/",
+              "text": "Cancer is solely a genetic disease. It is not caused by point mutations, but rather complex DNA damage often stretching for tens of thousands of bases (insertions, inversions etc) or more. In theory, if we detect those mutation, we can assist an immune system and design \"vaccine\"  to eliminate such damaged cells. The issue, however, is that no current genome sequencing tech can detect such large DNA rearrangement or are too error prone. That is, until last year PacBio got a breakthrough and solved this issue.\n\nNow there are no obstacles that i'm aware of to solve Cancer as we know it. In fact, BioNTech and Moderna COVID vaccine tech was designed primarily for cancer cure in particular, while CureVac/Tesla designed a portable machine to basically print these \"vaccines\" to each unique cancer, on site.",
+              "author": "Nevermindever",
+              "created": 1615750587,
+              "upvotes": -7,
+              "replies": {
+                "gqytbt0": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqytbt0/",
+                  "text": "This is so wrong i don't even know where to start, and i'm surprised anyone near biosciences can run around with this set of ideas.\n\n>Cancer is solely a genetic disease.\n\nEven this is wrong, i won't go into too long a diatribe about this but 99% of diseases aren't firstly defined physiologically, we tag a pathophysiology *onto* a diagnosis which is better seen as an averaged model of a set of humans who suffer/malfunction in some way that is similar enough for it to be reasonable to direct them towards similar treatment (the base goal of diagnosis). \n\nIt's also quite wrong that \"the issue\" is that genome sequencing can't detect this size of DNA rearrangement or are too error prone. This is not somehow \"the major barrier\" in oncology.\n\nIf we assumed that the first premise was correct, then it still wouldn't matter because we absolutely do not have a bridge of understanding between the map of a genome and the expressions and behaviors of cells and tissues. \n\nIn that respect the illusion (which any hope that full mapping will do much to cure cancer is...) is similar to the illusion that a full mapping of cortical connectivity in the human brain will bring about understanding of how those connections give rise to the functions that the cortex carries out. An oft used example is that we ahve full mappings of animals with 3-6 orders og magnitudes fewer neurons than us, and have no clue how they produce their results.\n\nWe do know a lot. We know many many pathways, but they are vastly outnumbered byt he pathways we don't know. We have small \"stones in the river\" that allow us to jump back and forth and create *some* diagnostic and therapeutic avenues especially for the monogenic varieties, but the bottleneck in curing these is not and has never been mapping. \n\nNeoplasia (of which cancer is a subset) is not one thing that is easily distinguishable from normophysiological tissue. \n\nWe all have tons of neoplasias at any given time. For a neoplastic process to develop into a cancer that can cause the death or serious illness of a person, many many things go wrong. And even in the few cases where it is literally one mutation which can easily understand the malfunction of, we can't fix it - not because we need genome mapping, but instead because the selected tissues are difficult to reach/treat, especially when trying to do so without hurting the rest of the organism.\n\nEdit: i apologize for the tone in the start of this comment, i'm just tired of having seen 20-30 years of \"THIS finally cures cancer\". I love mapping, and it is VERY interesting. However we should distinguish quite clearly between the \"Mapping\" as in finding all of the genes and then knowing how they produce the biological products.  (The latter which is what we need, could instead be considered akin to something like the table of elements, which although having \"mapping\" aspects, really is more a summation of the *principles* of dynamic interactions between the elements, which is what genomic mapping doesn't even begin to do).\n\n\nEdit2: Cancer \"vaccines\" also have nothing to do with mapping, they are important tech, but stimulating the immune system to produce a more effective response to cancer is not new, and it is not without problems at all. People tend to think that because it is \"using the bodies own defenses\" it is somehow a golden key that evades the problem of hurting the organism itself. This is also wrong.",
+                  "author": "boriswied",
+                  "created": 1615770847,
+                  "upvotes": 10,
+                  "replies": {
+                    "gqzlf0e": {
+                      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzlf0e/",
+                      "text": "Agree With you 100%.",
+                      "author": "Nevermindever",
+                      "created": 1615790328,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                },
+                "gqxm247": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxm247/",
+                  "text": "Interesting, thanks for the reply. I don't understand these cancer \"vaccines\" very well, I'll have to look more into it! Isn't it an issue that a tumour, let alone cancer spread throughout a body, is very heterogeneous?",
+                  "author": "Monsteriah",
+                  "created": 1615750986,
+                  "upvotes": 4,
+                  "replies": {
+                    "gqxokf3": {
+                      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxokf3/",
+                      "text": "Think of it like COVID, we have ton of heterogeneity (new \"variants\", like UK), but RNA vaccine still works globally and is easily adjustable. Tech is simply astonishing.",
+                      "author": "Nevermindever",
+                      "created": 1615751868,
+                      "upvotes": -2,
+                      "replies": {
+                        "gqy53wb": {
+                          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqy53wb/",
+                          "text": "I'm under the impression that covid is a LOT more homogenous than cancer.",
+                          "author": "Monsteriah",
+                          "created": 1615758124,
+                          "upvotes": 9,
+                          "replies": {
+                            "gqyuj6w": {
+                              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyuj6w/",
+                              "text": "It is, and the comparison is without any kind of relevance to modern cancer treatment whatsoever.",
+                              "author": "boriswied",
+                              "created": 1615771548,
+                              "upvotes": 5,
+                              "replies": {}
+                            },
+                            "gqychh5": {
+                              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqychh5/",
+                              "text": "Hard to tell, covid is an RNA virus which is inherently less stable than DNA, but indeed you should not compare these things. Only real similarity is the way sars-cov-2 and cancer cells evolve.",
+                              "author": "Nevermindever",
+                              "created": 1615761436,
+                              "upvotes": -7,
+                              "replies": {
+                                "gqyuhl2": {
+                                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyuhl2/",
+                                  "text": "You need to stop with the bullshitting at some point. \n\nNot only is that line not an answer to the question but an obfuscation (the instability of RNA is of course completely irrelevant to the question), but in this case it seem you must be aware of it yourself.",
+                                  "author": "boriswied",
+                                  "created": 1615771522,
+                                  "upvotes": 9,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "gqyrawt": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyrawt/",
+                  "text": "Cancer is a metabolic disease. Not genetic.",
+                  "author": "adagio1369",
+                  "created": 1615769674,
+                  "upvotes": -2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gqxrsn2": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxrsn2/",
+          "text": "The classic \"we solved cancer\" Click bait, always love seeing this one \n\nJust like how we solved genetics with GWAS",
+          "author": "Dobsus",
+          "created": 1615753080,
+          "upvotes": 16,
+          "replies": {
+            "gqyonq4": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyonq4/",
+              "text": "Going to be real, this entire post feels like an IFL science comment. I'm very far from an expert in here, but I know for a fact that protein folding is not anywhere near \"solved\" nor is it even clear that it's a solvable problem. If anything AI having so much success in the field shows that the traditional route is just quite bad. I don't think I need to explain why the other two are ridiculous.",
+              "author": "Mezmorizor",
+              "created": 1615768149,
+              "upvotes": 6,
+              "replies": {
+                "gqzpplg": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqzpplg/",
+                  "text": "Yeah skipped that part of the answer - somewhere else in the thread is a good answer explaining how sensationalized the protein folding advances are",
+                  "author": "Dobsus",
+                  "created": 1615794443,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "gqxwqfy": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxwqfy/",
+              "text": "True. Likely not gonna happen, but in theory (and practice I have seen last year) there is no reason to believe otherwise, yet.",
+              "author": "Nevermindever",
+              "created": 1615754964,
+              "upvotes": 1,
+              "replies": {
+                "gqxx1v7": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqxx1v7/",
+                  "text": "Sounds very exciting and will read up on it! \n\nBut am always skeptical seeing these sorts of claims",
+                  "author": "Dobsus",
+                  "created": 1615755076,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gqy6rxu": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqy6rxu/",
+          "text": "Please don't say things like #2. I appreciate your enthusiasm but no. It won't .",
+          "author": "wondert",
+          "created": 1615758838,
+          "upvotes": 9,
+          "replies": {
+            "gqybkrs": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqybkrs/",
+              "text": "Well, by that stance you should not mention anything that hasn't been done. PacBio + mRNA has such potential, i would love to hear some fundamental arguments why it won't \"solve cancer\"!",
+              "author": "Nevermindever",
+              "created": 1615760967,
+              "upvotes": -1,
+              "replies": {
+                "gqyua2t": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqyua2t/",
+                  "text": "Because \"CRISPR\" isn't some magic wand that lets you do whatever you want to the genome. For now, CRISPR (in the context of genome editing, at least) can (1) induce stochastic indel mutations through NHEJ/MMEJ at double stranded breaks (which can be predicted, but not controlled), (2) insert donor templates up to a few hundred bases in dividing cells through HDR, a process with lots of indel byproducts, and (3) perform transition mutations to change C to T or A to G. Cancer involves very complicated changes at the chromosomal level - one common form of chronic myelogenous leukemia is caused by the BCR-ABL gene, which involves a chromosomal translocation between the BCR gene on chromosome 22 and the ABL gene on chromosome 9. Lastly, even if a method of reversing a single translocation is found, cancer occurs by turning off genes involved in monitoring mutations, so even if a cancer is \"derived from\" a single event like BCR-ABL, the actual genotype of the cancer cells is highly heterogeneous and probably cannot be directly fixed.",
+                  "author": "IronicOxidant",
+                  "created": 1615771398,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gqwyrhu": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqwyrhu/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1615742537,
+      "upvotes": 1,
+      "replies": {
+        "gqwzotk": {
+          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqwzotk/",
+          "text": "Yo! This is awesome I had a question about this.\n\nI worked on CFD modeling of camshaft phasers that enable VVT. I was truly stunned how much data is processed to determine valve opening/closing times based on all these insane factors:\n\n1) Ambient air pressure & temperature\n2) engine block temperature\n3) combustion chamber temperature\n4) RPM\n5) exhaust gas species concentrations\n6) fuel-air mixture ratio\n7) location of cylinder top\n8) ... Pretty sure I forgot two more factors ...\n\nLike 5) alone breaks my head... so many species that can tell you if you're burning cleanly or not! And you need to balance their relative concentrations...\n\nAnyway, this seems like so much data to process. So for IC engine ECUs, is vvt the most computationally intense workload or is it not even the tip of the iceberg and there are other aspects that require way more compute steps?",
+          "author": "awhead",
+          "created": 1615742856,
+          "upvotes": 2,
+          "replies": {
+            "gqx06nh": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqx06nh/",
+              "text": "Sorry, I double-posted and deleted this one unfortunately.\n\n>So for IC engine ECUs, is vvt the most computationally intense workload or is it not even the tip of the iceberg and there are other aspects that require way more compute steps?\n\nNot even close in comparison to Low-Temperature Combustion engine regimes; you basically have a 0.5-1 ms window where combustion **must** occur. If you step outside of that window, you either misfire, or you blow a gasket, but because combustion is hilariously temperature-dependent when it comes to timing, you have to continually chase this window for every speed, load, and throttle-up/down condition imaginable.\n\nVVT is still a workload, but generally speaking most of the workload is taken care of by prior calibration, and the valve timings will still be held to a pre-set window where basically the engine always runs, just maybe not quite as optimally as it could.\n\n>Like 5) alone breaks my head... so many species that can tell you if you're burning cleanly or not! And you need to balance their relative concentrations...\n\nNot as much as you'd think; like yeah, *ideally* you get them all, but realistically you'll just tie everything to a few species of hydrocarbons that make up the bulk of your emissions.",
+              "author": "r3dl3g",
+              "created": 1615743028,
+              "upvotes": 2,
+              "replies": {
+                "gqx0rj3": {
+                  "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqx0rj3/",
+                  "text": "Awesome! So what are we controlling here? Just the spark timing? Or is it a combination of spark timing + fuel ratio + god knows what else all at once?",
+                  "author": "awhead",
+                  "created": 1615743234,
+                  "upvotes": 2,
+                  "replies": {
+                    "gqx14r4": {
+                      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqx14r4/",
+                      "text": "For HCCI; spark timing and fuel ratio.\n\nFor PCCI; injection timing.\n\nFor RCCI; injection timing and input gas flow rates and mixing.\n\nOf note; a lot of the research is just trying to build an engine that can safely operate at steady-state. Transient operation is the literal bleeding edge, but dear god the margin of error razor-thin.",
+                      "author": "r3dl3g",
+                      "created": 1615743416,
+                      "upvotes": 2,
+                      "replies": {
+                        "gqx1l4l": {
+                          "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqx1l4l/",
+                          "text": "Awesome! Thanks a lot for the explanation!",
+                          "author": "awhead",
+                          "created": 1615743651,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gqws9cy": {
+      "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/gqws9cy/",
+      "text": "Googling does wonders. \nSubscribe to tech magazines that you\u2019re interested in",
+      "author": "RaddishEater666",
+      "created": 1615739958,
+      "upvotes": -15,
+      "replies": {}
+    }
+  }
+}

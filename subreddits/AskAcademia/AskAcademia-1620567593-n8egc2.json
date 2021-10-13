@@ -1,0 +1,2056 @@
+{
+  "sid": "n8egc2",
+  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/",
+  "title:": "What's an extremely important term for your field that even people in your field still struggle to confidently define?",
+  "text": "\"Infrastructure\" is definitely one for me.",
+  "author": "hogw33d",
+  "created": 1620567593,
+  "updated": 1634081138,
+  "over_18": false,
+  "upvotes": 165,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "gxhz0yh": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxhz0yh/",
+      "text": "Honestly,... 'p value' is something many people use but dont understand",
+      "author": "DeepSeaDarkness",
+      "created": 1620569698,
+      "upvotes": 319,
+      "replies": {
+        "gxilzon": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxilzon/",
+          "text": "I reviewed a statistical methods paper for a statistics journal which, in their data example, said that a large p-value was evidence to accept the null hypothesis.",
+          "author": "Statman12",
+          "created": 1620581180,
+          "upvotes": 45,
+          "replies": {
+            "gxiqcrb": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiqcrb/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1620583323,
+              "upvotes": 12,
+              "replies": {
+                "gxirinv": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxirinv/",
+                  "text": "Yeah but unless paired with some solid power analysis that can lead to some veeeeeeery wrong conclusions (cf much of the early work on statistics that used this mistake to promote eugenics)",
+                  "author": "lagartijo0O",
+                  "created": 1620583896,
+                  "upvotes": 8,
+                  "replies": {}
+                }
+              }
+            },
+            "gxk2pjs": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk2pjs/",
+              "text": "For a STATISTICS journal?!?!\ud83e\udd74",
+              "author": "Aggravating-Pea193",
+              "created": 1620608038,
+              "upvotes": 5,
+              "replies": {
+                "gxk72v2": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk72v2/",
+                  "text": "I've pointed out this error like 10 times in a recent  review, and it was a methods paper, but at least it was a humanities journal ...",
+                  "author": "WavesWashSands",
+                  "created": 1620610551,
+                  "upvotes": 7,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gxiij7t": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiij7t/",
+          "text": "And the p-value\u2019s occasional companion, the confidence interval!",
+          "author": "yell0wdiam0nd",
+          "created": 1620579479,
+          "upvotes": 16,
+          "replies": {
+            "gxjfu5i": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjfu5i/",
+              "text": "Or effect size.",
+              "author": "PenguinFeather4",
+              "created": 1620595621,
+              "upvotes": 3,
+              "replies": {
+                "gxvzw7o": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxvzw7o/",
+                  "text": "If the regression coefficient is small, it must not matter, right? /sarcasm",
+                  "author": "alyosha3",
+                  "created": 1620846576,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "gxjf8km": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjf8km/",
+              "text": "My students like to say (and were taught to say) something like \u201cwe are 95% confident that the actual parameter is in this interval\u201d. When I ask what \u201c95% confident\u201d means, no one has an answer. More than 94%? There does seem to be a technical definition of that phrase, but no one who learns the phrase seems to know that definition, and it bugs me, so I just tell my students that it\u2019s nonsense.",
+              "author": "alyosha3",
+              "created": 1620595323,
+              "upvotes": 6,
+              "replies": {
+                "gxjxlg6": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjxlg6/",
+                  "text": "Wait, so what would the correct answer be? I always assumed that 95% confidence means there's a 5% possibility the result occurred by chance; or not?\n\n(I'm a student myself)",
+                  "author": "greenstripedcat",
+                  "created": 1620605147,
+                  "upvotes": 5,
+                  "replies": {
+                    "gxk139p": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk139p/",
+                      "text": "The \"exemplar\" answer for what a 95% confidence interval means is that under repeated sampling, the calculated interval will contain the true parameter 95% of the time.\n\nIn a frequentist perspective, the parameter is a constant (not random), and the data, once observed, are constant. Hence, there's nothing random, so probability doesn't even really make sense. An individual CI will either contain the parameter or not, so the actual probability is 0 or 1.\n\nThe 95% probability is sort of moving the randomness up one level. It's like a coin flip with 95% chance to come up heads. If you flip it once, you don't know whether it \"worked\" or not, but if you do it a lot (repeat the experiment many times), then in the long run 95% of the time it will have worked.",
+                      "author": "Statman12",
+                      "created": 1620607115,
+                      "upvotes": 8,
+                      "replies": {
+                        "gxl2l8s": {
+                          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxl2l8s/",
+                          "text": "That's one messed up coin though.",
+                          "author": "noknam",
+                          "created": 1620632766,
+                          "upvotes": 2,
+                          "replies": {
+                            "gxmgbqc": {
+                              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxmgbqc/",
+                              "text": "Nah, they give you one when you get a PhD in Stats.\n\nBut for real, coin flipping quite interesting. If you are careful to control the setting, then you can achieve 100% results for one side. IIRC in practice it's the randomness of starting conditions and lack of careful control that makes the result random. You can check out Persi Diaconis' work if you're interested, one [paper](https://statweb.stanford.edu/~susan/papers/headswithJ.pdf) explores the coin-flipping.",
+                              "author": "Statman12",
+                              "created": 1620663636,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "gxk1nac": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk1nac/",
+                      "text": "The correct answer is \"95 percent of 95 percent confidence intervals contain the true value.\" Note that this says nothing about any specific confidence interval. Basically, the confidence is in the process of calculating it, not in the interval.",
+                      "author": "seesplease",
+                      "created": 1620607430,
+                      "upvotes": 7,
+                      "replies": {}
+                    },
+                    "gxk5uh3": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk5uh3/",
+                      "text": "There are already some good answers here. Another description: a 95% confidence interval is the set of (null) hypothesized values of the population parameter that would not be rejected at the 5% level. \n\nHere is an excellent interactive [simulation of confidence intervals](https://seeing-theory.brown.edu/frequentist-inference/index.html#section2). You choose some parameters on the left and then hit \u201cstart sampling\u201d. It grabs a sample from the chosen distribution and calculates the sample mean and a confidence interval. Then it samples again. You can see that a confidence interval contains the actual population mean when the CI overlaps with the vertical line (the CI will also be green).",
+                      "author": "alyosha3",
+                      "created": 1620609841,
+                      "upvotes": 4,
+                      "replies": {
+                        "gxk759n": {
+                          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk759n/",
+                          "text": "u/alyosha3 u/bu11fr0g u/seesplease u/Statman12  Thank you all for the replies! It's nice to have different answers as well, because it's easier to understand a concept explained in different words and from different angles.",
+                          "author": "greenstripedcat",
+                          "created": 1620610590,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "gxk03w7": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk03w7/",
+                      "text": "Yes, that is correct, if the statistics were done correctly \u2014\u2014 lies, damn lies and statistics!",
+                      "author": "bu11fr0g",
+                      "created": 1620606561,
+                      "upvotes": 0,
+                      "replies": {}
+                    }
+                  }
+                },
+                "gxjuksm": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjuksm/",
+                  "text": "Confidence is in the process that generated in interval, not in any specific interval itself.",
+                  "author": "seesplease",
+                  "created": 1620603437,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gxigy7r": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxigy7r/",
+          "text": "I'd say the big issue with this is miscalculated p-values (choosing the wrong test for your dataset). I'd say that the vast majority of papers I read have at least one instance of this.",
+          "author": "seesplease",
+          "created": 1620578698,
+          "upvotes": 39,
+          "replies": {
+            "gxjoa6s": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjoa6s/",
+              "text": "[deleted]",
+              "author": null,
+              "created": 1620599983,
+              "upvotes": 8,
+              "replies": {
+                "gxl2u6e": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxl2u6e/",
+                  "text": "Even effect sizes feel meaningless at times, sometimes an absolute difference is actually more informative.\n\nThe fact that we have 20 different effectsizes calculated 30 different ways doesn't make it any easier.",
+                  "author": "noknam",
+                  "created": 1620632997,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gxi0gu7": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxi0gu7/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1620570457,
+          "upvotes": 9,
+          "replies": {
+            "gxifuq1": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxifuq1/",
+              "text": "Assuming that your treatment did nothing (the null hypothesis is true), the p-value is the probability you'd observe a difference between the two groups AT LEAST as big as the difference you actually observed.",
+              "author": "seesplease",
+              "created": 1620578159,
+              "upvotes": 46,
+              "replies": {
+                "gxiicun": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiicun/",
+                  "text": "I\u2019ll add that a lot of people are tempted to interpret it as the probability that the null is true.",
+                  "author": "yell0wdiam0nd",
+                  "created": 1620579392,
+                  "upvotes": 17,
+                  "replies": {
+                    "gxkfiq6": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkfiq6/",
+                      "text": "In all honesty, I do use this \u201cdefinition\u201d when teaching crash statistics to my second semester bio majors. They usually take stat year 3 or 4, but my class early on and we use stats like chi square and t test in the course. If I went into the actually specifics of a p value I would lose so many more than I already do. In fairness to myself, I do point out that what I\u2019m telling them isn\u2019t exactly what it means but that it\u2019s good enough to support/refute their studies",
+                      "author": "knewtoff",
+                      "created": 1620615503,
+                      "upvotes": 0,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gxiv7yh": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiv7yh/",
+          "text": "Marginally significant....",
+          "author": "Onyx_Rhino",
+          "created": 1620585680,
+          "upvotes": 8,
+          "replies": {}
+        },
+        "gxix8gh": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxix8gh/",
+          "text": "Came to say this. \"...*very* significant...\"",
+          "author": "texcc",
+          "created": 1620586647,
+          "upvotes": 9,
+          "replies": {}
+        },
+        "gxhzp42": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxhzp42/",
+          "text": "That is very true. I'm more qual than quant these days, but I definitely see a lot of papers where such things are more about checking a checkbox rather than making a really rich claim about what's going on and how meaningful it is.",
+          "author": "hogw33d",
+          "created": 1620570049,
+          "upvotes": 18,
+          "replies": {}
+        },
+        "gxi0yin": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxi0yin/",
+          "text": "Oh this should be good... *grabs popcorn*",
+          "author": "Interesting-Return-9",
+          "created": 1620570706,
+          "upvotes": 11,
+          "replies": {}
+        },
+        "gxj10es": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj10es/",
+          "text": "The p-value is whatever you want it to be, at least these days.",
+          "author": "r3dl3g",
+          "created": 1620588470,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gxi6d40": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxi6d40/",
+      "text": "We're still debating the field itself (communications)",
+      "author": "Sensitive_Ad_6605",
+      "created": 1620573442,
+      "upvotes": 96,
+      "replies": {
+        "gxilh97": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxilh97/",
+          "text": "I sat through a three-hour meeting on whether we should be called department of \u00ab\u00a0communications\u00a0\u00bb or \u00ab\u00a0communication\u00a0\u00bb\u2026 That was actually a fun intellectual debate.\n\nThat being said, everyone else just calls us the comm department anyways\u2026",
+          "author": "whistlerredd",
+          "created": 1620580927,
+          "upvotes": 63,
+          "replies": {
+            "gxjkpne": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjkpne/",
+              "text": "Communication is the process, communications is the means. Communication (no s) studies message creation, dissemination, meaning, and effects, and a communication(S) program would study telecom, medium, HCI, information systems. \n\nAt least, that's how my program differentiates the two.",
+              "author": "iknowcomfu",
+              "created": 1620598088,
+              "upvotes": 16,
+              "replies": {}
+            },
+            "gximd0k": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gximd0k/",
+              "text": "And did you decide? Haha\nBTW, which country?",
+              "author": "Sensitive_Ad_6605",
+              "created": 1620581361,
+              "upvotes": 7,
+              "replies": {
+                "gxjkty0": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjkty0/",
+                  "text": "US, we ended up with communication.",
+                  "author": "whistlerredd",
+                  "created": 1620598150,
+                  "upvotes": 5,
+                  "replies": {
+                    "gxjy5sm": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjy5sm/",
+                      "text": "Is your department more linguistics, audiology, neuroscience, or engineering? Something else? A mix? You can be as vague as you need to be. I'm just curious of the make-up of a department that perseverates over a single letter. Not that I want to belittle the debate... it sounds like a fun conversation I could see myself being a part of.",
+                      "author": "icantfindadangsn",
+                      "created": 1620605466,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "gxjan17": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjan17/",
+              "text": "Do we work for the same university? Mine is having that debate as well.",
+              "author": "Jonjoloe",
+              "created": 1620593087,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "gxjl24x": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjl24x/",
+              "text": "We went with our focus, which was singular. We said communications should encompass different types (e.g. interpersonal, mass, organizational).",
+              "author": "whistlerredd",
+              "created": 1620598270,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gxipkmp": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxipkmp/",
+          "text": "I'm in a comm PhD program; one of the first assignments in year 1 was to defend why comm departments should exist",
+          "author": "LemonLimeParadigm",
+          "created": 1620582933,
+          "upvotes": 19,
+          "replies": {
+            "gxiuzj3": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiuzj3/",
+              "text": "What\u2019s the answer?",
+              "author": "d3lilley",
+              "created": 1620585568,
+              "upvotes": 6,
+              "replies": {
+                "gxiw1eo": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiw1eo/",
+                  "text": "Given that digital technology has allowed for the mediatization of virtually any experience, it's crucial for society to understand how one medium or communicative approach differs from any other, in terms of its impact on the experience 'at hand'. Communication *seems* overly broad because it can be applied to nearly any substantive topical area or practical purpose, but this is a fallacy of cataloging its examples and manifestations versus its underlying processes.\n\nHow did I do? Are you convinced?",
+                  "author": "LemonLimeParadigm",
+                  "created": 1620586071,
+                  "upvotes": 24,
+                  "replies": {
+                    "gxizgxw": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxizgxw/",
+                      "text": "So, comm is really media studies?  Does that mean we should axe speech classes?",
+                      "author": "mbfunke",
+                      "created": 1620587731,
+                      "upvotes": 7,
+                      "replies": {
+                        "gxjk2r9": {
+                          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjk2r9/",
+                          "text": "Ah, you got me. My department doesn't have speech/rhetoric/oration etc, it's really a media effects and culture comm dept. So at least I've defended my own comm department!",
+                          "author": "LemonLimeParadigm",
+                          "created": 1620597761,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gxj18ox": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj18ox/",
+          "text": "Sat in a 2 hour debate of communication scholars about whether or not communication has to be intentional to be categorized as communication. People were literally yelling at each other over this.\n\nExample: You wear black and white to work every day. You aren't trying to communicate anything but you are colorblind and therefore, aren't great at matching things so basically... it's simpler. You aren't intentionally trying to communicate anything with your artifactual choices; however, your co-workers feel that you have communicated the value and priority that you place on how you dress. Has communication taken place?",
+          "author": "littleirishpixie",
+          "created": 1620588582,
+          "upvotes": 13,
+          "replies": {
+            "gxj1kqq": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj1kqq/",
+              "text": ">People were literally yelling at each other over this.\n\nAcademic yelling is the best kind of yelling.",
+              "author": "r3dl3g",
+              "created": 1620588744,
+              "upvotes": 15,
+              "replies": {}
+            }
+          }
+        },
+        "gxibs4v": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxibs4v/",
+          "text": "I love hearing that. I'm in a totally different field in STEM, and always wonder about communications or rhetoric departments. Should they be in business (if advertising)? In English (since they deal with words)? In journalism? There must be potential for tons of cross-appointments with other departments.",
+          "author": "BananasonThebrain",
+          "created": 1620576145,
+          "upvotes": 10,
+          "replies": {
+            "gxiim6r": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiim6r/",
+              "text": "I think it depends on the country and which traditions the program prioritizes. In Latin America (where I am) and I believe most of Europe \"Social Communication\" is a branch of the Social Sciences concerned with the aspects of society that involve the exchange of information, or communicational acts. We are often defined by our objects, which may include journalism and media in general, but also cinema, television, photography and lately all things social media.",
+              "author": "Sensitive_Ad_6605",
+              "created": 1620579520,
+              "upvotes": 8,
+              "replies": {}
+            },
+            "gxjlxc2": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjlxc2/",
+              "text": "It really depends on when the department was founded and what the focus is, as well as what the university structure looks like. It is a broad area but within the separate fields there are fairly coherent disciplines. For example, in the things you lumped into \"comm\" you actually have communication, advertising, journalism, and rhetoric, which are are disciplinary-level groups, with separate conferences, funding, and journals.  \n\nWithin each discipline obviously you can have separate subgrouping as well - in Communication (which I am most familiar with) there is interpersonal, mass comm/media effects, persuasion, intercultural, health, organizational, just to name a few of the sub-groupings within the discipline.",
+              "author": "iknowcomfu",
+              "created": 1620598729,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gxihzj6": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxihzj6/",
+      "text": "Phenomenology",
+      "author": "jbm200",
+      "created": 1620579211,
+      "upvotes": 71,
+      "replies": {
+        "gxizu5w": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxizu5w/",
+          "text": "This.  In my grad school classes, I asked every professor to define it, and each of them gave a half-hearted definition, said they didn't really understand it either, and punted me to the reading.  It's enough to make me want to write a jargony paper about the lived experience of not understanding phenomenology.",
+          "author": "Chanther",
+          "created": 1620587911,
+          "upvotes": 20,
+          "replies": {}
+        },
+        "gxijf2p": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxijf2p/",
+          "text": "Huh. Not being in philosophy myself (are you in philosophy?) but being in a field that sometimes needs to lean on theoretical frameworks from phenomenology, I thought it was fairly straightforward. But I guess not! What are the main points of departure in your field for defining phenomenology?",
+          "author": "hogw33d",
+          "created": 1620579911,
+          "upvotes": 12,
+          "replies": {
+            "gxj0htl": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj0htl/",
+              "text": "Phenomenology is part of an underlying problem of what it means to know anything.  If the experience of conscious phenomenon is the subject of a phenomenology we wonder how to define the parameters in hard cases and what a phenomenology tells us about truth.  For example: people disagree about whether freewill exist phenomologically and about what difference that makes in terms of whether we are really free.",
+              "author": "mbfunke",
+              "created": 1620588222,
+              "upvotes": 10,
+              "replies": {}
+            }
+          }
+        },
+        "gxixhx5": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxixhx5/",
+          "text": "Lmao I can't remember who it is right now but I was browsing some uni's (analytic) philosophy department and found a guy writing a book in which he apparently invents phenomenology but analytic",
+          "author": "nathaniel_canine",
+          "created": 1620586773,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gxi9cmv": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxi9cmv/",
+      "text": "Conscious (or consciousness)",
+      "author": "late4dinner",
+      "created": 1620574936,
+      "upvotes": 47,
+      "replies": {
+        "gxig7wk": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxig7wk/",
+          "text": "I hear it's a hard problem",
+          "author": "hogw33d",
+          "created": 1620578339,
+          "upvotes": 23,
+          "replies": {
+            "gxjwzvy": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjwzvy/",
+              "text": "I thought it was soft!",
+              "author": "Darkling000",
+              "created": 1620604805,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "gxw06yv": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxw06yv/",
+              "text": "Are you sure *you* hear that?",
+              "author": "alyosha3",
+              "created": 1620846701,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gxiohqw": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiohqw/",
+          "text": "Similarly, \"death\" is apparently another hard to define topic. My research is on organ transplantation, and I went to a lecture a few months back which discussed the lack of a unifying definition for death, in terms of donation after cardiac vs brain death, or specific markers or characteristics to define death.",
+          "author": "meddwannabe",
+          "created": 1620582404,
+          "upvotes": 14,
+          "replies": {
+            "gxj8vdl": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj8vdl/",
+              "text": "Omg hi I\u2019m a new med student and I want to do transplant!  Would it be whichever comes first, cardiac or brain death, since both are conclusive?",
+              "author": "Useful_Bread_4496",
+              "created": 1620592248,
+              "upvotes": 2,
+              "replies": {
+                "gxk0lad": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk0lad/",
+                  "text": "People with heart transplants, etc. are not dead.   Death is surprisingly difficult and so relies on a legal definition.   It gets VERY tricky when families do not recognize the death.  If they refuse death determination the meducally-sustained body is in a very strange state of not dead and not alive\u2026.",
+                  "author": "bu11fr0g",
+                  "created": 1620606834,
+                  "upvotes": 1,
+                  "replies": {
+                    "gxk1tii": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk1tii/",
+                      "text": "The legislation may be complicated but brain death is synonymous with death, in fact the term is really a misnomer",
+                      "author": "Useful_Bread_4496",
+                      "created": 1620607530,
+                      "upvotes": 2,
+                      "replies": {
+                        "gxk2ils": {
+                          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk2ils/",
+                          "text": "Yes.  The tricky part is in the determination of brain death or lack thereof.   i.e., you are not legally dead until the tests have been done to determine whether or not there is function.  No tests= alive.  Tests= dead (on the exact same body).  In fact, the moment of death is at the end of determination of lack of brainstem function.",
+                          "author": "bu11fr0g",
+                          "created": 1620607925,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gxik62a": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxik62a/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1620580281,
+          "upvotes": 3,
+          "replies": {
+            "gxike8y": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxike8y/",
+              "text": "Is your username related to these questions? :)",
+              "author": "hogw33d",
+              "created": 1620580392,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gxij4yt": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxij4yt/",
+      "text": "Constitution and republic (early modern history)",
+      "author": "dewitt72",
+      "created": 1620579776,
+      "upvotes": 25,
+      "replies": {
+        "gxipzxz": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxipzxz/",
+          "text": "Revolution!",
+          "author": "disgruntledmuppett",
+          "created": 1620583145,
+          "upvotes": 6,
+          "replies": {
+            "gxjd3di": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjd3di/",
+              "text": "As a sociologist of revolutions, this 200%.",
+              "author": "Morkskittar",
+              "created": 1620594273,
+              "upvotes": 6,
+              "replies": {
+                "gxjpt9p": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjpt9p/",
+                  "text": "As a literary historian of the English Civil War, I 300% agree!",
+                  "author": "disgruntledmuppett",
+                  "created": 1620600801,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gxij9dd": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxij9dd/",
+          "text": "Ooh, I can see that.",
+          "author": "hogw33d",
+          "created": 1620579836,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gxipycs": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxipycs/",
+      "text": "Macroeconomics. (Source: I am a macroeconomist.)",
+      "author": "variablyinstrumental",
+      "created": 1620583123,
+      "upvotes": 29,
+      "replies": {
+        "gxiq2du": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiq2du/",
+          "text": "oh dear",
+          "author": "hogw33d",
+          "created": 1620583178,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "gxjfk42": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjfk42/",
+          "text": "Why I talk about \u201cmonetary theory\u201d, \u201cbusiness cycles\u201d, or \u201cgrowth\u201d and avoid \u201cmacro\u201d.\n\nWe also do not seem to have a good sense of what \u201clabor economics\u201c is. I am supposedly a labor economist, but I study contraceptive policy.\n\nOn top of that, we \u201clabor\u201d people often are not even sure what \u201ceconomics\u201d is because we do the same research as political scientists, sociologists, and even geographers.",
+          "author": "alyosha3",
+          "created": 1620595481,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "gxj7ur2": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj7ur2/",
+          "text": "Is there a definition of macroeconomics that you particularly like or agree with more?",
+          "author": "nkx01",
+          "created": 1620591762,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "gxixec0": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxixec0/",
+          "text": "I feel you. I study history of early modern science, and sometimes people ask me to explain what I mean with 'science'. I mostly just start rambling about how we don't have a clear definition for it. They invariably get confused and question my competence for not even knowing what I'm studying.",
+          "author": "link0007",
+          "created": 1620586726,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gxi89fv": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxi89fv/",
+      "text": "Wanna cause a fight in a faculty meeting? Ask which music qualifies as \u201cart.\u201d",
+      "author": "singcal",
+      "created": 1620574386,
+      "upvotes": 73,
+      "replies": {
+        "gxi9r3r": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxi9r3r/",
+          "text": "\"what is art\", a staple in any debate about art",
+          "author": "Sensitive_Ad_6605",
+          "created": 1620575140,
+          "upvotes": 35,
+          "replies": {
+            "gxjhtlr": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjhtlr/",
+              "text": "I thought \"anything is art if you want to claim it is\" became the standard, boring answer like... _a century_ ago... are we still like, having this discussion?",
+              "author": "restricteddata",
+              "created": 1620596614,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "gxly7vu": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxly7vu/",
+              "text": "my favorite tangent in this type of discussion: \"But it could be argued \"art\" is not real. It is merely a temporal capture of a person's state of mind. Does art really exist? And what is *real* ?\" \n\nAaaaaand you're done for the rest of the day.",
+              "author": "Bahndoos",
+              "created": 1620655771,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gxj9d23": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj9d23/",
+          "text": "Or what the preferred label for what most people call 'classical music' is. Western Art Music might be the most common (at least in my experience) but runs into the same problem you mention of art vs non-art. \n\nAs an aside, I recently saw a scholar using the term Euroclassical for common practice period music which might be my preferred one now.",
+          "author": "splodingshroom",
+          "created": 1620592482,
+          "upvotes": 9,
+          "replies": {}
+        }
+      }
+    },
+    "gxiv7r3": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiv7r3/",
+      "text": "Discourse",
+      "author": "saint_cantaloupe",
+      "created": 1620585678,
+      "upvotes": 23,
+      "replies": {
+        "gxiztzx": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiztzx/",
+          "text": "And datcourse\u2026",
+          "author": "TakeOffYourMask",
+          "created": 1620587909,
+          "upvotes": 17,
+          "replies": {
+            "gxjw3m5": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjw3m5/",
+              "text": "Don't forget about deodercourse",
+              "author": "ProbabilisticWorld",
+              "created": 1620604298,
+              "upvotes": 5,
+              "replies": {
+                "gxk158e": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk158e/",
+                  "text": "*Deuddercourse",
+                  "author": "TakeOffYourMask",
+                  "created": 1620607146,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gxiye3j": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiye3j/",
+      "text": "\u201cTensor\u201d\n\nIt *has* a rigorous definition, trouble is most people don\u2019t know it and fall back on the \u201chow it transforms\u201d definition.",
+      "author": "TakeOffYourMask",
+      "created": 1620587203,
+      "upvotes": 20,
+      "replies": {}
+    },
+    "gxiloel": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiloel/",
+      "text": "The concept of the \"resiliency\" of a network. Everyone and their mother has their own definition of resiliency.",
+      "author": "notadoctor123",
+      "created": 1620581026,
+      "upvotes": 17,
+      "replies": {
+        "gxjhuhu": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjhuhu/",
+          "text": "I got a little taste of this in a slightly related project in the last year. We never stopped discussing just what we meant by \"resilience\" and as maddening as it could be, it was really interesting and generative.",
+          "author": "hogw33d",
+          "created": 1620596627,
+          "upvotes": 4,
+          "replies": {
+            "gxjomh0": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjomh0/",
+              "text": "Yeah at some point my field is just going to have to accept that it's more of a heuristic property rather than a mathematical definition.",
+              "author": "notadoctor123",
+              "created": 1620600162,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gxjbqtj": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjbqtj/",
+      "text": "\"culture\" (I'm in anthropology)",
+      "author": "frazzled_woodpecker",
+      "created": 1620593619,
+      "upvotes": 17,
+      "replies": {
+        "gxjm85q": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjm85q/",
+          "text": "Came looking for this. Easiest way to start a debate among anthropologists.",
+          "author": "HueyVoltaire",
+          "created": 1620598886,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gxit0x7": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxit0x7/",
+      "text": "I\u2019m in nutrition, and the terms \u201chealth\u201d and \u201cnutrient\u201d are surprisingly difficult to define and that definition can change with varying contexts.",
+      "author": "NECalifornian25",
+      "created": 1620584618,
+      "upvotes": 16,
+      "replies": {
+        "gxjkjl1": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjkjl1/",
+          "text": "I legit applied for a PhD position that stated that we will be examining the effects of xyz on health related outcomes. Got the position, a year into the project it turned out what they meant with health was the subjective perception of how xyz made participants feel. I felt a bit cheated \ud83d\ude05 I left the project but looking back at it , health can be an ambiguous term so I should have asked more questions in the beginning as to what exactly they meant with health. Completely my fault, oh well",
+          "author": "green-tea-11",
+          "created": 1620598001,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "gxjr4hk": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjr4hk/",
+          "text": "I'm in Public Health and can 100% agree. When I started studying I had a curse that was basically just trying to explain what health is and how different the definitions of it are depending on the context.\n\nI think it's actually quite interesting to see that a lot of people outside the field (or generally any health related field) seem to be convinced everything is either healthy or unhealthy and nuances and context is just non existent for most peoples definition of health.",
+          "author": "whitelieslatenightsx",
+          "created": 1620601520,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gxjb4mj": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjb4mj/",
+      "text": "Neoliberalism. I am in sociology and it is used so much that it feels like it\u2019s lost its meaning but it is also blamed for almost everything.",
+      "author": "mainhannah",
+      "created": 1620593327,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "gxip29c": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxip29c/",
+      "text": "\"Brand\" in marketing.  Or anything having to do with it, like brand equity.",
+      "author": "SmartAZ",
+      "created": 1620582683,
+      "upvotes": 14,
+      "replies": {
+        "gxj7du1": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj7du1/",
+          "text": "Best definition I ever heard was \"the promise of an experience\" (from a staffer at the Museum Of Brands).",
+          "author": "CaptainLameO",
+          "created": 1620591540,
+          "upvotes": 11,
+          "replies": {}
+        }
+      }
+    },
+    "gxjdyg5": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjdyg5/",
+      "text": "Biology here.\nWell, the term \"life\" pretty much. What is considered alive and what is not.\nAnd really, it seems to be a spectrum with no cutoff point",
+      "author": "Trulex900",
+      "created": 1620594691,
+      "upvotes": 10,
+      "replies": {
+        "gxjvn5g": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjvn5g/",
+          "text": "Definitely a near and dear question for virologists as an classic border case. \n\nBut there are lots of other places this comes up too. \u201cIs a fetus alive?\u201d is a major political question right now. Are stem cells in a dish alive? It gets really weird in AI and Astrobiology too. I\u2019m 100% certain if NASA found a virus in the Kuiper Belt that we would be calling it alien life",
+          "author": "kdbvols",
+          "created": 1620604040,
+          "upvotes": 3,
+          "replies": {
+            "gxk9pfc": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk9pfc/",
+              "text": "Does anyone actually argue whether a fetus is alive? My understanding is that the political debate focuses on personhood",
+              "author": "iced_yellow",
+              "created": 1620612077,
+              "upvotes": 1,
+              "replies": {
+                "gxkat9l": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkat9l/",
+                  "text": "I mean, admittedly from both Christian and science perspective, I\u2019ve always thought it was a science question. My field is also far enough from developmental bio that I don\u2019t honestly know if they as a field do look at it that way, but I think the question of when a zygote becomes a life is interesting from that perspective at least. May have overstepped the OP though",
+                  "author": "kdbvols",
+                  "created": 1620612720,
+                  "upvotes": 1,
+                  "replies": {
+                    "gxl3kwb": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxl3kwb/",
+                      "text": "The question is probably more related to when it becomes a separate living thing.\n\nAll our cells would qualify as alive under most criteria.",
+                      "author": "noknam",
+                      "created": 1620633697,
+                      "upvotes": 2,
+                      "replies": {
+                        "gxlkzqj": {
+                          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxlkzqj/",
+                          "text": "Yeah that\u2019s my understanding as well",
+                          "author": "iced_yellow",
+                          "created": 1620648691,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "gxm8fa8": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxm8fa8/",
+                      "text": "A zygote is life since it begins to exist,of course, just like a skin cell is life from the off. \nLife or not is not in actuality what the this question is predicated on at all, it is the ability to feel pain and consciousness.\nIt then goes on from there, but at no point is it about \"oh well is this thing alive\"  (other than in fallacious pro lifer reasoning)",
+                      "author": "Trulex900",
+                      "created": 1620660301,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                },
+                "gxm7y56": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxm7y56/",
+                  "text": "the point is not arguing that a person is alive, rather, that pro lifers use that fact that embryos and fetuses are alive as an argument for why abortion constitutes murder and is thus highly unethical by default, case closed.\nFollowing the same logic, killing a human skin cell (human life it is), a bacterium, a fungus, a seasponge, a flatworm, etc is murder too, and thus highly unethical.\nBut they do not retain logical consistency and thus dont care about those other examples (not even more complex forms of life in fact).\nThe basis for ethics suffering,not being alive or not.",
+                  "author": "Trulex900",
+                  "created": 1620660094,
+                  "upvotes": 1,
+                  "replies": {
+                    "gxmj672": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxmj672/",
+                      "text": "Again I think the distinction is personhood. No one would argue that a bacterium or a cultured human skin cell is a person, all would agree these things are alive, and (hopefully) no one would try to convince others that killing either constitutes murder. Murder refers specifically to humans/persons and does not extend to other living things or disembodied parts of persons (cells, organs, or otherwise). The real argument, at least to me, is: when does the embryo/fetus become a person\u2014at conception, at birth, or at some point in between (at the point in development of viability outside the womb, at the point in development that pain is felt, at the point in development that conscious forms, etc)? And the answer to that informs when it should be protected by laws",
+                      "author": "iced_yellow",
+                      "created": 1620664825,
+                      "upvotes": 1,
+                      "replies": {
+                        "gxmz3s5": {
+                          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxmz3s5/",
+                          "text": "Yes and no. \nConsidering what is more likely that you mean by that, no.\n\n\"Personhood\" in its current usage is a relative unscientific concept, its a human construct which is contrary to the conclusions of secular ethics and the logic it uses to draw its conclusions. \nIts inherently deeply anthropocentric.\n\nAn animal that has the same capacity to feel pain as a human wouldnt be considered a person by people, despite being in evidence based ethics deserving of equal ethical consideration, and a failure to do so constitutes a special pleading fallacy.\n\nNow, from this you are likely gonna want to jump right at intelligence, as it classically goes there.\nSo lets go.\nA chimp on average has the same IQ as a 3 year old juvenile human.\nAre 3 year olds considered to be persons? yes\nAre handicapped folk with equivalent low iq considered to be persons? yes\nWhy? by virtue of being human?\nexactly, yet such a special pleading is not backed by any kind of scientific evidence, rather reflects a humans pervasive tendency towards ensuring special treatment for itself above others, of course without justification.\nThere isnt actually a valid reason to do so, but its a human saying \"hush, im special, no evidence needed, im just so special\".",
+                          "author": "Trulex900",
+                          "created": 1620671532,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gxisxnv": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxisxnv/",
+      "text": "Artificial Intelligence, Computer Science.\n\nI don't think I've ever seen a definition that satisfies all aspects of what AI is today.",
+      "author": "Smulizen",
+      "created": 1620584575,
+      "upvotes": 31,
+      "replies": {
+        "gxiwu32": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiwu32/",
+          "text": "I'm sure we could train an algorithm to define it for us, by training it on a huge dataset of all paper published in AI.\n\nOr just ask GPT-3 to define it for us.",
+          "author": "link0007",
+          "created": 1620586453,
+          "upvotes": 14,
+          "replies": {
+            "gxizbh2": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxizbh2/",
+              "text": "heh",
+              "author": "hogw33d",
+              "created": 1620587657,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gxixbjv": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxixbjv/",
+          "text": "Any software that makes decisions between at least 2 choices? What's the best one you've heard and/or your best version?",
+          "author": "GregariousFrog",
+          "created": 1620586689,
+          "upvotes": 1,
+          "replies": {
+            "gxiz4ll": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiz4ll/",
+              "text": "Some good ones are:\n\n\u201dAI is the study of how to make computers do things which, at the moment, people do better.\u201d   (Richand Knight, 1991). -- However, with this definition, once something is done by an AI, then it ceases to be AI any longer.\n\n\"AI is considered to be a branch of computer science that is concerned with the automation of intelligent behavior.\" (Luger & Stubblefield, 1993). -- This one is probably more in line with what we think of AI today, but the loosely defined part of this one is \"intelligent behavior\". Is mathematics and mental arithmetic intelligent behaviour? Then every calculator is an AI. Is sorting lists and ordering items by some criteria intelligent behaviour? Then almost every single program is an AI.",
+              "author": "Smulizen",
+              "created": 1620587563,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "gxizo3s": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxizo3s/",
+              "text": "> Any software that makes decisions between at least 2 choices? \n\nI like this. But since this is the thread for this, I'll bite and be nitpicky. \n\nAI is not necessarily done in software -- I'd argue that something like hardware-based branch prediction would qualify as AI. And even if that doesn't qualify, there's plenty of people implementing AI on FPGAs. \n\nAI doesn't necessarily make decisions -- AI frequently involves things like estimating posterior probability for variables which doesn't involve making a hard decision. \n\nI can't really fault \"at least 2 choices\" though",
+              "author": "LeopoldTheLlama",
+              "created": 1620587828,
+              "upvotes": 3,
+              "replies": {
+                "gxj1h0g": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj1h0g/",
+                  "text": "If AI is any program that makes decision between 2 choices, then a simple conditional if case programmed by a human would be considered an AI. I think it is implied that there has to be some sort of simulation of intelligent behaviour, that can change its behaviour based on some \"agent's\" perception of its world (be it a machine learning model knowing only images or tabular data from a specific domain, or an AI agent in a game).",
+                  "author": "Smulizen",
+                  "created": 1620588695,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gxizppv": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxizppv/",
+          "text": "How about defining \u201ccomputer science\u201d? Is it a branch of math or is it engineering?",
+          "author": "TakeOffYourMask",
+          "created": 1620587850,
+          "upvotes": 1,
+          "replies": {
+            "gxjdkij": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjdkij/",
+              "text": "It\u2019s a formal science, which is to say not science, but a language the same as math. \n\nSoftware engineering is closer to engineering.",
+              "author": "beeskness420",
+              "created": 1620594501,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "gxj0s69": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj0s69/",
+              "text": "I would say it is a branch of engineering mainly, but I don't think it needs to be entirely in either branch. It is concerned with applying logic and mathematics automatically using machines. But there are also aspects of computer science such as complexity analysis and some areas of AI that are basically entirely mathematical.",
+              "author": "Smulizen",
+              "created": 1620588358,
+              "upvotes": -1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gxiyrny": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiyrny/",
+      "text": "Performativity",
+      "author": "reversechinlock",
+      "created": 1620587388,
+      "upvotes": 9,
+      "replies": {
+        "gxj70t8": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj70t8/",
+          "text": "Ironically most definitions of performativity end up themselves being performative.",
+          "author": "sirophiuchus",
+          "created": 1620591364,
+          "upvotes": 10,
+          "replies": {}
+        },
+        "gxj0wvs": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj0wvs/",
+          "text": "Came here to say this lol",
+          "author": "kiwiyaa",
+          "created": 1620588422,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gxiph68": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiph68/",
+      "text": "Recidivism",
+      "author": "TrishaThoon",
+      "created": 1620582886,
+      "upvotes": 8,
+      "replies": {
+        "gxiwqdh": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiwqdh/",
+          "text": "Criminology?",
+          "author": "qulski1",
+          "created": 1620586404,
+          "upvotes": 5,
+          "replies": {
+            "gxj054n": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj054n/",
+              "text": "Yes. Researchers define it differently. Generally speaking it is when someone commits another crime after being released from prison (very general definition). I think most people get the general concept.\n\nHowever, are people just looking at arrest, or arrest and conviction? What about reincarceration? Also, you have to consider the time frame used-three years post-release is most common (ime) but I have seen six and nine years. \n\nThis makes it hard to fully interpret and compare recidivism research-well, this is one of a few reasons. When reading research on recidivism you want to make sure you understand how those authors defined it.",
+              "author": "TrishaThoon",
+              "created": 1620588058,
+              "upvotes": 3,
+              "replies": {
+                "gxltzap": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxltzap/",
+                  "text": "Very nice to see a fellow Criminologist!\nI find that the concept of 'justice' is equally ambiguous.",
+                  "author": "qulski1",
+                  "created": 1620653733,
+                  "upvotes": 1,
+                  "replies": {
+                    "gxn81f4": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxn81f4/",
+                      "text": "Hello!  And yes-that is prob the most important of all-justice. For a while I tried to get people at the college where I work to refer to it as the \"criminal legal system\" instead of the \"criminal justice system\"...",
+                      "author": "TrishaThoon",
+                      "created": 1620675296,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gxizrw6": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxizrw6/",
+          "text": "That\u2019s one boneheaded word but that ain\u2019t me no more.",
+          "author": "TakeOffYourMask",
+          "created": 1620587880,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
+    },
+    "gxj3glp": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj3glp/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1620589659,
+      "upvotes": 8,
+      "replies": {
+        "gxk673b": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk673b/",
+          "text": "that too most definitely. The problem is that it is of course nonexistent.\n\nAlso \"pain\" , another one",
+          "author": "Trulex900",
+          "created": 1620610044,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gxj9rw6": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj9rw6/",
+      "text": "Particle\n\nI'm a particle physicist",
+      "author": "Eloda9",
+      "created": 1620592674,
+      "upvotes": 8,
+      "replies": {
+        "gxk5ybd": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk5ybd/",
+          "text": "do you mean as in the particle-wave duality?",
+          "author": "Trulex900",
+          "created": 1620609903,
+          "upvotes": 2,
+          "replies": {
+            "gxkzfau": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkzfau/",
+              "text": "Yes, but not just that. \n\nFor example, an electron is a particle, but it has no size. It's zero-dimensional. How does that work? It's difficult to imagine such a thing.\n\nAnother example is when we try to discover new particles. We detect these by how they decay back into other particles. For some, this is very clearly visible on a graph, and we can say: \"ha! here's particle X with some mass M\", but for others, this is not as clear, and the most we can say is \"ha! here is a particle X, with a mass somewhere between A and B\". And this is not because we can't measure it better, it's just because its mass is not really \"well-defined\". \n\nI could go on, but officially to this day, there's no clear definition as to what constitutes being a \"particle\".",
+              "author": "Eloda9",
+              "created": 1620629893,
+              "upvotes": 2,
+              "replies": {
+                "gxl8xyv": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxl8xyv/",
+                  "text": "So Heisenberg's uncertainty principle in general, yes. \nHonestly, theres no clear definition on most things if I think about it",
+                  "author": "Trulex900",
+                  "created": 1620638982,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gxmkxae": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxmkxae/",
+          "text": "Bose-Einstein condensate really freaked me out in the head when my Physics professor explained it. Like, wow. Everything isn't what we think it is, is it?",
+          "author": "Iridium777",
+          "created": 1620665562,
+          "upvotes": 2,
+          "replies": {
+            "gxn12xe": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxn12xe/",
+              "text": "Right! I love the strangeness of it all though",
+              "author": "Eloda9",
+              "created": 1620672364,
+              "upvotes": 1,
+              "replies": {
+                "gxn2kqs": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxn2kqs/",
+                  "text": "I realized I was asking the wrong questions.\n\nInstead of asking if things like light is a particle, I should have been asking if atoms and such were waves! The latter is a far more profound conclusion to come to.",
+                  "author": "Iridium777",
+                  "created": 1620672987,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "gxkydxq": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkydxq/",
+          "text": "Don\u2019t forget \u201cspin\u201d",
+          "author": "esqueletohrs",
+          "created": 1620628986,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gxhz5gj": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxhz5gj/",
+      "text": "In vivo and in vitro. Does in vitro mean in a test tube and in vivo means in cell Culture? Is it only in vivo if it's in an animal model?? Is cell culture a weird gray area between in vitro and in vivo??? Why do we even use these words anyway",
+      "author": "Legend_of_91",
+      "created": 1620569766,
+      "upvotes": 36,
+      "replies": {
+        "gxhzl1l": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxhzl1l/",
+          "text": "Ha! Not being in anything close to bio, I had no idea there was such ambiguity there.",
+          "author": "hogw33d",
+          "created": 1620569993,
+          "upvotes": 4,
+          "replies": {
+            "gxi2nuc": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxi2nuc/",
+              "text": "It seems to vary a bit by field. For more chemistry-focused groups it seems like they use in vivo for cells (because the point of comparison would be chemicals/proteins in dishes), but for more biology-focused groups who are more likely to do animal experiments, the point of comparison tends to be cells from dishes vs animals so the animals get the in vivo label.",
+              "author": "s0upcan",
+              "created": 1620571575,
+              "upvotes": 20,
+              "replies": {
+                "gxj51yz": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj51yz/",
+                  "text": "This--I have never heard in vivo referring to cell culture! That seems honestly bizarre.",
+                  "author": "trevorefg",
+                  "created": 1620590421,
+                  "upvotes": 12,
+                  "replies": {
+                    "gxk1im7": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk1im7/",
+                      "text": "Yes, for us, if it is not in an animal, it is in vitro.",
+                      "author": "bu11fr0g",
+                      "created": 1620607355,
+                      "upvotes": 4,
+                      "replies": {
+                        "gxkcjgc": {
+                          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkcjgc/",
+                          "text": "I get to go one further still...in silico.",
+                          "author": "nanuq905",
+                          "created": 1620613736,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "gxje2ry": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxje2ry/",
+                  "text": "I\u2019m a chemist and have never seen in vivo refer to cell work.",
+                  "author": "ardbeg",
+                  "created": 1620594750,
+                  "upvotes": 5,
+                  "replies": {}
+                },
+                "gxi4sbr": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxi4sbr/",
+                  "text": "Very cool, makes perfect sense but had no idea.",
+                  "author": "hogw33d",
+                  "created": 1620572638,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gxjg1j2": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjg1j2/",
+      "text": "Modernity",
+      "author": "Necessary_Snow",
+      "created": 1620595724,
+      "upvotes": 7,
+      "replies": {
+        "gxkb3or": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkb3or/",
+          "text": "As a historian of \u201cmodern Russia\u201d, seconding this.",
+          "author": "scrumblejumbles",
+          "created": 1620612889,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gxjhqsb": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjhqsb/",
+      "text": "Transnational",
+      "author": "cuneli_livadi",
+      "created": 1620596575,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gxjo2r8": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjo2r8/",
+      "text": "\"Reasonable\"\n\n\nFfs this makes me insane. I'm a criminologist and the Supreme Court loves to throw around \"reasonable\" but it's vague and often subjective. It is also often the grounds for major decisions that shape our society on a daily basis. Officers can act on \"reasonable suspicion\"... we can use deadly force in self defense if the situation would cause a \"reasonable person\" to feel fear... the Fourth Amendment protects us only from searches and seizures that are \"unreasonable.\"\n\n\nEvery existing effort at defining it is equally as vague.",
+      "author": "InsomniacPHD",
+      "created": 1620599869,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gxj03yo": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj03yo/",
+      "text": "\"Structure\" in any social science field.",
+      "author": "kuds1001",
+      "created": 1620588042,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "gxik1k6": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxik1k6/",
+      "text": "Entropy.\n\nSuch a huge and important concept in physics, thermodynamics, and engineering, to the degree that it has it's own conservation law, but nobody can ever seem to define it, and so we always resort of metaphor and allegory. We use all sorts of esoteric and sorcerous terminology like \"chaos\" and \"disorder\" to get the layman to stop asking questions about it, because trying to pin down what it *precisely* is makes our brains do a big sad.\n\nHilariously, it's also quite straightforward to use in actual classical thermodynamic modeling to get things that are actually totally understandable (e.g. temperature). In contrast, the polar opposite is momentum; trivially easy to understand, to the degree that every single toddler develops an understanding of how momentum works in the process of learning how to walk, but modeling it is a colossal pain in the ass unless you're the kind of person who gets *really* turned on by material derivatives.",
+      "author": "r3dl3g",
+      "created": 1620580218,
+      "upvotes": 56,
+      "replies": {
+        "gxjboq6": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjboq6/",
+          "text": "This seems wrong? Entropy is very well defined with an obvious interpretation (especially for gibbs and boltzmann entropy, shannon is a bit tougher despite being equivalent). We just choose not to tell intro students what it is for reasons I will never comprehend.",
+          "author": "Mezmorizor",
+          "created": 1620593592,
+          "upvotes": 22,
+          "replies": {}
+        },
+        "gxja8zi": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxja8zi/",
+          "text": "I don\u2019t think this is particularly applicable given that entropy has a precise mathematical definition that is relatively easy to calculate.",
+          "author": "cdstephens",
+          "created": 1620592899,
+          "upvotes": 13,
+          "replies": {}
+        },
+        "gxiyq3o": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiyq3o/",
+          "text": "Entropy has a clear definition: it\u2019s the logarithm of the number of accessible states in a system.\n\nBut a layman\u2019s explanation is that it\u2019s a measure of how concentrated or spread out energy is.",
+          "author": "TakeOffYourMask",
+          "created": 1620587366,
+          "upvotes": 21,
+          "replies": {
+            "gxj2gp4": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj2gp4/",
+              "text": "I quite like H.B Callen's approach.\n\nHe uses entropy to define temperature (among other things).\n\nHe describes 2 thermodynamic systems, allows them to interact in a specific way.\n\nDescribes these changes with calculus.\n\nThen asks \"Wait a moment.. If we keep volume and quantity constant, and we check how dU/dS looks like... Isn't that just temperature?!\"\n\nMy classical thermo course was done following H.B Callen's work, and it stuck with me super hard.",
+              "author": "Hoihe",
+              "created": 1620589173,
+              "upvotes": -1,
+              "replies": {
+                "gxj49z8": {
+                  "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj49z8/",
+                  "text": "The only way to understand entropy (or any thermodynamics) is with quantization and statistical mechanics.",
+                  "author": "TakeOffYourMask",
+                  "created": 1620590045,
+                  "upvotes": 7,
+                  "replies": {
+                    "gxjajkp": {
+                      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjajkp/",
+                      "text": "That\u2019s not particularly true. There are many physical systems where a quantized statistical mechanical framework won\u2019t actually give yourself much insight into the problem due to high degrees of freedom and where the continuum limit is well justified. Quantization isn\u2019t always going to help you understand turbulent flows, for instance, besides a sort of abstract connection between incredibly microscopic and macroscopic dynamics. Things like classical kinetic theory are much more important.\n\nEdit: typos",
+                      "author": "cdstephens",
+                      "created": 1620593040,
+                      "upvotes": 7,
+                      "replies": {
+                        "gxjhe8t": {
+                          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjhe8t/",
+                          "text": "True, I overstated. Replace \u201cquantization\u201d with \u201cmicrostates\u201d.",
+                          "author": "TakeOffYourMask",
+                          "created": 1620596401,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "gxj01n3": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj01n3/",
+          "text": "Definitely the most difficult concept to teach to high school juniors and seniors.",
+          "author": "OldDog1982",
+          "created": 1620588011,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "gxiv3jc": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiv3jc/",
+          "text": "I second this^",
+          "author": "d3lilley",
+          "created": 1620585621,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "gxilf5c": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxilf5c/",
+          "text": "I always explain it to my kids as housework lol\n\nAlso I know I am very dumb.",
+          "author": "Hedgehogz_Mom",
+          "created": 1620580897,
+          "upvotes": 2,
+          "replies": {
+            "gxim46e": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxim46e/",
+              "text": "Eh, don't worry about it; I struggled with the concept pretty deep into my doctorate (and I'm *specifically* focused on thermodynamics), and in my experience almost nobody can give a satisfying answer to what entropy is in a way that is both technically correct and satisfying to layman and expert alike.",
+              "author": "r3dl3g",
+              "created": 1620581240,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gxivy7l": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxivy7l/",
+      "text": "Lots in psychology\n\nIntelligence-wtf even is it? It's obviously not just how many things you know, not simply remembering lots of things, not necessarily how well you solve problems, not being good at things AND not necessarily not those things! Additionally it's extremely hard to measure fairly across demographics and cultures\n\nLove/some other emotions-makes sense, highly variable between people\n\nAnimal things- emotion, intelligence, consciousness, some people saying animals have \"language\" (though that's defined clearly enough, there's just some who don't know that)\n\nThose are the ones that immediately come to mind. I'm but a lowly undergrad, surely someone else can remember more",
+      "author": "DoctorateInMetal",
+      "created": 1620586028,
+      "upvotes": 11,
+      "replies": {
+        "gxji771": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxji771/",
+          "text": "How can you comment on this?? You have a doctorate in metal for chrissake!!!?!?! /s",
+          "author": "biggerfriestofish",
+          "created": 1620596804,
+          "upvotes": 2,
+          "replies": {
+            "gxjipsh": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjipsh/",
+              "text": "Metal crosses over into psychology a lot and vice versa. I'm taking psych classes at Hetfield University where I have a professor job already. It's a common question though\n\n\n(Dude I liked this comment, I found it funnier than any comment I've I read in a while haha)",
+              "author": "DoctorateInMetal",
+              "created": 1620597065,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "gxk6v5m": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk6v5m/",
+          "text": "empathy and sympathy also have no set definition. Ive seen studies and literature use empathy to describe totally different things.",
+          "author": "Trulex900",
+          "created": 1620610431,
+          "upvotes": 2,
+          "replies": {
+            "gxk9xuo": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk9xuo/",
+              "text": "Yeah those are good ones too",
+              "author": "DoctorateInMetal",
+              "created": 1620612213,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gxiw4wh": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiw4wh/",
+      "text": "Robust",
+      "author": "sweetypantz",
+      "created": 1620586119,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gxj32em": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj32em/",
+      "text": "Leadership",
+      "author": "satellite503",
+      "created": 1620589467,
+      "upvotes": 5,
+      "replies": {
+        "gxjj1eq": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjj1eq/",
+          "text": "I was asked recently to give a talk on leadership to undergraduates, and I really wasn't sure what on Earth to say, as a historian. I do not fashion myself as a leader (I mostly work on my own, and I see leadership as fundamentally about getting _other people_ to do something; I'm definitely _not the best_ at motivating other people), so I couldn't give \"tips.\" Anyway I ended up giving a talk about the role of leadership in the making of the atomic bomb, and it amused me that so many of the examples I had of what the leaders did to be effective were not positive things at all (\"make sure you have blackmail material on your subordinates, because then they'll _never_ stop working hard for you\") and it made me reflect how much of our cultural bias towards \"leadership\" is only talking about the positive characteristics of it.",
+          "author": "restricteddata",
+          "created": 1620597228,
+          "upvotes": 6,
+          "replies": {
+            "gxkiv60": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkiv60/",
+              "text": "It\u2019s all in the definition and framing. Where to place and how to talk about bad leadership, ethical leadership, collective leadership, followership, systems leadership, global leadership\u2026 means and ends, process and relationship, power and systems, culture and norms. The debate has been raging for years.",
+              "author": "satellite503",
+              "created": 1620617571,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gxji3wt": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxji3wt/",
+      "text": "\"Science\" and \"technology\" in the field of the History of Science and Technology. There are a lot of things that everyone will agree are included in these terms, but there are lots of interesting edge cases that change how you define the field, especially in the period prior to the 16th century and especially in places other than the Western world.",
+      "author": "restricteddata",
+      "created": 1620596757,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "gxjj852": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjj852/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1620597327,
+      "upvotes": 4,
+      "replies": {
+        "gxkjcpd": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkjcpd/",
+          "text": "And then there is \"biosignature\"",
+          "author": "VaHi_Inst_Tech",
+          "created": 1620617875,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gxjovkb": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjovkb/",
+      "text": "I think it's epistemology and phenomenology",
+      "author": "PoetryAnxietyTherapy",
+      "created": 1620600298,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "gxjhmw9": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjhmw9/",
+      "text": "I'm not an Academic historian or archeologist (though I would love to pursue it one day, just not sure it's worth it at this point), but as somebody with a pretty deep hobbyist interest in Mesoamerica...\n\n...**If you ask 5 researchers to define \"Aztec\", you'll get 6 answers.**\n\nThis is especially a problem since there's already way, way, waaaaaay too many issues with the general public being misinformed about Mesoamerican history, it doesn't help that every article and book they read (if they read any, already a stretch) will say it means something different.\n\nIf you want a long explanation of the issue, keep reading.\n\n-------------------------------\n\nTaken literally, as to what the word Aztec means in Nahuatl, it means \"Person from Aztlan\". Aztlan is the semi-mythical homeland of a group (or really, the \"Aztec\" label as used originally in 16th century indigenous sources only applied it to *some* Nahua groups) of Mesoamerican people known as the Nahua, who migrated into the Valley of Mexico (which is covered by most of the Greater Mexico City Metropolitan Area today) and other areas of the Central Mexican plateau from up north, supposedly from legendary location known as Aztlan (they likely migrated from an area in Northern Mexico known as the Bajio region, by Jalisco and Nayarit, not as far north as the American Southwest as /u/capitantercio and /u/ItsReallyM3 talk about, that's just historically where the language family Nahuatl comes from is centered in, [the spread of it from the SW into northern mexico took place much earlier](https://miro.medium.com/max/604/0*lR9GhFITX1ugTKer) )\n\nOne of these Nahua groups, the Mexica who were among the latest groups of Nahua migrants to the Valley of Mexico, settle on an island in Lake Texcoco, and found Tenochtitlan. Shortly therafter, a group of Mexica split off to found a separate Altepetl (\"Water hill\" in Nahuatl, usually translated as City-state), Tlatleloco, on a separate island(the terms \"Tenochca\" and \"Tlatelolca\" are used to distinguish the two Mexica groups). At the time, the Alteptl of Azapotzalco (which, along with many other cities on the eastern shore of the lake basin, was inhabited by another Nahua group, the Tepaneca) was the dominant power in the Valley, and Tenochtitlan fell under it's control. The Mexica of Tenochtitlan would aid Azapotzalco and help them subjugate most of the valley. Eventually, however, the Tlatoani (\"Speaker\" in Nahuatl, usually translated as King) of Azapotzalco, Tezozomoc, died. There was a resulting successon crisis as one of his two heirs assassinated the other, took power, and also assassinates the Tlatoani of Tenochtitlan, Chimalpopoca, who also represented a potential hereditary threat, as he was the child of the previous Tlatoani, Huitzilihuitl and a daughter of Tezozomoc, who he had given to Huitzilihuitl as a reward for Tenochtitlan's military aid.\n\nThis sours the relationship between Azapotzalco and Tenochtitlan. Eventually, war breaks out, and Tenochtitlan, along with the Acolhua (another Nahua subgroup) Altpetl of Texcoco, and the Tepaneca Altepetl of Tlacopan, join forces and defeat Azapotzalco, and subsequently agree to retain their alliance for future military conquests, with Texcoco and especially Tenochtitlan in the more dominant roles. This triple alliance, and the other cities and towns they controlled (which included both other Nahua Alteptl, as well as cities and towns belonging to other Mesoamerican cultures/civilizations, such as the Maya, Mixtec, Zapotec, Otomi, Totonac, Huastec, etc) is what people are talking about when they say the \"Aztec Empire\". However, when most people are talking about the \"Aztecs\" as a society or a culture, they are typically talking about the Mexica of Tenochtitlan (Tenochtitlan eventually conquered and absorbed Tlatelolco, unifying the Mexica again, though Tlatelolco still had some unique administrative quirks separate from Tenochtitlan proper) in particular, or are using Tenochtitlan as an example of the Nahua in general.\n\nIn summary, \"Aztec\", as people use it, can mean any of the following depending on the context:\n\n- The Nahua civilization/culture as a whole\n- The specific Nahua subgroups labeled as \"Aztec\" in Indigenous sources/who claim to come from Aztlan\n- The Mexica Nahua subgroup\n- Specifically the Mexica from Tenochtitlan, the Tenochca\n- The Alliance of Tenochtitlan, Texcoco, and Tlacopan\n- That alliance, as well as any subservient cities and towns, IE, The \"Aztec Empire\" (though once again not all of it's subjects were Nahuan, many were Maya, Zapotec, Mixtec, Otomi, Huastec, Totonac, etc; and not all Nahuan states were in that empire, such as the Kingdom of Tlaxcala)\n\n\nFor more information, I recommend [this](https://www.reddit.com/r/AskHistorians/comments/1gk6fp/did_the_mayans_look_down_on_native_americas_who/calfjrh/), [this](https://www.reddit.com/r/AskHistorians/comments/31fj3a/whats_the_real_reason_tenochtitl%C3%A1n_mexico_city/cq13d0x/?st=jlrlyw7i&sh=8a3c5a2a), [this](https://www.reddit.com/r/AskHistorians/comments/2mp6jh/repost_in_the_old_days_it_seems_like_dissident/?st=jlrm0wls&sh=d6bac157) and [this](https://www.reddit.com/r/AskHistorians/comments/1996ka/tuesday_trivia_great_and_not_so_great_comebacks/c8mfrsp/) post by 400-rabbits, and [this](https://www.reddit.com/r/AskHistorians/comments/3atv2y/has_there_ever_been_archaeological_written/?st=jlrlw67v&sh=492dd5d3) post by Mictlantecuhtli. Additionally,  there is a very detailed and well sourced post on /r/Mesoamerica [here](https://www.reddit.com/r/mesoamerica/comments/63n1az/the_triple_alliance_never_existed_meet_the/dfz0mr0/) detailing recent research that calls into question some of the information,\n\n(Also, if you *really* wanna stretch it, \"Aztec\" could also perhaps encompass the Toltec, an earlier civilization described in various Nahua annals (from both Mexica and non Mexica sources) as being their cultural predecessors, and the creators of high culture and civilization, who ruled from around 900 to 1100AD. In these accounts, they are described as if they were Nahuan (ergo, they being arguably \"Aztec\"), but these accounts are clearly pseudo-legendary (as noted below civilization goes back *much* further then 900AD in the area, and the accounts include gods and magic) and the Toltec probably didn't exist as described even putting aside the clearly mythical elements, and many researchers reject the idea they existed at all, more or less; and the Nahuans that describe them clearly also viewed them as their own thing even if as if they belonged to a broader Nahua background)\n\nAlso it should be noted here that stuff like large scale architecture, urban cities, formal governments, etc (so \"civilization\") is a lot more widespread in this region and goes beyond just the \"Aztec\" label here/the Nahuas, let alone the Mexica. The first sites which had monumental architecture,  rulers, class systems, writing, etc in Mesoamerica (the broader cradle of civilization/culture region in question here, covering roughly the bottom half of Mexico, Guatemala, and Belize according to one potential definition) around 2500 years before the Nahuas migrated into it. \n\nA common misconception I see people make is that the \"Aztec\" were a lone complex civilization or empire surrounded by a bunch of tribes, when in reality the other cultures/civilizations in Mesoamerica like the Maya, Zapotec, Mixtec, Otomi, Huastec, Totonac, etc that they conquered and that surrounded (since many states weren't conquered by them: The Nahuan kingdom of Tlaxcala, and the Zapotec kingdom of Tututpec for example resisted invasions, while the Purepecha Empire to the west legitmately rivaled the Aztec Empire, to name a few) were mostly urbanized city-states and kingdoms as well, or at least mid sized towns. Reading the third summarized timeline comment below would help give context here. \n\nAnyways, if anybody is interested in learning more about Mesoamerican history, I have a set of 3 comments here where I explain....\n\n1. In the first comment, I notes how Mesoamerican and Andean socities [way more complex then people realize, in some ways matching or exceeding the accomplishments of civilizations from the Iron age and Classical Anitquity, be it in city sizes, goverment and political complexity, the arts and intellecualism](https://www.reddit.com/r/AskHistory/comments/c7gu1l/i_want_people_to_dump_interesting_information/esh1756/), etc\n\n2. The second comment explains how there's also more records and sources of information than many people are aware of for Mesoamerican cultures, [with certain civilizations having hundreds of documents and records on them; as well as the comment containing a variety of resources and suggested lists for further reading, information, and visual references](https://www.reddit.com/r/AskHistory/comments/c7gu1l/i_want_people_to_dump_interesting_information/esh3m71/); and\n\n3.  The third comment contains a [summary of Mesoamerican history from 1400BC, with the region's first complex site; to 1519 and the arrival of the spanish, as to stress to people just how many different civilizations and states existed and how much history actually occurred in that region, beyond just the Aztec and Maya](https://www.reddit.com/r/AskHistory/comments/c7gu1l/i_want_people_to_dump_interesting_information/esh3s50/)\n\nI also have more resources and such I can share upon request via PM",
+      "author": "jabberwockxeno",
+      "created": 1620596521,
+      "upvotes": 11,
+      "replies": {
+        "gxlyggc": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxlyggc/",
+          "text": "could you elaborate a bit more please...",
+          "author": "Bahndoos",
+          "created": 1620655881,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "gxixwn0": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxixwn0/",
+      "text": "norm, culture, institution, social structure (sociology)",
+      "author": "garulous",
+      "created": 1620586971,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gxilj6j": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxilj6j/",
+      "text": "Large-scale and small-scale when talking about magnetic fields. There\u2019s no one scale where things are universally \u201clarge\u201d or \u201csmall\u201d, so we all just use the terms in a pretty handwavy way. Plus the fields mix across all scales, so it\u2019s a very rough way to approximate anyway.",
+      "author": "officially_anxious",
+      "created": 1620580953,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxiujqn": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiujqn/",
+      "text": "Two central concepts across science, technology, engineering, mathematics and medicine as a whole, namely, **complexity** and **scales**. Everyone uses them with some loose similarities but no one really knows how to precise define these terms. (I have spent many years trying to understand the latter but I got nowhere despite writing a doctoral dissertation on it.)",
+      "author": "MaterialsPolymath",
+      "created": 1620585351,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxj0s3m": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj0s3m/",
+      "text": "Ice.",
+      "author": "professorwhat",
+      "created": 1620588357,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxj24h3": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj24h3/",
+      "text": "'word'",
+      "author": "Normal_Kaleidoscope",
+      "created": 1620589005,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxj2kh7": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj2kh7/",
+      "text": "Art",
+      "author": "kinderdemon",
+      "created": 1620589223,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxjfrch": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjfrch/",
+      "text": "Resilience. \n\nP value.",
+      "author": "PenguinFeather4",
+      "created": 1620595582,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxjnnwq": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjnnwq/",
+      "text": "\"species\"\n\n\"alive\"",
+      "author": "blaze99960",
+      "created": 1620599655,
+      "upvotes": 3,
+      "replies": {
+        "gxk3c75": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk3c75/",
+          "text": "I was going to say species. Not just the concept of a species but how we can define a species. What makes something a subspecies? Is this method more correct than another one? And constantly changing taxonomy... even with genetics, things still change.",
+          "author": "littlereptile",
+          "created": 1620608400,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gxk2hzd": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk2hzd/",
+      "text": "I have a less serious one. Gel. Nobody can really define it 100% satisfactorily, yet everyone knows what it is.",
+      "author": "PraecorLoth970",
+      "created": 1620607915,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxkabh5": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkabh5/",
+      "text": "Turbulence is like pornography. I can't define it, but I know it when I see it.",
+      "author": "blue_pez",
+      "created": 1620612428,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxit1yz": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxit1yz/",
+      "text": "Experimental Unit",
+      "author": "itsthepunisher",
+      "created": 1620584633,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxiw0uy": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiw0uy/",
+      "text": "Supervenience.\n\nWe use the term all the time to sound smart or pretend that it solves a problem. But in my experience only a select few really understand what it means. I'm not one of them, so I just nod and pretend I totally get it.",
+      "author": "link0007",
+      "created": 1620586063,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxj1t2i": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj1t2i/",
+      "text": "Probability and odds.",
+      "author": "TheElementsOf",
+      "created": 1620588854,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxj5f25": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj5f25/",
+      "text": "Oxygen fugacity.",
+      "author": "CaliGoodOlBoy",
+      "created": 1620590594,
+      "upvotes": 2,
+      "replies": {
+        "gxj86fj": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj86fj/",
+          "text": "Never heard of it! Now is your chance to imprint *your* chosen definition on a naive but curious person.",
+          "author": "hogw33d",
+          "created": 1620591916,
+          "upvotes": 2,
+          "replies": {
+            "gxxx6s1": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxxx6s1/",
+              "text": "It's basically the partial pressure of oxygen in a system (magmas, atmosphere, oceans, etc.), but corrected for non-ideal behavior* of the gases. Very similar to \"activity\" in thermodynamics.",
+              "author": "TourmalineTart",
+              "created": 1620879340,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "gxxwvs8": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxxwvs8/",
+          "text": "YES.  This is a great answer. See also, Redox.",
+          "author": "TourmalineTart",
+          "created": 1620879147,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gxjbfh9": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjbfh9/",
+      "text": "Sustainability\n\nAn interdisciplinary course I took in my masters had everyone try to define sustainability on the first day and the definitions were all sooo soo different and varied a lot between and within research fields.",
+      "author": "gglaurenn",
+      "created": 1620593471,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxjdzbu": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjdzbu/",
+      "text": "\"Allostery\", an ever-evolving term in biology/structural biology.",
+      "author": "AllostericFish",
+      "created": 1620594703,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxjgv79": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjgv79/",
+      "text": "\"Context.\" Field: translation.",
+      "author": "UselessCommon",
+      "created": 1620596136,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxjjc4g": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjjc4g/",
+      "text": "Feudalism.",
+      "author": "Durendal_et_Joyeuse",
+      "created": 1620597385,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxjkw3a": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjkw3a/",
+      "text": "To me, machine learning and Artificial intelligence.",
+      "author": "Tab_IM",
+      "created": 1620598180,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxjlmgd": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjlmgd/",
+      "text": "The definition of a species is a fun one",
+      "author": "plantsnerd",
+      "created": 1620598569,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxjmb8g": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjmb8g/",
+      "text": "Terrorism",
+      "author": "SaltandVinegarBae",
+      "created": 1620598930,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxjt1sm": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjt1sm/",
+      "text": "Splash",
+      "author": "hmadkour",
+      "created": 1620602591,
+      "upvotes": 2,
+      "replies": {
+        "gxjtxqd": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjtxqd/",
+          "text": "What field are you in? I haven't heard that being a technical term.",
+          "author": "hogw33d",
+          "created": 1620603087,
+          "upvotes": 1,
+          "replies": {
+            "gxjufya": {
+              "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjufya/",
+              "text": "Fluid mechanics. I did my first internship on droplets impacting a granular substrate, trying to find a splashing threshold. A big part of my meetings with the PIs was trying to define what is splashing. Is it when any tiny amount of liquid is ejected  from the bulk? Or is it when the liquid forms a crown around the bulk while spraying lots of smaller droplets everywhere? That was two years ago and I still don't know the answer to that ( we defined two thresholds). It's a mess in the literature, as even more phenomenons are described by the term Splash. I guess its just used as an all encompassing term for similar phenomenons that aren't quite defined yet",
+              "author": "hmadkour",
+              "created": 1620603364,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gxk185g": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk185g/",
+      "text": "Death.   When a body is mechanically sustained with functional organs, there is a legal definition requiring assessment of brainstem function.  But if this test is refused, the body is in this not alive/not dead state.  It gets very tricky and quickly involves legal, religious and ethics professionals.   The definition is even different among states, let alone countries!",
+      "author": "bu11fr0g",
+      "created": 1620607192,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxj1mnq": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj1mnq/",
+      "text": "Anthropology.\n\nAs in, you can get a paper back from review being told to \"write more anthropologically\" & have no idea if they want more quantitative science with the obligatory death-by-stats/charts or more qualitative humanities/theory buzzwords slapped in. To say nothing of the vaunted \"culture concept\" (& whether or not we should even still study it).",
+      "author": "Duc_de_Magenta",
+      "created": 1620588769,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gxj0nsi": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj0nsi/",
+      "text": "Poly-cystic ovarian syndrome",
+      "author": "sandlotter69",
+      "created": 1620588300,
+      "upvotes": 2,
+      "replies": {
+        "gxjdsnu": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjdsnu/",
+          "text": "Can you expand on this?",
+          "author": "HoodiesAndHeels",
+          "created": 1620594611,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "gxk0s0x": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk0s0x/",
+          "text": "Yes please I\u2019m also curious",
+          "author": "green-tea-11",
+          "created": 1620606938,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gxjcfu7": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjcfu7/",
+      "text": "\"Quantum,\" everybody has a gut feeling what it means. But getting it clear and consistent enough to be able to explain it to someone outside of the field is filled with pitholes. The point is you don't need to understand what it means to be able to contribute, and since it's anyway tricky to define, it's usually mostly swept under the carpet.\n\nThe problem is when it comes to science communication, where the question which used to be under the carpet comes to the spotlight. Then you'll confuse people by presenting logical-looking arguments with glaring gaps in them, adding to the whole mysticism around the word quantum.",
+      "author": "fuckwatergivemewine",
+      "created": 1620593955,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gxiza1x": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxiza1x/",
+      "text": "Math",
+      "author": "tao-jr",
+      "created": 1620587638,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxj7lrt": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj7lrt/",
+      "text": "\"Screen time\". I do sociology of parenting and childhood.",
+      "author": "CaptainLameO",
+      "created": 1620591645,
+      "upvotes": 1,
+      "replies": {
+        "gxjhwkd": {
+          "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjhwkd/",
+          "text": "Huh. What are some marginal cases?",
+          "author": "hogw33d",
+          "created": 1620596656,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "gxj1vz4": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj1vz4/",
+      "text": "Habitat.",
+      "author": "dexwin",
+      "created": 1620588893,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxj1x3q": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxj1x3q/",
+      "text": "Turbulence, still have no clue what it is.",
+      "author": "angelanime",
+      "created": 1620588908,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxjac9b": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjac9b/",
+      "text": "\u201cTumour Markers\u201d",
+      "author": null,
+      "created": 1620592942,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxjbgcd": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjbgcd/",
+      "text": "Spin-orbit coupling",
+      "author": "bopdaddi126",
+      "created": 1620593483,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxjo6bt": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjo6bt/",
+      "text": "Computational Complexity.\n\nThere's no one way to define this multi-faceted concept.",
+      "author": "anmold96",
+      "created": 1620599924,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxjr8ix": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjr8ix/",
+      "text": "Religion",
+      "author": "monmostly",
+      "created": 1620601582,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxjthxs": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjthxs/",
+      "text": "Differentiation and rigor",
+      "author": "atthevanishing",
+      "created": 1620602842,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxjupvv": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjupvv/",
+      "text": "Self-efficacy. There's like a really broad idea of it, but then your theoretical base changes it a bit.",
+      "author": "luckiexstars",
+      "created": 1620603516,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxjwmmy": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjwmmy/",
+      "text": "lol \"model\"",
+      "author": "michael_ende",
+      "created": 1620604597,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxjwp76": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjwp76/",
+      "text": "\"science\"",
+      "author": "04221970",
+      "created": 1620604636,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxjy7ko": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjy7ko/",
+      "text": "Leadership",
+      "author": "heatherheyhey",
+      "created": 1620605495,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxk0vy1": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk0vy1/",
+      "text": "Representation and depiction",
+      "author": "Omniasapere07",
+      "created": 1620606999,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxk1gb0": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk1gb0/",
+      "text": "Random variable. It's a function that maps the sample space to a subset of the real numbers.",
+      "author": "janemfraser",
+      "created": 1620607320,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxk47bl": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk47bl/",
+      "text": "Free indirect discourse",
+      "author": "Organic-Mountain-623",
+      "created": 1620608893,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxk4b81": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk4b81/",
+      "text": "Simulacrum",
+      "author": "brqqme",
+      "created": 1620608957,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxk58ky": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk58ky/",
+      "text": "\"Pitch\" and \"timbre\".  \"Pitch\" is surprisingly hard to make a single consistent definition for, and \"timbre\" is all the aspects of a sound besides the pitch.",
+      "author": "TheBlackCat13",
+      "created": 1620609495,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxk6wwf": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk6wwf/",
+      "text": "Syntacticians: Syntax studies how people put words together to form sentences\n\nAlso syntacticians: I have no idea what words and sentences are",
+      "author": "WavesWashSands",
+      "created": 1620610458,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxk9pbz": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxk9pbz/",
+      "text": "Emotional intelligence",
+      "author": "dragonsandprotons",
+      "created": 1620612075,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxkao3l": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkao3l/",
+      "text": "'Present'. In the palaeosciences a lot of ages are referred to as years before present, and present can mean 1950 CE, the day the analysis was done, the day the sample was collected, or however else you want to define it. It makes converting to years B/CE or comparing things tricky!",
+      "author": "mlcyo",
+      "created": 1620612634,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxkbt5d": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkbt5d/",
+      "text": "\u201cMass atrocity\u201d",
+      "author": null,
+      "created": 1620613305,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxkc7h8": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkc7h8/",
+      "text": "Literature. The most generic definition is that \u201cIt\u2019s the study of any written text\u201d, but honestly, there seems to be a \u201ccannon\u201d niche that is focused on, and less focus on marginal Topics.\n\nPersonally, I\u2019de love it more if there is more organized and organic structure to the whole literary studies and criticism field, to make it seem more...natural, and not as so much over the place as it seems right now...at least, in my view. If anyone knows about some structure of Literature studies, please tell me.",
+      "author": "wnn25",
+      "created": 1620613541,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxkdxnv": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkdxnv/",
+      "text": "biosensor",
+      "author": "ladybug180",
+      "created": 1620614553,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxkilr5": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkilr5/",
+      "text": "Life.  \n\\[I am an astrobiologist\\]",
+      "author": "VaHi_Inst_Tech",
+      "created": 1620617407,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxkngmz": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkngmz/",
+      "text": "Culture in anthropology",
+      "author": "littlejoy33",
+      "created": 1620620530,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxkv9xh": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkv9xh/",
+      "text": "Deconstruction",
+      "author": "lchowell",
+      "created": 1620626378,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxkwvaj": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxkwvaj/",
+      "text": "Trait anxiety. The brain doesn't appear to know the difference between fear and anxiety. We completely lack the words to label most mental processes.",
+      "author": "neurotim",
+      "created": 1620627684,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxl3qnn": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxl3qnn/",
+      "text": "\"Meaningful contribution\"\n\nI have seen plenty authors incorrectly describe their work like this.",
+      "author": "noknam",
+      "created": 1620633850,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxm76yn": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxm76yn/",
+      "text": "\"Truth in Advertising\"?",
+      "author": "nosradamus",
+      "created": 1620659768,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxm9qbd": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxm9qbd/",
+      "text": "Law.",
+      "author": "thesoftspokenscot",
+      "created": 1620660866,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxxwmiz": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxxwmiz/",
+      "text": "We have a few, but I think the concept of MSWD is confusing to many people.",
+      "author": "TourmalineTart",
+      "created": 1620878987,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gxjn08f": {
+      "link": "/r/AskAcademia/comments/n8egc2/whats_an_extremely_important_term_for_your_field/gxjn08f/",
+      "text": "Energy.  Sure we \"know\" what it is, but making an all-inclusive, practical, yet rigorous definition is tough.",
+      "author": "ImpatientProf",
+      "created": 1620599303,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

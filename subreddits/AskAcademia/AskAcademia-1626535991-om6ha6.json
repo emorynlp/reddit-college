@@ -1,0 +1,56 @@
+{
+  "sid": "om6ha6",
+  "link": "/r/AskAcademia/comments/om6ha6/new_postdoc_on_a_fellowship_have_to_pay_estimated/",
+  "title:": "New postdoc on a fellowship - have to pay estimated quarterly taxes and unsure where to start",
+  "text": "Posting here because I'm sure others on fellowships are in a similar boat. Do you fill out the quarterly tax form 1040-ES or do you use a service for each quarter (like Turbotax or similar)?",
+  "author": "lousyguest",
+  "created": 1626535991,
+  "updated": 1634082515,
+  "over_18": false,
+  "upvotes": 7,
+  "upvote_ratio": 0.9,
+  "comments": {
+    "h5jg8zf": {
+      "link": "/r/AskAcademia/comments/om6ha6/new_postdoc_on_a_fellowship_have_to_pay_estimated/h5jg8zf/",
+      "text": "I used to be a postbac on a fellowship so had to pay estimated quarterly taxes (pretty sure it\u2019s the same thing you\u2019re talking about). This is how I did it, so think it\u2019s right haha\n\nThe 1040-ES form is useful to figure out how much you\u2019ll owe. There are also calculators you can use (I [this](https://apps.irs.gov/app/tax-withholding-estimator) is the one I used for federal taxes?). Make sure you do this for your state taxes too- shouldn\u2019t be too hard to find a form and/or calculator for that with google.\n\nOnce you do those forms/calculators, you\u2019ll know how much you owe for the whole year. So then just divide that by 4, and that\u2019s how much you should pay each quarter. (This is assuming that you started at the beginning of the year and are paying for 4 quarters. If you were to start in the middle of the year, then divide that number by 2, since you\u2019d pay for 2 quarters instead of all 4. If you owe less than $1000 total in federal taxes for the year, then you don\u2019t need to do the quarterly payments (this probably won\u2019t be the case unless you start at the end of the year). Different states also have a similar threshold, the exact amount depends on the state.\n\nTo pay your federal estimated payment, you can just go [to this link ](https://www.irs.gov/payments) -> Pay Taxes (I do Bank Account (Direct Pay)) -> Make a Payment. Then, under \u201creason for payment,\u201d say \u201cEstimated tax.\u201d For the state taxes, it depends on your state but you should be able to find a similar website. I schedule my payments ahead of time, makes it easier imo. \n\nThen you\u2019ll still have to file a tax return like everyone on April 15th (which also is, annoyingly, an estimated quarterly tax payment due date). Instead of a W2 like most jobs, you\u2019ll get a 1099-G form, if I remember correctly. You can use TurboTax for this, but just FYI you won\u2019t be able to use their free service. (I used TurboTax before, but I know there are free services out there so plan to do that instead next time.)\n\nSome people I knew used to just skip the estimated tax payments and pay it all at once with the yearly tax return, since they didn\u2019t wanna deal with the quarterly stuff. But, if you schedule the payments ahead of time it\u2019s really not a big deal (also, I think there\u2019s a fine if you don\u2019t pay it quarterly? Not sure about that, though). Plus, it\u2019d be a lot to pay all at once!\n\nHope that helps! If anything\u2019s unclear just lmk",
+      "author": "francium_87",
+      "created": 1626545509,
+      "upvotes": 10,
+      "replies": {
+        "h5jjnx7": {
+          "link": "/r/AskAcademia/comments/om6ha6/new_postdoc_on_a_fellowship_have_to_pay_estimated/h5jjnx7/",
+          "text": "I\u2019m a postdoc on 1099G fellowship, I second all of this!",
+          "author": "natasha_gourd",
+          "created": 1626547173,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "h5ke7q0": {
+          "link": "/r/AskAcademia/comments/om6ha6/new_postdoc_on_a_fellowship_have_to_pay_estimated/h5ke7q0/",
+          "text": "This is perfect! Thanks a ton for the clear instructions!!",
+          "author": "lousyguest",
+          "created": 1626562894,
+          "upvotes": 2,
+          "replies": {
+            "h5l5rwr": {
+              "link": "/r/AskAcademia/comments/om6ha6/new_postdoc_on_a_fellowship_have_to_pay_estimated/h5l5rwr/",
+              "text": "no prob, happy to help!",
+              "author": "francium_87",
+              "created": 1626577277,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h5j2jkq": {
+      "link": "/r/AskAcademia/comments/om6ha6/new_postdoc_on_a_fellowship_have_to_pay_estimated/h5j2jkq/",
+      "text": "I'm not sure what you mean by \"service,\" because Turbotax does not manage payments...it's just tax calculation software.\n\nYou fill out the 1040-ES and send it in with a check/money order, or you can use [EFTPS](https://www.eftps.gov/eftps/) to pay with a bank account, or use a [payment service](https://www.irs.gov/payments/pay-your-taxes-by-debit-or-credit-card) approved by the IRS to use a credit or debit card. If this is your first year paying estimated taxes, you generally won't be charged a penalty next April.",
+      "author": null,
+      "created": 1626538963,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

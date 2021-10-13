@@ -1,0 +1,72 @@
+{
+  "sid": "q26b1d",
+  "link": "/r/AskAcademia/comments/q26b1d/how_feasible_is_it_to_pursue_engineering_academia/",
+  "title:": "How feasible is it to pursue engineering academia without working for the military?",
+  "text": "Hi, \n\nI'm a grad student interested in magnetics, topological materials, and neuromorphic computing, which happen to all be fields that the US has identified as being of strategic defense importance. \n\nI also really don't want to spend my life developing the foundations for advanced weaponry. I love research, but I look around, and most of the labs in the electrical engineering department (except for my own, which only does so tangentially) are working directly for DARPA or Lockheed or what have you. This summer, I was roped into advising a [military research org] team on the utility of a software I knew. They want me to apply for this defense scholarship thing. \n\nMy advisor has recently offered to work with me to write a grant proposal on the problem of my choice, though it is through one of these giant defense agencies. I am not sure how to respond to my advisor, but furthermore, is academia really for me if I don't want to develop weapons technology? Is it realistic to run a lab without pursuing these huge military grants? \n\n(I could always drop out and work for this local automated farming cooperative, that seems like something that'd be useful.)",
+  "author": "FragmentOfBrilliance",
+  "created": 1633470081,
+  "updated": 1634078751,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 0.84,
+  "comments": {
+    "hfkqint": {
+      "link": "/r/AskAcademia/comments/q26b1d/how_feasible_is_it_to_pursue_engineering_academia/hfkqint/",
+      "text": "Very little of DoD research in the universities are related to weapons. Most of us would choose not to work on weapons research. DoD funds research on telecommunications, cybersecurity, corrosion, cancer, environmental protection, alternative energy, etc... a lot of good stuff. The fields you are interested are also well funded by other agencies and corporations like DoE, NSF, IBM, Intel, etc.",
+      "author": "fwafwa",
+      "created": 1633501653,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hfjss12": {
+      "link": "/r/AskAcademia/comments/q26b1d/how_feasible_is_it_to_pursue_engineering_academia/hfjss12/",
+      "text": "You\u2019ve watched too many movies. Just because the military funds research doesn\u2019t mean it\u2019s for developing weapons.  There is a lot of engineering that goes into saving lives as well.  I\u2019ve received 20 years of defense funding and never once developed anything that could be considered a weapon.  Heck the Internet we\u2019re using to communicate was developed with Defense funding.  If you have a solid scientific idea, pitch it to this agency.  You\u2019ll be surprised how frequently they will sponsor pure research.",
+      "author": "RevolverOscillate",
+      "created": 1633481991,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "hfkvfxj": {
+      "link": "/r/AskAcademia/comments/q26b1d/how_feasible_is_it_to_pursue_engineering_academia/hfkvfxj/",
+      "text": "Others have commented on your choices within the US.  I wanted to just point out: if you can't find non-military funding in the US, there's a simple solution.  You can go pretty much anywhere else in the world and not have this problem.  The US has by *far* the largest military budget on the planet - about the same as the next 10 biggest combined.  There are many places with strong research in magnetics, topological materials, and neuromorphic computing and with far less military influence/funding.",
+      "author": "polyphonal",
+      "created": 1633505844,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hfk0qde": {
+      "link": "/r/AskAcademia/comments/q26b1d/how_feasible_is_it_to_pursue_engineering_academia/hfk0qde/",
+      "text": "NSF funds engineering & NIH funds some engineering work that's medical/health related, but you are probably limiting your chances to get funding if you only look at them. \n\nAre you against any military funding or specifically working on weapons? The military funds all sorts of basic research but it will eventually be applied for some sort of military application.",
+      "author": "mediocre-spice",
+      "created": 1633486173,
+      "upvotes": 2,
+      "replies": {
+        "hfk3d3w": {
+          "link": "/r/AskAcademia/comments/q26b1d/how_feasible_is_it_to_pursue_engineering_academia/hfk3d3w/",
+          "text": "Definitely against working on directly on  weapons or systems with direct applications in weapons tech. \n\nHistorically my lab has gotten NSF funding and other scientific grants, but I recognize it does not come so easy for most. \n\nI'm more conflicted about the more fundamental research that the military funds. I think it could come down to the individual project, or particularly the conditions attached to it? I'm curious to hear how other people feel about it.",
+          "author": "FragmentOfBrilliance",
+          "created": 1633487451,
+          "upvotes": 1,
+          "replies": {
+            "hfkcwh6": {
+              "link": "/r/AskAcademia/comments/q26b1d/how_feasible_is_it_to_pursue_engineering_academia/hfkcwh6/",
+              "text": "> particularly the conditions attached to it\n\n\nI've been funded by DoD for many years, and the funding doesn't come with any \"conditions\" that you wouldn't see from NSF or NIH or any other governmental organization. \n\n\nTo give you one example of why you may want to reconsider: the DoD has long considered climate change and the effects thereof to be of strategic national importance. They would fund work in this area even when political pressures meant that other agencies would not. \n\n\nHell, ONR has a marine mammal program. Do you think they're putting laser beams on dolphins?",
+              "author": "blue_pez",
+              "created": 1633492439,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hfjy4bt": {
+      "link": "/r/AskAcademia/comments/q26b1d/how_feasible_is_it_to_pursue_engineering_academia/hfjy4bt/",
+      "text": "Not to be harsh,  but do you think that a grad student is developing the next generation of weapons technology? There are staff scientists at DOD that do the actual weapons work. The technologies you are referring to are used in tons of applications and not just weapons. The organizations you refer to do tons of other work.  Would treaty verification be to close to weapons work? Would quantum computing? Would satellites? Covid detection is a defense concern.  \n\nDecide where you draw the line ethically and stick to it. If you don't want to be funded by defense you don't have too. But there are lots of funding opportunities that don't deal with weapons work. I am more surprised that you found a department with such a high percentage of defense funding. That would require 100% US citizens working on the project and possibly a PI with a high level security clearance, which would be very very difficult to achieve in most EE Departments.",
+      "author": "grounded_out",
+      "created": 1633484928,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

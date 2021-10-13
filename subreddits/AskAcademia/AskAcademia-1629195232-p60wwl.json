@@ -1,0 +1,104 @@
+{
+  "sid": "p60wwl",
+  "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/",
+  "title:": "Is it acceptable to submit a paper for a conference to a journal for publication?",
+  "text": "Hi, sorry. Amateur question from a grad student here.\n\nI don't plan to publish in the conference, not in the proceeding as well. I just wanted to get feedback for my paper in the conference and get people to know what I'm researching, then publish in a separate journal which I'm aiming for.\n\nWould that be acceptable for both parties? Or do I need to wait for the conference? Conference is still next year and since the topic is still hot but publication will take time, I don't want to let my findings became out of date.",
+  "author": "SeveralDumbQuestions",
+  "created": 1629195232,
+  "updated": 1634079573,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 0.8,
+  "comments": {
+    "h99xvzf": {
+      "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/h99xvzf/",
+      "text": "It depends upon your field. I doubt any information is defitive without knowing your field. Since you are a grad. student, you should ask your supervisor. They will know the norms of your discipline \u2014and it is their job to guide them through them in the first place.\n\nIn CS, conferences are considered archival\u2014and our A\\*/A conferences (e.g. CHI, IJCAI, AAAI, etc) are far more important than journals. This means that you can't publish in both the same paper \u2014though, you can do a  conference first and then \\*significantly\\* extend it to a journal article. In fact, smaller workshops and conferences tend to offer that in the form of a special issue organised after the workshop. However, the opposite also exists: you first publish in a top journal and then get a conference presentation on a special track (with selected journals). If no such track exists, then it is not possible.\n\nOutside CS, it varies and the rule of thumb tends to be: if the place is *not archival*, then it is fine to publish in a journal afterward. However, non-archival venues don't count for your publications list.\n\nNow, having the same thesis/data under reviewed in two places at the same time is usually not allowed or, when it is possible, you should alert both venues.",
+      "author": "RecklessCoding",
+      "created": 1629198613,
+      "upvotes": 17,
+      "replies": {
+        "h9apcja": {
+          "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/h9apcja/",
+          "text": "Who woulda' thunk? We have a long history of writing up a paper for publication in draft form and then presenting the core at a conference and then finishing it for publication.\n\nInteresting differences in different academic areas!",
+          "author": "rockyfaceprof",
+          "created": 1629212236,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "h9a6cvy": {
+      "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/h9a6cvy/",
+      "text": "Fellow humanities scholar here. This is pretty normal for my field. It might be nice to put an introductory note at the head of the footnotes/endnotes saying 'Earlier versions of this article were presented at X conference' etc.\n\nIn my field, most of these papers that become articles require a bit of revision anyway, such that the work is quite different or substantially expanded. Given the typical 20-minute conference paper is about 2,000 words, and the average journal article is around 10,000 words, there will be much you'll have added that will merit it being treated as a separate work from your earlier paper presentation.",
+      "author": "contrapunctus1750",
+      "created": 1629203649,
+      "upvotes": 12,
+      "replies": {
+        "h9aljfv": {
+          "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/h9aljfv/",
+          "text": ">  It might be nice to put an introductory note at the head of the footnotes/endnotes saying 'Earlier versions of this article were presented at X conference' etc.\n\nGood advice, thanks!",
+          "author": "SeveralDumbQuestions",
+          "created": 1629210617,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h99tdcp": {
+      "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/h99tdcp/",
+      "text": "in psych this is completely normal",
+      "author": "victoria-lobster",
+      "created": 1629195297,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "h99x0nl": {
+      "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/h99x0nl/",
+      "text": "Depends, this is a question for your supervisor as it will vary on the field, the paper and even the conference.",
+      "author": "IntLawprof",
+      "created": 1629198012,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "h9b3rbu": {
+      "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/h9b3rbu/",
+      "text": "At least in my fields (neuroimaging/psych) this is so common that I haven\u2019t seen all that many counter-examples. \n\nIn a somewhat snarky take, my conference experience goes like this:\n\nHurry, hurry! Tell us about the cool work you have enough data to talk about! The conference is only like 6-12 months away, so HURRY! \n\nSubmit abstract, get approved for poster or presentation. \n\nSubmit manuscript to journal at some point while waiting 5-10 months for conference\n\nPresent on paper that everyone already read when it was published. \n\nI feel good about how easy it was to write the presentation or poster, since the paper was already done. I feel sad to spend a lot of money (or my advisors grant money) to attend the conference in order to see a everyone else present papers that I read when they were published. Spend a bunch of time talking with people about what we each are working on now, which will again be old news by next year\u2019s conference.\n\nConference feels good that it collected such polished work, knows about and ignores the problem of early call for abstracts meaning the conference is almost always half a year behind the field unless they have a small breakthrough research section for high profile stuff closer to the time of the conference. New organizers start planning next year\u2019s conference to mimic this year\u2019s success. Problem perpetuates. \n\n\ud83d\ude06",
+      "author": "tekgy",
+      "created": 1629217991,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h9a5m4g": {
+      "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/h9a5m4g/",
+      "text": "Talk to your advisor about this. In general it depends but is usually ok. What's not allowed is publishing the same thing twice. Also be careful not to get scooped.",
+      "author": "c0smic_0wl",
+      "created": 1629203251,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h9alf2m": {
+      "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/h9alf2m/",
+      "text": "Thanks all! Pretty good to listen how other fields do it too. I'm in anthro anyway. Following your suggestions, I asked my supervisor, and supervisor said it's fine.",
+      "author": "SeveralDumbQuestions",
+      "created": 1629210567,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h9fqpa2": {
+      "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/h9fqpa2/",
+      "text": "It seems to depend on the field. In Computer Science, it's very normal to publish a conference paper and then publish an expanded, more detailed version in a journal. But it's not acceptable to send the exact same paper to a journal that has been published in a conference proceedings.",
+      "author": "radams78",
+      "created": 1629311056,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hct1o45": {
+      "link": "/r/AskAcademia/comments/p60wwl/is_it_acceptable_to_submit_a_paper_for_a/hct1o45/",
+      "text": "You can certainly proceed without any doubts! But beware of publishing the same paper twice, and when you publish the full-length article in a journal, make sure to update the previous or different versions of the same paper.   \nAs you are an early researcher and stepping into academia, you can read my blogs relating to academic writing!   \n\n\n[Choosing the Right Journal \u2014 A Comprehensive Guide for Early-career Researchers](https://typeset.io/resources/choosing-the-right-journal-a-comprehensive-guide-for-early-career-researchers/?source=reddit)\n\n[4 Common Research Writing Mistakes (and How to Fix Them)](https://typeset.io/resources/4-common-research-writing-mistakes-and-how-to-fix-them/?source=reddit)  \n\n\n[How to increase citation count of your research paper?](https://typeset.io/resources/how-to-increase-citation-count-of-your-research-paper/?source=reddit)\n\n[How to write a research paper abstract?](https://typeset.io/resources/how-to-write-a-research-paper-abstract/?source=reddit)  \n\n\nAll the very best:)",
+      "author": "Intelligent_Square25",
+      "created": 1631618097,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

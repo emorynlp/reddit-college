@@ -1,0 +1,40 @@
+{
+  "sid": "q31nqo",
+  "link": "/r/AskAcademia/comments/q31nqo/between_a_rock_and_a_hard_place_engineering_phd/",
+  "title:": "Between a rock and a hard place, engineering PhD",
+  "text": "I am an engineering PhD student. Been working on some experiments for two years now. I told my PI that I needed certain expensive equipment to run these tests, he plainly denied me that equipment although he had the money to let me buy that by telling me to use tools/equipment that are cheap. The data I have gathered is decent after the experimentation, with 30% of it being not too good due to the tools used. I am very tempted to make some changes as I have no way out. He is now forcing me to finish the model I am working on. I am torn and stressed and what not.",
+  "author": "QuarterObjective4141",
+  "created": 1633582418,
+  "updated": 1634078739,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "hfpwh9t": {
+      "link": "/r/AskAcademia/comments/q31nqo/between_a_rock_and_a_hard_place_engineering_phd/hfpwh9t/",
+      "text": "What do you mean \"make some changes\"? If that is code for falsify data then definitely don't do that.  If 30% of your data is bad then 70% is good,  which is pretty on par for research generally. Also, how do you know the data is bad? If it's counterintuitive then you might have something interesting to discuss.  If the data was collected incorrectly then it can be removed from analysis (with a comment on why it was removed). \n\nYou should hopefully have an advisor you trust.  If they are telling you the model can be completed with the data you have then they must have some confidence in the work you have done. That seems like a positive for completing your PhD.",
+      "author": "grounded_out",
+      "created": 1633608422,
+      "upvotes": 3,
+      "replies": {
+        "hfpwlze": {
+          "link": "/r/AskAcademia/comments/q31nqo/between_a_rock_and_a_hard_place_engineering_phd/hfpwlze/",
+          "text": "Thank you for your kind words. Just wanted to vent.",
+          "author": "QuarterObjective4141",
+          "created": 1633608498,
+          "upvotes": 1,
+          "replies": {
+            "hfradi8": {
+              "link": "/r/AskAcademia/comments/q31nqo/between_a_rock_and_a_hard_place_engineering_phd/hfradi8/",
+              "text": "Also, reporting how and why 30% is bad and how this can be avoided may be considered a contribution. We need more negative results to be reported.",
+              "author": "maturelearner4846",
+              "created": 1633630557,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

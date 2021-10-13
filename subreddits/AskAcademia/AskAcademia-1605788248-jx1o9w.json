@@ -1,0 +1,389 @@
+{
+  "sid": "jx1o9w",
+  "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/",
+  "title:": "Is \"footnote-mining\" okay?",
+  "text": "History grad student here. I have been wondering for a while what people make of [\"footnote mining.\"](https://onelastsketch.wordpress.com/2013/01/16/footnote-mining-and-interdisciplinary-research/)\n\nBy that I mean: When I do my reading of the secondary literature before starting to write an article/book chapter, I often try to look up and locate the sources in the footnotes/endnotes. This often is a good way to find relevant secondary literature and primary sources. Now, when I later end up citing secondary literature and (more importantly) primary sources first found in another historian's work, it is my understanding that I do not have to acknowledge where I found the source, but can simply cite the original source (for example the primary source that I first learned about in another historian's work but then located myself) and do not have to add something like \"also see/also cited in....\". \n\nAm I correct that this is generally seen as acceptable? A quick search on google seems to suggest so:\n\n[https://onelastsketch.wordpress.com/2013/01/16/footnote-mining-and-interdisciplinary-research/](https://onelastsketch.wordpress.com/2013/01/16/footnote-mining-and-interdisciplinary-research/)\n\n[http://itre.cis.upenn.edu/\\~myl/languagelog/archives/004608.html](http://itre.cis.upenn.edu/~myl/languagelog/archives/004608.html)\n\n[https://www.reddit.com/r/AskAcademia/comments/dz4cnx/do\\_i\\_need\\_to\\_acknowledge\\_it\\_if\\_a\\_primary\\_source\\_i/](https://www.reddit.com/r/AskAcademia/comments/dz4cnx/do_i_need_to_acknowledge_it_if_a_primary_source_i/)\n\n&#x200B;\n\nHowever, I am wondering where one would draw the line? Using a few primary sources that another historian working on a similar topic has used as well is surely fine and probably unavoidable. But what if it is more than that?\n\n&#x200B;\n\nThanks!",
+  "author": "Historian254",
+  "created": 1605788248,
+  "updated": 1634081843,
+  "over_18": false,
+  "upvotes": 111,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "gcttfk4": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcttfk4/",
+      "text": "Like the others said: yes, \"footnote mining\" as a way to find references is fine.\n\nI might be stating the obvious here, but what is NOT fine, however, is to just add such references to your paper. You should only cite references that you yourself have read, i.e., don't believe other people's claims about a reference, check them by yourself. Otherwise you need to attribute the claims to the publication where you found the footnote. In other words, there IS a difference between \"As discussed by Biden et al., Trump et al. make a number of claims about the voting system of the US\" and \"Trump et al. make a number of claims about the US voting system.\" , and you can use sentences like the 2nd one only if you've read (and understood...) the Trump et al. paper.",
+      "author": "velax1",
+      "created": 1605793600,
+      "upvotes": 189,
+      "replies": {
+        "gctua1n": {
+          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctua1n/",
+          "text": "Exactly this - in STEM, we have review articles that are equivalent to humanities books in highly condensed form (and perhaps narrower scope). One important practical function they serve is as a catalog of relevant primary literature on a subject, and they are usually the first papers to read on a new topic. It\u2019s important to engage with the primary material and make one\u2019s own mind up. I\u2019m sure not everyone does, but we all choose how good we want our scholarship to be.",
+          "author": "ccots",
+          "created": 1605794123,
+          "upvotes": 50,
+          "replies": {
+            "gctwut0": {
+              "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctwut0/",
+              "text": "Because of the citation statistics of recognized reviews, I think people just directly learn from reviews in practice. In a way that makes sense, the originals are normally shooting in the dark, so the concepts and notation are all mixed up and confusing. It's only with the perspective of a few years that people can tell a more coherent story in a review.\n\nPlus there's the problem of volume: a given result many times is spread out over the publications of an entire community in the span of years, whereas in a review it can be simply stated as its own lemma in a few lines. Of course you'll get the most out of it if you read the entire literature, but in practice nobody's got time for that. So as long as the proof presented in the review is robust, I'd go with staying at the review level 9 times out of 10.",
+              "author": "fuckwatergivemewine",
+              "created": 1605795647,
+              "upvotes": 16,
+              "replies": {
+                "gcu4co5": {
+                  "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcu4co5/",
+                  "text": "For myself, if I\u2019m reading because I\u2019m considering the topic for a new project or reviewing a tenure case or something fairly major like that, I generally go into the primary literature and nose around. I appreciate the synthesis reviews can give but I sometimes find it insufficient.",
+                  "author": "ccots",
+                  "created": 1605799706,
+                  "upvotes": 5,
+                  "replies": {
+                    "gcu6a9a": {
+                      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcu6a9a/",
+                      "text": "Oh yes I fully agree there. I've never reviewed any tenures, not even close to being that far up haha, but for starting new projects it's always either getting an idea from a first-hand paper or from some discussion with the author.",
+                      "author": "fuckwatergivemewine",
+                      "created": 1605800680,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                },
+                "gcwduin": {
+                  "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcwduin/",
+                  "text": "IMO the best method is to cite the review and cite the relevant papers. It doesn't have to be an either or situation. Generally I only need to cite a few of the papers in the review, so I'm not digging through all 100+ references. This allows you to acknowledge the work of both the original authors, and the review authors.",
+                  "author": "sailingpj",
+                  "created": 1605837898,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "gcviwn9": {
+              "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcviwn9/",
+              "text": "Also, reviewing the references of any included research articles is a legitimate, sometimes required, step in conducting a systematic review. Database search won't find everything, and it's an imperfect tool for telling you how important an article is. Those references get added to the list (with a record of how you found them) and reviewed to the same standard as articles found by other means.\n\nThe reviews themselves can be used many different ways. If a review is directly relevant to research I plan to do, I follow up many, maybe all, of its references depending on their relevance. If it's a supportive or peripheral concept, or I'm summarizing a body of work, I may stop at reading the review or use it to find just a few articles that are most directly relevant to my research. I also use them any time I wade into a topic that is new to me, so I'm aware of good search terms and generally what I should expect to find. I've developed measurements based on research themes identified by reviewers, too.",
+              "author": "epieee",
+              "created": 1605822841,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "gcugrek": {
+          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcugrek/",
+          "text": "Just thinking about Trump as an academic cracks me up",
+          "author": "learning-new-thingz",
+          "created": 1605805708,
+          "upvotes": 17,
+          "replies": {
+            "gcvzcap": {
+              "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcvzcap/",
+              "text": "I\u2019ve seen quite a few \u201cAcademic Trump\u201d profiles on Twitter; here\u2019s one: https://twitter.com/statisticiantr2?s=21",
+              "author": "NatashkaX",
+              "created": 1605829933,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "gcuhz7s": {
+          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcuhz7s/",
+          "text": "I think it might also be worth noting that it can also be appropriate to cite the source it was found in with something along the lines of 'see also the discussion in Biden et al.' or, with an 'inter-alia' or 'c.f' depending on how you are using it.\n\nI add this only as OP asks about it. It's not necessarily required and isn't always appropriate, but it can be nice way to give credit to how you came across the literature.",
+          "author": "WrestlingStuffGuy",
+          "created": 1605806284,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "gculg4n": {
+          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gculg4n/",
+          "text": "I would agree with this but with the caution that some humanities reference combinations are so peculiar that including all of what another paper cites means replicating some of their analysis, which then would demand ref to the original. This is an especially needed caution in a field like history, where so much of the scholarly contribution comes down to how you read what sources together, vs other humanities fields that have non-textual objects or tend to be more explicitly theoretical.",
+          "author": "lavenderelectric",
+          "created": 1605807891,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "gcuk9k3": {
+          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcuk9k3/",
+          "text": "Yep. I have on more than one occasion found a footnote, or even an entire analysis, that turns out to be faulty and not reflective of what the source actually says.",
+          "author": "SaintRidley",
+          "created": 1605807349,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "gcw3yfm": {
+          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcw3yfm/",
+          "text": "So what if you are citing a quote that was taken from another reference?",
+          "author": "Rickbox",
+          "created": 1605832477,
+          "upvotes": 1,
+          "replies": {
+            "gcw75pz": {
+              "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcw75pz/",
+              "text": ">So what if you are citing a quote that was taken from another reference?\n\nIf you aren't getting it from the original you must cite it to where you found it-- all too often secondary sources will misquote or even mis-characterize a source. If you haven't read it yourself then you must cite to the place you found it.",
+              "author": "SnowblindAlbino",
+              "created": 1605834256,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gctpn3d": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctpn3d/",
+      "text": "Looking at footnotes is just another search technique, no less acceptable than if you were searching Google Scholar. What matters is the source, not where you originally found a reference to it. Just make sure that the source of relevant.",
+      "author": "alcanthro",
+      "created": 1605791052,
+      "upvotes": 106,
+      "replies": {
+        "gctq7mm": {
+          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctq7mm/",
+          "text": "I agree. Surveys may be an exception, as their goal is to concentrate multiple citations in a single place. I think that it is fair to (also) cite a survey directly, if it helped you acknowledge works in your field.",
+          "author": "1oRiRo1",
+          "created": 1605791459,
+          "upvotes": 22,
+          "replies": {
+            "gctwwik": {
+              "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctwwik/",
+              "text": "Right. Go read the source (to avoid compounding mis-citation issues) and cite THEM.",
+              "author": "davidzet",
+              "created": 1605795675,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "gcu2z0n": {
+              "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcu2z0n/",
+              "text": "Indeed. In fact, indirect citations can be a problem. There are multiple examples of people citing work, which eventually leads back to... nothing, or leads back to a circular citation. It almost becomes \"academic folklore.\" That's why it's usually a good to at least check the primary source to make sure that the citation is not a misrepresentation of the original work, or actually cites data that well... exists.",
+              "author": "alcanthro",
+              "created": 1605799003,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "gctsf5e": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctsf5e/",
+      "text": "i dont see how this is any different than simply 'research'  (i.e. secondary, or non-original research, of course)\n\nis there a serious scholar out there who DOESNT go through the footnotes of key works and track down and read those sources?",
+      "author": "BlancheDevereux",
+      "created": 1605792957,
+      "upvotes": 28,
+      "replies": {
+        "gcw79p1": {
+          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcw79p1/",
+          "text": ">is there a serious scholar out there who DOESNT go through the footnotes of key works and track down and read those sources?\n\nExactly-- we teach our young historians to read the footnotes *first* in fact. Indeed, sometimes that's all you need to do.",
+          "author": "SnowblindAlbino",
+          "created": 1605834317,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "gcttcts": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcttcts/",
+      "text": "Footnote mining is not only a component of research, but in fact a critical one. Footnote mining provides you with an understanding of where document and resources are, what is theoretically available, and where you should start looking. The third point really is the most important because these sources can provide you with an excellent place to focus your efforts. Footnotes also can highlight unique or interesting sources which you may not considered, such as a diary you didn\u2019t know was published, or a report which doesn\u2019t appear in the normal archival record. You just need to be cautious and careful that footnote mining doesn\u2019t become the totality of your research. Footnotes tell you what other people are looking at, not what is really out there. That part you have to do on your own.",
+      "author": "BeondTheGrave",
+      "created": 1605793551,
+      "upvotes": 25,
+      "replies": {}
+    },
+    "gctv29q": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctv29q/",
+      "text": "This is fine and everyone does it, BUT a) don't cite stuff you haven't read, and b), if there is a particular work with a very good bibliography which has helped you find relevant studies, it can be good form and also helpful for your readers to cite it as \"for a fuller bibliography, see xxxxxx\".",
+      "author": "blueb0g",
+      "created": 1605794589,
+      "upvotes": 17,
+      "replies": {}
+    },
+    "gctux0y": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctux0y/",
+      "text": "Wildlife biologist here, but one of my research kinks is to follow concepts back to their origins. I've found a lot of holes for me to fill doing this, and a lot of my work is \"footnote mining.\" I often cite where I found the other sources, but for different reasons. Sometimes it is to point out that the secondary source misused the original source, but often if the secondary source built an interesting framework from the original source, I'll cite them in reference to that if it is pertinent to my discussion.",
+      "author": "dexwin",
+      "created": 1605794504,
+      "upvotes": 11,
+      "replies": {
+        "gcxjlip": {
+          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcxjlip/",
+          "text": "The first time I found an error in a paper who miscited a previous paper I was in a hell of a quandary. I was new in grad school and I was very sure that I must have misread the original and I went back and forth a hundred times. How could a published paper have an error in the discussion about a reference??? I finally asked my PI who laughed and told me that it would not be at all uncommon for me to find those if I'd actually go back and read the referenced papers. Of course, he was right.",
+          "author": "rockyfaceprof",
+          "created": 1605870826,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "gctzlof": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctzlof/",
+      "text": "O lord, if that's wrong, I don't wanna be right.",
+      "author": "DrGoblinator",
+      "created": 1605797192,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "gctyopj": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctyopj/",
+      "text": "Philosophy and religion here.\n\nThis is how I find new and impressive sources. The rabbit hole is pretty deep if you\u2019re patient enough to track down some of the weird or poorly translated books. It can also help give you a more complete picture of any given discourse to examine how different authors read the same source, or to see how writers dealing in different subjects found the same source helpful.",
+      "author": "Norin_was_taken",
+      "created": 1605796692,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gctznmi": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctznmi/",
+      "text": "There are three reasons to cite sources: to support a claim, to benefit the reader, and to give credit where credit is due. Finding source A in the footnotes/bibliography of source B is not enough on its own to cite source B in my opinion. Sometimes source B is useful to the reader, sometimes not, that's just a judgement call. If you are making use of the analysis/argument/translation or whatever of source B then of course you should include a reference.  \n\n\nEDIT: I originally called it two reasons, but one of the reasons splits into two... maybe there are even more reasons...",
+      "author": "l_lecrup",
+      "created": 1605797222,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "gcu0qw7": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcu0qw7/",
+      "text": "It's fine if you're reading the sources. I've come across some common idea-citation pairs in my field's literature where I've read the source and found no reason to attribute the idea to it, and so I'm assuming these scholars just blindly copied and pasted. Please don't do that. \n\nThis has also included citations on things like the origin of specific pieces of terminology, where the dogma citation in my field is objectively wrong, but my advisor requests I use the \"established\" source for conformity with the literature.",
+      "author": "papayatwentythree",
+      "created": 1605797818,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gcu1fn2": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcu1fn2/",
+      "text": "this is how you are supposed to do it, assuming you do actually read the resources you are citing, of course.",
+      "author": "tc1991",
+      "created": 1605798186,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gcuq6f5": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcuq6f5/",
+      "text": "I was taught that you should indicate that Citation A helped you find Citation B if you are building on Citation A's ideas or insights. For example, if you decide to use a quote that Citation A pulled from Citation B, then you cite the quote as *\"Quote\" (Citation B qtd in Citation A)* to acknowledge that the identification and use of the quote was not originally your idea.",
+      "author": "islandermine",
+      "created": 1605810025,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gcusqvc": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcusqvc/",
+      "text": "Footnote mining has become a saving grace for learning about archival collections when everything is closed.",
+      "author": "velmaed",
+      "created": 1605811231,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gcuuhnh": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcuuhnh/",
+      "text": "It\u2019s fine to mine sources. I teach this to students. I did once get asked to review an article that pretty much stole my setup on a pretty niche topic. I\u2019m a nobody in academia and felt weird about that. Encouraged revision but didn\u2019t call it out. They did cite me elsewhere in the paper.",
+      "author": "jaylynn232",
+      "created": 1605812035,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gcu6xas": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcu6xas/",
+      "text": "History BA here. I disagree with some of you.\nI think there is some leeway, although:\nDid you actually read the source you are citing? Is the primary or secondary source well known?\nIf yes, I think it's absolutely fair to just cite it regulary.\nIf one or both of these questions is a no, then don't cite it directly. I usually do \"X cited in: Y\". (well.. I do it in German, but I digress.)\n\nYou can't just cite some obscure source you never would have found by yourself, as one you did. You have to give credit to the original author because it's not your own thought. And if you did't read a source, you can't be sure if the secondary source is telling the \"truth\". Be save, let them take the blame just in case.",
+      "author": "MrSeader",
+      "created": 1605801000,
+      "upvotes": 2,
+      "replies": {
+        "gcw7oti": {
+          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcw7oti/",
+          "text": ">You can't just cite some obscure source you never would have found by yourself, as one you did. \n\nOf course you can.  I'm guessing you are young enough to never have used published (paper) bibliographies, or even \"bibliographies of bibliographies,\" which was how you found the former. You don't have to cite a path to a source any more than you would cite Google if it turned up a primary source or an article in Google scholar.  You are 100% correct that you must actually *read* said source yourself of course, but once you've done that there's no reason to say \"I found this source in Smith\" or anyplace else. Cite the document you use, not the tools that helped you find it.",
+          "author": "SnowblindAlbino",
+          "created": 1605834558,
+          "upvotes": 1,
+          "replies": {
+            "gcxn2jg": {
+              "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcxn2jg/",
+              "text": "Hmm. I get your point and let's be honest: I usually do just that when citing articles and so on.\n\nBut especially in the context of History it's a bit different, I think. I'm writing about the river crossings of Alexander the Great right now. When reading and using academic works that cite Herodotus or Xenophon, I wouldn't cite the original article because I have these sources at home, read them and so on. But if the athor used a source I never heard of, that's different, no? Because using this and that source in that specific scholarly context wasn't my original idea. Therefore I thought, I have to give credit. (at least theoretically, no saying I always do this)\n\nThat's how I learned it anyways.",
+              "author": "MrSeader",
+              "created": 1605874296,
+              "upvotes": 1,
+              "replies": {
+                "gcyds8f": {
+                  "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcyds8f/",
+                  "text": "There may be *some* difference when working with ancient history, since sources are so limited and everyone is working from the same general corpus. But I'm a 20th c. Americanist. My last book drew on over 5,000 sources, about 75% of them from the popular press. There's no way in hell I would have found all of those without piggybacking on the works of other historians-- and never once my footnotes did I say \"I found this source in X's notes.\" That simply isn't something we do; if I did my editor would have insisted it all be cut. The same is true of every editor I've worked with over the last 30 years.",
+                  "author": "SnowblindAlbino",
+                  "created": 1605890292,
+                  "upvotes": 1,
+                  "replies": {
+                    "gcyenr2": {
+                      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcyenr2/",
+                      "text": "Thank you so much for your comments, really appreciate your insight in how academic writing \"actually\" works. So I guess this is just something we students are officially taught..\nTake care, Professor Albino!",
+                      "author": "MrSeader",
+                      "created": 1605890709,
+                      "upvotes": 2,
+                      "replies": {
+                        "gcyk1n9": {
+                          "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcyk1n9/",
+                          "text": "It's odd though-- as no students I know are being taught what you are. Certainly not in our department, where we are teaching the opposite. I'm going to ask my colleagues in Classics though, to see if they have different experiences. Most of our history department are modernists (with a few exceptions) and this may simply be one of those things that is different when working in Classics or ancient history.",
+                          "author": "SnowblindAlbino",
+                          "created": 1605893290,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "gcu94kw": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcu94kw/",
+      "text": "[relevant meme](https://imgflip.com/i/2mt8iq)",
+      "author": "sci-prof_toronto",
+      "created": 1605802097,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gcvp6js": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcvp6js/",
+      "text": "Totally. This is one of the research techniques I teach my students because they often don't think to do it.\n\nWe've become so used to searching for things online that we forget that this used to be a major component of how research was conducted not that long ago. \n\nAs others have said, you just need to read them for yourself to verify.",
+      "author": "Brumal42",
+      "created": 1605825396,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "gcu9srp": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcu9srp/",
+      "text": "This is okay but you should acknowledge the source that helped you locate it. Doing this shows that you didn't just \"crib\" a bibliography from one paper.",
+      "author": "IamRick_Deckard",
+      "created": 1605802424,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "gctzdjl": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gctzdjl/",
+      "text": "That sounds pretty much like backward snowballing, which certainly is an acceptable search strategy.",
+      "author": "SunburntWombat",
+      "created": 1605797070,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gcuxp14": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcuxp14/",
+      "text": "If you\u2019re doing this a lot you also want to watch out that you are are arranging & analyzing your sources in an original way. If you are footnote mining it can be a slippery slope to putting them in your own paper in the same order as the original source. If you end up with a paper that discusses the same ideas in the same order as the original source, even in your own words, that\u2019s considered by many to be a a type of plagiarism.",
+      "author": "SaySayOh",
+      "created": 1605813564,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gcuz1v6": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcuz1v6/",
+      "text": "What u/velax1 said.",
+      "author": "isaac-get-the-golem",
+      "created": 1605814210,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "gcw6x2d": {
+      "link": "/r/AskAcademia/comments/jx1o9w/is_footnotemining_okay/gcw6x2d/",
+      "text": "This is exactly what we teach our undergraduate history majors to do. Start your research with books that will provide a synthesis and point you at the relevant literature. Then grab the key secondary literature from the bibliography and notes. As you read that secondary literature, raid their notes for primary sources. \n\nOf course it's fine. Don't fall into the trap of *citing* or quoting anything you haven't actually seen/read in its original for (or if you do, cite it to where you found it). But you don't owe a citation to a book any more than you would to a published bibliography or any other tool that tips you off to a source.",
+      "author": "SnowblindAlbino",
+      "created": 1605834122,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

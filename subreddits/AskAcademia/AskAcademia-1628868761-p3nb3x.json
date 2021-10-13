@@ -1,0 +1,563 @@
+{
+  "sid": "p3nb3x",
+  "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/",
+  "title:": "Me and my friend did a project as a team. He now wants to write my half of the project in his master's thesis as well. Should I allow him to?",
+  "text": "Hello. I hope this is the right place to ask this question.\n\nSo I was a CS undergrad and my friend was doing his master's in CS last year when we started working on a project as a team under the supervision of a professor. The project turned out to be a success and we published a paper together, then I graduated from my undergrad studies while my friend continued doing his master's studies.\n\nNow, he came to me with a weird offer. He stated that since we did this project together, I owned half of it and he owned the other half. He said that he can freely write his half of the work in his thesis, but said that he also wants to write my half of the project in his thesis as well. He said he would dedicate the \"Acknowledgements\" section of his thesis all to me if I accept this offer.\n\nThis seemed bizarre and weird to me, and he said that he and I would both benefit from this, as he would need to do additional work for his thesis if I don't allow him to write about my half of the project in his thesis; and I would benefit because the readers would get to know about me when reading the \"Acknowledgements\" part of his thesis. He also said that I wasn't allowed to include my half of the project in my thesis if I pursue a master's degree since it is something that was done in the past, and therefore my half would be unusable if he didn't write about it in his thesis.\n\nWhat do you think about this offer? I wanted to ask here to get some opinions on the matter.",
+  "author": "akane5",
+  "created": 1628868761,
+  "updated": 1634079600,
+  "over_18": false,
+  "upvotes": 147,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "h8sp0w0": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sp0w0/",
+      "text": "Speaking as a CS professor, the answer is \"Of course not.\" Even if you agreed to this, his Master's thesis must be his own work. Since you co-authored a paper, it has already been documented that your contributions were  enough to merit more than acknowledgement. He cannot include your work in his Master's thesis unless he very clearly documents that it was your work and not his, the same way he would with any other citations to work by others, which is apparently not what he wants to do. It seems pretty clear that he is trying to cheat, and you should not support that.\n\nHe is also being dishonest when he says that this would benefit you. Nobody cares about the acknowledgments in a Master's thesis. It is also untrue that you will be unable to write about your portion in your own hypothetical Master's thesis in the future, although it is perhaps unlikely that you will want to do so.",
+      "author": "bigrottentuna",
+      "created": 1628870660,
+      "upvotes": 293,
+      "replies": {
+        "h8srezr": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8srezr/",
+          "text": "This. My Master's thesis did include work from a joint paper (I was the first author), but I had to carefully carve out the parts that were performed by my colleague and cite them instead.\n\nEdit: I'm in CS too.",
+          "author": null,
+          "created": 1628871620,
+          "upvotes": 96,
+          "replies": {}
+        },
+        "h8swabs": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8swabs/",
+          "text": "I think I understand the whole picture now. Apparently our supervisors expected me to pursue a master's degree under their supervision (I said no but they were hopeful that they could convince me to do a master's). Had I pursued a master's degree, then we would have produced double the work, and he would have written the first half of that work in his thesis and I would have written the second half in mine.\n\nNow since I did not pursue a master's, there is only 1 half of the whole product, and without the whole 1 half, my friend has to do additional work to graduate. He doesn't want to do additional work for reasons (has a full-time job etc.) and for that reason he wants to write my half the project in his thesis as well. \n\nApparently our supervisors allow this thing if I'm fine with it.\n\nEven if I'm fine with it, this is still a no-no, right? Also, my friend said that no one would care about his thesis when we have published paper about it. Is this true? Would I be hurt if I gave him my consent about this issue? He also added that we could make our project open source and have my name on the foreground all the time and this would really benefit me. \n\nI'm sorry I'm asking a lot of questions. I'm just very clueless about these kinds of things.",
+          "author": "akane5",
+          "created": 1628873528,
+          "upvotes": 40,
+          "replies": {
+            "h8swz1x": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8swz1x/",
+              "text": "If you don't intend to do anything more with the research, then it doesn't harm you for him to continue working on it. If he just wants to include your work and further develop it, that's fine as long as he cites the paper and properly credits you for the parts that you did. If he wants to claim your work as his own, that's unethical and you should not agree to it.",
+              "author": "bigrottentuna",
+              "created": 1628873792,
+              "upvotes": 63,
+              "replies": {}
+            },
+            "h8ta5ws": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8ta5ws/",
+              "text": "> Even if I'm fine with it, this is still a no-no, right? \n\nCorrect.\n\n> Also, my friend said that no one would care about his thesis when we have published paper about it. Is this true? \n\nCorrect, but irrelevant. It is still academic misconduct. \n\n> Would I be hurt if I gave him my consent about this issue? He also added that we could make our project open source and have my name on the foreground all the time and this would really benefit me.\n\nIf someone came to learn of this there is literally documented proof that he took your work and appropriated it (the paper you published together) and then your friend could have their degree revoked for gross academic misconduct (plagiarising a major piece of work they are supposed to have produced). I doubt your degree would be in danger but it's not impossible either.",
+              "author": "needlzor",
+              "created": 1628879063,
+              "upvotes": 27,
+              "replies": {}
+            },
+            "h8th43r": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8th43r/",
+              "text": "What ever he does, he needs to CITE you and your work if he's including it. Full stop. All this other stuff he's going on about does not matter. Cite or it's academic dishonesty.",
+              "author": "RuthlessKittyKat",
+              "created": 1628881879,
+              "upvotes": 15,
+              "replies": {}
+            },
+            "h8t0xtu": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8t0xtu/",
+              "text": "If I understand you correctly, he wants to pass off your joint project as his only his because he doesn't have enough data on his own to finish his thesis now. Mentioning you in the acknowledgements is not proper credit. And as you are co-authors on a paper, it will be very obvious to anyone else that half of the project is actually your work.\n\nAgreeing to his proposal is very unethical. It could hurt you in the future because you contributed to scientific misconduct. But if you are no longer working in research, I don't think that this will hurt your career because you didn't unfairly take credit for anything for your own gain. Nevertheless, I would not agree to this.\n\nI can't imagine that your supervisor's are actually okay with this. A master thesis is something that absolutely has to be 100% your own work. You can show additional results by other people that help put the project into perspective but you have to be very clear about which work is your own and which isn't. If your friend doesn't do that, this is scientific misconduct and can have severe consequences especially if he wants to continue working in research.",
+              "author": "leSchaf",
+              "created": 1628875356,
+              "upvotes": 34,
+              "replies": {}
+            },
+            "h8t68fc": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8t68fc/",
+              "text": "First, I'm really sorry you got put in this position. Shame on your supervisors for allowing it to happen. Social pressure from friends and role models/advisors/supervisors can be very hard to overcome and it is difficult to discern between what is right and wrong in such a situation. \n\nCandidly, the additional work your friend is avoiding is part of earning a masters degree. I would be furious if I hired a faculty member or accepted a PhD student who did this in their thesis or dissertation. The thesis is usually the single best example of what a graduate degree holder has accomplished with respect to research at the point of graduation. For him to attribute your work as his own in a thesis is unethical at best and I would argue fraudulent at worst. Under no conditions should your friend be allowed to publish your work as his own.\n\nIf your supervisor is not okay with your friend using their half of the work as a standalone thesis--especially the first half--I cannot comprehend why using your contributions suddenly speaks to the research prowess of your friend. If attributing the work to you is insufficient, he has not completed the requirements for a masters degree. Also, if your friend was fraudulently allowed to use the entire work as a masters thesis, it becomes their research. Period. They will be expected to talk about it in future interviews and careers as though it were entirely their own, regardless of whether you co-author something from it in a future journal article. Acknowledgements are not authorship. Your supervisors should know this. Why your supervisors appear to be allowing exceptions to this has me seriously concerned for what else goes on in your department. I know stuff happens but this seems particularly egregious to me.\n\nLastly, it sounds like you are not interested in pursuing a masters degree but I really hope that's not because of the difficult experiences you appear to be having at your current school. I would like to hope this type of discussion would never happen at most reputable institutions. At the very least, I cannot possibly imagine it occurring at any institution where I have worked or have colleagues. If you contributed good work to a project and enjoyed the process, I hope this experience is not what turns you off from a research career. It can be very rewarding and it sounds like you've put together publishable quality work as an undergraduate student. If so, congratulations on your achievements! That's not easy to do.",
+              "author": "FlatulentCentaur",
+              "created": 1628877460,
+              "upvotes": 19,
+              "replies": {
+                "h8teekm": {
+                  "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8teekm/",
+                  "text": "Thank you a lot. I called our supervisor and turns out my friend hasn't talked with my supervisor about this issue, and our supervisor seemed not on my friend's side but neutral, which reassured me. We will have a meeting about this soon.",
+                  "author": "akane5",
+                  "created": 1628880775,
+                  "upvotes": 24,
+                  "replies": {
+                    "h8u96rh": {
+                      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8u96rh/",
+                      "text": "To me, this is a shaky point. Very few people complete all graduate research by themselves!",
+                      "author": "Naturalist90",
+                      "created": 1628893115,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "h8v3kir": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8v3kir/",
+              "text": "Can u talk 2 an intellectual property attorney?",
+              "author": "MarisaWalker",
+              "created": 1628907646,
+              "upvotes": -3,
+              "replies": {}
+            }
+          }
+        },
+        "h8sqgwl": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sqgwl/",
+          "text": "This OP. Acknowledgments are worthless. \n\nBut I want to ask, how will this play out? OP has done half of the project, so we can assume that they kinda hold authorship over their part. This cannot be included by the Grad student, so will he have to recreate the part done by OP? If they do, won't it be arguable that they stole from OP?",
+          "author": "BinodBoppa",
+          "created": 1628871241,
+          "upvotes": 41,
+          "replies": {
+            "h8sronj": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sronj/",
+              "text": "The grad student can freely use the results from the project, they just have to cite it properly. It makes no sense to re-create something that's already there. Of course, if this means that the grad student won't have a lot of material it won't be a very compelling thesis. But that isn't OP's problem.",
+              "author": "latkde",
+              "created": 1628871726,
+              "upvotes": 38,
+              "replies": {}
+            },
+            "h8ss4zn": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8ss4zn/",
+              "text": "Yes, the friend has to cite the previous paper, and then they have to either do something different or recreate the previous work, depending on how much originality their advisor expects from their thesis (not all MS theses need to to novel work), and they will have to be careful not to plagiarize. That means properly crediting OP for their work and ideas and avoiding reusing the text from the paper they published together. If they do it properly, it would be the same as if they were citing any other published work and OP's permission would not be required.",
+              "author": "bigrottentuna",
+              "created": 1628871904,
+              "upvotes": 17,
+              "replies": {}
+            }
+          }
+        },
+        "h8tpwcz": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8tpwcz/",
+          "text": "I'm also in CS, and from what I've seen it's totally fine to include prior  co-authored works in theses as long as it's explicitly stated that the work is co-author.\n\nOtherwise like 99% of CS PhD theses would be \"illegitimate\".",
+          "author": "Ar-Curunir",
+          "created": 1628885335,
+          "upvotes": 5,
+          "replies": {
+            "h8tub8v": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8tub8v/",
+              "text": "A PhD thesis and a Master's thesis are very different things and there are many caveats to what you said, for example, it would not be typical for someone other than the first author to include a paper in their thesis.\n\nIn the case of a Master's thesis, where a coauthored paper could easily comprise the entire Master's thesis, it would raise serious questions about what the student actually did vs. what others did. As an advisor, I would need to know that before I could approve it, and based on OP's responses further down in the thread, it sounds like his \"friend\" may have misrepresented what the advisor has approved.",
+              "author": "bigrottentuna",
+              "created": 1628887015,
+              "upvotes": 8,
+              "replies": {
+                "h8txgfj": {
+                  "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8txgfj/",
+                  "text": "I've definitely had co-authors include our papers in their Master's theses too. I agree that the OP and their friend should clarify the material being included in the thesis, but IMO it's not an immediate taboo.",
+                  "author": "Ar-Curunir",
+                  "created": 1628888205,
+                  "upvotes": 1,
+                  "replies": {}
+                },
+                "h8y2rad": {
+                  "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8y2rad/",
+                  "text": "I mean, my masters thesis became one part of a much larger paper (where I was only 4th of more than 10 authors) - a paper regarding the extraction and characterisation of a compound, that then was illustrated to have a treatment effect in cells and animal models that was the main paper from a PhD, but my masters project found the gene pathway on which it acted. Adding it all together made it a higher impact paper. Made complete sense to go that way. However, my contribution was made clear at every point, and my work was cited in the PhD thesis, as I cited all theirs mine was based on. I can\u2019t imagine having asked to just use someone else\u2019s work like that.",
+                  "author": "ayeayefitlike",
+                  "created": 1628969853,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h8sm9to": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sm9to/",
+      "text": "I'm not in CS so I don't know the field-specific norms, but in my field that would be a definite no. You did the work and he should not take credit for it. If he has not done enough work (or is not willing to do enough work) to do a master's thesis, he should not get a master's diploma.",
+      "author": "chipmunchies",
+      "created": 1628869566,
+      "upvotes": 35,
+      "replies": {}
+    },
+    "h8smwb1": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8smwb1/",
+      "text": "Well, one thing is that in my field at least, but I very strongly suspect in CS too, acknowledgements are almost 100% absolutely worthless, even in a published paper. More importantly, it also sounds like it might be plagiarism (which you can't approve away even if you'd want to - he'd be being graded on what was someone else's work) which would get you into serious trouble too. So I'd definitely not to agree to anything unless there was direct communication with his thesis supervisor to confirm that it's OK (who knows, maybe they're fine with it, but I'd not initiate that conversation since it could blow up very fast).",
+      "author": "waterless2",
+      "created": 1628869814,
+      "upvotes": 36,
+      "replies": {
+        "h8tizwp": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8tizwp/",
+          "text": "Don't a lot of people even mention their dogs or dead s/o in the acknowledgement? I think I saw some threads about the most creative acknowledgements. I don't think anyone really reads them. I mean the thesis is long enough and takes long to read so why getting hung up on the acknowledgements?",
+          "author": "whitelieslatenightsx",
+          "created": 1628882648,
+          "upvotes": 9,
+          "replies": {
+            "h8y31wt": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8y31wt/",
+              "text": "I always think the acknowledgements are for personal stuff - mentoring, support, family etc - where people contributing to the work should be  authors (and may also get acknowledged eg supervisors!). I do enjoy reading acknowledgements though as it\u2019s a little glimpse into the personal side of a project.",
+              "author": "ayeayefitlike",
+              "created": 1628969989,
+              "upvotes": 3,
+              "replies": {
+                "h8y67id": {
+                  "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8y67id/",
+                  "text": "Exactly. That's what I thought too. It's a good way to say thank you to those who supported you along the way and show some gratitude. \nI think they are nice to read too but I think most people don't.",
+                  "author": "whitelieslatenightsx",
+                  "created": 1628971442,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h8sp6qh": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sp6qh/",
+      "text": "I'm in a CS-adjacent field (computational genetics). He can put the part he did in his thesis, and write \"This work is part of \\[cite your paper\\].\" He can't put YOUR work in his thesis. If you worked on everything together and the pieces aren't easily separable, I can see his argument.\n\nHe's right that if you did a master's degree, you shouldn't put work from before you started your degree in your thesis. That would be weird and dishonest.\n\nAcknowledgements are worthless.",
+      "author": "Monsteriah",
+      "created": 1628870726,
+      "upvotes": 18,
+      "replies": {
+        "h8srbgz": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8srbgz/",
+          "text": "Yes, the pieces aren't easily separable. Would this be ok in this scenario or would it still not be ok?",
+          "author": "akane5",
+          "created": 1628871581,
+          "upvotes": 6,
+          "replies": {
+            "h8t36n2": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8t36n2/",
+              "text": "I closely collaborated with a second student on my PhD project. I could have completely excluded her work in my thesis but I felt it would have hurt the \"story\" and provided an incomplete picture. So I chose to show some of her results. But I clearly labeled her work as such (both in the text and in any figures). I had enough data of my own for the whole thesis and only included some of her work for context. And I was only evaluated based on the work that I did.\n\nHe can include your work but he has to clearly label it as yours as if he was citing another publication. He would need to mention that this work was performed by you in the text and cite your paper. Otherwise, this would be plagiarism (even if you consent). Mentioning you in the acknowledgements is completely irrelevant for this. Work done by you will not \"count\" when his thesis is evaluated.",
+              "author": "leSchaf",
+              "created": 1628876246,
+              "upvotes": 10,
+              "replies": {
+                "h8tywlt": {
+                  "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8tywlt/",
+                  "text": "Yes, this is the answer for OP's collaborator. He can only use the paper he co-authored to the extent he would use any other citation (i.e. he will reference the work done in \\[OP, collaborator, 2021\\]).\n\nOP by telling your collaborator no you are not taking anything \"away\" from him; you are simply reminding him that in academia you need to do your own work and cite other people's works. He can surely still build on this paper to meet the qualifications of a master's thesis if it's such an interesting paper, no?\n\nAnd to be clear, masters thesis can be and are often are a combination of a couple papers so this wouldn't be weird for him to present.\n\nAnything he tells you about getting credit in a masters thesis acknowledgements section is basically a lie. Masters theses aren't really even read. If the paper is part of a reputable conference or journal proceedings then you've already got all the credit you could expect. You can put that on your resume, you can't put \"acknowledgements in bonehead collaborator's masters thesis\"",
+                  "author": "little_grey_mare",
+                  "created": 1628888767,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            },
+            "h8u09qc": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8u09qc/",
+              "text": "I think he could put all the work in, and describe carefully at the beginning which pieces were his and yours, so the people knew to evaluate him on his parts only.",
+              "author": "Monsteriah",
+              "created": 1628889320,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h8sr3y1": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sr3y1/",
+      "text": "Of course he can continue research related to your public and write a thesis about his new research. From that viewpoint, there's nothing objectionable, but he also doesn't need your permission in any legal or moral sense. I'm not sure why this is presented as an \u201coffer\u201d.\n\nWhat is not OK is plagiarizing the existing project and presenting all of the past work as novel work done for the thesis. This is problematic for two reasons.\n\n1. He would be *cheating* on his master's thesis by presenting work he had done previously, or by presenting your work as his. Instead, he can *continue* work on the project for his thesis and write the thesis about that new work.\n\n2. He would be *plagiarizing* your previous joint work. You published a paper about the project, so he can do what any other researcher could also do: just cite the paper in the thesis. It's his duty to clearly separate the contributions of his thesis from prior work.\n\n> He also said that I wasn't allowed to include my half of the project in my thesis if I pursue a master's degree since it is something that was done in the past, and therefore my half would be unusable if he didn't write about it in his thesis.\n\nWTF. This makes no sense at all. You're *both* allowed to continue working on this topic, and you're both not allowed to recycle previous material in a thesis. Whether he continues work on the project in his thesis has absolutely no bearing on what you would be able to do.\n\nI too \u201crecycled\u201d a student project for my Bachelor's thesis, but made sure that my thesis involved distinct work. Whereas the project involved familiarizing myself with the field and implementing a proof of concept software, my thesis substantially improved the software, evaluated it, and compared it against other tools. \n\nDisclaimers: If in doubt, talk with your professor who supervised the project, or with any other professor you trust. I'm making the strong assumption that the thesis is not allowed to recycle prior work, but this might not hold everywhere.",
+      "author": "latkde",
+      "created": 1628871499,
+      "upvotes": 12,
+      "replies": {}
+    },
+    "h8stqny": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8stqny/",
+      "text": "If I'm being charitable to this other student, it's not necessarily a hard \"no\"... A lot of my PhD was heavily collaborative, and my thesis wouldn't have made sense if I didn't include other people's work.\n\nHowever, I don't think putting you in the acknowledgements is enough. In my case I made it very clear when I was including other people's work, and I wrote it in several places: the acknowledgements, the introduction, and then right in the text. Something like \"the analysis in this section was done primarily by X\" or \"this simulation was run by me using Y's code.\"\n\nI think the important thing is that it should be obvious to the committee which parts were/weren't done by the student. Then they'll be able to judge the thesis accordingly.",
+      "author": "xozorada92",
+      "created": 1628872530,
+      "upvotes": 11,
+      "replies": {
+        "h8w4943": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8w4943/",
+          "text": "why the best answers are hidden so deep in here?",
+          "author": "phiupan",
+          "created": 1628932195,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "h8y3kve": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8y3kve/",
+          "text": "This. I\u2019m in a highly collaborative field too and it\u2019s really important to do this in your thesis - ethics aside, it\u2019s so the examiners know what you did and didn\u2019t do and can credit you with *enough* work (I\u2019ve known someone to get major revisions because the examiners thought they hadn\u2019t done enough work when they\u2019d done more than average on their own for our field and hadn\u2019t made it clear!).",
+          "author": "ayeayefitlike",
+          "created": 1628970232,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h8su9m1": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8su9m1/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1628872738,
+      "upvotes": 8,
+      "replies": {
+        "h8sv2ox": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sv2ox/",
+          "text": "What would you have done if the work you did was inseparable?",
+          "author": "akane5",
+          "created": 1628873056,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h8snbfo": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8snbfo/",
+      "text": "I would say that the number of people who would read an acknowledgement in an average master thesis, including you, would be somewhere between 0-1.  \n\nShoot their supervisor an email and ask them how they think it should be handled.",
+      "author": "beeskness420",
+      "created": 1628869979,
+      "upvotes": 18,
+      "replies": {
+        "h8svjsk": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8svjsk/",
+          "text": "> Shoot their supervisor an email and ask them how they think it should be handled.\n\nOuch! :)\n\nSee also: \"Call his wife and ask if they're really in an open relationship.\"",
+          "author": "gobucks314",
+          "created": 1628873242,
+          "upvotes": 13,
+          "replies": {}
+        }
+      }
+    },
+    "h8sv2wt": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sv2wt/",
+      "text": "> said that I wasn't allowed to include my half of the project in my thesis if I pursue a master's degree since it is something that was done in the past\n\nSo, he did his part in the future ... ?\n\nThis convolution makes my spidey-sense really go on high alert.\n\nAnd how much weight do people give acknowledgments? People sometimes thank girlfriends/boyfriends, pets, and favorite restaurants in this section.\n\nPuhleez.",
+      "author": "gobucks314",
+      "created": 1628873058,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "h8sx7p6": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sx7p6/",
+      "text": "I wouldn't - even the excuse just to get out of doing additional work is so wrong. At most he should write about your part briefly, fully referencing you, if it's necessary to add to his own story \n\nAlso - nobody really reads the acknowledgements . You don't really get anything from it",
+      "author": "whatwhatindbutt",
+      "created": 1628873884,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h8t0vb6": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8t0vb6/",
+      "text": "Here is what is weird to me.\n\nNormally, the way the progression would work is as follows. You did project A with your friend in undergrad. Your friend can extend the project and use that new extension as the basis of their MA thesis. Depending on norms, they either formally cite the undergrad project or discuss how the undergrad project informs the new project in some way. **importantly, this is a new project.**\n\nHowever, it sounds like your friend wants to just write about your shared paper without doing any new work. In that case, they're trying to use your prior work and say that it's just theirs without any meaningful credit. That is bad for many reasons that other commenters have said while also being potentially unethical and a sign of a bad potential researcher or professional.\n\nI would tell them no.",
+      "author": "TBDobbs",
+      "created": 1628875327,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8u22q3": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8u22q3/",
+      "text": "Yeah no he\u2019s being shady and selfish. The answer is no 1000x. I know it\u2019s hard to say no to people especially if they are persistent, but it\u2019ll help you out in the long run.",
+      "author": "SeaSorbets",
+      "created": 1628890076,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8ufzgb": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8ufzgb/",
+      "text": "Can\u2019t he write about it but cite your publication?",
+      "author": "poolhero",
+      "created": 1628896158,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8uhyqo": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8uhyqo/",
+      "text": "A true friend would accept whatever answer you give them. And a true scholar would be willing to do their own work!",
+      "author": "M0m0_SpaceCadet",
+      "created": 1628897068,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h8tgm9d": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8tgm9d/",
+      "text": "Woooooow. Nope! The acceptable thing here is to cite you. This made it into a published paper after all. So he'd be citing that paper. Acknowledgement is not good enough. That would be plagiarism. And I really don't see why you couldn't use it in your work later and cite the published paper.",
+      "author": "RuthlessKittyKat",
+      "created": 1628881674,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8u0f7c": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8u0f7c/",
+      "text": "You can put published works (i.e. the citation for this paper you cowrote) in your resume. You can't put \"acknowledged in boneheaded collaborators masters thesis\" in your resume. So, no, you don't really benefit from his offer.\n\nIf you truly don't care about this though you can wash your hands from it and just tell him to do what his advisor says. \n\nIMO/IME if you do a masters down the road you will want to come up with something original enough that this project/paper will only be used in the context that you would cite any other paper. (i.e. You could use this in a lit review) And maybe also avoid being advised by this advisor since he doesn't have the energy/enthusiasm to support your collaborator in more original research. The flattery of profs asking/expecting you to do a grad degree with them can be a great self esteem boost though!",
+      "author": "little_grey_mare",
+      "created": 1628889383,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8u64b7": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8u64b7/",
+      "text": "\nProbably not super ethical but the fact that you are posting here implies you already know that it\u2019s likely not ok.\n\nI think my response would depend on if I\u2019m actually that bothered about the intellectual property that I contributed to.\nIf I wasn\u2019t going to pursue academia then the publication isn\u2019t that important and if he\u2019s my friend then maybe I should help him out.\n\nThat being said I\u2019m not sure how your collaborator can escape the fact that work that you have both been credited on already exists in the field. Its going to be evident that you were involved and aren\u2019t being credited. But also worth considering that no one in the wider circle actually cares about a masters thesis unless it gets published.",
+      "author": "ExoticExchange",
+      "created": 1628891773,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8uc5so": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8uc5so/",
+      "text": "That's a no, he can definitely cite your joint paper to get that information into his thesis, but he's asking you to let him present it as his own work which is not ok. To reiterate a key point here, there is no issue with results or information from your half of the project being in his thesis if they are properly cited, probably from your joint paper. If that's the request then say yes. If he's asking to wrote your half as if he did it, without citations, then that is an absolute no. Also, to respond to a couple of his justifications, no one cares about a masters thesis except the student and maybe their committee. Absolutely no one will care about you being in the acknowledgments of his thesis. \nHe is correct in saying that since you have not pursued a masters degree as a follow up to this project, if you later chose to pursue a masters, you will have to do new research beyond what you have done previous to starting the degree. That doesn't mean it's wasted, you published a paper, it's out there in the literature.",
+      "author": "morePhys",
+      "created": 1628894440,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8vm4tk": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8vm4tk/",
+      "text": "Absolutely NOT.  Your \"friends\"\\* thesis must accurately reflect the work they did.  To write your work as if they did it is completely unethical.  They can refer to it, they can cite it - but they cannot claim it.\n\n\\*This person is NOT \"your friend\".",
+      "author": "Life_time_learner",
+      "created": 1628918017,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8t61g2": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8t61g2/",
+      "text": "No, no and no. Do not accept. Lol nobody care about acknowledgements.",
+      "author": "ThatFriendlyPerson",
+      "created": 1628877382,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "h8u8wmn": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8u8wmn/",
+      "text": "As someone that recently published a PhD dissertation in biology that included collaborative work with undergraduate researchers, this seems reasonable as long as you\u2019re still a coauthor on the final publication. Theses/dissertations don\u2019t matter near as much as a peer reviewed publication",
+      "author": "Naturalist90",
+      "created": 1628892989,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "h8sn6fw": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sn6fw/",
+      "text": "Undergraduates frequently work with graduate students on projects which they use for their thesis, however the contributions are usually well understood by the thesis advisor. Did your friend discuss this with his advisor first?",
+      "author": "imaginekat29",
+      "created": 1628869925,
+      "upvotes": 3,
+      "replies": {
+        "h8sr6ni": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sr6ni/",
+          "text": "His(also my) advisor apparently said that this is ok and he is allowed to do it.",
+          "author": "akane5",
+          "created": 1628871528,
+          "upvotes": 1,
+          "replies": {
+            "h8sxrg7": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8sxrg7/",
+              "text": "Your advisor is wrong in this case - it should not be ok for your friend to present your work as his own. He should reference it *big emphasis on reference* as a smaller part of his thesis and clearly state it was carried out by you",
+              "author": "whatwhatindbutt",
+              "created": 1628874096,
+              "upvotes": 4,
+              "replies": {}
+            },
+            "h8ssvma": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8ssvma/",
+              "text": "Your friend is being kind in asking, but he can write it up for his thesis and put you in the acknowledgements without your permission. If you were working on a Masters thesis while doing the work and wanted to use it, then there would be an issue. Big picture, since you've already published the work, it makes zero difference if it goes into his thesis.",
+              "author": "imaginekat29",
+              "created": 1628872192,
+              "upvotes": -8,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h8tjjo0": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8tjjo0/",
+      "text": "You should ask to be a co-author",
+      "author": "magnus_pyke",
+      "created": 1628882863,
+      "upvotes": 1,
+      "replies": {
+        "h8w9tjj": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8w9tjj/",
+          "text": "In a master's thesis for a program they don't attend?",
+          "author": "phan801",
+          "created": 1628937122,
+          "upvotes": 1,
+          "replies": {
+            "h8xj7jd": {
+              "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8xj7jd/",
+              "text": "yeah, collaboration can extend externally. If they were doing instrumental work they should be recognized appropriately.",
+              "author": "magnus_pyke",
+              "created": 1628961182,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h8tpl0s": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8tpl0s/",
+      "text": "I think there's some clarifications to be made here: were both you and your friend co-authors on the paper? And is this paper the main part of their thesis? If so, it's pretty common in CS to just \"copy-paste\" papers into thesis, while of course citing and acknowledging the included work.\n\nWhat is *not* okay is if your friend is trying to include in their thesis work that you did, and which they did not contribute to.",
+      "author": "Ar-Curunir",
+      "created": 1628885212,
+      "upvotes": 1,
+      "replies": {
+        "h8tq3kn": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8tq3kn/",
+          "text": "We were both co-authors, yes. The paper and some further work is supposed to be the main part of his thesis, but it is my friend who decides whether it is the main part of his thesis or not.",
+          "author": "akane5",
+          "created": 1628885415,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "h8uv88m": {
+          "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8uv88m/",
+          "text": "A sandwich thesis is fine as everyone involved is cited correctly. Everyone is cited for the copy-paste part.",
+          "author": "entropyStable",
+          "created": 1628903511,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "h8tn9oi": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8tn9oi/",
+      "text": "Acknowledgements mean nothing.  You could acknowledge spaghetti for being a cheap source of calories during grad school.  It's plagiarism.  Usually institutions have policies on how to present published work in a thesis.   He may be able to include it as a chapter with a disclaimer about what original component he contributed.  If there is any unpublished work, he could include a \"draft manuscript\" with you cited as a co-author and the same disclaimer about what he contributed.  Regardless, he can talk to his advisor on how to approach this and find a way that doesn't take credit for your work.",
+      "author": "Late2TheThread",
+      "created": 1628884316,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8tztsc": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8tztsc/",
+      "text": "The answer is no. Absolutely not. It's unethical and would be also cheating.",
+      "author": "ancientevilvorsoason",
+      "created": 1628889140,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8uuo9q": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8uuo9q/",
+      "text": "Acknowledgements section is worth nothing, it is usually used to thank lab mates and family. \n\n&#x200B;\n\n>This seemed bizarre and weird to me, and he said that he and I would both benefit from this\n\nYou don't get any benefit from this deal and this person isn't your friend if they are lying to you like this. \n\n&#x200B;\n\nIf this came out after the fact, your friend's thesis would be revoked and you could even get a mark on your undergrad transcript for academic dishonesty (unlikely but possible). You comment below that your undergrad advisor approves of this, that is super dishonest and not remotely acceptable. This behavior would get a professor fired in a lot departments if it got out.",
+      "author": "entropyStable",
+      "created": 1628903237,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8vn5bj": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8vn5bj/",
+      "text": "It sucks when people pressure you or put you on the spot to do things you do t feel good about",
+      "author": "FrenchyGaitan",
+      "created": 1628918689,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8w8dj4": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8w8dj4/",
+      "text": "I don't know for CS but in life sciences he would directly put the article published (with the names of ALL the authors of the paper) and then write a summary of it.",
+      "author": "LeatherDeer3908",
+      "created": 1628935861,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8wqzu9": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8wqzu9/",
+      "text": "Coming from a biomedical background, it is standard to include published papers as chapters in a thesis.  It is also standard for there to be multiple authors on those chapters.  The student would generally be explicit about their contributions to that work.",
+      "author": "parrotwouldntvoom",
+      "created": 1628948454,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "h8v3dq3": {
+      "link": "/r/AskAcademia/comments/p3nb3x/me_and_my_friend_did_a_project_as_a_team_he_now/h8v3dq3/",
+      "text": "The guy is a jerk. You're giving him your work. Ask if he's willing 2 allow u 2 use his half of the work when u do ur Masters thesis. I'm sad that u collaborated successfully & his selfishnesses is ruining good teamwork.",
+      "author": "MarisaWalker",
+      "created": 1628907552,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

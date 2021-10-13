@@ -1,0 +1,202 @@
+{
+  "sid": "p78ivn",
+  "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/",
+  "title:": "How is it like to work in a super productive lab where the PI publishes 30 papers a year?",
+  "text": "I got a research assistantship job offer from a lab with a super productive PI. She publishes 30-50 papers a year in computer science conferences and journals (some of them in very top conferences). However, I\u2019m a little concerned about: \n\n1- I\u2019m intimidated. Can I catch up with that speed? Also I\u2019m concerned about work life balance in her lab and afraid she makes me work 24/7!\n\n2- She and all 10-15 people in her lab are from a same country. Lack of diversity! Is this important?\n\n3- How can you actively involve and contribute in 40 papers in one year. \n\nAny experience or opinions is very much appreciated. Thanks",
+  "author": "DifficultBaby857",
+  "created": 1629350309,
+  "updated": 1634079557,
+  "over_18": false,
+  "upvotes": 23,
+  "upvote_ratio": 0.96,
+  "comments": {
+    "h9i51yb": {
+      "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9i51yb/",
+      "text": "1. The people under her publish 30-50, it's not like she's writing all of them. The head of my lab during my PhD shows up as the last author of my papers, but he didn't actually contribute anything to the work. \n\n2. Depends on why that's the case. Does she only recruit foreign PhD students and post-docs from her country in order to ensure that her group is totally dependent on her while lacking a local support structure? Have you talked to people about the vibe in the group/work-life balance? \n\n3. It's highly unlikely that you'd be involved 40 papers. Talk to her about setting more specific expectations for you personally.",
+      "author": "CheeseWheels38",
+      "created": 1629354523,
+      "upvotes": 35,
+      "replies": {
+        "h9iruac": {
+          "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9iruac/",
+          "text": "Came here to laugh/cry about point 1. The PI does not publish all those papers. They put their name on them and contribute to some but there is no way on earth they are writing them.",
+          "author": "drvictoriosa",
+          "created": 1629373135,
+          "upvotes": 16,
+          "replies": {
+            "h9jfie3": {
+              "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9jfie3/",
+              "text": "You would be lucky if they even proofread all of them. More than likely they'd just skim the abstract and figures.",
+              "author": "hdorsettcase",
+              "created": 1629384857,
+              "upvotes": 10,
+              "replies": {}
+            },
+            "h9ixad8": {
+              "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9ixad8/",
+              "text": "Me too. Although with 15 people and 50 papers that's 3 each and presumably they're helping out on more. I'm not in CS but that seems a lot? 500 papers in 10 years seems huge. The director of the institute where I work who is incredibly productive has around 350 papers over a 30 year career.",
+              "author": "ACatGod",
+              "created": 1629376384,
+              "upvotes": 5,
+              "replies": {
+                "h9kak7x": {
+                  "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9kak7x/",
+                  "text": "nah thats not off for CS, we count conference proceedings as papers. So for instance during my 3 years as a phd student I did 8 papers total, and I was a goddamn noob then. My PI was last on all of them and no other phd students were involved (a lonely postdoc once in a while)",
+                  "author": "kongnico",
+                  "created": 1629397644,
+                  "upvotes": 5,
+                  "replies": {}
+                },
+                "h9jldw1": {
+                  "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9jldw1/",
+                  "text": "It could also include collaborations. Running analyses for another group and being included on the paper, they might not necessarily be writing those ones.",
+                  "author": "XBBXBX",
+                  "created": 1629387284,
+                  "upvotes": 1,
+                  "replies": {
+                    "h9jo7wa": {
+                      "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9jo7wa/",
+                      "text": "That's true but I still think it's a huge number of papers for one person to be author on and i think OP is right to be cautious.",
+                      "author": "ACatGod",
+                      "created": 1629388431,
+                      "upvotes": 3,
+                      "replies": {
+                        "h9kimlh": {
+                          "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9kimlh/",
+                          "text": "Absolutely, and a fair point.",
+                          "author": "XBBXBX",
+                          "created": 1629400998,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "h9jn4e4": {
+          "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9jn4e4/",
+          "text": "Exactly this. In CS especially, look at the first authors of the papers. Those grad students are the ones who are likely doing 90-100% of the work. I'd be surprised if even the top students are getting more than 2-3 papers per year in reputable venues. Some papers will involve multiple students who collaborate but the typical author sequence is basically some variant of:\n\nGrad Student Who Did Everything, \"Senior\" Grad Student Who Helped With a Graph, Postdoc Who Bothered People at Group Meetings, Rando from Industry Funder Who Gave Abundant Bad Advice and Was Ignored, Supervisor\n\nYou're definitely not writing 40 papers a year :)",
+          "author": "Radiant-Tax",
+          "created": 1629387991,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "h9i9s6h": {
+      "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9i9s6h/",
+      "text": ">2- She and all 10-15 people in her lab are from a same country. Lack of diversity! Is this important?\n\nSo I assume she and her people are not from the country they are now working in? Are you from the same country, or would you be the outsider in the group?\n\nI've been to institutes in Russia and South Korea, in both places they had virtually no diversity in their groups simply because their working language was not English, so any outside candidate would need to be fluent in their language to even apply. On the other hand, if she is recruiting only from her home country, this would be a red flag for me. If you want to a private life in a country, you need some local coworkers to start integrating. Otherwise you end up completely isolated without any contacts but your coworkers, and you are completely dependent on her.",
+      "author": "territrades",
+      "created": 1629358390,
+      "upvotes": 13,
+      "replies": {
+        "h9jggkw": {
+          "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9jggkw/",
+          "text": "I've never been in a lab that was all a singular nationality, but there were a couple like that in grad school and I knew people who were in them. They were not positive experiences for people because the PI's were recruiting from their countries/nationalities and expecting the labs to operate according to those cultural norms. I cannot weigh in on a situation I'm not familiar with, but in my experience this is a red flag as well.",
+          "author": "hdorsettcase",
+          "created": 1629385254,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "h9i9kfq": {
+      "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9i9kfq/",
+      "text": "I am a PhD student in a very productive research group. The PI won't be leading on all 30-40 papers by themselves, they'll usually provide advice and supervision and be listed as last author on most of them. As a research assistant, you'll most likely be assigned to a specific project within the group and this will take up most of your focus, you won't be expected to generate 30+ co-authorships per year. Might be worth having a chat with your new PI to get a feel for what you're going to be working on and also get to know current researchers in the group to find out what day to day life is like for them.",
+      "author": "Ashamed_Pop1835",
+      "created": 1629358204,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "h9iju7s": {
+      "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9iju7s/",
+      "text": "I agree with other comments: I doubt she even writes 30 papers/year. She's probably listed as author because she's the head of the lab. It's basically work done by somebody else.",
+      "author": "Normal_Kaleidoscope",
+      "created": 1629367168,
+      "upvotes": 5,
+      "replies": {
+        "h9io8mf": {
+          "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9io8mf/",
+          "text": "But when it comes to grant proposal time, PI gets to pretend they did all the work themselves.",
+          "author": "radionul",
+          "created": 1629370638,
+          "upvotes": 0,
+          "replies": {
+            "h9ip87p": {
+              "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9ip87p/",
+              "text": "Oh I know. But I guess OP was wondering about whether they had to produce 30 papers a year. Perhaps the PI has different lab groups, and each produce a particular amount.",
+              "author": "Normal_Kaleidoscope",
+              "created": 1629371358,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "h9is68m": {
+      "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9is68m/",
+      "text": "1 - It's very unlikely or you need to be part of a lot of projects inside your lab (by a lot I mean A LOT!).\n\n2 - It happens. If you're not of the same country as them it can lead to some \"problem\".\n\n3 - A lot of work, 0 vacations, work 60h+ a week. For example, a Ph.D. student in my uni published 40ish first-author papers in 2 years (yup that's near 2 papers per month...). I've talked to him a few times: he is very passionate about his job, he is really an expert in his field AND he like writing. This guy is an exception (in my field 5-10 papers a year is already a good number).",
+      "author": "Sapinzeus",
+      "created": 1629373349,
+      "upvotes": 4,
+      "replies": {
+        "h9jlqhw": {
+          "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9jlqhw/",
+          "text": "How is that even physically possible? Is that person purposefully/strategically splitting up data into  smaller papers or what? I can imagine it happening every now and then but consistently publishing 2 papers/month seems impossible.",
+          "author": "XBBXBX",
+          "created": 1629387428,
+          "upvotes": 5,
+          "replies": {
+            "h9jnsds": {
+              "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9jnsds/",
+              "text": "He had 2 master's degrees (CS and Maths).\n\nHis Ph.D. was in Machine learning and more specifically on prediction models. Every time he modified his model or create a new one: he published the model and the result on some project applications (he collaborate with 8-10 projects team, application in Electronics reliability, Eco-optimisation of power grids, ... you name it...).\n\nHe published in ML journals, but in other domain journals when the application results were more important than the construction of the model.\n\nThis guy got a tenure track at MIT without a PostDoc (and they proposed him the job, he didn't even apply for it).\n\nHe is a fucking machine. All PI in the lab took malicious pleasure to remind Ph.D. students that this guy was better than all of us combined...",
+              "author": "Sapinzeus",
+              "created": 1629388258,
+              "upvotes": 3,
+              "replies": {
+                "h9kfayx": {
+                  "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9kfayx/",
+                  "text": "I mean, to be fair this guy sounds better than those PIs were as well. I still can't wrap my head around it, honestly. Part of my brain refuses to accept that level of productivity as humanly possible. I wonder whether it would be the same or different in another field? Crazy...",
+                  "author": "XBBXBX",
+                  "created": 1629399622,
+                  "upvotes": 2,
+                  "replies": {
+                    "h9kg2ww": {
+                      "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9kg2ww/",
+                      "text": "Like I said he is passionate, he works a lot (no family, no social life, he has no hobby, ...), he is very good in this field, in a field where results are quick to make, and he likes to write papers (that's a pretty rare combination). Personally, I'm more concerned about the fact that he could burn out in the next few years...\n\nEDIT: for the PI part, yes: his PI publication number exploded during those 2 years but he doesn't understand anything of his student work and by extension, most papers published with his name on it... (CS professor without the math background to fully understand what his student do)",
+                      "author": "Sapinzeus",
+                      "created": 1629399946,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "h9jufcj": {
+      "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9jufcj/",
+      "text": "Oooh, I had exactly the same experience in a European country! Maybe even worked with the same person? ;)\n\nNo, you\u2019re not expected to work on 40 projects a year, but my experience with this kind of PI is that they\u2019re extremely impatient and will not be willing to understand that it might take you longer than \u201cnormal\u201d to understand some concepts in however many projects you\u2019re involved in. It\u2019s also because they have set-in-stone schedules regarding each of their 40 projects, and any \u201cdelay\u201d due to you will not be looked upon kindly. \n\nLack of diversity is extremely important! Especially if the local language that everyone speaks is not one you\u2019re fluent in \u2014 definitely do not take this offer if this is the case. Talk to people in the lab, but more importantly, to people who work in the department (even with a different PI) but are not from this same country. Must do: see if you can find out a list of ex-employees over the last few years, and email them. If it\u2019s as prolific a lab as you say, there must\u2019ve been at least *some* applicants from other countries. Either they are not being hired, or they\u2019re leaving really quickly into their contract. Neither of those are good signs. My experience was that 4 of us (out of 25) didn\u2019t speak the local language (even though the working language was supposedly English), while the entire group knew this but continued to speak the local language around us, and 3 of us quit within the year. So that kind of attrition is definitely a warning sign. \n\nOne more thing, which might or might not apply: do not take your PI at her word when she describes the lab experience to you. It\u2019s entirely up to you to make enquiries and find out what it\u2019s really like, and the easiest way is to contact ex-employees who might not have as much to lose by painting a negative, yet true, picture.",
+      "author": "HoolooVee",
+      "created": 1629390938,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "h9ifpx7": {
+      "link": "/r/AskAcademia/comments/p78ivn/how_is_it_like_to_work_in_a_super_productive_lab/h9ifpx7/",
+      "text": "Hell",
+      "author": "radionul",
+      "created": 1629363584,
+      "upvotes": 4,
+      "replies": {}
+    }
+  }
+}
