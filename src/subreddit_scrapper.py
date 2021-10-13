@@ -89,7 +89,7 @@ def retrieve_all(scrap: Reddit, cnames: List[str], outdir: str, fout, skip_exist
     total = 0
     for cname in cnames:
         total += retrieve_subreddits(scrap, cname, outdir, fout, skip_existing)
-    fout.write('Total: {}'.format(total))
+    fout.write('Total: {}\n'.format(total))
 
 
 def retrieve_subreddits(scrap: Reddit, cname: str, outdir: str, fout, skip_existing: bool = False) -> int:
@@ -195,5 +195,5 @@ if __name__ == '__main__':
 
     CNAMES = ['ApplyingToCollege', 'AskAcademia', 'College', 'CollegeAdvice', 'CollegeMajors', 'CollegeRant', 'Emory', 'GradSchool']
     # update_all(scrap, CNAMES, OUTPUT_DIR, open(STATS_TXT, 'w'))
-    retrieve_all(scrap, CNAMES, OUTPUT_DIR, open(STATS_TXT, 'w'))
+    retrieve_all(scrap, CNAMES, OUTPUT_DIR, open(STATS_TXT, 'w'), True)
 

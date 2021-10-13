@@ -27,8 +27,17 @@ A comment is represented by a dictionary whose key-value pairs are as follows:
 
 ## Statistics
 
-| Date       | ApplyingToCollege | AskAcademia | College | CollegeAdvice | CollegeMajors | CollegeRant | Emory | GradSchool |  Total |
-|:----------:|------------------:|------------:|--------:|--------------:|--------------:|------------:|------:|-----------:|-------:|
-| 2021-10-12 |             1,739 |       1,854 |   2,630 |           818 |         1,114 |       1,664 | 1,342 |      1,768 | 12,929 |
-| 2021-10-04 |                 0 |           0 |   1,714 |           817 |         1,091 |       1,518 |     0 |      1,418 |  6,558 |
+| Date       | ATC   | AA    | C       | CA   | CM    | CR    | E     | GS    |  Total |
+|:----------:|------:|------:|--------:|-----:|------:|------:|------:|------:|-------:|
+| 2021-10-13 | 1,996 | 1,856 |   2,737 |  818 | 1,115 | 1,670 | 1,344 | 1,790 | 13,326 |
+| 2021-10-12 | 1,739 | 1,854 |   2,630 |  818 | 1,114 | 1,664 | 1,342 | 1,768 | 12,929 |
+| 2021-10-04 |     0 |     0 |   1,714 |  817 | 1,091 | 1,518 |     0 | 1,418 |  6,558 |
 
+* ATC: ApplyingToCollege
+* AA: AskAcademia
+* C: College
+* CA: CollegeAdvice
+* CM: CollegeMajors
+* CR: CollegeRant
+* E: Emory
+* GS: GradSchool
