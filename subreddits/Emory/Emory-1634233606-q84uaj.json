@@ -1,0 +1,40 @@
+{
+  "sid": "q84uaj",
+  "link": "/r/Emory/comments/q84uaj/wifi_for_nintendo_switch/",
+  "title:": "Wifi for Nintendo Switch?",
+  "text": "I can\u2019t connect to Emory Unplugged for my switch and Emory Guest is so slow. I get less than 2 mbps at Clairmont. Ethernet doesn\u2019t work. What are alternatives to get faster wifi?",
+  "author": "poopityscoop57",
+  "created": 1634233606,
+  "updated": 1634252352,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hgmz9bf": {
+      "link": "/r/Emory/comments/q84uaj/wifi_for_nintendo_switch/hgmz9bf/",
+      "text": "Did you register the Switch for EmoryGuest before connecting? If you do not register the device before connecting, the connection gets throttled down. Once you register and the registration takes affect, you should have a speedy connection.\n\nhttps://emory.service-now.com/sp?id=kb\\_article&sysparm\\_article=KB06077&sys\\_kb\\_id=8cff4ad1db9b1780f21a3cae7c9619a6",
+      "author": "kabniel",
+      "created": 1634234149,
+      "upvotes": 2,
+      "replies": {
+        "hgn5ajx": {
+          "link": "/r/Emory/comments/q84uaj/wifi_for_nintendo_switch/hgn5ajx/",
+          "text": "Thanks it worked! Now I\u2019m getting 12 mbps which is a lot faster but still slower than Emory Unplugged.",
+          "author": "poopityscoop57",
+          "created": 1634236659,
+          "upvotes": 1,
+          "replies": {
+            "hgn5oeh": {
+              "link": "/r/Emory/comments/q84uaj/wifi_for_nintendo_switch/hgn5oeh/",
+              "text": "Glad it helped.\n\nCan't comment on intended speed these days. I just know it should be faster than 2mbps.\n\nKeep an eye on it. You might just be getting a weird throttle randomly. (Also since I don't know what speed test you are using to measure, it could be the server you are connecting to. They could have an upload limit per connection.)",
+              "author": "kabniel",
+              "created": 1634236823,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
