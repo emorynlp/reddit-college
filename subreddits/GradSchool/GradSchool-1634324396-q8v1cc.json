@@ -1,0 +1,22 @@
+{
+  "sid": "q8v1cc",
+  "link": "/r/GradSchool/comments/q8v1cc/dissertation_formatting_advice/",
+  "title:": "Dissertation formatting advice?",
+  "text": "Help please, Section breaks and page #s in header\n\nI'm writing a dissertation, only two chapters so far, but 170 pages and counting, with 30 plus tables. The tables need to be landscape while the rest needs to be portrait. It's APA 7, so page numbers need to be continuous in the header. I've inserted section / page breaks for the tables so that they're landscape, but once I do this it resets the page number to 0 in the header for that section on. I've gone through every section break and linked the page number to the previous section. This fixes the problem, I then save it, but once closed and opened back up, all page numbers for each section reset to zero. \n\nI've done this several times thinking I must have missed something, and looked all over the internet, but I don't know what to do, the page numbers keep resetting - super annoying in a 170+ page document.\n\nNot sure if it makes a difference, but I'm working on a Mac, Word version 16.54.\n\nWhat am I missing? I'd be very great for any ideas or suggestions. Thank you!",
+  "author": "Shelliko",
+  "created": 1634324396,
+  "updated": 1634332138,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hgs48ly": {
+      "link": "/r/GradSchool/comments/q8v1cc/dissertation_formatting_advice/hgs48ly/",
+      "text": "My honest advice is to ignore these formatting issues until you have a final draft ready, and then to manually fix the page numbering issue before sending it out. Many of my friends saved each chapter of their thesis as a separate .docx just to avoid the nightmare of managing a 300+ page file in Word.\n\nIt's really tempting to fixate on minor stylistic issues when you're dealing with a massive task like a dissertation. Fight the urge. Content first, then formatting.",
+      "author": "tpharroawdaiygm",
+      "created": 1634328728,
+      "upvotes": 3,
+      "replies": {}
+    }
+  }
+}
