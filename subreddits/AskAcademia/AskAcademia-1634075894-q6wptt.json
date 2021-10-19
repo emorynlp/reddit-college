@@ -5,9 +5,26 @@
   "text": "I am working on a systematic review for a class and I've completely missed and unable to find in the book or online what research articles are appropriate to be included in your systematic review. Also I'm struggling with how to tell what kind of article you're dealing with. \n\nFor example: \n\n[https://pubmed.ncbi.nlm.nih.gov/30316491/](https://pubmed.ncbi.nlm.nih.gov/30316491/) I cannot find what kind of research study this is, what section should I be reading to find out?  This is what stood out to me: Longitudinal Suicide-Related Outcomes: We reviewed participants\u2019 electronic medical records to determine whether they had any suicide-related outcomes in the time after the completion of an SP following their SPAN event. What kind of study would this be? And what kind of study is appropriate to include in a systematic review?\n\n&#x200B;\n\nThanks (:",
   "author": "Moomalicious",
   "created": 1634075894,
-  "updated": 1634078364,
+  "updated": 1634579216,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
-  "comments": {}
+  "comments": {
+    "hgf2xa5": {
+      "link": "/r/AskAcademia/comments/q6wptt/systematic_review_what_kind_of_research_articles/hgf2xa5/",
+      "text": "First, sorry for some likely mistakes. English is not my first language.\r  \n\r  \nA systematic review is not a simple task. Has your teacher shared a guide on how to do this with the class? Otherwise, I recommend you look at this article: [https://tropmedhealth.biomedcentral.com/articles/10.1186/s41182-019-0165-6](https://tropmedhealth.biomedcentral.com/articles/10.1186/s41182-019-0165-6).\n\n\r  \nI also have some questions to help you:\r  \n1. What is your research question?\r  \n2. What is the purpose of your SR?\r  \n3. Have you established inclusion/exclusion criteria?\r  \n4. Do you have a search strategy? Like a search string, for example.",
+      "author": "patysympa",
+      "created": 1634081838,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hgf6165": {
+      "link": "/r/AskAcademia/comments/q6wptt/systematic_review_what_kind_of_research_articles/hgf6165/",
+      "text": "Hey, so in general based on my experiences conducting systematic reviews (both in biomedical and public health research) your goal is to include all the papers that will provide a comprehensive background on your topic, and generally this means all the relevant papers on your topic that employed quantitative research methods (for social science research this may also include mixed method and qualitative research as well).\n\nIf you\u2019re looking into suicide prevention/mitigation i would specifically look at papers that used observational research methods to study this topic (e.g., cohort, case-control, and cross-sectional studies, etc.).\n\nIt\u2019s also important to make sure that the studies you\u2019re including pertain to your target population if necessary.\n\nFor the example you gave, it sounds like it might be a retrospective cohort study (since exposure status (quality of SP) was assigned based on prior recorded data, & participants were followed back in time through prior records to determine outcome status), but i would need to check out the methods section in the full text to get a better idea.\n\nIf anyone more familiar with social science study designs wants to chime in with their take please do so.\n\nTo be safe tho I would just list it as a longitudinal observational study for now.\n\nIn general, always check the methods section to see how participants were recruited and followed up with to figure out what type of study design was employed.\n\nA couple of tips for differentiating common observational study designs:\n\nFor cohort studies: participants have to be free of the outcome at the outset of the study (this can be kinda confusing with respect to retrospective studies)\n\nFor case-control studies: participants are selected based on outcome\n\nFor cross-sectional: exposure and outcome for each individual are measure at the same point in time\n\n\nHopefully, this helped but let me know if anything wasn\u2019t clear (just got back from the lab so my brain is kinda mush rn lol)\n\nBest, :)",
+      "author": "MicroCurie",
+      "created": 1634083292,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
 }

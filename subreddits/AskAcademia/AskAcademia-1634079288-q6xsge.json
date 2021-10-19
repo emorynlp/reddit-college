@@ -5,9 +5,59 @@
   "text": "Hello!\n\nI am working on a project where I plan to review papers written using a specific model and code on a few aspects of each paper. To be able to make my milestones and complete them on time, I only have one year to complete this project. It is tricky when the number of related articles is quite high. \n\nI'm looking for help in making this project a bit more feasible. I have the following questions: \n\n1. Has anyone completed a systematic review and coded a percentage of total articles published each year in an attempt to reduce the number of total papers coded while still trying to remain unbiased in which articles are selected?\n2. Has anyone used automation tools in their selection process? I am in the psychology field and would love any software that worked well for folks. \n3. Any other tips or issues that came up to manage a project with over 600 articles specifically related to your topic?",
   "author": "eve_vev",
   "created": 1634079288,
-  "updated": 1634082362,
+  "updated": 1634577568,
   "over_18": false,
   "upvotes": 0,
   "upvote_ratio": 0.5,
-  "comments": {}
+  "comments": {
+    "hghkw58": {
+      "link": "/r/AskAcademia/comments/q6xsge/systemic_review_how_to_manage_the_number_of/hghkw58/",
+      "text": "600 is a lot of articles for a systematic review. If I were in your shoes, I would take a different approach such as a scoping review or bibliometric analysis which doesn't require extracting as much information from each article. Check out [https://doi.org/10.1111/j.1471-1842.2009.00848.x](https://doi.org/10.1111/j.1471-1842.2009.00848.x) for typologies of reviews",
+      "author": "hellokoalaa",
+      "created": 1634136032,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hgjhiul": {
+      "link": "/r/AskAcademia/comments/q6xsge/systemic_review_how_to_manage_the_number_of/hgjhiul/",
+      "text": "**Talk to your adviser.** 600+ is stupid big for one person.\n\n1. no.\n\n2. no.\n\n3. narrow it down more.",
+      "author": "MFA_Nay",
+      "created": 1634164073,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hgkoxii": {
+      "link": "/r/AskAcademia/comments/q6xsge/systemic_review_how_to_manage_the_number_of/hgkoxii/",
+      "text": "1. Absolutely not. You need to screen all the articles. I don't think this would make it past peer review.\n2. I don't think so. There are several software packages that are designed specifically for systematic reviews and a Google search on them can tell you more.  These are more to help keep track of the articles, not to do the screening for you. I don't know of any automated screening tools and would not use them.\n3. It depends. How many articles are typical for a review will vary by field. There are many systematic reviews that screened thousands of articles, with a large research team doing the screening. You could look at recent published reviews in your field to see how many articles were screened to give a sense of what is acceptable and expected in your area. If you have too many articles to screen, you could further narrow your topic.\n\nGood luck on your project.",
+      "author": "professorbix",
+      "created": 1634185483,
+      "upvotes": 1,
+      "replies": {
+        "hgkoz56": {
+          "link": "/r/AskAcademia/comments/q6xsge/systemic_review_how_to_manage_the_number_of/hgkoz56/",
+          "text": "Also, a scoping review will be less demanding than a systematic review.",
+          "author": "professorbix",
+          "created": 1634185511,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hghqdhn": {
+      "link": "/r/AskAcademia/comments/q6xsge/systemic_review_how_to_manage_the_number_of/hghqdhn/",
+      "text": "Are you looking to a critical review? Or a bibliographic review? If the former, then I would just focus on including the key papers to mean that you can cover the main advances in the field. This would bring the number down considerably, although I would still compile a summary table of all literature, and include them in a ref list.",
+      "author": "Artistic_Cranberry73",
+      "created": 1634138261,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hguoqg7": {
+      "link": "/r/AskAcademia/comments/q6xsge/systemic_review_how_to_manage_the_number_of/hguoqg7/",
+      "text": "I think it's important to understand that the purpose of a systematic review is not to be comprehensive, you can never guarantee exhaustive comprehensiveness so there's no point in trying. The benefits of a systematic review are the systematic, transparent, repeatable selection of papers. You need to ask yourself whether that's what you actually want. Systematic reviews tend to try and address very specific topics or questions. If you want a broader, higher-level review you would be better doing a different kind of review.\n\nIn reality, the systematic review is a dance between trying to be as comprehensive (but not exhaustive) as possible whilst returning a manageable number of articles. One way you can do this is by tweaking your search terms; you might go through dozens of combinations of search terms before you get a manageable amount. \n\nAlso, is the 600 article number the total list? In which case it is manageable to do an initial filtering based on titles and abstracts. If you have identified 600 articles *after* you have done this initial filtering, then likely your research question (and thus your exclusion criteria) is too broad.",
+      "author": "Wegian",
+      "created": 1634386292,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
 }

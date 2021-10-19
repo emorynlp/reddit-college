@@ -5,7 +5,7 @@
   "text": "I just want to get it over with.",
   "author": "tables_04",
   "created": 1634052106,
-  "updated": 1634072765,
+  "updated": 1634572199,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
@@ -32,13 +32,39 @@
       "author": "SpamDirector",
       "created": 1634067901,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hgeonbl": {
+          "link": "/r/ApplyingToCollege/comments/q6okaq/fellow_psat_takers_how_are_we_all_feeling_about/hgeonbl/",
+          "text": "Good luck tomorrow, hope you figure it out.",
+          "author": "tables_04",
+          "created": 1634075474,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
     },
     "hgei26i": {
       "link": "/r/ApplyingToCollege/comments/q6okaq/fellow_psat_takers_how_are_we_all_feeling_about/hgei26i/",
       "text": "god i'm so fucked in math lmfaooo",
       "author": "margot10enbaum",
       "created": 1634072721,
+      "upvotes": 1,
+      "replies": {
+        "hgeokt0": {
+          "link": "/r/ApplyingToCollege/comments/q6okaq/fellow_psat_takers_how_are_we_all_feeling_about/hgeokt0/",
+          "text": "Me too \ud83d\ude05",
+          "author": "tables_04",
+          "created": 1634075444,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hges0ty": {
+      "link": "/r/ApplyingToCollege/comments/q6okaq/fellow_psat_takers_how_are_we_all_feeling_about/hges0ty/",
+      "text": "i'm probably gonna fail lmao",
+      "author": "CarpetsAreTasty",
+      "created": 1634076926,
       "upvotes": 1,
       "replies": {}
     }

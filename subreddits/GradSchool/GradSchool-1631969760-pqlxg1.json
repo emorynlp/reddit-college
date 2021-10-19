@@ -379,7 +379,15 @@
       "created": 1633281264,
       "upvotes": 2,
       "replies": {}
+    },
+    "hgksrtq": {
+      "link": "/r/GradSchool/comments/pqlxg1/youre_backing_up_your_shit_right/hgksrtq/",
+      "text": "Cloud syncing has never failed me. It\u2019s unlikely that companies like google will have all their servers go down. They have several redundant severs for their data. I just sync it all to the cloud. One thing to note is that this can get expensive fast. \n\nOur department has their own servers where I sync massive data files. Which serves  as an additional backup.",
+      "author": "Marionberry_Real",
+      "created": 1634187904,
+      "upvotes": 1,
+      "replies": {}
     }
   },
-  "updated": 1634065768
+  "updated": 1634603225
 }

@@ -5,7 +5,7 @@
   "text": "I mean Microsoft contacted him when he was in high school with 2 million dollars",
   "author": "aakshatn2103",
   "created": 1634226298,
-  "updated": 1634251522,
+  "updated": 1634575598,
   "over_18": false,
   "upvotes": 9,
   "upvote_ratio": 1.0,
@@ -30,7 +30,25 @@
               "author": "freeport_aidan",
               "created": 1634234674,
               "upvotes": 1,
-              "replies": {}
+              "replies": {
+                "hgo584n": {
+                  "link": "/r/ApplyingToCollege/comments/q82d18/wondering_if_zuckerberg_considered_harvard_as_his/hgo584n/",
+                  "text": "Yes, Exeter typically enrolls around 250 per grade, so think of it as a small LAC.",
+                  "author": "jbethel811",
+                  "created": 1634252882,
+                  "upvotes": 3,
+                  "replies": {
+                    "hgoch5y": {
+                      "link": "/r/ApplyingToCollege/comments/q82d18/wondering_if_zuckerberg_considered_harvard_as_his/hgoch5y/",
+                      "text": "Sorry, I wrote that message in class this morning and just realized that my wording was a little ambiguous. I meant to ask if anyone had data on their acceptance rate to Harvard, as I'd be surprised if it weren't higher than that",
+                      "author": "freeport_aidan",
+                      "created": 1634256296,
+                      "upvotes": 4,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
             }
           }
         }
@@ -43,6 +61,23 @@
       "created": 1634227722,
       "upvotes": 2,
       "replies": {}
+    },
+    "hgoji8p": {
+      "link": "/r/ApplyingToCollege/comments/q82d18/wondering_if_zuckerberg_considered_harvard_as_his/hgoji8p/",
+      "text": "he\u2019s a lizard. Big hook. /s",
+      "author": "murpalim",
+      "created": 1634259579,
+      "upvotes": 3,
+      "replies": {
+        "hgok5vd": {
+          "link": "/r/ApplyingToCollege/comments/q82d18/wondering_if_zuckerberg_considered_harvard_as_his/hgok5vd/",
+          "text": "the reaction video exposed him",
+          "author": "Capable-Ad1621",
+          "created": 1634259882,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
     }
   }
 }

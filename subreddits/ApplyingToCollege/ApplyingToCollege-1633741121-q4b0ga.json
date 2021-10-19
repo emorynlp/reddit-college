@@ -5,7 +5,7 @@
   "text": "I\u2019m trying to complete my Rutgers application through the portal but when I paste my essay in, it gives me an error message saying the data value is too large. My essay is below the maximum amount of characters allowed. Any way to get around this?",
   "author": "puffyarrow",
   "created": 1633741121,
-  "updated": 1634074529,
+  "updated": 1634576864,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -17,6 +17,23 @@
       "created": 1633748382,
       "upvotes": 1,
       "replies": {}
+    },
+    "hgw3im2": {
+      "link": "/r/ApplyingToCollege/comments/q4b0ga/rutgers_application/hgw3im2/",
+      "text": "Hi! I was having the same issue. Follow these steps:\n\n1. Paste essay in a google doc\n2. Select All\n3. Go to the help at the menu bar at the top and type \"Clear Formatting\"\n4. Click on clear formatting\n5. Go to Rutgers Portal and paste \n\nHope this helps and good luck with your application!!",
+      "author": "Holiday_Arugula_1878",
+      "created": 1634410521,
+      "upvotes": 1,
+      "replies": {
+        "hgx1448": {
+          "link": "/r/ApplyingToCollege/comments/q4b0ga/rutgers_application/hgx1448/",
+          "text": "Unfortunately it didn\u2019t work but thank you though",
+          "author": "puffyarrow",
+          "created": 1634425375,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

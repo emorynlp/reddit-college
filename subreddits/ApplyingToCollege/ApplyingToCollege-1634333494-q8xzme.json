@@ -1,0 +1,48 @@
+{
+  "sid": "q8xzme",
+  "link": "/r/ApplyingToCollege/comments/q8xzme/should_i_apply_to_mits_18c_or_63/",
+  "title:": "Should I apply to MIT's 18C or 6-3?",
+  "text": "Hello all!!\n\nI'm a high school senior interested in studying cryptography and after undergrad going to grad school. I know that MIT's 6-3 major (Computer Science and Engineering) in the EECS department is the most popular major and very difficult to get into compared to 18C (Mathematics with Computer Science) in the math department but if I wanted to consider both in terms of what would set me up best for the industry which one looks like the best option to apply to? Any tips or advice is greatly appreciated \ud83e\udd0d",
+  "author": "OhayoIvy",
+  "created": 1634333494,
+  "updated": 1634423330,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hgsk5gr": {
+      "link": "/r/ApplyingToCollege/comments/q8xzme/should_i_apply_to_mits_18c_or_63/hgsk5gr/",
+      "text": "MIT doesn\u2019t admit by major.\n\n&#x200B;\n\n>very difficult to get into compared to 18C\n\nNo\n\n>Our application asks students to list their \u201ccourse of interest\u201d only, and the choice **doesn't have any impact on admission decisions.** ... In fact, a large percentage of students at MIT end up majoring in something other than what they listed as their field of interest as applicants.",
+      "author": "RichInPitt",
+      "created": 1634335946,
+      "upvotes": 6,
+      "replies": {
+        "hgslvh9": {
+          "link": "/r/ApplyingToCollege/comments/q8xzme/should_i_apply_to_mits_18c_or_63/hgslvh9/",
+          "text": "Thank you for the response/info",
+          "author": "OhayoIvy",
+          "created": 1634336783,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hgsnmom": {
+      "link": "/r/ApplyingToCollege/comments/q8xzme/should_i_apply_to_mits_18c_or_63/hgsnmom/",
+      "text": "Fwiw modern cryptography is exceptionally math heavy, especially since there are plenty of newer algorithms that rely on high-level math beyond basic linear algebra and number theory (eg elliptic curve cryptography) so having a very strong and deep background in math can be quite helpful\u2014especially if you want to go to grad school.",
+      "author": "apad201",
+      "created": 1634337634,
+      "upvotes": 2,
+      "replies": {
+        "hgspfbp": {
+          "link": "/r/ApplyingToCollege/comments/q8xzme/should_i_apply_to_mits_18c_or_63/hgspfbp/",
+          "text": "^",
+          "author": "SaitosElephant",
+          "created": 1634338522,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

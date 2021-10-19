@@ -5,7 +5,7 @@
   "text": "I don't want a million files on pc. That is all. Thank you.",
   "author": "ummeidkk",
   "created": 1634065552,
-  "updated": 1634082536,
+  "updated": 1634587058,
   "over_18": false,
   "upvotes": 52,
   "upvote_ratio": 0.95,
@@ -16,7 +16,134 @@
       "author": "inquisitive-squirrel",
       "created": 1634079907,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hgfp9nf": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfp9nf/",
+          "text": "Same here. \n\nWe are specifically told to favor Office files over PDFs for course assignments.",
+          "author": "AcademicDifficulty",
+          "created": 1634092244,
+          "upvotes": 72,
+          "replies": {}
+        },
+        "hgg7jz8": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgg7jz8/",
+          "text": "\u00bfPor que no los dos?",
+          "author": "hhbrother01",
+          "created": 1634102252,
+          "upvotes": 23,
+          "replies": {}
+        },
+        "hgf6ouy": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgf6ouy/",
+          "text": "screen readers really can't read PDFs?  If we have consumer software that can edit the text on PDFs, why can't we have software that reads it?  Also why does that apply to the 99% of classes that don't have any blind people?",
+          "author": "XayahTheVastaya",
+          "created": 1634083597,
+          "upvotes": 69,
+          "replies": {
+            "hgf867y": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgf867y/",
+              "text": "It depends on how it's formatted. Sometimes certain screen readers can't read PDFs. Some professors may also not know how to format the PDF to make it accessible. \n\nIt's a principle of universal design for learning (UDL). The goal is to make all materials accessible for the maximum number of people. \n\nSo even if there are no students who are visually impaired in the class right now, documents should still be accessible. Having a document in Word doesn't really make things that different for students who don't have a disability but it can make a huge difference for a student who does. \n\nWe don't know if students who sign up for our class have these needs or maybe we will have a student who is visually impaired add the class tomorrow. This student shouldn't need to wait to have all their materials converted to make things accessible for them when it could've been made accessible from the start.\n\nAlso you'd be surprised how many people are visually impaired in some way or maybe they have ADHD or dyslexia and this makes text-to-speech a lot easier.",
+              "author": "inquisitive-squirrel",
+              "created": 1634084293,
+              "upvotes": 128,
+              "replies": {
+                "hgg0h1y": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgg0h1y/",
+                  "text": "Honestly a lot of it is probably also legacy policy from when PDFs were a pain to use/view on windows and needed Adobe Acrobat installed, but yeah the whole flat vs text PDF thing is something that confuses a lot of people too (flat PDFs are basically pages of images whereas text PDFs are...text)",
+                  "author": "tajetaje",
+                  "created": 1634098061,
+                  "upvotes": 20,
+                  "replies": {}
+                },
+                "hghb1jn": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hghb1jn/",
+                  "text": "I find this ironic because I have a hearing impairment that makes the 1987 home movie quality of video production from my professors unintelligible. Rather than make better videos on a platform that captions or sending their bad videos to an accessibility portal to be captioned, they send me copies of their notes. Sometimes, those notes are actual photos of hand written notes. A couple have tried using power point or zoom captioning but they will only show one word at a time if the speaker is not fast talking. One. Word. At. A. Time. For. Hours.... So, I put my phone next to the TV and turn on voice to text in an email. If I'm having to figure this out on my own, what on Earth did they used to do for us?",
+                  "author": "SemanticBattle",
+                  "created": 1634131642,
+                  "upvotes": 10,
+                  "replies": {
+                    "hghhd8i": {
+                      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hghhd8i/",
+                      "text": "In the past if there was any accommodation you would have likely been provided a real live sign interpreter.",
+                      "author": "emfrank",
+                      "created": 1634134546,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                },
+                "hggxl1m": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggxl1m/",
+                  "text": ">It depends on how it's formatted. Sometimes certain screen readers can't read PDFs. Some professors may also not know how to format the PDF to make it accessible.\n\nJust to add that based on my experience, no PDF is accessible when you create it. Depending on field, most people will be making PDFs in something like LaTeX, and LaTeX cannot embed that kind of information yet. Making an existing PDF accessible seems to need expensive third-party software. I haven't found any quick, easy and free ways to make PDFs accessible, and if it's going to take you hours of your personal time to manually retype every word on the page then it's easier to just never use PDFs.",
+                  "author": "officially_anxious",
+                  "created": 1634123874,
+                  "upvotes": 5,
+                  "replies": {}
+                },
+                "hghc405": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hghc405/",
+                  "text": "Yes! Thank you! Text to speech compatibility is a life saver for me!",
+                  "author": "kelpgb",
+                  "created": 1634132160,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "hggxv6y": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggxv6y/",
+              "text": "It's because a regular PDF contains text that can be selected, copied and edited. A scanned PDF contains images of content; there's no actual text content but only images embedded into the PDF file, and no software can read that.\n\nSome more robust pdf programs can convert an image to text, but they aren't free and the conversation isn't always accurate.",
+              "author": "Shazam1269",
+              "created": 1634124067,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "hgh8zph": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgh8zph/",
+              "text": "Because we are supposed to design the class for universal accessibility.  So that someone who is visually impaired could also switch sections or do a late add.  Or add the course like a normal person without their being delays while someone has to make the book requirements and syllabus accessible to them\n\nVisual handicaps are also not limited to people who are totally blind and are more common than you might imagine.  And are also invisible to you, so how would you know if anyone in your class had these kind of accessibility issues ?",
+              "author": "AdoraBellDearheart",
+              "created": 1634130627,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "hgn7btd": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgn7btd/",
+          "text": "I did intro to accounting screwed up a quiz with 50 percent and teacher asks me to do credit and debit shit when it don't say shit in the book I studied well and I still scored shit\nI got an shitty teacher who doesn't give clear feedback",
+          "author": "Key-Transportation80",
+          "created": 1634237496,
+          "upvotes": 1,
+          "replies": {
+            "hgn7fph": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgn7fph/",
+              "text": "She ask me to do credit and debit shit and literally I did assets and liabilities shit and put all the clear info in a balance sheet should have gotten 60",
+              "author": "Key-Transportation80",
+              "created": 1634237541,
+              "upvotes": 1,
+              "replies": {
+                "hgn7jj3": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgn7jj3/",
+                  "text": "Shitty teacher saying see me with no clear feedback but tells me to review from chapter 1 to 3 when I clearly didn't even say write debit in there",
+                  "author": "Key-Transportation80",
+                  "created": 1634237586,
+                  "upvotes": 1,
+                  "replies": {
+                    "hgn7luc": {
+                      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgn7luc/",
+                      "text": "I literally wrote assets and liabilities in book no question says do credit and debit shit shit teacher makes no shit sense",
+                      "author": "Key-Transportation80",
+                      "created": 1634237613,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "hgekwpw": {
       "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgekwpw/",
@@ -31,7 +158,25 @@
           "author": "blue_forget_machine",
           "created": 1634078523,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hgf5ssr": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgf5ssr/",
+              "text": "Oh boy wait til I tell you about Word online",
+              "author": "Ken_Mcnutt",
+              "created": 1634083180,
+              "upvotes": 77,
+              "replies": {
+                "hggpusn": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggpusn/",
+                  "text": "That's sloooooooow",
+                  "author": "M87_star",
+                  "created": 1634117731,
+                  "upvotes": 18,
+                  "replies": {}
+                }
+              }
+            }
+          }
         },
         "hgeuul7": {
           "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgeuul7/",
@@ -39,7 +184,130 @@
           "author": "ember13140",
           "created": 1634078162,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hgf8m9v": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgf8m9v/",
+              "text": "That\u2019s almost always false. Word stores a million attributes with every file. I\u2019ve submitted lab reports generated using latex in the kilobytes rather than equivalent word documents in the 10s of megabytes.",
+              "author": "teatahshsjjwke",
+              "created": 1634084501,
+              "upvotes": 44,
+              "replies": {
+                "hgfpltn": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfpltn/",
+                  "text": "It depends. In my experience, PDF files are almost always bigger than word, unless there are videos involved.",
+                  "author": "AcademicDifficulty",
+                  "created": 1634092409,
+                  "upvotes": -5,
+                  "replies": {
+                    "hgfrkst": {
+                      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfrkst/",
+                      "text": "If you\u2019re generating your pdfs from word and maybe if you have graphics/charts, the only thing I can think of is the word is needlessly saving them as an image. Otherwise, it\u2019s possible to embed more information than necessary in a pdf but I didn\u2019t think word made bloated pdfs",
+                      "author": "teatahshsjjwke",
+                      "created": 1634093369,
+                      "upvotes": 7,
+                      "replies": {
+                        "hgfstsn": {
+                          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfstsn/",
+                          "text": "Sounds about right. Definitely field dependent. My .doc files mostly just have charts generated from statistical software.",
+                          "author": "AcademicDifficulty",
+                          "created": 1634094000,
+                          "upvotes": 4,
+                          "replies": {
+                            "hgfv7af": {
+                              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfv7af/",
+                              "text": "Ahh that would make sense. As a computer engineer, I\u2019m a latex purist so most of my reports, including charts and tables are done using latex libraries like pgfplots.",
+                              "author": "teatahshsjjwke",
+                              "created": 1634095225,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "hgfrmya": {
+                      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfrmya/",
+                      "text": "Does using the \u201cfor web publishing\u201d option from word help with file size?",
+                      "author": "teatahshsjjwke",
+                      "created": 1634093399,
+                      "upvotes": 1,
+                      "replies": {
+                        "hgftcmt": {
+                          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgftcmt/",
+                          "text": ">for web publishing\u201d option\n\nDo you mean to save as a webpage? I honestly never used that function before.",
+                          "author": "AcademicDifficulty",
+                          "created": 1634094263,
+                          "upvotes": 1,
+                          "replies": {
+                            "hgfuzdz": {
+                              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfuzdz/",
+                              "text": "Not quite. When you go to export as pdf, the save dialog should have a check box or radio selector that lets you publish the full size pdf or a minimal version for online publishing that probably has less meta data and bloat.\n\nBoth options produce a pdf.",
+                              "author": "teatahshsjjwke",
+                              "created": 1634095111,
+                              "upvotes": 1,
+                              "replies": {
+                                "hgfwk25": {
+                                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfwk25/",
+                                  "text": "Is this done in word or in the pdf reader (e.g., acrobat)?",
+                                  "author": "AcademicDifficulty",
+                                  "created": 1634095935,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "hggnbh3": {
+                                      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggnbh3/",
+                                      "text": "It should be done in word under the export, pdf option",
+                                      "author": "teatahshsjjwke",
+                                      "created": 1634115371,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            },
+                            "hgg1176": {
+                              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgg1176/",
+                              "text": "it should help with file size if it's a option from older word versions, because it would have been used for reducing download and load times for webpage.",
+                              "author": "wobbletelescope",
+                              "created": 1634098374,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "hggw1f3": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggw1f3/",
+                  "text": "No, it's true. Make a new word document, write some sentences in it, then save it as a pdf and compare their sizes. The pdf will be bigger.",
+                  "author": "vladmashk",
+                  "created": 1634122739,
+                  "upvotes": 0,
+                  "replies": {
+                    "hggxqt7": {
+                      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggxqt7/",
+                      "text": "That's only because you're creating the PDF from Word. Word is adding all the bloat and then some. If you just bypass Word and make a PDF alone then it's usually much smaller than a Word document.",
+                      "author": "officially_anxious",
+                      "created": 1634123984,
+                      "upvotes": 4,
+                      "replies": {
+                        "hghrln9": {
+                          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hghrln9/",
+                          "text": "Profs always use word and convert to pdf though",
+                          "author": "kryppla",
+                          "created": 1634138763,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -65,6 +333,158 @@
           "created": 1634074381,
           "upvotes": 6,
           "replies": {}
+        },
+        "hgf5wpu": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgf5wpu/",
+          "text": "just gonna leave [this](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z) here",
+          "author": "Ken_Mcnutt",
+          "created": 1634083232,
+          "upvotes": 25,
+          "replies": {
+            "hgfoz4j": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfoz4j/",
+              "text": "As a student from Gen Z, I'm surprised by that article. I don't know if it's a country-dependent thing but I've never ever seen anyone struggle to use folders this much! I can't be at peace if I don't organise every file.",
+              "author": "Maxwellmonkey",
+              "created": 1634092101,
+              "upvotes": 17,
+              "replies": {
+                "hgfpg8q": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfpg8q/",
+                  "text": "I used to work an IT helpdesk at a university and this is definitely a thing. Lots of people couldn't grasp the concept of \"dragging a file to a flash drive\"",
+                  "author": "Ken_Mcnutt",
+                  "created": 1634092333,
+                  "upvotes": 10,
+                  "replies": {}
+                },
+                "hgg1gno": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgg1gno/",
+                  "text": "it's a major problem for schools (or school districts, encompassing K-12!) that either exclusively use google suite + iPad OR hand out laptops but classes still use google suite (for google drive).\n\nso instead of assignment submissions being a file, they're just \"share the link with me\" for 8+ years",
+                  "author": "wobbletelescope",
+                  "created": 1634098616,
+                  "upvotes": 5,
+                  "replies": {}
+                },
+                "hgu2umf": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgu2umf/",
+                  "text": "It almost seems like a rejected onion article.\n\nI might not organize my files, but I at least know what a folder *is.*",
+                  "author": "TheDapperDrake",
+                  "created": 1634367935,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "hgf6gm8": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgf6gm8/",
+              "text": "I've seen the article (or at least ones similar to it).  Frankly, I think it's ridiculous that people expect to be held to a lower standard simply because they never bothered to figure out how the magic box they use 24/7 actually works. \n\nFolders and files will never go away. People need to learn how to use their tools properly, not dumb themselves down and demand that others enable them.",
+              "author": "patrdesch",
+              "created": 1634083492,
+              "upvotes": 53,
+              "replies": {
+                "hgf6vp3": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgf6vp3/",
+                  "text": "Hey I'm 100% in agreement here. I did a mini research assignment basically along the same lines. Basically \"technology is getting 'easier' and it's making us dumber\".",
+                  "author": "Ken_Mcnutt",
+                  "created": 1634083686,
+                  "upvotes": 18,
+                  "replies": {}
+                },
+                "hgfnlxz": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfnlxz/",
+                  "text": "I don't feel the article is advocating lowering the bar, the main thesis was that file directory systems and organization are no longer inherent knowledge and they need to be taught.  There are probably other factors (Some listed in the article and some not) that show its a paradigm shift outside some circles and required knowledge in others.  \n\nAnd argument I would personally make is that the most people see more files and more documents now, many of which are single use.  I've gone to three new doctors in the past year, each has had me fill out patient consent and history forms.  Once I've completed the form and sent it to the doctor why do I need it again? The flipside is everything i used to download and meticulously organize (TV shows and music) are all cloud based.  I don't own them, I don't need to navigate them the app search function does all the work.  Course work is made harder still because I have a laptop, a phone, a desktop, and about 3 work computers I sometimes access for homework during breaks.  I have 1 active one drive profile, 2 active Google and a few inactive Google Doc profiles that crop up organically but seeing it written down.... yikes.\n\nThat said, I learned basic file structure natively when i grew up, but the user experience as designed no longer needs us to flex those muscles as as early in our lives. Attempting to teach file structures early may help some students, but wont stick unless it's put into repeated and regular use.  What's next is what is being suggested here.  Concepts of file organization will probably be taught in student success courses and recommended during office hours/academic advisors meetings.  Some people will take to it naturally and others won't. It will be a hole in skills until repeated use in the classroom or workspace.  Lamenting this cultural change is similar to lamenting that most people don't know how to sew buttons.",
+                  "author": "WriggleNightbug",
+                  "created": 1634091453,
+                  "upvotes": 12,
+                  "replies": {}
+                }
+              }
+            },
+            "hgfz3sr": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfz3sr/",
+              "text": "I've honestly seen students in my class not know how to turn down the volume of the computer when they were doing a presentation. \n\nIt's incredibly depressing how students are so limited in their knowledge of computers.",
+              "author": "Sea_Programmer3258",
+              "created": 1634097305,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "hgfnyyf": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfnyyf/",
+              "text": "I blame iOS",
+              "author": "RageA333",
+              "created": 1634091627,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "hgftzbu": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgftzbu/",
+          "text": "You can even have it to save directly into a one drive folder or Google drive folder, so no space taken.",
+          "author": "samtony234",
+          "created": 1634094585,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hggb7ry": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggb7ry/",
+          "text": "I do this on my school\u2019s OneDrive. Separate folders for each class. Word documents auto save too",
+          "author": "microfsxpilot",
+          "created": 1634104858,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hgff9gy": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgff9gy/",
+          "text": "I have a file for my classes but I still can\u2019t afford to download all these damn Microsoft files.\n\nI wish we could return to paper again",
+          "author": "Proper-Atmosphere",
+          "created": 1634087584,
+          "upvotes": -4,
+          "replies": {
+            "hgfg4ln": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfg4ln/",
+              "text": "What do you mean 'you can't afford it'? Is your university charging you a flat rate per file download? And to be clear, I would also like to go back to paper assignments, but that's a pipe dream.",
+              "author": "patrdesch",
+              "created": 1634087973,
+              "upvotes": 11,
+              "replies": {
+                "hgh3az1": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgh3az1/",
+                  "text": "It eats up storage that\u2019s what I mean",
+                  "author": "Proper-Atmosphere",
+                  "created": 1634127562,
+                  "upvotes": -1,
+                  "replies": {
+                    "hgh4qij": {
+                      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgh4qij/",
+                      "text": "Yeah, sorry, no. A .docx storing 50,000 characters (\\~10 pages of text) takes up less than 60 KB. Any computer even remotely up to scratch has a the *very least* 256 GB of storage. Even if you have filled 250 of those with applications, that is still capacity for *60,000 word documents.* Assuming a rate of two assignments a week for sixteen weeks, across five classes and eight semesters, you will receive *maybe* 1,300 word documents across your entire collegiate career. Throw on another 700 for supplemental material for 2,000. Double that to include your answer documents. That's 4,000 documents across college, and that doesn't even cover a quarter of the *six Gigabytes* you had open out of 256.\n\n Storage is effectively free these days. Storing standard files does not take up a significant or meaningful portion of your computers storage capacity.",
+                      "author": "patrdesch",
+                      "created": 1634128382,
+                      "upvotes": 8,
+                      "replies": {
+                        "hgh72kd": {
+                          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgh72kd/",
+                          "text": "Bestie, it\u2019s a personal laptop.\n\nSo it\u2019s not just those assignments. I\u2019ve got Microsoft Teams, Discord, and all that good jazz. My Laptop came to me with effectively 20% storage taken (it\u2019s HP if that helps) it\u2019s also got photoshop for my design class, and photos of my late family.\n\nMy storage isn\u2019t just school work- it\u2019s also manuscripts, proof of residency, and my textbooks (because my school moved to 90% online meaning my textbooks are also word documents)\n\n8 classes, 8 textbooks, and all my other jazz my storage is in the red (it shows red on mine idk if it does for others)",
+                          "author": "Proper-Atmosphere",
+                          "created": 1634129634,
+                          "upvotes": -2,
+                          "replies": {
+                            "hghiyjk": {
+                              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hghiyjk/",
+                              "text": "I get it.  I paid through the nose for a 1 TB SSD HP laptop.  I lost easy portability since it\u2019s large and heavy compared to the 32 GB models, but I need the disk space.  However, most students cannot afford to shell out $2000+ for a laptop. (I really can\u2019t either, but I often flip garage sale items to make extra cash).  That said sometimes EBay has good deals on refurbished ones or some rich dude looking to off load one to make room for the latest and greatest.  \nIf nothing else, maybe trying some of these tricks will help free up some space.  https://support.hp.com/us-en/document/ish_3096092-2906390-16",
+                              "author": "rubberbatz",
+                              "created": 1634135231,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -89,6 +509,229 @@
       "text": "Professor who upload their syllabus as pdf is already a green flag",
       "author": "Ambi-taneous",
       "created": 1634081588,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hgff4z3": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgff4z3/",
+      "text": "I just delete files when I'm done. I download every lecture that my professors post so I can watch them 3x speed on VLC. Sometimes I go faster or slower depending on how fast the professor talks. One of my professors talks so slow I can watch on 3.5x.",
+      "author": "61-127-217-469-817",
+      "created": 1634087530,
+      "upvotes": 28,
+      "replies": {}
+    },
+    "hgg5ia2": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgg5ia2/",
+      "text": "Nah, multiple reasons for word. Copy and paste for assignments much easier. Accessibility. Easy editing on the professors part. That said pdf is nice to look at. The best professors upload both.",
+      "author": "smartymarty1234",
+      "created": 1634100929,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "hgg7nu3": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgg7nu3/",
+      "text": "Unless you are using a computer from 1990s, you have more than enough space to store hundreds of Word files. Can't you just delete them after?",
+      "author": "ChaoticxSerenity",
+      "created": 1634102325,
+      "upvotes": 23,
+      "replies": {}
+    },
+    "hgg44u9": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgg44u9/",
+      "text": "I prefer Word Docs since they\u2019re compatible with Google Docs.\n\nI usually convert PDFs to Word Docs using OCR software so I can open the pdf in Google Docs.",
+      "author": "taa20002",
+      "created": 1634100120,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hgffph4": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgffph4/",
+      "text": "It really won't make a difference if you just have a folder for them. It'll take you several seconds. There are benefits to using word docs, just because you prioritize the benefits of PDF does not make it inherently better.",
+      "author": "temsik1587againtwo",
+      "created": 1634087783,
+      "upvotes": 35,
+      "replies": {
+        "hghlq49": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hghlq49/",
+          "text": "Exactly like how hard is it to make a folder for classes and then a folder for each class? Hell, I even make a folder within the class folder for homework specifically. Everything is easy to find and organized.",
+          "author": "theironthroneismine",
+          "created": 1634136369,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "hgfwi6r": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfwi6r/",
+      "text": "I completely disagree with this, all my professors post pdf\u2019s entirely and it\u2019s so annoying because then i can\u2019t just use that file to write the answers but i have to retype the entirety of the homework questions (or copy and paste but when doing that with a pdf, none of the spaces are copied so i anyways have to make my own spaces)",
+      "author": "Leonos8",
+      "created": 1634095906,
+      "upvotes": 20,
+      "replies": {
+        "hgg53xk": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgg53xk/",
+          "text": "Totally agree I prefer word docs too.\n\nThere\u2019s OCR websites that can convert PDFs to Word Docs.\n\nSaves a lot of time.",
+          "author": "taa20002",
+          "created": 1634100689,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hggz94m": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggz94m/",
+          "text": "Why don't you write your answers directly into your pdf?",
+          "author": "PM-SOMETHING-FUNNY",
+          "created": 1634125013,
+          "upvotes": 1,
+          "replies": {
+            "hgho0rf": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgho0rf/",
+              "text": "You can\u2019t, unless you do it as if you\u2019re writing onto a picture, pdf\u2019s are uneditable",
+              "author": "Leonos8",
+              "created": 1634137295,
+              "upvotes": 3,
+              "replies": {
+                "hgi5ynb": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgi5ynb/",
+                  "text": "Depends on the pdf you've got a lot of pdfs that you can fill in http://www.verypdf.com/wordpress/201307/how-to-fill-out-pdf-forms-electronically-use-pdf-form-filler-to-fill-and-save-pdf-forms-37682.html\n\nAnd worst case just write on it, it has the same effect",
+                  "author": "PM-SOMETHING-FUNNY",
+                  "created": 1634144601,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hgfbv3i": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfbv3i/",
+      "text": "I don't want PDFs. I can't edit that and it's way easier to open up a Word file",
+      "author": "TragicalKingdom",
+      "created": 1634086029,
+      "upvotes": 25,
+      "replies": {}
+    },
+    "hggl5g6": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggl5g6/",
+      "text": "Haha. Tell that to my students who ask for Word files instead of the PDFs that I post. You can't please everyone!",
+      "author": "Violet_Plum_Tea",
+      "created": 1634113339,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hgfez84": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfez84/",
+      "text": "YES- we all downloaded Kami (Kiami?) for a reason!!!",
+      "author": "Proper-Atmosphere",
+      "created": 1634087458,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hgfq1wf": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfq1wf/",
+      "text": "On Windows, when you open a pdf file in your browser, that file is also saved in your temp folder.",
+      "author": "AcademicDifficulty",
+      "created": 1634092619,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hggq9h5": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggq9h5/",
+      "text": "post this on facebook",
+      "author": "hxh2001bruh",
+      "created": 1634118092,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hgh9261": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgh9261/",
+      "text": "I had to check to see if this was my post!  I just had to gut my computer after five straight semesters of downloading sketchy videos, docs, and power points from them. \"You know you can do all of this web based so there's not 2 hours downloads, right?\"",
+      "author": "SemanticBattle",
+      "created": 1634130662,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hghiagh": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hghiagh/",
+      "text": "I swear I'm still finding lost files from when I was at a community college 2yrs ago",
+      "author": "cssabs",
+      "created": 1634134944,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hgfntdw": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfntdw/",
+      "text": "nah die mad lol",
+      "author": "roronoapedro",
+      "created": 1634091553,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hgfqjic": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfqjic/",
+      "text": "Just want to add that there should be a special place in hell for profs who upload pdfs instead of the actual powerpoint files.",
+      "author": "Eavynne",
+      "created": 1634092857,
+      "upvotes": 2,
+      "replies": {
+        "hgfsul4": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfsul4/",
+          "text": "Not everyone has PowerPoint so using a universal file type like PDF makes more sense",
+          "author": "Doctor_KM",
+          "created": 1634094011,
+          "upvotes": 3,
+          "replies": {
+            "hggik5p": {
+              "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggik5p/",
+              "text": "I honestly haven't heard of any reputable education provider that hasn't contracted with Microsoft or Google for their suite of productivity software for students.",
+              "author": "Eavynne",
+              "created": 1634110918,
+              "upvotes": 2,
+              "replies": {
+                "hghhanj": {
+                  "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hghhanj/",
+                  "text": "This. What college hasn't done this?",
+                  "author": "TwelveBrute04",
+                  "created": 1634134515,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hggsb2d": {
+          "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggsb2d/",
+          "text": "PDFs are better. PowerPoint can really mess up the presentation if the versions don\u2019t match. PDF is way better if they actually want to preserve the presentation they actually gave, instead of some corrupted pile of junk.",
+          "author": "officially_anxious",
+          "created": 1634119866,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hgfg93t": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgfg93t/",
+      "text": "[removed]",
+      "author": null,
+      "created": 1634088029,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hggvi0w": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hggvi0w/",
+      "text": "it takes like 5 seconds to convert a word doc to a pdf ... which you can then organize in google drive without messing up the format",
+      "author": "brilliant_writer",
+      "created": 1634122326,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hgw4nn7": {
+      "link": "/r/college/comments/q6t988/for_the_love_of_god_professors_upload_assignments/hgw4nn7/",
+      "text": "No.\n\nDr. Grandpa",
+      "author": "FreeThinkingGrandpa",
+      "created": 1634411007,
       "upvotes": 1,
       "replies": {}
     }

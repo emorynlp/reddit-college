@@ -5,7 +5,7 @@
   "text": "The more I stay in academia, the more I feel like success mostly depends on being at the right place at the right time and having the right contacts. Is this true?",
   "author": "imaginary_character",
   "created": 1632599560,
-  "updated": 1634078842,
+  "updated": 1634578076,
   "over_18": false,
   "upvotes": 375,
   "upvote_ratio": 0.97,
@@ -158,6 +158,14 @@
                       }
                     }
                   }
+                },
+                "hh37wdk": {
+                  "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh37wdk/",
+                  "text": "Which field are you in?",
+                  "author": "42gauge",
+                  "created": 1634548702,
+                  "upvotes": 1,
+                  "replies": {}
                 }
               }
             },
@@ -191,6 +199,14 @@
               "text": "It's a networking game.  A faculty opening is looking for a specific range of skillets that the department needs to fill.  You either hear about it or look at the current faculty page see where in their core course offering there isn't a solid matchup between faculty speciality and course offerings.  For example a department with ecology courses but no field biologists and 2 faculty openings is only going to interview people who can teach those classes.",
               "author": "Ashelth",
               "created": 1633914100,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "hh387af": {
+              "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh387af/",
+              "text": "By \"PI factory\", do you mean a lab whose PhDs and postdics reliably go on to become professors/PIs of their own?",
+              "author": "42gauge",
+              "created": 1634548974,
               "upvotes": 1,
               "replies": {}
             }
@@ -259,6 +275,41 @@
                       "created": 1632779514,
                       "upvotes": 2,
                       "replies": {}
+                    }
+                  }
+                },
+                "hh38dyl": {
+                  "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh38dyl/",
+                  "text": "What about business/management? Operations research?",
+                  "author": "42gauge",
+                  "created": 1634549141,
+                  "upvotes": 2,
+                  "replies": {
+                    "hh4buwo": {
+                      "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh4buwo/",
+                      "text": "Business/management is worse, not sure about OR.",
+                      "author": "Marky_Marky_Mark",
+                      "created": 1634571865,
+                      "upvotes": 1,
+                      "replies": {
+                        "hh4c0cq": {
+                          "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh4c0cq/",
+                          "text": "Why would business be worse than accounting? Don't they boh have the majority of students wanting to go into academia?",
+                          "author": "42gauge",
+                          "created": 1634571929,
+                          "upvotes": 1,
+                          "replies": {
+                            "hh4kb2v": {
+                              "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh4kb2v/",
+                              "text": "There is more supply of management students, and many non-management/business students can fulfil those positions in business, so that the outside option is not as attractive as it is for accountants. I'm fairly sure that a bad accountant will make more money on average than an average business mayor.  \n  \nAlso, management is more fun as a field of study, there's fewer boring bookkeeping stuff (of course this is not all accountants do) and more theorizing about human interactions.",
+                              "author": "Marky_Marky_Mark",
+                              "created": 1634575372,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
@@ -473,7 +524,70 @@
                       "author": "quemacuenta",
                       "created": 1632620302,
                       "upvotes": 7,
-                      "replies": {}
+                      "replies": {
+                        "hh38xbk": {
+                          "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh38xbk/",
+                          "text": "When in your medical career did you start getting experience in AI? Would you recommend your path to someone who wants to get into medical AI over the traditional PhD?",
+                          "author": "42gauge",
+                          "created": 1634549630,
+                          "upvotes": 1,
+                          "replies": {
+                            "hh3iu59": {
+                              "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh3iu59/",
+                              "text": "I absolutely recommend my path. I\u2019m in my mid 20\u2019s and I am post doc. The other post docs at my lab are in their 30\u2019s. I don\u2019t care if I don\u2019t make it to be a PI, as I can work part time in a clinical setting and make bank, and do 15-20 hours of research as a \u201chobby\u201d. \n\nI learned to program by myself. I took calculus and lineal algebra classes at a sort\nOf \u201ccommunity college\u201d in my country. I learned ML and AI from Udemy courses. \n\nAfter that I did some small projects by myself, and then I cold emailed PIs in the US to let me collaborate remotely. Afterwards getting a Post Doc was quite easy.",
+                              "author": "quemacuenta",
+                              "created": 1634557432,
+                              "upvotes": 1,
+                              "replies": {
+                                "hh3j6s3": {
+                                  "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh3j6s3/",
+                                  "text": "RE working part time in a clinical setting, what opportunities are there for an IMG MBBS holder who hasn't taken USMLE exams? (I'm assuming you haven't)\nI ask because I'm a US-born citizen with the opportunity to either do CC->state school->PhD/MD or go the foreign MBBS route",
+                                  "author": "42gauge",
+                                  "created": 1634557663,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "hh4cqdp": {
+                                      "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh4cqdp/",
+                                      "text": "I\u2019m an IMG, working on taking the usmle steps (I already took step 1).\n\nI will put it bluntly, I am 26, I am a MD, doing a post doc at one of the best med schools of the US, and have 0 debt. I will apply to residency at 28 yo and finish it with 32 years and with 0 debt. \n\nYou can always take the usmle steps and apply to residency. Programs directors love MDs with research experience in the US, getting a residency spot after a post doc is quite easy.\n\nThe foreign route for me is better if it\u2019s free or way cheaper, and you can secure a post doc position in the US after graduating... for that you will need prior research experience, probably around 1-2 years with at least a first authored paper.\n\nThe MD/PhD route is harder, longer and more expensive but safer the moment you get accepted into the MD/PhD program.",
+                                      "author": "quemacuenta",
+                                      "created": 1634572232,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "hh4cye6": {
+                                          "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh4cye6/",
+                                          "text": "When did you feel confident enough in your AI skills to start cold-emailing professors? What kind of projects did you have under your belt at that point?",
+                                          "author": "42gauge",
+                                          "created": 1634572324,
+                                          "upvotes": 1,
+                                          "replies": {
+                                            "hh4f0bk": {
+                                              "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh4f0bk/",
+                                              "text": "After 2 projects... I just got some data form published papers, did data wrangling, predicted a few outcomes using ML and did feature selection.\n\nI did CNN to predict tumors and some more image processing. \n\nI think is most important that you feel confident programming in python than anything else.",
+                                              "author": "quemacuenta",
+                                              "created": 1634573180,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "hh4iqmd": {
+                                                  "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh4iqmd/",
+                                                  "text": "Yeah I can use python, but not at a high level. Was your AI use limited to importing and using models already included in the library you used? Or did you write your own stuff from scratch?\nAlso, I've never seen a dataset in a pub, only analysiles of datasets",
+                                                  "author": "42gauge",
+                                                  "created": 1634574725,
+                                                  "upvotes": 1,
+                                                  "replies": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }

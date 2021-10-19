@@ -5,7 +5,7 @@
   "text": "So I was emailed today by my professor to come in and meet about a computer science lab that I completed last week. I initially thought the meeting was going to be about 3 lines of code that I found on stack overflow, but it turns out that it was because my code matched another students. I asked if it was the only other person in the class I knew, Dave (not his actual name), and he said it was. I asked my professor how much was copied and he said all of it and that it was obvious that he copied me because I turned it in much earlier. I told him that I had sent my code to Dave and had walked through the whole thing with him to show him how I did mine. Big mistake on my part. \n\nAfter all of that, my professor then said that he had to file a report and it would ultimately be up to the board to decide but that because I had sent it they may have some leniency. The worst that can happen is that I get a 0 on the assignment, which I accept because sending code is against our schools code of conduct. I have no idea if I should or how I would explain to the board that I was only thinking in the best interest and didn't figure he would just copy it.\n\nI also realized later that I made another mistake by bringing up that I used stack overflow but he didn't seem too concerned about that because it was only a couple lines in a long function.\n\nHas anyone else been in a situation like this? If so, how did it all go down?",
   "author": "E1018elg",
   "created": 1634069437,
-  "updated": 1634082564,
+  "updated": 1634587133,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
@@ -23,7 +23,25 @@
           "author": "E1018elg",
           "created": 1634074041,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hgf5nf8": {
+              "link": "/r/college/comments/q6ukxb/friend_copied_my_code_and_tried_to_hide_it/hgf5nf8/",
+              "text": "actually no, in the future do NOT share your screen. my friend showed her screen during office hours to get help on her code from TA, but someone else in the same zoom room copied her code. She got pulled into academic integrity process until it was clear that someone copied her code without her knowledge.\n\nyou can look at your code and try to explain the structure, like how you thought it through, but never show code.",
+              "author": "wobbletelescope",
+              "created": 1634083111,
+              "upvotes": 6,
+              "replies": {
+                "hgf6gtd": {
+                  "link": "/r/college/comments/q6ukxb/friend_copied_my_code_and_tried_to_hide_it/hgf6gtd/",
+                  "text": "Thanks for letting me know!",
+                  "author": "E1018elg",
+                  "created": 1634083495,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     },

@@ -54,7 +54,25 @@
           "author": "AdmirableInfluence32",
           "created": 1631952398,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hgkqyea": {
+              "link": "/r/college/comments/ppzz9i/i_passed_calculus/hgkqyea/",
+              "text": "Did you say you were CS major? How come you you don\u2019t have to take calc 2&3?",
+              "author": "calebbogart7",
+              "created": 1634186714,
+              "upvotes": 1,
+              "replies": {
+                "hglgbjp": {
+                  "link": "/r/college/comments/ppzz9i/i_passed_calculus/hglgbjp/",
+                  "text": "Took them all in the first year",
+                  "author": "AdmirableInfluence32",
+                  "created": 1634207751,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -787,7 +805,15 @@
       "created": 1631885132,
       "upvotes": 28,
       "replies": {}
+    },
+    "hgkknn6": {
+      "link": "/r/college/comments/ppzz9i/i_passed_calculus/hgkknn6/",
+      "text": "Bro how",
+      "author": "Mediocre_Hall4504",
+      "created": 1634182977,
+      "upvotes": 1,
+      "replies": {}
     }
   },
-  "updated": 1634054888
+  "updated": 1634587637
 }

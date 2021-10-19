@@ -5,7 +5,7 @@
   "text": "If you use a google drive location for your group and/or collaborators, because of the traffic it brings in (e.g., multiple people downloading from multiple locations), google will sometimes flag it and will sometimes just delete everything with no backups.\n\nHad a scare two years ago where our entire group folder was locked out due to suspicion and we had to email their support to gain access again. The support mentioned that they (or the algorithm?) sometimes will just delete things and told us to be careful. Since then we now use a supercomputer database with 2-3  physical/cloud backups and nightly backup snapshots of the entire folder.",
   "author": "atmo_man",
   "created": 1633039053,
-  "updated": 1634099991,
+  "updated": 1634604366,
   "over_18": false,
   "upvotes": 413,
   "upvote_ratio": 0.99,
@@ -448,7 +448,16 @@
       "author": "sunflower335",
       "created": 1633636163,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hgir34m": {
+          "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hgir34m/",
+          "text": "Very slowly- the bandwidth for downloading from google drive is bad. We downloaded every file (select all) into a zip folder over the course of three days (around 2 Tb). If you do this, download it in sections because sometimes google will cancel the download and you\u2019ll have to start over.",
+          "author": "atmo_man",
+          "created": 1634152994,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     },
     "hewv6pk": {
       "link": "/r/GradSchool/comments/pytw85/friendly_reminder_that_google_drive_can/hewv6pk/",

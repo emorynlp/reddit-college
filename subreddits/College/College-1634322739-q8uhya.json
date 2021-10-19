@@ -5,7 +5,7 @@
   "text": "I went to view my application file at my college. I saw my \"file rating\", \"academic rigor\", \"transcript\" rating, and \"overall academic rating\". Which were all numbers, such as 7 and 3 or 5...how do I know what these means/what they were out of?",
   "author": "OneWarthog",
   "created": 1634322739,
-  "updated": 1634331823,
+  "updated": 1634583531,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -16,7 +16,25 @@
       "author": "patrdesch",
       "created": 1634328664,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hgsbehg": {
+          "link": "/r/college/comments/q8uhya/how_to_know_what_ratings_mean/hgsbehg/",
+          "text": "In the likely case they tell me that their rating system is private information, do you think there is another way I can find out what the measurements mean?",
+          "author": "OneWarthog",
+          "created": 1634331866,
+          "upvotes": 1,
+          "replies": {
+            "hgsglp1": {
+              "link": "/r/college/comments/q8uhya/how_to_know_what_ratings_mean/hgsglp1/",
+              "text": "Probably not, no. If they went through the trouble of creating a proprietary ranking system, and don't feel like disclosing details to applicants, I doubt they would continue using the system unmodified if information on it was readily available outside the admissions system.",
+              "author": "patrdesch",
+              "created": 1634334269,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

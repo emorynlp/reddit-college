@@ -1,0 +1,93 @@
+{
+  "sid": "q9g7vo",
+  "link": "/r/GradSchool/comments/q9g7vo/just_bombed_my_dsp_exam_1/",
+  "title:": "just bombed my DSP exam 1",
+  "text": "I just got the results back for my midterm1 of digital signal processing and I'm proud to say I got the LOWEST in the class. \n\nI have only taken programming and cs related math courses in undergrad. But my masters advisor wanted me to take an electrical math class which I don't even meet pre-requisites for and bombed the first exam.\n\nI don't know how to get back from here? Any advice from who was in a similar situation would be greatly appreciated.",
+  "author": "Curious_Cucumber1304",
+  "created": 1634404448,
+  "updated": 1634601594,
+  "over_18": false,
+  "upvotes": 6,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hgvtuuc": {
+      "link": "/r/GradSchool/comments/q9g7vo/just_bombed_my_dsp_exam_1/hgvtuuc/",
+      "text": "i mean, what's the grading scheme? if it's 50-50 midterm and final, that's gotta hurt, but if not, it's not the end of the world lol. dsp maths are heavy and time consuming, but solving enough exercises and going to office hours is 90% of the solution.",
+      "author": "HLA-AIRE-VIT1",
+      "created": 1634406353,
+      "upvotes": 2,
+      "replies": {
+        "hgw6z4x": {
+          "link": "/r/GradSchool/comments/q9g7vo/just_bombed_my_dsp_exam_1/hgw6z4x/",
+          "text": "It's worth 20%. And I got lil above 50% on the exam. \nThis class just doesn't make any sense to me. Like you know I wanna work for it but it just doesn't interest me.",
+          "author": "Curious_Cucumber1304",
+          "created": 1634411997,
+          "upvotes": 2,
+          "replies": {
+            "hgwalw7": {
+              "link": "/r/GradSchool/comments/q9g7vo/just_bombed_my_dsp_exam_1/hgwalw7/",
+              "text": "yeah i get you. what's your area of study though? if your advisor recommended you take dsp, there's certainly gotta be a valid reason.",
+              "author": "HLA-AIRE-VIT1",
+              "created": 1634413544,
+              "upvotes": 1,
+              "replies": {
+                "hgwjtal": {
+                  "link": "/r/GradSchool/comments/q9g7vo/just_bombed_my_dsp_exam_1/hgwjtal/",
+                  "text": "My area of study is image processing.",
+                  "author": "Curious_Cucumber1304",
+                  "created": 1634417537,
+                  "upvotes": 1,
+                  "replies": {
+                    "hgycoqy": {
+                      "link": "/r/GradSchool/comments/q9g7vo/just_bombed_my_dsp_exam_1/hgycoqy/",
+                      "text": "DSP is important fundamentals. It really is important to learn. \n\nIf you're struggling with the math, then I'm afraid there is little to do except practice. \n\nOne thing I will say though, is that I've found that when things are boring, it's typically because it's being communicated in a way that doesn't appeal to me. I've been in school for over ten years now - I've had subjects that bored the shit out of me, but when I took a similar class it was fascinating. Sometimes it's just a crappy teacher, or a medium of learning that doesn't work for me. \n\nThere's a bunch of learning models out there (e.g. kolbe, Silverman etc) and they all show a spectrum. This means that depending on where you lie, the class may not match up. \n\nSo you may want to watch some YouTube lectures or read some interesting papers to spark your interest. Worked for me pretty often, particularly when I had a boring teacher.",
+                      "author": "grad_student_15543",
+                      "created": 1634450322,
+                      "upvotes": 3,
+                      "replies": {
+                        "hgzwwq1": {
+                          "link": "/r/GradSchool/comments/q9g7vo/just_bombed_my_dsp_exam_1/hgzwwq1/",
+                          "text": "Yes. I understand what you are saying mate. I can't act like I'm in undergrad anymore. I would just have to find a way where I can learn these concepts. Any recommendations on good resources to learn these concepts of DSP?\n\nAnd thanks for taking your time to write this! I really appreciate it.",
+                          "author": "Curious_Cucumber1304",
+                          "created": 1634486440,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hgzs4dy": {
+              "link": "/r/GradSchool/comments/q9g7vo/just_bombed_my_dsp_exam_1/hgzs4dy/",
+              "text": ">Like you know I wanna work for it but it just doesn't interest me.\n\nLater on in life, as a working professional, you will likely need to do things that are boring to you. But that doesn't mean you half ass them.\n\nSo think of it as the emerging professional you are becoming in grad school, not with with an undergraduate mentality. It doesn't all have to be about what excites you. Unless you're prepared to take a W in the class, you put in the effort because you've already made the commitment by signing up for the class.\n\nPlus, as Warren Buffett famously says, the best investment you make is in yourself. He encourages people to put forth their best into their coursework, because you don't know for sure what you're going to get out of it until later.",
+              "author": "raistlin65",
+              "created": 1634484377,
+              "upvotes": 3,
+              "replies": {
+                "hgzxbgg": {
+                  "link": "/r/GradSchool/comments/q9g7vo/just_bombed_my_dsp_exam_1/hgzxbgg/",
+                  "text": "This is really motivating. Thanks for this mate. I need an attitude change. Gotta change from undergrad to a graduate level. Any tips on how you made this change from undergrad to grad school?",
+                  "author": "Curious_Cucumber1304",
+                  "created": 1634486618,
+                  "upvotes": 1,
+                  "replies": {
+                    "hh00xjh": {
+                      "link": "/r/GradSchool/comments/q9g7vo/just_bombed_my_dsp_exam_1/hh00xjh/",
+                      "text": "Graduate school is going to help you further your career goals, right? So it's the first major step in your professional career right now. Consider the ACM code of ethics 2.1\n\nStrive to achieve high quality in both the processes and products of professional work.\n\nhttps://www.acm.org/code-of-ethics\n\nThe best people in the field typically try to do the best job that they can (given available resources) at all times. The sooner you get into that practice, the better you'll get at it.\n\nAnd while Buffett is more directly referring to business, I think what he has to say about learning applies for any professional disciplines, including yours\n\nhttps://www.inc.com/wanda-thibodeaux/this-is-investment-warren-buffett-says-every-college-graduate-should-make.html",
+                      "author": "raistlin65",
+                      "created": 1634488165,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

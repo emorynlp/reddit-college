@@ -1,0 +1,57 @@
+{
+  "sid": "qa6k3j",
+  "link": "/r/GradSchool/comments/qa6k3j/hertz_fellowship_question/",
+  "title:": "Hertz Fellowship Question",
+  "text": "I was just wondering if I should bother applying to the Hertz fellowship? It feels really hard to get, and feels like such a massive time sink that maybe I would rather spend that time applying reading research papers and doing actual research. \n\nI am a current 4th year undergrad. Is it ok to wait until 1st year grad school to apply to this? I am also submitting an application to GRFP right now (essays all complete, just need to edit my research plan!), so it feels like a lot of writing to apply for both.",
+  "author": "triaura",
+  "created": 1634501191,
+  "updated": 1634655443,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hh13xlr": {
+      "link": "/r/GradSchool/comments/qa6k3j/hertz_fellowship_question/hh13xlr/",
+      "text": "You probably won\u2019t get it if you apply. You definitely won\u2019t get it if you don\u2019t apply. Up to you from there.",
+      "author": "shmoidel",
+      "created": 1634504360,
+      "upvotes": 4,
+      "replies": {
+        "hh1hput": {
+          "link": "/r/GradSchool/comments/qa6k3j/hertz_fellowship_question/hh1hput/",
+          "text": "All fax, no printer I guess haha. \n\nMaybe I just yolo it. I guess it would be nice for the committee to have some sort of pool of quantified applicants to \u201cshop\u201d from.",
+          "author": "triaura",
+          "created": 1634510506,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hh20gsx": {
+      "link": "/r/GradSchool/comments/qa6k3j/hertz_fellowship_question/hh20gsx/",
+      "text": "The hertz takes a ton of effort to stand a chance. Are you exceptional? Do you have an interesting personal story? Publications? Awesome extra curriculars? Because if you don't have all of that don't bother. It will take so much time and you won't have a shot.",
+      "author": "downsideleft",
+      "created": 1634519639,
+      "upvotes": 1,
+      "replies": {
+        "hh21t76": {
+          "link": "/r/GradSchool/comments/qa6k3j/hertz_fellowship_question/hh21t76/",
+          "text": "I'm just going to comment the gist of my resume while trying to stay anonymous. Let me know if my qualifications are clearly too low for the Hertz fellowship. If I am unqualified, then I will not apply as it will also be a waste of time for the committee to read my application. \n\nPublications\n\n I have 1 in IEEE-CDC (first author), 1 arxiv preprint (fourth author), and 1 submitted to ACC (second author).\n\nAlso have a 6th or 7th author biology pub from high school, but that\u2019s not the field I\u2019m going into. \n\nExtracurriculars\n\nPresident of a chapter of an EE honors society and helped organize career fairs, research fairs, tutoring, and taught review sessions in photonics, semiconductors, analog circuits, and digital signal processing. Also helped organize department town halls, and Professor talks. \n\nLearning assistant for a physics lab and Intro EE class\n\nChurch youth group counselor where I provide emotional support and teach middle school kids to care for each other and themselves. Also lead discussions on Bible lessons. \n\nOthers\n\nTaught a lecture on quantum linear regression in a graduate class on quantum information. \n\nA side project related to RF and analog circuits (designing a ring diode mixer and colpitts oscillator). \n\nClass projects on audio processing, machine learning, and communications (hamming codes vs using a CNN as an auto encoder, CNN vs Griffin Lim algorithm for reconstructing samples from CMU Arctic lib). Also a class project on group testing of COVID cases (attempted to combine group testing with a Kalman filter) \n\nAlso went to the IBM qiskit summer school on quantum machine learning.",
+          "author": "triaura",
+          "created": 1634520317,
+          "upvotes": 1,
+          "replies": {
+            "hh27xch": {
+              "link": "/r/GradSchool/comments/qa6k3j/hertz_fellowship_question/hh27xch/",
+              "text": "It looks like you have the academic side, but you better be sure to polish the personal story side of things, because that matters just as much in the hertz.",
+              "author": "downsideleft",
+              "created": 1634523404,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

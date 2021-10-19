@@ -380,7 +380,16 @@
                   "author": "Spicybooiii",
                   "created": 1632957150,
                   "upvotes": 3,
-                  "replies": {}
+                  "replies": {
+                    "hh1iox8": {
+                      "link": "/r/college/comments/pwwm28/is_growing_up_as_devastating_as_i_think_it_is/hh1iox8/",
+                      "text": "I thought federal careers tended to lag behind in pay? What's your position?",
+                      "author": "42gauge",
+                      "created": 1634510957,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
                 }
               }
             }
@@ -432,5 +441,5 @@
       }
     }
   },
-  "updated": 1634054774
+  "updated": 1634587149
 }

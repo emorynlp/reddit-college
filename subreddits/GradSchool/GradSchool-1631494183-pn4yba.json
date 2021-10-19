@@ -115,6 +115,23 @@
                   "created": 1633729152,
                   "upvotes": 1,
                   "replies": {}
+                },
+                "hgj3ull": {
+                  "link": "/r/GradSchool/comments/pn4yba/ndseg_2021anyone_know_when_its_due/hgj3ull/",
+                  "text": "Where did you get the information that this was 3 pages SS? I am finding absolutely nothing, except for the White Paper instructions from the BAA which seem insane",
+                  "author": "piexe",
+                  "created": 1634158188,
+                  "upvotes": 1,
+                  "replies": {
+                    "hgjffe0": {
+                      "link": "/r/GradSchool/comments/pn4yba/ndseg_2021anyone_know_when_its_due/hgjffe0/",
+                      "text": "I was referred here: https://ndseg.org/requirements. Bottom of the page states 3 page proposal single space, including graphics and charts, size 11 font and 1 inch margins",
+                      "author": "AeroStatikk",
+                      "created": 1634163132,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
                 }
               }
             }
@@ -123,5 +140,5 @@
       }
     }
   },
-  "updated": 1634066179
+  "updated": 1634603361
 }

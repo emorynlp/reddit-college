@@ -5,7 +5,7 @@
   "text": "I am an undergraduate senior majoring in biotechnology. My university requires us to do projects during the final year. Because of the pandemic, our project had been changed to a Lit review and I have been working on it for about a couple of months now.  \n\nInitially, the plan was to do a journal article and my manuscript is also tailored to the scope of the journal. But my PI suddenly decides to submit it as a book chapter because people have been submitting Lit reviews during the pandemic in high numbers and publishing the manuscript might be difficult.\n\n1. How exactly is a book chapter different from a journal article? \n2. How should I change my manuscript for a book chapter? (citations etc) \n3. Is a book chapter less credible than a journal article? (since this would be my first article and will be included in my CV when I am applying for masters)\n4. Do people usually submit their manuscript to more than one journal to get a higher chance of publishing it?\n\nAny insight is appreciated. Thank you for your time.",
   "author": "SnooOnions9810",
   "created": 1633964511,
-  "updated": 1634078378,
+  "updated": 1634579971,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 0.75,
@@ -51,6 +51,66 @@
           "replies": {}
         }
       }
+    },
+    "hgl2qur": {
+      "link": "/r/AskAcademia/comments/q5xrnp/journal_article_vs_book_chapter/hgl2qur/",
+      "text": "While it is field specific, in your field a journal article would be much higher status than a book chapter.  I do the occasional book chapter, but its more to show academic 'chops\" than anything else.  Reviews (in journals) have substantially greater rewards (in citations etc). \n\nNote that your, and your PIs, interests may not exactly coincide here.  However, to be fair, your PI is right that, under the pandemic lock down, a LOT of people sat and wrote reviews for journals (I have done 4 for example).",
+      "author": "Life_time_learner",
+      "created": 1634195539,
+      "upvotes": 2,
+      "replies": {
+        "hgl36vs": {
+          "link": "/r/AskAcademia/comments/q5xrnp/journal_article_vs_book_chapter/hgl36vs/",
+          "text": "Okay that makes a lot of sense. Thank you.\nDo you have any idea about Intechopen? MY PI has got a invite from this publisher and it has some controversy on being predatory.",
+          "author": "SnooOnions9810",
+          "created": 1634195928,
+          "upvotes": 1,
+          "replies": {
+            "hgl3snw": {
+              "link": "/r/AskAcademia/comments/q5xrnp/journal_article_vs_book_chapter/hgl3snw/",
+              "text": "While not a definitive answer, I (and actually my University) consider them to be a predatory publisher (albeit that they only publish books).",
+              "author": "Life_time_learner",
+              "created": 1634196455,
+              "upvotes": 2,
+              "replies": {
+                "hgl414f": {
+                  "link": "/r/AskAcademia/comments/q5xrnp/journal_article_vs_book_chapter/hgl414f/",
+                  "text": "Looked further, and Bealls list has an entry on them:\n\nInTechOpen \u2013 Mirror site (note: on 13 May 2016 their entire **journal collection** have been transferred to SAGE. Any newer issues of these journals should not be considered predatory. InTechOpen now only publishes books. They are still considered to be predatory.)\n\n[https://beallslist.net/](https://beallslist.net/)\n\n(bolding is mine, to distinguish)\n\n(inclusion on Bealls list IS definitive for my University).",
+                  "author": "Life_time_learner",
+                  "created": 1634196661,
+                  "upvotes": 2,
+                  "replies": {
+                    "hgl4ktm": {
+                      "link": "/r/AskAcademia/comments/q5xrnp/journal_article_vs_book_chapter/hgl4ktm/",
+                      "text": "Okay, will look in this.",
+                      "author": "SnooOnions9810",
+                      "created": 1634197149,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                },
+                "hgl3uph": {
+                  "link": "/r/AskAcademia/comments/q5xrnp/journal_article_vs_book_chapter/hgl3uph/",
+                  "text": "Thanks so much for that!",
+                  "author": "SnooOnions9810",
+                  "created": 1634196504,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hguxpib": {
+      "link": "/r/AskAcademia/comments/q5xrnp/journal_article_vs_book_chapter/hguxpib/",
+      "text": "You are in something of a precarious position here. \n\nA key decision is whether you want anyone to read what you wrote, or is it sufficient that some editor decided to include it in a citable work?\n\nI hope it is the first, but there are lots and lots of people who answer the second one and there are corrspondingly lots of publishers prepared to accommodate them. \n\nMy experience is that in fields related to biotech, nobody reads book chapters any more. Odds are high that this outlet is for group 2. \n\nGetting your article in a top journal seems like a challenge as well. Influential review articles are usually written by one of the most productive peak-career resarchers in a field. Their insight and perspective are essential for making the article valuable. Their focus on the most important questions to address next influence others' research directions. Typical literature reviews by beginning graduate students don't have those ingredients, and are therfore hard to publish. \n\nJournals may have made some pandemic-related accommodation by adding this genre to their offerings. \n\nWhat would you have to do to identify the audience you think wants to read what youw wrote? Where would they expect to find it? That might be the most valuable place. It could be a super-specialized journal, but better that than some junk mill with a fancy name.",
+      "author": "DrTonyTiger",
+      "created": 1634391587,
+      "upvotes": 1,
+      "replies": {}
     }
   }
 }

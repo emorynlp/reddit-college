@@ -5,7 +5,7 @@
   "text": "Knock on wood nothing too hard so far.",
   "author": "Wonderfulllworld",
   "created": 1633709003,
-  "updated": 1634083198,
+  "updated": 1634582124,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
@@ -57,6 +57,32 @@
       "created": 1633734911,
       "upvotes": 1,
       "replies": {}
+    },
+    "hgkinjc": {
+      "link": "/r/college/comments/q40r5r/whats_the_hardest_class_youve_ever_taken/hgkinjc/",
+      "text": "ochem",
+      "author": "exaxo26",
+      "created": 1634181893,
+      "upvotes": 1,
+      "replies": {
+        "hgkj7yo": {
+          "link": "/r/college/comments/q40r5r/whats_the_hardest_class_youve_ever_taken/hgkj7yo/",
+          "text": "I'm in that right now. so far its actually my favorite class .",
+          "author": "Wonderfulllworld",
+          "created": 1634182202,
+          "upvotes": 1,
+          "replies": {
+            "hgkjkpj": {
+              "link": "/r/college/comments/q40r5r/whats_the_hardest_class_youve_ever_taken/hgkjkpj/",
+              "text": "yeah, i found out the hard way my brain just doesn\u2019t work like that. switched my major to legal studies and international relations & never looked back",
+              "author": "exaxo26",
+              "created": 1634182391,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

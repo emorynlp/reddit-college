@@ -5,7 +5,7 @@
   "text": "I'm looking for a Title IX lawyer/clinic that would be willing to speak with me/give some counsel on a case I'm embroiled in.",
   "author": "SeNoR_LoCo_PoCo",
   "created": 1634150698,
-  "updated": 1634167797,
+  "updated": 1634603862,
   "over_18": false,
   "upvotes": 4,
   "upvote_ratio": 0.83,
@@ -30,11 +30,37 @@
               "author": "Perses_Garden",
               "created": 1634159192,
               "upvotes": 2,
-              "replies": {}
+              "replies": {
+                "hgjro8b": {
+                  "link": "/r/GradSchool/comments/q7hrc3/title_ix_lawyer/hgjro8b/",
+                  "text": "I wouldn\u2019t use r/legaladvice. You can\u2019t guarantee that contributors are actual lawyers and people have gotten terrible advice from there before.",
+                  "author": "nonconformistnugget",
+                  "created": 1634168773,
+                  "upvotes": 6,
+                  "replies": {
+                    "hgk58ma": {
+                      "link": "/r/GradSchool/comments/q7hrc3/title_ix_lawyer/hgk58ma/",
+                      "text": "Ah that's true. Maybe visiting an actual irl lawyer.",
+                      "author": "Perses_Garden",
+                      "created": 1634175245,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
             }
           }
         }
       }
+    },
+    "hgl0jm2": {
+      "link": "/r/GradSchool/comments/q7hrc3/title_ix_lawyer/hgl0jm2/",
+      "text": "Not a lawyer but lots of Title IX experience (advocacy work, civil suit, OCR complaint, etc.). DM me if you want to talk.",
+      "author": "elosohormiguero",
+      "created": 1634193728,
+      "upvotes": 1,
+      "replies": {}
     }
   }
 }

@@ -5,7 +5,7 @@
   "text": "Sorry to ask for this but I\u2019m stuck on this common app essay and I really wanna finish it asap to focus on supplements. Does anyone could give me 2 small stories (1-2 lines) that show someone\u2019s preference to team work and the other one that shows that someone don\u2019t give up easily. I just need an example because I have no idea.",
   "author": "Impossible_Victory34",
   "created": 1633981015,
-  "updated": 1634073253,
+  "updated": 1634576910,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -16,7 +16,16 @@
       "author": "roguezebra",
       "created": 1633995200,
       "upvotes": 2,
-      "replies": {}
+      "replies": {
+        "hgetmv0": {
+          "link": "/r/ApplyingToCollege/comments/q63uc7/story_for_common_app_essay/hgetmv0/",
+          "text": "I'd give more precise details. Show don't tell.  \n\n\nWe had open discussions and talked freely about the lab work.  \nOr  \nWe delegated specific well-defined roles and held each other accountable.   \n\n\nSometimes the discussions became heated but I loved the passion we brought.  \nOr  \nEven though we each had our roles, we would help each other do their part.    \n\n\nThese collaborative processes brought out the best in me.",
+          "author": "stories_as_models",
+          "created": 1634077633,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }
