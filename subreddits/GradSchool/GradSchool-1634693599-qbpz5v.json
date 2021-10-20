@@ -1,0 +1,73 @@
+{
+  "sid": "qbpz5v",
+  "link": "/r/GradSchool/comments/qbpz5v/how_do_you_grade_homework_equitably/",
+  "title:": "How do you grade homework equitably?",
+  "text": "I\u2019m TA for a couple courses and spend a lot of time trying to be equitable and unbiased in my grading.  I\u2019m struggling with stats homework.  The last assignment had 6 problems, about 15 if you count all the sub parts.  Each part got full credit if they had it right and none if that part was wrong.  The instructor didn\u2019t like the distribution so I then gave partial credit back based on degree of wrong-ness.  It was messy and time consuming and difficult to be unbiased.  \n\nSo with the assignment due tomorrow, I took the key and broke it down into tiny increments to award partial credit.  A tenth of a point for an answer, a tenth for interpretation, a tenth for checking each assumption, a tenth for stating result of each check and so-on\u2026 it ended up being 81 sub parts to total nine points, so I added 0.3pts for professionalism.  \n\nI sent it to the teacher and he thinks I spent too much time and I could just deduct 0.1 or 0.2 puts for each error and try to control the grades in the range of 70-100%.  \n\nIt makes sense to minimize deductions so that we aren\u2019t punitive to the students, we mostly just want them to get practice. Theoretically I don\u2019t have a problem with this approach, but logistically, I don\u2019t know how to make a rubric to do that that shows transparency.  I also am not sure how to keep track of all the variety of errors to ensure consistency.  How do you approach grading for numeric-problem based work to ensure equity?",
+  "author": "mldonahu",
+  "created": 1634693599,
+  "updated": 1634750805,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hhbgl6j": {
+      "link": "/r/GradSchool/comments/qbpz5v/how_do_you_grade_homework_equitably/hhbgl6j/",
+      "text": "Read the first 5-ish papers, and assign them grades based on what you think they should get.  Figure out why you think that, assign appropriate point values for each type of mistake, and that sets your scale for the rest.   Jot down types of errors, if you\u2019re worried about being consistent (\u2018numerical error: -0.5. Bad setup: -3 missed checking:  -1.5\u2019). You don\u2019t need to have a super rigorous rubric, you just need to be reasonably consistent and able to justify it if you need to.  You might have to regrade the first few at the end, but ultimately it works better.  It\u2019s messy, but you get faster at it.",
+      "author": "Ocelot843",
+      "created": 1634699266,
+      "upvotes": 16,
+      "replies": {
+        "hhbhun4": {
+          "link": "/r/GradSchool/comments/qbpz5v/how_do_you_grade_homework_equitably/hhbhun4/",
+          "text": "It\u2019s a good idea, I\u2019ll try it when the hw is submitted.",
+          "author": "mldonahu",
+          "created": 1634699928,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hhbgnkp": {
+      "link": "/r/GradSchool/comments/qbpz5v/how_do_you_grade_homework_equitably/hhbgnkp/",
+      "text": "Your prof wants to make sure you aren't devoting far too much time to grading assignments. \n\nYou mention there are six problems, but you also mention you broke it all down into 81 \"sub-parts.\" Is this 81 sub-parts per problem? Or in total? How many of these assignments are you grading? Using this rubric you developed, how long is it taking you per assignment to grade on average?",
+      "author": "qwertyrdw",
+      "created": 1634699301,
+      "upvotes": 7,
+      "replies": {
+        "hhbitgn": {
+          "link": "/r/GradSchool/comments/qbpz5v/how_do_you_grade_homework_equitably/hhbitgn/",
+          "text": "81 subparts in total (if a regression model has ten parts, each factor in the model is a sub part from a grading perspective, or a hypothesis test has a sub part for each: null hypothesis, alternative hypothesis, decision rule, test statistic, decision, conclusions).  It\u2019s all the things I look for in a complete answer so in my mind the only extra time was developing the rubric, which was maybe half an hour longer than it took me to run all the program code so I could understand the key he gave me.  I\u2019ll know tomorrow when the homework is submitted, but I\u2019m anticipating 10-20min to grade depending on how different their code is from the professor\u2019s.  It\u2019s always more difficult to grade different approaches because I have to understand what they did and then figure out if it\u2019s correct or not - especially because answers could vary based on the approach.   There are about 26 assignments to grade in total.  I just want the students to learn from their mistakes, I thought the rubric would make that easier to see where their weak spots are.  And all the grading is done in a learning mgt system (blackboard).",
+          "author": "mldonahu",
+          "created": 1634700453,
+          "upvotes": 3,
+          "replies": {
+            "hhbk568": {
+              "link": "/r/GradSchool/comments/qbpz5v/how_do_you_grade_homework_equitably/hhbk568/",
+              "text": "Even taking a half hour per assignment sounds reasonable with only 26 assignments.",
+              "author": "qwertyrdw",
+              "created": 1634701182,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hhbxjmb": {
+      "link": "/r/GradSchool/comments/qbpz5v/how_do_you_grade_homework_equitably/hhbxjmb/",
+      "text": "Do you need to make a rubric for your students to see or is it just for you? It sounds like you're doing a great job and being thorough! I'll say I'm not as thorough but do feel like I grade all my students quite equally.  Sometimes if its a hard assignment I'll give 1/2 credit just for students having written something. I don't TA for stats and don't need to show the students a rubric, I'll make an answer key with the pts, decide what counts as acceptable answers and then start grading, and occasionally refer back to things I've graded to double check if I accepted something or not... If they forgot to show work/ include units etc they generally get 1 pt off but still get the vast majority of credit. If they get a question wrong I do check work and do give partial credit if I understand what they're doing. This is now my 4th semester TAing for the same class and I finally feel like it goes faster and I've gotten a hang of it\n I get a distribution I'm happy with and grades I feel reflect the students work quite nicely. My first semester if I saw the average was below a 70 (excluding any 0s),  I added a curve (Texas curve) to all of them as it is much easier than regarding, and meant I likely had not been clear in an explanation or was grading too harshly.",
+      "author": "Puzzled_Season_1881",
+      "created": 1634709719,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hhbs5jw": {
+      "link": "/r/GradSchool/comments/qbpz5v/how_do_you_grade_homework_equitably/hhbs5jw/",
+      "text": "I too am grading a stats course this semester and my professor gave me an outline of how to grade them. Ex: 5 points total for the first problem, 5 points total from the second one, etc. etc. Knowing how much the points are for each problem, I can break down the problem and see where the student can and should lose points and go from there. It still takes me about 5-7 hrs to grade 28-32 hw assignments, but at least I have an outline.\n\nFor your sake, I hope your professor gave you one too. If they haven't asked. That will save you a lot of time",
+      "author": "la7878",
+      "created": 1634705840,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

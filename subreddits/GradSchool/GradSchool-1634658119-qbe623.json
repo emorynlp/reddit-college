@@ -1,0 +1,96 @@
+{
+  "sid": "qbe623",
+  "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/",
+  "title:": "What method do you use to check your references (i.e., that you don't have extra citations in your bibliography and that you didn't forget any in text citations in your bibliography)?",
+  "text": "My labmate physically cringed when she saw that I printed out my reference pages and crossed each one off with a pen as I went through my manuscript.",
+  "author": "skullandvoid",
+  "created": 1634658119,
+  "updated": 1634750812,
+  "over_18": false,
+  "upvotes": 11,
+  "upvote_ratio": 0.92,
+  "comments": {
+    "hh8u82b": {
+      "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/hh8u82b/",
+      "text": "I use BibTeX, so this is taken care of automatically for me.",
+      "author": "TheSqrtOfNegative1",
+      "created": 1634658627,
+      "upvotes": 22,
+      "replies": {
+        "hh992pe": {
+          "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/hh992pe/",
+          "text": "Seconded. BibTeX + Zotero (with the [Better BibTeX plug-in](https://retorque.re/zotero-better-bibtex/)) is magic. One click on a browser extension button and your reference is downloaded to your library, assigned a human-readable citekey, properly formatted, and added to your bibliography. You can [even configure it to automatically use sci-hub as a fallback pdf resolver](https://gagarine.medium.com/use-sci-hub-with-zotero-as-a-fall-back-pdf-resolver-cf139eb2cea7) so you'll never have journal access problems again.",
+          "author": "tpharroawdaiygm",
+          "created": 1634664674,
+          "upvotes": 10,
+          "replies": {}
+        }
+      }
+    },
+    "hh8ue1k": {
+      "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/hh8ue1k/",
+      "text": "I use zotero. It\u2019s free and works well. You use it to add citations and it creates a bibliography based on the citations you used. You can also add references you did not explicitly cite, change the citation style, get plug-ins for different browsers, and much more.",
+      "author": "Chuot99",
+      "created": 1634658696,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "hh9465f": {
+      "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/hh9465f/",
+      "text": "I do literally the same thing as you. It's time for me to switch to a reference manager too.",
+      "author": "mas63520",
+      "created": 1634662695,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hh8y96g": {
+      "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/hh8y96g/",
+      "text": "Mendeley and zoetrope are the best tools for citations and paper management!",
+      "author": "Icy_stars",
+      "created": 1634660313,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hh9fbyc": {
+      "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/hh9fbyc/",
+      "text": "Please download a citation manager and save yourself a ton of time! I use mendeley and the word plugin you can download for it. Every time you go to cite, you click the plugin and search the paper. Then, when you're all done writing, you just click the bibliography button and it gives you a perfectly formatted works cited.",
+      "author": "souperpun",
+      "created": 1634667144,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hh939zt": {
+      "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/hh939zt/",
+      "text": "I\u2019ve found EndNote to be the best, but really any citation manager is, at least, less time-consuming than doing references by hand.",
+      "author": "singinhallelujahtoem",
+      "created": 1634662334,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hhaj7sk": {
+      "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/hhaj7sk/",
+      "text": "I do almost the same as you.\n\n  \nI add the list of potential citations to my work right at the start, and highlight them in red. Once I cite them, I remove the highlighting. Anything left at the end which is still in red gets deleted.",
+      "author": "MerbleTheGnome",
+      "created": 1634683429,
+      "upvotes": 2,
+      "replies": {
+        "hhbf2ca": {
+          "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/hhbf2ca/",
+          "text": "This works until you need to order by cited order. Zotero, refresh. Done. Highly recommend a citation manager.",
+          "author": "iaimtolose",
+          "created": 1634698473,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hhblm0d": {
+      "link": "/r/GradSchool/comments/qbe623/what_method_do_you_use_to_check_your_references/hhblm0d/",
+      "text": "I mean my method might be a little basic compared to the others, but I usually bold my in text citations as I\u2019m writing so that when I\u2019m done I can go through and un-bold them as I actually add them to my references page. For the reference page itself I use mendeley",
+      "author": "Stressydepressy1998",
+      "created": 1634701962,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

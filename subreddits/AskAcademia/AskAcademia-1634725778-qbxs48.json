@@ -1,0 +1,49 @@
+{
+  "sid": "qbxs48",
+  "link": "/r/AskAcademia/comments/qbxs48/openstreetmap_on_paper/",
+  "title:": "OpenStreetMap on paper",
+  "text": "Hello, I was asked to put a map on my paper. The map should show the position of a specific city. I don't want to deal with copyrighted material, so I was wondering, can I use a screenshot from OpenStreetMap? The screenshot would include the line  *\u00a9* [*OpenStreetMap contributors*](https://www.openstreetmap.org/copyright) *\u2665* , of course. Do you think I can use a screenshot, or should I export it? The export feature requires too much zooming to be used (the map I need should show the position of the city in a wider area, which OpenStreetMap won't let me do by exporting it).\n\nAny suggestions? I don't want to break any copyright laws.",
+  "author": "Normal_Kaleidoscope",
+  "created": 1634725778,
+  "updated": 1634750163,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hhcj8pk": {
+      "link": "/r/AskAcademia/comments/qbxs48/openstreetmap_on_paper/hhcj8pk/",
+      "text": "You should have an IP rights person you can clear this stuff with (ask your supervisor/pi) but based in a cursory reading of that licence you should be fine with a screenshot as long as you fully compy with the citation stipulation (which if you read it includes more than just citing open street map) but defer to your IP rights team",
+      "author": "IntLawprof",
+      "created": 1634728222,
+      "upvotes": 4,
+      "replies": {
+        "hhcr92t": {
+          "link": "/r/AskAcademia/comments/qbxs48/openstreetmap_on_paper/hhcr92t/",
+          "text": "Thanks! I don't have a PI, as I'm a recent PhD and I am an adjunct professor at the moment. If I am not wrong, [this](https://www.openstreetmap.org/copyright) is the page with the relevant info, right?",
+          "author": "Normal_Kaleidoscope",
+          "created": 1634733238,
+          "upvotes": 1,
+          "replies": {
+            "hhctzyf": {
+              "link": "/r/AskAcademia/comments/qbxs48/openstreetmap_on_paper/hhctzyf/",
+              "text": "yes, it says you need to link the copyright page and not just but C open street map contributors\n\nI'd still advise that you check with the IP rights clearance team, your university will have one, they may even have a resource that you can use instead of open street map",
+              "author": "IntLawprof",
+              "created": 1634734704,
+              "upvotes": 2,
+              "replies": {
+                "hhcu878": {
+                  "link": "/r/AskAcademia/comments/qbxs48/openstreetmap_on_paper/hhcu878/",
+                  "text": "Many many thanks!",
+                  "author": "Normal_Kaleidoscope",
+                  "created": 1634734823,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "sid": "qbizha",
+  "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/",
+  "title:": "Sharing conference presentation",
+  "text": "Hello,\nI am preparing presentation of labs \"big project\" for some conference. Last slide will be QR code to repository with pdf copy of presentation. But which repository would be ideal for such thing? Definitely NOT Academia edu (since it is crapy and anoing). I am considering between OSF, ResearchGate, SlideShare and FigShare. Which of these do you recomend? Or is there any better option for sharing PDFs of presentation?",
+  "author": "JacobWeisenberger",
+  "created": 1634671953,
+  "updated": 1634750166,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hh9z6kj": {
+      "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hh9z6kj/",
+      "text": "First I'd ask your PI/supervisor as the university may have a service you can use (personally have found OneDrive to be perfectly adequate especially for short term sharing)",
+      "author": "IntLawprof",
+      "created": 1634674917,
+      "upvotes": 13,
+      "replies": {
+        "hha19dr": {
+          "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hha19dr/",
+          "text": "University have OneDrive, however my plan is to made the presentation \"public\" (few parts in the pdf will be censored due to the grant agreement) and accessable to everybody with internet, and our university lack such service",
+          "author": "JacobWeisenberger",
+          "created": 1634675761,
+          "upvotes": 3,
+          "replies": {
+            "hha1ov5": {
+              "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hha1ov5/",
+              "text": "you can do that in OneDrive and SharePoint (make the link accessible to everyone), *you* probably don't have the permissions and getting IT to do it for you is probably way too much of a PITA (speaking from experience) - in that case you might want to consider Dropbox?",
+              "author": "IntLawprof",
+              "created": 1634675930,
+              "upvotes": 4,
+              "replies": {}
+            },
+            "hhaditg": {
+              "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hhaditg/",
+              "text": "At our university, we would request for it to be posted at our library's Scholarly Commons site, otherwise a temporary Dropbox link if there is no need for a lasting record. As PI, I'd definitely want to know what your plans were so I could approve them. There are certain archives that I do not use for specific grumpy reasons.",
+              "author": "Jon3141592653589",
+              "created": 1634680882,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "hharotc": {
+              "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hharotc/",
+              "text": "If your PI doesn't know contact the secretary for the dean of your college if they dont know cc your pi, the dean and email your public relations staff and office of sponsored projects with how to host it",
+              "author": "Ashelth",
+              "created": 1634687369,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "hhd6dey": {
+              "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hhd6dey/",
+              "text": "ResearchGate is better for general internet discoverability (they have great search engine optimisation). Since it sounds like you just want your presentation \"public\" rather than data I would say ResearchGate is a better option than say Open Science Foundation (OSF).\n\nAs other said below, talk and get consent from your PI/advisor.",
+              "author": "MFA_Nay",
+              "created": 1634740452,
+              "upvotes": 2,
+              "replies": {
+                "hhdu67u": {
+                  "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hhdu67u/",
+                  "text": "Thanks a lot, this is the answer I was hoping for",
+                  "author": "JacobWeisenberger",
+                  "created": 1634750032,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hhaadti": {
+      "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hhaadti/",
+      "text": "My default would be to put it on the project's GitHub, if such a thing exists for your project",
+      "author": "Semantix",
+      "created": 1634679520,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hhacdfx": {
+      "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hhacdfx/",
+      "text": "I think you're probably overthinking it - most people will just be using the pdf shortly after the presentation. If you really think that people will be using the slides for years to come then sure archive them properly, but I've just put them on a google drive in the past and that (or OneDrive) is what most people I know do.",
+      "author": "Chlorophilia",
+      "created": 1634680374,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hha60u9": {
+      "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hha60u9/",
+      "text": "Is there a reason you can't do all of the above? Archive.org may work as well if you truly don't mind it being public",
+      "author": "jabberwockxeno",
+      "created": 1634677676,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hhb795j": {
+      "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hhb795j/",
+      "text": "I use research gate and like it well enough. It also provides free access to your research but make sure to double check the conference's policy on that.",
+      "author": "Groundbreaking-Air73",
+      "created": 1634694657,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hhadd1j": {
+      "link": "/r/AskAcademia/comments/qbizha/sharing_conference_presentation/hhadd1j/",
+      "text": "I would use github but that's perhaps not the best option if it's not related to any kind of computation",
+      "author": "baenpb",
+      "created": 1634680812,
+      "upvotes": 3,
+      "replies": {}
+    }
+  }
+}
