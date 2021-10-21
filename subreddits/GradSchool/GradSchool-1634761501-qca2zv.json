@@ -1,0 +1,138 @@
+{
+  "sid": "qca2zv",
+  "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/",
+  "title:": "Am I screwed for good? I want to veer off CS into Math, but very few universities will let you do that.",
+  "text": "So, as the title says. I mean, I could go in to grad school for CS and hope that it involves math, but then will it be the same? If I cannot get into a master's program, then I have don't see any real path towards a math PhD.\n\nI don't suppose anyone around here tried to do that CS -> Math switch? If they did, I'm wondering just what they did.\n\nAre there other avenues into math that don't involve going to grad school? No self-learning, I have a hard time learning math on my own and I don't think you can learn Real Analysis, Measure Theory or Multivariable Statistics on a screen on your own. I don't think I want to go for another undergrad degree either, I don't think I have the time for it, and I'm not interested in pure math as much as I care about certain applied maths. ",
+  "author": "MysteriousEngineer0",
+  "created": 1634761501,
+  "updated": 1634849807,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 0.86,
+  "comments": {
+    "hhf7h0q": {
+      "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhf7h0q/",
+      "text": "I am a graduate student in an EECS department. I did courses on real analysis and measure theoretic probability as an EE undergrad, and courses on discrete probability and high-dimensional statistics in grad school. Most of my research is applying mathematical ideas to problems in \"CS\" and I know plenty of people in my cohort who collaborate with theoretical computer scientists, statisticians and applied mathematicians. You will find that the fields that appear very distinct and separate in undergrad will gradually all meld in to one another as you study further - borrowing ideas, techniques and even problem formulations from one another. \n\nNow, applied math is a very broad area, and I primarily interact with a small subset of people working on probability, stats, learning, etc. Are there specific problems in applied math that interest you which aren't really within the domain of theoretical cs or ee? If so, the situation is a bit more complicated.",
+      "author": "Captain_Of_All",
+      "created": 1634770070,
+      "upvotes": 2,
+      "replies": {
+        "hhfg3ny": {
+          "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhfg3ny/",
+          "text": ">Now, applied math is a very broad area, and I primarily interact with a small subset of people working on probability, stats, learning, etc. Are there specific problems in applied math that interest you which aren't really within the domain of theoretical cs or ee? If so, the situation is a bit more complicated.\n\nMachine Learning, quant finance or anything that just falls into some real-world use through Operations' Research. \n\nI wouldn't have a problem taking more undergrad courses, I would like to get some sort of degree from it, but I don't think it's necessary. I don't know if you can minor just in math or something like that.",
+          "author": "MysteriousEngineer0",
+          "created": 1634774060,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hhf9gz7": {
+      "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhf9gz7/",
+      "text": "I am trying to make the switch (to pure even), and the short answer is definitely difficult, and it will not happen without sufficient self-studying,  that's the real ugly truth.\n\nFirst of all, your first course of action is to decide exactly what you wish to do in applied math. \n\nIf there is overlap, you may be able to get into a CS programme and pick appropriate courses that are math heavy. Some programmes allow you to take courses from other departments within the same faculty.\n\nI am in a CS programme, but I am effectively doing applied mathematics, well, machine learning to be exact. I picked courses with math, and what I didn't know I covered on my own. It's not impossible, but needs a lot of dedication and many sleepless nights.\n\nI plan to get a PhD in ML, and that will be effectively applied math. During the PhD I will be going to graduate courses from the mathematics department, given that I have covered the background knowledge, just to observe, one course per half semester, by the end of the 3 year PhD, I will have covered 12 courses from the math department, so effectively have the necessary background, and get a PhD. Note that this may be infeasible and subject to change, but i am prepared to give up all of my life for it.\n\n\\----\n\nAlternative plan for you:\n\nTake a look at Master of Advanced studies/ Mast at Cambridge, it's a programme that effectively brings you up to speed for PhD studies, and doesn't have that heavy math requirements. There should be similar programmes elsewhere. But you need to figure out what you want to do and if you do that, chances are there will be overlap with CS.\n\n\\----\n\nRegardless of what you do, your solution will involve many sleepless nights of self studying,  there is no escaping that.",
+      "author": null,
+      "created": 1634770971,
+      "upvotes": 1,
+      "replies": {
+        "hhffd9d": {
+          "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhffd9d/",
+          "text": "I've thought about taking undergrad courses. I don't mind doing that, it would be nice to get a title out of it, but I figure that's not really necessary if I already have a CS title. Most people will think you're already a math junkie with that alone even if CS maths are pretty basic. Can you get just a math minor? I'm not sure if that's something you can do, but that would be interesting. \n\nWhat do I want to do? Ideally ML, but at a more serious level with understanding of the math that's going on. I know you can get into that without doing much math, I don't like that.\n\nOtherwise, I want to end up doing quant finance or something involving supply chain management.",
+          "author": "MysteriousEngineer0",
+          "created": 1634773718,
+          "upvotes": 2,
+          "replies": {
+            "hhflxbm": {
+              "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhflxbm/",
+              "text": "I considered a math minor, but it was a waste of my time.\n\nInstead I went to a very prestigious university with a top class ML department for my graduate studies. Our ML course was math heavy, and so will be your research if you take this route. But you don't need an \"applied math\" degree for this.\n\nWhat you need is a very strong foundation of linear algebra, probability theory, and vector calculus. Depending on where you go from there, you may need abstract algebra, Riemannean geometry and so on, but that means self study. \n\nIt is not impossible to do it on your own, but I do concur that a math degree is far,  far better for ML.\n\nIf you can go through a book like \"Elements of Statistical Learning\", or Bishop's, you are more than fine.",
+              "author": null,
+              "created": 1634776721,
+              "upvotes": 1,
+              "replies": {
+                "hhfmshi": {
+                  "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhfmshi/",
+                  "text": "I know a math degree is way better, but I have other ambitions and I cannot continue being a student forever.\n\nI want to run a startup as well one day, and that is simply not something that I am willing to sacrifice.\n\nMore than that, today I'm an immigrant in Canada hoping to stay and that has been taking a lot of my time as well. I wish when I was younger I would have thought more about which career I wanted, but I didn't know anything back then and went for what they told me I would probably be best at.\n\nI think I would have done CS in some way or another regardless, but I would have probably gone for economics or math if I could go back in time.\n\nI'm open to considering certain crazy paths however, I already came here to Canada pretty much on my own and have set myself up pretty well for someone who didn't know anybody here or had any family around the area whatsoever. I don't think it's impossible to do math and a startup.",
+                  "author": "MysteriousEngineer0",
+                  "created": 1634777110,
+                  "upvotes": 1,
+                  "replies": {
+                    "hhfr47b": {
+                      "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhfr47b/",
+                      "text": "I have the same thoughts but hindsight is 20/20, or so they say.\n\nA CS MSc from a good university like Waterloo or UT with emphasis in ML and self studying can get you to the level necessary for a PhD.\n\nI am getting interviewed at my university for a PhD, and my undergraduate degree had a veeeery basic linear algebra course, no multivariate calculus, and a bad probability and statistics course. So instead I studied on my own and worked my ass off. You can do it. I am not some genius or a prodigy, I am just a passionate gal with a very strong work ethic.\n\nBut I also know that I wouldn\u2019t be doing anything else other than research, so that helps a lot.",
+                      "author": null,
+                      "created": 1634779100,
+                      "upvotes": 1,
+                      "replies": {
+                        "hhfxqci": {
+                          "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhfxqci/",
+                          "text": "I don't know that I want a PhD though. Just the math. Doing a CS M.Sc. wouldn't bother me while also doing ML, but I think that's as far as I would go. I don't really have that much interest in research, just ML and the math in it. \n\nI could self learn it, yeah, but in my opinion it's not the best way for me. I've done self-learning with math, and I prefer the classroom. I think the best course of action for me if I want to do this is to get the CS MSc and then take some additional math courses for undergrad, I think that knowledge gap is the problem. \n\nAs for finance, well I don't know. If they ask for a math PhD, then not likely, but I don't know if they still ask for that. Anyway, thanks for the advice, at the very least I think I have a clearer trajectory.",
+                          "author": "MysteriousEngineer0",
+                          "created": 1634782165,
+                          "upvotes": 1,
+                          "replies": {
+                            "hhfy49o": {
+                              "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhfy49o/",
+                              "text": "Alright. I have an even better solution for you.\n\nGet the book \u201cMathematics for machine learning\u201d. Go through that, all of it, and then go through \u201cElements of statistical learning\u201d and you will be fine. You don\u2019t need anything more to understand the math and ML.",
+                              "author": null,
+                              "created": 1634782347,
+                              "upvotes": 1,
+                              "replies": {
+                                "hhg1udl": {
+                                  "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhg1udl/",
+                                  "text": "Hmm, I'll just be going through that then. Sounds like a good plan. Maybe at some point I will take some math courses, I don't know. \n\nBut those are good starting points. \n\nThanks again.",
+                                  "author": "MysteriousEngineer0",
+                                  "created": 1634784116,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "hhg2c26": {
+                                      "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhg2c26/",
+                                      "text": "Don\u2019t think about it. Feel free to contact if you need other books on things you feel you don\u2019t understand well enough. \n\nI\u2019d put a lot of emphasis on good linear algebra foundations as they if they were taught in pure mathematics. A good book here is \u201cLinear algebra done right\u201d, also a course on abstract algebra can be eye opening, I recommend \u201cA book on abstract algebra\u201d.",
+                                      "author": null,
+                                      "created": 1634784347,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "hhg3nft": {
+                                          "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhg3nft/",
+                                          "text": "I think there's an MIT course that's great for Linear Algebra. I think it is Gilbert Strang's course.",
+                                          "author": "MysteriousEngineer0",
+                                          "created": 1634785009,
+                                          "upvotes": 1,
+                                          "replies": {
+                                            "hhg4ouq": {
+                                              "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhg4ouq/",
+                                              "text": "Ah yeah true. I tried to follow but it was too slow for my liking.\n\nI recommend that you do abstract algebra first if you don\u2019t have it. It makes it much easier to understand exactly what is happening.",
+                                              "author": null,
+                                              "created": 1634785537,
+                                              "upvotes": 1,
+                                              "replies": {
+                                                "hhg724g": {
+                                                  "link": "/r/GradSchool/comments/qca2zv/am_i_screwed_for_good_i_want_to_veer_off_cs_into/hhg724g/",
+                                                  "text": "Will do, I'll check that out.",
+                                                  "author": "MysteriousEngineer0",
+                                                  "created": 1634786747,
+                                                  "upvotes": 1,
+                                                  "replies": {}
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
