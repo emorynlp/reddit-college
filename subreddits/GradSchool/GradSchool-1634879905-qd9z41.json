@@ -1,0 +1,49 @@
+{
+  "sid": "qd9z41",
+  "link": "/r/GradSchool/comments/qd9z41/advisor_deleting_my_name_out_of_project/",
+  "title:": "Advisor deleting my name out of project",
+  "text": "Hi, I'm an undergrad (senior) that worked for 1.5 years with this prof. They had some code for a web scraper that ran locally and wanted me to package the code for the lab to use. So I packaged the code, wrote the documentation, and communicated with other lab mates for a month to add/debug features. Besides the original code (which is very important of course), the PI has not contributed until recently.\n\nRecently, we had an unpleasant discussion a few months after I left the lab re: unrelated stuff. Today, I checked github and saw that they had deleted my name out of the package info. I wrote more than 50% of what it currently is on the repo. I and they are the only two that contributed to the package. I feel very slighted by this but I'm not sure if I should escalate (talk to them about it or other means). Any input would be helpful!",
+  "author": "melibauble",
+  "created": 1634879905,
+  "updated": 1635185396,
+  "over_18": false,
+  "upvotes": 10,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hhl6v26": {
+      "link": "/r/GradSchool/comments/qd9z41/advisor_deleting_my_name_out_of_project/hhl6v26/",
+      "text": "I think you should absolutely talk to someone about this. It's very unfair and could even be considered plagiarism if he's taking your work and presenting it under his name without any credit to you. I'd recommend reaching out to him and asking for your name to be reflected on the package as well. If he doesn't sort this out, then perhaps you can consider escalating it further to higher authority/your college's plagiarism committee/teaching centre.",
+      "author": "KnifeShoe",
+      "created": 1634882159,
+      "upvotes": 17,
+      "replies": {
+        "hhl82jo": {
+          "link": "/r/GradSchool/comments/qd9z41/advisor_deleting_my_name_out_of_project/hhl82jo/",
+          "text": "Thanks a lot! I feel really iffy talking to him again as he probably would gaslight me again about how little I contributed, which is untrue. I believe I did more than enough to warrant the co-author so I will muster up the courage.",
+          "author": "melibauble",
+          "created": 1634883093,
+          "upvotes": 5,
+          "replies": {
+            "hhoe93i": {
+              "link": "/r/GradSchool/comments/qd9z41/advisor_deleting_my_name_out_of_project/hhoe93i/",
+              "text": "Every school has guidelines for authorship. Before going to your professor, read those guidelines.\nI worked over an entire summer collecting and analyzing samples for 2 grad students. I wasn't made an author because I didn't come up with the idea or do any of the writing. It might be a similar case at your school. Authorship might just be limited to those that wrote the paper.",
+              "author": "Gloomy_Patience_7900",
+              "created": 1634941860,
+              "upvotes": 4,
+              "replies": {
+                "hhohgud": {
+                  "link": "/r/GradSchool/comments/qd9z41/advisor_deleting_my_name_out_of_project/hhohgud/",
+                  "text": "This isn't for a paper and just a lab tool. I plan to link this code as one of my contributions in my grad school application.  \nFor the paper that used the tool, I also wrote the paper and 2nd authored it. But I'll definitely look into guidelines regarding authorship about tangibles/code. That's a good pointer thanks!",
+                  "author": "melibauble",
+                  "created": 1634943455,
+                  "upvotes": 4,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

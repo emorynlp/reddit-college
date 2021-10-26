@@ -1,0 +1,38 @@
+{
+  "sid": "qffm3e",
+  "link": "/r/GradSchool/comments/qffm3e/data_storage_question/",
+  "title:": "Data storage question",
+  "text": "How do you store your project data? Any recommendations for external hard drives that work with macs? \n\nIf it makes a difference, I am specifically working with microbiome data and using r to code.",
+  "author": "bdrunkowitz",
+  "created": 1635164888,
+  "updated": 1635185313,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hhzfnez": {
+      "link": "/r/GradSchool/comments/qffm3e/data_storage_question/hhzfnez/",
+      "text": "Talk to your PI about data storage options as this should be funded by them. Your university may even provide a free service. Rule of thumb is duplication, meaning at least one hard drive and one on the cloud.",
+      "author": "rox_et_al",
+      "created": 1635169149,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hhzsic0": {
+      "link": "/r/GradSchool/comments/qffm3e/data_storage_question/hhzsic0/",
+      "text": "We have a specific network drive for our lab.\nAlso use the unlimited storage perk of the University Google Drive or One Drive.\nAlso use an external hard drive bought with project money.\n\nIf you need to share with others/collaborate, and a network drive through IT isn't possible, consist a NAS, a networked hard drive.",
+      "author": "blteare",
+      "created": 1635174945,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hi03z2v": {
+      "link": "/r/GradSchool/comments/qffm3e/data_storage_question/hi03z2v/",
+      "text": "What the other poster said. You need a backup of the backup, and it needs to be in a different location.",
+      "author": "raistlin65",
+      "created": 1635179689,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

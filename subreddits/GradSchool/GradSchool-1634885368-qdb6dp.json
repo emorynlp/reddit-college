@@ -1,0 +1,110 @@
+{
+  "sid": "qdb6dp",
+  "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/",
+  "title:": "Thinking of picking up a used iPad for PDF annotation. Do you foresee any problems for my workflow?",
+  "text": "I use Linux on a laptop for 100% of my research and writing (and everything else) right now but I need a better setup for the singular task of working with PDFs (articles and sometimes photocopies).\n\nI'd be getting it for this one purpose and it doesn't need to do anything else. I need it to be an uncomplicated workflow but within the constraints of how I allow devices/software to integrate with my life, which Apple tends to want to make near-impossible in my past experience.\n\nI would have it disconnected from the Apple account except for software updates. And I'd ideally use something like Signal to get PDFs on and off the device quickly.\n\nCan apps like Notability or GoodNotes export locally without an Apple account logged in? Can Signal pick up and send locally stored files easily? Can Signal on iPad just be synced with the account attached to my phone number?\n\nI'm asking because I've had serious problems in the past with how Apple allows (or rather, doesn't) things like accessing/manipulating the file system, the interoperability of different apps, and the impact of whether or not the user is connected to an Apple account. I realise I have some unique constraints but I'm hoping someone will be able to quickly throw up a red flag if they know from experience that my intended workflow here is going to be a problem with those constraints.\n\nThanks!",
+  "author": "_ixthus_",
+  "created": 1634885368,
+  "updated": 1635185483,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hhlfeik": {
+      "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhlfeik/",
+      "text": "I\u2019ve not used any of these apps before, but one possible workaround could be to upload marked up PDFs to Google Drive/Dropbox and access them that way, thus diverting any software compatibility issues. \n\nGood luck!",
+      "author": "singinhallelujahtoem",
+      "created": 1634889123,
+      "upvotes": 2,
+      "replies": {
+        "hhlmgj4": {
+          "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhlmgj4/",
+          "text": "Thanks for the suggestion.\n\nUnfortunately, I don't use GDrive or Dropbox for the same sorts of reasons I use Linux and would never have the device logged into Apple's account.\n\nI use a cloud storage service called Tresorit which might serve the purpose. But there's no way it'll be integrated with the apps like Notability, as I assume Google and Dropbox are. And trying to use Tresorit on an iPhone is exactly my previous experience with how bad Apple is at letting their users interact with the file system in the most elementary ways.",
+          "author": "_ixthus_",
+          "created": 1634895428,
+          "upvotes": 1,
+          "replies": {
+            "hhlpvwo": {
+              "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhlpvwo/",
+              "text": "No worries, I just assumed you could directly upload files to Google Drive through a mobile web browser as you can on a desktop. Does Tresorit have that capability? It's far from ideal but might serve a purpose. \n\nYou should be able to create a user account separate from your Apple account on something like Notability. The only thing you'd need an Apple account for is to download the app. Perhaps even something as basic as emailing annotated PDFs to yourself maybe your only option if you're not able to use services like Google Drive.\n\nSorry, I wish there was better advice I could give!",
+              "author": "singinhallelujahtoem",
+              "created": 1634898265,
+              "upvotes": 1,
+              "replies": {
+                "hhlzg5f": {
+                  "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhlzg5f/",
+                  "text": "> I just assumed you could directly upload files to Google Drive through a mobile web browser as you can on a desktop. Does Tresorit have that capability? It's far from ideal but might serve a purpose.\n\nYeh, it does. But it would be such a headache. Not good for the use I have in mind.\n\n> The only thing you'd need an Apple account for is to download the app.\n\nHaha, yep, that's pretty much the plan.\n\nI'm glad I just heard from another user that the default PDF viewer can annotate and save them directly to the file. So I may not even need something like Notability and whatever they may want/need me to sign up and log in to...\n\n> Perhaps even something as basic as emailing annotated PDFs to yourself...\n\nYeh, it wouldn't be a bad option to be honest. But I already use Signal to move files on and off my phone and it's a really friction-less way to do it. I'm expecting it to just work the same on an iPad but don't want to invest without confirming.\n\n> Sorry, I wish there was better advice I could give!\n\nHaha, no, thanks for the ideas!",
+                  "author": "_ixthus_",
+                  "created": 1634904696,
+                  "upvotes": 2,
+                  "replies": {
+                    "hhmvlom": {
+                      "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhmvlom/",
+                      "text": "I can second that the default PDF viewer (on iPhone at least) is pretty good, if a little basic, but it depends on what you ultimately need. On iPad it'd be even better, particularly with something like an Apple Pencil/stylus.",
+                      "author": "singinhallelujahtoem",
+                      "created": 1634918748,
+                      "upvotes": 1,
+                      "replies": {
+                        "hhopz3b": {
+                          "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhopz3b/",
+                          "text": "Maybe you could confirm this for me. The default viewer has basic annotating functionality and can bake the annotations back into the file. But I take it that it won't do fancier stuff like broader note-taking, extracting annotations/highlights, etc? (I don't necessarily need it to; just want to understand what it does and doesn't do.)",
+                          "author": "_ixthus_",
+                          "created": 1634947808,
+                          "upvotes": 2,
+                          "replies": {
+                            "hhpw5i4": {
+                              "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhpw5i4/",
+                              "text": "Correct. It really is basic, but it\u2019s fine for the vast majority of instances.",
+                              "author": "singinhallelujahtoem",
+                              "created": 1634973820,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hhlrtno": {
+      "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhlrtno/",
+      "text": "I have an iPad for pdf reading and annotating and use a combination of Linux, windows, and macOS for desktop computing. \n\nI just use the built in pdf reader for my annotating as that has the best writing input IMO. You can save those as PDFs with your new annotations directly there. You can also use good note I know, but I haven\u2019t tried the others. As for file sharing, you could probably use signal or or something similar. Cloud storage would certainly be the easiest file transfer and storage option I\u2019d think. If you don\u2019t want to use google drive, box, or drop box, and you\u2019re a desktop Linux user, you could probably figure out how to set up a NAS at home or an OwnCloud.",
+      "author": "ThrowawayHistory20",
+      "created": 1634899755,
+      "upvotes": 1,
+      "replies": {
+        "hhlyx46": {
+          "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhlyx46/",
+          "text": "> I have an iPad for pdf reading and annotating...\n\n> I just use the built in pdf reader for my annotating as that has the best writing input IMO. You can save those as PDFs with your new annotations directly there.\n\nGreat to know, thanks for weighing in. I didn't know that it just had default software that could handle annotations.\n\nSo, when you save the PDFs + annotations directly to the device, those files are readily accessible to other apps that handle files?\n\nWhich iPad do you have? What, if any, considerations are there for which model I try to source for this usage?\n\n> ... you could probably figure out how to set up a NAS at home or an OwnCloud.\n\nAppreciate the suggestion but it would be overkill for this one use case. We just don't really need cloud storage generally. I mentioned I use Tresorit but I use it as an archive - stuff goes on there that never really gets touched; we don't work from it regularly.",
+          "author": "_ixthus_",
+          "created": 1634904381,
+          "upvotes": 1,
+          "replies": {
+            "hhm0ulg": {
+              "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhm0ulg/",
+              "text": "Yes, when you save PDFs they\u2019re accessible by anything else you allow to access your files on the device. The file structure and file explorer are quite robust and honestly more intuitive than on macOS on desktop.\n\nI have a second gen iPad Air I think. Any of the iPads from the last two or three years now I think accept input from the pencil, which is the biggest consideration I think. I upgraded to the air in hopes of future proofing a bit, plus it has a nicer laminated display that the base iPad doesn\u2019t have that\u2019s supposed to reduce glare and eye fatigue. I also just was able to get a great deal on a refurbished one from Apple so that helped.",
+              "author": "ThrowawayHistory20",
+              "created": 1634905499,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hhpt2l9": {
+      "link": "/r/GradSchool/comments/qdb6dp/thinking_of_picking_up_a_used_ipad_for_pdf/hhpt2l9/",
+      "text": "I use Notability to annotate PDFs on my iPad. There\u2019s an option on the app for backup storage, so I linked my Google Drive account there and set it to upload any PDFs I opened in Notability. That\u2019s worked pretty well so far, and doesn\u2019t require an Apple account iirc",
+      "author": "sisyphus753",
+      "created": 1634971176,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

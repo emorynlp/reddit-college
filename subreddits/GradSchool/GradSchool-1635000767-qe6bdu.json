@@ -1,0 +1,38 @@
+{
+  "sid": "qe6bdu",
+  "link": "/r/GradSchool/comments/qe6bdu/meng_vs_masc_vs_msc_thesis_in_integrated_circuits/",
+  "title:": "M.Eng vs M.ASc vs MSc Thesis in Integrated Circuits and Design - Canada",
+  "text": "Hello folks, \n\nCurrently have admissions to start in Jan term in these programs and looking for advice on how this would play out long term in regards to having a high-end career in integrated circuits and design in the States. Don't plan on staying in Canada after masters or doing a PhD. \n\nIs an MSc Thesis (would show up as MSc in Electrical and Computer Engineering) the same thing as a MASc? What implications would it have in starting off my career and finding/starting my career post-grad? \n\nM.Eng is more courses and with the MSc Thesis I get to entirely design a chip from scratch to fabrication and publish. How well does that play out to finding both a solid job at high-end companies post-grad? \n\nWould sincerely appreciate any kind of advice, lookouts, things to be careful for etc. Thank you very much in advance!",
+  "author": "snow-6",
+  "created": 1635000767,
+  "updated": 1635185360,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hhr78mf": {
+      "link": "/r/GradSchool/comments/qe6bdu/meng_vs_masc_vs_msc_thesis_in_integrated_circuits/hhr78mf/",
+      "text": "Yeah, I am planning to apply too, but I too got confused regarding the job aspects and to select between MASc and MEng",
+      "author": "Ok_Transition5930",
+      "created": 1635006700,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hhtg1xw": {
+      "link": "/r/GradSchool/comments/qe6bdu/meng_vs_masc_vs_msc_thesis_in_integrated_circuits/hhtg1xw/",
+      "text": "MAsc is the same as MSc, just depends on the institute. It comes from a time when engineering was referred to as applied sciences. \n\nMEng really depends on the school. A lot of graduate programs barely offer any industry useful courses. At least doing a MSc thesis shows you can perform research and technical communication.",
+      "author": "JJLU98",
+      "created": 1635043970,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hhtm30n": {
+      "link": "/r/GradSchool/comments/qe6bdu/meng_vs_masc_vs_msc_thesis_in_integrated_circuits/hhtm30n/",
+      "text": "MASc and MSc are usually the same in that they have a research component, and you get to get at least one chip tapeout assuming your professor has funding and you start early enough in your degree. MEng is usually course-based and you don't get a stipend while for MASc and MSc I think many of the Canadian schools guarantee a small stipend. \n\nHaving tapeout experience is really valuable for getting jobs in chip design, I would definitely prioritize that over course work which is why I think MASc is better. But do try to take as many courses as you can, even beyond the minimum requirements for the degree if it's an MASc/MSc because you'll be paying tuition anyway and theoretical knowledge comes in handy pretty often when you're working in chip design.\n\nOut of curiosity, can I ask what school/field of IC you're considering? I'm also doing IC design in Canada, currently working on my MASc at Waterloo.",
+      "author": "ezemasterrace",
+      "created": 1635047177,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}
