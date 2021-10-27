@@ -1,0 +1,48 @@
+{
+  "sid": "qgjaul",
+  "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/",
+  "title:": "What skills to develop during PhD?",
+  "text": "Hello everyone,\nWhat specific skills would you suggest develop during PhD? They could be technical or soft ones.",
+  "author": "myillusion13",
+  "created": 1635291408,
+  "updated": 1635302298,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "hi6nkkv": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi6nkkv/",
+      "text": "Learn R. \n\nLearn how to write a journal article for publication and get it published. This includes learning how citation politics work. \n\nLearn how to write and win grants. \n\nLearn how to avoid the toxic people in your field and school. \n\nLearn how to say \u201cno\u201d. \n\nLearn to prioritize sleep and health before everything else. \n\nLearn a hobby that has nothing to do with your field of study.",
+      "author": "cdougherty",
+      "created": 1635293535,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hi6kr6t": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi6kr6t/",
+      "text": "How to survive on beer, Mike-n-Ikes, and spite for days on end.\n\nMore seriously; if you are in *any* vaguely data-related field and don't know how to program...get on it. Being able to quickly and efficiently sift through heaps of poorly-organized data collected by someone else is *incredibly* useful.\n\nAlso, as much as it pains me; the above also includes learning how to manipulate data in Excel. Yes, it's painful, tedious, and a waste of your talents, but in a lot of settings outside of academia that may be the best you have access to until you can build up a library of scripts/functions in your programming language of choice that allow you to function in your workplace's data environment.\n\nAlso, not really a talent, but; get in the habit of exercising *before* or (at the latest) early on in grad school before things get tough. It's good for both your physical and mental health to work out your frustrations physically.",
+      "author": "r3dl3g",
+      "created": 1635292251,
+      "upvotes": 3,
+      "replies": {
+        "hi6ni1i": {
+          "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi6ni1i/",
+          "text": "I want to second the programming thing (if as mentioned your field will have anything to do with data). I would recommend learning Python or R as they are both free and relatively easy to learn and should be able to do anything you need them to do. If you don't already know a language, I would recommend Python as it is a general purpose language and is therefore more flexible. Being able to program the analysis will save you tons of time, increase the reproducibility of your research, and allow you to do more complicated analyses.",
+          "author": "sensorimotorneuro",
+          "created": 1635293503,
+          "upvotes": 1,
+          "replies": {
+            "hi6o1rw": {
+              "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi6o1rw/",
+              "text": "I'd also recommend Python as a general-purpose language in part because, if you end up in an academic lab or a serious government/private lab, you'll probably end up having access to something like MATLAB, which itself is easy to transfer to if you've learned Python.",
+              "author": "r3dl3g",
+              "created": 1635293746,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

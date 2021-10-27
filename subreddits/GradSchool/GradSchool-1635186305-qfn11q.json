@@ -1,0 +1,22 @@
+{
+  "sid": "qfn11q",
+  "link": "/r/GradSchool/comments/qfn11q/specimen_working_database_suggestions/",
+  "title:": "Specimen Working Database Suggestions?",
+  "text": "Hi all,\n\nThe foundation of my lab's work and consequentially my MS thesis is a freezer full of \\~8000 insect specimens sampled from a wide geographic range. Ideally, we will end up sequencing the CO1 mitochondrial gene for the majority of these specimens. For this to happen we need to go through a series of steps for each and every insect:\n\n* DNA extraction\n* Measure of DNA extract concentration\n* Amplification of CO1 gene using extract template\n* Gel electrophoresis to verify PCR success\n* PCR cleanup\n* Measure of post-cleanup DNA concentration\n* Shipping to separate facility for sequencing\n\nRight now there are three of us working with the specimens. We each have a set of specimens prioritized for answering our individual research questions, but there is considerable overlap. \n\nWe are tracking **ALL** of this with two excel spreadsheets uploaded to a cloud service (plenty of duplicate backups too). Every time one of us chips away at a step for a specimen we download the spreadsheet from the cloud, make the change, and reupload the file with a new name reflecting the date and an entry in a changelog. **I DO NOT like this process**. I frequently have to merge sheets by hand because someone forgets to pull the latest version before making changes, or makes their changes in brand new spreadsheet branched off the main.\n\n**Does** ***anybody*** **have suggestions on how to manage a specimen database where multiple people are updating the working statuses of entries, and each status update has its own variables to track?**\n\nWe are all proficient in R, and I'm willing to try to convince my lab to pick up another language proficiency if it helps sort this mess. \n\nThank you for reading my rant.",
+  "author": "AspiringIvory",
+  "created": 1635186305,
+  "updated": 1635302977,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hi0s48f": {
+      "link": "/r/GradSchool/comments/qfn11q/specimen_working_database_suggestions/hi0s48f/",
+      "text": "Have you tried git/GitHub?",
+      "author": "Grimsley0",
+      "created": 1635189505,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}
