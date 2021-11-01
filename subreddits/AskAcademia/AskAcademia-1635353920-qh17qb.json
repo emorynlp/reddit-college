@@ -1,0 +1,39 @@
+{
+  "sid": "qh17qb",
+  "link": "/r/AskAcademia/comments/qh17qb/software_which_marks_the_important_notes_in_a/",
+  "title:": "Software which marks the important notes in a research papers",
+  "text": "Recently I saw a advertisement on YouTube regarding an application which let you search for most cited papers and most importantly it has highlighted notes on those papers based on the past readers experience...\nUnfortunately I didn't record the name of the application..\n\nDoes anyone know any such software... It's a free software...",
+  "author": "LongAd4467",
+  "created": 1635353920,
+  "updated": 1635456594,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hicfsv1": {
+      "link": "/r/AskAcademia/comments/qh17qb/software_which_marks_the_important_notes_in_a/hicfsv1/",
+      "text": "It called a pen.",
+      "author": "ohnoyoudin",
+      "created": 1635397159,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hiextzz": {
+      "link": "/r/AskAcademia/comments/qh17qb/software_which_marks_the_important_notes_in_a/hiextzz/",
+      "text": "Doing this via phone, so I won't add links, but feel free to reply and I'll update this evening.\n\nCitation management tools:\nZotero, Mendeley, EndNote, Paperpile, and others all are citation management tools that allow for PDF note highlighting by you, but I'm not sure if any released a new feature to see highlights from other people.\n\nSemantic Scholar is a great tool that mostly focuses on computer science and some computational sciences. It has a new machine learning feature that highlights sections of papers (which I guess is past experience when considering the training data). I don't know that they have ads though.\n\nHypothesis is an annotation tool that allows for public annotation of webpages and PDFs. That aligns more with the highlights based on past reader experience part.",
+      "author": "a-perpetual-novice",
+      "created": 1635446699,
+      "upvotes": 1,
+      "replies": {
+        "hif32aw": {
+          "link": "/r/AskAcademia/comments/qh17qb/software_which_marks_the_important_notes_in_a/hif32aw/",
+          "text": "Thanks for the reply...\n\n none of them is the app of which I saw the advertisement...\nBut This is informative.. semantic scholar is good app...",
+          "author": "LongAd4467",
+          "created": 1635448787,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "sid": "qh879d",
+  "link": "/r/AskAcademia/comments/qh879d/time_to_completion_computational_vs_benchwork/",
+  "title:": "Time to completion: computational vs benchwork",
+  "text": "I know this might be slightly specific to biomedical sciences, but can I ask for some anecdotal comments on the time to PhD completion for thesis based on primarily on computational work vs benchwork? Thank you so much!",
+  "author": "Kenny2440",
+  "created": 1635373323,
+  "updated": 1635456590,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hib5ngu": {
+      "link": "/r/AskAcademia/comments/qh879d/time_to_completion_computational_vs_benchwork/hib5ngu/",
+      "text": "I came out of a PhD program with both computational and bench scientists and I supervise both computational and bench scientists (who have a heavy computational component) in my lab. In my experience, there's not that much difference between computation and non-computation. The two main axes of variation I see are experience vs. not experience and descriptive vs. interpretive/theoretical.\n\nIn the life sciences, informatics and programming aren't well-integrated in many undergrad curricula, so often times PhD students are spending a lot of time learning. That's not to say that isn't the case with bench folks, but often they have at least the basics of pipetting, solution making, etc. And it tends to be easier to find labs to get bench/empirical research experience. The two people with the shortest completion in my cohort were both bench scientists with gobs of experience.\n\nI've also observed that sometimes benchwork is more OK being descriptive. You grow a cell line under three conditions and describe the differences, run some basic stats, etc. Whereas with computation, in order for something to be publishable, it might need to include a novel algorithm, new way of analyzing the data that results in a different answer, or connection to a larger body of theory. \n\nSo I don't think it's computational vs. not.",
+      "author": "StorageRecess",
+      "created": 1635375209,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hibjlls": {
+      "link": "/r/AskAcademia/comments/qh879d/time_to_completion_computational_vs_benchwork/hibjlls/",
+      "text": "Overall there weren't huge differences in my PhD program, and it depends more on the specific PI and project (like everything else). In either environment projects might not work as planned, PIs might want to rush you or keep you longer, writing could take a long time, etc. \n\nOne possible difference is that for bench work, there's a finite amount of space to work in, so there might be a bit of pressure to make space for new students compared to computational work, but that matters if you are trying to delay graduating rather than trying to finish sooner.",
+      "author": "JHT230",
+      "created": 1635381444,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hibgvkd": {
+      "link": "/r/AskAcademia/comments/qh879d/time_to_completion_computational_vs_benchwork/hibgvkd/",
+      "text": "r/PhD\n\nedit: It's a suggestion to get more help. No need to downvote because I want to help lmao",
+      "author": "methomz",
+      "created": 1635380251,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

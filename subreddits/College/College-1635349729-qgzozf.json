@@ -1,0 +1,49 @@
+{
+  "sid": "qgzozf",
+  "link": "/r/college/comments/qgzozf/is_it_fine_to_ask_my_professor_what_her_grading/",
+  "title:": "Is it fine to ask my professor what her grading system is?",
+  "text": "She already gave the requirements and their corresponding percentages but I want to no how she treats each grade individually.\n\nLike, we have three requirements:\n\n- 8 Reading Assignments (50%)\n- 4 Quizzes (25%)\n- 4 Reflection Papers (25%)\n\nFor the Reading assignments specifically, it\u2019s out of 50. \n\nWhat is the usual computation that happens?\n\nLike, Get the average by adding the scores then multiply by 50%? Or doing the same but instead of the scores, it\u2019s the percentages like 90% if I got a 45.\n\nCould it also be adding all of the scores then multiplying them by 50%?\n\nI have teachers who\u2019ve done these different computations and it\u2019s making it difficult to gauge my performance.",
+  "author": "JirohSalonga",
+  "created": 1635349729,
+  "updated": 1635457080,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.66,
+  "comments": {
+    "hi9ekhv": {
+      "link": "/r/college/comments/qgzozf/is_it_fine_to_ask_my_professor_what_her_grading/hi9ekhv/",
+      "text": "What you\u2019ve listed are the category weights.\n\nThe final grade of each category is worth __% of your final grade.\n\nSo, if your average on all the reading assignments is 80%, you then multiply by .5 and get 40% towards your final grade. Do this with each category.\n\nI have no idea what math you\u2019re doing, but the way you\u2019ve explained it none of those would produce a correct answer.",
+      "author": "Casual-Economist",
+      "created": 1635350274,
+      "upvotes": 3,
+      "replies": {
+        "hi9fk9m": {
+          "link": "/r/college/comments/qgzozf/is_it_fine_to_ask_my_professor_what_her_grading/hi9fk9m/",
+          "text": "That\u2019s what I usually do but it seems my previous teachers do other stuff",
+          "author": "JirohSalonga",
+          "created": 1635350675,
+          "upvotes": 0,
+          "replies": {
+            "hi9fu5r": {
+              "link": "/r/college/comments/qgzozf/is_it_fine_to_ask_my_professor_what_her_grading/hi9fu5r/",
+              "text": "They definitely don\u2019t, because that math simply wouldn\u2019t work. I think you\u2019ve just misunderstood their grading",
+              "author": "Casual-Economist",
+              "created": 1635350787,
+              "upvotes": 3,
+              "replies": {
+                "hi9fzob": {
+                  "link": "/r/college/comments/qgzozf/is_it_fine_to_ask_my_professor_what_her_grading/hi9fzob/",
+                  "text": "That\u2019s gotta be it.\n\nThanks btw",
+                  "author": "JirohSalonga",
+                  "created": 1635350849,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

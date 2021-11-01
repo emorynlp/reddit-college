@@ -1,0 +1,116 @@
+{
+  "sid": "qgy1ux",
+  "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/",
+  "title:": "Has anyone experience with using version control software (like Github) for collaborating on a manuscript within or without a lab?",
+  "text": "I've been collaborating with my labmate on a manuscript we're hoping to submit soon, and it's been rather frustrating when we had to compare changes. He's been using comments on Latex to keep old text available and it's not very readable in the editor anymore.\n\nI'm thinking of proposing we use a github repo for figures, bibliography and the .tex file for future manuscripts, as it will resolve the need to preserve old texts, and will also allow us to resolve conflicts when editing the same lines.\n\nIs using github for such a bad idea, or is it fine?",
+  "author": "Hoihe",
+  "created": 1635345176,
+  "updated": 1635456592,
+  "over_18": false,
+  "upvotes": 6,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hi93tr6": {
+      "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hi93tr6/",
+      "text": "I\u2019ve done it before. It works fine but expect to deal with more merge conflicts than in typical code unless you\u2019re really working on separate pieces of the manuscript.\n\n[Overleaf](https://www.overleaf.com/) is a lot easier for latex collab than GitHub, IMO",
+      "author": "RadDadJr",
+      "created": 1635345895,
+      "upvotes": 12,
+      "replies": {
+        "hi964i6": {
+          "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hi964i6/",
+          "text": "Overleaf seems a bit too expensive from a Hungarian perspective, alas.  \n\nMerge conflicts I think could be resolved.\n\nedit: I am blind and did not notice the academic/student option.\n\nIgnore my complaints!",
+          "author": "Hoihe",
+          "created": 1635346831,
+          "upvotes": 4,
+          "replies": {
+            "hi99hrd": {
+              "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hi99hrd/",
+              "text": "I've been using it completely for free! The only 'downside' (as far as I can see) is that to collaborate, you have to use a share link -- which costs you about 10 seconds to do.",
+              "author": "jippiedoe",
+              "created": 1635348207,
+              "upvotes": 5,
+              "replies": {
+                "hi9a5sh": {
+                  "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hi9a5sh/",
+                  "text": "Yeah, I was blind and I didn't see the student pricing options button :v.",
+                  "author": "Hoihe",
+                  "created": 1635348473,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "hid7awx": {
+                  "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hid7awx/",
+                  "text": "If you use the free version (the only one that make sense given their huge price), you cannot track changes/see who did what",
+                  "author": "lucaxx85",
+                  "created": 1635419017,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hi99qcm": {
+          "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hi99qcm/",
+          "text": "Overleaf (free version)also integrates with git so you can have it both ways.",
+          "author": "blakehannaford",
+          "created": 1635348302,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hi97rnb": {
+      "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hi97rnb/",
+      "text": "Git+Latex works well, but a few small steps will make your life easier while using it:\n\n* Enforce 1 sentence per line. if you write a whole paragraph on one line, and your friend changes one word, then suddenly the whole paragraph has a merge conflict. If each line only has one sentence, then fewer conflicts. \n* Commit early, commit often. And make edits in discrete, modular branches. This also limits merge conflicts, and will make it easier to track down past changes\n* Store figures and other binary files on dropbox or some other cloud service. On your computer, create a symbolic link to the cloud folder, and use this path in your Latex file for referencing figures. Keeping binary files on git is bad practice. \n* Maintain a consistent and sensible scheme for naming the keys to bibliography keys, something like \"author\\_year\\_descriptor\", like \"smith\\_2020\\_mRNA\". \n* Be sure to set up your .gitignore to ignore all of the files LaTeX generates. You really only need the .tex file",
+      "author": "wise_garden_hermit",
+      "created": 1635347507,
+      "upvotes": 4,
+      "replies": {
+        "hicksmd": {
+          "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hicksmd/",
+          "text": "> Enforce 1 sentence per line. if you write a whole paragraph on one line, and your friend changes one word, then suddenly the whole paragraph has a merge conflict. If each line only has one sentence, then fewer conflicts.\n\nIf this is not enforced, then normal diffs can be hard to read too. With this \"di\" alias in `~/.gitconfig`, with a `git di` you get only words, not lines(/paragraphs) highlighted in your diff:\n\n```\n[alias]\n    di = diff --color-words\n```",
+          "author": "mumblerfish",
+          "created": 1635400620,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hi93k7z": {
+      "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hi93k7z/",
+      "text": "I have used git over dropbox for manuscript editing. Even with no one but myself using it -- meaning I take care of committing others' edits -- eased the process quite a bit. If you are going to use a proper host like github, just make a private repo (if they offer them, else gitlab does) to do the edits in, that should be fine.",
+      "author": "mumblerfish",
+      "created": 1635345786,
+      "upvotes": 3,
+      "replies": {
+        "hi97pyd": {
+          "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hi97pyd/",
+          "text": "Do you know if Gitlab mandates going premium if more than 1 person collaborates on a project? Their pricing page is not very... explicit on this.",
+          "author": "Hoihe",
+          "created": 1635347487,
+          "upvotes": 2,
+          "replies": {
+            "hi9a0lv": {
+              "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hi9a0lv/",
+              "text": "Don't know, sorry.",
+              "author": "mumblerfish",
+              "created": 1635348416,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hiexk4a": {
+      "link": "/r/AskAcademia/comments/qgy1ux/has_anyone_experience_with_using_version_control/hiexk4a/",
+      "text": "My lab has used git exclusively for collaboration on papers for the last 5 or 6 years now. Like 50+ papers we've written using git.\n\nWorks great.\n\nOverleaf is easy to use, but is really quite bad in practice, imo at least.\n\nIf you are able to get over technical hurdles with git, it is, by far, the best choice.",
+      "author": "worst",
+      "created": 1635446592,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

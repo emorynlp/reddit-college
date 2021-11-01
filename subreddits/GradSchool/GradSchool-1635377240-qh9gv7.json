@@ -1,0 +1,30 @@
+{
+  "sid": "qh9gv7",
+  "link": "/r/GradSchool/comments/qh9gv7/mac_air_2020_or_dell_xps_linux/",
+  "title:": "Mac Air 2020 or Dell XPS (Linux)",
+  "text": "I am currently deciding between a macair and a dell xps 9305. The use of it will be for me have remote access from any device and  I plan on compiling tex files and programs via the command line through ssh. I have an external SSD drive attached to it. It will also be my primary machine when I am at home. The dell xps will come as a windows, but I can easily replace the OS with ubuntu. I also plan on integrating it with git so i can put all my files on github.\n\nmy field is statistics, so i plan on putting in R, markdown, and python files in the future. I will also be putting in some Java/C/C++ files. Currently, its mostly tex files and pdfs.\n\nI would like to have a mac for the sake of having a mac - though for computing perhaps a mac pro is better - and that it also behaves like a unix, however I just want to check in with you all before I make a decision on which laptop to get. Are there any additional pros to getting a mac air?",
+  "author": "phdstruggs",
+  "created": 1635377240,
+  "updated": 1635457646,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hibcnm6": {
+      "link": "/r/GradSchool/comments/qh9gv7/mac_air_2020_or_dell_xps_linux/hibcnm6/",
+      "text": "I had an Air and I loved it. I only have a Pro now because the lab bought it for me. I do bioinfomatics. The only issue I run into is that I can't use GIS that well on a Mac but I can just virtually log into a different computer for that.",
+      "author": "_War_Paint_",
+      "created": 1635378371,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hifgz0x": {
+      "link": "/r/GradSchool/comments/qh9gv7/mac_air_2020_or_dell_xps_linux/hifgz0x/",
+      "text": "Not a direct answer, but some things to consider that you do not mention in this post:\n\n1. What OSes have you used in the past/do you feel comfortable with? \n2. Do you have tasks outside of your main research work that might require additional programs to what you list here (e.g., teaching, administrative stuff, etc.)?\n3. How much is portability a concern? What is your personal portability limit?\n\nI'm in biostats and I'm a fan of WSL for my work. Somehow, I've never gotten along with OS X/macOS very well. I'm stuck on Windows 10 + WSL2 due to my laptop's age, but it suits me much better than Ubuntu alone or a dual-boot setup. I especially like that I can pick and choose whether I prefer the Windows or Ubuntu version of different programs and have them all open without needing to restart my computer. It sounds like the new Windows 11 + WSLg combo is even more seamless.",
+      "author": "aggressive-teaspoon",
+      "created": 1635454349,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}
