@@ -1,0 +1,47 @@
+{
+  "sid": "qijbxg",
+  "link": "/r/GradSchool/comments/qijbxg/anyone_know_of_a_software_like_dropbox_thats_free/",
+  "title:": "Anyone know of a software like Dropbox that\u2019s free?",
+  "text": "After a pretty big data loss scare, I have decided that it is dumb of me to only have my data backed up onto a physical drive. I\u2019ll pay for Dropbox if I have to, but I\u2019d obviously rather find a free version haha. I have about 400GB of data (in pictures) so far, so I expect I\u2019ll gather another 400GB by summer.",
+  "author": "_johnfketamine",
+  "created": 1635532548,
+  "updated": 1635780477,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.76,
+  "comments": {
+    "hikxosw": {
+      "link": "/r/GradSchool/comments/qijbxg/anyone_know_of_a_software_like_dropbox_thats_free/hikxosw/",
+      "text": "Sometime you have to pay. Most free versions have limits around 5-10 gb",
+      "author": "CMRattray2020",
+      "created": 1635551886,
+      "upvotes": 3,
+      "replies": {
+        "hil2fpt": {
+          "link": "/r/GradSchool/comments/qijbxg/anyone_know_of_a_software_like_dropbox_thats_free/hil2fpt/",
+          "text": "MEGA used to offer 1 TB but at some point they switched down to 20 GB",
+          "author": "exurl",
+          "created": 1635554165,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hik6zxw": {
+      "link": "/r/GradSchool/comments/qijbxg/anyone_know_of_a_software_like_dropbox_thats_free/hik6zxw/",
+      "text": "There are things like ownCloud which are open source and self-hosted. That would let you auto-sync files across any number of computers *that you have access to*.",
+      "author": "InfanticideAquifer",
+      "created": 1635540220,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hijouvv": {
+      "link": "/r/GradSchool/comments/qijbxg/anyone_know_of_a_software_like_dropbox_thats_free/hijouvv/",
+      "text": "If you don't need automatic syncing like Dropbox has, I would assume there's cheaper cloud-based storage out there.\n\nI would search and ask questions at r/datahoarder. They're always looking for cheap ways to store terabytes of data on the cloud.",
+      "author": "raistlin65",
+      "created": 1635533074,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

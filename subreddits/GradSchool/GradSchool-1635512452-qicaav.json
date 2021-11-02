@@ -1,0 +1,46 @@
+{
+  "sid": "qicaav",
+  "link": "/r/GradSchool/comments/qicaav/which_is_best_for_the_life_sciences_mac_windows/",
+  "title:": "Which is best for the life sciences: Mac, windows or linux?",
+  "text": "I am an evolutionary biologist and use R at the moment.",
+  "author": "Sriracha11235",
+  "created": 1635512452,
+  "updated": 1635780480,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 0.86,
+  "comments": {
+    "hiji4e9": {
+      "link": "/r/GradSchool/comments/qicaav/which_is_best_for_the_life_sciences_mac_windows/hiji4e9/",
+      "text": "Windows.\n\nIt\u2019s compatible with basically all programs and you can use windows subsystem for Linux + Ubuntu for programming on the same setup.\n\nIf you need more power, you can link to a VM directly from windows through Remote Desktop protocol.",
+      "author": "Weekly-Ad353",
+      "created": 1635530427,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hikcve9": {
+      "link": "/r/GradSchool/comments/qicaav/which_is_best_for_the_life_sciences_mac_windows/hikcve9/",
+      "text": "This is an extremely vague question. \n\nYou need to specify what you're going to do with the computer. If you're going to do bioinformatics then you might think about Linux. I've done some work getting R code to compile on Windows, and it's a nightmare. Biocinductor and CRAN afaik make people make their code comply with windows, but i deal with a lot of tools that only work on Ubuntu. I have a labmate who bought a windows laptop then ended up paying someone to flash the bios because they needed Ubuntu for some of the tools. Only proceed with your purchase once you're sure you know what you need.",
+      "author": "c2u8n4t8",
+      "created": 1635542634,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hijcw3x": {
+      "link": "/r/GradSchool/comments/qicaav/which_is_best_for_the_life_sciences_mac_windows/hijcw3x/",
+      "text": "Windows is going to be the one that allows you to do everything you need with minimum effort on your part. It\u2019s not as elegant as Mac or Linux, but it will do everything you need it to do. Linux is pretty unintuitive to set up and Mac doesn\u2019t support every program you might end up needing without some convoluted workarounds. If you\u2019re confident in your computer knowledge, any are a good choice, but if not, windows is the safe unsexy choice.",
+      "author": "theglasstadpole",
+      "created": 1635528419,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hij5ny5": {
+      "link": "/r/GradSchool/comments/qicaav/which_is_best_for_the_life_sciences_mac_windows/hij5ny5/",
+      "text": "Mac if you ever need to install packages or use the command line, do sequence analysis, but also use programs like Photoshop etc. without the hassle of getting them on linux/running a virtual machine",
+      "author": "peppermintykitty",
+      "created": 1635525623,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

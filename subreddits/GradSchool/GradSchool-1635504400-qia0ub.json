@@ -1,0 +1,451 @@
+{
+  "sid": "qia0ub",
+  "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/",
+  "title:": "Co-authors excluded me from paper and listed me in acknowledgements because I only contributed to an \"early version\" of the final paper, and I mentioned that paper in my interview, what the fuck am I supposed to do?",
+  "text": "Title.\n\nI worked on this in 2019, spent considerable portion of my studies, and time, wrote large portion of the paper, including major corrections. It didn't pass then but was eventually accepted in a workshop this November.\n\nI was removed from the authors list, and now listed in acknowledgements. Nobody informed of this. The supervisor/professor even forwarded me the email where it was accepted.\n\nI mentioned it in my PhD interview today, and a citation was requested.\n\nOnly now I learned that I was removed.\n\nWhat the bloody fuck am I supposed to do at this point?\n\nEdit:\n\n>The main contributions of the work:\n\n>- First, 2 models, one of them is mine, my code, trained on my machine, half of the analysis is mine.\n-\tSecond, the framework they propose, I had written the code that performed the task\n-\tThird, the code is evaluated against real world models (read deployed models). I wrote the code that hit them. I didn\u2019t do the graph generation and \u2018analysis\u2019. Part of the analysis relies on my work writing a back end for local models that normalized everything and run the comparisons.\n-\tFourth, is implication of the transformations that I wrote and came up with.\n-\tFifth, Study against humans. Not mine.\n-\tSixth, Defense measures, not mine as far as I can recall.\n\n>\tArguments against state of the art wrt efficiency, and the explanation mostly mine. \n\n>\tI can't recall most of the text, but I am certain at least 30% is mine, either directly, or paraphrased.\n\n---\n\nEdit 2:\n\nThanks everyone for the help. I explained in a follow-up to my interviewers that I am \"acknowledged\" in that work, provided a camera-ready draft, and the citation.\n\nI prefer to not be considered an author of that paper. I have decided that I'd rather not get drugged through the mood. If they wish to be pigs, let them be pigs.\n\nI decided that I call out their paper as lacking, bogus, and dishonest. I have gone through the draft, and there were very few changes in the methodology, and analysis even after the previous reviewers tore it (and I agreed with them). That to me implies to me that nearly nothing changed between the revisions and the code, except perhaps polishing of the text.",
+  "author": "touched-by-eris",
+  "created": 1635504400,
+  "updated": 1635780458,
+  "over_18": false,
+  "upvotes": 279,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "hihxlur": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hihxlur/",
+      "text": "Give them a citation with the explanation ?\n\nPS what they did to you sucks!",
+      "author": "UleeBunny",
+      "created": 1635505371,
+      "upvotes": 222,
+      "replies": {
+        "hii28xw": {
+          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hii28xw/",
+          "text": "Yeah, any decent professor will understand the situation.",
+          "author": "You_Stole_My_Hot_Dog",
+          "created": 1635508366,
+          "upvotes": 71,
+          "replies": {}
+        },
+        "hii19e9": {
+          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hii19e9/",
+          "text": ">\tRegarding the published work that I referenced, that was done in summer of 2019, in an early draft of the paper below. The authors can provide a pre-camera-ready draft that acknowledges my contributions.\n\nSomething along these lines maybe?",
+          "author": "touched-by-eris",
+          "created": 1635507769,
+          "upvotes": 78,
+          "replies": {
+            "hiii4ic": {
+              "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiii4ic/",
+              "text": "I would be very honest and say \"I was surprised that my authorship was removed from the final version of this paper. My contributions were x, y, and z.\" If the potential PI calls your old PI they can verify that everything you said was true.",
+              "author": "MercuriousPhantasm",
+              "created": 1635516164,
+              "upvotes": 86,
+              "replies": {}
+            },
+            "hii5alw": {
+              "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hii5alw/",
+              "text": "Do you have a manuscript from earlier or the workshop acceptance? If so you could attach that and then mention \"this work was extended on in the following publication [citation] where you can find my contribution in the acknowledgements.\".  \nUnless you want to disclose the full story this would probably be the best to show that you did work extensively on it, prepared publication but sadly were demoted later. \n\n\nFor long term you could consider reaching out to your PI with an \"wtf?\" Email but sadly it's not uncommon to kick people off if you redid their work so there's only so much you can do because \"we redid all that work\" might pass as valid reason.",
+              "author": "Sickened_but_curious",
+              "created": 1635510112,
+              "upvotes": 31,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hii1nd5": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hii1nd5/",
+      "text": "Explain to the interviewers and ask for your Prof's support to testify that you should be the co-author of the paper.\n\nRaise this issue to the academic integrity committees of your university.",
+      "author": "Wise-Replacement7286",
+      "created": 1635508004,
+      "upvotes": 97,
+      "replies": {
+        "hii1vpf": {
+          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hii1vpf/",
+          "text": "The argument is that I worked on a very early draft of this, and the other student passed it before the professor, so I doubt he will vouch for me. I am just worried about getting the position at this point, and I don't want affiliation with them.",
+          "author": "touched-by-eris",
+          "created": 1635508146,
+          "upvotes": 40,
+          "replies": {
+            "hii2e7a": {
+              "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hii2e7a/",
+              "text": "What your interviewers want is proof that you can do well in PhD. Your understanding of the work reported on that paper is more important than the authorship.\n\nI think as long as you can explain the said work in details beyond what is writen on the paper, the interviewers will see it in a positive light.",
+              "author": "Wise-Replacement7286",
+              "created": 1635508457,
+              "upvotes": 56,
+              "replies": {
+                "hii2vi1": {
+                  "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hii2vi1/",
+                  "text": "Ah okay. I just didn\u2019t want seem that I am bullshitting them or using the work of other people.. I think my application can stand on it\u2019s own regardless of that.",
+                  "author": "touched-by-eris",
+                  "created": 1635508746,
+                  "upvotes": 21,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hiidrio": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiidrio/",
+      "text": "I think this is a situation where you really have to be brave and have a hard conversation with your advisor. It seems like you not only contributed to the work but you were a crucial contributor. I would march right into my advisors office and demand an explanation. Ask them how the changes they made since the draft you wrote justify you being removed as an author. If you don\u2019t get a good answer, go to your ombudsman/academic integrity office and explain your situation. At the same time you should reach out the journals editorial board and provide them with proof of the work you contributed to that project. This is actually so shady and you shouldn\u2019t stand for it, no way you deserve to not be recognized for years of work.",
+      "author": "Kingdomterror",
+      "created": 1635514228,
+      "upvotes": 44,
+      "replies": {
+        "hiiepo4": {
+          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiiepo4/",
+          "text": "I don\u2019t have proof anymore as I am locked out of the gitlab servers\u2026 \n\nI will wait until I have answer to my application. \n\nHe is not my advisor, thankfully, he is in the university that I did my undergraduate. \n\nOnce I have an answer I will discuss it with my new advisor if they do take me, if they don\u2019t, I will contact him by email and the committee. \n\nUnfortunately I don\u2019t know to what extend my code was used after I left.",
+          "author": "touched-by-eris",
+          "created": 1635514664,
+          "upvotes": 9,
+          "replies": {}
+        }
+      }
+    },
+    "hiif4zc": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiif4zc/",
+      "text": "Write to the editor of that journal article with evidence that you substantially contributed to the paper and that you were removed maliciously. I don't know if that's enough to get it retracted and reprinted with your name on it, but you can at least get some justice that way.",
+      "author": "alvarkresh",
+      "created": 1635514853,
+      "upvotes": 15,
+      "replies": {
+        "hiifdzl": {
+          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiifdzl/",
+          "text": "I don\u2019t really have evidence for that. It\u2019s over 2 years ago and I am locked out of the gitlab group.",
+          "author": "touched-by-eris",
+          "created": 1635514964,
+          "upvotes": 6,
+          "replies": {
+            "hiij0cn": {
+              "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiij0cn/",
+              "text": "You don't need git access to prove this... You surely sent emails about this, worked on drafts, have the code on your machine(s)",
+              "author": "isaac-get-the-golem",
+              "created": 1635516543,
+              "upvotes": 7,
+              "replies": {
+                "hiijtzu": {
+                  "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiijtzu/",
+                  "text": "I do have emails and maybe I can  prove that at least some of the ideas were mine. \n\nI definitely don\u2019t have the code on my machine and I guess that\u2019s a lesson to be learnt here. Always have backups especially for shared work.\n\n\nI think I may be able to login to my key base and retrieve old messages.",
+                  "author": "touched-by-eris",
+                  "created": 1635516894,
+                  "upvotes": 10,
+                  "replies": {
+                    "hiikzmg": {
+                      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiikzmg/",
+                      "text": "always have multiple backups just incase",
+                      "author": "KagariY",
+                      "created": 1635517375,
+                      "upvotes": 9,
+                      "replies": {}
+                    },
+                    "hijbzgm": {
+                      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hijbzgm/",
+                      "text": "If it's a collaborative git code, always save a local fork as a backup, even if you don't do anything with it. It will automatically have a timestamp on it and remain isolated from any further group changes (even if you push a copy back to the original code, it would only update where you pushed it).",
+                      "author": "Keoqe",
+                      "created": 1635528072,
+                      "upvotes": 6,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hiiid10": {
+          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiiid10/",
+          "text": "This. Do you have any emails? Text exchanges? Copies of drafts? Anything? They need to change this.",
+          "author": "sylphrena83",
+          "created": 1635516268,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hijdlcr": {
+          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hijdlcr/",
+          "text": "If it was originally submitted with you listed as co-author, there should have been a box or place to upload a letter stating each author's individual contribution to the work. That is standard with most peer-reviewed journal portals and therefore the editorial staff should have a copy on file. There's no way your contribution would have been depleted that much after responding to reviews to rule out authorship, especially since your contribution was mostly in building the code and not in making something like figures or compiling a bibliography/copy-editing.",
+          "author": "Keoqe",
+          "created": 1635528689,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hii915l": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hii915l/",
+      "text": "Is any of your original text present in the final paper accepted for publication? If so, what percentage of the final paper is text that you wrote? And do you have any evidence that you wrote this text?",
+      "author": "terranop",
+      "created": 1635512022,
+      "upvotes": 18,
+      "replies": {
+        "hii9qzo": {
+          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hii9qzo/",
+          "text": "My access to the gitlab server was revoked some time ago, and I don't have my private and public keys that I signed the commits with, not that they can't be squashed.\n\nSo I don't have anything really. I just don't want it to appear that I am leeching off other's work, at this point I would rather not be affiliated with them.",
+          "author": "touched-by-eris",
+          "created": 1635512364,
+          "upvotes": 8,
+          "replies": {
+            "hiif8e3": {
+              "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiif8e3/",
+              "text": "> My access to the gitlab server was revoked some time ago, and I don't have my private and public keys that I signed the commits with, not that they can't be squashed.\n\nConvenient they waited until this happened.",
+              "author": "alvarkresh",
+              "created": 1635514895,
+              "upvotes": 11,
+              "replies": {
+                "hiig7j8": {
+                  "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiig7j8/",
+                  "text": "I don\u2019t think it\u2019s malice from the professor, but from the other researcher. \n\nI really don\u2019t want to be associated with that work. I just don\u2019t want to lose the position on suspicion of lack of academic integrity.",
+                  "author": "touched-by-eris",
+                  "created": 1635515328,
+                  "upvotes": 12,
+                  "replies": {
+                    "hiinb8r": {
+                      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiinb8r/",
+                      "text": "There are two separate issues here. 1) authorship, 2) getting your current position. It seems you are not concerned with 1)  and only concerned with 2. If that's the case, you write/talk to your current position and say, I was surprised I was removed from authorship, I contributed these 20 things to the manuscript, everything you have listed here, list to them.",
+                      "author": "tardarsource",
+                      "created": 1635518331,
+                      "upvotes": 8,
+                      "replies": {
+                        "hiinj9s": {
+                          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiinj9s/",
+                          "text": "Also, for future positions, your current advisor, and/or whoever is writing letters of recommendation should address this. \n\nTouched by Eris has contributed to X publications, for example, while not officially on authorship, they contributed the modeling, framing, wrote the analysis, wrote the code, tested the code, and did X.",
+                          "author": "tardarsource",
+                          "created": 1635518422,
+                          "upvotes": 4,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hiia378": {
+              "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiia378/",
+              "text": "Thanks, but you didn't answer the most important part of the question, which is: how much of the accepted paper is text that you wrote?",
+              "author": "terranop",
+              "created": 1635512526,
+              "upvotes": 12,
+              "replies": {
+                "hiib8kd": {
+                  "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiib8kd/",
+                  "text": "The main contributions of the work:\n\n-\tFirst, 2 models, one of them is mine, my code, trained on my machine, half of the analysis is mine.\n-\tSecond, the framework they propose, I had written the code that performed the task\n-\tThird, the code is evaluated against real world models (read deployed models). I wrote the code that hit them. I didn\u2019t do the graph generation and \u2018analysis\u2019. Part of the analysis relies on my work writing a back end for local models that normalized everything and run the comparisons.\n-\tFourth, is implication of the transformations that I came up with and wrote.\n-\tFifth, Study against humans. Not mine.\n-\tSixth, Defense measures, not mine as far as I can recall.\n\nArguments against state of the art wrt efficiency, and the explanation mostly mine. \n\nI can't recall most of the text, but I am certain at least 30% is mine, either directly, or paraphrased.",
+                  "author": "touched-by-eris",
+                  "created": 1635513070,
+                  "upvotes": 9,
+                  "replies": {
+                    "hiibs03": {
+                      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiibs03/",
+                      "text": "That is a significant amount, if you are being accurate. You should definitely be a coauthor.",
+                      "author": "Yejus",
+                      "created": 1635513321,
+                      "upvotes": 23,
+                      "replies": {
+                        "hiibzjl": {
+                          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiibzjl/",
+                          "text": "I don't know whether they kept my code or rewritten it, but the paper hasn't changed all that much, and I am quite furious.",
+                          "author": "touched-by-eris",
+                          "created": 1635513418,
+                          "upvotes": 17,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "hiis17l": {
+                      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiis17l/",
+                      "text": "So what you are describing is essentially plagiarism. Not including you as an author when you wrote 30% of the text of the paper is a violation of academic integrity (unless they say so in the acknowledgement).\n\nThe natural follow up question is: do you have reason to believe the lead faculty author on this paper knows that you wrote that part of the text (and did these parts of the work)?",
+                      "author": "terranop",
+                      "created": 1635520256,
+                      "upvotes": 11,
+                      "replies": {
+                        "hiiv00o": {
+                          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiiv00o/",
+                          "text": "Actually it seems that they removed me right before submitting the camera ready submission.\n\nYup, that constitutes plagiarism.\n\nAnd the author have implicated themselves in our conversation so.",
+                          "author": "touched-by-eris",
+                          "created": 1635521447,
+                          "upvotes": 9,
+                          "replies": {}
+                        },
+                        "hiiu3k0": {
+                          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiiu3k0/",
+                          "text": "> So what you are describing is essentially plagiarism. Not including you as an author when you wrote 30% of the text of the paper is a violation of academic integrity (unless they say so in the acknowledgement).\n\nThey simply said, we acknowledge $NAME for their contributions to an earlier draft of the paper. Most of my work was on the code part, figuring out solutions, and attacks against the models. Then I made corrections to the other author's writing, and wrote some part of the analysis.\n\n\n> The natural follow up question is: do you have reason to believe the lead faculty author on this paper knows that you wrote that part of the text (and did these parts of the work)?\n\nYes, we even had a meeting on 19th of August where we discussed future work. The submission was done in late July. By mid September I was informed that it was accepted. Nobody had informed me that I was revoked of authorship.\n\nI was going to work on the project for my undergraduate thesis but decided against it, and worked on it just that summer instead.\n\nBefore I applied to universities for an MSc, the professor told me to list the paper in my CV.",
+                          "author": "touched-by-eris",
+                          "created": 1635521088,
+                          "upvotes": 6,
+                          "replies": {
+                            "hij0lk5": {
+                              "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hij0lk5/",
+                              "text": "Yeah that\u2019s complete bullshit. They plagiarized your work. This sort of \u201cstealing code\u201d situation (I know, my words not yours but, that\u2019s how I see it) is pretty common from what I\u2019ve seen in CS. There\u2019s lots of bullshit like this going around. At least there was when I was still trying to finish my PhD (ended with a masters and said fuck it!).\n\nEdit - sorry I was assuming you\u2019re doing something CS related. I see now that may not be the case. Anyway\u2026 it\u2019s still bullshit. I saw a little bit of this stuff when I was doing mine in cyber security.",
+                              "author": "GeronimoHero",
+                              "created": 1635523637,
+                              "upvotes": 10,
+                              "replies": {
+                                "hij1oir": {
+                                  "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hij1oir/",
+                                  "text": "Yeah it was CS related. Ehh fuck em. The publication isn\u2019t worth it.",
+                                  "author": "touched-by-eris",
+                                  "created": 1635524064,
+                                  "upvotes": 3,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "hij69s1": {
+                  "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hij69s1/",
+                  "text": "Why are you so focused on them having written part of the text? That doesn't matter. Having conducted the actual research described in the paper is enough to make this an integrity violation and to support an authorship dispute.",
+                  "author": "simoncolumbus",
+                  "created": 1635525857,
+                  "upvotes": 3,
+                  "replies": {
+                    "hij7rto": {
+                      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hij7rto/",
+                      "text": "It is very easy for someone who is not an expert in the field and hasn't directed the research to misunderstand how much the research work they did contributed to a paper. It would be very possible for someone in the OP's position to _think_ they have made an authorship-worthy research contribution to a paper when that is not the case. And generally speaking, wide latitude is given to PIs to decide what they consider to be a contribution that's worthy of authorship on a research paper. So if the OP only had a research contribution, it would be complicated to determine whether an integrity violation occurred.\n\nOn the other hand, it is much less difficult to mistake the significance of a contribution when that contribution is actually writing the text of the paper: writing the text of a paper yourself _ipso facto_ makes you the author of that text. That makes the OP's case a very cut-and-dry violation of academic integrity.",
+                      "author": "terranop",
+                      "created": 1635526438,
+                      "upvotes": 4,
+                      "replies": {
+                        "hij8up9": {
+                          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hij8up9/",
+                          "text": "Ah, I get now how you're approaching this. Thanks for clarifying. Yes, you are certainly right that having done some of the writing makes the case easier to argue. I was a bit worried about your question because I've encountered people here arguing that having done some of the writing is a necessary (not just sufficient) condition for authorship. Which is of course quite wrong, but can easily discourage somebody who's already unsure about their rights.",
+                          "author": "simoncolumbus",
+                          "created": 1635526857,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hij3olb": {
+              "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hij3olb/",
+              "text": "So you're saying the evidence exists and the people who have it could dig it up if their institution did an investigation. That seems like the avenue to pursue. Academic dishonesty shouldn't be tolerated even if you don't care that much about credit for the paper.",
+              "author": "Epistaxis",
+              "created": 1635524853,
+              "upvotes": 2,
+              "replies": {
+                "hijf0n9": {
+                  "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hijf0n9/",
+                  "text": "I agree, even if it's a publication with a bunch of dishonest people, it's still a publication pre-PhD. That additional publication (and all the citations of it that would boost your h-index and other stats over the next few years while in a PhD program) could make or break your odds of getting hired in a competitive market. Publications can also aid in getting funding for the PhD as review panels might look at your application materials (usually including a CV) and compare it to someone else who has just as good of an application, but a review board is going to pick who has/has more publications listed.",
+                  "author": "Keoqe",
+                  "created": 1635529229,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hiiidyq": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiiidyq/",
+      "text": "Not directly related but it sucks that you are femme in Math and your contributions were minimized.",
+      "author": "MercuriousPhantasm",
+      "created": 1635516278,
+      "upvotes": 5,
+      "replies": {
+        "hiijhi8": {
+          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiijhi8/",
+          "text": "I am trans, still closeted to most people bar a few close friends and immediate family, and so Professor and researcher know me as \u201c$DEADNAME\u201c so I can\u2019t even attribute it to sexism.\n\nThat was in CompSci by the way. I am now doing app math (ML) and the situation is far better wrt sexism.",
+          "author": "touched-by-eris",
+          "created": 1635516747,
+          "upvotes": 4,
+          "replies": {
+            "hiima4y": {
+              "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiima4y/",
+              "text": "I still can't help but wonder if it was something they sensed subtextually. Regardless tho I'm glad you're in a more supportive work environment now!",
+              "author": "MercuriousPhantasm",
+              "created": 1635517909,
+              "upvotes": 2,
+              "replies": {
+                "hiimyrx": {
+                  "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiimyrx/",
+                  "text": "I don't think so because I figured my shit 2 years later hah. But the dude was very defensive or perhaps competitive early on in the project, they had me do \"grunt\" work, except that I did all that, and some of his parts, just better.\n\nI am at a much better university now, surrounded by people that keep reminding me of the class difference between the two universities.",
+                  "author": "touched-by-eris",
+                  "created": 1635518189,
+                  "upvotes": 4,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hiihbad": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiihbad/",
+      "text": "That is so frustrating. Maybe I'm na\u00efve but sometimes the author sniping seems ridiculous. The biggest paper I first authored had a some work done before me that wasn't used:\n\n* V1 of the program written by this someone else, a undergrad project which I totally rewrote in a different programming language.\n* Some preliminary investigation I redid and expanded.\n* He left the lab a year before I showed up to pick this project up\n\nHe's second author even though I had a few others help me with analysis and biological studies. I'd wager you earned co-first author honestly.",
+      "author": "Seducer_McCoon",
+      "created": 1635515810,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hiif91h": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiif91h/",
+      "text": "I am sorry this happened to you. I hope it all works out for you.\n\nIn the meantime, if you have a digital copy of both the draft and final paper is there any chance you could compare them?\n\nIf they used exactly the text you wrote without acknowleging your authorship then that is plagiarism. \n\nIf you have kept your drafts and have access to those, then word should show the date they were last modified.",
+      "author": "Ok_Organization5596",
+      "created": 1635514903,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hiikkhu": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hiikkhu/",
+      "text": "Complain with the editors of the journal",
+      "author": "mr_kazemiro",
+      "created": 1635517203,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hijkc91": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hijkc91/",
+      "text": "Why are academics so stingy when it comes to giving credit? They're not losing anything by including your name in it or anything, right?",
+      "author": "obitachihasuminaruto",
+      "created": 1635531289,
+      "upvotes": 3,
+      "replies": {
+        "hijkksj": {
+          "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hijkksj/",
+          "text": "They aren't, not really.\n\nBut the dude has apparently very high idea for himself,  and the lockdowns seem to have harmed his mental health.",
+          "author": "touched-by-eris",
+          "created": 1635531382,
+          "upvotes": 4,
+          "replies": {
+            "hijlfqu": {
+              "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hijlfqu/",
+              "text": "Damn... I hope that you at least get into your dream PhD program, all the best!",
+              "author": "obitachihasuminaruto",
+              "created": 1635531722,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hilbcui": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hilbcui/",
+      "text": "Contact the journal editor, and present your case",
+      "author": "shotta_scientist",
+      "created": 1635558539,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hildeiz": {
+      "link": "/r/GradSchool/comments/qia0ub/coauthors_excluded_me_from_paper_and_listed_me_in/hildeiz/",
+      "text": "You need to speak with graduate chair and the advisor. If a transformative idea, words, a plot that you made, data you took, or analysis you did is in this paper you are an author. You have two options. You can email the senior author and say that you think this is in error. Include a version of the early paper you wrote and highlighted sections that show what is the same or similar. Your second option is to contact the editor. My suggestion is to say that you think this is an honest misunderstanding and you\u2019d like them to write an erratum that adds you as an author. It happens more often than you think. My biggest suggestion is to not frame things like it was deliberate. Frame it like a misunderstanding but that you\u2019d like them to contact the editor and fix the author list. This is a serious ethics violation if they refuse.",
+      "author": "LegallyThrownFarAway",
+      "created": 1635559541,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

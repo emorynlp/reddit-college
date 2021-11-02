@@ -1,0 +1,74 @@
+{
+  "sid": "qit2h4",
+  "link": "/r/GradSchool/comments/qit2h4/some_interesting_researches_going_on_in_the/",
+  "title:": "Some interesting researches going on in the different fields of geology",
+  "text": "What are some of the hot research topics in the field of geologh right now?",
+  "author": "lumberjack1273",
+  "created": 1635564767,
+  "updated": 1635780462,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.7,
+  "comments": {
+    "him7598": {
+      "link": "/r/GradSchool/comments/qit2h4/some_interesting_researches_going_on_in_the/him7598/",
+      "text": "Oh boy, what a question. There's so many different subfields in geology so I'll only speak from my experience which is mostly in geomorphology and depositional modeling.\n\n1. Planetary geology on Mars, Europa, etc\n2. Fluvial sedimentology - how do rivers deposit sediment and how do we make sense of ancient rivers from the rock record?\n3. Geomorphology and hazards - landslide early warning systems, interaction of fires and floods on landslide susceptibility, urban landslides\n4. Interaction between surface and subsurface processes - how are rivers interact with groundwater and how groundwater affects the dynamics of rivers\n5. Isotope geochemistry - what controls groundwater transit time distributions?\n\nThis is obviously excluding other hot topics like volcanology, mineral exploration, paleoclimatology and paleobiology, and so many others. If you have a specific subfield in mind you might get a more specific answer",
+      "author": "Forward-Philosophy46",
+      "created": 1635577583,
+      "upvotes": 6,
+      "replies": {
+        "him9yac": {
+          "link": "/r/GradSchool/comments/qit2h4/some_interesting_researches_going_on_in_the/him9yac/",
+          "text": "can you tell me what are the possible application of some researches when they get a breakthrough?",
+          "author": "lumberjack1273",
+          "created": 1635579839,
+          "upvotes": 1,
+          "replies": {
+            "hinppuu": {
+              "link": "/r/GradSchool/comments/qit2h4/some_interesting_researches_going_on_in_the/hinppuu/",
+              "text": "A lot of geology research comes down to a few big questions. In hydrology it's basically: how much water will we have, and what kind of chemicals will it contain? In sedimentology it's either: what do these rocks tell us about the past, or do these rocks contain useful minerals or hydrocarbons?\n\n Generally, these don't come in huge breakthroughs but a gradual improvement in knowledge and technology. For example, in hydrology there's a lot of work on technology to recharge aquifers. Basic sedimentology research helps us figure out which types of deposits are best for recharging aquifers. A lot of the oil and gas exploration companies use models of sediment deposition, that were developed through basic research, to locate profitable oil and gas deposits.\n\nI'm less familiar with the environmental sciences, but it's my impression that a lot of the research in that field is used to improve remediation and protection measures. Things like cleaning up old mines, preserving endangered species, etc.",
+              "author": "Forward-Philosophy46",
+              "created": 1635610992,
+              "upvotes": 2,
+              "replies": {
+                "hinrfwo": {
+                  "link": "/r/GradSchool/comments/qit2h4/some_interesting_researches_going_on_in_the/hinrfwo/",
+                  "text": "thanks a lot",
+                  "author": "lumberjack1273",
+                  "created": 1635611712,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hima2a7": {
+          "link": "/r/GradSchool/comments/qit2h4/some_interesting_researches_going_on_in_the/hima2a7/",
+          "text": "what I am asking is that..why will we try to know how groundwater flow affects river dynamics? how will the knowledge help us in the present and the future? i hope I am making sense",
+          "author": "lumberjack1273",
+          "created": 1635579925,
+          "upvotes": 1,
+          "replies": {
+            "hinnzs1": {
+              "link": "/r/GradSchool/comments/qit2h4/some_interesting_researches_going_on_in_the/hinnzs1/",
+              "text": "Great question! Rivers move around a lot. If you're familiar with the Mississippi River that's a good example. Through man made levees and canals we basically stopped the river moving around, but it naturally wants to move. If the Mississippi changed it's course, there would be major, major impacts on shipping, irrigation, and more. So we want to understand what makes the river change course.\n\nWe think that groundwater interactions influence how fast the river will change it's course. If groundwater did influence the movement of rivers, this will also change our interpretation of sedimentary rocks formed by rivers. There's also a shit ton of literature showing that chemicals interact with rivers through groundwater, so that's another reason. And there's probably many more reasons that people studying this more closely could list as well.",
+              "author": "Forward-Philosophy46",
+              "created": 1635610258,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hima5ba": {
+          "link": "/r/GradSchool/comments/qit2h4/some_interesting_researches_going_on_in_the/hima5ba/",
+          "text": "I am very interested in fields like hydrology, groundwater systematics, and environmental studies",
+          "author": "lumberjack1273",
+          "created": 1635579988,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

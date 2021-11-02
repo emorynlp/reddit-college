@@ -1,0 +1,48 @@
+{
+  "sid": "qj2zvg",
+  "link": "/r/AskAcademia/comments/qj2zvg/how_to_check_for_plagiarism/",
+  "title:": "How to check for plagiarism?",
+  "text": "Just found a review paper and I think I've read it somewhere else before. The paper seemed to be almost the replica of the one I've read. How do the editors check for plagiarism??",
+  "author": "makeouthill______",
+  "created": 1635605343,
+  "updated": 1635779289,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.38,
+  "comments": {
+    "hinjutk": {
+      "link": "/r/AskAcademia/comments/qj2zvg/how_to_check_for_plagiarism/hinjutk/",
+      "text": "I literally type a unique-seeming phrase from the paper into Google with quotation marks around it. I\u2019m a Comp instructor, not a peer-reviewer, but short of looking through actual scholarly databases this is the first thing I do.",
+      "author": "Stormlight1984",
+      "created": 1635608517,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hiofe90": {
+      "link": "/r/AskAcademia/comments/qj2zvg/how_to_check_for_plagiarism/hiofe90/",
+      "text": "They should have access to turn-it-in or similar software via the journal that will give a similarity score.",
+      "author": "Broric",
+      "created": 1635621691,
+      "upvotes": 2,
+      "replies": {
+        "hiopk83": {
+          "link": "/r/AskAcademia/comments/qj2zvg/how_to_check_for_plagiarism/hiopk83/",
+          "text": "Can you elaborate how does that work??",
+          "author": "makeouthill______",
+          "created": 1635626190,
+          "upvotes": 1,
+          "replies": {
+            "hiosqyb": {
+              "link": "/r/AskAcademia/comments/qj2zvg/how_to_check_for_plagiarism/hiosqyb/",
+              "text": "Turnitin is one of the industry leading plagiarism checkers. It scans documents and gives you a % score for similarity to everything else in their database. Lots of journals/publishers use it too. Any similarity will get flagged to the editor who'll then review it.",
+              "author": "Broric",
+              "created": 1635627605,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "sid": "qioi6x",
+  "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/",
+  "title:": "Should I quit my postdoc?",
+  "text": "It is difficult to write this post, but the short version is that I am seriously thinking of resigning my seemingly pointless postdoc position and doing contract work while applying for industry jobs. For the long version, see below.\n\nI was fortunate to do my PhD at one of the best (top 10) scientific institutes in the world, and my thesis largely focused on applying statistical models in an ecological field. I had the privilege and pleasure of working under some very competent, experienced, and knowledgeable scientific researchers. Over the course of my PhD, I published three papers that were done rigorously, and by the end of my PhD my mentors treated me as more than a student, but as a colleague. In retrospect, it was an amazing feeling to experience such scientific growth.\n\nAbout 3 months ago, I moved to the US to start a 1-year postdoc position (with possibility of renewal). The project also applies statistical/machine learning models, but to a different system than what I had studied during my PhD. Initially, I focused on replicating and expanding on the results of a recently published paper that my two supervisors wrote with a postdoc (who has since moved on and I have never spoken to). I admit, I read this paper when applying for this position, and while I noticed some indications of potential problems in the methods, I felt they didn\u2019t sink the paper (side note: by actually replicating the results in this paper, I\u2019ve since learned that as a general rule, any paper with apparent issues like this means the paper probably has several more serious problems just below the surface).\n\nI spent about a month and a half processing some data, and then going about replicating the results of their paper. It was nothing special. During this time, I met the lab group and while they are nice and approachable people, I am basically out of place as someone new to the field and as a statistics/modelling person. Moreover, my main PI (PI1) readily admits not knowing much about statistics or modelling, while the secondary PI (PI2) is an active modeller and was probably the main support person for the postdoc on the paper. Anyways, after replicating their paper results quite easily, I suspected that the results might be too good to be true and thought carefully about how this might occur. After a day of coding, I applied a more robust test to their results (instead of the test they use in their paper) and found that their model clearly fails this test. To be clear, this test demonstrates that their model performs so badly that it seriously undermines key results in the paper.\n\nWhen I presented these findings to my new supervisors, PI1 did not outwardly oppose or support my results (which was fair). PI2 adamantly said I was wrong but did not provide any explanation as to why. Although I was reasonably confident about my test, I organized meetings with researchers at my new institute (outside the lab group) and previous collaborators of mine to show how I replicate the paper results and test how they fail. Nearly all of them have agreed that the test I devised is more reasonable and robust than the original authors\u2019 approach.\n\nHaving my own ideas for alternative methods that could work well for this type of data, I started developing an alternative model as a backup plan for my project. However, I\u2019ve received only lukewarm support from my supervisors for my ideas and received very little useful advice on how to proceed with their paper\u2019s methods (PI2 only recently had a complete change of mind, but hasn\u2019t admitted the flaw extends to their paper). Even in my project meetings with them, they often cannot correctly recall the methods they used in their own paper (because their previous postdoc clearly did most of the work!) and make incorrect claims about the capabilities of the type of model they used (because they applied a machine learning method with a shotgun strategy without really understanding how it works). The crazy part is that I\u2019ve received more useful and constructive feedback from my old colleagues and outside researchers than I do from meetings with my current supervisors/research group!\n\nMeanwhile, PI1 has assigned me to present a poster and a talk without really admitting that their paper (which was meant to be a springboard for my work) provides no basis for readily usable results. I\u2019m just expected to present \u201csomething\u201d. To maintain open communication I\u2019ve raised my concerns about a lack of positive results (after 3.5 months), but it seems like this is just pressure to deliver results. I\u2019ve been told that I should just throw variables into the model I\u2019m using, and \u201ccan\u2019t you just do a simple ANOVA or something\u201d. (As an aside, imagine speaking to a scientific audience in a new field with such flimsy results: they\u2019ll rip you apart!)\n\nI\u2019ve also been assigned by PI1 to mentor a student, which is a duty that I agreed to during the interview. At the time, I assumed that any student assigned to my supervision would be an undergraduate or maybe a master\u2019s student, someone who is somewhat familiar with research and could tangentially help my own work. Instead, I\u2019ve been assigned to supervise a junior high school student who is taking part in a regional high school science competition. Neither the student nor the competition has any affiliation with the university where I am employed. In fact, PI1 openly told me that they personally know and agreed with the student\u2019s father to make this arrangement, suggesting a possible conflict of interest for PI1. PI1 also suggested that I could add this \u201cmentorship\u201d to my CV, when its clearly a complete waste of my time as a doctoral researcher (I don\u2019t want to come off as arrogant, but why does a high school student need a postdoctoral researcher for a science project?). \n\nSo here I am, trying to squeeze blood out of a stone by (1) producing positive results based on a questionable paper with sloppy/invalid methods, (2) \u201cmentoring\u201d a kid for a high school competition, and (3) holding project meetings where I can\u2019t make any progress or get any meaningful help. I feel that my time and effort here is not respected, and my expertise is largely ignored.\n\nI\u2019ve also been living completely alone (in an old, noisy apartment) with no friends or family to talk to. My only refuge is spending the weekends outdoors (but winter is approaching), but I am otherwise completely isolated and often go for days without speaking to anyone. I feel like my mind is literally splintering under a crushing weight; I can\u2019t sleep at proper hours, I clench my jaw all the time, I can\u2019t relax, I drink more than I should, and I\u2019m probably gaining weight since I don\u2019t exercise as I should.\n\nI know that I\u2019m unhappy, and that leaving the postdoc won\u2019t fix that, but I am seriously thinking of resigning from my position. I would rather go back home to my family and take up some contract work while I search for a more serious position (in industry or government, I\u2019m done with academia), because my current position is simply a waste of my time. Has anyone here been in a similar position, and if so what did you do? Are there any special considerations I should make before/while leaving?\n\nMy rant is over, thank you to anyone who is listening. I hope you are all doing well.",
+  "author": "serious_f0x",
+  "created": 1635548178,
+  "updated": 1635779287,
+  "over_18": false,
+  "upvotes": 31,
+  "upvote_ratio": 0.89,
+  "comments": {
+    "hikrttz": {
+      "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/hikrttz/",
+      "text": "I have been in a similar position. I did my PhD in Europe and moved to the us for a postdoc only to find out they were p hacking the shit out of their data. I just could not do that. Just didn't align with my ethics. I quit the job and moved back. It was hard to admit but it made me so much happier and seriously going against your ethics is the worst thing you could do.",
+      "author": "momo_dynamics",
+      "created": 1635549144,
+      "upvotes": 27,
+      "replies": {
+        "him67s0": {
+          "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/him67s0/",
+          "text": "I'm glad that you are happy with your decision. I am personally not comfortable with many of the statistical methods used in my lab, but I don't want to be the antagonist in every other lab meeting. To avoid being the bad guy becomes a matter of picking your battles, rather than fighting them every time. I think the difficulty for me will be keeping my mouth shut until I submit my resignation letter.",
+          "author": "serious_f0x",
+          "created": 1635576854,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "himc282": {
+      "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/himc282/",
+      "text": "I'm in another field (humanities) and from another continent (Europe), so I don't know if what I'm suggesting makes any sense, but I'll try!\n\nIf PI1 and PI2 are aware of your issues with their methods because you told them, couldn't you ask them to spend what remains of your postdoc year working on a smaller project of your own, connected with theirs (and with the interests of the lab), but using methods that you consider sounder? Something that does not concern the main focus of the lab (so you don't get to contradict them), but would be interesting as well for the team.\n\nSo in conferences you would be able to talk of your work saying that your role in the lab consists in carrying on a smaller side project; and you could present your own results without going against your PIs and the rest of the team.\n\nIf they are reasonable people, that might work?\n\nBeing far from home and alone when things are not ok is shit: if you can, please remember that your mental and physical health is way more important than your career (I've been there because of academic issues, too: I spent six months being totally unable to rest without nightmares and eat without throwing up. It took a while to recover. I swore to never let it happen again to me). I send you a big hug.",
+      "author": "kanan_jarrus_knight",
+      "created": 1635581548,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hilcwma": {
+      "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/hilcwma/",
+      "text": "I can't say whether it happens more or less in other countries, but this kind of bogus science is quite common in the US, especially with some of the more famous researchers. This is why we have a replication crisis. I would suggest moving to another lab. You won't get anywhere trying to do work that will invalidate their prior, high profile paper. Having you mentor a junior high school student is ridiculous, and I would put my foot down.",
+      "author": "fwafwa",
+      "created": 1635559296,
+      "upvotes": 10,
+      "replies": {
+        "hisar9x": {
+          "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/hisar9x/",
+          "text": "Statistical modelling is particularly susceptible to the reproducibility issues you mention, as many papers do p-hacking, use discredited methods, don't validate their models, or don't post their data or code.\n\n> Having you mentor a junior high school student is ridiculous, and I would put my foot down.\n\nI should have said no to the idea when it was proposed. The only way I see to express my dissatisfaction now is to leave.",
+          "author": "serious_f0x",
+          "created": 1635701129,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hirvfmu": {
+          "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/hirvfmu/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1635694533,
+          "upvotes": 1,
+          "replies": {
+            "hisazll": {
+              "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/hisazll/",
+              "text": "Like I said in a reply above, I should have politely declined when the idea was first proposed. Having boundaries is healthy, but as you suggest, there could have been negative consequences in other areas of my job...",
+              "author": "serious_f0x",
+              "created": 1635701225,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hilrogt": {
+      "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/hilrogt/",
+      "text": "I don\u2019t know honestly. A one year post doc is useless in my opinion. You do a Postdoc to become settled in doing research alone to write grants and learn the crafts of being a PI while at the same time publish. One year is not enough. I kind of do not understand why for half the time you just reproduce stuff? I mean ok you found something fishy going on but in the end this is a huge waste of time for you. I would call it quits. If you like academia look for a new Postdoc otherwise you can still apply for industry",
+      "author": "CreepyBumblebee31",
+      "created": 1635566989,
+      "upvotes": 4,
+      "replies": {
+        "him5tgu": {
+          "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/him5tgu/",
+          "text": "I haven't heard that a one-year contract is too short, but it makes sense given how long it takes to get publishable results. At this point I don't feel like a competitive candidate for academia, so I've already started writing applications for industry jobs. Thank you for your input.",
+          "author": "serious_f0x",
+          "created": 1635576547,
+          "upvotes": 3,
+          "replies": {
+            "hiqvcfk": {
+              "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/hiqvcfk/",
+              "text": "A few months in one lab doesn't make you competitive or not. I think it's more about do you want to be an academic or do you want to do something else?\n\nYou've had a bad experience with a shitty lab but bad experiences are at least useful for helping you make more informed decisions in future. If you were to apply to another postdoc you might have a much better experience. But it's what you want to do that should guide you, not what you think other people might think of your career potential. \n\nJust as an FYI as you describe it the situation with the student and the father that's nepotism. Unless there's something else going on there's no conflict of interest.",
+              "author": "ACatGod",
+              "created": 1635672136,
+              "upvotes": 2,
+              "replies": {
+                "hisa81j": {
+                  "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/hisa81j/",
+                  "text": "Full disclosure, I took this job as a stop-gap so that I could also for a more serious position in industry/government. I just didn't expect this position to be so... futile. And yes, I suppose that high school student situation is nepotism.\n\nI know this isn't a novel observation, but when I look at the state of postdocs today, I see a small clique of \"superstar\" individuals who have a promising chance at a tenure-track position and many, many more postdocs who will likely never secure anything permanent in academia.\n\nThe very real risk of falling into the latter category is just not worth it for me. For a nearly insulting  salary, a serious postdoc must publish (as much as possible), develop course material and teach, mentor junior researchers, write project proposals and grants, present/network at conferences, and many other duties. With COVID, many of these duties (e.g., networking) become even more difficult if not impossible to do effectively, which really hampers career progression. Most shockingly, the few faculty members I have met don't even have much sympathy for this new reality.\n\nDealing with all this is a hard pass from me. After the burn-out I experienced during my PhD, I would rather work as a data analyst or something similar for a while before climbing the rungs towards a more senior position.",
+                  "author": "serious_f0x",
+                  "created": 1635700909,
+                  "upvotes": 1,
+                  "replies": {
+                    "hise0gg": {
+                      "link": "/r/AskAcademia/comments/qioi6x/should_i_quit_my_postdoc/hise0gg/",
+                      "text": "I totally get it. I did two postdocs and then bailed. I intended to leave academia but ended up doing the career I wanted but at a research institute where I'm now quite senior. In many ways it's been the best of both worlds (with some drawbacks too). \n\nI only wanted to encourage you if academia was actually your dream and not let a few bad months out you off. However, go for it. There are really great careers out there. Although I'd decided academia wasn't for me, I thought by stepping away from research I'd be sacrificing having a mentally challenging career. I was so wrong. From subject content to developing strategies, I do a lot more thinking than I ever did at the bench. \n\nGo for it and good luck!",
+                      "author": "ACatGod",
+                      "created": 1635702558,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

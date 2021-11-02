@@ -1,0 +1,81 @@
+{
+  "sid": "qkau74",
+  "link": "/r/AskAcademia/comments/qkau74/how_to_deal_with_inconsistent_results_from_the/",
+  "title:": "How to deal with inconsistent results from the literature",
+  "text": "This is about biochemistry:\n\nFor example: i am looking for the kd of a ligand-protein interaction\n\nthere seems to be two kinds of results with \\~10 fold difference between them\n\nwhich one do I believe?????\n\nsorry a little frustrated,,,",
+  "author": "prof_awesomeness",
+  "created": 1635761617,
+  "updated": 1635779272,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "hivfu0c": {
+      "link": "/r/AskAcademia/comments/qkau74/how_to_deal_with_inconsistent_results_from_the/hivfu0c/",
+      "text": "write a paper about the inconsistencies titled \"The Replication Crisis in Ligand Protein Interaction Studies\"",
+      "author": "apple-masher",
+      "created": 1635766631,
+      "upvotes": 5,
+      "replies": {
+        "hivjbmi": {
+          "link": "/r/AskAcademia/comments/qkau74/how_to_deal_with_inconsistent_results_from_the/hivjbmi/",
+          "text": "I heard a physics professor say that 90% literature is shit,,,",
+          "author": "prof_awesomeness",
+          "created": 1635768996,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hivl1rc": {
+          "link": "/r/AskAcademia/comments/qkau74/how_to_deal_with_inconsistent_results_from_the/hivl1rc/",
+          "text": "I agree, if you need it and there is t a consistent answer in the lit, this is an opportunity for a publication.",
+          "author": "Acrobatic_Future_412",
+          "created": 1635770075,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hiva0vn": {
+      "link": "/r/AskAcademia/comments/qkau74/how_to_deal_with_inconsistent_results_from_the/hiva0vn/",
+      "text": "Carefully read the paper to be sure that they are performed under the same condition, for the same specimen.\n\nFind information on whether such inconsistency is the norm / outlier.\n\nAsk your supervisor / other experts for his/her opinion.\n\nContact the corresponding author to clarify.\n\nDo your own expeirment and check which is closer to your results (not recommended unless you are sure that the above cannot explain the inconsistency)",
+      "author": "Wise-Replacement7286",
+      "created": 1635762147,
+      "upvotes": 3,
+      "replies": {
+        "hivcrt7": {
+          "link": "/r/AskAcademia/comments/qkau74/how_to_deal_with_inconsistent_results_from_the/hivcrt7/",
+          "text": "These all seem like good options but suppose i need to do this for 50 different ligands,,,,,,",
+          "author": "prof_awesomeness",
+          "created": 1635764367,
+          "upvotes": 2,
+          "replies": {
+            "hivhcdc": {
+              "link": "/r/AskAcademia/comments/qkau74/how_to_deal_with_inconsistent_results_from_the/hivhcdc/",
+              "text": "Yep, science is messy and it wouldn't be research if we already knew all of the answers...",
+              "author": "lagartijo0O",
+              "created": 1635767674,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hivrj09": {
+          "link": "/r/AskAcademia/comments/qkau74/how_to_deal_with_inconsistent_results_from_the/hivrj09/",
+          "text": "Also see which paper is published more recently and see if either include raw experimental data to check.",
+          "author": "JHT230",
+          "created": 1635773670,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hivoif3": {
+      "link": "/r/AskAcademia/comments/qkau74/how_to_deal_with_inconsistent_results_from_the/hivoif3/",
+      "text": "I learnedly better to not believe anyone and if possible try it yourself. Publications are full of fabricated or misrepresented data. I am currently reviewing literature because an assay does not run the way it should. I meanwhile believe people have done it like hundred times and just picked the three ones that were most fitting for their hypothesis. In the wei\u00dft case pick the top/bottom/ middle value and work with that.",
+      "author": "CreepyBumblebee31",
+      "created": 1635772065,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

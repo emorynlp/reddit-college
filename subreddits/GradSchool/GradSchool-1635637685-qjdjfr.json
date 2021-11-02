@@ -1,0 +1,64 @@
+{
+  "sid": "qjdjfr",
+  "link": "/r/GradSchool/comments/qjdjfr/any_mendeley_gurus_out_there/",
+  "title:": "Any Mendeley Gurus out there",
+  "text": "My MS word plug in has gone off the rails and keeps adding citations over and over. I can't get it to stop, even after a reinstall.",
+  "author": "Belus911",
+  "created": 1635637685,
+  "updated": 1635780447,
+  "over_18": false,
+  "upvotes": 7,
+  "upvote_ratio": 0.9,
+  "comments": {
+    "hiqg8pv": {
+      "link": "/r/GradSchool/comments/qjdjfr/any_mendeley_gurus_out_there/hiqg8pv/",
+      "text": "Honestly, Mendeley has frustrated me so much with sort of thing. I switched to Zotero recently and like it a lot more. Haven\u2019t had any issues.",
+      "author": "You_Stole_My_Hot_Dog",
+      "created": 1635659390,
+      "upvotes": 4,
+      "replies": {
+        "hiqgbpu": {
+          "link": "/r/GradSchool/comments/qjdjfr/any_mendeley_gurus_out_there/hiqgbpu/",
+          "text": "I keep hearing that. I've had zero prior issues. The thought of moving thousands of references over is just daunting.",
+          "author": "Belus911",
+          "created": 1635659453,
+          "upvotes": 2,
+          "replies": {
+            "hiqkvpx": {
+              "link": "/r/GradSchool/comments/qjdjfr/any_mendeley_gurus_out_there/hiqkvpx/",
+              "text": "You can import your entire library, including all notes and highlights into Zotero. I wouldn\u2019t have switched if I couldn\u2019t.",
+              "author": "You_Stole_My_Hot_Dog",
+              "created": 1635663203,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "hiqhmqp": {
+              "link": "/r/GradSchool/comments/qjdjfr/any_mendeley_gurus_out_there/hiqhmqp/",
+              "text": "If you can export to a bibtex file, Zotero can import it to it's library.",
+              "author": "m3m3t",
+              "created": 1635660484,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hiqzkl3": {
+      "link": "/r/GradSchool/comments/qjdjfr/any_mendeley_gurus_out_there/hiqzkl3/",
+      "text": "Use Zotero",
+      "author": "mr_kazemiro",
+      "created": 1635675743,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hiskk3d": {
+      "link": "/r/GradSchool/comments/qjdjfr/any_mendeley_gurus_out_there/hiskk3d/",
+      "text": "Use LaTeX and bibLaTeX. Typesetting is always looked at kindly for any publication or professional report.",
+      "author": "whyoy",
+      "created": 1635705267,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}
