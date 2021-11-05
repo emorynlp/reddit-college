@@ -1,0 +1,31 @@
+{
+  "sid": "qm8cb4",
+  "link": "/r/AskAcademia/comments/qm8cb4/for_my_thesis_i_am_doing_a_survey_what/",
+  "title:": "For my thesis, I am doing a survey. What websites/companies can I host the survey through in order to find respondents.",
+  "text": "I need help! I am doing a survey for my thesis and I need to survey people for my experiment. What companies can I use? How much will they cost?",
+  "author": "JWiLLii",
+  "created": 1635985345,
+  "updated": 1636136913,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "hja6eq7": {
+      "link": "/r/AskAcademia/comments/qm8cb4/for_my_thesis_i_am_doing_a_survey_what/hja6eq7/",
+      "text": "I'd ask your advisor/professor.\n\nFirst because your institution probably has contracted survey companies (SurveyMonkey, Qualtrics, etc) available for your use.\n\nSecond because there are usually rules surrounding surveys, consent, information collection, security and storage, etc that you need to follow, especially when it comes to doing research on human subjects. Some survey companies may violate what your institution considers acceptable.",
+      "author": "absolutesquare",
+      "created": 1636034335,
+      "upvotes": 3,
+      "replies": {
+        "hjbags9": {
+          "link": "/r/AskAcademia/comments/qm8cb4/for_my_thesis_i_am_doing_a_survey_what/hjbags9/",
+          "text": "Hard agree with this. Would also build on the first point that OP will almost certainly need to use a paid version of whatever software they go with. The free versions won't provide adequate security and probably not adequate flexibility on the survey design.",
+          "author": "ACatGod",
+          "created": 1636050111,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

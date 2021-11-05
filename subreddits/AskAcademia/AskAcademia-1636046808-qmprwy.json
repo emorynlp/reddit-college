@@ -1,0 +1,766 @@
+{
+  "sid": "qmprwy",
+  "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/",
+  "title:": "During my PhD study I had supervised a Masters Student. I have doubts regarding the validity of his data - on one of his graphs I am confident it is not possible to get the result he described. I asked for raw data but he stated his USB was stolen. Was I wrong not to pursue it any further?",
+  "text": "In 2019 my PhD study I co-supervised a masters student (lets call him Martyn).   \n\n\nI will not show the masters thesis to avoid any identification. Although the student in question is Chinese, so am I, and his supervisor too. I am not implying in any way that Chinese students are cheats.   \n\n\nSecondly, I am using VPN, and I will be vague about the nature of the work.   \n\n\nDuring that time I had noticed some unusual things about his results:  \n\n\n1. In his Masters thesis he claimed that he had deproteinised the samples prior to measurement, but I remember him asking me what the deproteinising process was AFTER he collected the results. This step is critical to accurate measurement of the sample, and the results would be very different without deproteinisation. \n2. His graph shows no change in metabolites (flat line) after 21 DAYS at 37'C, when cells were cultured in 2D. But in 3D the culture media metabolite concentration rapidly decreases. We conducted the exact same experiment again (everything cells media conditions identical), but the 2nd time round I measured the samples myself.   \n\\- I first measured the samples using the assay I used in my 2nd year  \n\\- I then measured the samples using the exact same technique he used   \n\\- I then took the samples to a different lab and then asked them to measure using their bioanalyser. ALL THREE OF THE ABOVE are in agreement and SHOW NO CLEAR DIFFERENCE OR TREND IN EITHER GROUP.   \nI asked him why this is and he stated that this time he frozen the samples too long. I know this is untrue because I measured samples 1 month after experiment (they are usually stable for 2 years when frozen in LN2). Even if they were frozen too long the pattern should be similar vs fresh samples. \n3. I then asked for the raw data. He stated that his USB was stolen while on holiday to China to visit his family. I have doubts about this, because data collected are saved on a network drive and wondered why he could not retrieve the results on his network drive and only had it on USB. During the course of my PhD we were reminded several times to back up our data.   \n\n4. despite lack of raw data he was still allowed to graduate. He is now working in R&D at a pharmaceutical company in China (diabetes medicine). His supervisor is almost retired and never checked anything that he did.   \n\n5. The problem is he is publishing a paper. It will have him (1st author), me (2nd author), his supervisor (3rd author), Principal scientist of collaborating company (4th) and Vice President of company (5th) - company is a Vietnamese start up. Best case scenario the paper is flat out rejected. Worst case scenario data manipulation has actually occurred - if so I assume only he will get in trouble?",
+  "author": "Hentoota-Kitty",
+  "created": 1636046808,
+  "updated": 1636136891,
+  "over_18": false,
+  "upvotes": 276,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "hjb2xx1": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjb2xx1/",
+      "text": "Your name is on it as an author. A second author directly after this student, nonetheless. I worry that it will seem like you are benefiting from this. If you have doubts about the validity of the data (and don\u2019t want to mention this issue to the other authors), I would suggest trying to get your name off of it.\n\nEdit: As others have mentioned. You don\u2019t have to accuse anyone of wrongdoing. Just say you\u2019re not comfortable publishing it under your name since the data aren\u2019t available for reanalysis.",
+      "author": "itsnotforrent",
+      "created": 1636047166,
+      "upvotes": 404,
+      "replies": {
+        "hjb4bxb": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjb4bxb/",
+          "text": "I second this - never put your name on anything like this.",
+          "author": "BroCFD",
+          "created": 1636047706,
+          "upvotes": 159,
+          "replies": {}
+        },
+        "hjb3q1e": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjb3q1e/",
+          "text": "I have no proof of data manipulation - the student no longer has the USB with the data on it",
+          "author": "Hentoota-Kitty",
+          "created": 1636047473,
+          "upvotes": 80,
+          "replies": {
+            "hjb9ns1": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjb9ns1/",
+              "text": "You can politely decline to be an author and if pressed say you aren't comfortable with authorship on a paper where the raw data aren't available. You don't have to make any accusation or suggest any wrongdoing. Others can draw their own conclusions and make their own decisions about being on a paper that they themselves can't verify.",
+              "author": "ACatGod",
+              "created": 1636049791,
+              "upvotes": 254,
+              "replies": {
+                "hjedezd": {
+                  "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjedezd/",
+                  "text": "This!!!",
+                  "author": "-Just-Keep-Swimming-",
+                  "created": 1636108655,
+                  "upvotes": 5,
+                  "replies": {}
+                }
+              }
+            },
+            "hjbdpgk": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbdpgk/",
+              "text": ">the student no longer has the USB with the data on it\n\nHow convenient, ist it? And with convenient I mean suspicious",
+              "author": "Schlonksi",
+              "created": 1636051387,
+              "upvotes": 73,
+              "replies": {}
+            },
+            "hjbptn0": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbptn0/",
+              "text": "If you don't have the raw data then the data is made up. This is my university policy. Don't be affiliated with academic dishonesty, especially knowingly. Don't let your advisor publish fake data either. Period. People can dedicate their careers to other people's findings. Don't contribute to this problem",
+              "author": "ActionXPotential",
+              "created": 1636056151,
+              "upvotes": 71,
+              "replies": {}
+            },
+            "hjb4jj7": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjb4jj7/",
+              "text": "I think it\u2019s probably best that you consult your university\u2019s research ethics and integrity office for advice. Usually researchers are mandated to keep the data for at least five years in digitally secure locations, so this student is already in breach of protocol. You might have to retract the study if you don\u2019t have any of the original data.",
+              "author": "SunburntWombat",
+              "created": 1636047787,
+              "upvotes": 85,
+              "replies": {
+                "hjbeh7s": {
+                  "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbeh7s/",
+                  "text": "This is a good point. In fact, at the school itself I would be surprised if the IRB record doesn't say something to that effect, in which case the paper would need to be retracted for breach of IRB guidelines.",
+                  "author": "imyourzer0",
+                  "created": 1636051687,
+                  "upvotes": 26,
+                  "replies": {}
+                },
+                "hjdywov": {
+                  "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjdywov/",
+                  "text": "100% this - please follow up with research integrity. If you pass it off as their supervisor and as co\u2014author, you may also face discipline if someone picks it up after publication and reports it then.\nAlso, sometimes supervisors will be held more to account if they are seen to condone falsified data.\nThe research needs its proof.\nWish you the best.\n\nEdit - have seen your previous post regarding your own PhD and very similar issues.\nIf this is your work, it\u2019s likely someone will discern the lack of data integrity and you\u2019ll either be reported, or the journals will likely not publish.",
+                  "author": "aliasthejesteress",
+                  "created": 1636095877,
+                  "upvotes": 5,
+                  "replies": {
+                    "hjebkja": {
+                      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjebkja/",
+                      "text": "With mine i do have the raw data which I have included in reports sent to my supervisor (which he never looked at during my entire 6 years\u2026), but have very few technical replicates (3-4) and only got round to testing repeats on 1 sample with no biological replicates in my entire thesis.",
+                      "author": "Hentoota-Kitty",
+                      "created": 1636107194,
+                      "upvotes": 1,
+                      "replies": {
+                        "hjec1tu": {
+                          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjec1tu/",
+                          "text": "Internationally - the publications will need to be able to verify everything.\nIf your student has no data backup - please report as a potential breach.\nIt\u2019s far better to do the experiment twice and cop the cost of true data, than to try to palm off data as true when it cannot be duplicated or verified.",
+                          "author": "aliasthejesteress",
+                          "created": 1636107586,
+                          "upvotes": 2,
+                          "replies": {}
+                        },
+                        "hjebse9": {
+                          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjebse9/",
+                          "text": "The examiners were easier due to the pandemic and I had delays sourcing the items and I still graduated. \n\nBut this case is different as there is no raw data to back up any of the students masters thesis",
+                          "author": "Hentoota-Kitty",
+                          "created": 1636107375,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hjc5ctu": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjc5ctu/",
+              "text": "You never have to prove anything in order to be within your rights to say 'I'm not comfortable with this and I want no part in it.'",
+              "author": "lucianbelew",
+              "created": 1636062288,
+              "upvotes": 13,
+              "replies": {}
+            },
+            "hjbbocu": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbbocu/",
+              "text": "That in and of itself is a problem. The data are made up, and you can't check them. If you think they're unlikely to be correct, take your name off. (Then publish a paper refuting their results... with real data you collected of course.)",
+              "author": "imhereforthevotes",
+              "created": 1636050592,
+              "upvotes": 52,
+              "replies": {}
+            },
+            "hjc2bre": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjc2bre/",
+              "text": "yea that's basically the same as the dog eating his homework.   I'm surprised it was even published without the raw data, as most journals require it these days",
+              "author": "hike_n_bike",
+              "created": 1636061064,
+              "upvotes": 8,
+              "replies": {}
+            },
+            "hjcx824": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjcx824/",
+              "text": "The lack of data alone can be a reason for retraction. Journal of Finance (one of the top field journals in econ/finance/business) just retracted an award-winning article a couple months ago because the replication code did not reproduce one of their results, and the authors did not have the raw data anymore.",
+              "author": "set_null",
+              "created": 1636074162,
+              "upvotes": 9,
+              "replies": {
+                "hjdxh70": {
+                  "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjdxh70/",
+                  "text": "Yes.",
+                  "author": "PanOmnist",
+                  "created": 1636094645,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "hjc67s4": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjc67s4/",
+              "text": "And you did the same experiment and got completely different results multiple times? Have you talked to his supervisor about this and showed them the results you got? If not then you need to do that like yesterday.",
+              "author": "megsweg",
+              "created": 1636062632,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "hjc5zzy": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjc5zzy/",
+              "text": "Nor do you have proof that the data is valid, that\u2019s the point. I feel like you\u2019re trying to make excuses and you\u2019ve already made up your mind to go along with it despite many red flags",
+              "author": "Sunny37211",
+              "created": 1636062546,
+              "upvotes": 6,
+              "replies": {}
+            },
+            "hjdwxvs": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjdwxvs/",
+              "text": "You need to tell the student your concerns. Unless you a hundred percent satisfied run it up the chain.\n\nHonestly I can\u2019t believe you\u2019d publish anything without the source data. I had a project where the data was corrupted and I could show how I got my results. So I had to retest in sub optimal conditions. \n\nYou can use data you can\u2019t verify with a third party. Period.",
+              "author": "PanOmnist",
+              "created": 1636094197,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "hje70xf": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hje70xf/",
+              "text": "This is the entire problem. You publish a paper about data that does no longer exist. This is major red flag in science. Any good journal will reject your paper once they learn about this. \n\nThe best case is that the student really just stored the data in this careless fashion, even though you have told him several times to archive it properly. If so, how much do you trust the data sets were actually acquired under the conditions he claims, that lab book entries align with the data sets etc.? \n\nWorst case, there has never been actual data, and if someone finds out after publication, people will hold the supervisor responsible.",
+              "author": "territrades",
+              "created": 1636103241,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "hjeanxp": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjeanxp/",
+              "text": "Proof or it didn't happen, ffs. This is science.",
+              "author": "Undenyeable_",
+              "created": 1636106446,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "hjfdqnv": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjfdqnv/",
+              "text": "The burden should be on him to provide the data. It shouldn't matter that the USB was stolen. The stolen USB should mean the paper cannot be published.\n\n\nAt minimum, can he even show/explain how he collected the data? Some burden should be placed on him to support that he even knows how to collect the data, at least.",
+              "author": "TheSpanishPrisoner",
+              "created": 1636126720,
+              "upvotes": 1,
+              "replies": {
+                "hjffn4x": {
+                  "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjffn4x/",
+                  "text": "He finished quite some time ago, I heard nothing from him since. Paper has not yet been published.",
+                  "author": "Hentoota-Kitty",
+                  "created": 1636127457,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hjd8cs6": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd8cs6/",
+          "text": "I nth this. Politely decline, create a paper trail documenting your concerns, or do whatever, but don't sign on to a paper like that. It is extremely odd that the underlying data is missing.",
+          "author": "Thornwell",
+          "created": 1636079219,
+          "upvotes": 7,
+          "replies": {}
+        }
+      }
+    },
+    "hjb4ygc": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjb4ygc/",
+      "text": "You only have one good option, which is to let him *and coauthors* know that you are hesitant to publish this work. You could say this relates to the underlying data being unavailable and the inability to confirm the analysis. You don't have to say it's fake per se, but him not having that data means it is difficult to analyze fully. \n\nTaking your name off of this is not enough. If this work is published and you did nothing, it will still reflect negatively on you as the supervisor. The coauthors are relying on you as his supervisor. If he publishes this without your name and you tried to address this, and documented your efforts, at least you can explain the situation. If you do nothing, you might spend the rest of your career waiting for this to be discovered.\n\nThis tanks tenure cases.",
+      "author": "professorbix",
+      "created": 1636047946,
+      "upvotes": 146,
+      "replies": {
+        "hjbahv8": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbahv8/",
+          "text": "This is the best way.  Get out and let other people know that the data cannot be verified.  It is not worth it to have a tainted paper in your early training.  Not worth it at all.  \nI am sorry you are in this situation and proud of your scientific integrity.",
+          "author": "bu11fr0g",
+          "created": 1636050123,
+          "upvotes": 34,
+          "replies": {}
+        },
+        "hjdx6v9": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjdx6v9/",
+          "text": "This is solid advice. \n\nAgain: you can\u2019t publish results found with data you can\u2019t turn over to a third party for verification. That\u2019s so basic. From what you\u2019ve said the work shouldn\u2019t be publishable at all. It\u2019s horrible, if true, the data was lost. But you can\u2019t make claims about what you can\u2019t prove.",
+          "author": "PanOmnist",
+          "created": 1636094407,
+          "upvotes": 7,
+          "replies": {}
+        }
+      }
+    },
+    "hjb8szj": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjb8szj/",
+      "text": "If you no longer have and can't reproduce your own data, you really shouldn't be publishing about it.\n\nI'd get your name off this if I were you.",
+      "author": "Broric",
+      "created": 1636049454,
+      "upvotes": 53,
+      "replies": {
+        "hjbuzaz": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbuzaz/",
+          "text": "I agree with this short and sweet comment. \n\nOne of the most important rules of science is reproducibility. If the result (or data) can\u2019t be reproduced, then it shouldn\u2019t be fully trusted.",
+          "author": "OvulatingScrotum",
+          "created": 1636058160,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "hjb4bfb": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjb4bfb/",
+      "text": "I don't think you should try to publish something that you cannot replicate.  EDIT:  If they got the data from a public source, they can get it again.  If they did the work and had to manipulate the existing data, they should be able to do it again.  If they lost the ONLY copy of the \"data,\" then there are other issues going on in the dept. lab and their training methods/backup methods.\n\n2nd Edit:  Do you want this to potentially blow up in 6 years when you might be going up for tenure and/or promotion?  With your name on it, anything negative that comes out of it will be linked to you.",
+      "author": "winterneuro",
+      "created": 1636047700,
+      "upvotes": 49,
+      "replies": {}
+    },
+    "hjbcvdl": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbcvdl/",
+      "text": "> I asked for raw data but he stated his USB was stolen. Was I wrong not to pursue it any further?\n\nYes.\n\nIn addition to the comments made by others, it is important to recognize that in many if not most cases it is a condition of grant funding awards, subject to audit, that all raw data be stored securely and accessibly with secure back-ups. These requirements exist for exactly this reason - because without the raw data it is impossible to verify that a result is valid. Even if the data was in fact perfectly valid, by not managing this data correctly this validity is thrown into question.\n\nThis raises serious concerns, and if I were in your supervisor's position I would not publish this data as if it is brought into question he risks an audit that would show mismanagement of raw data - funding agencies will *not* be happy about this, and while the bulk of the blame would fall on your supervisor for not managing the data properly it is not something you would want to be associated with in your future career. If you cannot persuade your supervisor the best thing you can do is take your name off of the paper, and consider if reporting to the university research offices will be a good course of action (maybe yes, maybe more danger to you than it is worth).",
+      "author": "nuclearslurpee",
+      "created": 1636051062,
+      "upvotes": 34,
+      "replies": {}
+    },
+    "hjcuu7b": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjcuu7b/",
+      "text": "Dude your post history is absolutely insane.",
+      "author": "Wittyusernamehere2",
+      "created": 1636073115,
+      "upvotes": 25,
+      "replies": {
+        "hjdljk7": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjdljk7/",
+          "text": "Omg. Yes I think this post is not about OP's \"student\" but about him.\n\nHow is he not self-aware enough to delete this account?",
+          "author": "ezluckyfreeeeee",
+          "created": 1636086081,
+          "upvotes": 14,
+          "replies": {
+            "hjeiep9": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjeiep9/",
+              "text": "Basically I had 2 major issues:\n\nMy own PHD work - very low number of technical replicates but supported with raw data. Looking for low impact journal just to get a publication\n\nMasters student I supervised does not have raw data to back up his ANY OF ENTIRE THESIS.",
+              "author": "Hentoota-Kitty",
+              "created": 1636112165,
+              "upvotes": 2,
+              "replies": {}
+            },
+            "hjedi5i": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjedi5i/",
+              "text": "Yes I have strange kinks- and \u201cstudent\u201d is not me. If I was the student I would not post it on Reddit in the first place.",
+              "author": "Hentoota-Kitty",
+              "created": 1636108723,
+              "upvotes": 1,
+              "replies": {
+                "hjfcvtt": {
+                  "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjfcvtt/",
+                  "text": "you were expelled from your masters program for sexually harassing another student\n\nthat isn't a \"strange kink\", you're a predator",
+                  "author": "ezluckyfreeeeee",
+                  "created": 1636126389,
+                  "upvotes": 2,
+                  "replies": {
+                    "hjfe0og": {
+                      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjfe0og/",
+                      "text": "I was secretly taking photos of the lab technician wearing boots",
+                      "author": "Hentoota-Kitty",
+                      "created": 1636126828,
+                      "upvotes": -1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hjd8cgd": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd8cgd/",
+          "text": "Holy shit.",
+          "author": "DntfrgtTheMotorCity",
+          "created": 1636079215,
+          "upvotes": 9,
+          "replies": {}
+        },
+        "hjdgntb": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjdgntb/",
+          "text": "It's a rabbit hole, holy shit.",
+          "author": "oklmao21",
+          "created": 1636083339,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "hjdxjzx": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjdxjzx/",
+          "text": "Oh. My. God. \n\nAre the Brits okay?",
+          "author": "PanOmnist",
+          "created": 1636094711,
+          "upvotes": 2,
+          "replies": {
+            "hjeiva7": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjeiva7/",
+              "text": "I am not British. I am from Hong Kong, studied and worked in Canada most of the time with a few short stays in Britain",
+              "author": "Hentoota-Kitty",
+              "created": 1636112460,
+              "upvotes": 1,
+              "replies": {
+                "hjf3n9a": {
+                  "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjf3n9a/",
+                  "text": "I meant because there is a guy publishing fake science articles and taking pictures of women\u2019s feet without consent running around.",
+                  "author": "PanOmnist",
+                  "created": 1636122738,
+                  "upvotes": 1,
+                  "replies": {
+                    "hjf8op5": {
+                      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjf8op5/",
+                      "text": "1. I like boots, not so much feet\n\n2.  Nothing has been published yet. We don\u2019t know if the data is real or not because student lost his USB\n\n3. I would never falsify data in my own work - I am not an asshole",
+                      "author": "Hentoota-Kitty",
+                      "created": 1636124732,
+                      "upvotes": 2,
+                      "replies": {
+                        "hjfbeu2": {
+                          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjfbeu2/",
+                          "text": "You were expelled from a grad program for taking pictures of women work their consent. You\u2019re an asswhole.",
+                          "author": "wtfbirds",
+                          "created": 1636125812,
+                          "upvotes": 2,
+                          "replies": {}
+                        },
+                        "hjfbg6s": {
+                          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjfbg6s/",
+                          "text": "You were expelled from a grad program for taking pictures of women work their consent. You\u2019re an asshole.",
+                          "author": "wtfbirds",
+                          "created": 1636125826,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hje6ep2": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hje6ep2/",
+          "text": "Holy shit. This is definitely a joke account. This guy is disturbed.",
+          "author": "mister-mxyzptlk",
+          "created": 1636102670,
+          "upvotes": 2,
+          "replies": {
+            "hjeit5e": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjeit5e/",
+              "text": "I have a fetish for Leather boots, cat play and 18/19 year old Jewish girls. So what? It has nothing to do with academia",
+              "author": "Hentoota-Kitty",
+              "created": 1636112422,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hjbktqe": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbktqe/",
+      "text": "It's enough that he can't produce the raw data. You don't even have to accuse him of misconduct. All raw data must be supplied at the time of publishing, or at the least available to peers should they ask. If he cannot produce the raw data the paper is not publishable.",
+      "author": "NosemaCeranae",
+      "created": 1636054192,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hjbe91p": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbe91p/",
+      "text": "At the very least you need to take yourself off the author list. You do *not* want to be associated with a paper that had to be retracted. That, or you take the steps involved in getting it retracted.",
+      "author": "imyourzer0",
+      "created": 1636051597,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hjbg5cd": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbg5cd/",
+      "text": "Your name is the paper therefore you also will be in hot water.",
+      "author": "meifahs_musungs",
+      "created": 1636052344,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hjcdee8": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjcdee8/",
+      "text": "Pull your name off of it.\n\nWhen I die, I want to have never been an author on a retracted paper. Not even once as a middle author. When I have doubts, I write something polite and then say I would prefer not to be a coauthor, please remove my name.",
+      "author": "Eab11",
+      "created": 1636065606,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hjbfl7n": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbfl7n/",
+      "text": "Don't publish it if you have so many doubts about the data... Once published, there's always the possibility that somebody will examine the paper thoroughly and find out (post-publication review; check for example: [https://retractionwatch.com/?s=data+manipulation](https://retractionwatch.com/?s=data+manipulation)) Studies are frequently reported on [www.pubpeer.com](https://www.pubpeer.com) when people discover things that don't seem to be right (& maybe will request the data)... & may eventually result in a retraction of the paper..\n\nEdit: IF there was any misconduct of course",
+      "author": "NetKey1844",
+      "created": 1636052125,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hjbld26": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbld26/",
+      "text": "You could bring this issue as a hypothetical to your office of research misconduct. They recently gave my department a presentation in which they told us bringing hypotheticals to them is done often and a way to get a gauge on the situation without necessary repercussions.",
+      "author": "no_but_thanks",
+      "created": 1636054404,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hjcmwtz": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjcmwtz/",
+      "text": "You cannot have your name on this paper. This is RetractionWatch material.",
+      "author": "phdyle",
+      "created": 1636069642,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hjberg4": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjberg4/",
+      "text": "To be honest, I would NEVER publish anything that I didn't have the raw data for. If the data is gone, it should be regenerated. I know this will come across a bit rude, but data manipulation does happen in the US and even WE don't always trust things that come from non-European, or non US labs. There's a reason for that. Just be careful.",
+      "author": "BronzeSpoon89",
+      "created": 1636051799,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hjbudn4": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbudn4/",
+      "text": "Can you even publish without the raw data as supplementary information(SI) nowadays ? Might depend on the journal/database offcourse.",
+      "author": "robidaan",
+      "created": 1636057924,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hjbbhxg": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbbhxg/",
+      "text": "in a word, yes",
+      "author": "wildblueroan",
+      "created": 1636050521,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hjd9rkc": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd9rkc/",
+      "text": "Take a look at your university's research integrity policy; you may be obligated to report your concerns, and if you don't and it comes out later that you didn't, that may not go well for you. \n\nWhatever you do, don't be a co author on the paper. Withdrawing because the raw data is not available or replicable is a reasonable and responsible thing to do",
+      "author": "Amaranthesque",
+      "created": 1636079878,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hjdvglu": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjdvglu/",
+      "text": "According to the US Office of Research Integrity (just as a published guideline):\n\n[https://ori.hhs.gov/content/Chapter-6-Data-Management-Practices-Data-protection](https://ori.hhs.gov/content/Chapter-6-Data-Management-Practices-Data-protection)\n\nPeriod of retention. Data should be retained for a reasonable period of time to allow other researchers to check results or to use the data for other purposes. There is, however, no common definition of a reasonable period of time. NIH generally requires that data be retained for 3 years following the submission of the final financial report. Some government programs require retention for up to 7 years. A few universities have adopted data-retention policies that set specific time periods in the same range, that is, between 3 and 7 years. Aside from these specific guidelines, however, there is no comprehensive rule for data retention or, when called for, data destruction.\n\nHowever, most journals would expect you to retain the data for a period of 7 years.\n\nFirst and most important is to inform the supervisor.  They may also want to run a  mile from a situation in which the underlying data is missing (I know I would freak), and they are in a much better position to kill the paper/redo the work.\n\nIt is highly irresponsible to proceed with an attempt at publication in this case.",
+      "author": "Life_time_learner",
+      "created": 1636092982,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hjdwscx": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjdwscx/",
+      "text": "Falsifying data is serious. It compromises the validity of the entire scientific process. You are, in effect, signing off on fraud. Falsifying a positive result is, as it should be, a career ender.\n\nIt is not too late. You should confront this student directly and in writing. If he or she does not respond give them a timeline for when you will notify your institution. It should be short. No more than a week.\n\nThe scientific process is based on replication. If YOU noticed it it\u2019s a matter of time before someone else does. And people will ask why it wasn\u2019t caught earlier. \n\nIf they admit to it or recognize a mistake. Fine. Go from there and make sure they issue a correction. If they double down you need to take it out of your hands. \nYou potentially putting your, your advisor, your department and your entire institutions credibility and careers at risk. \n\nEmail the student tonight. Be prepared to notify your institution by next week. If the ethics aren\u2019t enough to motivate you, the fact that your career is on the line should.",
+      "author": "PanOmnist",
+      "created": 1636094075,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hjeenre": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjeenre/",
+      "text": "Troll account. Among all the fetish posts, he posts about being kicked out of a master's a PhD program and now this.",
+      "author": "benemivikai4eezaet0",
+      "created": 1636109598,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hjc7t1f": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjc7t1f/",
+      "text": "If you follow the Vancouver group\u2019s ethics recommendations you can\u2019t just pull your name from the paper. Anyone contributing to the work HAVE to be authors. To ensure transparency. This means that you have to fix the issue or stop the publication.",
+      "author": "arthurdentdenmark",
+      "created": 1636063281,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjbgxgt": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbgxgt/",
+      "text": "God knows if you are part of the cheating. You should have discovered it early on.",
+      "author": "chugotleung2016",
+      "created": 1636052655,
+      "upvotes": -2,
+      "replies": {}
+    },
+    "hjbdt6p": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbdt6p/",
+      "text": "[removed]",
+      "author": null,
+      "created": 1636051427,
+      "upvotes": -4,
+      "replies": {
+        "hjbzpez": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjbzpez/",
+          "text": "You could have addressed OP's issue without making disparaging remarks about Chinese students and academics, plus pulling the Chinese government and communism into it. This falls foul of both our code of conduct and our rule against political arguments. As such your comment has been removed.",
+          "author": "foibleShmoible",
+          "created": 1636060016,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hjd2p0e": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd2p0e/",
+      "text": "If you do not have the raw data and cannot reproduce the findings, do not allow your name to be put on the paper. \n\n> He is now working in R&D at a pharmaceutical company in China (diabetes medicine).\n\nThis is why \"made in China\" has such a bad reputation.",
+      "author": "D49A1D852468799CAC08",
+      "created": 1636076583,
+      "upvotes": -1,
+      "replies": {}
+    },
+    "hjc2p2r": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjc2p2r/",
+      "text": "Can you even publish without replication data and code? \n\nI wouldn't accuse him of anything but I will tell him to take my name off. Retraction due to fabrication is very embarrassing and is actual damage to your career regardless of the degree contribution you made on a study.",
+      "author": "publish_my_papers",
+      "created": 1636061216,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjc3pxi": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjc3pxi/",
+      "text": "No backup of the data?\nIf I were him I would have plenty of backups of this data as it's important?",
+      "author": "dhazrian",
+      "created": 1636061631,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjcle16": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjcle16/",
+      "text": "You\u2019ve gotten pretty unanimous comments here. But I think the fact that you\u2019re asking here suggests that you already know what you need to do. \n\nI\u2019m a little surprised it would even be possible to publish this. In my field, journals require all data and code as a condition of publication.",
+      "author": "EconGuy82",
+      "created": 1636068995,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjcxpqp": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjcxpqp/",
+      "text": "The only thing that matters is the authorship. Look, you can't control everything. He's graduated and moved on. Other people have too. And some of them lied or cheated their way through, you can't fix that or change it for every case that this happens. Frankly, you should let it go at this point and focus on your own professional development. Besides, the degree has been certified. It really can't be taken away with any meaningful consequences.   \n\n\nBut DO NOT ALLOW your name to be listed as an author if you have fundamental concerns with the content. Either fix it, bring it up, fight hard, and lose friends. Or just ask to be removed and focus on your other more important work.",
+      "author": "TuckerD",
+      "created": 1636074377,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjd0zhh": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd0zhh/",
+      "text": "I\u2019m not in your field, so I\u2019m no expert. I work as flight software engineer however, so although we don\u2019t do exactly the same thing, we do perform a lot of testing. For us, when an anomaly/failure is detected our goal is always to reproduce it. If he didn\u2019t make up the data, he/you shouldn\u2019t have a problem doing this. \n\nSaying you\u2019re not confident in the data because it can\u2019t be reproduced is a fair reason to ask for your name to be pulled from the authorship IMO. \n\nGood luck.",
+      "author": "chicocle",
+      "created": 1636075828,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjd3jlw": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd3jlw/",
+      "text": "I would not let anything be published with my name on it if the project were missing raw data, and particularly if the explanation for why is suspicious. \n\nIt is very strange that collected data would be stored on a single hard drive, and in many cases, keeping secure backups of raw data is a condition for academic grants. Non-verifiable results aren't useful to anyone.",
+      "author": "Opus_Majus",
+      "created": 1636076964,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjd45od": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd45od/",
+      "text": "> I have doubts regarding the validity of his data\n\n>The problem is he is publishing a paper. It will have him (1st author), me (2nd author)\n\nRequest to whoever is writing the paper to remove you from the author list by email, citing your concerns. If they refuse,: contact the editor of the journal they submitted the manuscript, all authors have to consent to the publication in all journals I've seen.",
+      "author": "GatesOlive",
+      "created": 1636077246,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjd4jpn": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd4jpn/",
+      "text": "A little unusual to only store raw data in one place. Best practices is three copies",
+      "author": "Specialist_Fish8023",
+      "created": 1636077428,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjd6ccv": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd6ccv/",
+      "text": "Ask to take your name off the paper. At this point most anything else is kind of pointless. He already has a job probably making good money. If I could lie on my resume to make better money I probably would too.",
+      "author": "hdiddyld",
+      "created": 1636078265,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjd7wvs": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd7wvs/",
+      "text": "Like everyone else here, you should do something. Whether that is taking your name off the paper, telling someone about your concerns, etc\u2026 is up to you.\n\nFraud is a capital crime in academia and, if you intend to continue in academia, you need to decouple yourself from this. \u2018Losing the data\u2019 when the results do not make sense is very convenient, especially so since this data was not backed up on the commonly used network drive. \n\nIt is my opinion that it should be a condition for publishing in any journal that raw data be saved and made available upon reasonable request. The publish or perish culture of science today can motivate a lot of dishonesty. How can science advance in such a culture without the ability to check work? \n\nI would not put my name on a paper unless I know 100% the data and analysis are accurate.",
+      "author": "rawCashewsRock",
+      "created": 1636079013,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjd9mbk": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjd9mbk/",
+      "text": "Not only is the raw data not available, the results could not be replicated.  Even if the raw data really existed and was valid, there is more to the story if repeating the same experiment with the same conditions consistently yields  results different from the original set but consistent within the reruns.  This needs ro be explained.",
+      "author": "Automatic-Flounder-3",
+      "created": 1636079809,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjdxpki": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjdxpki/",
+      "text": "Firstly you need to discuss with your supervisor. Second.y ask to have your name removed from the paper, thirdly ask for reproduction of the experiment with monitored processes.",
+      "author": "gmabarrett",
+      "created": 1636094847,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjeei11": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjeei11/",
+      "text": "It\u2019s A LOT easier to take your name off the paper now than after it is published.",
+      "author": "TheWiseOne1234",
+      "created": 1636109479,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjef0v5": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjef0v5/",
+      "text": "No raw data no publication.",
+      "author": "krsm4423",
+      "created": 1636109869,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjemieh": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjemieh/",
+      "text": "I went through slightly similar situations when mentoring junior PhD candidates in a collaboration with another PI. Sometimes you can spot a lack of integrity very early on - some people completely lack scientific rigor and want to produce meaningless data. I believe this largely also stems from a PI that also lacks integrity. Other times, they want to draw conclusions not supported by data, by selectively excluding data. I brought up both cases to my PI, after trying to talk to these students myself, and we both removed ourselves from further involvement. \n\nIn short, you must never allow your name to be associated with data that lacks integrity. Just kindly remove yourself.",
+      "author": "BigBeard86",
+      "created": 1636114656,
+      "upvotes": 1,
+      "replies": {
+        "hjeovqa": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjeovqa/",
+          "text": "My situation is slightly different because I have no evidence of fabrication from the student I supervised - he has won prizes for his research during his programme - but has no raw data for his ENTIRE MASTERS THESIS \n\ndespite this he was still allowed to graduate",
+          "author": "Hentoota-Kitty",
+          "created": 1636115951,
+          "upvotes": 1,
+          "replies": {
+            "hjepcmk": {
+              "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjepcmk/",
+              "text": "You do have evidence...you tried to repeat the data, and it was not possible. That would be enough for me to remove yourself from a paper. \n\nIf it was intentional or not - meaning very poor experimental design and note taking, or, straight out fabrication - you won't know.",
+              "author": "BigBeard86",
+              "created": 1636116197,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hjenuhj": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjenuhj/",
+      "text": "Serious issue of academic dishonesty. You should report it to both the University and to the Journal. Since your name is coauthor you can be held responsible and it can distroy your career and reputation. That is the policy at my university where I am a faculty member.",
+      "author": "BCCISProf",
+      "created": 1636115402,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjf947o": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjf947o/",
+      "text": "how is the paper getting published with no raw data and not being reproducable?  i would think those two things would have to happen\u2026but admittedly i dont know the ins and outs of publishing studies. it seems it would really erode confidence in science if just any old study can get published that could theoretically be complete fiction.",
+      "author": "roxiebee3",
+      "created": 1636124907,
+      "upvotes": 1,
+      "replies": {
+        "hjf9wr1": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjf9wr1/",
+          "text": "Nothing has been published as of now - I heard nothing from the student for quite some time",
+          "author": "Hentoota-Kitty",
+          "created": 1636125220,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hjfh30t": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjfh30t/",
+      "text": "That\u2019s very suspicious and I would flat out tell him that if he can\u2019t give you the raw data that he shouldn\u2019t be publishing it.",
+      "author": "OneEye9",
+      "created": 1636128023,
+      "upvotes": 1,
+      "replies": {
+        "hjfhidq": {
+          "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjfhidq/",
+          "text": "The problem is worst case scenario he will lose his masters degree and his R+D job in china",
+          "author": "Hentoota-Kitty",
+          "created": 1636128186,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hjfpg0v": {
+      "link": "/r/AskAcademia/comments/qmprwy/during_my_phd_study_i_had_supervised_a_masters/hjfpg0v/",
+      "text": "\"In God we trust, all others bring data\". \n\nSimple as that.",
+      "author": "rediknight78",
+      "created": 1636131215,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

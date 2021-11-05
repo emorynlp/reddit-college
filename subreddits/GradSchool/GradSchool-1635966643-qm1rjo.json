@@ -1,0 +1,39 @@
+{
+  "sid": "qm1rjo",
+  "link": "/r/GradSchool/comments/qm1rjo/citation_software/",
+  "title:": "Citation software",
+  "text": "Hello everyone!\nDuring my bachelor's in psychology, I have used EndNote to organise the references in my papers. However, I am not fully pleased with it since I cannot edit in-text references or footnotes.\nNow I have to start working on my bachelor's thesis and I am thinking to switch to a different citation software. Any recommendations? Or should I just do it manually, the old-fashioned way?\nThank you in advance!",
+  "author": "_Lali__",
+  "created": 1635966643,
+  "updated": 1636138150,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hj6q4fj": {
+      "link": "/r/GradSchool/comments/qm1rjo/citation_software/hj6q4fj/",
+      "text": "Zotero is probably the best option for you. Easy to use and free ([https://www.zotero.org/](https://www.zotero.org/)), and is likely the most popular/most used citation software.\n\nBut for your reference, there is also Mendeley ([https://www.mendeley.com/download-reference-manager/](https://www.mendeley.com/download-reference-manager/)) or ReadCube Papers ([https://www.papersapp.com/](https://www.papersapp.com/)). There are others out there, but Zotero and Mendeley are the two main ones people tend to use. \n\nAll of these have work plugins, so they should all be easy to use for your thesis.",
+      "author": "sensorimotorneuro",
+      "created": 1635966900,
+      "upvotes": 7,
+      "replies": {
+        "hjbfyfj": {
+          "link": "/r/GradSchool/comments/qm1rjo/citation_software/hjbfyfj/",
+          "text": "Thank you so much! This is really helpful.",
+          "author": "_Lali__",
+          "created": 1636052269,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hj7sx1o": {
+      "link": "/r/GradSchool/comments/qm1rjo/citation_software/hj7sx1o/",
+      "text": "Zotero is a great start. If you want an even deeper workflow, check out Obsidian!",
+      "author": "ForeverRising-",
+      "created": 1635982475,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

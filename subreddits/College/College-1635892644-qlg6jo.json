@@ -1,0 +1,46 @@
+{
+  "sid": "qlg6jo",
+  "link": "/r/college/comments/qlg6jo/how_do_your_tests_in_computer_science_classes_go/",
+  "title:": "How do your tests in computer science classes go down, and should I stick around for CS?",
+  "text": "Hello,How  do your tests in your computer science classes, if any, go down? In my  college's computer science department there seems to be only one  computer science teacher. The way he does his tests is by having us go  on Zybooks (C++) with around an hour to complete whatever he wants. It  often is very different to what we do on the homework and if you make a  single mistake it's very easy to get a zero for the whole exam on  Zybooks. References/lookups/etc are forbidden. In addition to this you  have to submit a test case file on a separate program which will  automatically be scanned to ensure every function meets the teacher's  test cases and if there is an issue it will also be a zero. Is this  normal for computer science classes?\n\nDue  to the way my professor does his tests, I have failed two exams out of  three because I ended up making a small mistake in both which resulted in me earning a failing grade. Consequently, I have failed a college course for the first time. If this is the norm for CSS courses, I might just  have to think of another stem degree because I atleast have very good grades in math and physics. I really enjoy the subject but these tests have been destroying my mental health, should I stick around for CS?",
+  "author": "avg_tf2fan",
+  "created": 1635892644,
+  "updated": 1636137577,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hj2mr6q": {
+      "link": "/r/college/comments/qlg6jo/how_do_your_tests_in_computer_science_classes_go/hj2mr6q/",
+      "text": "All my CS exams were either in person, pencil and paper (and mostly conceptual with some code), or project based. Written exams either allowed a single reference sheet or no reference at all. Projects you could obviously use your resources short of plagiarizing.\n\nGetting a zero for missing a single test case is not the norm at all. Partial credit exists.",
+      "author": "mrbmi513",
+      "created": 1635892944,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hj30dxm": {
+      "link": "/r/college/comments/qlg6jo/how_do_your_tests_in_computer_science_classes_go/hj30dxm/",
+      "text": "My CS exams were mostly projects. Had to download this software and complete projects with coding, programming,\nEtc.",
+      "author": "alwaystrivenprosper",
+      "created": 1635898595,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hj33xhi": {
+      "link": "/r/college/comments/qlg6jo/how_do_your_tests_in_computer_science_classes_go/hj33xhi/",
+      "text": "This doesn't sound normal to me. If you don't want to carry on with CS because of this, one potential option you have is to do your degree in math/physics, since CS is math-heavy. A lot of jobs accept these quantitative degrees in place of a CS degree. Then, you learn programming and the theory concepts in your own time using online resources and apply for internships/jobs. At the end of the day, the recruiter really only cares about whether you can do the job, you don't even necessarily need a degree to get a SWE job.",
+      "author": "NoDryHands",
+      "created": 1635900032,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hj4ql0q": {
+      "link": "/r/college/comments/qlg6jo/how_do_your_tests_in_computer_science_classes_go/hj4ql0q/",
+      "text": "My exams were broken up into two parts. First part is the canvas exam where it's multiple choice questions regarding all the topics we've covered. \n\nThen the coding part is they ask you to code, usually two scenarios. Both times I had to create a class that either implemented another file. Or just a class, something about jelly beans using iterators/linked lists etc. This was last CS class. Not sure how my current exam will be, my quizzes are 25% of the grade, assignments/projects are 50% of the grade and final exam is 25% of the grade.\n\nEdit: the coding part scenarios is on canvas and then we use eclipse to code.",
+      "author": "ShadowIG",
+      "created": 1635935570,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

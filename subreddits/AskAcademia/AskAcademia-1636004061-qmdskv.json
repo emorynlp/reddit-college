@@ -1,0 +1,99 @@
+{
+  "sid": "qmdskv",
+  "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/",
+  "title:": "Ethics of directing your class' work toward your own research? How to provide credit?",
+  "text": "I'm curious about the ethical and administrative considerations of directing the work of a course you're teaching toward your own research interests and scholarly output.\n\nI teach a programming class at my university. The class needed a revamp to the group projects -- standard teams of 3-4 in a 60 person class meant that the TAs and I didn't have the visibility or ability to directly connect our lectures to the project work.\n\nI landed on an idea to have **two large projects** running concurrently that students will contribute to throughout the quarter, we will refer to specific issues occurring in those projects throughout the quarter, and students will get a more realistic software project experience (larger, more complex projects with more oversight and direct discussion of the day-to-day issues). I am really happy with this model even if it has nothing to do with my research! (And also welcome your thoughts on the general pedagogical approach.)\n\nThe question is how much these large projects can and should be aligned with my own research. Would it be okay to build one of the two project ideas toward my research each year? I would absolutely ensure that students are well-informed about my intended use and have the completely free option to choose the project unrelated to my own research and career advancement. I don't want students to feel like they are forced to work on things solely because they benefit me.\n\nIt would be great to churn out a simple software publication from one or each of the projects, but there are a number of questions that come up. Would I treat **all** the students involved as authors (~30, fine in my field)? Would it be okay to offer the opportunity for co-authorship **only to those who contributed significantly** (defined beforehand in the syllabus based on amount of code, writing, and other factors), or would that be unfair to other students? I want to give students the opportunity to **opt out** of work that benefits me directly, so maybe the non-related project shouldn't have any publication attached (since I would be a co-author and therefore benefit a tiny bit), but does that harm the students who chose the second assignment due to inequality of opportunity?\n\nThis is complicated by the fact that I am a PhD student in addition to my teaching role. This area seems even more ethically nebulous; how far away from my planned dissertation work must this project be? I certainly would not want to center it in my dissertation work, but if the class published the software in a publication first, is this software something that I could refer to, utilize, or build a small section from with proper credit (and of course, not using any of the writing from class)?\n\nI swear I'm not trying to take advantage of anyone, but admit to being intrigued by all sorts of synergies within the system. Is this going too far?",
+  "author": "a-perpetual-novice",
+  "created": 1636004061,
+  "updated": 1636136903,
+  "over_18": false,
+  "upvotes": 10,
+  "upvote_ratio": 0.82,
+  "comments": {
+    "hj9qn1m": {
+      "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/hj9qn1m/",
+      "text": "In my field (games research), I've seen many papers (typically USA) where the games were developed as a part of capstone project. I don't believe all the students were credited for this. They submitted the games as a part of games competition (which is a track in ACM-Games related conferences and journals).",
+      "author": "Practical-Smell-7679",
+      "created": 1636026199,
+      "upvotes": 12,
+      "replies": {
+        "hj9xn7l": {
+          "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/hj9xn7l/",
+          "text": "I have two real-life examples from closely related fields: Professor A referred to student Bachelor's theses the way one would if it was published research, professor B just took these 100 student research projects and integrated their results in his/her own study without recognition.\n\nImo, A isn't viable in most contexts, but B isn't kosher either. We need to find a middle way.",
+          "author": "molobodd",
+          "created": 1636030178,
+          "upvotes": 6,
+          "replies": {
+            "hjb0a5n": {
+              "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/hjb0a5n/",
+              "text": "Thanks for these examples.\n\nFor A, I'm not familiar with Bachelor's theses and how their treated. Is it not viable because the Bachelor's theses are not of high quality? Or that they shouldn't generally be referenced? (That said, if I go this route, the students will likely publish their software with a small paper to the Journal of Open Source Software, not theses. These are all professional master's students with no thesis option in their current program.)\n\nThe B approach is definitely not okay, I do not at all want to do something like this.",
+              "author": "a-perpetual-novice",
+              "created": 1636046136,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hjb0j4k": {
+          "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/hjb0j4k/",
+          "text": "Games research is a great example!\n\nCapstone projects in general as well, but I imagine that the instructor leading the capstones are less involved with the work.",
+          "author": "a-perpetual-novice",
+          "created": 1636046233,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hja4254": {
+      "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/hja4254/",
+      "text": "In my area of research (psychology and neuroscience) this would be highly questionable. It seems akin to having students develop a research project and then publishing their results yourself. \n\nI\u2019m also not sure how you would ethically separate the grading of this project from your own conflict of interest. \n\nI can\u2019t see this working well. If you think the students are interested I would make a group that works on your research project as part of an independent research group unaffiliated with the class.",
+      "author": "moderneros",
+      "created": 1636033284,
+      "upvotes": 4,
+      "replies": {
+        "hjb150k": {
+          "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/hjb150k/",
+          "text": "Thanks! It is helpful to have negative responses as well. I definitely don't want to step afoul of anything.\n\nI have some thoughts on separating grading from research component (which I agree is important), but will really scrutinize this more should I go forward. (I'm also not committed to relating it to my own research at all, so I may drop that part altogether.)",
+          "author": "a-perpetual-novice",
+          "created": 1636046466,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hj9et0i": {
+      "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/hj9et0i/",
+      "text": "Maybe you could list all contributors as supplemental information, with a proper DOI and all that?\n\nEither way, you would need someone else to sign off on it, like your department's ethics board or similar.",
+      "author": "molobodd",
+      "created": 1636017138,
+      "upvotes": 5,
+      "replies": {
+        "hj9f3p8": {
+          "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/hj9f3p8/",
+          "text": "Thank you! I will look for an ethics board of some sort.\n\nAnd yes, the plan would be to submit the software to a journal (Journal of Open Source Software if anyone is curious) which leads to a DOI.",
+          "author": "a-perpetual-novice",
+          "created": 1636017402,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "hja98qc": {
+      "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/hja98qc/",
+      "text": "I think this is all about context. I've seen faculty incorporate students into their research projects in ways that worked out really well, and I've seen faculty steer courses toward their pet projects in ways that substantially deviated from the intended focus of the course.\n\nWhere I've seen this work well in my field (psychology) is in research methods courses. The faculty member has a project idea and has students conduct the study. Because the course is about designing and conducting research studies, conducting research is immediately applicable to the course. And because the student projects are directly related to the faculty member's area of expertise, the faculty member can provide better guidance than if the students picked a random topic that was most interesting to them.\n\nOn the flip side, I have seen professors try to plug students into their research projects by making the course focus on their research--a topic somewhat related to the course--at the expense of covering the breadth of topics that might ordinarily be covered in such a course.\n\nI think your proposal, that includes both an option to contribute to research and an alternative option, is well thought out. And while getting a publication benefits you, it would also benefit your students. I think you would want to be mindful of whether you are providing similar levels of feedback and support to students working on the project that does not relate to your research. Ultimately, though, what you propose can be done well as long as students are learning what they are supposed to learn in class and you are thoughtful about how you approach it.",
+      "author": "jogam",
+      "created": 1636035570,
+      "upvotes": 2,
+      "replies": {
+        "hjb347t": {
+          "link": "/r/AskAcademia/comments/qmdskv/ethics_of_directing_your_class_work_toward_your/hjb347t/",
+          "text": "Thank you for your reply! All of your comments and the examples you've provided have been very helpful for me.\n\nThe class is a software design class, so the primary goal of the course is for students to learn how to design and compose complex software in my field. This strikes me as similar to the research methods example as it is a skills-based class that benefits from depth and realistic experiences. All of the changes, if feasible, were added in hopes of delivering on student learning objectives with my interests being far secondary. Combining in larger groups leads to less independent experience with project design, but my hope is that this is outweighed by the level of detail we can reach and complexity of issues we can cover in class. I will supplement with some individual design sketch assignments for students to work independently on generating ideas before addressing them in class and co-designing. \n\nThis point aligns with my suspicion:\n\n> I think you would want to be mindful of whether you are providing similar levels of feedback and support to students working on the project that does not relate to your research.\n\nI think that keeping the opportunities for students equal with respect to the class is the right way to go. Both will submit short papers to the same venue and I will spend equal time on the two projects. The project more related to my research will present more opportunities for longer term engagement, but that is outside of class.\n\nThanks again!",
+          "author": "a-perpetual-novice",
+          "created": 1636047235,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}
