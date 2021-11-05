@@ -1,0 +1,39 @@
+{
+  "sid": "qkluy4",
+  "link": "/r/college/comments/qkluy4/can_canvasblackboardschool_email_see_that_i/",
+  "title:": "Can Canvas/BlackBoard/School Email See that I Occasionally Watch Porn While Logged In? Who Sees It? Who Tracks It?",
+  "text": "uhhhh yeah yea yeah. Bad idea but at this point its way passed the point of return. So who can see what i been surfing? My professors? Bill Gates? Annunaki?",
+  "author": "youmud",
+  "created": 1635795471,
+  "updated": 1635890857,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.5,
+  "comments": {
+    "hixfkbr": {
+      "link": "/r/college/comments/qkluy4/can_canvasblackboardschool_email_see_that_i/hixfkbr/",
+      "text": "Most likely just your ISP which obviously doesn't care about it. They don't look, most promise not to, but if they did they would also only see the server addresses / domains because everything else is encrypted.\n\nWebsites you are logged into can only track activity throughout their own site and partner sites. It would be a massive security issue if they could monitor general browser activity.",
+      "author": "darniforgotmypwd",
+      "created": 1635799308,
+      "upvotes": 2,
+      "replies": {
+        "hj1e9jk": {
+          "link": "/r/college/comments/qkluy4/can_canvasblackboardschool_email_see_that_i/hj1e9jk/",
+          "text": "Thank you",
+          "author": "youmud",
+          "created": 1635875708,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hiy0pvc": {
+      "link": "/r/college/comments/qkluy4/can_canvasblackboardschool_email_see_that_i/hiy0pvc/",
+      "text": "Yes, if you are on the schools network. The universities IT department.",
+      "author": "WCCobra",
+      "created": 1635808286,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

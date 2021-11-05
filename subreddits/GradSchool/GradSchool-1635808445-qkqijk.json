@@ -1,0 +1,82 @@
+{
+  "sid": "qkqijk",
+  "link": "/r/GradSchool/comments/qkqijk/3_things_ive_learnt_about_reading_the_literature/",
+  "title:": "3 things I've learnt about reading the literature in my field",
+  "text": "More than halfway through the first year of my math PhD; felt like I've learnt a lot about how to read stuff and wanted to talk about it, I guess!\n\n&#x200B;\n\n1 - Read multiple sources\n\nWe've been told this all the time in high school and undergrad, but the reason most often given is 'that one source could be wrong'. So my thought was 'good thing I'm doing math, which isn't about empirical facts, so I don't need to worry about if a source is wrong because I can check if it makes sense or not'.\n\nAnd I still think that's correct, but that doesn't mean there's no value into looking at different sources even in math. Different sources have different approaches to describing things, which makes it easier to understand the thing. If you get stuck trying to understand one source, you can see how another source explains it, and some sources will click better with you, whether because it doesn't rely on machinery you're not familiar with or you just find it more natural to think that way. Also, cross-referencing can lead you to deeper understanding on all fronts, and could be a gateway to understanding the unfamiliar background and machinery some of the more obtuse sources use.\n\n&#x200B;\n\n2 - It's better to get a feeling for how something works than to prove it rigourously\n\nDon't try to understand the general case from the get-go. It might seem more efficient because you technically go through less material, but it actually ends up taking more time if you're going through that material at a glacial pace because it's harder to process than more concrete cases. Look at examples early and often.\n\nAt the beginning I found myself trying to read a proof for why the general statement is true, and then my brain immediately forgets all those technical details. In the end, I'm left with no greater understanding; only the reassurance that yes, I've checked that everything makes sense even though I don't remember why. It feels like no less like an appeal to authority than just trusting the proof is correct; the only difference is the 'authority' is my past self.\n\ni found it's better to just look at some examples and get a feel for how it works; the intuitive understanding sticks with you better. If it feels 'obvious' why it generalises, it probably is and it's probably best to leave rigourous proofs for when you're exploring uncharted territory.\n\n&#x200B;\n\n3 - The most 'polished' source isn't necessarily the best one\n\nMore 'polished' literature like books or published articles are often optimised for conciseness rather than understandability. In contrast, rougher preliminary notes can walk you through the writer's thought process while developing the theory, which often makes it easier to follow because it's more natural for our brains to think that way.\n\n&#x200B;\n\nA lot of this went against what I was used to in undergrad. The lecture slides they gave us for class were more than sufficient; they were concise enough to cover the entire subject in time, but also easy to understand because they did things from first principles without using machinery I'm not familiar with\\*. Rigour was also key in understanding the material and the more fundamental theorems that emerge more-or-less directly from first principles were actually simple enough to stick.\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n\\*except for calculus classes, which often reference physics and what I assume was stuff from the two-thirds of our year 12 math textbook that we didn't cover in school.",
+  "author": "crapsh0ot",
+  "created": 1635808445,
+  "updated": 1635891381,
+  "over_18": false,
+  "upvotes": 22,
+  "upvote_ratio": 0.87,
+  "comments": {
+    "hiyfolt": {
+      "link": "/r/GradSchool/comments/qkqijk/3_things_ive_learnt_about_reading_the_literature/hiyfolt/",
+      "text": "How do you feel about paper from the early 90's that use units you've never seen before.",
+      "author": "suckuma",
+      "created": 1635814967,
+      "upvotes": 8,
+      "replies": {
+        "hiyx7sl": {
+          "link": "/r/GradSchool/comments/qkqijk/3_things_ive_learnt_about_reading_the_literature/hiyx7sl/",
+          "text": "Imo sometimes you can figure out what the unfamiliar notation means from context so they just slow you down and sometimes you can't and get stuck. It's times like these that looking at another source can give you the necessary context to get unstuck!",
+          "author": "crapsh0ot",
+          "created": 1635823219,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hiyscp3": {
+      "link": "/r/GradSchool/comments/qkqijk/3_things_ive_learnt_about_reading_the_literature/hiyscp3/",
+      "text": ">It's better to get a feeling for how something works than to prove it rigourously\n\nIn order to prove something rigorously, you have to have a feel for how it works honestly.",
+      "author": "grothendieck1",
+      "created": 1635820803,
+      "upvotes": 6,
+      "replies": {
+        "hiyxr9q": {
+          "link": "/r/GradSchool/comments/qkqijk/3_things_ive_learnt_about_reading_the_literature/hiyxr9q/",
+          "text": "True, though I guess I was talking more about reading a proof that already exists. You can 'confirm it's correct' without having any intuition for how it works, but you probably won't get much out of it",
+          "author": "crapsh0ot",
+          "created": 1635823490,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "hiyo0zd": {
+      "link": "/r/GradSchool/comments/qkqijk/3_things_ive_learnt_about_reading_the_literature/hiyo0zd/",
+      "text": "This reminds me to some extent of [this.](http://math.stanford.edu/~vakil/threethings.html) Attending talks is very difficult for a while in a way which feels similar to getting into the literature for the first time. I\u2019ve only recently gotten into the literature and it\u2019s been quite a challenge. I definitely lack a huge amount of the necessary background but my advisor has been very good at making things seem understandable to enough of an extent for now. The things I don\u2019t understand in the readings have helped indicate things to pick up on as we move forward and it\u2019s rather shocking to see how much progress one can make in just a few months.",
+      "author": "Erockoftheprimes",
+      "created": 1635818745,
+      "upvotes": 5,
+      "replies": {
+        "hiyxl8f": {
+          "link": "/r/GradSchool/comments/qkqijk/3_things_ive_learnt_about_reading_the_literature/hiyxl8f/",
+          "text": "Interesting link! I also started my degree with not that much background in the field, and still struggle with both talks and literature. Ngl a lot of what I figured out was from seeing what my advisor talks about to get me unstuck on a thing I've been reading",
+          "author": "crapsh0ot",
+          "created": 1635823406,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hiyuse2": {
+      "link": "/r/GradSchool/comments/qkqijk/3_things_ive_learnt_about_reading_the_literature/hiyuse2/",
+      "text": "I think this is pretty good advice, particularly for people working in interdisciplinary fields. I work in a multidisciplinary research team and one of the biggest problems we've had is students from computer science and statistics who will crunch numbers and plop out garbage because \"makes sense\" mathematically, but makes zero sense ecologically. For example, in writing a paper in political science, the numbers might say that districts with greater proportion of Black residents are more likely to vote Republican but anyone who has even a minor grasp on the subject matter would see that's probably incorrect.\n\nAlso, some academics are just terrible, awful writers so reading multiple sources makes it more likely you will be able to find someone who makes a similar argument in a more accessible way. In my opinion, knowledge that is not accessible is worthless, so the folks that published a bunch of hard to understand, needlessly complicated articles just wasted someone's grant money.",
+      "author": "False-Guess",
+      "created": 1635821994,
+      "upvotes": 3,
+      "replies": {
+        "hiyys2h": {
+          "link": "/r/GradSchool/comments/qkqijk/3_things_ive_learnt_about_reading_the_literature/hiyys2h/",
+          "text": "I guess that makes sense; if it's almost as hard to access the knowledge as it is to straight up rediscover it from scratch, then the writeup doesn't have much use. Though I feel like even the most obtuse articles can be deciphered with a systematic approach, whereas rediscovering its content from scratch would require creativity, so stuff that's written just to exist has its value. But good exposition is no less important than new discoveries!",
+          "author": "crapsh0ot",
+          "created": 1635824029,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

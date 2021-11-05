@@ -1,0 +1,575 @@
+{
+  "sid": "qkglg7",
+  "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/",
+  "title:": "Software for grad students?",
+  "text": "Is there any programs or software that really helped out during your work as a graduate student? I'm thinking like things that sort and hold papers you download, things that help you keep track of notes and highlights from papers with annotations, so on and so forth. General quality of life stuff too. I'm curious about what people typically already use before jumping in myself. For reference, this is my first semester of a PhD after graduating from undergrad this May. Thanks in advance!",
+  "author": "danifreedude",
+  "created": 1635780966,
+  "updated": 1635891380,
+  "over_18": false,
+  "upvotes": 86,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "hiwh5ld": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwh5ld/",
+      "text": "Python, or really any scripting language, has really helped with my PhD. I do a large amount of data workup and image analysis, so having scripts to automatically do tedious and time consuming portions really helps. \n\nOthers I would recommend: \nNextcloud, I run a NAS at home along with automated backups. Also use nextcloud as my calendar. For a good backup solution, I use rclone to gdrive since as a student you get 5TB free from google.\n\nZotero for citation and paper management \n\nAn RSS reader for new papers from journals I like, I use TTRSS\n\nJoplin for notes and lists\n\nVinkunja for todo lists\n\nA good browser, I like Vivaldi. Allows for a built in email client, rss reader, calendar, and note taking.\n\nEDIT: paperless-ng for digitizing notes and documents.",
+      "author": "Sir_Chilliam",
+      "created": 1635785261,
+      "upvotes": 82,
+      "replies": {
+        "hiwvs7y": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwvs7y/",
+          "text": "Does Nextcloud have an advantage over the Google or Microsoft suites? I used it for a while for personal cloud, but out of privacy concerns, not for functionality.",
+          "author": "djp_hydro",
+          "created": 1635791290,
+          "upvotes": 8,
+          "replies": {
+            "hiwxgd4": {
+              "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwxgd4/",
+              "text": "Not really besides being self-hosted. It does have a lot of functionality that can be added to it through apps as well, such as todo, calandar, email, notes, RSS, etc\n\nEDIT: Has version control, which I dont think gdrive does. Came in hand far too many times.",
+              "author": "Sir_Chilliam",
+              "created": 1635791977,
+              "upvotes": 6,
+              "replies": {}
+            }
+          }
+        },
+        "hizydn0": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hizydn0/",
+          "text": "> as a student you get 5TB free from google\n\nCan you elaborate on that? I can't find any specifics online",
+          "author": "Laser_Plasma",
+          "created": 1635852097,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hiwvlhj": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwvlhj/",
+      "text": "R, especially the tidyverse libraries. Aside from general data analysis stuff, ggplot2 is great for making good figures in a hurry. Quicker, easier, and way better than Excel (once you learn it reasonably well).",
+      "author": "djp_hydro",
+      "created": 1635791212,
+      "upvotes": 37,
+      "replies": {
+        "hixmfpo": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixmfpo/",
+          "text": "I think R is still the most widely used software. So if  you want to do quant research R will be good to know.",
+          "author": "Perjink",
+          "created": 1635802144,
+          "upvotes": 14,
+          "replies": {
+            "hizw7li": {
+              "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hizw7li/",
+              "text": "R is the most widely used in academia. Python in industry. Memory management and parallel processing power is not as good in R. R does make way easier publication quality plots.",
+              "author": "throwaway__official",
+              "created": 1635850510,
+              "upvotes": 7,
+              "replies": {
+                "hj05w0d": {
+                  "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hj05w0d/",
+                  "text": "Academia (at least the education side) is starting to embrace Jamovi. AFAIK it\u2019s R with training wheels and an interface like SPSS.",
+                  "author": "kronosdev",
+                  "created": 1635856708,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hiweri6": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiweri6/",
+      "text": "A good plotting software, like Origin. \n\nExcel plots will make you seem like an amateur doing meh work.",
+      "author": "rustyfinna",
+      "created": 1635784246,
+      "upvotes": 22,
+      "replies": {
+        "hiwg3gg": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwg3gg/",
+          "text": "To add to this, python has some very good plotting libraries. I like origin, but there are some bugs with logarithmic axes and also plots with many fills which drove me to python and I'll never be looking back.",
+          "author": "Sir_Chilliam",
+          "created": 1635784813,
+          "upvotes": 12,
+          "replies": {
+            "hiwvwzd": {
+              "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwvwzd/",
+              "text": "I haven't tried Seaborne, but I've found R's ggplot2 to be much better than matplotlib.",
+              "author": "djp_hydro",
+              "created": 1635791344,
+              "upvotes": 9,
+              "replies": {
+                "hiwxokc": {
+                  "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwxokc/",
+                  "text": "I should try R, I only use matplotlib right now and get some pretty great results. Haven't tried seaborne either",
+                  "author": "Sir_Chilliam",
+                  "created": 1635792069,
+                  "upvotes": 5,
+                  "replies": {
+                    "hixpehb": {
+                      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixpehb/",
+                      "text": "Seaborn is great if you are doing any form of statistical plotting. And since it's built on matplotlib, you can still customize the fig and ax objects in similar ways as you would with base matplotlib.",
+                      "author": "sensorimotorneuro",
+                      "created": 1635803381,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                },
+                "hix1nag": {
+                  "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hix1nag/",
+                  "text": "I like seaborne, I hate MatPlotLib.",
+                  "author": "touched-by-eris",
+                  "created": 1635793700,
+                  "upvotes": 6,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hixsw3a": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixsw3a/",
+          "text": "I used the Julia programming language. On top of it you can use LaTeX libraries and save graphs as svg's.",
+          "author": "suckuma",
+          "created": 1635804867,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hiw7sc9": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiw7sc9/",
+      "text": "Reference manager (Mendeley, Zotero, EndNote, etc)",
+      "author": "Wise-Replacement7286",
+      "created": 1635781209,
+      "upvotes": 84,
+      "replies": {
+        "hixskd3": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixskd3/",
+          "text": "Zotero since it's open source, Mendeley got bought and can go private any time and screw you over at any point.",
+          "author": "suckuma",
+          "created": 1635804723,
+          "upvotes": 14,
+          "replies": {
+            "hixxmix": {
+              "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixxmix/",
+              "text": "I'm sure Elsevier would never do anything evil or scummy.",
+              "author": "pmbarrett314",
+              "created": 1635806934,
+              "upvotes": 15,
+              "replies": {
+                "hiy1152": {
+                  "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiy1152/",
+                  "text": "I know that's sarcasm, but for people just getting into this rabbit hole.\n\n[https://youtu.be/645I4I1yzBs](https://youtu.be/645I4I1yzBs)\n\n[https://www.vox.com/the-highlight/2019/6/3/18271538/open-access-elsevier-california-sci-hub-academic-paywalls](https://www.vox.com/the-highlight/2019/6/3/18271538/open-access-elsevier-california-sci-hub-academic-paywalls)\n\n[https://www.theguardian.com/science/political-science/2018/jun/29/elsevier-are-corrupting-open-science-in-europe](https://www.theguardian.com/science/political-science/2018/jun/29/elsevier-are-corrupting-open-science-in-europe)\n\n[https://en.wikipedia.org/wiki/Elsevier](https://en.wikipedia.org/wiki/Elsevier)",
+                  "author": "suckuma",
+                  "created": 1635808427,
+                  "upvotes": 10,
+                  "replies": {}
+                }
+              }
+            },
+            "hiyc9qg": {
+              "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiyc9qg/",
+              "text": "Well this is terrifying to know",
+              "author": "Wheeler15B",
+              "created": 1635813424,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hiwb5fv": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwb5fv/",
+          "text": "I second this.  Zotero has been a life saver.",
+          "author": "psychtyke",
+          "created": 1635782678,
+          "upvotes": 39,
+          "replies": {}
+        },
+        "hixm3zb": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixm3zb/",
+          "text": "Zotero saves me so much time for bibliographies.",
+          "author": "Perjink",
+          "created": 1635802010,
+          "upvotes": 12,
+          "replies": {}
+        },
+        "hixwc7x": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixwc7x/",
+          "text": "Use zotero and the add on for word (if you use word)",
+          "author": "Cmurt20",
+          "created": 1635806368,
+          "upvotes": 12,
+          "replies": {
+            "hiyamly": {
+              "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiyamly/",
+              "text": "And the Chrome plug-in! You can save directly to Zotero while you're researching in a browser.",
+              "author": "PM_YOUR_MANATEES",
+              "created": 1635812708,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        },
+        "hixybnr": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixybnr/",
+          "text": "I was a Mendeley fan, but I\u2019m in the humanities and didn\u2019t need a whole lot of organizational capabilities",
+          "author": "crepuscularsounds",
+          "created": 1635807237,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hiycaop": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiycaop/",
+          "text": "Refworks is also decent for reference management.",
+          "author": "Dannydoes133",
+          "created": 1635813435,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hj0ccej": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hj0ccej/",
+          "text": "[JabRef](https://www.jabref.org/) as well",
+          "author": "Quillox",
+          "created": 1635859961,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hiwjaj9": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwjaj9/",
+      "text": "Seconding or Thirding Zotero! It's a literal life saver.",
+      "author": "jaytehman",
+      "created": 1635786150,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hix5fc2": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hix5fc2/",
+      "text": "Notion, notion and notion.",
+      "author": "tanged",
+      "created": 1635795244,
+      "upvotes": 9,
+      "replies": {
+        "hiy3jfh": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiy3jfh/",
+          "text": "Yes! I just started using Notion and I am a big fan!",
+          "author": "CampyUke98",
+          "created": 1635809540,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hiyclkt": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiyclkt/",
+          "text": "Yes Notion! For note taking, to do lists, databases, idea boards everything!",
+          "author": "maps1122",
+          "created": 1635813570,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hiwatk4": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwatk4/",
+      "text": "Still searching for a PDF reader/highlighter that isn't as mind-numbingly counterintuitive as Adobe Acrobat. \n\nNo Adobe, when I click near a highlighted chunk of text with the highlighter tool, I do not want to \"select\" the previous chunk. I want to **keep highlighting more text**. If I wanted to select it, I would click the goddamn cursor option. Not once in the history of the universe has that feature ever been useful.",
+      "author": "dean84921",
+      "created": 1635782531,
+      "upvotes": 15,
+      "replies": {
+        "hiwcnp5": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwcnp5/",
+          "text": "Get Foxit",
+          "author": "Wise-Replacement7286",
+          "created": 1635783336,
+          "upvotes": 17,
+          "replies": {}
+        },
+        "hixsy6r": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixsy6r/",
+          "text": "I use Okular personally",
+          "author": "suckuma",
+          "created": 1635804893,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hiym9mu": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiym9mu/",
+          "text": "Liquid text is very nice",
+          "author": "lincoln_hawks1",
+          "created": 1635817940,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hize6sr": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hize6sr/",
+          "text": "Drawboard has some benefits",
+          "author": "Schrute_Farms_Rep",
+          "created": 1635834611,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hj0crjv": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hj0crjv/",
+          "text": "I'd you are on Windows :\n\nhttps://www.sumatrapdfreader.org/free-pdf-reader",
+          "author": "Quillox",
+          "created": 1635860159,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hiwdvfd": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwdvfd/",
+      "text": "Paperpile is a life saver for me.",
+      "author": "Superduperbals",
+      "created": 1635783867,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hiwtivn": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwtivn/",
+      "text": "I think time tracking has been massively helpful! I use toggl, but there are a lot of good ones out there.",
+      "author": "countingmammals",
+      "created": 1635790361,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hixktfh": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixktfh/",
+      "text": "Academics:\n\n* Google books saves all your highlights and notes in the cloud, organizing by file name.\n* I personally prefer to make use of tools I'm already familiar with and not to incorporate new ones unless it's absolutely necessary and up until I finished my master's, google books + adobe reader were enough.\n\nPersonal development + quality of life\n\n* I use Google Calendar + a bullet journal ( r/bulletjournal ) (not digital though) to keep appointments and notes. My whole work and classes schedule is in there as well.\n* I used Trello for a hot minute during grad school, it was great to organize info for each subject and to organize references for papers. A lot of people say great things about Notion, but I haven't tried it yet.\n* Finally got myself a fitbit to track sleep, physical activity and such\n\nGetting organized is a mesh of techniques and tools. There are so many, so my main advice is to start with something simple (whatever that is for you!) and go from there. There's some trial and error to go through. I never felt comfortable using some popular reference managers and still managed to find a way to keep my work streamlined and organized.",
+      "author": "docindeleite",
+      "created": 1635801475,
+      "upvotes": 5,
+      "replies": {
+        "hixt23s": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixt23s/",
+          "text": "seconding trello - great way to keep track of all your coursework and research in a neat and easy-to-rearrange (it\u2019s drag-and-drop) way",
+          "author": "victoria-lobster",
+          "created": 1635804940,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hixvc9x": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixvc9x/",
+      "text": "Asana. I use the free version to keep to do lists on different boards - School, Personal, and Work. It seriously changed my life.\n\nMy first year of grad school (after being out of school for nearly a decade) I really struggled with the feeling that i constantly had something i should be working on. It made it difficult for me to invest time in self care and relationships and I felt guilty when I did. Now, once a week, i sit down and map out all my readings and assignments for the week and assign them to different days. That way when I finish my to do list for that day, i can enjoy my free time guilt free. It's made my second year of grad school so much more manageable.",
+      "author": "_just_here_for_cats",
+      "created": 1635805936,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hiwu5av": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwu5av/",
+      "text": "Research Rabbit is my number 1",
+      "author": "Silvid",
+      "created": 1635790617,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hiy29r9": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiy29r9/",
+      "text": "I really like the suggestions here for a programming language. VS Code plugins are pretty nice for building up your own custom workflows if you use a lot of markdown or text files.\n\nI'm particularly fond of text based solutions and open source software for my workflow.\n\nLanguages:\n\nPython or R or Julia - depending upon your use case. General purpose or machine learning (Python), lots of statistics and mathematical modelling (R), wanting to learn an up and coming language or add another to your toolkit and aren't concerned about a smaller package ecosystem? (Julia).\n\nBash - just the command line (CLI) more generally.\n\nLinux - I think scientists or engineers in particular have the potential to fall in love with linux. If you understand the broader UNIX philosophy and embrace the attitude of exploration and learning, then desktop linux is great for getting things done. If you come in expecting macOS or windows, you won't be happy. It's a different way to use a computer.\n\nNote-taking:\n\nZim desktop wiki - really nice for just taking notes and organising your thoughts for lit reviews etc. \n\nDendron (VS Code plugin) - started using a little recently. Still being developed but has some nice features.\n\nRMarkdown - if you use R, you should use R Markdown.\n\nReference manager:\n\nZotero - there's a zotero plugin for Zim, for all browsers, and often for a lot of open source or free notetaking apps. I bought a zotero subscription for the extra storage and to support the project. It's so good and so easy to use.\n\nPlasmid Viewers/Cloning Platforms:\n\nBenchling - recently switched to benchling (online, free) from SnapGene and haven't missed any features of SnapGene. Benchling is great for collaboration as well and it's really easy to get AddGene sequences.\n\nProject Management:\nTaskwarrior - CLI based project management software that is just awesome. By default it has a GTD type workflow, but it's easily editable.\n\nBoosted (mobile, Android) - Time tracking app to monitor time spent on different aspects of my project.\n\nImage Analysis/Management:\n\nInkscape - vector graphics\n\nGimp - Photoshop like image editor\n\nFIJI - for biological image formats particularly",
+      "author": "squags",
+      "created": 1635808978,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hix0bva": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hix0bva/",
+      "text": "Zotero",
+      "author": "Trakeen",
+      "created": 1635793157,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hixiiaw": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixiiaw/",
+      "text": "Mendeley has been fantastic for me, it's the one piece of software that I've been consistent with using! I specifically like that I can read pdfs within its desktop software, and save my notes alongside the reference",
+      "author": "fredelina",
+      "created": 1635800511,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hixn2bd": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixn2bd/",
+      "text": "Zotero, oneNote, discord, drawboard PDF, Google calendar, and recently notion.",
+      "author": "Pr0gr3s",
+      "created": 1635802405,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hiyjp1w": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiyjp1w/",
+      "text": "If you are going into a science you may need to pull data from a graph you reference to compare to your own data. Web plot digitizer is a great, easy to use program that allows you to do this by uploading an image of the graph.",
+      "author": "the_wires_dun_moved",
+      "created": 1635816790,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hiyn121": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiyn121/",
+      "text": "Every single paper I read goes in one master excel file with the citation, in-text citation, reason I looked for that paper, main question, methods, results, any notes, and papers that found the same thing. I started doing this Day 1 and it\u2019s been a GAME CHANGER.\n\nI use Zotero as a reference manager and it\u2019s the best thing ever. \n\nI use Notion to plan/organize the rest of my life.",
+      "author": "alison_luongo",
+      "created": 1635818286,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hiwh03z": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiwh03z/",
+      "text": "Does anyone know of any programs/websites that summarize scientific papers??\n\nThat would be super helpful and I feel like I\u2019ve heard that they exist",
+      "author": "helloitsme1011",
+      "created": 1635785196,
+      "upvotes": 3,
+      "replies": {
+        "hixti0v": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixti0v/",
+          "text": "no but the best you can do is read the abstract, conclusion, and then whatever you went to the paper for.",
+          "author": "suckuma",
+          "created": 1635805136,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "hiy736q": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiy736q/",
+          "text": "[Semantic Scholar](https://www.semanticscholar.org/) includes an automatic TLDR for the papers that it indexes. But as someone already mentioned, reading the abstract and conclusion is probably more useful.\n\nEdit: typo",
+          "author": "g1bber",
+          "created": 1635811119,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hixe042": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixe042/",
+          "text": "Commenting cause I also wanna know",
+          "author": "fwds",
+          "created": 1635798681,
+          "upvotes": 2,
+          "replies": {}
+        },
+        "hiyqwgf": {
+          "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiyqwgf/",
+          "text": "I heard of an AI based startup that does that. Has some pricing involved. I forgot the name though. Will comment here if I remember it.",
+          "author": "RushkyCyborg",
+          "created": 1635820110,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hix1s6k": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hix1s6k/",
+      "text": "Origin",
+      "author": "Mechatronix765",
+      "created": 1635793756,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hiy4pwj": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiy4pwj/",
+      "text": "Mendeley",
+      "author": "Siddas27",
+      "created": 1635810065,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hiy5g3p": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiy5g3p/",
+      "text": "Zotero \ud83d\ude0d",
+      "author": "sipstea7",
+      "created": 1635810389,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hixcxqx": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixcxqx/",
+      "text": "Notion and mendeley and Airtable",
+      "author": "fireball-heartbeats",
+      "created": 1635798260,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hixlals": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixlals/",
+      "text": "I use Mendeley for paper management",
+      "author": "mzchennie",
+      "created": 1635801673,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hixsnle": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hixsnle/",
+      "text": "Zotero, or another citation manager",
+      "author": "AspiringPervertPoet",
+      "created": 1635804762,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hiy10o8": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiy10o8/",
+      "text": "Probably going to be very field specific",
+      "author": "Ru-tris-bpy",
+      "created": 1635808421,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hiyrj1l": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiyrj1l/",
+      "text": "Python for the workhorse programming tasks. \n\nLatex for paper and dissertation writing was awesome - I did my masters thesis in Word but every paper after that in Latex. Latex was so worth the time investment - Word was a nightmare to use in comparison.\n\nMendeley for reference and paper management.",
+      "author": "madbadanddangerous",
+      "created": 1635820411,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hiyrnlv": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hiyrnlv/",
+      "text": "Python for the workhorse programming tasks. \n\nLatex for paper and dissertation writing was awesome - I did my masters thesis in Word but every paper after that in Latex. Latex was so worth the time investment - Word was a nightmare to use in comparison.\n\nMendeley for reference and paper management.",
+      "author": "madbadanddangerous",
+      "created": 1635820472,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hizrivv": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hizrivv/",
+      "text": "Zotero - reference management.\nMATLAB/Python - data organization/analysis and visualization.",
+      "author": "afMunso",
+      "created": 1635846703,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hizvhss": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hizvhss/",
+      "text": "I like Mendeley",
+      "author": "Fresh_Agency8463",
+      "created": 1635849961,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hj05pxg": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hj05pxg/",
+      "text": "Notion\n\nZotero\n\nJoplin",
+      "author": "beepbooplazer",
+      "created": 1635856617,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hj068bl": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hj068bl/",
+      "text": "I use notability for all highlighting/handwriting/reading and Overleaf for everything else!",
+      "author": "UmbranHarley",
+      "created": 1635856892,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hj0glq0": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hj0glq0/",
+      "text": "For clean markdown note taking I use Typora. Your notes will look so good (especially if you need to type code / math in between normal lines of text).\n\nAdobe Illustrator is useful for figure making.",
+      "author": "coffee24",
+      "created": 1635861903,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

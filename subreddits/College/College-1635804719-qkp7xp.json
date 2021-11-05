@@ -1,0 +1,38 @@
+{
+  "sid": "qkp7xp",
+  "link": "/r/college/comments/qkp7xp/questions_about_the_cs_field/",
+  "title:": "Questions about the CS field.",
+  "text": "As a current college student who is in his third year of college studying business management, I have been interested in this field of computer science recently but however, I do have some questions about it. I am thinking about trying to get into this field because as a kid, I did love the ideas of building an application that's pretty big but the issue is that I do have different interests such as the data field(data engineer, data scientist, machine learning) and other types of tech that doesn't specifically involve much programming. However I do have some questions about this field in general:\n\n1. Is it possible to get into tech without a CS/STEM degree? What if I wanted to get into a data science or data engineer role?\n2. My first experience with programming wasn't the best as I struggled with logical thinking. How can I improve my programming skills by a lot if I am not sure what to code everyday??\n3. How much learning is for this field and what are the underrated parts of computer science that nobody really speaks about but pays decently??\n4. How can I effectively learn data structures and algorithms? Why is it important?",
+  "author": "jasonvoorheessucks",
+  "created": 1635804719,
+  "updated": 1635890841,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hixxoex": {
+      "link": "/r/college/comments/qkp7xp/questions_about_the_cs_field/hixxoex/",
+      "text": "1. Depends on your definition of tech but yeah its very possible as long as you can prove yourself. Many places don't require a college degree as long as you got equivalent experience.\n2. Try some programming challenge sites like leetcode. This won't guarantee you a job or anything but its practice\n3. There is a lot of learning, even after you get the job you must keep learning cause technology changes rapidly. Decent spots that aren't talked about much are doing jobs for local government or government orgs as the current hot topic is all about unicorn  start ups or FAANG\n4. This is why many people go to college for CS, its super important cause its a fundamental aspect in technology. Many interviews will feature these types of questions to test how strong your knowledge in these are.",
+      "author": "GoldRequest",
+      "created": 1635806957,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hixzmhg": {
+      "link": "/r/college/comments/qkp7xp/questions_about_the_cs_field/hixzmhg/",
+      "text": ">Is it possible to get into tech without a CS/STEM degree? What if I wanted to get into a data science or data engineer role?\n\nYes. You do not need a computer science degree for those careers. In fact, it would likely do more harm than good if trying to get into a data science career path.\n\n>My first experience with programming wasn't the best as I struggled with logical thinking. How can I improve my programming skills by a lot if I am not sure what to code everyday??\n\nPractice\n\n>How much learning is for this field and what are the underrated parts of computer science that nobody really speaks about but pays decently??\n\nThere is a lot to learn, but it's all logical since it was designed by humans. I'd say AL/ML rarely gets mentioned.  \n\n>How can I effectively learn data structures and algorithms? Why is it important?\n\nAlgorithms are just workflows of tasks. Data Structures is one single course you can take.",
+      "author": "WCCobra",
+      "created": 1635807806,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hiysiz4": {
+      "link": "/r/college/comments/qkp7xp/questions_about_the_cs_field/hiysiz4/",
+      "text": "1. Yes it is possible, but there definitely is a bigger roadblock. Often times people will go to bootcamps to prepare themselves, but these are pretty expensive and not guaranteed to get you a job or anything. That being said, I do know a guy who graduated with an unrelated degree and is now working at a top tech company, so it certainly is possible, but there's just more difficulty. \n\n2. Take programming classes, either at your school or online. Many people, myself included, struggled with programming at first because it is a new form of thinking. But practice can make you a lot better.\n\n3. You need to be willing to learn a lot. Because you will be taking your classes, but you will also have to focus on learning relevant languages/frameworks for internships and jobs. As for \"underrated parts\" of CS... I guess generic backend development. You see a lot of people at college focusing a ton on machine learning, algorithms for top jobs, web dev, etc. but I haven't met as many people who are really into generic back end stuff with java or c#. So if you get a degree in computer science, and do a lot of projects with java or c#, and do a lot of the unsexy stuff of programming (dev ops, unit testing, continuous integration, SQL and databases), that would make you a competitive candidate upon graduation.\n\n4. Take a class or 2 on data structures and algorithms. There are probably classes at your school, there is also the Princeton online class on algorithms, or maybe some good udemy courses. once you take the beginner classes, do leetcode, basically. Just keep practicing that until it comes naturally.",
+      "author": "postmaloneismediocre",
+      "created": 1635820886,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}
