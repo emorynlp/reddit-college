@@ -5,7 +5,7 @@
   "text": "The big conference in my field (AERA's 2022 Annual Meeting) just announced acceptances and rejections of proposals today. \n\nOnce again, I find myself not presenting my work, because one of the three reviewers didn't care for it. Honestly, though, when the submission's scores (out of 30) were 29, 26, and 15, and the conference organizers just roll with the total score without caring or even noticing that kind of discrepancy in reviews, it makes it difficult to take the process seriously.",
   "author": "jamey1138",
   "created": 1635806278,
-  "updated": 1635890361,
+  "updated": 1636172204,
   "over_18": false,
   "upvotes": 13,
   "upvote_ratio": 0.79,
@@ -250,7 +250,25 @@
           "author": "jamey1138",
           "created": 1635881957,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hj3ca8p": {
+              "link": "/r/AskAcademia/comments/qkprdj/academic_conferences_and_their_review_processes/hj3ca8p/",
+              "text": "I'll admit to believing rather strongly that it is not possible to consistently and accurately assess the \"true\" worth of a recent research paper in any meaningful and useful way, at least in STEM-adjacent fields. OrbitalPete has a nice explanation of why. I think you're getting a lot of downvotes because anybody who has a passing knowledge of the history of their own subject will know plenty of examples of important work that was poorly understood even by field leaders for many years (and, conversely, about influential bad ideas whose flaws were not really understood for many years), and thus a good understanding of why it is completely fruitless to search for some sort of fair/unbiased/etc measure of paper quality.\n\nOf course you can come up with some \"fair\" metric to somehow skirt these issues, and people do in contexts where fairness is a high priority, but you shouldn't kid yourself that the \"fair\" metric has anything much to do with identifying really important and interesting stuff.",
+              "author": "gfan914",
+              "created": 1635903514,
+              "upvotes": 1,
+              "replies": {
+                "hj3ewba": {
+                  "link": "/r/AskAcademia/comments/qkprdj/academic_conferences_and_their_review_processes/hj3ewba/",
+                  "text": "So, (a) there's absolutely no reason for you to infer that anything about this discussion is \"in STEM-adjacent fields\" (including, for example, that I tagged it as \"Social Science\") and (b) STEM-related fields are, as a general rule, even more committed to positivism as an epistemic stance than non-STEM-related fields, which puts your position in a somewhat weird space, just epistemically speaking.\n\n(c), I'm not getting a lot of downvotes, in fact, at least when compared to upvotes on this thread. That's an objective measure that seems like it should appeal to STEM-adjacent positivists, and Reddit even does the counting for you.\n\n(d) As for the possibility of reliably assessing the quality of papers, it's totally a thing. Just in my own field, NBPTS, edTPA and even AP and IB scorers do it every year, and do it well. AERA chooses not to do it well, and that makes me sad. That is the entire content of my OP.",
+                  "author": "jamey1138",
+                  "created": 1635904595,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     },

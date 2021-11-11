@@ -5,7 +5,7 @@
   "text": "is it just me or does playing online games (call of duty) suck w/ EmoryGuest? i\u2019ve registered my console and i still get a \u201cconnection interrupted\u201d. is there any work around for this?",
   "author": "el_chocoooo",
   "created": 1634608969,
-  "updated": 1634655310,
+  "updated": 1636195129,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 0.67,
@@ -17,6 +17,40 @@
       "created": 1634616073,
       "upvotes": 3,
       "replies": {}
+    },
+    "hhadedm": {
+      "link": "/r/Emory/comments/qb1gp5/playing_online_w_emoryguest/hhadedm/",
+      "text": "Usually Emory guest is the weakest since its the guest wifi. Plus it resets to kick off users after a while and you have to always reconnect. Did you try connecting to eduroam or EmoryUnplugged and signing in with ur emory id?",
+      "author": "cactuscat123",
+      "created": 1634680828,
+      "upvotes": 3,
+      "replies": {
+        "hhaws4e": {
+          "link": "/r/Emory/comments/qb1gp5/playing_online_w_emoryguest/hhaws4e/",
+          "text": "the reason i had to use emoryguest in the first place was that on the ps5, it says that type of network is not supported for both eduroam and unplugged.",
+          "author": "el_chocoooo",
+          "created": 1634689805,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hh9gplj": {
+      "link": "/r/Emory/comments/qb1gp5/playing_online_w_emoryguest/hh9gplj/",
+      "text": "Use a vpn, emory restricts bandwidth to certain servers based on IPs (at least I think). This has worked for me with everything requiring larger amounts of bandwidth",
+      "author": "PurpleOperation",
+      "created": 1634667685,
+      "upvotes": 2,
+      "replies": {
+        "hi0zal1": {
+          "link": "/r/Emory/comments/qb1gp5/playing_online_w_emoryguest/hi0zal1/",
+          "text": "How do you set up a VPN on console",
+          "author": "the_space_cowboi",
+          "created": 1635192348,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

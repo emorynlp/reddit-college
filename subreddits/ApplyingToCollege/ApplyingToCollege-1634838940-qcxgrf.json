@@ -5,7 +5,7 @@
   "text": "Anyone down?",
   "author": "anonymous062904",
   "created": 1634838940,
-  "updated": 1634848687,
+  "updated": 1636168068,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 0.75,
@@ -24,7 +24,34 @@
       "author": "anuxietys",
       "created": 1634841574,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hhjhfaa": {
+          "link": "/r/ApplyingToCollege/comments/qcxgrf/petition_to_make_a2c_an_actual_website/hhjhfaa/",
+          "text": "We\u2019re currently good dev wise, but we are looking for any input regarding what to write on the website content-wise and any design changes we should make! My other comment has more info about where we\u2019re working on it.",
+          "author": "carlyc999",
+          "created": 1634851067,
+          "upvotes": 3,
+          "replies": {
+            "hhl6aw8": {
+              "link": "/r/ApplyingToCollege/comments/qcxgrf/petition_to_make_a2c_an_actual_website/hhl6aw8/",
+              "text": "Makes sense! Would a weekly blog and newsletter be something people would be interested in?",
+              "author": "anuxietys",
+              "created": 1634881738,
+              "upvotes": 2,
+              "replies": {
+                "hhlbelw": {
+                  "link": "/r/ApplyingToCollege/comments/qcxgrf/petition_to_make_a2c_an_actual_website/hhlbelw/",
+                  "text": "That\u2019s a bit too strenuous of a workload. We need to establish a main site before considering anything like that",
+                  "author": "carlyc999",
+                  "created": 1634885781,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }

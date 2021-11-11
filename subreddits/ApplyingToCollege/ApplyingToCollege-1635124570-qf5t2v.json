@@ -5,7 +5,7 @@
   "text": "I paid for one of my schools yesterday and it worked but I'm trying to pay for another school today and it says \"this site can't be reached.\" I tried on different browsers as well (cause some portals like the rutgers one doesn't work well on chrome) but it says the same thing. Is the payment thing for commonapp down or am I the only one experiencing this?",
   "author": "i-believe-in-magic1",
   "created": 1635124570,
-  "updated": 1635182390,
+  "updated": 1636151383,
   "over_18": false,
   "upvotes": 3,
   "upvote_ratio": 1.0,
@@ -47,7 +47,34 @@
               "author": "0ni0nchicken",
               "created": 1635170670,
               "upvotes": 1,
-              "replies": {}
+              "replies": {
+                "hi0b4w0": {
+                  "link": "/r/ApplyingToCollege/comments/qf5t2v/is_the_payment_thing_on_common_app_down/hi0b4w0/",
+                  "text": "Oh wait. Did you have to update it? Or what did you have to do? Cause I remember my laptop telling me something about an antivirus and I want submit my app as soon as I can.",
+                  "author": "i-believe-in-magic1",
+                  "created": 1635182627,
+                  "upvotes": 1,
+                  "replies": {
+                    "hi1ti6a": {
+                      "link": "/r/ApplyingToCollege/comments/qf5t2v/is_the_payment_thing_on_common_app_down/hi1ti6a/",
+                      "text": "I just disabled it for the time being. It worked for me.",
+                      "author": "0ni0nchicken",
+                      "created": 1635205332,
+                      "upvotes": 2,
+                      "replies": {
+                        "hi2a8mo": {
+                          "link": "/r/ApplyingToCollege/comments/qf5t2v/is_the_payment_thing_on_common_app_down/hi2a8mo/",
+                          "text": "Oh alright. I tried that but it still doesn't work. Welp.",
+                          "author": "i-believe-in-magic1",
+                          "created": 1635213052,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
             }
           }
         }

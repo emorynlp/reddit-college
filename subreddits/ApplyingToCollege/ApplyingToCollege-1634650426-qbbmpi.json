@@ -5,7 +5,7 @@
   "text": "I put in my info and it\u2019s saying that I have >70% chance at all of the schools I\u2019m apply to\u2026",
   "author": "PlayCorvnet",
   "created": 1634650426,
-  "updated": 1634652953,
+  "updated": 1636166219,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -16,7 +16,50 @@
       "author": "MissionGrouchy8191",
       "created": 1634651912,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hh8ilfz": {
+          "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh8ilfz/",
+          "text": "That's very good performance.  While there are variables they do not use, that need not make the model poor or weak. However, what they show is aggregated -- so we cannot see if there are certain schools for which their model has poor accuracy.\n\nThis past year's data and the switch to test-optional will likely throw their models off. Worse is that test submission has strategic choice with an equilibrium that messes strongly with the statistics -- so the new 25%-75% range will probably correspond to what *used to be* 45%-95%.",
+          "author": "minimuminfeasibility",
+          "created": 1634653720,
+          "upvotes": 25,
+          "replies": {
+            "hha278l": {
+              "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hha278l/",
+              "text": "Interesting. I've been wondering about this... How much does the confidence of any given prediction decrease now that only one ironclad numeric measure (grades) is available? \n\nIs there any way to predict chances with any degree of accuracy?",
+              "author": "McNeilAdmissions",
+              "created": 1634676132,
+              "upvotes": 2,
+              "replies": {
+                "hha4fdu": {
+                  "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hha4fdu/",
+                  "text": "You can definitely predict this fairly accurately; people predict *much* harder events than admissions. They are using their data to estimate effects for 75 variables. Now, SAT and ACT have now changed with schools going test-optional/blind, so they will need to re-estimate that variable; however, GPA, course rigor, major, in-/out-of-state/international, and a few other variables will still work decently well. Add in AP scores and that's probably just as good as SAT/ACT. Shoot, with enough data they could even use a person's school.\n\nAs mentioned elsewhere, the hardest cases to forecast are people near the 50-50 cut point. I also suspect there are probably some schools where they are very accurate (some state schools are almost formulaic) and some schools where they are not so accurate (Olin? Stanford? Arts schools?).\n\nOn an only slightly related note: I'm wondering how long it will take for people to coalesce around the equilibrium SAT submission cutoff.",
+                  "author": "minimuminfeasibility",
+                  "created": 1634677027,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hh8keu1": {
+          "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh8keu1/",
+          "text": "Oh wow that helps a lot",
+          "author": "PlayCorvnet",
+          "created": 1634654496,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "hheedhz": {
+          "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hheedhz/",
+          "text": "Interestingly, when I logged in to look at this, I was informed that the chancing algorithm had changed and many of my schools were at a different level than previously.\n\nIt\u2019s interesting that this happens when a post showing the accuracy of their predictions appears.\n\nIt would be easy to be accurate in predictions when you \u201crevise\u201d your estimating models after the results are received and base your accuracy on these updates.",
+          "author": "RichInPitt",
+          "created": 1634758092,
+          "upvotes": -1,
+          "replies": {}
+        }
+      }
     },
     "hh8bt85": {
       "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh8bt85/",
@@ -24,7 +67,16 @@
       "author": "prsehgal",
       "created": 1634650608,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hh8otgj": {
+          "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh8otgj/",
+          "text": "Agree",
+          "author": "Left-Accident-1762",
+          "created": 1634656364,
+          "upvotes": 0,
+          "replies": {}
+        }
+      }
     },
     "hh8fzp9": {
       "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh8fzp9/",
@@ -32,7 +84,16 @@
       "author": "elkrange",
       "created": 1634652567,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hh8khbt": {
+          "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh8khbt/",
+          "text": "That\u2019s a good point, I didn\u2019t even think about that",
+          "author": "PlayCorvnet",
+          "created": 1634654525,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
     },
     "hh8dwuo": {
       "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh8dwuo/",
@@ -40,7 +101,85 @@
       "author": "Any-Fox-9615",
       "created": 1634651601,
       "upvotes": 1,
+      "replies": {
+        "hheelmb": {
+          "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hheelmb/",
+          "text": "You can statistically model any input/output model, regardless of the process used to arrive at the output.\n\nStatistical projections are different than claiming an algorithmic, deterministic solution.",
+          "author": "RichInPitt",
+          "created": 1634758180,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hh8dpon": {
+      "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh8dpon/",
+      "text": "They have a blog post that explains its accuracy.\n\nhttps://blog.collegevine.com/is-collegevine-chancing-accurate/",
+      "author": "catsandstuff03",
+      "created": 1634651509,
+      "upvotes": 3,
       "replies": {}
+    },
+    "hh9cysa": {
+      "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh9cysa/",
+      "text": "What schools are you getting ~70% odds for?  \n\nIf we\u2019re talking about the most selective 10 or so publics, 20 or so private unis or maybe 30 most selective LACs, the answer regarding accuracy if you\u2019re seeing 70% acceptance odds is a big \u201cnope\u201d. \n\nIf you are applying to average to above average state flagships, selective but not crazy selective private schools like a non top four Catholic university, a Baylor or a Butler then I think it\u2019s probably much more accurate. We don\u2019t know your scores, but those are schools where it\u2019s certainly possible to be that confident and collegevine would have a wealth of data points on these schools...because they\u2019re common enough. \n\nThe best schools that anyone could really hope to have a 70% chance at would be schools like a Case or URochester if you are a competitive T10 type of applicant.",
+      "author": "ChampionshipPerfect5",
+      "created": 1634666209,
+      "upvotes": 4,
+      "replies": {
+        "hh9hqw3": {
+          "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh9hqw3/",
+          "text": "I\u2019m getting 70+ to Purdue, Urbana Champaign, texas A&M for aerospace engineering",
+          "author": "PlayCorvnet",
+          "created": 1634668091,
+          "upvotes": 2,
+          "replies": {
+            "hh9jsz1": {
+              "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh9jsz1/",
+              "text": "Yeah. That seems a bit suspect. I\u2019m not going to ask you for your stats because that would turn this into a chance me post. But aerospace is a small enough and selective enough major that I would think it would be a difficult read. I\u2019m assuming you\u2019re out of state at each of these too, right?  \n\n\n\nHere\u2019s an experiment if you\u2019re willing to try. Add Michigan and MIT. Record your precise aerospace odds at all five. Change your major to CS and do the same. Then change it to psychology and do the same. It would be interesting to see the differences in all three+those two. Seeing the deltas between those schools and between those majors would give you some level of confidence.\n\nIf the aerospace odds are materially lower than CS, something is wrong with their estimate (likely too few data points). If your psych odds aren\u2019t near 100% for your 3 schools, something is wrong. If the aerospace odds at the other two schools are not a significant step down, it\u2019s wrong.",
+              "author": "ChampionshipPerfect5",
+              "created": 1634668890,
+              "upvotes": 0,
+              "replies": {
+                "hh9lna6": {
+                  "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh9lna6/",
+                  "text": "Alright I\u2019ll try that out, thanks so much for the help!",
+                  "author": "PlayCorvnet",
+                  "created": 1634669610,
+                  "upvotes": 1,
+                  "replies": {
+                    "hh9n1dr": {
+                      "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hh9n1dr/",
+                      "text": "If the things I mentioned above all shake out, then I think it\u2019s safe to say those three schools are all reasonable targets (20-80% chance) schools. The problem with logistic models however is that if they don\u2019t have enough data (and sometimes even when they do), there can be pretty big misses at that \u201cclosish\u201d to 50% inflection point. And that\u2019s where you are. If there isn\u2019t a big jump from aero to psych or between MIT/UMich and your schools, the model is almost definitely trash.\n\nIt\u2019s easy to pick near 0% and near 100% with those models with tons of accuracy. That\u2019s not where these models should be judged. If that\u2019s 70% of their data points, those models will look accurate even if they\u2019re garbage in the 20-80% range. At least with respect to how they\u2019re reporting their accuracy.",
+                      "author": "ChampionshipPerfect5",
+                      "created": 1634670168,
+                      "upvotes": -1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hhazan0": {
+      "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hhazan0/",
+      "text": "Id say they are a good general baseline but there are so many factors which simply can't be quantified by an algoritm. Whether you write good essays, are likeable, have a story. All these things play a massive role in your admission and can't be quantified. Generally speaking they are fairly accurate I believe",
+      "author": "MarkerTassel",
+      "created": 1634690998,
+      "upvotes": 1,
+      "replies": {
+        "hhbsmwq": {
+          "link": "/r/ApplyingToCollege/comments/qbbmpi/is_collegevine_accurate_at_all/hhbsmwq/",
+          "text": "Yeah that\u2019s what I was thinking, they could have pretty good stats on grades and test scores but essays and the like wouldn\u2019t be possible for them to take into account",
+          "author": "PlayCorvnet",
+          "created": 1634706161,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

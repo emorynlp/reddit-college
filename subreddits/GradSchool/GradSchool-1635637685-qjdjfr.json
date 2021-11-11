@@ -5,7 +5,7 @@
   "text": "My MS word plug in has gone off the rails and keeps adding citations over and over. I can't get it to stop, even after a reinstall.",
   "author": "Belus911",
   "created": 1635637685,
-  "updated": 1635780447,
+  "updated": 1636199263,
   "over_18": false,
   "upvotes": 7,
   "upvote_ratio": 0.9,
@@ -57,6 +57,14 @@
       "text": "Use LaTeX and bibLaTeX. Typesetting is always looked at kindly for any publication or professional report.",
       "author": "whyoy",
       "created": 1635705267,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hiwl602": {
+      "link": "/r/GradSchool/comments/qjdjfr/any_mendeley_gurus_out_there/hiwl602/",
+      "text": "I'm just letting this issue be the thing that pushes me into using LaTeX.",
+      "author": "djp_hydro",
+      "created": 1635786925,
       "upvotes": 1,
       "replies": {}
     }

@@ -5,7 +5,7 @@
   "text": "Please advise",
   "author": "Ok_Zombie5379",
   "created": 1635874653,
-  "updated": 1635889593,
+  "updated": 1636169837,
   "over_18": false,
   "upvotes": 0,
   "upvote_ratio": 0.33,
@@ -49,6 +49,32 @@
       "created": 1635878204,
       "upvotes": 1,
       "replies": {}
+    },
+    "hj2fq2g": {
+      "link": "/r/ApplyingToCollege/comments/ql9lrv/best_undergrad_business_program/hj2fq2g/",
+      "text": "Wharton, Stern, Ross, McCombs, Haas, Mendoza, Kellogg, Booth, Sloan, Tuck",
+      "author": "FutureConsultingMan",
+      "created": 1635890122,
+      "upvotes": 1,
+      "replies": {
+        "hj33p7o": {
+          "link": "/r/ApplyingToCollege/comments/ql9lrv/best_undergrad_business_program/hj33p7o/",
+          "text": "Not all of these offer undergrad programs (eg Kellogg)",
+          "author": "tuliwuli",
+          "created": 1635899938,
+          "upvotes": 1,
+          "replies": {
+            "hj39z5a": {
+              "link": "/r/ApplyingToCollege/comments/ql9lrv/best_undergrad_business_program/hj39z5a/",
+              "text": "My apologies",
+              "author": "FutureConsultingMan",
+              "created": 1635902549,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

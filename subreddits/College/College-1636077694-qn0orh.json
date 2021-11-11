@@ -5,7 +5,7 @@
   "text": "Hello. So a website I am citing lists an author as well as a doctor who was the medical reviewer. Should I cite just the author or do I need to cite the medical reviewer as well? Thanks.",
   "author": "TertiaryAminee",
   "created": 1636077694,
-  "updated": 1636137132,
+  "updated": 1636178707,
   "over_18": false,
   "upvotes": 4,
   "upvote_ratio": 1.0,
@@ -33,7 +33,42 @@
       "author": "yetiman3511",
       "created": 1636117136,
       "upvotes": 0,
-      "replies": {}
+      "replies": {
+        "hjgmvd1": {
+          "link": "/r/college/comments/qn0orh/how_to_properly_cite_this/hjgmvd1/",
+          "text": "Like including the URL. Or something else?",
+          "author": "TertiaryAminee",
+          "created": 1636143924,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hjgxfgl": {
+          "link": "/r/college/comments/qn0orh/how_to_properly_cite_this/hjgxfgl/",
+          "text": "\"Just using the hyperlink\" is not a recognized citation format. Yes, the link will be *included* in an APA/MLA citation, but it is not the only relevant in formation that must be present in a properly formed citation.",
+          "author": "patrdesch",
+          "created": 1636147938,
+          "upvotes": 1,
+          "replies": {
+            "hjhn8xp": {
+              "link": "/r/college/comments/qn0orh/how_to_properly_cite_this/hjhn8xp/",
+              "text": "Right. I did the citation in APA format with author, date, title, website name and the hyperlink. I didn\u2019t put  in the medical reviewer. Do you think that\u2019s okay? I haven\u2019t really been able to find any examples incorporating it since it\u2019s pretty specific and a few people said that just the author is good.",
+              "author": "TertiaryAminee",
+              "created": 1636158563,
+              "upvotes": 1,
+              "replies": {
+                "hjhoow2": {
+                  "link": "/r/college/comments/qn0orh/how_to_properly_cite_this/hjhoow2/",
+                  "text": "Yeah, what you did is sufficient.",
+                  "author": "patrdesch",
+                  "created": 1636159212,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }

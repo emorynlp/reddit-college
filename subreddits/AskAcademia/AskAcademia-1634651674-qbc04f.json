@@ -5,7 +5,7 @@
   "text": "I just want to make sure I'm not making a mistake.  My understanding is that in most cases, the university/college will request the letters from the references you sent if they are interested in you as a candidate.   Is that correct?   (as opposed to having my references preemptively send their letters)\n\nI assume I should notify my references as to which jobs I have applied, but otherwise it's up to the institution to request them.    \n\n\nThanks!",
   "author": "0ttr",
   "created": 1634651674,
-  "updated": 1634654277,
+  "updated": 1636171773,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
@@ -23,7 +23,16 @@
           "author": "0ttr",
           "created": 1634653402,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hh9m7on": {
+              "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hh9m7on/",
+              "text": "I think this is job and country dependent. For example in the UK you wouldn't typically request references for a postdoc unless you had offered them a post. However for a faculty position some organisations would ask for those upfront others wouldn't.",
+              "author": "ACatGod",
+              "created": 1634669839,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
         }
       }
     },
@@ -32,6 +41,89 @@
       "text": "In my field, they\u2019re generally sent at the time of application. In some cases, this is apparent to the applicant (AcademicJobsOnline or Interfolio). In other cases it\u2019s not. At my university, when you apply, you\u2019ll give the names and email addresses for your recommenders, and the system will send them an email to request the letter. \n\nI find Interfolio works really well for this because it means the letter writer isn\u2019t bugged every time.",
       "author": "EconGuy82",
       "created": 1634653895,
+      "upvotes": 1,
+      "replies": {
+        "hh8sxbq": {
+          "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hh8sxbq/",
+          "text": "Thanks.\n\nYes, I have a few jobs where they seem to ask for them to be sent at the time of the application, but then I can't find any email or address to forward to my references.   I've emailed one of the departments for this.",
+          "author": "0ttr",
+          "created": 1634658087,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hh9ls1v": {
+      "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hh9ls1v/",
+      "text": "There is no general rule about this and how a particular call treats letters is some weird intersection of the HR processes at the college, how the application materials pipeline works (usually some website), common practices in the respective field, the historical practices of the department in question, and random choices made by hiring managers and search chairs.  \n\nMy college's hiring pipeline doesn't have a LoR facilitation system, so there's no built-in way to get \"closed\" letters.  Search chairs have to either settle for open letters or else facilitate gathering the materials themselves.  As a result, lots of searches just don't ever ask for letters of any kind and do a reference checks over the phone for finalists.",
+      "author": "mediaisdelicious",
+      "created": 1634669663,
+      "upvotes": 2,
+      "replies": {
+        "hh9muof": {
+          "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hh9muof/",
+          "text": "Ok, thanks.   I've been reviewing my applications and at least one of them appears to not say either way, so I emailed them using the email within the req and it bounced.  So that was interesting.",
+          "author": "0ttr",
+          "created": 1634670093,
+          "upvotes": 1,
+          "replies": {
+            "hh9nhm7": {
+              "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hh9nhm7/",
+              "text": "Sheesh.  Time to email the department chair and/or HR.",
+              "author": "mediaisdelicious",
+              "created": 1634670345,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hh9lky3": {
+      "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hh9lky3/",
+      "text": "My experience has always been that they are either up-front about letters being a required component of the initial application package, or they say nothing specific about letters at the application stage and they contact you to formally request them.",
+      "author": "brett_hoover_wx",
+      "created": 1634669585,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hh9nj2d": {
+      "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hh9nj2d/",
+      "text": "It depends.\n\nSome jobs require letters of recommendation with your application, right at the beginning when you first apply.  Usually you enter your references contact information during the application process, and they are sent an automated email with a link to upload the letter.  You never see or have access to it, of course. Hard copy letters are rarely required these days.\n\nSome jobs only require contact information for your references, and if you are chosen for an interview, they ask your references for a letter.  Your references won't need to write a letter unless you make it to the interview stage. This is becoming the norm, at least in STEM fields, because most people on the job market apply for dozens of jobs, and it would be a huge hassle to have to ask for letters for each of them. \n\nUsually, the job ad indicates whether they need letters or just contact info. Sometimes the wording is frustratingly vague, and it's hard to know until you actually start the online application process. It's sometimes hard to know at what stage of the process your references will actually be asked for the letter.",
+      "author": "apple-masher",
+      "created": 1634670362,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hh9prsi": {
+      "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hh9prsi/",
+      "text": "It depends for what they are asking. If it is written, that they want you to submit reference letters, you can send it along with your application. If they asked for referees contacts, that's mean that they more likely will contact them only if they are interested in you. Make sure that referees are informed, BTW =).",
+      "author": "MrBacterioPhage",
+      "created": 1634671238,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hhadede": {
+      "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hhadede/",
+      "text": "As many have said, it can depend on the field and the department. You could contact the administrative assistant for the department and ask their opinion.",
+      "author": "dmlane",
+      "created": 1634680828,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hhaf2xn": {
+      "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hhaf2xn/",
+      "text": "Depends. In the US and in physics, usually at the time of application. In Europe, I've seen them asked for at the point where candidates are shortlisted/invited to interviews.\n\nEdit: I should note that this applies to faculty jobs",
+      "author": "asstprofthrowaway",
+      "created": 1634681580,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hhbv93k": {
+      "link": "/r/AskAcademia/comments/qbc04f/when_applying_for_an_academic_job_at_what_point/hhbv93k/",
+      "text": "Usually after a phone interview, but sometimes right at the application stage",
+      "author": "ohnoyoudin",
+      "created": 1634707986,
       "upvotes": 1,
       "replies": {}
     }

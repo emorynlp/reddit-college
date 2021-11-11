@@ -5,7 +5,7 @@
   "text": "Hey, so I've applied to Rutgers, and they require me to fill out the SRAR (Self Reported academic records)\nSo under the class rank option, it says 'Decile', and the drop-down goes from 1st Decile, all the way up to 10th Decile.\n\nMy question was, does the 1st Decile denote you're in the top 10% of your school, or the 10th Decile?",
   "author": "bizzarebananabrandy",
   "created": 1635175643,
-  "updated": 1635182379,
+  "updated": 1636152456,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -44,6 +44,14 @@
           }
         }
       }
+    },
+    "hi17uyf": {
+      "link": "/r/ApplyingToCollege/comments/qfj7c6/percentile_ranking_system_while_filling_srar/hi17uyf/",
+      "text": "Top 10% is first decile (much as a statistician would cringe at this).",
+      "author": "RichInPitt",
+      "created": 1635195797,
+      "upvotes": 1,
+      "replies": {}
     }
   }
 }

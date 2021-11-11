@@ -5,7 +5,7 @@
   "text": "is the deadline 00.00 4th nov or 11.59pm 4th Nov?",
   "author": "Timelymadam",
   "created": 1635872435,
-  "updated": 1635889538,
+  "updated": 1636165872,
   "over_18": false,
   "upvotes": 3,
   "upvote_ratio": 1.0,
@@ -16,7 +16,25 @@
       "author": "skieurope12",
       "created": 1635874679,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hj30o5d": {
+          "link": "/r/ApplyingToCollege/comments/ql8rwj/video_portfolio_brown/hj30o5d/",
+          "text": "Is it in your local time?",
+          "author": "Initial_Plankton3436",
+          "created": 1635898712,
+          "upvotes": 1,
+          "replies": {
+            "hja9mwp": {
+              "link": "/r/ApplyingToCollege/comments/ql8rwj/video_portfolio_brown/hja9mwp/",
+              "text": "Yes",
+              "author": "sunn1n4",
+              "created": 1636035734,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

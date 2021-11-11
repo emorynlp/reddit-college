@@ -5,7 +5,7 @@
   "text": "i have 2 LOC but some colleges only allow one and the one it automatically put is not the one i want to submit",
   "author": "murbsta",
   "created": 1635775706,
-  "updated": 1635777355,
+  "updated": 1636166138,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -16,7 +16,43 @@
       "author": "prsehgal",
       "created": 1635777262,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hj2gh96": {
+          "link": "/r/ApplyingToCollege/comments/qkes82/can_i_choose_who_i_want_my_letter_of_rec_can_be/hj2gh96/",
+          "text": "How? I asked my counselor and he said there was no way to change it.",
+          "author": "murbsta",
+          "created": 1635890412,
+          "upvotes": 1,
+          "replies": {
+            "hj2ow5b": {
+              "link": "/r/ApplyingToCollege/comments/qkes82/can_i_choose_who_i_want_my_letter_of_rec_can_be/hj2ow5b/",
+              "text": "If you have letters from multiple teachers, you should be able to see their names in a drop-down list and pick which one you want to send out.",
+              "author": "prsehgal",
+              "created": 1635893821,
+              "upvotes": 1,
+              "replies": {
+                "hj2zzeb": {
+                  "link": "/r/ApplyingToCollege/comments/qkes82/can_i_choose_who_i_want_my_letter_of_rec_can_be/hj2zzeb/",
+                  "text": "Is that an option on Common App? That is what I'm using for all applications.",
+                  "author": "murbsta",
+                  "created": 1635898422,
+                  "upvotes": 1,
+                  "replies": {
+                    "hj30adj": {
+                      "link": "/r/ApplyingToCollege/comments/qkes82/can_i_choose_who_i_want_my_letter_of_rec_can_be/hj30adj/",
+                      "text": "Yes, you should be able to assign a teacher before you submit your application.",
+                      "author": "prsehgal",
+                      "created": 1635898552,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }

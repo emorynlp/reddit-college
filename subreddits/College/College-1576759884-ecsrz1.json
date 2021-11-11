@@ -756,7 +756,25 @@
           "author": "Bekah679872",
           "created": 1576780480,
           "upvotes": 2,
-          "replies": {}
+          "replies": {
+            "hj2c978": {
+              "link": "/r/college/comments/ecsrz1/grade_grubbing/hj2c978/",
+              "text": "Well I mean it's College Algebra: a lot of students who take that class in college aren't necessarily the brightest academically.",
+              "author": "Joehotto123",
+              "created": 1635888783,
+              "upvotes": 1,
+              "replies": {
+                "hj2nlo2": {
+                  "link": "/r/college/comments/ecsrz1/grade_grubbing/hj2nlo2/",
+                  "text": "I took it as concurrent credit in high school. The students taking concurrent credit classes usually aren\u2019t the dumbest",
+                  "author": "Bekah679872",
+                  "created": 1635893288,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
         },
         "fbe9cx8": {
           "link": "/r/college/comments/ecsrz1/grade_grubbing/fbe9cx8/",
@@ -794,5 +812,5 @@
       "replies": {}
     }
   },
-  "updated": 1634056649
+  "updated": 1636186573
 }

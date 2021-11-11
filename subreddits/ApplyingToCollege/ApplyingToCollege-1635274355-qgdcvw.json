@@ -5,7 +5,7 @@
   "text": "Whats the best website to shorten a link?",
   "author": "Impossible_Victory34",
   "created": 1635274355,
-  "updated": 1635301699,
+  "updated": 1636169395,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -41,6 +41,32 @@
       "created": 1635292182,
       "upvotes": 1,
       "replies": {}
+    },
+    "hi9qsu5": {
+      "link": "/r/ApplyingToCollege/comments/qgdcvw/best_way_to_put_a_link_in_activity_section/hi9qsu5/",
+      "text": "They won\u2019t click on a link\u2026 certainly not if it\u2019s a completely unidentifiable btly link.  No way they\u2019ll risk some bad-actor linking to something nefarious.",
+      "author": "Strict-Special3607",
+      "created": 1635355158,
+      "upvotes": 1,
+      "replies": {
+        "hi9rgdi": {
+          "link": "/r/ApplyingToCollege/comments/qgdcvw/best_way_to_put_a_link_in_activity_section/hi9rgdi/",
+          "text": "Should I add the actual link in the additional information section?",
+          "author": "Impossible_Victory34",
+          "created": 1635355418,
+          "upvotes": 1,
+          "replies": {
+            "hi9rlno": {
+              "link": "/r/ApplyingToCollege/comments/qgdcvw/best_way_to_put_a_link_in_activity_section/hi9rlno/",
+              "text": "They won\u2019t click on it, but sure.",
+              "author": "Strict-Special3607",
+              "created": 1635355476,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

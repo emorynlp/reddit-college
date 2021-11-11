@@ -5,7 +5,7 @@
   "text": "How do you store your project data? Any recommendations for external hard drives that work with macs? \n\nIf it makes a difference, I am specifically working with microbiome data and using r to code.",
   "author": "bdrunkowitz",
   "created": 1635164888,
-  "updated": 1635185313,
+  "updated": 1636202249,
   "over_18": false,
   "upvotes": 5,
   "upvote_ratio": 1.0,
@@ -16,7 +16,25 @@
       "author": "rox_et_al",
       "created": 1635169149,
       "upvotes": 3,
-      "replies": {}
+      "replies": {
+        "hj68fht": {
+          "link": "/r/GradSchool/comments/qffm3e/data_storage_question/hj68fht/",
+          "text": "My PI isn\u2019t great. When I asked about it, she just said to get some sort of hard drive to back up.\n\nUnfortunately, my school doesn\u2019t provide any equipment or funding for equipment used for data analysis. I have to run everything on my personal laptop :/",
+          "author": "bdrunkowitz",
+          "created": 1635960166,
+          "upvotes": 1,
+          "replies": {
+            "hj6ed5b": {
+              "link": "/r/GradSchool/comments/qffm3e/data_storage_question/hj6ed5b/",
+              "text": "Too bad...\n\nAnyways, get yourself an external hard drive and some sort of cloud subscription. Sure, you'll have to pay for it, but I sure as hell don't want to risk losing data.",
+              "author": "rox_et_al",
+              "created": 1635962405,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     },
     "hhzsic0": {
       "link": "/r/GradSchool/comments/qffm3e/data_storage_question/hhzsic0/",
@@ -24,7 +42,16 @@
       "author": "blteare",
       "created": 1635174945,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hj68k5t": {
+          "link": "/r/GradSchool/comments/qffm3e/data_storage_question/hj68k5t/",
+          "text": "Thank you! My PI won\u2019t fund a hard drive..",
+          "author": "bdrunkowitz",
+          "created": 1635960215,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     },
     "hi03z2v": {
       "link": "/r/GradSchool/comments/qffm3e/data_storage_question/hi03z2v/",

@@ -1578,6 +1578,23 @@
                               "created": 1631657833,
                               "upvotes": 1,
                               "replies": {}
+                            },
+                            "hhilguu": {
+                              "link": "/r/college/comments/ooxhek/slader_is_gone_and_it_should_be_missed/hhilguu/",
+                              "text": "Any luck? Please PM, ty!",
+                              "author": "Choptactless",
+                              "created": 1634838097,
+                              "upvotes": 1,
+                              "replies": {
+                                "hhili2x": {
+                                  "link": "/r/college/comments/ooxhek/slader_is_gone_and_it_should_be_missed/hhili2x/",
+                                  "text": "Would you look at that, all of the words in your comment are in alphabetical order.\n\nI have checked 313,720,623 comments, and only 69,924 of them were in alphabetical order.",
+                                  "author": "alphabet_order_bot",
+                                  "created": 1634838110,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
                             }
                           }
                         },
@@ -2012,5 +2029,5 @@
       "replies": {}
     }
   },
-  "updated": 1634582998
+  "updated": 1636177117
 }

@@ -5,7 +5,7 @@
   "text": "Google doesn't say shi",
   "author": "sonnydogx",
   "created": 1635179423,
-  "updated": 1635182371,
+  "updated": 1636163261,
   "over_18": false,
   "upvotes": 3,
   "upvote_ratio": 1.0,
@@ -16,13 +16,47 @@
       "author": "prsehgal",
       "created": 1635179597,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hi0w60h": {
+          "link": "/r/ApplyingToCollege/comments/qfkk7v/how_to_tell_whether_a_school_allows_selfreporting/hi0w60h/",
+          "text": "Hello, if you're a Canadian applicant, do you need to put anything for \"Do you intend to apply for a US Visa?\"? Canadians don't need an F1",
+          "author": "magnum_dong_opus",
+          "created": 1635191106,
+          "upvotes": 1,
+          "replies": {
+            "hi1pg98": {
+              "link": "/r/ApplyingToCollege/comments/qfkk7v/how_to_tell_whether_a_school_allows_selfreporting/hi1pg98/",
+              "text": "Canadians don't need to apply for an F-1 visa, but they do need to get F-1 visa status when they cross into the USA. So you will still need an I-20 for that purpose. I would check with a university's international student services office, but I think you need to select Yes for that question.",
+              "author": "prsehgal",
+              "created": 1635203463,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     },
     "hi03uha": {
       "link": "/r/ApplyingToCollege/comments/qfkk7v/how_to_tell_whether_a_school_allows_selfreporting/hi03uha/",
       "text": "Every school will tell you their requirements right on the admissions website.",
       "author": "Strict-Special3607",
       "created": 1635179634,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hi0efja": {
+      "link": "/r/ApplyingToCollege/comments/qfkk7v/how_to_tell_whether_a_school_allows_selfreporting/hi0efja/",
+      "text": "it says on their website thats the best place to get information. cause like tufts is self-report but i think i remember reading that they will ask for the official report after you're accepted (please correct me if im wrong), so yea the websites",
+      "author": "i_wanna_upenn",
+      "created": 1635183971,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hi15eki": {
+      "link": "/r/ApplyingToCollege/comments/qfkk7v/how_to_tell_whether_a_school_allows_selfreporting/hi15eki/",
+      "text": "Look for something like either\n\n>Applicants **can self-report their SAT, ACT, and English language test scores** on their application. Official scores sent from the testing agency are not required for the application\n\nor\n\n>Please confirm that the **testing agency submitted your scores** to the University of Maryland, College Park, using the SAT code 5814 or ACT code 1746.\n\non the Admissions website.",
+      "author": "RichInPitt",
+      "created": 1635194789,
       "upvotes": 1,
       "replies": {}
     }

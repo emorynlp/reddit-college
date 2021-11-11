@@ -43,7 +43,25 @@
                       "author": "42gauge",
                       "created": 1634591334,
                       "upvotes": 1,
-                      "replies": {}
+                      "replies": {
+                        "hh5z9hw": {
+                          "link": "/r/CollegeMajors/comments/ptl6u2/help_me_please_god_help_me/hh5z9hw/",
+                          "text": "Thank you for your detailed response. However, since posting this, I\u2019ve decided I\u2019m going to go to pilot school, after completing a bachelors in Business Administration.",
+                          "author": "sewser",
+                          "created": 1634597442,
+                          "upvotes": 1,
+                          "replies": {
+                            "hh5zkxx": {
+                              "link": "/r/CollegeMajors/comments/ptl6u2/help_me_please_god_help_me/hh5zkxx/",
+                              "text": "Awesome! It seems like a good career, as long as you're eilling to deal with the long hours. Alsi, spend your time in school getting different kinds of internships if you can to see what business stuff you like or don't like in case pilot school doesn't work out. Also, take advantage of your university's career resource center and definitely try to work with your universities disabilities office to get an IEP",
+                              "author": "42gauge",
+                              "created": 1634597596,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
                     }
                   }
                 }
@@ -88,5 +106,5 @@
       }
     }
   },
-  "updated": 1634594250
+  "updated": 1636189602
 }

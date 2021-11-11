@@ -5,7 +5,7 @@
   "text": "Your help is highly appreciated. :)",
   "author": "_akirakin_",
   "created": 1634316654,
-  "updated": 1634572635,
+  "updated": 1636159425,
   "over_18": false,
   "upvotes": 12,
   "upvote_ratio": 0.84,
@@ -423,7 +423,16 @@
       "author": "localramenconsumer",
       "created": 1634404034,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hhtrg3r": {
+          "link": "/r/ApplyingToCollege/comments/q8sgu3/i_got_1490_and_have_362_gpa_should_i_be_brave_and/hhtrg3r/",
+          "text": "Unweighted",
+          "author": "_akirakin_",
+          "created": 1635050306,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     },
     "hgvvn7h": {
       "link": "/r/ApplyingToCollege/comments/q8sgu3/i_got_1490_and_have_362_gpa_should_i_be_brave_and/hgvvn7h/",
@@ -431,7 +440,25 @@
       "author": "BSC56",
       "created": 1634407150,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hhtqq2d": {
+          "link": "/r/ApplyingToCollege/comments/q8sgu3/i_got_1490_and_have_362_gpa_should_i_be_brave_and/hhtqq2d/",
+          "text": "I am asian.",
+          "author": "_akirakin_",
+          "created": 1635049868,
+          "upvotes": 1,
+          "replies": {
+            "hhurobc": {
+              "link": "/r/ApplyingToCollege/comments/q8sgu3/i_got_1490_and_have_362_gpa_should_i_be_brave_and/hhurobc/",
+              "text": "L\n\nI\u2019d suggest T30-T20.  Schools like Boston College.",
+              "author": "BSC56",
+              "created": 1635078525,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

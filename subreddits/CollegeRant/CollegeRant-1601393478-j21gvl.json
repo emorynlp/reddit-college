@@ -97,6 +97,23 @@
           "created": 1601438907,
           "upvotes": 4,
           "replies": {}
+        },
+        "hil6njk": {
+          "link": "/r/CollegeRant/comments/j21gvl/respondus_lockdown_browser_is_literally_malware/hil6njk/",
+          "text": "That makes no sense because it's basically just a mouse interface.",
+          "author": "Ri_Studios",
+          "created": 1635556233,
+          "upvotes": 1,
+          "replies": {
+            "hili7iu": {
+              "link": "/r/CollegeRant/comments/j21gvl/respondus_lockdown_browser_is_literally_malware/hili7iu/",
+              "text": "Happy to say I have long since graduated and no longer give a shit about respondus",
+              "author": "therealhardscoper",
+              "created": 1635561967,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
         }
       }
     },
@@ -235,5 +252,5 @@
       }
     }
   },
-  "updated": 1634063773
+  "updated": 1636193372
 }

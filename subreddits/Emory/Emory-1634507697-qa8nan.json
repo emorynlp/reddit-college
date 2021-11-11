@@ -5,9 +5,18 @@
   "text": "I am going to apply ED to Emory this year for CS major. I would like to know some club, event, program for CS students.",
   "author": "Ice-Mint72",
   "created": 1634507697,
-  "updated": 1634655336,
+  "updated": 1636197459,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
-  "comments": {}
+  "comments": {
+    "hh9gick": {
+      "link": "/r/Emory/comments/qa8nan/emory_cs_questions/hh9gick/",
+      "text": "HackATL is a business school hackathon that focuses on getting a business up and running. But the folks that attend are usually trying to prop up a website as quickly as possible and do some proof-of-concept in a short amount of time. I think this is run by EEVM\n\n[HackEmory](https://www.facebook.com/hackEmory/) is a programming focused student org that does a few things occasionally. They also usually run a hackathon. Focus is on just making things, not starting a business.\n\n[CREATEmory](https://createmory.com/)  is a newer group on campus trying to do freelance software dev projects for anyone to get practical experience.\n\n[EmoryRobotics](https://emory-robotics.github.io/) Does kind of what it says on the tin. Focuses on doing things with robots.\n\nAnd as always, I will promote our space, [TechLab](https://ats.emory.edu/sdl/techlab/) . A makerspace on campus for folks to just make stuff. We have a few raspberry pi kits and arduino kits folks can check out. If there's ever something that we need to look into for growing the space, just let us know. I'm always looking to grow the electronics area and make it a bit more robust.",
+      "author": "EmoryTechLab",
+      "created": 1634667607,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
 }

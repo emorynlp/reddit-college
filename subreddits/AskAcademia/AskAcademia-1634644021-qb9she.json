@@ -5,7 +5,7 @@
   "text": "Is there a way to study subjects where there are-:\n1) No books\n2) No tutorials in youtube.\n3) No articles in internet\n\nHow to study these kind of subjects? What is the way?",
   "author": "Academic_Bet3756",
   "created": 1634644021,
-  "updated": 1634654282,
+  "updated": 1636171085,
   "over_18": false,
   "upvotes": 0,
   "upvote_ratio": 0.25,
@@ -146,7 +146,16 @@
           "author": "Academic_Bet3756",
           "created": 1634646755,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hh8qhnd": {
+              "link": "/r/AskAcademia/comments/qb9she/how_to_study_subjects_where_there_are_literally/hh8qhnd/",
+              "text": "As you are unsatisfied with the quality of the available materials and the teaching that the professors are able to provide, its difficult to suggest how you progress. There's electrical engineer phd students in other parts of this thread giving you suggestions and you're being pretty rude. I'd suggest maybe you reflect on your expectations of others, and the materials you need to learn. My impression is that you haven't actually done a thorough reading of the suggested references or have only skimmed them and are therefore not connecting them to the syllabus. \n\nGood luck, I hope you find what you're looking for.",
+              "author": "Altorode",
+              "created": 1634657065,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
         }
       }
     },
@@ -156,6 +165,66 @@
       "author": "rsoccerlover",
       "created": 1634654057,
       "upvotes": 1,
+      "replies": {}
+    },
+    "hh8mj4c": {
+      "link": "/r/AskAcademia/comments/qb9she/how_to_study_subjects_where_there_are_literally/hh8mj4c/",
+      "text": "Depending on the subject, your professors can give you advice as well on how to study",
+      "author": "Critical_Ad_6032",
+      "created": 1634655396,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hh8pia3": {
+      "link": "/r/AskAcademia/comments/qb9she/how_to_study_subjects_where_there_are_literally/hh8pia3/",
+      "text": "Just putting \"microprocessor system textbook\" into google gives hundreds of results, many of them freely available, like [this one](https://www.analog.com/media/en/training-seminars/design-handbooks/microprocessor-systems-handbook/Microprocessor_Systems_Handbook.pdf). Not to mention that your syllabus directly names books to look for:\n\n> \uf0b7D. V. Hall, \u201cMicroprocessor and Interfacing, Programming and Hardware\u201d\n\n> \uf0b7K. R. Fowler, \u201cElectronic Instrument Design: Architecting for the Life Cycle\u201d\n\n> \uf0b7Ramesh S. Gaonkar, \u201cMicroprocessor Architecture, Programming and Application with 8085\u201d\n\n> \uf0b7A. K. Ray & K.M. Bhurchandi, \u201cAdvanced Microprocessors and Peripheral\u201d\n\n> \uf0b7E.O. Duebelin, \u201cMeasurement System Application and Design\u201d\n\n> \uf0b7John Hyde, \u201cUSB Design by Example\u201d, Intel Press\n\n> \uf0b7PCI bus, USB, 8255, Bluetooth datasheets\n\n> \uf0b7D.M. Consodine\n\n> \uf0b7S. Walf and R. F. Smith\n\n> S.E. Derenzo",
+      "author": "tpolakov1",
+      "created": 1634656655,
+      "upvotes": 2,
+      "replies": {
+        "hh8q3f4": {
+          "link": "/r/AskAcademia/comments/qb9she/how_to_study_subjects_where_there_are_literally/hh8q3f4/",
+          "text": "[deleted]",
+          "author": null,
+          "created": 1634656898,
+          "upvotes": 2,
+          "replies": {
+            "hh8tf7t": {
+              "link": "/r/AskAcademia/comments/qb9she/how_to_study_subjects_where_there_are_literally/hh8tf7t/",
+              "text": "What do you mean they don't cover the syllabus? You're telling me that a textbook on microprocessor systems doesn't cover topics like memory interfacing and data transfer? Or that a measurement system design book does not have chapters on noise and shielding?\n\nOf course they don't say word for word what to put in your exams, but that's not how university education works. You read multiple books to understand the topic and be able to independently solve problems, not to memorize answers for an exam.\n\n> And do you know what is more interesting? HAHA none of these books are available at our library(nor bookshops). HAHA.\n\nYou obviously have internet, and every one of them, when copied into a google prompt exactly as written in the syllabus gives you multiple hits on (probably pirated) pdfs.",
+              "author": "tpolakov1",
+              "created": 1634658294,
+              "upvotes": 3,
+              "replies": {
+                "hh8u8pf": {
+                  "link": "/r/AskAcademia/comments/qb9she/how_to_study_subjects_where_there_are_literally/hh8u8pf/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1634658635,
+                  "upvotes": 1,
+                  "replies": {
+                    "hh8wan8": {
+                      "link": "/r/AskAcademia/comments/qb9she/how_to_study_subjects_where_there_are_literally/hh8wan8/",
+                      "text": "> LOL Yes it doesn't. Check that out yourself. https://b-ok.asia/book/3526323/f7e566\n\nChapters 3.3 and 10.2 just from their names. I'm pretty sure there would be more if I were to read through it. Also, if you want a book explicitly on the topic, it's only a [single google search](https://duckduckgo.com/?q=noisy+electrical+measurements&t=osx&ia=web) away (there are also whole [books](https://www.springer.com/gp/book/9780442006365) dedicated to this topic, with exactly the correct name).\n\n> Again you have no idea about this. There are lots of good books written by Indian authors about these subjects, they aren't available in google(most, few are available and they are helpful). I wonder how the people ITT would perform when put in an educational system like that one in Nepal.\n\nI doubt any of the people responding to you in this thread studied at an Indian university, and yet, we've all made it through our electronics engineering classes just fine. If you spent as much time on looking for sources as you do on whining here, you'd be set.",
+                      "author": "tpolakov1",
+                      "created": 1634659499,
+                      "upvotes": 4,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hh8pqz2": {
+      "link": "/r/AskAcademia/comments/qb9she/how_to_study_subjects_where_there_are_literally/hh8pqz2/",
+      "text": "What in Alexandria's library lost knowledge's name are you studying?",
+      "author": "pupsteppenwolf",
+      "created": 1634656756,
+      "upvotes": 2,
       "replies": {}
     }
   }

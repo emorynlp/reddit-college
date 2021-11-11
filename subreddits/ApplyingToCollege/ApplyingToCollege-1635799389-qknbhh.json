@@ -5,7 +5,7 @@
   "text": "When I review my CommonApp before submitting, the Testing section says \u201cThere are no scores to report\u201d, even though I have my scores entered and selected that I wanted them to be considered. \n\nUChicago\u2019s website says to self-report scores on CommonApp.\n\nAlso, I submitted my Purdue App yesterday and it has my test scores on it.\n\nEDIT: the CommonApp website says that the school might have suppressed information they don\u2019t want from appearing on the app, which makes sense that they could do that, but UChicago asks that you self-report, so what\u2019s going on?",
   "author": "R1ceroni",
   "created": 1635799389,
-  "updated": 1635890235,
+  "updated": 1636157233,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 0.67,
@@ -16,7 +16,16 @@
       "author": "RichInPitt",
       "created": 1635825920,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hj3986c": {
+          "link": "/r/ApplyingToCollege/comments/qknbhh/my_sat_scores_are_missing_from_uchicago_commonapp/hj3986c/",
+          "text": "I thought that if they suppressed them on the pdf they wouldn\u2019t be able to see them at all.",
+          "author": "R1ceroni",
+          "created": 1635902237,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

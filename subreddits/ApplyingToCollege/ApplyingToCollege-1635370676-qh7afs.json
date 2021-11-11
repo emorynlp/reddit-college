@@ -5,7 +5,7 @@
   "text": "Hello \ud83d\udc4b  \nI am an international student and I am applying for a graduates' program at ucla. There is a question in the application asking for \"letter grade\". In my case, my grades are in a 10-point scale. Does anyone knows what should I do?\n\nThank you in advance!",
   "author": "Sunny_morning496",
   "created": 1635370676,
-  "updated": 1635456142,
+  "updated": 1636155424,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
@@ -62,7 +62,25 @@
                   "author": "Sunny_morning496",
                   "created": 1635380961,
                   "upvotes": 1,
-                  "replies": {}
+                  "replies": {
+                    "hilroxg": {
+                      "link": "/r/ApplyingToCollege/comments/qh7afs/letter_grade/hilroxg/",
+                      "text": "Then a possibility is doing statistical comparisons. If the lowest passing grade in the U.S is a 70, and the lowest passing grade in your home country is a 5, we can use this to relate the other things. You can essentially take the number of points over 5 you got, divide it by 5, then multiply that value by 30 and add 70 to get the u.s equivalent score. It won\u2019t be exact, but you should be able to get a good approximation. So for instance, if your score is an 8.5, it\u2019s 3.5 points over the passing grade, and you can divide 3.5/5 to get 0.7, after which point you can multiply 0.7 by 30 to get the u.s equivalent of how much over the passing grade you were, so about 21 points over. At this point, add the points over to the minimum passing grade (70). This renders your score of 8.5 into the u.s score of 91%, an excellent grade.\n\nBoiled down, the formula for the conversion is:\n(x= the score you get in your system)\n(((x-5)/5)*30)+70\n\nYou should be able to simply plug it into a calculator to get your answer.",
+                      "author": "GhostWolf2048",
+                      "created": 1635566996,
+                      "upvotes": 2,
+                      "replies": {
+                        "hipi9ue": {
+                          "link": "/r/ApplyingToCollege/comments/qh7afs/letter_grade/hipi9ue/",
+                          "text": "Wow, that's brilliant!\nThank you for replying!",
+                          "author": "Sunny_morning496",
+                          "created": 1635639877,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }

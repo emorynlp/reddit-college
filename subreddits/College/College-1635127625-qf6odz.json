@@ -5,7 +5,7 @@
   "text": "You can get a $200,000 loan for college, unless you\u2019re smart and have a really good financial history. \n\nYou cannot get the same in business loans or for any kind of investment that free\u2019s you from debt, making yourself a 40-50 year asset for banks to milk.\n\nUpdate: I think I forgot to be more apparent with my point; it\u2019s this, STEM careers pay well and open opportunities to earn significant incomes with no ceiling, ideally. So more people that like rivers are channeled by difficulty to other focus\u2019s/majors that have very little guarantee for payout or less than $100,000 a year\u2026the more assets are created for people to be bound to banks and further fleecing in the future of their earnings.",
   "author": "OH-Kelly-DOH-Kelly",
   "created": 1635127625,
-  "updated": 1635184538,
+  "updated": 1636182425,
   "over_18": false,
   "upvotes": 0,
   "upvote_ratio": 0.38,
@@ -92,7 +92,34 @@
                               "author": "Nickjet45",
                               "created": 1635181247,
                               "upvotes": 1,
-                              "replies": {}
+                              "replies": {
+                                "hi2pru0": {
+                                  "link": "/r/college/comments/qf6odz/making_stem_difficult_for_under_grads_just_feeds/hi2pru0/",
+                                  "text": "That\u2019s your opinion. Deduction is taught in CS, algebra and calculus identities are fully realized in physics, logic in CS is based on structure, not algebraic expression and identities. \n\nCS implements math, but gives structured solutions to specific problems.\n\nIt is a completely different kind of tool altogether, math causes over intellectualization, and physcis furthers this danger of assuming your internal mapping isn\u2019t separate from reality.\n\nCS forces you to grow new synapses to rip thru concrete barriers and develop the logic and structured solution. It is right and you are wrong until you learn what it wants to do.\n\nTry harder. And your welcome.",
+                                  "author": "OH-Kelly-DOH-Kelly",
+                                  "created": 1635221028,
+                                  "upvotes": 0,
+                                  "replies": {
+                                    "hi2q5mf": {
+                                      "link": "/r/college/comments/qf6odz/making_stem_difficult_for_under_grads_just_feeds/hi2q5mf/",
+                                      "text": "**A lot** of algorithmic logic is in fact based on algebra expressions and the like. \n\nTake a class in discrete structures/mathematics and you\u2019ll quickly see it. You are so confidently wrong\n\nEdit:\n\nAs I see you have edited your comment since my reply, I will respond to the other half. \n\nAgain, computer science is the creation and optimization of **efficient** algorithms. You cannot do that without math, no matter how hard you try.\n\nThe fastest sorting algorithm is O(nLogn) and this can be proven mathematically. There are outliers that can reach O(n) but they make assumptions about the dataset. \n\nPhysics is there to help you **break** a problem into multiple steps, it\u2019s as simple as that.",
+                                      "author": "Nickjet45",
+                                      "created": 1635221257,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "hi2uw63": {
+                                          "link": "/r/college/comments/qf6odz/making_stem_difficult_for_under_grads_just_feeds/hi2uw63/",
+                                          "text": "Just downloaded Cornell\u2019s course on this, we\u2019ll see.",
+                                          "author": "OH-Kelly-DOH-Kelly",
+                                          "created": 1635224292,
+                                          "upvotes": 0,
+                                          "replies": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
                             }
                           }
                         }

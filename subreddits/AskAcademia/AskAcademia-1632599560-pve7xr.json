@@ -5,7 +5,7 @@
   "text": "The more I stay in academia, the more I feel like success mostly depends on being at the right place at the right time and having the right contacts. Is this true?",
   "author": "imaginary_character",
   "created": 1632599560,
-  "updated": 1634578076,
+  "updated": 1636170786,
   "over_18": false,
   "upvotes": 375,
   "upvote_ratio": 0.97,
@@ -38,7 +38,16 @@
               "author": "WSU_STEM_PROF",
               "created": 1632676347,
               "upvotes": 5,
-              "replies": {}
+              "replies": {
+                "hhcmmjf": {
+                  "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hhcmmjf/",
+                  "text": "Yup, didn't realize that it was gonna be so doggie dog. GROWL, BITE, and oh you are a hydrant.",
+                  "author": "Only4fools",
+                  "created": 1634730473,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
             },
             "hecebx6": {
               "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hecebx6/",
@@ -165,7 +174,34 @@
                   "author": "42gauge",
                   "created": 1634548702,
                   "upvotes": 1,
-                  "replies": {}
+                  "replies": {
+                    "hh79pyw": {
+                      "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh79pyw/",
+                      "text": "Right now? Medical bioinformatics / computational biology, I\u2019d say. Before that my PhD program was anthropology :]",
+                      "author": "--MCMC--",
+                      "created": 1634622109,
+                      "upvotes": 1,
+                      "replies": {
+                        "hh7c485": {
+                          "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh7c485/",
+                          "text": "Oh yeah, bioinformatics is hot. How is -omics as a subfield?",
+                          "author": "42gauge",
+                          "created": 1634623983,
+                          "upvotes": 1,
+                          "replies": {
+                            "hhec3vb": {
+                              "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hhec3vb/",
+                              "text": "Pretty fun, lots of interesting challenges in trying to represent nuances of the data-generating process for different -omes.",
+                              "author": "--MCMC--",
+                              "created": 1634757200,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
                 }
               }
             },
@@ -573,7 +609,16 @@
                                                   "author": "42gauge",
                                                   "created": 1634574725,
                                                   "upvotes": 1,
-                                                  "replies": {}
+                                                  "replies": {
+                                                    "hh591cq": {
+                                                      "link": "/r/AskAcademia/comments/pve7xr/is_academia_just_a_giant_lottery/hh591cq/",
+                                                      "text": "plos one usually have data sets in regular published paper, you can search there.\n\nI imported everything from SKlearn or Pytorch libraries for the CNN. I wrote a custom feature selector in python though.\n\nIn medicine you won\u2019t be / hopefully / building any ML model from scratch, just utilizing these models to predict things. We are using a lot of genomic data now, so get used to manage gwas-snp data, and Linux command line. \n\nIf you are already a Medical Doctor, knowing quantitative methods, ML, DL and programming is a huge plus even if you are not an expert at them.",
+                                                      "author": "quemacuenta",
+                                                      "created": 1634585494,
+                                                      "upvotes": 1,
+                                                      "replies": {}
+                                                    }
+                                                  }
                                                 }
                                               }
                                             }

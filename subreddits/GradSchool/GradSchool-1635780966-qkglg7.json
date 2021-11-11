@@ -5,7 +5,7 @@
   "text": "Is there any programs or software that really helped out during your work as a graduate student? I'm thinking like things that sort and hold papers you download, things that help you keep track of notes and highlights from papers with annotations, so on and so forth. General quality of life stuff too. I'm curious about what people typically already use before jumping in myself. For reference, this is my first semester of a PhD after graduating from undergrad this May. Thanks in advance!",
   "author": "danifreedude",
   "created": 1635780966,
-  "updated": 1635891380,
+  "updated": 1636201812,
   "over_18": false,
   "upvotes": 86,
   "upvote_ratio": 0.97,
@@ -40,7 +40,34 @@
           "author": "Laser_Plasma",
           "created": 1635852097,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hj5bqpn": {
+              "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hj5bqpn/",
+              "text": "does your uni use gmail for it's email?",
+              "author": "Sir_Chilliam",
+              "created": 1635947463,
+              "upvotes": 1,
+              "replies": {
+                "hj5bte4": {
+                  "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hj5bte4/",
+                  "text": "Unfortunately not, I'm guessing that's a prerequisite?",
+                  "author": "Laser_Plasma",
+                  "created": 1635947494,
+                  "upvotes": 1,
+                  "replies": {
+                    "hj5dtma": {
+                      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hj5dtma/",
+                      "text": "Yeah, unfortunately, is it.",
+                      "author": "Sir_Chilliam",
+                      "created": 1635948340,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -568,6 +595,14 @@
       "text": "For clean markdown note taking I use Typora. Your notes will look so good (especially if you need to type code / math in between normal lines of text).\n\nAdobe Illustrator is useful for figure making.",
       "author": "coffee24",
       "created": 1635861903,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hj5vo0p": {
+      "link": "/r/GradSchool/comments/qkglg7/software_for_grad_students/hj5vo0p/",
+      "text": "just wanted to say thank you for all of the great feedback! <3",
+      "author": "danifreedude",
+      "created": 1635955373,
       "upvotes": 1,
       "replies": {}
     }

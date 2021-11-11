@@ -5,7 +5,7 @@
   "text": "How risky is it to park your car at North Dekalb mall/in a street near Emory? Are there any better spots? I\u2019ve been unable to secure a parking exemption this far. Thanks!",
   "author": "ReallyConfusedAlpaca",
   "created": 1635873208,
-  "updated": 1635891175,
+  "updated": 1636195523,
   "over_18": false,
   "upvotes": 3,
   "upvote_ratio": 1.0,
@@ -24,7 +24,33 @@
       "author": "Worldlover67",
       "created": 1635878289,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hj3cee8": {
+          "link": "/r/Emory/comments/ql92qp/parking_question/hj3cee8/",
+          "text": "THIS IS ACTUALLY A THING.",
+          "author": "ihateusomuchemory",
+          "created": 1635903562,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hj3s4ci": {
+          "link": "/r/Emory/comments/ql92qp/parking_question/hj3s4ci/",
+          "text": "Can\u2019t seem to find the group on Facebook.",
+          "author": "ReallyConfusedAlpaca",
+          "created": 1635910427,
+          "upvotes": 1,
+          "replies": {
+            "hj3s966": {
+              "link": "/r/Emory/comments/ql92qp/parking_question/hj3s966/",
+              "text": "You need someone in it to invite you. It\u2019s a private group. Find an upperclassmen friend; they probably will be it in and can add you.",
+              "author": "Worldlover67",
+              "created": 1635910485,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

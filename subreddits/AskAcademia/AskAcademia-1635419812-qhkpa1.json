@@ -5,7 +5,7 @@
   "text": "I'm a 3rd-year PhD student in computer science in Europe. Today, a faculty member in my lab (not my supervisor or anyone that I regularly work with) let it drop that my supervisor has a lifetime conflict of interest with someone who is permanently part of a prominent conference's committee, is regularly involved as a guest editor to prominent journals in my field, etc. She's a big name, we'll call her Camille. Camille was my supervisor's supervisor, and the only thing I know about their relationship is that my supervisor was worried that Camille would find out that our lab is working on the same problem as Camille's (there was no evidence to suggest that Camille was actually upset about this at all).\n\nIn my first year, I submitted a doctoral consortium paper to the conference that Camille chairs. I remember my supervisor saying that she highly doubted it would get accepted, but I didn't know why (it was accepted - maybe I should note that at the conference, Camille and my supervisor interacted quite warmly). Since then, my supervisor has strongly encouraged me not to submit to certain conferences or journals, saying that my work was never ready or good enough for them. I'm not saying that what she said was baseless, but looking back, I can see that Camille is involved in each one of these conferences and journals. \n\nHas anyone every heard of this kind of conflict of interest? Is it a real thing where supervisees can't submit their (anonymous) students' work to any publication that their previous supervisors' are involved in? Or is it likely that this faculty member is only telling me that basically they don't have a good relationship? Regardless of whether it's real or not, I feel like I should have been told about this before I accepted the PhD as it has affected my publishing opportunities. I came in as a total outsider without a relevant undergrad or masters, so there was no way I would have been able to see these kind of politics before starting. Even the fact that I'm only finding out about this now is super weird to me.",
   "author": "goatsnboots",
   "created": 1635419812,
-  "updated": 1635456586,
+  "updated": 1636172865,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 0.67,
@@ -138,6 +138,14 @@
           "replies": {}
         }
       }
+    },
+    "hixjrde": {
+      "link": "/r/AskAcademia/comments/qhkpa1/conflicts_of_interest_between_supervisors_and/hixjrde/",
+      "text": "It\u2019s quite standard to have a lifetime conflict of interest with your PhD supervisor in CS. This is absolutely no problem. These conflicts of interest are quite frequent, and there are processes for handling them. For example, committee members will leave the room when discussing papers they are conflicted with, and program chairs will leave the decision to others (often the higher up general chair). All in all, this doesn\u2019t seem like anything to worry about.",
+      "author": "greenpepperfish",
+      "created": 1635801029,
+      "upvotes": 1,
+      "replies": {}
     }
   }
 }

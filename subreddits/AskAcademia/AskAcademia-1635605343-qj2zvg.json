@@ -5,7 +5,7 @@
   "text": "Just found a review paper and I think I've read it somewhere else before. The paper seemed to be almost the replica of the one I've read. How do the editors check for plagiarism??",
   "author": "makeouthill______",
   "created": 1635605343,
-  "updated": 1635779289,
+  "updated": 1636169991,
   "over_18": false,
   "upvotes": 0,
   "upvote_ratio": 0.38,
@@ -43,6 +43,14 @@
           }
         }
       }
+    },
+    "hj4a0w2": {
+      "link": "/r/AskAcademia/comments/qj2zvg/how_to_check_for_plagiarism/hj4a0w2/",
+      "text": "Commenting as an Editor.  Every manuscript submitted to the journal (Elsevier) is automatically screened using ithenticate ( a text similarity search engine).  On my default screen I can see the score.  If high, I can pull up the analysis.\n\nHowever, it is a commercial program, and so lots of journals do not use such a system, or its use is optional (i.e. you have to actively request the analysis).  So many manuscripts for many journals are simply not screened.\n\nAs noted, as an individual it is more difficult as we do not really have access to these programs for our non-directly work related questions.  The \"type a phrase into google in inverted commas\" is the way to go.",
+      "author": "Life_time_learner",
+      "created": 1635921360,
+      "upvotes": 2,
+      "replies": {}
     }
   }
 }

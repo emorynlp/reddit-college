@@ -5,7 +5,7 @@
   "text": "I have a feeling I just have to submit stuff to journal articles but I'm writing a non-fiction book based on research I've done. A simple Google search didn't land me to any place where I can submit it for peer reviewers. Is there a place that I can submit my manuscript to? Is there a process for getting peer reviews I'm not aware of? I just want to make sure I'm not talking out of my ass or missing important pieces of already published literature.",
   "author": "ItsSamsFault",
   "created": 1634839376,
-  "updated": 1634849150,
+  "updated": 1636170919,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
@@ -24,7 +24,51 @@
       "author": "spots_reddit",
       "created": 1634840801,
       "upvotes": 4,
-      "replies": {}
+      "replies": {
+        "hhjui6k": {
+          "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhjui6k/",
+          "text": "Quick question, are peer-reviewers typically unpaid? \n\nEdit: I just ask because there seems to be an assumption I was not planning on paying people. I just assumed peer-reviewers were paid if I'm honest.",
+          "author": "ItsSamsFault",
+          "created": 1634856910,
+          "upvotes": 3,
+          "replies": {
+            "hhk2opr": {
+              "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhk2opr/",
+              "text": "No, they are not paid for peer-review. Without getting into the debate about that system and whether it is broken, it is considered part of the professional duty of members of the Academy.",
+              "author": "thebillypilgrim8",
+              "created": 1634860791,
+              "upvotes": 11,
+              "replies": {
+                "hhmyzuy": {
+                  "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhmyzuy/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1634920129,
+                  "upvotes": 2,
+                  "replies": {
+                    "hhn4rpw": {
+                      "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhn4rpw/",
+                      "text": "Completely agreed. No one is going to do this without compensation.",
+                      "author": "thebillypilgrim8",
+                      "created": 1634922466,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hhjugqg": {
+          "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhjugqg/",
+          "text": "I see! I will look for a fact-checker then. Thank you! \\^\\_\\^",
+          "author": "ItsSamsFault",
+          "created": 1634856891,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     },
     "hhj5v7m": {
       "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhj5v7m/",
@@ -32,7 +76,16 @@
       "author": "molobodd",
       "created": 1634846379,
       "upvotes": 3,
-      "replies": {}
+      "replies": {
+        "hhju1dc": {
+          "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhju1dc/",
+          "text": "I was planning to pay, but thanks for letting me know!",
+          "author": "ItsSamsFault",
+          "created": 1634856692,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
     },
     "hhj30as": {
       "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhj30as/",
@@ -40,13 +93,55 @@
       "author": "proper-peony",
       "created": 1634845233,
       "upvotes": 2,
-      "replies": {}
+      "replies": {
+        "hhju9pu": {
+          "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhju9pu/",
+          "text": "It was research on media so no human testing! The reason why I'm thinking a book is just because the word count is a bit much.",
+          "author": "ItsSamsFault",
+          "created": 1634856800,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     },
     "hhj1l07": {
       "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhj1l07/",
       "text": "From you post history you might be well advised to identify a few different academics who publish in your area. Ideally, they would be well connected with the topic as it is currently experienced, rather than one who is more historical.\n\nSend them an email describing what you have done, and ask for comments. Make sure not to send a long email or a copy of your work until you know they're interested.",
       "author": "dapt",
       "created": 1634844651,
+      "upvotes": 1,
+      "replies": {
+        "hhjucoo": {
+          "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhjucoo/",
+          "text": "I see! Thank you for your advice.",
+          "author": "ItsSamsFault",
+          "created": 1634856838,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hhjubp5": {
+      "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhjubp5/",
+      "text": "Academic presses commission peer review for empirical manuscripts",
+      "author": "isaac-get-the-golem",
+      "created": 1634856826,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hhkjqbg": {
+      "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhkjqbg/",
+      "text": "Peer reviews are volunteered to journals. But if you want an expert to do a technical review on an entire book you are going to have to pay them.",
+      "author": "TuckerD",
+      "created": 1634868786,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hhklg3b": {
+      "link": "/r/AskAcademia/comments/qcxmj9/how_do_i_find_peer_reviewers/hhklg3b/",
+      "text": "If your goal is to receive peer review for publication, you'll need to identify journals that are relevant to your topic, review their submission requirements, and then submit. You'll likely have to break your work into chunks to meet those requirements, and then your book becomes more of a literature review with a heavy emphasis on things you've published.\n\nIn some fields it's not really \"published\" until it's in a journal, in others (CS is the one I know of) a conference may be acceptable. You'll then wait for the reviewed comments along with an accept/reject decision. The peer review and publishing are integrated into the same process, and it's handled by a journal/conference (you don't seek out peer review on your own and then publish elsewhere if you get the OK).\n\nTips for finding journals that may be relevant to you:\n\n* Find research in your area, use this to find labs/researchers, use that to find their webpage. They'll have listed their publications: where did they publish? What are they citing, and where is that published?\n* If you've found researchers, you may also have found their contact information. They'll be able to provide a list of journals they feel are worthwhile.\n* Groups like Springer, IEEE, ACM, ASME are all large groups with reputable journals. Those are largely tech-focused because they're the ones I know about, not sure if that's helpful.\n* Try searching for key phrases like \"transactions on xyz\", \"communications on xyz\", \"conference on xyz\", \"letters on xyz\". \"Call for papers\" is another one.",
+      "author": "secretlizardperson",
+      "created": 1634869612,
       "upvotes": 1,
       "replies": {}
     }

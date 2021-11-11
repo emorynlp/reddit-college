@@ -5,9 +5,60 @@
   "text": "I will be lucky to even get a 10/100. Files and loops are difficult for me for some reason and I just don\u2019t understand. Hell I\u2019m probably gonna fail this class all together since I can do class work and the labs without an issue but when it comes to exams I lock up. This is making me rethink my choice in pursuing a degree in computer science.\n\nEdit: like you know you\u2019re exam was such horse shit you just give up? That was me. I had such low confidence in my code I wrote my name down and put (I failed) next to it.",
   "author": "Tactical_Leo",
   "created": 1635179742,
-  "updated": 1635184141,
+  "updated": 1636185484,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
-  "comments": {}
+  "comments": {
+    "hi0g8cr": {
+      "link": "/r/college/comments/qfko4m/i_failed_my_intro_to_programming_midterm/hi0g8cr/",
+      "text": "Question: is the official grade returned yet? Don\u2019t get too hard on yourself until your professor or TA gets back to you with a grade. \n\nIt sounds like you probably have some mild test anxiety (like most people). What you should try and work on is overcoming it. Taking practice exams, constantly quizzing yourself on topics, etc. can all help reinforce comprehension.\n\nCS is a great degree and very rewarding, but part of what makes it so great is that for most people, it involves learning a new way of thinking. Just remember, if everyone knew all about this there would be no reason to learn it. Good luck moving forward.",
+      "author": "XopowoqoX",
+      "created": 1635184710,
+      "upvotes": 4,
+      "replies": {
+        "hi5obno": {
+          "link": "/r/college/comments/qfko4m/i_failed_my_intro_to_programming_midterm/hi5obno/",
+          "text": "An update\u2026 My grade came back. I did better than I thought! I got a 24/100! Anxiety is the best of me\u2026",
+          "author": "Tactical_Leo",
+          "created": 1635278635,
+          "upvotes": 2,
+          "replies": {
+            "hi5pxdc": {
+              "link": "/r/college/comments/qfko4m/i_failed_my_intro_to_programming_midterm/hi5pxdc/",
+              "text": "Well, it wasn\u2019t as bad as you thought. I\u2019m sure you\u2019ll be able to do better next time if you can gain a better understanding of where you went wrong. \n\nIf I can pass on a piece of advice that my first Comp Sci Professor gave me (relating to loops and coding in general), keep track of variable values extremely diligently. Keep a piece of paper and list out all the variables you encounter and keep track of their values/how they change per iteration. This really helped me starting out and made understanding the way the code worked a lot easier. After enough time spent doing that you\u2019ll definitely understand it better.",
+              "author": "XopowoqoX",
+              "created": 1635279244,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hi1korj": {
+      "link": "/r/college/comments/qfko4m/i_failed_my_intro_to_programming_midterm/hi1korj/",
+      "text": "I\u2019m here to vent back at you and let you know that I feel you so hard. I\u2019m a senior taking a geocomputing class (requirement for my otherwise non-programming related major) and the class was going fine until 2 weeks ago. All of a sudden though I understand none of the concepts and am super behind. I even saw my TA today and it didn\u2019t help me, like, at all. I had to give up on an assignment I\u2019ve been working on for a week because I feel like I\u2019d explored all possible avenues and still just wasn\u2019t getting it. I feel so ashamed to submit a half completed assignment but I was literally getting a migraine from trying to figure it out. I want to drop the class so badly but since I\u2019m a senior I have no flexibility with my schedule, if I want to graduate on time. My goal is to just barely scrape by in the class so I can get the requirement out of the way and get my degree. It hurts me to say that because I\u2019m an A/B student usually but striving for a high grade in this class is harming me mentally in too many ways to be worth it. If you feel this way about programming and it\u2019s your major, I would definitely reconsider your area of study, because life is too short to experience this level of stress unnecessarily, for real.",
+      "author": "xtremesmok",
+      "created": 1635201327,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hi29o61": {
+      "link": "/r/college/comments/qfko4m/i_failed_my_intro_to_programming_midterm/hi29o61/",
+      "text": "You really need to understand loops. They are the core pillar in computer science. You'll use for loops and while loops for almost everything. When you get to data structures, it will require them all the time.",
+      "author": "HowlSpice",
+      "created": 1635212787,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hi0ka4f": {
+      "link": "/r/college/comments/qfko4m/i_failed_my_intro_to_programming_midterm/hi0ka4f/",
+      "text": "Don't stress about it, Ive been failing my small little quizzes (I got a 68% on my midterm) but I'm still maintaining a B because of the HW and Labs. Just take this as a hint to work harder and study more consistently.\n\nGood luck, your doing great.",
+      "author": "hated17",
+      "created": 1635186369,
+      "upvotes": 3,
+      "replies": {}
+    }
+  }
 }

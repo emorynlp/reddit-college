@@ -5,7 +5,7 @@
   "text": "Hello everyone,\nWhat specific skills would you suggest develop during PhD? They could be technical or soft ones.",
   "author": "myillusion13",
   "created": 1635291408,
-  "updated": 1635302298,
+  "updated": 1636172180,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 0.67,
@@ -38,11 +38,108 @@
               "author": "r3dl3g",
               "created": 1635293746,
               "upvotes": 1,
-              "replies": {}
+              "replies": {
+                "hi988v4": {
+                  "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi988v4/",
+                  "text": "Yeah and most labs in my experience either use Python or MATLAB (or a mixture of both), and I find it is much easier to switch between these two compared to R. Also, I expect MATLAB use will decline with the rise and popularity of Python and it's associated scientific libraries (NumPy, Pandas, SciPy, Matplotlib etc.).",
+                  "author": "sensorimotorneuro",
+                  "created": 1635347703,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
             }
           }
         }
       }
+    },
+    "hi7crdv": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi7crdv/",
+      "text": "Learn programming. It is IMMENSELY useful for data organization compared to doing it manually by spreadsheet software.",
+      "author": "afMunso",
+      "created": 1635305190,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hi7e3dj": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi7e3dj/",
+      "text": "Time management. Consistent use of a citation manager. Mastery of a program such Obsidian to help you plan and corral all your work.",
+      "author": "BenSteinsCat",
+      "created": 1635305883,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hi7eb6d": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi7eb6d/",
+      "text": "Not a grad student yet but I work with tons of humanities PhDs. Three additional soft skills according to my colleagues:\n\nLearn to present / talk about your research and adapt it to your audience in terms of length, context, jargon etc. Useful at job talks, conferences, or an interview with an industry company. \n\nLearn to build your network through meeting people in your field / subfield. How to be memorable, make friends, etc. \n\nLearn to maintain your network in your field / subfield, which includes identifying people who don\u2019t have your best interests at heart and being civil with them without attracting gossip. Unfortunately a distinct skill from #2.",
+      "author": "idislikekittens",
+      "created": 1635306000,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hi89v3n": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi89v3n/",
+      "text": "Writing speed. If you can write at the same pace ideas form in your head, life will be much easier. If you have to pause these ideas to catch up with the writing, they are halted and possibly impaired.",
+      "author": "molobodd",
+      "created": 1635329387,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hi8g8jg": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi8g8jg/",
+      "text": "Lots of good ideas already - especially data analysis fundamentals (R!), presentation skills, organization and time management. I would suggest you also cultivate a reading habit. You simply must read. Voraciously. Indiscriminately at first. Learn how to dive into the literature and engage with a topic. Follow references up, and learn to synthesize what you find. Develop your opinions based on multiple sources, find new ideas, learn to distinguish what is known, what is conjectured, and what is mythologized.",
+      "author": "ccots",
+      "created": 1635334034,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hi913b7": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi913b7/",
+      "text": "Last minute stress writing",
+      "author": "devilsarrow",
+      "created": 1635344747,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hi76x1c": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi76x1c/",
+      "text": "Specific technical skills are going to be discipline-dependent. Time-management, discipline, learning to say no, accountability, and general people skills would be good things to work on if you're lacking in those areas.",
+      "author": "CootaCoo",
+      "created": 1635302335,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hi8cy3g": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi8cy3g/",
+      "text": "Learn how to not compare yourself to others.\n\nLearn how to keep your enthusiasm even in the face of failure.",
+      "author": "missdopamine",
+      "created": 1635331741,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hi8nwvw": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi8nwvw/",
+      "text": "This depends on what you want to do after.  If you want to be an academic learn how to do research in a way that efficiently produces papers (this is not nessisarily the same thing as doing good research), if you want to go into industry learn broadly applicable techniques (programming is a good example of this)",
+      "author": "MasteroftheGT",
+      "created": 1635338508,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hi9360t": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hi9360t/",
+      "text": "The existing advice here is solid. But I would add the instruction to learn how to place your work in the context of our broader society/universe. Accept that most people you meet will not understand your topic or care about it, so you must explore ways to build their interest anyway. If you can\u2019t explain it to a layman with gusto and excitement, then you\u2019re not ready to discuss it yet. And if you can\u2019t explain why your work matters to the society that likely funded it, you don\u2019t fully understand it yet. As a student, this will help you with external funding, and will be helpful in job interviews when the time comes.\n\nFor those of you going into academia, learn and adopt a two-way communication style with students and colleagues. You might be a brilliant scientist in your lab, but your students won\u2019t care about that and neither will your colleagues. They will care what kind of person you are - patient and open vs. an arrogant lunatic. Force yourself to communicate simply and patiently, and to be an active listener. Help your students to be as excited about your field as you are, and don\u2019t ever treat them as a nuisance to your \u201creal job.\u201d Educating others IS your real job, and it\u2019s far more important than that next journal article you\u2019re writing. Also, as a faculty member, learn how to be a good department citizen. Be a team player, and work in ways that support your colleagues and grow the department or discipline. You\u2019re not on a rocket ship to stardom all by yourself. You\u2019re on a faculty of equals who took a chance on you once. So don\u2019t ever let yourself feel too good for them.\n\nLearn grants, and the people/systems that manage them. If you\u2019re smart enough to land a multi-year federal grant, then you\u2019re smart enough to sit down with the grants office and learn how university finances actually work. Don\u2019t simply snap your fingers and expect them to make your grant do this or that. \n\nGain an understanding of power dynamics among humans at your university. Faculties are often overflowing with feuds and hostility, and this may affect the makeup/conduct of your committee. Who are your advisor\u2019s friends and rivals, and how will this affect your plan? Does the chair like your work and appreciate you as a researcher? They should, and that support can be helpful down the road. Are you on good terms with the office administrator? She can make your daily life miserable if you cross her, and she\u2019s not even of fancy faculty rank. Senior faculty have a lot of soft power that must be respected if you want their help. Learn their individual emotional currency. Some people respond to cheap flattery, or punctuality, or jokes, or people who challenge them. Figure out what pleases them, and find a way to transact some of that to gain their help when you need it. This is mildly manipulative, but it\u2019s also simple social intelligence. Hone these skills, and you\u2019ll succeed in the many areas of scholarship that have nothing at all to do with lab work or publications.",
+      "author": "Greenmantle22",
+      "created": 1635345624,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hicqpwe": {
+      "link": "/r/AskAcademia/comments/qgjaul/what_skills_to_develop_during_phd/hicqpwe/",
+      "text": "The capability to communicate your research in a comprehensible and interesting way at any level, adapting the speech to who is listening.\n\nI've been practicing in conferences, with friends, on trains, everywhere and anywhere, and I feel this is one of the most useful skills I've learnt.\n\nGood luck with your PhD!!!",
+      "author": "kanan_jarrus_knight",
+      "created": 1635405230,
+      "upvotes": 1,
+      "replies": {}
     }
   }
 }

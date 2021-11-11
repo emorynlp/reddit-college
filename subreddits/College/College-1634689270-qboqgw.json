@@ -5,9 +5,27 @@
   "text": "Everyone in my Statistics class had something called a Wizard on their TI 84 calculators but me.  One has TI 84 Silver Edition, most have a TI 84 CE, and one other student has one looks exactly like my TI 84 Plus - but all of them (even the one \"identical\" to mine) have a Wizard function for finding normalcdf and invNORM.  Mine only allows a single line of input for the lower, upper, median, and standard deviation.  Sometimes it needs a closing ) and sometimes it needs two )) at the end.  \n\nThey are getting fast answers and I am getting Syntax Error the first few tries until I find the just right combination to get the calculation and diagnostic functions to give answers.  I am guessing I need to buy a new calculation with this function to keep up - BUT before I do I thought I just ask if there is a way to \"program\" the one I already have.  ANY IDEAS of ANSWERS out there?",
   "author": "fairlane111",
   "created": 1634689270,
-  "updated": 1634750274,
+  "updated": 1636175398,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
-  "comments": {}
+  "comments": {
+    "hheg6li": {
+      "link": "/r/college/comments/qboqgw/can_you_add_a_calculating_wizard_to_a_ti_84_plus/hheg6li/",
+      "text": "I found one [page](http://www.grafcalcwhiz.com/mobl/wti84new_os.htm) that says you can upgrade the operating system using the TI site. It doesn't have many details but might be a place to start.",
+      "author": "Katherington",
+      "created": 1634758786,
+      "upvotes": 1,
+      "replies": {
+        "hhew335": {
+          "link": "/r/college/comments/qboqgw/can_you_add_a_calculating_wizard_to_a_ti_84_plus/hhew335/",
+          "text": "YES!   Thank you.",
+          "author": "fairlane111",
+          "created": 1634765106,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
 }

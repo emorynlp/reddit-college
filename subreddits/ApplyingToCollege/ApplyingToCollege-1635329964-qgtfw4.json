@@ -5,7 +5,7 @@
   "text": "this would be fun",
   "author": "iPerfectHuman",
   "created": 1635329964,
-  "updated": 1635455920,
+  "updated": 1636151841,
   "over_18": false,
   "upvotes": 52,
   "upvote_ratio": 0.96,
@@ -194,7 +194,25 @@
               "author": "AW823",
               "created": 1635376972,
               "upvotes": 3,
-              "replies": {}
+              "replies": {
+                "hiyg320": {
+                  "link": "/r/ApplyingToCollege/comments/qgtfw4/what_is_your_dream_university_and_how_many/hiyg320/",
+                  "text": "Those numbers seem way too high if out of state",
+                  "author": "InertiaOfGravity",
+                  "created": 1635815149,
+                  "upvotes": 1,
+                  "replies": {
+                    "hiykj25": {
+                      "link": "/r/ApplyingToCollege/comments/qgtfw4/what_is_your_dream_university_and_how_many/hiykj25/",
+                      "text": "I'm in state but it's still way to high because I am not top 6%.",
+                      "author": "AW823",
+                      "created": 1635817168,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
             }
           }
         }

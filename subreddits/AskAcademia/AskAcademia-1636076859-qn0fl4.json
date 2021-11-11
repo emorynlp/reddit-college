@@ -5,7 +5,7 @@
   "text": "I am a uni lecturer and final year PhD candidate in business collaborating with a start-up that is working on a social network aimed at connecting and supporting grad students and early career researchers and academics. The start-up is interested in hearing especially from those groups but others within or outside of academia sharing their experiences and challenges while working or researching in academia. What would you change most? What kind of support is/was lacking during your time in academia?\n\nResponses here are welcome. If you are willing to answer 12 shortish question in the survey link ([CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSeZimTShGFV6CFCA8rgNsohYmFyx46CwynZux03joSf0RxEQQ/viewform?usp=sf_link)), it would even be more helpful in setting the priorities of the start-up's commitment to putting users first. \n\nThanks for any input you are willing to provide!",
   "author": "Asriel36",
   "created": 1636076859,
-  "updated": 1636136896,
+  "updated": 1636173477,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 0.67,
@@ -25,6 +25,41 @@
       "created": 1636078976,
       "upvotes": 1,
       "replies": {}
+    },
+    "hjh88uh": {
+      "link": "/r/AskAcademia/comments/qn0fl4/what_would_you_change_most_about_your_experience/hjh88uh/",
+      "text": "Does this study have ethics clearance? Thanks!",
+      "author": "cdougherty",
+      "created": 1636152225,
+      "upvotes": 1,
+      "replies": {
+        "hjiame0": {
+          "link": "/r/AskAcademia/comments/qn0fl4/what_would_you_change_most_about_your_experience/hjiame0/",
+          "text": "Hi. I'm not clear on who would be in a position to give ethics clearance in this case. This is a problem validation survey and is not currently associated with any university. The founders are not receiving any support or funding through any organization with an ethics review process. It is not part of a study but is initial market research for a private start-up aimed at supporting grad students and ECRs.",
+          "author": "Asriel36",
+          "created": 1636169724,
+          "upvotes": 1,
+          "replies": {
+            "hjicwvz": {
+              "link": "/r/AskAcademia/comments/qn0fl4/what_would_you_change_most_about_your_experience/hjicwvz/",
+              "text": "Sorry, I was confused because you referenced your positions as a university lecturer and doctoral candidate at the very start of your invitation to participate, so I made the assumption that this study was tied to your research position in a university.",
+              "author": "cdougherty",
+              "created": 1636170932,
+              "upvotes": 1,
+              "replies": {
+                "hjid7os": {
+                  "link": "/r/AskAcademia/comments/qn0fl4/what_would_you_change_most_about_your_experience/hjid7os/",
+                  "text": "No worries. I stated that becuase I wanted to establish my interest and experience in this issue and to be clear that I'm not some money-hungry business person looking to exploit grad students.",
+                  "author": "Asriel36",
+                  "created": 1636171089,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }
