@@ -1,0 +1,64 @@
+{
+  "sid": "qr5vws",
+  "link": "/r/college/comments/qr5vws/i_want_to_pursue_a_cs_degree_but_im_not_the_best/",
+  "title:": "I want to pursue a CS degree, but I'm not the best at science.",
+  "text": "Should I pursue CS if I'm not the best at science? I would probably be better at it if I actually enjoyed the topics, but I generally really disliked and did not enjoy the biology, physics, and chemistry classes I took in high school, although I did pass. I'm fine with math and enjoy it greatly, especially algebra, however I haven't gotten to calculus yet so I can't really know if I will be strong in calc yet. If I should continue pursuing CS, what science class do you think I should take? I was considering taking biology as now that I'm older I might appreciate it more since I was a freshman in high school when I first took it, but I'm not sure if that would be best for a CS degree.",
+  "author": "jackalynnnm",
+  "created": 1636583064,
+  "updated": 1636654793,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 0.81,
+  "comments": {
+    "hk4ls6a": {
+      "link": "/r/college/comments/qr5vws/i_want_to_pursue_a_cs_degree_but_im_not_the_best/hk4ls6a/",
+      "text": "I hate all those life sciences courses, never took a single one them and am enrolled in CS.\n\nYou don't have to be good at the science topics you listed, but you must have some capacity for math.\n\nIf you are strong on Algebra, then Cal should be a walk in the park. Most ppl in cal struggle with the algebra, not the calculus.",
+      "author": "so_wut_man",
+      "created": 1636583373,
+      "upvotes": 10,
+      "replies": {
+        "hk4t0jt": {
+          "link": "/r/college/comments/qr5vws/i_want_to_pursue_a_cs_degree_but_im_not_the_best/hk4t0jt/",
+          "text": "Can confirm. \n\nCurrently a freshman in Calc I, and the algebra has been my kryptonite. But that\u2019s really because the last time I took Algebra was 5 years ago in 8th grade.",
+          "author": "kizeltine",
+          "created": 1636586415,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hk5144t": {
+      "link": "/r/college/comments/qr5vws/i_want_to_pursue_a_cs_degree_but_im_not_the_best/hk5144t/",
+      "text": "I'm not sure why you're under the impression that they're related, but Biology and Chemistry have nothing to do with Computer Science. Physics kind of does, since CS involves a good degree of mathematics. CS is the science of computers, not science as in life/physical science. You don't have to be good at bio or chem to pursue CS.",
+      "author": "NoDryHands",
+      "created": 1636589974,
+      "upvotes": 8,
+      "replies": {
+        "hk5jto7": {
+          "link": "/r/college/comments/qr5vws/i_want_to_pursue_a_cs_degree_but_im_not_the_best/hk5jto7/",
+          "text": "Yeah, generally there is a grade 11 and 12 level science course requirement for entrance into the program, but this is pretty standard for a lot of programs. There\u2019s generally nothing particularly special about the computer science entrance requirements other than reasonably good math grades.\n\nThis is for my university, OP should check entrance requirements for CS in the schools they\u2019re considering applying to, and the degree requirements too if they want to know what kind of courses they will be needing to take",
+          "author": "Mr_BaybeeMan",
+          "created": 1636598335,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hk4looj": {
+      "link": "/r/college/comments/qr5vws/i_want_to_pursue_a_cs_degree_but_im_not_the_best/hk4looj/",
+      "text": "Computer Science isn't actually about science or computers (not hardware or browsing youtube) really. It has a strong emphasis on math like Calc 1-3, diff eq, etc. and teaches you how to code in different languages using problem solving skills.  If you're really interested in it, here's a free online self pace course [from Harvard.](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)",
+      "author": "Sermos5",
+      "created": 1636583333,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hk5y06q": {
+      "link": "/r/college/comments/qr5vws/i_want_to_pursue_a_cs_degree_but_im_not_the_best/hk5y06q/",
+      "text": "I\u2019m a sophomore in college and have taken intro to CS, computer science principles, object oriented programming, machine learning. I\u2019ve also taken a Linux operating system class and a windows operating system class. Next semester I\u2019ll be taking applied statistics, digital logic, and more Linux and Windows OS classes because my minor is digital forensics. \n\nFrom what I know, you (or I) will not need the science classes like chem, bio, or anything related to that. Computer science is a lot of programming and compiling, meaning you will be learning computer languages like Java, Python, C++, JavaScript, and applying them to algorithms. That includes variables, arrays, integers, data types, and more. CS leans on math a lot. It is essentially learning computer languages and learning how to apply them to real world problems. An example could be writing an algorithm to convert dog years to human years. Or writing a program that simulate real world problems like when covid will end. Stuff like that. \n\nBiology will not count toward your degree since it has no impact on computer science. I would recommend started with an intro the computer science class, so you can learn what it is.",
+      "author": "Traditional-Agent776",
+      "created": 1636605159,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

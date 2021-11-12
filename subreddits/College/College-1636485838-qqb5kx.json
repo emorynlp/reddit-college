@@ -1,0 +1,57 @@
+{
+  "sid": "qqb5kx",
+  "link": "/r/college/comments/qqb5kx/stat_is_ruining_my_life/",
+  "title:": "Stat is ruining my life.",
+  "text": "Help! I cannot express the level of stress I'm experiencing taking this introductory stats course. Something about the z and t tables, I just don't know how to read. Then there's confidence intervals and alphas and disproving the hypothesis... I don't understand why I can't grasp it. Any suggestions?",
+  "author": "MarvelouslyFerocious",
+  "created": 1636485838,
+  "updated": 1636655260,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hjz9en0": {
+      "link": "/r/college/comments/qqb5kx/stat_is_ruining_my_life/hjz9en0/",
+      "text": "I got you.\n\nZ scores let you compare data and averages of different scale. You want to see if a 70/100 is better or worse than a 1530/1800 and which has a wider or narroewer deviation from the mean? You look at Z scores. \n\nT tables are similar, but they compare data to a theoretical \"normal curve\" of standard deviation and outliers, etc. So if there is a difference between a population and a sample, and you want to know if the difference has a statistical significance, then you look at T table. \n\nAlpha and confidence levels are \"the same but opposite\" an alpha of 0.05, is the same as a confidence level of 95%. Think of the confidence level as 1.00 and you subtract the alpha to get confidence level. So Alpha of 0.05 is 95% confidence and an alpha of 0.01 is a confidence level of 99%.\n\nSo! Because we're talking about confidence levels in regards to your hypothesis, and you NEVER have a 100% confidence level, you CAN'T test it. So instead you're testing the Null Hypothosis. You run your T test and you can \"disprove the null hypothesis\" or \"fail to disprove the null Hypothosis\". If you disprove the null, the opposite is accepted, you accept the hypothosis to a degree of certainty. If you fail to disprove the null hypothesis, than the null hypothesis COULD BE true, and you can't accept your hypothesis with a degree of confidence.",
+      "author": "OwnUniversity153",
+      "created": 1636489376,
+      "upvotes": 5,
+      "replies": {
+        "hk0ew46": {
+          "link": "/r/college/comments/qqb5kx/stat_is_ruining_my_life/hk0ew46/",
+          "text": "Omg, thank you!! \ud83e\udd26 That makes so much more sense!!",
+          "author": "MarvelouslyFerocious",
+          "created": 1636506864,
+          "upvotes": 1,
+          "replies": {
+            "hk0f9c7": {
+              "link": "/r/college/comments/qqb5kx/stat_is_ruining_my_life/hk0f9c7/",
+              "text": "I have a test on this tomorrow night, and I've been looking at it all weekend. \ud83d\udc4d",
+              "author": "OwnUniversity153",
+              "created": 1636507027,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hjz53t4": {
+      "link": "/r/college/comments/qqb5kx/stat_is_ruining_my_life/hjz53t4/",
+      "text": "No suggestions but just know I\u2019m in the same boat. Way behinf and can\u2019t catch up.",
+      "author": "skippy5433",
+      "created": 1636487662,
+      "upvotes": 1,
+      "replies": {
+        "hk56l7o": {
+          "link": "/r/college/comments/qqb5kx/stat_is_ruining_my_life/hk56l7o/",
+          "text": "Maybe check out the other reply in this comment thread, someone explained it very well!",
+          "author": "NoDryHands",
+          "created": 1636592434,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

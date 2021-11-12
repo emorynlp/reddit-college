@@ -1,0 +1,63 @@
+{
+  "sid": "qorzpb",
+  "link": "/r/GradSchool/comments/qorzpb/typo_found_in_publication_to_correct_or_not_to/",
+  "title:": "Typo found in publication! To correct or not to correct.",
+  "text": "Hi all,  \n\n\nI recently published a paper and just saw a pretty blatant mistake that I thought myself, the co-authors, the reviewers, etc. would have picked up on but it never did - the axes of one plot are in mm, instead of nm. This plot was also used for the ToC image, so it's doubled down on. This mistake doesn't affect any of the analysis or discussion, but after shooting an email to the editor in chief, I was told to submit a correction.   \n\n\nFor an error of this magnitude, is it worth the trouble? This is my first 'real' first author manuscript, and I'm worried this may impact the work in the future either by citations or etc. Thanks!",
+  "author": "cygnusx1_",
+  "created": 1636302509,
+  "updated": 1636656621,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hjp3hns": {
+      "link": "/r/GradSchool/comments/qorzpb/typo_found_in_publication_to_correct_or_not_to/hjp3hns/",
+      "text": "Can the reader detect the mistake i.e. the mistake is obvious and they know that it should be in nm? If yes, correction is not necessary.",
+      "author": "Wise-Replacement7286",
+      "created": 1636306041,
+      "upvotes": 3,
+      "replies": {
+        "hjp5uld": {
+          "link": "/r/GradSchool/comments/qorzpb/typo_found_in_publication_to_correct_or_not_to/hjp5uld/",
+          "text": "Yes, it should be entirely obvious - the entire manuscript deals with nm-sized particles that we studied. It really is a minor goof and I still feel pretty dumb about it! Thank you.",
+          "author": "cygnusx1_",
+          "created": 1636306982,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hjqcfco": {
+      "link": "/r/GradSchool/comments/qorzpb/typo_found_in_publication_to_correct_or_not_to/hjqcfco/",
+      "text": ">For an error of this magnitude, is it worth the trouble?\n\nSure. If the editor is encouraging you to submit it. They may have the means to update the electronic copy that is available via online databases.",
+      "author": "raistlin65",
+      "created": 1636323822,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hjph84h": {
+      "link": "/r/GradSchool/comments/qorzpb/typo_found_in_publication_to_correct_or_not_to/hjph84h/",
+      "text": "Did you describe the figure in text and used the correct unit there? If so I'd say the mistake is obvious to any reader knowledgeable enough to be in the target audience and there's also proof it's just a typo and you as the author meant the right thing.\n\nSo, annoying, but no need to worry.",
+      "author": "Single_Blueberry",
+      "created": 1636311441,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjtaai5": {
+      "link": "/r/GradSchool/comments/qorzpb/typo_found_in_publication_to_correct_or_not_to/hjtaai5/",
+      "text": "I dunno, for that kind of typo I'd probably contact the journal. Luckily my PI can somehow spot typos before they've even read the text.",
+      "author": "Pr0gr3s",
+      "created": 1636385491,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjtnb38": {
+      "link": "/r/GradSchool/comments/qorzpb/typo_found_in_publication_to_correct_or_not_to/hjtnb38/",
+      "text": "I'd try to get it amended with the right units. Figures have to stand on their own, so having one showing the particles a million times bigger than they really are is bad.",
+      "author": "IkeRoberts",
+      "created": 1636390745,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

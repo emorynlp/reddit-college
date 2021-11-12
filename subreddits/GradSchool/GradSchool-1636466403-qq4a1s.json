@@ -1,0 +1,106 @@
+{
+  "sid": "qq4a1s",
+  "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/",
+  "title:": "Do references need to be in order in a paper?",
+  "text": "I'm writing my first review paper and in my text, my references are not mentioned in order. For example, the reference I assigned number 1 is the paper that I'm basing my entire review on. However, the first paper I actually reference in my text is number 4 as it provide the correct background for that part of my intro. One of my peer reviewers said that I have to reference all my papers in chronological order. So for example I must reference paper 1 first and once I reference paper 2, I can't go back to paper 1 because it will be out of order. To me this makes no sense. In my paper, reference 1 is the main paper covered so I reference it all throughout the entire paper at points. I feel like I should be able to reference papers wherever I need to throughout my paper as long as it makes sense in the context of what I'm writing about. I don't feel like I should be writing my paper based of chronological order of my references. But, since we're both new at writing reviews, I wanted to ask if there really is a 'correct' way to reference papers throughout your paper.",
+  "author": "Sea_Cookie",
+  "created": 1636466403,
+  "updated": 1636656546,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 0.73,
+  "comments": {
+    "hjxqzqu": {
+      "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hjxqzqu/",
+      "text": "Depends on the citation style. (APA, MLA, Chicago, etc.) I typically write in AMA so my in-text citations are numbered in the order they appear and the References page is listed in the numbered order. \n\n\n[Purdue's Online Writing Lab](https://owl.purdue.edu/owl/research_and_citation/resources.html) will cover how to do citations in-text and reference lists based on style.",
+      "author": "Ancient_Winter",
+      "created": 1636467235,
+      "upvotes": 13,
+      "replies": {}
+    },
+    "hjxr7c6": {
+      "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hjxr7c6/",
+      "text": "It depends on the journal. Most use chronological order of appearance in the paper. Some other journals prefer alphabetical enumeration of references or just defer to using the author's name + year for in-text citations.\n\nIt's a bad idea to manually number citations based on \"importance.\" You should be using a reference manager that allows you to easily change between chronological/alphabetical orderings. Otherwise, making changes can be very tedious. Sometimes journals can assist with this, too (i.e., some are lax about the submission format and will parse references on their own and apply their own formatting). Regardless, refer to the journal's recommended format or just go with chronological order to be safe.",
+      "author": "bayouboat",
+      "created": 1636467335,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "hjxsh0e": {
+      "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hjxsh0e/",
+      "text": "You can make a reference to an article wherever you want as long as it fits the citation style you're supposed to use. If you need to cite the 1st article that appears in your paper in your discussion section and your reference list is by order of appearance, you can just put \\[1\\] wherever you want to cite that article.\n\nI have never known of papers with references sorted based on \"importance\" however.\n\nIf you haven't already, get a citation manager like Mendeley or Zotero. It'll do 90% of the work for you.",
+      "author": "Dashabur1",
+      "created": 1636467932,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hjxtfkh": {
+      "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hjxtfkh/",
+      "text": "I have never before seen a citation style that isn't in chronological order. What is your field? I'm very curious.",
+      "author": "qwertyrdw",
+      "created": 1636468372,
+      "upvotes": 2,
+      "replies": {
+        "hjxuyu2": {
+          "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hjxuyu2/",
+          "text": "Chemistry. The reason mine weren't necessarily in chronological order is because the main paper for my review did not reference their sources in chronological order throughout the paper so I assumed that it didn't matter. My paper needs to be formatted to ACS formatting standards.",
+          "author": "Sea_Cookie",
+          "created": 1636469060,
+          "upvotes": 0,
+          "replies": {
+            "hjy0xs1": {
+              "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hjy0xs1/",
+              "text": "In ACS, the references should be listed in the order they first appear: https://libguides.murdoch.edu.au/ACS/sample",
+              "author": "noidontreddithere",
+              "created": 1636471640,
+              "upvotes": 5,
+              "replies": {
+                "hjy11rg": {
+                  "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hjy11rg/",
+                  "text": "Thank you! Does ACS also use hanging indents for the reference page? I tried looking it up and am getting mixed info from different websites.",
+                  "author": "Sea_Cookie",
+                  "created": 1636471687,
+                  "upvotes": 0,
+                  "replies": {
+                    "hjy1w58": {
+                      "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hjy1w58/",
+                      "text": "And definitely look into a reference manager. I use Zotero, but there are quite a few. They make everything so much easier.",
+                      "author": "noidontreddithere",
+                      "created": 1636472038,
+                      "upvotes": 4,
+                      "replies": {}
+                    },
+                    "hjy1rvd": {
+                      "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hjy1rvd/",
+                      "text": "Yep. You should have access to the ACS style guide through your institution: https://pubs.acs.org/doi/book/10.1021/acsguide\n\nIf not, talk to a librarian and/or your writing center for other guides. Actually, talk to a librarian and your writing center no matter what. They are amazing resources, especially for STEM fields where words aren't always our strengths.",
+                      "author": "noidontreddithere",
+                      "created": 1636471989,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hjyaytf": {
+      "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hjyaytf/",
+      "text": ">But, since we're both new at writing reviews, I wanted to ask if there really is a 'correct' way to reference papers throughout your paper.\n\nUnless being told otherwise by your professor (or editor if submitting for publication), the best thing is always to follow the citation style used by your discipline. \n\nTakes the guesswork out of it like you're having to do. And it is more likely to be accepted by other readers in your discipline.",
+      "author": "raistlin65",
+      "created": 1636475730,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hk18s8r": {
+      "link": "/r/GradSchool/comments/qq4a1s/do_references_need_to_be_in_order_in_a_paper/hk18s8r/",
+      "text": "Yes",
+      "author": "c2u8n4t8",
+      "created": 1636521515,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

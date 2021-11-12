@@ -1,0 +1,64 @@
+{
+  "sid": "qqgkvl",
+  "link": "/r/AskAcademia/comments/qqgkvl/citation_management/",
+  "title:": "Citation Management",
+  "text": "I'm old, so old that the last time I had to write a paper I did it on Corel Word Perfect and did all the citations by hand.\n\nThis time around, I've been asked to submit a paper and the format required is not one of the standard style guides in MS Word (It's called Swinburne Harvard, and doesn't look too strange).  I have Mendeley setup and it's library houses all my journal articles, websites, book references, etc.  And I have the add-in for MS Word and Mendeley.  I didn't load Mendeley with specific page number references (I don't know how), just loaded the library with all the basic reference info.\n\nBut the citation style requires in text citations that look like (Author, Year, Page Number) and I can't figure out how to get Word to spit it out in this format.  Best I can get is to set it to APA and it gives me Author/Year.\n\nCan anybody point me in the right direction for getting all these software tools to work together?\n\nPlease note: I am not asking for help on how to cite things, the guide is pretty specific.  I'm trying to figure out how to get all the software to work together or links to helpful resources and am not sure where else to ask.",
+  "author": "yddeyma",
+  "created": 1636501354,
+  "updated": 1636654660,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "hk04ws7": {
+      "link": "/r/AskAcademia/comments/qqgkvl/citation_management/hk04ws7/",
+      "text": "If i get it right, \n\nGo to MS word, Go to references, There should be option for style from which you can select the type of citation you want.",
+      "author": "pkhadka1",
+      "created": 1636502397,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hk0d3ck": {
+      "link": "/r/AskAcademia/comments/qqgkvl/citation_management/hk0d3ck/",
+      "text": "Have MS Word and Mendeley desktop open at the same time. Set the reference style to what you want in Mendeley. In MS word insert the in-text references where you want them. \n\nThe problem you sometimes run into is that Mendeley doesn\u2019t have your reference style. In that case you might be able to find it online and load into Mendeley. Or, you can find a similar one already in Mendeley and edit it. Or \u2026 use one that is close and then edit your citations in Word when you are finished with the paper. \n\nBtw - you can add the page number for in-text citations when inserting them, or by right-clicking the in-text citation.\n\nI use this system and am more or less happy with it. I always have to tidy up at the end. The main benefit is that Mendeley creates the bibliography at the end of the paper for me, and keeps track of when I add or remove references, and even add the a, b, c when I have multiple papers with same author and year.",
+      "author": "OKswimmer2684",
+      "created": 1636506067,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hk3bqir": {
+      "link": "/r/AskAcademia/comments/qqgkvl/citation_management/hk3bqir/",
+      "text": "I think this might help - https://csl.mendeley.com/searchByName/\n\nsearch for Swinburne, you can install the output style in Mendeley.",
+      "author": "c_hampagne",
+      "created": 1636565432,
+      "upvotes": 2,
+      "replies": {
+        "hk3lz64": {
+          "link": "/r/AskAcademia/comments/qqgkvl/citation_management/hk3lz64/",
+          "text": "Thanks!  Not sure why that didn't turn up when I searched, that looks like exactly what I need.",
+          "author": "yddeyma",
+          "created": 1636569381,
+          "upvotes": 1,
+          "replies": {
+            "hk3uba4": {
+              "link": "/r/AskAcademia/comments/qqgkvl/citation_management/hk3uba4/",
+              "text": "Great, glad it helped!",
+              "author": "c_hampagne",
+              "created": 1636572604,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hk07v32": {
+      "link": "/r/AskAcademia/comments/qqgkvl/citation_management/hk07v32/",
+      "text": "Try this website\n\nhttps://www.citationmachine.net/harvard-swinburne-university-of-technology",
+      "author": "SpiritedSoul",
+      "created": 1636503728,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

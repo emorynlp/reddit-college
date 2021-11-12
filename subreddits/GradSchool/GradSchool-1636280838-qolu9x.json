@@ -1,0 +1,22 @@
+{
+  "sid": "qolu9x",
+  "link": "/r/GradSchool/comments/qolu9x/issues_with_reference_manager_citation_order/",
+  "title:": "Issues with reference manager citation order",
+  "text": "Hi all. I\u2019ve been using Mendeley to cite references while writing my paper which has been accepted for publication.  \nIt requires some revision and adding/ deleting some references.\nThe numbers are not syncing correcting. Say I deleted reference no. 20; references no. 21 still stays as reference no. 21 and not 20. How do I fix this ? This is very frustrating and I am finding Mendeley Cite extremely slow.\nI am not keen to remove formatting to change this manually in case I need to do more revisions.\nI am using word 365 on MacOS Big Sur if that helps. \nWould switching to Zotero help at all?!",
+  "author": "baciperugina",
+  "created": 1636280838,
+  "updated": 1636656702,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hjo1l9n": {
+      "link": "/r/GradSchool/comments/qolu9x/issues_with_reference_manager_citation_order/hjo1l9n/",
+      "text": "I used the Mendeley plug-in for Word on my PC, so hopefully it is similar enough. Are you deleting the reference while the Mendeley panel is open? I find that the Mendeley panel needs to be open to update the changes. Also, sometimes I encounter bugs where the only way I could figure out how to fix it was undo changes in my document until where I see the problem started - unfortunately.",
+      "author": "LeJeansGenes",
+      "created": 1636289399,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

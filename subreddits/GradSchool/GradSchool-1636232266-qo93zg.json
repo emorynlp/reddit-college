@@ -1,0 +1,57 @@
+{
+  "sid": "qo93zg",
+  "link": "/r/GradSchool/comments/qo93zg/i_want_get_a_graduate_degree_in_something_math/",
+  "title:": "I want get a graduate degree in something math related\u2026",
+  "text": "Is industrial engineering/operations research or statistics more valuable?\nI don\u2019t know what sector of the work force I want to work but data science, finance seems interesting\u2026.",
+  "author": "9ua8adala",
+  "created": 1636232266,
+  "updated": 1636656804,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.83,
+  "comments": {
+    "hjo56w2": {
+      "link": "/r/GradSchool/comments/qo93zg/i_want_get_a_graduate_degree_in_something_math/hjo56w2/",
+      "text": "Figure out what you want to do before committing to grad degree. Go for stats if your goal is data science/finance.",
+      "author": "Mathguy656",
+      "created": 1636291396,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hjog5fs": {
+      "link": "/r/GradSchool/comments/qo93zg/i_want_get_a_graduate_degree_in_something_math/hjog5fs/",
+      "text": "I would say you couldn't pick 3 fields that are more similar. I think the types of careers you get with these 3 are largely the same. In fact, at my school all 3 of these fields are one department.\n\nIndustrial engineering is pretty much a degree in optimization and statistics for \"systems\"\n\nOperations research is pretty much a degree in optimization and statistics for \"decision making\"\n\nStatistics is pretty much a degree in statistics but you'll definitely be taking optimization.\n\nPick according to how much you enjoy writing proofs in the above order. I think.",
+      "author": "steezytang",
+      "created": 1636296639,
+      "upvotes": 1,
+      "replies": {
+        "hjogjc8": {
+          "link": "/r/GradSchool/comments/qo93zg/i_want_get_a_graduate_degree_in_something_math/hjogjc8/",
+          "text": "I am interested in stochastic modeling and optimization. There doesn\u2019t seem to be many grad schools offering pure operations research,",
+          "author": "9ua8adala",
+          "created": 1636296800,
+          "upvotes": 1,
+          "replies": {
+            "hjoh5vb": {
+              "link": "/r/GradSchool/comments/qo93zg/i_want_get_a_graduate_degree_in_something_math/hjoh5vb/",
+              "text": "That is extremely broad. What do you want to model? What do you mean by \"Stochastic\" modeling? What kind of optimization? Linear programming? Nonlinear numerical programming? Mixed integer linear? Non convex? \n\nYou don't need to have a plan but if you want to do a PhD you need to have a question in mind.",
+              "author": "steezytang",
+              "created": 1636297068,
+              "upvotes": 1,
+              "replies": {
+                "hjoimk8": {
+                  "link": "/r/GradSchool/comments/qo93zg/i_want_get_a_graduate_degree_in_something_math/hjoimk8/",
+                  "text": "Im not sure. From what ive read both fields are very important to finance and data science. I haven\u2019t read too much about the specifics",
+                  "author": "9ua8adala",
+                  "created": 1636297698,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "sid": "qrlh5l",
+  "link": "/r/AskAcademia/comments/qrlh5l/is_a_phd_the_correct_path_for_me/",
+  "title:": "Is a PhD the correct path for me?",
+  "text": "So I recently finished a 5 year long journey that ended with me getting my engineering degree in computer science (french system 2 years preparatory studies + 3 years engineering) but I actually don't want to work as an engineer on just the application side (I'm specialized in AI/ML) instead I want to pursue a research career but whenever I look for research jobs a PhD and previous publishing experiences are almost always required. I have been spending time in this subreddit and it seems most people here pursue PhDs because they dream of an academia position (professors..) so let me be clear I don't want to teach I just want to do research. So my questions are   \n1/ Is a PhD required for what I want to do?  \n2/ (if yes then) How important is the university reputation when I look for a research job (I have an offer from the same school as my engineering degree, the subject is interesting but the school isn't really known outside of my country)",
+  "author": "temp_phd",
+  "created": 1636637800,
+  "updated": 1636654639,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hk7ukgj": {
+      "link": "/r/AskAcademia/comments/qrlh5l/is_a_phd_the_correct_path_for_me/hk7ukgj/",
+      "text": "This is probably not the best place to ask this question. I would look for a more specialized sub. You mentioned AI/ML, so maybe r/datascience would be better, but it's not clear what sort of research you are interested in.",
+      "author": "foradil",
+      "created": 1636647849,
+      "upvotes": 3,
+      "replies": {
+        "hk848ij": {
+          "link": "/r/AskAcademia/comments/qrlh5l/is_a_phd_the_correct_path_for_me/hk848ij/",
+          "text": "I'll post there too. Thanks.",
+          "author": "temp_phd",
+          "created": 1636651672,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hk7wh2g": {
+      "link": "/r/AskAcademia/comments/qrlh5l/is_a_phd_the_correct_path_for_me/hk7wh2g/",
+      "text": "[https://www.reddit.com/r/MachineLearning/comments/ez2prj/d\\_are\\_phds\\_in\\_machine\\_learning\\_really\\_that/](https://www.reddit.com/r/MachineLearning/comments/ez2prj/d_are_phds_in_machine_learning_really_that/)  \nconsider whether its possible to get into a phd program before wondering if you should. super competitive in AI right now, and everyone keeps saying the AI winter is coming too...",
+      "author": "rosealyd",
+      "created": 1636648602,
+      "upvotes": 1,
+      "replies": {
+        "hk845fv": {
+          "link": "/r/AskAcademia/comments/qrlh5l/is_a_phd_the_correct_path_for_me/hk845fv/",
+          "text": "As I said I can stay in my school and do my PhD there but then the question becomes how important is the school's reputation.",
+          "author": "temp_phd",
+          "created": 1636651639,
+          "upvotes": 1,
+          "replies": {
+            "hk8adve": {
+              "link": "/r/AskAcademia/comments/qrlh5l/is_a_phd_the_correct_path_for_me/hk8adve/",
+              "text": "more its your advisors reputation",
+              "author": "rosealyd",
+              "created": 1636654063,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hk838qs": {
+      "link": "/r/AskAcademia/comments/qrlh5l/is_a_phd_the_correct_path_for_me/hk838qs/",
+      "text": "It'll be highly dependent on what country you want to work in, but from an American perspective;\n\n1) Most, if not all, R&D positions in industry require a masters or doctorate, and to do *dedicated* research you need a doctorate.\n\n2) In the US at least, the importance of where you study is largely a function of your field of study. For example, in my field (engine combustion), you'll essentially be judged by the degrees of separation between you and MIT, Michigan, and Wisconsin, as well as your advisor's name and publication record. However, I have no idea what it would be for ML/AI fields.\n\n3) I will say that, in the US at least, there is very much a feeling of \"buyer beware\" with respect to European PhD degrees. It's not that you can't or won't get hired by US firms, but you will *probably* be subjected to a more scrutiny because the perception seems to be that Euro STEM PhD programs are all over the place in terms of quality. Thus, if you stay in Europe for your doctorate, the quality of your advisor's lab will probably be the biggest factor, and will be heavily amplified in comparison to if you got a degree from basically anywhere else.",
+      "author": "r3dl3g",
+      "created": 1636651282,
+      "upvotes": 1,
+      "replies": {
+        "hk850wi": {
+          "link": "/r/AskAcademia/comments/qrlh5l/is_a_phd_the_correct_path_for_me/hk850wi/",
+          "text": "Maybe some one who is from the field of AI will tell us if this is true for AI or not. You mentioned that \"Euro STEM PhD programs are all over the place in terms of quality\" well that complicates my position even more since I'm not even in a Euro STEM PhD program but rather in my home country (Tunisia)",
+          "author": "temp_phd",
+          "created": 1636651982,
+          "upvotes": 1,
+          "replies": {
+            "hk85wi1": {
+              "link": "/r/AskAcademia/comments/qrlh5l/is_a_phd_the_correct_path_for_me/hk85wi1/",
+              "text": ">Maybe some one who is from the field of AI will tell us if this is true for AI or not.\n\nI'd wager it's probably more likely to be true, given the relative lack of tech-related research done in Europe as opposed to Asia or North America, but it's not my field, so w/e.\n\n>You mentioned that \"Euro STEM PhD programs are all over the place in terms of quality\" well that complicates my position even more since I'm not even in a Euro STEM PhD program but rather in my home country (Tunisia)\n\nThe problem is more something *specific* to European programs; degrees that aren't from the US or Europe are still absolutely acknowledged, depending on the strength of the program. It's just more that European STEM degrees are *weird* in comparison to their analogues in the US, and thus you can't just rely on the advisor and school name when vetting a given candidate.",
+              "author": "r3dl3g",
+              "created": 1636652329,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "sid": "qq0vwu",
+  "link": "/r/AskAcademia/comments/qq0vwu/how_much_do_computational_natural_scientists/",
+  "title:": "How much do computational natural scientists contribute to science and research?",
+  "text": "I have the option of either studying medicine or computational science. I like them both and want to choose a subject that has more impact on society and contributes more. So how much does computational science contribute to scientific research? How many discoveries have been made with the help of it in the past decade and what's it's future?",
+  "author": "bruhMomentsCauser",
+  "created": 1636453934,
+  "updated": 1636654671,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.33,
+  "comments": {
+    "hjxjub2": {
+      "link": "/r/AskAcademia/comments/qq0vwu/how_much_do_computational_natural_scientists/hjxjub2/",
+      "text": "Computational science is a huge area of science, as in almost every single field in natural science, engineering and mathematics has a component entailing computational research. It's not easy to give specifics on what the impacts it has had without knowing what field, and even subfield you are talking about.\n\nBut, in general, it is widely used many areas because it is very useful. I won't attempt to give even a short summary of every thing it's been used for (I would certainly fail at that anyway), but since you mention medicine, there are many ways computational science/numerical analysis is used there.\n\nImage analysis and machine learning are used in digital pathology for the purpose of automatic diagnosis of diseases as one example. In another example, computer simulations of a type called molecular dynamics, and also quantum chemistry simulations, are used to predict how proteins fold, with applications in drug design for pharmaceuticals.\n\nBut seriously, you could write entire books about computational science in one tiny subfield of almost any given field of science and still not have enough room to explain anything. It's definitely not going away any time soon, especially with more and more powerful computers coming out.\n\nAlthough, seeing your other comment, I will have to say that computational science in general is pretty math heavy. How math heavy depends on particulars of what you're working on.",
+      "author": "caifaisai",
+      "created": 1636463595,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hjx5twu": {
+      "link": "/r/AskAcademia/comments/qq0vwu/how_much_do_computational_natural_scientists/hjx5twu/",
+      "text": "Also side question: I'm super weak at maths, is computational science even a good option for me?",
+      "author": "bruhMomentsCauser",
+      "created": 1636453995,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

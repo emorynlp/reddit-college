@@ -1,0 +1,74 @@
+{
+  "sid": "qqatxg",
+  "link": "/r/AskAcademia/comments/qqatxg/can_anyone_recommend_me_resource_to_write_a/",
+  "title:": "Can anyone recommend me resource to write a scientific (STEM) journal editorial letter?",
+  "text": "Im a master student about to submit my first ever manuscript for publication. For some reason my multiple supervisors kept throwing responsibility to one another on giving me an example template. Now I can reach neither of them. \n\nI have never seen an editorial letter before and a bit desperate since the deadline is Monday. So any help is greatly appreciated.\n\nEdit: as it turned out (as my supervisor had confirmed), it is indeed an editorial cover letter and not an LTE. Not sure why she said it as \"submission letter to the editor\" and refused to just say \"cover letter\". Thanks for all your help and sorry for the confusion",
+  "author": "Wilchrs",
+  "created": 1636484933,
+  "updated": 1636654666,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hjyzx97": {
+      "link": "/r/AskAcademia/comments/qqatxg/can_anyone_recommend_me_resource_to_write_a/hjyzx97/",
+      "text": "Thank them first for considering your manuscript. Point out what you think is novel and worth reading for their audience. Note if you have presented previously your ideas in conferences or other venues, and make sure to show how this manuscript is different (improved, extended, etc.). Also, indicate if there\u2019s accompanying material that could help the reviewers judging your material. Finally, keep it as short as possible.",
+      "author": "julovi",
+      "created": 1636485600,
+      "upvotes": 3,
+      "replies": {
+        "hjz0ukm": {
+          "link": "/r/AskAcademia/comments/qqatxg/can_anyone_recommend_me_resource_to_write_a/hjz0ukm/",
+          "text": "Is it like writing a regular cover letter for job just that the contents consist of those you mentioned? \n\nCurrently, what I got is this [guide](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/submitting-to-a-journal-and-peer-review/cover-letters/10285574) from springer and this [template](https://authorservices.taylorandfrancis.com/publishing-your-research/making-your-submission/writing-a-journal-article-cover-letter/) from taylor and francis",
+          "author": "Wilchrs",
+          "created": 1636485973,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hjziqg0": {
+      "link": "/r/AskAcademia/comments/qqatxg/can_anyone_recommend_me_resource_to_write_a/hjziqg0/",
+      "text": "I assume you mean cover letter? (Not \"letter to the editor\".)\n\nKeep it simple. You don't have to make a good impression the way you have to when you apply for a job.\n\nNot in STEM, but I write something like this:\n\n\n\nDear Editor,\n\nPlease consider my manuscript XXX for publication.\n\nBest regards\n\nName, affiliation, contact info.",
+      "author": "molobodd",
+      "created": 1636493072,
+      "upvotes": 2,
+      "replies": {
+        "hjzkfmk": {
+          "link": "/r/AskAcademia/comments/qqatxg/can_anyone_recommend_me_resource_to_write_a/hjzkfmk/",
+          "text": "Actually whats the different between the cover letter and letter to the editor? I'm afraid that I have thought that both of them are the same",
+          "author": "Wilchrs",
+          "created": 1636493749,
+          "upvotes": 1,
+          "replies": {
+            "hjzncet": {
+              "link": "/r/AskAcademia/comments/qqatxg/can_anyone_recommend_me_resource_to_write_a/hjzncet/",
+              "text": "\"Letter to the editor\" is when you send a letter which itself is intended for publication.  See this [wikipedia article](https://en.wikipedia.org/wiki/Letter_to_the_editor) for more details if you're interested.\n\n\n\"Cover letter\" = what you're talking about.  It's a letter to accompany your paper, to explain why you think it should be considered/published.  The explanations and templates you found online are fine, and you can google \"journal paper cover letter\" to see many more examples.  Honestly, just look at the examples online and write one - it's a bit silly to stress out waiting for your supervisors to send you something that you can easily find yourself with a few seconds on google.",
+              "author": "polyphonal",
+              "created": 1636494917,
+              "upvotes": 3,
+              "replies": {
+                "hjzo871": {
+                  "link": "/r/AskAcademia/comments/qqatxg/can_anyone_recommend_me_resource_to_write_a/hjzo871/",
+                  "text": "Thank you very much for clearing my confusion!",
+                  "author": "Wilchrs",
+                  "created": 1636495276,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "hjznt58": {
+                  "link": "/r/AskAcademia/comments/qqatxg/can_anyone_recommend_me_resource_to_write_a/hjznt58/",
+                  "text": "This!",
+                  "author": "molobodd",
+                  "created": 1636495106,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
