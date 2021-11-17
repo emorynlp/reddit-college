@@ -1,0 +1,38 @@
+{
+  "sid": "qs1tdy",
+  "link": "/r/college/comments/qs1tdy/software_engineering_vs_computer_science/",
+  "title:": "Software Engineering Vs Computer Science",
+  "text": "I'm going to be applying to colleges next year and I'm interested in programming. To me, it seems that the two main majors for this are software engineering and computer science. I know it varies from college to college, but in general, which one is better for my interests? What are the differences? I'm not so interested in how computers work, and more so just want to code and develop software.",
+  "author": "TheThingKnownAsKit",
+  "created": 1636686071,
+  "updated": 1636745769,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hkatyte": {
+      "link": "/r/college/comments/qs1tdy/software_engineering_vs_computer_science/hkatyte/",
+      "text": "If you mainly want to code just do software engineering. Comp sci has a lot more math and theoretical stuff and you\u2019ll learn more coding from a software engineering major.",
+      "author": "seriously_ok_wow",
+      "created": 1636695614,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hkai2xi": {
+      "link": "/r/college/comments/qs1tdy/software_engineering_vs_computer_science/hkai2xi/",
+      "text": "Usually software engineering is just a subset of the \"Computer Science\" major. For example at Northeastern \"software engineering\" classes like Software Development, Web Development, Databases, etc. are all CS classes taken by CS majors.\n\nComputer science theory refers to the more theoretical aspects of programming, e.g. compilers, formal methods, Turing Machines, discrete math. While \"software engineering\" refers to things like web development and cloud computing that you will see in companies. But like I said above, in practice \"computer science\" as a whole usually refers to both concepts.",
+      "author": "armchairwarrior12345",
+      "created": 1636689238,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hkai5fl": {
+      "link": "/r/college/comments/qs1tdy/software_engineering_vs_computer_science/hkai5fl/",
+      "text": "Computer Science is a math degree that happens to teach you programming. I am not familiar enough with computer engineering to speak to that.\n\nBased on what you've described, you might be happier taking a software development degree. I'm starting to see universities and colleges offer those now.",
+      "author": "SouthernRhubarb",
+      "created": 1636689271,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

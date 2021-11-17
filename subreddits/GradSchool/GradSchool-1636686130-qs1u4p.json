@@ -1,0 +1,202 @@
+{
+  "sid": "qs1u4p",
+  "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/",
+  "title:": "Asking questions in seminars respectifully",
+  "text": "In the middle of my second year, I asked a guest lecturer about her results because I didn't really understand the method, and was confused and wanted to learn more. Mostly the latter, because I was just generally curious and I sometimes miss things in seminars.   \n\n\nI'll never forget her explanation, which was: \"That was a poorly thought question you asked. What you should have asked was...\" and I dont remember anything after that because I kinda just blacked out.   \n\n\nIve never asked a question since then, because I dont want to embarrass my bosses. However. I have some interviews coming up and I dont want to embarrass my stupid ass again and fuck up someone interpreting someone elses work.   \n\n\nAnyone have any suggestions? A lot of the people I'm going to meet with are in a fairly different field.",
+  "author": "IrishAmericanWhiskey",
+  "created": 1636686130,
+  "updated": 1636745960,
+  "over_18": false,
+  "upvotes": 19,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "hkadax1": {
+      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkadax1/",
+      "text": "People seem to get off trying to prove they are superior to others. I've found this to especially be true in academia. Conferences run rampant with this behavior. \n\nI'm sorry that happened, as I'm sure it was scarring. Try your best to move on from it. Ask questions again maybe in smaller settings then work your way up again. Listen to questions others are asking.\n\nDon't let an ass keep you from learning and advancing yourself.",
+      "author": "marisolm9",
+      "created": 1636686971,
+      "upvotes": 53,
+      "replies": {
+        "hkam5rj": {
+          "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkam5rj/",
+          "text": "I guess my questions is, how do you deal with this in the moment. My meetings will be 1 on 1 or 1 on many, and im worried im going to run into this and dont want to freeze up.",
+          "author": "IrishAmericanWhiskey",
+          "created": 1636691249,
+          "upvotes": 2,
+          "replies": {
+            "hkbnz92": {
+              "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkbnz92/",
+              "text": "To be honest you have two options, you can do what you did or offer a rebuttal to their dismissal of your question and ask why they felt the need to do so. Seeing as you froze afterward, I would do what others suggested and work your way back up to asking questions in conferences. This is not my field so I can't offer anything to help regarding the question, but I never understand the superiority complex of some. Answering the question ELI5 style is even better than what they did. Best of luck in the future",
+              "author": "Conhbd",
+              "created": 1636719122,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hkaibfr": {
+      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkaibfr/",
+      "text": "I\u2019d be curious to know how you phrased your actual question.\n\nWhen I ask questions about things I want to learn more of I borrow from the \u201ccompliment sandwich\u201d method. Start of by prefacing your question (e.g., \u201cI found it interesting you used X methodology\u2026.\u201d, or \u201cI hope I\u2019m understanding correctly [insert what you think is happening]\u201d) then I ask my question and usually follow up with some compliment (e.g., \u201cthis is a great study, etc.\u201d)\n\nI\u2019m sorry that happened to you and I hope this helps!",
+      "author": "lyort",
+      "created": 1636689350,
+      "upvotes": 14,
+      "replies": {
+        "hkajt11": {
+          "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkajt11/",
+          "text": "My question was regarding enhanced sampling techniques. I dont remember the exact context anymore, but ill assume you're not a chemist and explain the technique.   \n\n\nIf youre trying measure the topology of a mountain so to speak, imagine starting at the bottom of the mountain and taking a step in a random direction. Each time you take a step, you drop a square brick down and write the (x,y) coordinate of that brick. you repeat this process until you have bricks surrounding the mountain, as tall as the mountain. So if you wanna know how tall and wide the mountain is, you just reference all the bricks location, and how high each brick was, and how many you had to stack at each coordinate.   \n\n\nIn Molecular Dynamics, these \"bricks\" are actually just bais potentials, and the \"mountain\" is the behavior of some system. We use this method to look at something called a Free energy surface, which can tell us where systems are, where they would like to be, and where they can/cant go. going back to the mountain example, imagine if on the North face, the only way to the summit was a 3000 ft sheer cliff. Well you're probably not going up that way. this technique can capture those features of our systems and is really important in many applications  \n\n\nthe speaker had some really weird shaped bricks and my question was along the lines of: \"those are interesting bricks, how did you come up with those?\"   \n\n\nIn the speakers defense, that is a very, VERY dumb question to ask.   \n\n\nP.S. if you are a chemist im sorry for explaining something you already probably know. also i wouldn't take my explanation of the technique as gospel because I really don't know a ton about this method. Im confident i made some mistakes in that explanation",
+          "author": "IrishAmericanWhiskey",
+          "created": 1636690072,
+          "upvotes": 3,
+          "replies": {
+            "hkalc1r": {
+              "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkalc1r/",
+              "text": "I'm an expert in enhanced sampling and I know you're referring to metadynamics.\n\nWithout knowing what exactly the context was and what you asked, I can still say for sure that just about any question about the particulars of enhanced sampling is not a dumb question. This is difficult stuff, and highly abstract. The speaker should have taken the opportunity to clarify, not to belittle you.",
+              "author": "UmiNotsuki",
+              "created": 1636690832,
+              "upvotes": 20,
+              "replies": {
+                "hkalrgk": {
+                  "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkalrgk/",
+                  "text": "Honest question, how was my eli5 explanation?  \n\n\nIve been trying to teach myself T-REMD/H-REMD, umbrella sampling and PMF techniques the last few years but ive never really gotten anywhere lol",
+                  "author": "IrishAmericanWhiskey",
+                  "created": 1636691048,
+                  "upvotes": 3,
+                  "replies": {
+                    "hkanduh": {
+                      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkanduh/",
+                      "text": "It wasn't bad! You've got the basic idea down clearly, though I think you might've over-explained a little bit -- I do the same thing. Metadynamics in particular is most intuitively explained graphically (or especially with an animation) so it can be difficult to put it into words. If I were to give you some advice for communicating ideas like these to outside audiences, I would say to resist the urge to bring up phrases like \"free energy surface\" or \"bias potential\" and stick to analogy, as short and sweet as possible.\n\nEnhanced sampling is definitely a difficult subject to teach yourself. I remember feeling like I must be really annoying my advisor when I kept asking her to explain things over and over again, though to her credit she was very patient with me. My suggestion is to find someone who understands these concepts and get them to help you. A little direction can be invaluable. I'd be happy to help too!\n\nUmbrella sampling is by far the easiest method of those you've mentioned to learn, so if you don't understand any of them yet, you should definitely start there.",
+                      "author": "UmiNotsuki",
+                      "created": 1636691880,
+                      "upvotes": 3,
+                      "replies": {
+                        "hkaqsdf": {
+                          "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkaqsdf/",
+                          "text": "My advisor believes its our responsibility to teach ourselves. Its been a long road. Conceptually I understand all of them. Do you mind if i send you a DM tomorrow?",
+                          "author": "IrishAmericanWhiskey",
+                          "created": 1636693733,
+                          "upvotes": 2,
+                          "replies": {
+                            "hkaqy34": {
+                              "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkaqy34/",
+                              "text": "Your advisor is shooting themself in the foot. Please feel free!",
+                              "author": "UmiNotsuki",
+                              "created": 1636693826,
+                              "upvotes": 6,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "hkdbfh9": {
+                      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkdbfh9/",
+                      "text": "Can we start a gang? Every time I bring up anything to do  with enhanced sampling, my current advisor shoots it down as too complicated or irrelevant. I think it's that they're trying to cover up their own ignorance.\n\nIt's really hard to go from theoretical understanding to knowing the ins and outs required to apply it in actual research.",
+                      "author": "Matterials",
+                      "created": 1636745658,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hkba7cu": {
+      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkba7cu/",
+      "text": "This is more of a reflection on the guest lecturer than it is you. I am in the social sciences, and questions about sampling are extremely common. Especially if you are trying to make population-level inferences, people are going to be very critical of the way your sample was obtained and the methodology used because it could have significant implications on the data and results. \n\nThis guest lecturer should have anticipated these questions and learned to behave themselves more professionally. If their sampling method was confusing, it's probably because they did a shit job explaining it. I typically phrase questions like \"I am really interested in \\[thing\\], could you explain a bit more about how you found \\[thing\\]?\". If someone reacts poorly to that type of question, I don't find it at all necessary to change the way I ask that type of question because the problem is with them, not me. \n\nThis kind of behavior is also a big red flag to me, and a sign that more deeper questions should be asked about their research in general. Good, valid, research is transparent. People who are trying to hide skullduggery and malfeasance often react negatively to common methodological questions.",
+      "author": "False-Guess",
+      "created": 1636707888,
+      "upvotes": 9,
+      "replies": {
+        "hkc3qmz": {
+          "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkc3qmz/",
+          "text": "I guess I run into this behavior a lot. I'd wager most people do. And i'd like to give the benefit of the doubt and say that maybe the speaker was having an off day.   \n\n\nIm more concerned about dealing with my fear of asking questions, because when I try now, i just freeze up and bumble.",
+          "author": "IrishAmericanWhiskey",
+          "created": 1636727513,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hkbkk63": {
+      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkbkk63/",
+      "text": "I am pretty sure a majority of people at that talk lost more respect for the speaker than for you. You\u2019re a student, and even if it was a stupid question (hypothetically) most people understand students are still learning and that\u2019s an important part of academic growth.",
+      "author": "gradthrow59",
+      "created": 1636716702,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hkbr2wq": {
+      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkbr2wq/",
+      "text": "The fault here is more than likely on the part of the speaker. I can\u2019t imagine ever responding in that way.",
+      "author": "one-too-three",
+      "created": 1636721055,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hkc22p2": {
+      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkc22p2/",
+      "text": "My advisor told me this story about when he was a graduate student and asked a question in a colloquium, and the speaker responded with \"that's not a very good question.\" He still thinks about it, and maybe that's what makes him such a great professor. \n\nYou'll learn from this experience and hopefully never become like them, as you hopefully have learned that there is no such thing as a bad question.",
+      "author": "NamathDaWhoop",
+      "created": 1636726742,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hkala1j": {
+      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkala1j/",
+      "text": "this reminds me of the lecture i was in last week. every guest lecturer that we get, a certain number of students have to ask questions. last week the guest professor refused to answer any student questions and simply rebutted any clarification question with \u201cwhy do you want to know the answer to that?\u201d and then he kept going on about something unrelated. it\u2019s a total ego move and i think quite unprofessional when students are simply trying to learn!",
+      "author": "tryingveryhard_",
+      "created": 1636690804,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hkctaqg": {
+      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkctaqg/",
+      "text": "Even if your question was ultra dumb, it's so unprofessional to receive questions like that. Honestly even if it was a very rude question, I can't see myself ever just telling someone that.",
+      "author": "KiwiTheKitty",
+      "created": 1636738113,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hkc154y": {
+      "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkc154y/",
+      "text": "It's inevitable that you will encounter people like this from time to time, so my advice is to work on your confidence. A rude comment shouldn't be enough to shut you down. No one should have that power over you.\n\n\u201cYou have power over your mind - not outside events. Realize this, and you will find strength.\u201d- Marcus Aurelius, Meditations",
+      "author": "RipVanWinter",
+      "created": 1636726302,
+      "upvotes": 1,
+      "replies": {
+        "hkc471w": {
+          "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkc471w/",
+          "text": "do you have any strategies for this? Ive found myself isolated in an insanely competitive environment, and burnout+everyone having an ego contest makes the confidence thing hard in academic settings.",
+          "author": "IrishAmericanWhiskey",
+          "created": 1636727721,
+          "upvotes": 2,
+          "replies": {
+            "hkcc2er": {
+              "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkcc2er/",
+              "text": "I don't know any tricks, I think you just need to think it through. Acknowledge that your reaction (never asking another question) was an irrational response to the incident (asking one dumb question and getting snapped at). Once you accept that it's irrational, you try to figure out why you overreacted. You said you are afraid of embarrassing yourself or your bosses. Why are you afraid of this? You know, rationally, that refusing to ask questions will ultimately hinder you because you are depriving yourself of potentially useful knowledge, just to reduce the risk of embarrassment.\n\nWhy are you so afraid of embarrassment? It can't hurt you. You know that you won't get kicked out for asking stupid questions, as long as the quality of your work is adequate. So what's the big deal?\n\nIt's simply your ego clouding your judgement. In science, ego is irrelevant. It sounds like your department is pretty unpleasant in some ways, but whether you stay there is your prerogative. No one can force you to participate in the ego contest.",
+              "author": "RipVanWinter",
+              "created": 1636731136,
+              "upvotes": 2,
+              "replies": {
+                "hkd9xby": {
+                  "link": "/r/GradSchool/comments/qs1u4p/asking_questions_in_seminars_respectifully/hkd9xby/",
+                  "text": "Well damn this was really well written. I'm gonna think on this for a while, and I truly appreciate you taking the time.",
+                  "author": "IrishAmericanWhiskey",
+                  "created": 1636745006,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
