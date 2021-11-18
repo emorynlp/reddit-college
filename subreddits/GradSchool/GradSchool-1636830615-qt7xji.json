@@ -1,0 +1,22 @@
+{
+  "sid": "qt7xji",
+  "link": "/r/GradSchool/comments/qt7xji/tips_on_learning_mathstat_for_research_as_an/",
+  "title:": "Tips on learning math/stat for research as an undergraduate?",
+  "text": "I'm currently a biology undergraduate student looking to pursue academic research as a career. Frankly speaking, I'm not as data-literate for academic research as I should be. How complex math and statistics generally translates to good research leaves me more dumbfounded most times than not. And simply reading too much into the methodology of one specific study to replicate ends up being too limited a learning experience for me in the long run. \n\nThe pandemic restrictions in my country isn't going to majorly improve any time soon, so I've been looking to learn more on this. I think it's good to say that I'm planning to learn general \"data science\" for the sake of research, and not straight-up CS (if that distinction is important in asking for learning material here). I'm also not a CS/math undergraduate.\n\nIf it matters, I've been recently eyeing on how mathematical models are made to simulate climate and environment for informing economic policy and disaster risk. Sounds vague, but any tangent textbook titles may help. \n\nOther questions:\n1) How did you learn and apply math/stat in your online set-ups?\n2) How did you practice your skills?\n3) Where did you get good data for practice?",
+  "author": "the_power_of_failing",
+  "created": 1636830615,
+  "updated": 1637182744,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hki00fb": {
+      "link": "/r/GradSchool/comments/qt7xji/tips_on_learning_mathstat_for_research_as_an/hki00fb/",
+      "text": "Climate models are incredibly complex. Would avoid that if you\u2019re looking for something to get started with.\n\nYour best bet is to just learn the math through textbooks if you\u2019re really interested. I could recommend specific subjects and textbooks if you wanna talk about specific stuff you\u2019re interested in. Once you get a good grasp on the \u201cnormal\u201d math (would count this as single variable calc, multi variable calc, lin alg, and stats as a minimum) applying it in a data-sci sense isn\u2019t too difficult.\n\nFor a good start, I would look up Taylor Spark\u2019s playlist \u201cpython for materials science\u201d on YouTube. Super good tutorial imo",
+      "author": "FeLoNy111",
+      "created": 1636836538,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

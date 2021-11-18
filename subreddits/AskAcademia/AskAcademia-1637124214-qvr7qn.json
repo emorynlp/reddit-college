@@ -1,0 +1,134 @@
+{
+  "sid": "qvr7qn",
+  "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/",
+  "title:": "How do you present someone else's published paper/report?",
+  "text": "Hello. So I'm working on an undergrad research project, and I need to present the paper that I've been studying for the past couple of weeks tomorrow. It's based on mathematical modeling of an infectious disease, and there's a lot of very technical details in it. I have around 15-20 minutes to present it to my advisor, and I wanted to ask exactly what I should include/do in the presentation to make sure it's good? I have a good amount of social/presentation anxiety so even just thinking about it is freaking me out, but it would be so much more helpful if I knew what I was saying was correct, and if I knew what to include and what to leave out. \n\nThe paper is basically a technical report with a lot of mathematical details added in the appendix. I was told to present the sections that didn't particularly have the math in them, though the stuff was mentioned. Now my main worry is. Should I only talk about *what* they did in the paper, or about why as well. As in, why did they use a certain method or distribution or something along those lines. Also, is it better to talk about the technical details that aren't mentioned in the paper directly? For example, it's a stochastic model, so it mentions which model they use, and sort of mention which distributions they use. Should I explain the model ground up or is that a bad idea? \n\nI'm just really confused thinking about it, I'm honestly just worried that if I stray too much from what's done in the paper, I'll just waste time and my advisor is gonna tell me to skip ahead and I'll probably freak out in the middle of the presentation. However, I'm also worried that if I don't include any unmentioned background details, they might ask me those as questions or I might use up too little time and that'd be bad too. \n\nCould anyone here please tell me how I should go about this. It's my first project+research presentation and I really want it to go good. Thank you all in advance \ud83d\ude14\ud83d\ude14",
+  "author": "megahypochondriac",
+  "created": 1637124214,
+  "updated": 1637180861,
+  "over_18": false,
+  "upvotes": 13,
+  "upvote_ratio": 0.93,
+  "comments": {
+    "hkypq5f": {
+      "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkypq5f/",
+      "text": "Your job is to summarize the paper in a way that, if asked about the paper, your audience would be able to communicate what the paper is about and its main findings. Don't worry too much about the details or math, but do have good high-level descriptions about the experimental/theoretical methods used. Include more specific details where appropriate (if XRD was done, what kind of XRD? Was it powder XRD or on a synchrotron beam line? etc)",
+      "author": "johnnydaggers",
+      "created": 1637135700,
+      "upvotes": 4,
+      "replies": {
+        "hkyvzqz": {
+          "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkyvzqz/",
+          "text": "Ahh yep, I see, that makes sense. \n\nTechnically, my audience is only my advisor and a PhD student that was working with him+somewhat with me for the project. So I suppose they'd understand anyway, but yeah, I'll probably summarize most details and explain where necessary. \n\nThank you!",
+          "author": "megahypochondriac",
+          "created": 1637140898,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hky9s2r": {
+      "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hky9s2r/",
+      "text": "The best bet is to distill these thoughts into shorter questions and clarify with your advisor. \n\nHowever I think an outline like this might be what they're looking for:\n\n* Brief intro and lit review: Name the paper/authors. What's the main question? What's the existing model? Why do we need a new model?\n* Brief overview: in ~2 minutes tell us the parts of the model and generally what they do. A diagram would be great here.\n* Data and assumptions: what data are they using? What assumptions are they making? Are these substantially different from other models?\n* Highlight a few things in-depth: find the one or two pieces that are novel/key to the model and go into a bit of depth on how they work. Preferably using words and not equations or you'll bore people. What makes those pieces/assumptions/algorithms/etc. noteworthy? Why did they make these specific choices?\n* Discussion: where is there room for improvement? Is there better data? Better assumptions? A whole new approach?\n\nThe data and assumptions part can be rolled into other sections, moved around, or removed depending on how important it is (maybe that is the novel part) and the general flow of the talk.",
+      "author": "Ford-Fulkerson",
+      "created": 1637125037,
+      "upvotes": 2,
+      "replies": {
+        "hkybqln": {
+          "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkybqln/",
+          "text": "THANK YOU SO MUCH FOR THIS! \n\nYou're right in saying that it would be a lot better if I spoke to my advisor, but I don't want him to think I'm confused at this point \ud83d\ude14 (yes I know this is dumb but alas \ud83d\ude14). I'll probably make sure I ask earlier if I'm confused about other stuff but it's honestly way too late right now. \n\nAlso, this is so so helpful, thank you again! I'll definitely try to follow this structure as much as I can! \n\nTeeny side question: is it necessary to talk about improvements if I'm just discussing/presenting a paper? Our main plan was to somewhat follow what they've done and recreate it according to the country that I'm in, so should it be okay if I discuss how it could be recreated for my country specifically?",
+          "author": "megahypochondriac",
+          "created": 1637126153,
+          "upvotes": 2,
+          "replies": {
+            "hkyc1tl": {
+              "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkyc1tl/",
+              "text": "Yeah, you can tweak the format to fit the paper and your needs as needed. Glad I could help. Once you have your idea of the structure of the talk, maybe just tell the advisor \"here's the basic structure of the talk I'm planning to give, is this what you were expecting?\"\n\nETA: This anxiety around pleasing profs is unfortunately normal, don't worry. They hold a lot of power over us so we are naturally intimidated.",
+              "author": "Ford-Fulkerson",
+              "created": 1637126337,
+              "upvotes": 2,
+              "replies": {
+                "hkychpd": {
+                  "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkychpd/",
+                  "text": "Ahh yess, that sounds good, I'll do that too. Thank you again!! Really appreciate it!",
+                  "author": "megahypochondriac",
+                  "created": 1637126591,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "hkz4sk7": {
+              "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkz4sk7/",
+              "text": "Are you an undergrad presenting to a PI? If so the postdocs and grad students working in your lab would probably be happy to share their thoughts.",
+              "author": "MercuriousPhantasm",
+              "created": 1637148187,
+              "upvotes": 1,
+              "replies": {
+                "hkzeppa": {
+                  "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkzeppa/",
+                  "text": "Yesss, I am, to my professor+project advisor (ig that'd be somewhat at the same seniority level as a PI maybe). Not working in a lab though, since it's an independent project(?), so there aren't any other post docs/grad students that I can ask except for maybe one, but I haven't seen him in a reallyyy long time \ud83d\ude14\n\nBut this is actually good advice for the future, I'll keep this in mind. Thanks!",
+                  "author": "megahypochondriac",
+                  "created": 1637154511,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "hl0vwyn": {
+              "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hl0vwyn/",
+              "text": "I tell my team I expect them to take responsibility for their work and that means asking me for help when they are unsure about something. I never think someone is stupid for asking clarifications or advice about something they've never done before, it tells me they're thinking about it and making an assessment of the situation. It's a good thing.\n\nSecond thing, with these kinds of things it's about storytelling. Whether it's your work or someone else. It's a bit of an art but you need to take people on the journey with you. It's sometimes difficult to know what level to pitch at but I think as long as you're not being patronising and explaining very basic concepts it's better to err on the side of explanation than not. So it's background, question, how they approached it/what they did, results, interpretation, what it means in the bigger picture. However, in the words of my PhD supervisor \"it's not a bloody murder mystery, don't leave the big reveal to the end\".",
+              "author": "ACatGod",
+              "created": 1637176836,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hkywdbq": {
+          "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkywdbq/",
+          "text": "Quick question about the intro. Is it customary to mention all the authors' names? There's like 6 of them and I feel like it'll get a little long, but then saying something like \"Name\" et al seems a little weird too. Or like Name 1, Name 2, and others? Idk, it seems a little off to me?",
+          "author": "megahypochondriac",
+          "created": 1637141215,
+          "upvotes": 1,
+          "replies": {
+            "hkz2ig2": {
+              "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkz2ig2/",
+              "text": "You'd normally have a slide that has the full title, all authors (well, not if it's dozens of them, but for 6 list them all), full bibliographical details and say something like \"I am going to present the paper \\[title\\] by Wichtelhuber et al. which was published in the Journal for Pataphysiological Statistics in March 2025\"\n\nThen, when I present and it's kinda important or significant to my audience who the authors are, I'd continue with \"There are six authors, five of whom are at the University of Northern South Wisconsin. This comes from the lab of Professor Wenyu Zhang, who is the last author. Her team has a sustained research output on pataphysiological statistics . The second author, Marin Billabong, is a forensic physiologist at the Hospital of the Western Ocean, and appears to be the author who contributed the experimental data, but I'll come back to this later.\"\n\nHowever, if the interest of your audience is strictly the methods and results, you can leave out all of this. But have at least a vague idea of who the authors are - who is senior, who is early-career, who is likely a student. You may have to field a question like \"Didn't the third author publish \\[previous much discussed paper\\]?\" or \"I've never heard of Wichtelhuber - who is he?\" (and you can say, \"she - I presume, the first name is Martina - appears to be a graduate student in Dr. Zhang's lab\")\n\nAlso, no one wants to listen to you stumble through a list of multiple unfamiliar names. And you get used to saying \"So-and-So et al\", but \"So-and-So and co-authors\" is perfect, too.",
+              "author": "pyrola_asarifolia",
+              "created": 1637146394,
+              "upvotes": 3,
+              "replies": {
+                "hkzeds3": {
+                  "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkzeds3/",
+                  "text": "Ahhh I see, this makes sense. In my case right now at least, I'm mostly supposed to be talking about the mathematics and data of the paper, so I'll mention the first two authors and where they're from/what they do, and move on. But, I'll definitely keep this in mind for the future. Thank you!!!",
+                  "author": "megahypochondriac",
+                  "created": 1637154327,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hkzqssc": {
+      "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hkzqssc/",
+      "text": "If the paper was a movie, the presentation is the trailer.",
+      "author": "aftersox",
+      "created": 1637160445,
+      "upvotes": 2,
+      "replies": {
+        "hl04nuk": {
+          "link": "/r/AskAcademia/comments/qvr7qn/how_do_you_present_someone_elses_published/hl04nuk/",
+          "text": "Huh. That's a really interesting way to put it! Maybe I should cut out a lot of stuff now \ud83d\ude36 as in pretty much every assumption they made+every value/equation they used \ud83d\ude36\n\nOkay but side question tho: my presentation should last about 15-20 minutes according to my advisor. If I was just summarizing everything, I don't think that'd fill up the time, no? Mostly since I'm presenting a couple of sections of the paper rather than the entire thing (specifically the more mathematical parts rather than the other details). \n\nAlso thank you for replying! I'll keep this in mind for future presentations as well!",
+          "author": "megahypochondriac",
+          "created": 1637166170,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

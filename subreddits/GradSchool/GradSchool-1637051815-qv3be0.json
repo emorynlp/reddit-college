@@ -1,0 +1,89 @@
+{
+  "sid": "qv3be0",
+  "link": "/r/GradSchool/comments/qv3be0/thesis_pdf_corrupted/",
+  "title:": "Thesis PDF Corrupted",
+  "text": "Hi my mum finished editing a thesis paper using Adobe Acrobat but the file corrupted and weeks worth of editing is lost.\n\nI have tried the following:\n\ni) Online pdf repair tools\n\nii) Downloaded pdf repair tools such as Kernel, Foxit\n\niii) Tried alternative pdf viewers (Foxit, Okular, Adobe Acrobat, Google Chrome, etc. which work for other pdf files I have)\n\niv) Converting from pdf to word (Says file damaged every time)\n\nAny suggestions would be greatly appreciated",
+  "author": "xMemestar420",
+  "created": 1637051815,
+  "updated": 1637182657,
+  "over_18": false,
+  "upvotes": 12,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hku0ztv": {
+      "link": "/r/GradSchool/comments/qv3be0/thesis_pdf_corrupted/hku0ztv/",
+      "text": "roll back to a previous windows backup",
+      "author": "HLA-AIRE-VIT1",
+      "created": 1637053739,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hkuzace": {
+      "link": "/r/GradSchool/comments/qv3be0/thesis_pdf_corrupted/hkuzace/",
+      "text": "I know this doesn't help at this point, but this is why everyone should always save incremental draft backups of any writing project that you're working on under a new draft designation. \n\nFile corruption doesn't happen very often. It is very rare. But when it does happen, you'll be thankful that you saved a copy under a different draft designation 10 hours before.",
+      "author": "raistlin65",
+      "created": 1637075165,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "hkuevxj": {
+      "link": "/r/GradSchool/comments/qv3be0/thesis_pdf_corrupted/hkuevxj/",
+      "text": "Good reminder for everybody to make regular backups of your work using [the 3-2-1 strategy](https://us-cert.cisa.gov/sites/default/files/publications/data_backup_options.pdf)",
+      "author": "ATIsPublicHealth",
+      "created": 1637064762,
+      "upvotes": 2,
+      "replies": {
+        "hkuznql": {
+          "link": "/r/GradSchool/comments/qv3be0/thesis_pdf_corrupted/hkuznql/",
+          "text": "But that doesn't always solve the problem of file corruption caused by the software used to create the file. For instance, I've seen Microsoft Word corrupt a word processing file. And so you have to go back to the previous saved version.\n\nTo prevent that, one should also frequently say a writing project under a different draft designation, so there are different versions of the file to fall back on.",
+          "author": "raistlin65",
+          "created": 1637075327,
+          "upvotes": 0,
+          "replies": {
+            "hkv43o0": {
+              "link": "/r/GradSchool/comments/qv3be0/thesis_pdf_corrupted/hkv43o0/",
+              "text": "Yeah, maybe you should have, I don't know, at least 3 different drafts at a time. But then, an entire drive could fail, so you really should have one of them on a different device entirely. Then again, your entire house could burn down, so it'd be smart to have one of the drafts in a different physical location too.\n\nGood thinking, u/raistlin65. This is the way",
+              "author": "ITasteLikePaint",
+              "created": 1637077189,
+              "upvotes": 2,
+              "replies": {
+                "hkv6io4": {
+                  "link": "/r/GradSchool/comments/qv3be0/thesis_pdf_corrupted/hkv6io4/",
+                  "text": "\n>Yeah, maybe you should have, I don't know, at least 3 different drafts at a time.\n\nI just save incremental backups every so often. Usually after I've done a bunch of work that I wouldn't want to lose, I'll save the file. And then save it again with a new draft number designation.\n\nThis has also helped me a few times where I've done a bunch of revising, and then decided I didn't like all the changes, so I could look at a previous version.\n\n>But then, an entire drive could fail, so you really should have one of them on a different device entirely.\n\nYep. I have cloud-based storage syncing for that. I use Sugar Sync, as it allows you to have any folder on your computer automatically backed up.\n\n>Then again, your entire house could burn down\n\nDid you know that people used to keep a copy of their dissertation in the fridge back in the typewriter days? Same with writers working on novels. Just in case that happened? lol",
+                  "author": "raistlin65",
+                  "created": 1637078171,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hkuul92": {
+      "link": "/r/GradSchool/comments/qv3be0/thesis_pdf_corrupted/hkuul92/",
+      "text": "Hopefully not a dumb suggestion, but have you tried opening on windows and Mac? Rarely but occasionally I have some issues going between platforms. Helvetica as a font can cause it. Can try preview or other Mac pdf viewers.",
+      "author": "throwaway__official",
+      "created": 1637073093,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hkuvh9f": {
+      "link": "/r/GradSchool/comments/qv3be0/thesis_pdf_corrupted/hkuvh9f/",
+      "text": "Have you tried using the exact computer the edited file was saved on? In this case, I think it\u2019s your moms computer?",
+      "author": "NearbyConcept",
+      "created": 1637073501,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hkv2jy0": {
+      "link": "/r/GradSchool/comments/qv3be0/thesis_pdf_corrupted/hkv2jy0/",
+      "text": "Do they have an account linked to adobe acrobat which saves their document on the cloud? I don\u2019t know how Adobe acrobat works, but I usually save my word files on onedrive and then download the final version as a pdf or doc.",
+      "author": "abhijelly",
+      "created": 1637076546,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

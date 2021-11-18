@@ -1,0 +1,40 @@
+{
+  "sid": "qu8qt6",
+  "link": "/r/GradSchool/comments/qu8qt6/is_there_anything_in_word_that_keeps_track_of/",
+  "title:": "Is there anything in Word that keeps track of figures the same way I use Zotero for citations?",
+  "text": "Basically I want what LATEX does and auto labels figures, but I can't get zotero into overleaf so I'm stuck with word? I've never tried anything out of overleaf for LATEX, if there's something that works with Zotero, I'd be all for it.",
+  "author": "suckuma",
+  "created": 1636952984,
+  "updated": 1637182716,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "hkpfcp1": {
+      "link": "/r/GradSchool/comments/qu8qt6/is_there_anything_in_word_that_keeps_track_of/hkpfcp1/",
+      "text": "I've never ran into an issue that LaTeX can't handle with the appropriate package/commands. Not sure what Zotero does/what makes you resort to using Word.",
+      "author": "atomz27",
+      "created": 1636973162,
+      "upvotes": 1,
+      "replies": {
+        "hkqbsmp": {
+          "link": "/r/GradSchool/comments/qu8qt6/is_there_anything_in_word_that_keeps_track_of/hkqbsmp/",
+          "text": "It keeps citations in order and notes on them and all that. It's nicely built in for word where I click add citation type in its name and it's all good.",
+          "author": "suckuma",
+          "created": 1636991341,
+          "upvotes": 0,
+          "replies": {
+            "hkrelzs": {
+              "link": "/r/GradSchool/comments/qu8qt6/is_there_anything_in_word_that_keeps_track_of/hkrelzs/",
+              "text": "I use BibTeX for managing citations in LaTeX. It places them in order and allows easy reference to them and the authors etc.",
+              "author": "atomz27",
+              "created": 1637006785,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

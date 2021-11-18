@@ -1,0 +1,38 @@
+{
+  "sid": "qw287b",
+  "link": "/r/GradSchool/comments/qw287b/just_found_a_bug_in_my_code_months_into_my/",
+  "title:": "Just found a bug in my code months into my project, after many weeks worth of data collected.",
+  "text": "Now I have to re-gather literally all of my simulation data. \n\nHope you all are doing better!",
+  "author": "UnrankedRedditor",
+  "created": 1637164346,
+  "updated": 1637182611,
+  "over_18": false,
+  "upvotes": 21,
+  "upvote_ratio": 0.9,
+  "comments": {
+    "hl0826v": {
+      "link": "/r/GradSchool/comments/qw287b/just_found_a_bug_in_my_code_months_into_my/hl0826v/",
+      "text": "Happens to the best! First are you sure all data is useless? Could some maybe be used as a negative baseline? Second, you might want to look into test-driven development - imo this is really under appreciated in academia, but might help prevent this happening again in the future (or at least maybe reduce the likelihood). Also looks good on your CV should you ever transition to industry (at least so I have been told)",
+      "author": "Hnriek",
+      "created": 1637167518,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hl00kie": {
+      "link": "/r/GradSchool/comments/qw287b/just_found_a_bug_in_my_code_months_into_my/hl00kie/",
+      "text": "Ah story of my work for the first 2 years! It does get better as you go on, but the bugs get stupider. At least my early bugs were legitimately difficult problems to solve, not just me forgetting 2+2 or something lol",
+      "author": "officially_anxious",
+      "created": 1637164531,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hl0ozwq": {
+      "link": "/r/GradSchool/comments/qw287b/just_found_a_bug_in_my_code_months_into_my/hl0ozwq/",
+      "text": "I recently discovered something like this partway through the review process for a submitted manuscript. Thankfully, the major conclusions were not changed, and we were able to address the issue in edits. \n\nA few comforting things: \n\nThis happens to everyone. What defines you as a researcher is not whether you make mistakes, but how you react to them. What can you learn? Is there a way you can incorporate a check on future scripts to avoid this?\n\nYou've done the right thing by acknowledging the data is flawed and starting again. It's one thing to lose time, it's quite another to lose a reputation.\n\nIt's a marathon, not a sprint. A few weeks is nothing in the grand scheme of things.",
+      "author": "ThePeregrine_87",
+      "created": 1637174101,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

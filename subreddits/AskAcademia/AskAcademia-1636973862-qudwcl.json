@@ -1,0 +1,88 @@
+{
+  "sid": "qudwcl",
+  "link": "/r/AskAcademia/comments/qudwcl/r_or_python_for_marketing/",
+  "title:": "R or Python for marketing?",
+  "text": "Hi all,\n\nI\u2019ll be applying for marketing PhD programs in about a year or so, and want to be as prepared as possible. I\u2019ve been advised that proficiency in a programming language such as R or Python is highly advantageous to one\u2019s PhD application.\n\nFor those in the marketing field (either CB or quant), what programming language would you recommend I develop proficiency as a matter of priority? R, Python, or something else?\n\nNote that I am already proficient in SPSS, NVivo, and Sawtooth software (not programming languages, I know).",
+  "author": "Old_Border_1446",
+  "created": 1636973862,
+  "updated": 1637180895,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.6,
+  "comments": {
+    "hkpir2x": {
+      "link": "/r/AskAcademia/comments/qudwcl/r_or_python_for_marketing/hkpir2x/",
+      "text": "I believe Python has greater reach \n\nIt is often a prerequired skills if you are entering any coding or stat class and is always well seen on a CV",
+      "author": "Bennovgb_belgium",
+      "created": 1636975911,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hkpj35b": {
+      "link": "/r/AskAcademia/comments/qudwcl/r_or_python_for_marketing/hkpj35b/",
+      "text": "Python is a generalist programming language and R is a statistical one. It helps to know both, but I'd recommend Python firstly as it gives you wider avenues. SQL is also very helpful when dealing with databases.",
+      "author": "MFA_Nay",
+      "created": 1636976166,
+      "upvotes": 5,
+      "replies": {
+        "hkpk1uq": {
+          "link": "/r/AskAcademia/comments/qudwcl/r_or_python_for_marketing/hkpk1uq/",
+          "text": "That\u2019s great advice, thank you.",
+          "author": "Old_Border_1446",
+          "created": 1636976889,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hkqk3io": {
+      "link": "/r/AskAcademia/comments/qudwcl/r_or_python_for_marketing/hkqk3io/",
+      "text": "Either will be fine in the academic environment based on what I\u2019ve seen.  If you\u2019ll be doing more econ-focused stuff, R may be better because many of the newer econometric methods have an R package (though STATA still seems to reign supreme in econ) but I see less on the Python side.\n\nDon\u2019t stress too much about it though.  If you have a general familiarity with one or the other, you\u2019ll pick up the other one if there\u2019s a need.",
+      "author": "Decisionsota",
+      "created": 1636994733,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hkpkqzv": {
+      "link": "/r/AskAcademia/comments/qudwcl/r_or_python_for_marketing/hkpkqzv/",
+      "text": "Coming from only SPSS, I had an easier time immediately with learning Python than R. I\u2019d also recommend Python for broader applicability.",
+      "author": "Starshapedsand",
+      "created": 1636977385,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hkqmf8u": {
+      "link": "/r/AskAcademia/comments/qudwcl/r_or_python_for_marketing/hkqmf8u/",
+      "text": "R is probably more relevant for you, but Python is much more useful for literally everything except statistics.  Big fan of python over here",
+      "author": "tylerdoescheme",
+      "created": 1636995646,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hkph7m6": {
+      "link": "/r/AskAcademia/comments/qudwcl/r_or_python_for_marketing/hkph7m6/",
+      "text": "why not both?",
+      "author": "patriotto",
+      "created": 1636974692,
+      "upvotes": 0,
+      "replies": {
+        "hkphovl": {
+          "link": "/r/AskAcademia/comments/qudwcl/r_or_python_for_marketing/hkphovl/",
+          "text": "I intend to. But between completing my MBA, Master of Marketing, Graduate Diploma in statistics, several research projects, TA\u2019ing, authoring several teaching case studies and (soon) studying for the GRE exam - I\u2019m a bit short on time. So I\u2019m interested in which of the two (or others) are more widely used in academic marketing so that I can prioritise my efforts.",
+          "author": "Old_Border_1446",
+          "created": 1636975082,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hkte7th": {
+      "link": "/r/AskAcademia/comments/qudwcl/r_or_python_for_marketing/hkte7th/",
+      "text": "There is a large amount of overlap between the two languages. What you can do in R, you can do in python and vice versa. The biggest difference is the ecosystem. R\u2019s ecosystem is better for data visualization and statistical applications.",
+      "author": "the42up",
+      "created": 1637037870,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

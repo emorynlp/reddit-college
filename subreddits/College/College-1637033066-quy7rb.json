@@ -1,0 +1,40 @@
+{
+  "sid": "quy7rb",
+  "link": "/r/college/comments/quy7rb/need_advice_on_how_to_proceed_with_terrible_grad/",
+  "title:": "Need advice on how to proceed with terrible grad professor",
+  "text": "Ok so I\u2019m in a 100% online grad program and this class I\u2019m taking has a good professor but his tests are criminal. They are not difficult but almost impossible to complete without \u201ccheating\u201d. So for us to take tests we have to use the Respondus browser which locks your computer out from any and everything but the test. He will have questions like \u201cusing the following data calculate X\u201d, AND NOT PUT THE DATA! Like actually not put the table, chart, or data. So I\u2019ve had to open another laptop and open up the book or homework and find the charts and etc. \n\nNow I\u2019m not finding the answer just the info I need to solve the problem. But I am \u201ctechnically\u201d cheating. How can I bring this up to him or someone else at the college without incriminating myself. I just took the final which was impossible even with \u201ccheating\u201d. He data didn\u2019t even pertain to the question nor was it in any book, PowerPoint, or homework. I literally guessed and somehow got 6/7 guesses right worth 56% of the final. \n\nThis seems extremely unfair and just irresponsible. I know other students HAVE to be cheating or everyone would fail. Am I making a mountain out of a molehill here? The class is over now and I made a B so should I just keep my mouth shut?",
+  "author": "Cornato",
+  "created": 1637033066,
+  "updated": 1637181463,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.66,
+  "comments": {
+    "hkup1tl": {
+      "link": "/r/college/comments/quy7rb/need_advice_on_how_to_proceed_with_terrible_grad/hkup1tl/",
+      "text": "> He will have questions like \u201cusing the following data calculate X\u201d, AND NOT PUT THE DATA!\n\nYou don't actually need to cheat. You can write a note saying something like \"there is no data here, but suppose there exists a set of points {x_1, x_2, ..., x_n}. Then the solution is...\" and then you can just show how you'd calculate the solution.\n\nThis shows the professor that you know how to answer the problem.\n\nNot having data is no excuse to cheat. If you don't have it, then you discuss it with the professor after the exam and ask for points back. Professors aren't idiots-- they know that they can't hold a student accountable for using data that's not provided but that they claimed to provide. \n\n> I literally guessed and somehow got 6/7 guesses right worth 56% of the final.\n\nAre you sure that no one notified the professor and that he didn't give free points to everyone? This same situation has happened to me and the prof just gave everyone full credit for those questions.",
+      "author": "HumanDrinkingTea",
+      "created": 1637070459,
+      "upvotes": 2,
+      "replies": {
+        "hkwc8ac": {
+          "link": "/r/college/comments/quy7rb/need_advice_on_how_to_proceed_with_terrible_grad/hkwc8ac/",
+          "text": "It\u2019s an online exam. No writing in margins or notes. It\u2019s not a simple math problem. It requires a large table with multiple values. Plus since it\u2019s online there are only 4 possible answers. I can correctly guess with at least a 25% chance of getting it right. He doesn\u2019t grade the test or even check it.",
+          "author": "Cornato",
+          "created": 1637094556,
+          "upvotes": 1,
+          "replies": {
+            "hkwwujp": {
+              "link": "/r/college/comments/quy7rb/need_advice_on_how_to_proceed_with_terrible_grad/hkwwujp/",
+              "text": "> He doesn\u2019t grade the test or even check it.\n\nThis doesn't mean you can't contact him after the fact.\n\n> It\u2019s not a simple math problem.\n\nWhile I get what you're saying (can't write in stuff in on an online multiple choice test-- fair enough), I don't get what not being a \"simple\" problem has to do with it. It's fairly normal for mathematicians to generalize what they'd do with data or a set of something (complicated set or not) even if they don't have actual *values* available for that set.\n\nRegardless, sounds like a shitty class. One of my pet peeves is shitty online math classes, and they're ubiquitous these days. Glad I took those classes before online learning was much of a thing.",
+              "author": "HumanDrinkingTea",
+              "created": 1637102780,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
