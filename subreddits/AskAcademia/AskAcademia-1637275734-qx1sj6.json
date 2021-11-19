@@ -1,0 +1,73 @@
+{
+  "sid": "qx1sj6",
+  "link": "/r/AskAcademia/comments/qx1sj6/what_do_you_write_into_your_footnotes/",
+  "title:": "What do you write into your footnotes",
+  "text": "Hello AksAcademia Community,\n\nI'm curious how complicated the footnotes of a scientific paper can get? In more detail, what elements do they usually contain? Do they just contain plain text, do they contain formatting (bold, italic), do they sometimes contain references, cites, equations, ...?\n\nIf you are curious why I'm asking this. It is because I'm fine-tuning the footnote feature of [https://www.monsterwriter.app/](https://www.monsterwriter.app/). Your opinion would be very welcome :)",
+  "author": "WolfOliver",
+  "created": 1637275734,
+  "updated": 1637353667,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hl6q76m": {
+      "link": "/r/AskAcademia/comments/qx1sj6/what_do_you_write_into_your_footnotes/hl6q76m/",
+      "text": "All of the above. Theoretically anything you can put into the body of a text should also be able to go into footnotes (except images, and maybe tables, which would be placed as figures or plates, but they may do in other disciplines than mine\u2026)",
+      "author": "EllieMRoberts",
+      "created": 1637278695,
+      "upvotes": 2,
+      "replies": {
+        "hl8968j": {
+          "link": "/r/AskAcademia/comments/qx1sj6/what_do_you_write_into_your_footnotes/hl8968j/",
+          "text": "Thank you for your feedback :)",
+          "author": "WolfOliver",
+          "created": 1637306900,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hl736th": {
+      "link": "/r/AskAcademia/comments/qx1sj6/what_do_you_write_into_your_footnotes/hl736th/",
+      "text": "In the context of scientific publishing, footnotes should certainly be formattable and should accommodate references, citations, links, and math (with correct numbering based on where the footnote symbol appears in the main text). Perhaps you could draw the line at inline figures and tables if that's an enormous effort\u2014although it would be nice to offer nearly every feature that's available in the main text (headings don't generally need to be supported).",
+      "author": "Chemomechanics",
+      "created": 1637284648,
+      "upvotes": 1,
+      "replies": {
+        "hl89646": {
+          "link": "/r/AskAcademia/comments/qx1sj6/what_do_you_write_into_your_footnotes/hl89646/",
+          "text": "Thank you for your feedback :)",
+          "author": "WolfOliver",
+          "created": 1637306898,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hl8fkcj": {
+          "link": "/r/AskAcademia/comments/qx1sj6/what_do_you_write_into_your_footnotes/hl8fkcj/",
+          "text": "Do you need line breaks in footnotes?",
+          "author": "WolfOliver",
+          "created": 1637311878,
+          "upvotes": 1,
+          "replies": {
+            "hl9ldpi": {
+              "link": "/r/AskAcademia/comments/qx1sj6/what_do_you_write_into_your_footnotes/hl9ldpi/",
+              "text": "In the sense of allowing multiple paragraphs? Yes. But please let me know if I\u2019ve misunderstood.",
+              "author": "Chemomechanics",
+              "created": 1637336770,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hl8jiyh": {
+      "link": "/r/AskAcademia/comments/qx1sj6/what_do_you_write_into_your_footnotes/hl8jiyh/",
+      "text": "Linguist here; my footnotes usually contain some clarifications or additional information. If necessary they might contain examples (as sparsely as possible) with a different numeration from the body. Like, examples in the body have Arabic numerals and those in the footnotes have Roman ones...",
+      "author": "Normal_Kaleidoscope",
+      "created": 1637315258,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

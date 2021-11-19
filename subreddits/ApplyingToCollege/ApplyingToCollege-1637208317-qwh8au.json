@@ -1,0 +1,72 @@
+{
+  "sid": "qwh8au",
+  "link": "/r/ApplyingToCollege/comments/qwh8au/alternate_majors_for_data_science/",
+  "title:": "Alternate majors for data science",
+  "text": "Hi everyone! I am currently interested in the field of data science, but not all schools offer the major. Should I go for Statistics instead? What about a Statistics concentration in Applied Mathematics? Truthfully, I don't like math that much. Especially non-statistical math such as calculus and linear algebra, so I'm really hesitant to get a whole-ass mathematics degree. Because of this, I've been really leaning towards just going for computer science for my major and going data science for my masters, or picking up some kind of minor in statistics while I'm an undergrad, but I'm worried that employers won't take me very seriously if I don't have a strong background in statistics. \n\nOn a similar note, I've been seeing many people who get statistics or data science degrees become actuaries. Does this mean that the majority of the field is just actuarial work and I should be leaning into that in order to actually find work? \n\nSorry for all the questions but I really have a lot on my mind and it feels like I'm at a crossroads for my major choice.",
+  "author": "staplesuponstaples",
+  "created": 1637208317,
+  "updated": 1637353444,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hl30b7i": {
+      "link": "/r/ApplyingToCollege/comments/qwh8au/alternate_majors_for_data_science/hl30b7i/",
+      "text": "Statistics and if you like biology, bioinformatics. Data science majors we hire lead analytics and insights work, work with CS and IT to develop solutions, lead research, etc. There\u2019s more out there if you don\u2019t want to do actuary work.",
+      "author": "TwoSuns168",
+      "created": 1637210576,
+      "upvotes": 2,
+      "replies": {
+        "hl35g1o": {
+          "link": "/r/ApplyingToCollege/comments/qwh8au/alternate_majors_for_data_science/hl35g1o/",
+          "text": "That's good to hear. I'm not exactly averse to actuary work, but it would be good to know if that's 90% of the jobs that are out there so I can prepare accordingly. Looks like it's not though, which is good news.",
+          "author": "staplesuponstaples",
+          "created": 1637213502,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hl33rtc": {
+      "link": "/r/ApplyingToCollege/comments/qwh8au/alternate_majors_for_data_science/hl33rtc/",
+      "text": "Statistics is one very applicable area. The other would be operations research/industrial engineering/management *science*/systems engineering. Some schools even put it in with systems engineering. The name of such a department varies widely across schools: IEOR at Columbia and Berkeley; OR/IE at Cornell, IEMS at Northwestern; MS&E at Stanford; ISyE at GATech and ISE at UIUC. BTW: That \"science\" part is crucial; just plain \"management\" is business and not quantitative.\n\nStats focuses heavily on understanding the data; OR/IE/MS/SE focuses heavily on stochastic modeling and optimization (which is critical to working with data and fitting models, understanding constraints and their effects, etc.). Both focus on deriving useful insights from data.\n\nI know: CS departments are trying to milk the data science cow. Hard pass. Most CS curricula I have seen are quantitatively insufficient; and, the CS research I've seen focuses too much on algorithms and performance of edge cases versus solving a useful problem and deriving insight from the data.  Hell, Andrew Ng's Stanford course (and book!) do not even mention statistical significance. It's damn hard to make and defend decisions using a model when you cannot assess if the results are probably just noise.",
+      "author": "minimuminfeasibility",
+      "created": 1637212516,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hl3001a": {
+      "link": "/r/ApplyingToCollege/comments/qwh8au/alternate_majors_for_data_science/hl3001a/",
+      "text": "CS or Statistics is your best bet",
+      "author": "rverts",
+      "created": 1637210415,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hl375bl": {
+      "link": "/r/ApplyingToCollege/comments/qwh8au/alternate_majors_for_data_science/hl375bl/",
+      "text": "Here is a good way to check majors https://colleges.roundpier.com",
+      "author": "redneck198412",
+      "created": 1637214535,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hl3awcd": {
+      "link": "/r/ApplyingToCollege/comments/qwh8au/alternate_majors_for_data_science/hl3awcd/",
+      "text": "Data science undergrad degree is not for those who don\u2019t like math and statistics. You will not be happy. Sure, there are lot of data scientists who have degrees in other disciplines and done couple of boot camps of machine learning. But they are more \u2018using\u2019 libraries and toolkits and not exactly developing new technologies.",
+      "author": "svday",
+      "created": 1637217036,
+      "upvotes": 1,
+      "replies": {
+        "hl3hlpe": {
+          "link": "/r/ApplyingToCollege/comments/qwh8au/alternate_majors_for_data_science/hl3hlpe/",
+          "text": "It's not that I don't like statistics (I do!), it's that I don't like most of the other mathematics fields. If I do an Applied Math major with a concentration in Stats, then I'll end up having to take a lot of non-statistics math. I can deal with the basic calculus and linear algebra and everything, I just don't want to do any more than that.",
+          "author": "staplesuponstaples",
+          "created": 1637221962,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

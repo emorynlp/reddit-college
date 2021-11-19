@@ -1,0 +1,153 @@
+{
+  "sid": "qwqh4c",
+  "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/",
+  "title:": "How to add R code to thesis",
+  "text": "I have a small amount of code I wrote in RStudio that my supervisors want me to include. Does anyone have any recommendations on how to include R code as part of a larger word document?\n\nETA: Thanks SO much for all the helpful suggestions! I\u2019ve managed to crack RMarkdown after these helpful comments and will use that to put into my thesis :)",
+  "author": "jenasdfghjkl",
+  "created": 1637244372,
+  "updated": 1637353668,
+  "over_18": false,
+  "upvotes": 13,
+  "upvote_ratio": 0.88,
+  "comments": {
+    "hl4f6ms": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl4f6ms/",
+      "text": "You could use R Markdown and export that as a word document. You could then copy and paste that into your thesis. If I remember correctly, it comes out in a grey-ish type of format and in the font that R uses so its easy to distinguish from your overall thesis document. If you'd like some help you're more than welcome to sboot me a DM!",
+      "author": "kykersh13",
+      "created": 1637245072,
+      "upvotes": 37,
+      "replies": {
+        "hl864be": {
+          "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl864be/",
+          "text": "Thank you!!! I saw your comment and learned it and spent the evening creating it! Looks great thank you so much \ud83d\ude03\ud83d\ude03",
+          "author": "jenasdfghjkl",
+          "created": 1637304720,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hl56gk8": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl56gk8/",
+      "text": "If it's particularly small (on the order of ~100 LoC), just chuck it in an appendix and refer to it in text. If it's larger, put it in a GitHub / Bitbucket repo and link it.",
+      "author": "--MCMC--",
+      "created": 1637256252,
+      "upvotes": 32,
+      "replies": {
+        "hl5dme8": {
+          "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl5dme8/",
+          "text": "This",
+          "author": "Nematodinium",
+          "created": 1637259034,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "hl6mm2d": {
+          "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl6mm2d/",
+          "text": "This is exactly the answer I was going to give.",
+          "author": "NosemaCeranae",
+          "created": 1637277122,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "hl865tz": {
+          "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl865tz/",
+          "text": "Thanks guys!! Will also upload to GitHub",
+          "author": "jenasdfghjkl",
+          "created": 1637304750,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hl7xauj": {
+          "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl7xauj/",
+          "text": "I'd suggest that even if it's small enough to print, you should also upload and link it.",
+          "author": "BarackTrudeau",
+          "created": 1637299150,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hl50tat": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl50tat/",
+      "text": "Are you using Word or LaTeX to write your thesis?\n\nIf latex, there are some pretty capable style sheets that you can use to insert code into a document (of really any language, including R). Often, they're as simple as adding your code file itself to your project, then using a function to call the file, denote the language, and the lines you want to include.",
+      "author": "McFlyParadox",
+      "created": 1637254039,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hl54k51": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl54k51/",
+      "text": "Does it need to be in the text of the dissertation? You probably have an institutional repository managed by your library - you could deposit the code there and cite it in your dissertation.",
+      "author": "SaltNVinegarNips",
+      "created": 1637255505,
+      "upvotes": 5,
+      "replies": {
+        "hl5h0qa": {
+          "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl5h0qa/",
+          "text": "I have never heard of this. Very cool!",
+          "author": "arthurdentdenmark",
+          "created": 1637260360,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hl5ew8f": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl5ew8f/",
+      "text": "Write your thesis in LaTeX, and use the minted package.\n\nOverleaf has good support for LaTeX beginners.",
+      "author": "TrafficScales",
+      "created": 1637259533,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hl5cmxg": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl5cmxg/",
+      "text": "Use R markdown and then add it to the appendix.",
+      "author": "14kanthropologist",
+      "created": 1637258650,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hl5gvw8": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl5gvw8/",
+      "text": "If your code counts as a scientific contribution, I remember that some journals allow upload of code as additions to your paper, which is amazing! Unfortunately, I don't have any experience with this personally, but my old university department held some nice inspiring tutorials on the topic.",
+      "author": "arthurdentdenmark",
+      "created": 1637260307,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hl4tur0": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl4tur0/",
+      "text": "How small? how many pages?",
+      "author": "apple-masher",
+      "created": 1637251278,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hl598v1": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl598v1/",
+      "text": "R markdown is probably the best way, but you could check out this tool: https://carbon.now.sh/",
+      "author": "yeezypeasy",
+      "created": 1637257334,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hl6pe62": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl6pe62/",
+      "text": "If you want to embed directly into the word doc, you can use RMarkdown to compile marked-up code to a word document and then copy-paste into your thesis doc",
+      "author": "queue-dodge-warning",
+      "created": 1637278338,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hl5mbcd": {
+      "link": "/r/AskAcademia/comments/qwqh4c/how_to_add_r_code_to_thesis/hl5mbcd/",
+      "text": "Get a copy of MLA 9th edition and light it like a smudge stick. Waft this around the air intake of your typing device and the code will appear as required. Also, all your references will be rendered perfect. \n\n/s",
+      "author": "AccomplishedTart8089",
+      "created": 1637262453,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

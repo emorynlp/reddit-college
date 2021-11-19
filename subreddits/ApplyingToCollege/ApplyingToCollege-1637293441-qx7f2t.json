@@ -1,0 +1,81 @@
+{
+  "sid": "qx7f2t",
+  "link": "/r/ApplyingToCollege/comments/qx7f2t/data_science_like_majors_or_alternatives/",
+  "title:": "Data Science like majors or alternatives?",
+  "text": "Hey Everyone!\nSo quick background info; I am currently applying to universities at the moment and I would say less than half of those schools have Data Science as a major. I would like to know what other majors are similar or would be a good alternative to data science. I know computer science intertwines in some areas, applied mathematics seems somewhat similar. Is there any other major you all know about or think would also be a good fit?",
+  "author": "mchlpchc",
+  "created": 1637293441,
+  "updated": 1637352981,
+  "over_18": false,
+  "upvotes": 8,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hl7nt8z": {
+      "link": "/r/ApplyingToCollege/comments/qx7f2t/data_science_like_majors_or_alternatives/hl7nt8z/",
+      "text": "Statistics. Many of the \"machine learning\" techniques out there are just rebranded statistics (or underperform vs statistical methods). Then operations research/industrial engineering/management *science* (not just plain management) or some selection of those. Then applied math. Then CS. CS is great for the algorithmic part of data science and awful on interpreting the results and assessing the relevance/significance.",
+      "author": "minimuminfeasibility",
+      "created": 1637294146,
+      "upvotes": 8,
+      "replies": {
+        "hl86aa6": {
+          "link": "/r/ApplyingToCollege/comments/qx7f2t/data_science_like_majors_or_alternatives/hl86aa6/",
+          "text": "Absolutely this, while not in DS myself, my program has talked about it a bit as we get a lot of students through, and I TA one of the classes that many of them take (Remote Sensing) and supervise our GIS lab. \n\nA huge issue we see is that a lot of DS students are great with the methods, but few know how to apply them to real-world applications.\n\nIn other words, I would recommend thinking about *what* you want to apply the methods to as either a minor, or even a major with a minor in DS, CS, or Stats. Approaches based purely on algorithmic knowledge often result in tunnel vision.",
+          "author": "the_Q_spice",
+          "created": 1637304839,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hl7nlbo": {
+      "link": "/r/ApplyingToCollege/comments/qx7f2t/data_science_like_majors_or_alternatives/hl7nlbo/",
+      "text": "Statistics is probably the most widely available.  Operations research or systems engineering aren't too far off either - fields that are based in mathematical analysis of data.",
+      "author": "BrawnyAcolyte",
+      "created": 1637294040,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hl7nrqz": {
+      "link": "/r/ApplyingToCollege/comments/qx7f2t/data_science_like_majors_or_alternatives/hl7nrqz/",
+      "text": "Data Science is a relatively new major, so not all schools offer it yet. But check out the details of the CS programs at such schools, because many of them offer specialisations or specific courses in this field.",
+      "author": "prsehgal",
+      "created": 1637294125,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hl7wnpb": {
+      "link": "/r/ApplyingToCollege/comments/qx7f2t/data_science_like_majors_or_alternatives/hl7wnpb/",
+      "text": "Stats, CS, CS + Stats(UIUC), information science, systems engineering, and industrial engineering. Those last two are more general but have relatively strong DS concentrations.",
+      "author": "TritonTheCat",
+      "created": 1637298778,
+      "upvotes": 1,
+      "replies": {
+        "hl8219b": {
+          "link": "/r/ApplyingToCollege/comments/qx7f2t/data_science_like_majors_or_alternatives/hl8219b/",
+          "text": "CS+stats no longer exists",
+          "author": "InertiaOfGravity",
+          "created": 1637301998,
+          "upvotes": 1,
+          "replies": {
+            "hl97nan": {
+              "link": "/r/ApplyingToCollege/comments/qx7f2t/data_science_like_majors_or_alternatives/hl97nan/",
+              "text": "Looks like it still exists https://myillini.illinois.edu/Programs/MajorDetail/10KV0464BSLA",
+              "author": "TritonTheCat",
+              "created": 1637330752,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "hlajt93": {
+              "link": "/r/ApplyingToCollege/comments/qx7f2t/data_science_like_majors_or_alternatives/hlajt93/",
+              "text": "It does, I had the option to apply for it when I submitted my app?",
+              "author": "Ok-Outlandishness799",
+              "created": 1637349978,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
