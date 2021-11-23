@@ -5,7 +5,7 @@
   "text": "What documents do I need to get, what do they need to show? Monthly income? Anything else? Thanks!",
   "author": "snaiii",
   "created": 1636637530,
-  "updated": 1636652779,
+  "updated": 1637364943,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -16,7 +16,34 @@
       "author": "Ok-Outlandishness799",
       "created": 1636641255,
       "upvotes": 2,
-      "replies": {}
+      "replies": {
+        "hk8cegz": {
+          "link": "/r/ApplyingToCollege/comments/qrle0i/northeastern_requires_a_financial_declaration/hk8cegz/",
+          "text": "Can I show a monthly income?",
+          "author": "snaiii",
+          "created": 1636654869,
+          "upvotes": 1,
+          "replies": {
+            "hk8mjij": {
+              "link": "/r/ApplyingToCollege/comments/qrle0i/northeastern_requires_a_financial_declaration/hk8mjij/",
+              "text": "I'm not sure, there's a pdf of the guidelines that neu allows on the portal when you submit the financial proof. If it doesn't say, maybe email them?",
+              "author": "Ok-Outlandishness799",
+              "created": 1636658954,
+              "upvotes": 1,
+              "replies": {
+                "hk8o32c": {
+                  "link": "/r/ApplyingToCollege/comments/qrle0i/northeastern_requires_a_financial_declaration/hk8o32c/",
+                  "text": "I\u2019ll try hopefully I have time, deadline closing in and it\u2019s weekend, thanks!",
+                  "author": "snaiii",
+                  "created": 1636659590,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }

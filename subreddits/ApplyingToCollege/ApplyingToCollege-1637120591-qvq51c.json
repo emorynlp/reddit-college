@@ -5,9 +5,36 @@
   "text": "title",
   "author": "Informal-Issue",
   "created": 1637120591,
-  "updated": 1637179105,
+  "updated": 1637378260,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
-  "comments": {}
+  "comments": {
+    "hl89yj2": {
+      "link": "/r/ApplyingToCollege/comments/qvq51c/northeastern_portal_not_working/hl89yj2/",
+      "text": "Ea?",
+      "author": "yummymangoyum",
+      "created": 1637307488,
+      "upvotes": 1,
+      "replies": {
+        "hlbpb10": {
+          "link": "/r/ApplyingToCollege/comments/qvq51c/northeastern_portal_not_working/hlbpb10/",
+          "text": "yep, does that have something to do with it?",
+          "author": "Informal-Issue",
+          "created": 1637366679,
+          "upvotes": 1,
+          "replies": {
+            "hlbrm03": {
+              "link": "/r/ApplyingToCollege/comments/qvq51c/northeastern_portal_not_working/hlbrm03/",
+              "text": "Idk",
+              "author": "yummymangoyum",
+              "created": 1637367699,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
 }

@@ -5,7 +5,7 @@
   "text": "I messed up page numbers in my research paper. How bad is this?",
   "author": "Lobster_Live",
   "created": 1636600252,
-  "updated": 1636652826,
+  "updated": 1637371111,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
@@ -23,7 +23,25 @@
           "author": "Lobster_Live",
           "created": 1636632256,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hk8amk6": {
+              "link": "/r/ApplyingToCollege/comments/qrbfja/regeneron/hk8amk6/",
+              "text": "Omg shut up",
+              "author": "tuliwuli",
+              "created": 1636654159,
+              "upvotes": 1,
+              "replies": {
+                "hk8hxdo": {
+                  "link": "/r/ApplyingToCollege/comments/qrbfja/regeneron/hk8hxdo/",
+                  "text": "What?",
+                  "author": "Lobster_Live",
+                  "created": 1636657074,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     },

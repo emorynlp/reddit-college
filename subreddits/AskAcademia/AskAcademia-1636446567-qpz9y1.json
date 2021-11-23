@@ -5,7 +5,7 @@
   "text": "Hi,\n\nThis is my 3rd year into PhD and for the past couple of years, I have found myself struggling intensely with feelings of being 'not good enough' and feeling like I will suck at something important and will end up disappointing people (professors and colleagues) who I look up to- basically crippling self-doubt and an intense fear of failure. It was very important for me to be a hard worker who is good at what she does- given how much importance I attach to my work and how much my self-worth is linked to my performance.\n\nSome time into the program, I felt myself burning out and not much later did I realize that 'hustling hard constantly' is not the only way to succeed and also that we do not succeed always. Initially I would find it hard to take any criticism and rejection, despite knowing how it was not about me as a person, but just stuff I need to learn about research and life in general.\n\nThese experiences made me curious about whether other people in research have similar experiences. With this inspiration, I was able to start a study regarding **'how do people involved in research perceive failure'.** So far, I have collected some data and it has been a very enriching and cathartic experience being able to interview and get to know people with similar experiences.\n\nIf you could relate to what I am talking about or if you find it interesting, please consider taking a survey for my study here: [https://iima.au1.qualtrics.com/jfe/form/SV\\_dbNQixHmTw3TZwq](https://iima.au1.qualtrics.com/jfe/form/SV_dbNQixHmTw3TZwq). At the end of the survey, you will receive an option to participate in an interview. Please do consent if you find it interesting wish to support my research.\n\nIf you have any questions, you can drop me a comment/message. I will get back to you.",
   "author": "ryanagram",
   "created": 1636446567,
-  "updated": 1636654665,
+  "updated": 1637383560,
   "over_18": false,
   "upvotes": 15,
   "upvote_ratio": 0.8,
@@ -23,7 +23,25 @@
           "author": "ryanagram",
           "created": 1636621977,
           "upvotes": 3,
-          "replies": {}
+          "replies": {
+            "hk8sog1": {
+              "link": "/r/AskAcademia/comments/qpz9y1/how_do_you_perceive_failure_as_a_researcher/hk8sog1/",
+              "text": "Thanks for responding. I don't want to sound difficult  but you ask for their signature, which is their name.  Obviously people can choose not put their real names down but why do you need initials/signatures etc? What exactly is the purpose of self identification? Your survey platform should allow the data management you need.",
+              "author": "ACatGod",
+              "created": 1636661474,
+              "upvotes": 2,
+              "replies": {
+                "hkaofq3": {
+                  "link": "/r/AskAcademia/comments/qpz9y1/how_do_you_perceive_failure_as_a_researcher/hkaofq3/",
+                  "text": "I see where you are coming from. Even though I mention \"If you have read the above information and consent to participate in the survey, please initial below\" (and not put your signature).\" **as a way to ensure I have the informed consent of the participants**, I do realize how the actual field for initialing prompts  \"sign here.\" That can create confusion, yes. \n\nI have gone ahead and made that change. :) \n\nFurther, I will discuss this with my supervisor and discuss how much of an issue it creates and whether there are any other aspects of it which I do not understand at the moment.",
+                  "author": "ryanagram",
+                  "created": 1636692432,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -41,6 +59,41 @@
           "created": 1636622001,
           "upvotes": 1,
           "replies": {}
+        }
+      }
+    },
+    "hk8p22m": {
+      "link": "/r/AskAcademia/comments/qpz9y1/how_do_you_perceive_failure_as_a_researcher/hk8p22m/",
+      "text": "Minor quibble, and this might be just me but I find a lot of the phrasing to be cumbersome to parse, for instance \"when I am failing, it upsets important others\", I had to mull over this before I figured it probably meant significant others, or maybe I misunderstood. And again at, \"when I am failing I expect to be criticised by important others\".\n\nAlso to add onto what u/ACatGod mentioned about names and initials and your response about helping data management, but why instituition/organization names?",
+      "author": "wetcogbag",
+      "created": 1636659992,
+      "upvotes": 2,
+      "replies": {
+        "hkap172": {
+          "link": "/r/AskAcademia/comments/qpz9y1/how_do_you_perceive_failure_as_a_researcher/hkap172/",
+          "text": "Hi, u/wetcogbag,\n\nThanks for reaching out. The phrasing is taken from a tested and validated scale for Fear of Failure (Conrad et al.), hence the verbiage is what they have documented. I have not made any changes while implementing the scale. However, I think what you are saying is valid. I will check with my supervisor and see how much of it can be moved around to sound simpler.   \n\n\nMy rationale to collect data about institutions/organizations is to be able to get a sense of the location/ academic context in which the researcher works.",
+          "author": "ryanagram",
+          "created": 1636692743,
+          "upvotes": 2,
+          "replies": {
+            "hkbftps": {
+              "link": "/r/AskAcademia/comments/qpz9y1/how_do_you_perceive_failure_as_a_researcher/hkbftps/",
+              "text": "Thank you for clarifying, I appreciate it.\n\nAnd yeah, trying to trim the wording to make it easier to parse might go a long way, especially if the participants are non-native English users.",
+              "author": "wetcogbag",
+              "created": 1636712902,
+              "upvotes": 2,
+              "replies": {
+                "hkbk2w2": {
+                  "link": "/r/AskAcademia/comments/qpz9y1/how_do_you_perceive_failure_as_a_researcher/hkbk2w2/",
+                  "text": "That does make sense. I will check and make changes to provide a good survey experience to participants who choose to spend their time on this. :)",
+                  "author": "ryanagram",
+                  "created": 1636716336,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     }

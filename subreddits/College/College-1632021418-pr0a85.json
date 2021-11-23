@@ -51,6 +51,50 @@
                           "created": 1632179119,
                           "upvotes": 1,
                           "replies": {}
+                        },
+                        "hkdmhcp": {
+                          "link": "/r/college/comments/pr0a85/is_it_possible_to_return_to_college_later_in_life/hkdmhcp/",
+                          "text": "Is it specifically because of the major of physics that it would be more limited?",
+                          "author": "Iviod00",
+                          "created": 1636750375,
+                          "upvotes": 1,
+                          "replies": {
+                            "hke3i86": {
+                              "link": "/r/college/comments/pr0a85/is_it_possible_to_return_to_college_later_in_life/hke3i86/",
+                              "text": "It's because most schools simply do not have options for obtaining a second bachelor's degree.",
+                              "author": "renebeca",
+                              "created": 1636757919,
+                              "upvotes": 1,
+                              "replies": {
+                                "hke6elt": {
+                                  "link": "/r/college/comments/pr0a85/is_it_possible_to_return_to_college_later_in_life/hke6elt/",
+                                  "text": "Ok. Is it still possible?",
+                                  "author": "Iviod00",
+                                  "created": 1636759273,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "hke7ho6": {
+                                      "link": "/r/college/comments/pr0a85/is_it_possible_to_return_to_college_later_in_life/hke7ho6/",
+                                      "text": "I'm not sure what you're asking. If the school doesn't allow people to attend for the purpose of earning a second BA/BS, then it's not possible for you to do it. You can Google \"college, US, second bachlor's\" to get a list of schools that DO allow you to do this.",
+                                      "author": "renebeca",
+                                      "created": 1636759776,
+                                      "upvotes": 1,
+                                      "replies": {
+                                        "hke7ksn": {
+                                          "link": "/r/college/comments/pr0a85/is_it_possible_to_return_to_college_later_in_life/hke7ksn/",
+                                          "text": "Ok. That was what I meant.",
+                                          "author": "Iviod00",
+                                          "created": 1636759817,
+                                          "upvotes": 1,
+                                          "replies": {}
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
                         }
                       }
                     }
@@ -63,5 +107,5 @@
       }
     }
   },
-  "updated": 1634054630
+  "updated": 1637395563
 }

@@ -5,7 +5,7 @@
   "text": "I haven't yet. My additional rec letter was sent on the 6th though. How about you guys?",
   "author": "vitamind_2000",
   "created": 1636419049,
-  "updated": 1636653574,
+  "updated": 1637375342,
   "over_18": false,
   "upvotes": 5,
   "upvote_ratio": 0.77,
@@ -155,7 +155,25 @@
                   "author": "IndicationOk2607",
                   "created": 1636606214,
                   "upvotes": 1,
-                  "replies": {}
+                  "replies": {
+                    "hkegz02": {
+                      "link": "/r/ApplyingToCollege/comments/qprszj/have_you_received_interview_request_from_yale/hkegz02/",
+                      "text": "where are you from?",
+                      "author": "sam_zhang2003",
+                      "created": 1636764312,
+                      "upvotes": 1,
+                      "replies": {
+                        "hkeoaha": {
+                          "link": "/r/ApplyingToCollege/comments/qprszj/have_you_received_interview_request_from_yale/hkeoaha/",
+                          "text": "Minnesota!",
+                          "author": "IndicationOk2607",
+                          "created": 1636767931,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }

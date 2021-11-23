@@ -5,7 +5,7 @@
   "text": "Hi all,\n\nHave any of you had to deal with a condescending student? How did you deal with it (or did you?)?\n\nI  (30F) have a student (19M) this semester who emails me frequently with questions that have always seemed to insinuate that I didn't know what I  was talking about. But I assumed I was being oversensitive or paranoid, so I have always answered him promptly and cheerfully. However, today,  the student got in a long back and forth with me (over email) about a basic statistical analysis in which he is FULLY incorrect, but has continued doubling down no matter what I say (or how many resources I  send him). Finally he wrote back something along the lines of \"fine I  still think it means xyz but I guess I just won't include how we got our results.\" To be clear, he literally added a new statistical test that is not part of the assignment, and makes no sense with the data.\n\nThe last email especially was honestly very rude, and I'm not sure how to proceed.\n\nI'm leaning towards just leaving it alone, since he apparently cares so much about having the last word, but I'm worried about grading his final paper if he continues to double down on this. Has anyone else encountered something like this, and what did you do?",
   "author": "sciencewendy",
   "created": 1637185966,
-  "updated": 1637353666,
+  "updated": 1637382459,
   "over_18": false,
   "upvotes": 309,
   "upvote_ratio": 0.98,
@@ -58,7 +58,16 @@
                               "author": "sheath2",
                               "created": 1637338441,
                               "upvotes": 1,
-                              "replies": {}
+                              "replies": {
+                                "hlc3j5t": {
+                                  "link": "/r/AskAcademia/comments/qw9xrs/ta_dealing_with_a_condescending_student/hlc3j5t/",
+                                  "text": "Yeah, fuck that. I wouldn't let the chair live that one down. I have my own business on the side my people come first when it comes to possible complaints.",
+                                  "author": "The_Start_Line",
+                                  "created": 1637373139,
+                                  "upvotes": 2,
+                                  "replies": {}
+                                }
+                              }
                             }
                           }
                         }
@@ -686,6 +695,14 @@
       "author": "MercutiaShiva",
       "created": 1637258082,
       "upvotes": 0,
+      "replies": {}
+    },
+    "hlbl5pg": {
+      "link": "/r/AskAcademia/comments/qw9xrs/ta_dealing_with_a_condescending_student/hlbl5pg/",
+      "text": "I would call this to the attention of the main professor of the class, and invite them to all further email conversations (cced them visibly in the emails). Then, just straightforward ignore his tantrum. E.g.: \"this is the correct way to do the test\"; \"no, it's not\"; \"it is, because such and such, supported by this; this is your grade on this\". Then invite the student to have further discussions about the subject with the main professor who set the curricula. In my experience, students usually think they can \"bully\" TA's into their whims, but are much more careful of what they say around the main professor.",
+      "author": "matthus800",
+      "created": 1637364883,
+      "upvotes": 1,
       "replies": {}
     }
   }

@@ -5,7 +5,7 @@
   "text": "A lot of students build school lists based on \"safety\" schools that aren't actually safe at all. E.g., UW's non-resident admissions rate is a 51%. Safe, right?\n\nWell, their non-resident CS admissions % is, [according to their own breakdowns](https://admit.washington.edu/apply/freshman/by-the-numbers/), 4%. Uh.\n\nI would really like to write a post for the community about the **actual** admissions rates for popular faux-safety CS (and potentially engineering) programs. I'm starting the research process but I figured that people on this sub probably have the sauce.\n\nSo if you want to contribute, please share the school name along with the general application rate and CS/Engineering rate, and your source! Thank you!\n\n**Others I can think of in this somewhat deceptive category**: Maryland College Park, Wisconsin Madison, Purdue, WPI / RPI, Umass Amherst.",
   "author": "McNeilAdmissions",
   "created": 1636669392,
-  "updated": 1636745317,
+  "updated": 1637356589,
   "over_18": false,
   "upvotes": 65,
   "upvote_ratio": 0.99,
@@ -23,7 +23,16 @@
           "author": "McNeilAdmissions",
           "created": 1636685735,
           "upvotes": 5,
-          "replies": {}
+          "replies": {
+            "hkf0k6t": {
+              "link": "/r/ApplyingToCollege/comments/qrwnhb/can_yall_help_me_assemble_the_actual_admissions/hkf0k6t/",
+              "text": "Agree about the others you named. A few notes --  \n(I should say that so far the only CS departments I've found nationwide that have undergraduate gender equity are CMU and Harvey Mudd; happy to be informed if there are other major university/college CS departments that have achieved equity that I don't know about)\n\n  \nU Maryland, some data:\n\nNew freshmen, total of 566 for fall of 2020 (female:138, male: 428)   \n[https://www.cs.umd.edu/diversity/reports/undergrad](https://www.cs.umd.edu/diversity/reports/undergrad)  \nOut of a total of CS undergrad enrollment of 3745 (Fall 2020)  \n[https://www.cs.umd.edu/diversity/reports/undergrad](https://www.cs.umd.edu/diversity/reports/undergrad)  \n350 women admitted into CS at UMD in spring 2020 (can perhaps predict some yield this way from the institutional research data above and inclusion/diversity report, below):  \n[https://inclusion.cs.umd.edu/sites/inclusion.cs.umd.edu/files/2019-2020%20I4C%20Annual%20Report.pdf](https://inclusion.cs.umd.edu/sites/inclusion.cs.umd.edu/files/2019-2020%20I4C%20Annual%20Report.pdf)  \nU Mass Amherst:  \n\u201cCollege of Information and Computer Science: CICS has an acceptance rate of about 25%\u201d  \n[https://www.umass.edu/archiveadmissions/student-blog/2019/competitive-majors-umass-amherst](https://www.umass.edu/archiveadmissions/student-blog/2019/competitive-majors-umass-amherst)  \nI\u2019m sure that admissions rates are lower/admissions bar is higher at U Michigan and Cornell as well, but impossible to pinpoint as they don\u2019t admit by major; both are similar as you can apply to either engineering or arts and sciences and then declare CS as major (comparisons below):  \n[https://cse.engin.umich.edu/academics/undergraduate/computer-science-lsa-vs-computer-science-engineering/](https://cse.engin.umich.edu/academics/undergraduate/computer-science-lsa-vs-computer-science-engineering/)  \n[https://www.cs.cornell.edu/undergrad/uadmis](https://www.cs.cornell.edu/undergrad/uadmis)",
+              "author": "DownwardFaSing",
+              "created": 1636774078,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
         },
         "hkb4c0u": {
           "link": "/r/ApplyingToCollege/comments/qrwnhb/can_yall_help_me_assemble_the_actual_admissions/hkb4c0u/",

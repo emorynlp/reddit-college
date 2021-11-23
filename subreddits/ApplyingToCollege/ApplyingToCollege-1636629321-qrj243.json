@@ -5,7 +5,7 @@
   "text": "Do the interviewers have access to our entire application (common app, essays, etc)?",
   "author": "ucuti_vise",
   "created": 1636629321,
-  "updated": 1636652756,
+  "updated": 1637367973,
   "over_18": false,
   "upvotes": 3,
   "upvote_ratio": 1.0,
@@ -50,7 +50,16 @@
       "author": "Triggyrd",
       "created": 1636629925,
       "upvotes": 2,
-      "replies": {}
+      "replies": {
+        "hk8xeke": {
+          "link": "/r/ApplyingToCollege/comments/qrj243/college_interview/hk8xeke/",
+          "text": "Most students \u201dsign up\u201d for their interviews through their application.",
+          "author": "RichInPitt",
+          "created": 1636663425,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

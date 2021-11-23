@@ -3023,7 +3023,16 @@
                           "author": "KansaiKanpai",
                           "created": 1634893166,
                           "upvotes": 1,
-                          "replies": {}
+                          "replies": {
+                            "hjwq3uz": {
+                              "link": "/r/college/comments/lav1gq/what_degree_did_you_regret_studying/hjwq3uz/",
+                              "text": "Ikr? Isn\u2019t this supposed to be archived?\n\nBtw, stop this from doing what exactly)",
+                              "author": "swaf120",
+                              "created": 1636440565,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
                         }
                       }
                     },
@@ -5413,5 +5422,5 @@
       }
     }
   },
-  "updated": 1636186067
+  "updated": 1637400353
 }

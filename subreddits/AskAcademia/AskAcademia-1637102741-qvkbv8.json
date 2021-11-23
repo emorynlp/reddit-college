@@ -5,7 +5,7 @@
   "text": "Before the pandemic I was a postdoc on a project and worked with a tech. During the pandemic, the lab shut down and the tech moved on to a different position. We kept in touch and eventually started dating. Since then, I finished the project and now I'm writing up the manuscript.\n\nI think the tech meets authorship criteria, but it feels like a conflict of interest to be including my SO on a manuscript I'm writing. But it would also be unethical not to....help?",
   "author": "Least_Conversation78",
   "created": 1637102741,
-  "updated": 1637180868,
+  "updated": 1637382534,
   "over_18": false,
   "upvotes": 14,
   "upvote_ratio": 0.95,
@@ -32,7 +32,16 @@
       "author": "Pr0gr3s",
       "created": 1637114439,
       "upvotes": 21,
-      "replies": {}
+      "replies": {
+        "hl1i23c": {
+          "link": "/r/AskAcademia/comments/qvkbv8/question_about_conflict_of_interestromantic/hl1i23c/",
+          "text": "Same with the Nobel laureates Esther Duflo and her husband (or father of their child)",
+          "author": "imjustherefor1coment",
+          "created": 1637185764,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     },
     "hkx25wy": {
       "link": "/r/AskAcademia/comments/qvkbv8/question_about_conflict_of_interestromantic/hkx25wy/",
@@ -89,6 +98,14 @@
       "text": "It would be highly unethical to exclude someone from a paper and fail to acknowledge their contribution, to the point some places would consider that academic misconduct. \n\nArguably what you would actually be doing is an abuse of power. What you're proposing isn't handling a conflict of interest or perceived conflict of interest (perception of CoI must be addressed as much as an actual CoI). What you'd be doing is abusing your position of authority over someone to deny them an authorship to avoid dealing with the (possible) conflict of interest raised by your relationship.\n\nI'm not sure there really is a conflict of interest here, but the best way to deal with CoIs is transparency and openness. Particularly, conflicts of interest of this nature.  It's only right your partner is an author, if they did the work, but if you have concerns that other authors or people in your team have an issue with that you need to discuss it with them and also with your own boss. Not punish the person with the least power here, your partner.",
       "author": "ACatGod",
       "created": 1637178065,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hl3kgt4": {
+      "link": "/r/AskAcademia/comments/qvkbv8/question_about_conflict_of_interestromantic/hl3kgt4/",
+      "text": "Nothing inherently wrong, as as noted if your SO did work  that contributed to the study, they should be included\\*.\n\nTo cover yourself from any possible blowback, you might like to complete a CRediT statement, just to formalize things.  Even if the submission does not need/require a CRediT statement, having on file would be useful insurance.\n\n\\*note that there are some caveats on inclusion of technicians if their only contribution was routine work that was part of their job (varies by field and journal though).  There are workarounds however.",
+      "author": "Life_time_learner",
+      "created": 1637224240,
       "upvotes": 1,
       "replies": {}
     }

@@ -5,7 +5,7 @@
   "text": "title.",
   "author": "InitialIdea923",
   "created": 1637321436,
-  "updated": 1637352920,
+  "updated": 1637378911,
   "over_18": false,
   "upvotes": 11,
   "upvote_ratio": 0.92,
@@ -49,6 +49,23 @@
       "created": 1637325466,
       "upvotes": 1,
       "replies": {}
+    },
+    "hlbmluf": {
+      "link": "/r/ApplyingToCollege/comments/qxeb1z/how_do_yall_have_midyear_reports_when_the_first/hlbmluf/",
+      "text": "my school sends them later",
+      "author": "asushi_",
+      "created": 1637365511,
+      "upvotes": 1,
+      "replies": {
+        "hlc7a22": {
+          "link": "/r/ApplyingToCollege/comments/qxeb1z/how_do_yall_have_midyear_reports_when_the_first/hlc7a22/",
+          "text": "my school sends them in dec/jan",
+          "author": "InitialIdea923",
+          "created": 1637374946,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

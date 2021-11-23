@@ -5,7 +5,7 @@
   "text": "All of the portals that I've logged into for my early action schools all have a similar visual design but with their respective school colors. All of them have the same opaque buttons and general layout. The only exception I could find is the myIllini portal. Is there some company that creates white-labeled application portals? Is this some sort of trend among colleges? This really interesting me!",
   "author": "amd2021_throwaway",
   "created": 1636733060,
-  "updated": 1636745314,
+  "updated": 1637365147,
   "over_18": false,
   "upvotes": 11,
   "upvote_ratio": 0.93,
@@ -23,6 +23,14 @@
           "author": "amd2021_throwaway",
           "created": 1636735845,
           "upvotes": 2,
+          "replies": {}
+        },
+        "hkdy83j": {
+          "link": "/r/ApplyingToCollege/comments/qsee3w/why_do_all_college_application_portals_look_the/hkdy83j/",
+          "text": "No, they don\u2019t \u201cuse\u201c the same software to \u201cbuild\u201d their site. They \u201cpay\u201c the same company to run their site, with the exact same software, using variables/placeholders to fill in names, logos, graphics, etc., from a database, depending on which school you are accessing.",
+          "author": "RichInPitt",
+          "created": 1636755523,
+          "upvotes": 3,
           "replies": {}
         }
       }
@@ -118,7 +126,41 @@
           "author": "syryquil",
           "created": 1636741269,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hkf2h3u": {
+              "link": "/r/ApplyingToCollege/comments/qsee3w/why_do_all_college_application_portals_look_the/hkf2h3u/",
+              "text": "You\u2019re being too generous with Madison/Pitt. \n\nAlso, how is MIT\u2019s only a B?",
+              "author": "Stq1616",
+              "created": 1636775087,
+              "upvotes": 2,
+              "replies": {
+                "hkf31ze": {
+                  "link": "/r/ApplyingToCollege/comments/qsee3w/why_do_all_college_application_portals_look_the/hkf31ze/",
+                  "text": "Also yeah Pitt's site is far worse than any other they have 3 separate portals and they're all terrible",
+                  "author": "syryquil",
+                  "created": 1636775395,
+                  "upvotes": 3,
+                  "replies": {}
+                },
+                "hkf2zfk": {
+                  "link": "/r/ApplyingToCollege/comments/qsee3w/why_do_all_college_application_portals_look_the/hkf2zfk/",
+                  "text": "I still haven't gotten my checklist yet, when I see how it looks it might move up. They've just taken far longer to put the materials they've received than any other school.",
+                  "author": "syryquil",
+                  "created": 1636775357,
+                  "upvotes": 1,
+                  "replies": {}
+                },
+                "hkhzzoq": {
+                  "link": "/r/ApplyingToCollege/comments/qsee3w/why_do_all_college_application_portals_look_the/hkhzzoq/",
+                  "text": "Pitt didn't send me the portal link until my acceptance was already sitting there lmao",
+                  "author": "pumkinspice-depresso",
+                  "created": 1636836529,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -136,6 +178,22 @@
       "author": "puffyarrow",
       "created": 1636745095,
       "upvotes": 1,
+      "replies": {}
+    },
+    "hkdk6z6": {
+      "link": "/r/ApplyingToCollege/comments/qsee3w/why_do_all_college_application_portals_look_the/hkdk6z6/",
+      "text": "that's because they are likely all done by the same company or the same platform",
+      "author": "jojothebigcat",
+      "created": 1636749400,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hkdxx6i": {
+      "link": "/r/ApplyingToCollege/comments/qsee3w/why_do_all_college_application_portals_look_the/hkdxx6i/",
+      "text": "Most are outsourced to the same company. Rather than every school building an identical system, one company builds one with flexibility to customize the UI.  It\u2019s much cheaper.",
+      "author": "RichInPitt",
+      "created": 1636755385,
+      "upvotes": 4,
       "replies": {}
     }
   }

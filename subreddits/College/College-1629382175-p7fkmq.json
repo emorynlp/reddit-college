@@ -246,7 +246,16 @@
                           "author": "arimck",
                           "created": 1635208825,
                           "upvotes": 1,
-                          "replies": {}
+                          "replies": {
+                            "hjl8aqa": {
+                              "link": "/r/college/comments/p7fkmq/free_stuff_using_an_edu_email/hjl8aqa/",
+                              "text": "I got my goodie box today",
+                              "author": "Exciting_Answer5570",
+                              "created": 1636228708,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
                         },
                         "hiaegfu": {
                           "link": "/r/college/comments/p7fkmq/free_stuff_using_an_edu_email/hiaegfu/",
@@ -257,6 +266,14 @@
                           "replies": {}
                         }
                       }
+                    },
+                    "hjl8fy0": {
+                      "link": "/r/college/comments/p7fkmq/free_stuff_using_an_edu_email/hjl8fy0/",
+                      "text": "Yes I received my goodie box today",
+                      "author": "Exciting_Answer5570",
+                      "created": 1636228772,
+                      "upvotes": 1,
+                      "replies": {}
                     }
                   }
                 }
@@ -631,6 +648,23 @@
           "created": 1629847883,
           "upvotes": 1,
           "replies": {}
+        },
+        "hkko5ms": {
+          "link": "/r/college/comments/p7fkmq/free_stuff_using_an_edu_email/hkko5ms/",
+          "text": "Update : been using WSJ for 80 straight days\u2026 I never read the news before you mentioned this. Appreciate you !",
+          "author": "likeiminthe90s",
+          "created": 1636886732,
+          "upvotes": 2,
+          "replies": {
+            "hklaol3": {
+              "link": "/r/college/comments/p7fkmq/free_stuff_using_an_edu_email/hklaol3/",
+              "text": "Awww, thanks for the update.  I like to share information and it's always nice to know when it makes a difference.",
+              "author": "GreyMatter399",
+              "created": 1636900417,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
         }
       }
     },
@@ -1527,5 +1561,5 @@
       }
     }
   },
-  "updated": 1636174731
+  "updated": 1637386635
 }

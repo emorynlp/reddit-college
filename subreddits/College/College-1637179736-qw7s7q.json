@@ -5,9 +5,36 @@
   "text": "A thought crossed my mind today and as I am an engineering student I often use 3D modeling and analysis software for homework and labs, and the IRS seems to define reimbursable education expenses as that which is necessary to your education like tuition, fees, but also books and equipment. Since this is obviously different per country: Americans, do you think I could get PC upgrades refunded when I file my taxes this upcoming year?",
   "author": "MangoBrando",
   "created": 1637179736,
-  "updated": 1637180972,
+  "updated": 1637400366,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
-  "comments": {}
+  "comments": {
+    "hl17191": {
+      "link": "/r/college/comments/qw7s7q/computer_parts_refunded_as_education_expense_on/hl17191/",
+      "text": "Won't you already have maxed out your educational credits with tuition costs?\n\nDoes your college require this level of upgrades as a course requirement? Do they offer a computer lab that is sufficient?",
+      "author": "Its-a-write-off",
+      "created": 1637181255,
+      "upvotes": 1,
+      "replies": {
+        "hl1rzug": {
+          "link": "/r/college/comments/qw7s7q/computer_parts_refunded_as_education_expense_on/hl1rzug/",
+          "text": "I may not max out with tuition because of scholarships and there is a computer lab but I commute quite far",
+          "author": "MangoBrando",
+          "created": 1637189955,
+          "upvotes": 1,
+          "replies": {
+            "hl1uyy3": {
+              "link": "/r/college/comments/qw7s7q/computer_parts_refunded_as_education_expense_on/hl1uyy3/",
+              "text": "The commute won't change the fact that the computer is not actually required for the course, since computers are provided.",
+              "author": "Its-a-write-off",
+              "created": 1637191254,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
 }

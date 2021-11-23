@@ -5,7 +5,7 @@
   "text": "UC only allows integers as grade scores. Should I round my 89.95 to 90 or just put 89?",
   "author": "0ni0nchicken",
   "created": 1637157773,
-  "updated": 1637179005,
+  "updated": 1637360831,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -32,7 +32,16 @@
       "author": "freeport_aidan",
       "created": 1637161311,
       "upvotes": -2,
-      "replies": {}
+      "replies": {
+        "hl1gf9y": {
+          "link": "/r/ApplyingToCollege/comments/qvzy21/should_we_round_our_grades_if_it_has_decimals_for/hl1gf9y/",
+          "text": "So is that round or truncate?",
+          "author": "RichInPitt",
+          "created": 1637185094,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     },
     "hkzlayr": {
       "link": "/r/ApplyingToCollege/comments/qvzy21/should_we_round_our_grades_if_it_has_decimals_for/hkzlayr/",
@@ -40,6 +49,14 @@
       "author": "Witty-Evidence6463",
       "created": 1637157918,
       "upvotes": 0,
+      "replies": {}
+    },
+    "hl1gbag": {
+      "link": "/r/ApplyingToCollege/comments/qvzy21/should_we_round_our_grades_if_it_has_decimals_for/hl1gbag/",
+      "text": "If only integers are permitted, I would follow the standard rounding convention, resulting in 90, unless otherwise instructed.",
+      "author": "RichInPitt",
+      "created": 1637185048,
+      "upvotes": 1,
       "replies": {}
     }
   }

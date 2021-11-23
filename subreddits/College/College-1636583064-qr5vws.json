@@ -5,7 +5,7 @@
   "text": "Should I pursue CS if I'm not the best at science? I would probably be better at it if I actually enjoyed the topics, but I generally really disliked and did not enjoy the biology, physics, and chemistry classes I took in high school, although I did pass. I'm fine with math and enjoy it greatly, especially algebra, however I haven't gotten to calculus yet so I can't really know if I will be strong in calc yet. If I should continue pursuing CS, what science class do you think I should take? I was considering taking biology as now that I'm older I might appreciate it more since I was a freshman in high school when I first took it, but I'm not sure if that would be best for a CS degree.",
   "author": "jackalynnnm",
   "created": 1636583064,
-  "updated": 1636654793,
+  "updated": 1637400363,
   "over_18": false,
   "upvotes": 3,
   "upvote_ratio": 0.81,
@@ -41,6 +41,14 @@
           "created": 1636598335,
           "upvotes": 1,
           "replies": {}
+        },
+        "hk9cp3e": {
+          "link": "/r/college/comments/qr5vws/i_want_to_pursue_a_cs_degree_but_im_not_the_best/hk9cp3e/",
+          "text": "I'm aware it's not related, I just was looking at the university core class requirements I'm potentially going to transfer to (I'm in community college right now as I want to get my core classes down first) and I saw that chem/bio/physics are very important at that college and are required, so I didn't know if I should choose a specific one or if it doesn't matter at all. And, I don't really know which one would be easiest to take for someone like me.",
+          "author": "jackalynnnm",
+          "created": 1636669802,
+          "upvotes": 1,
+          "replies": {}
         }
       }
     },
@@ -58,7 +66,25 @@
       "author": "Traditional-Agent776",
       "created": 1636605159,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hk9cj13": {
+          "link": "/r/college/comments/qr5vws/i_want_to_pursue_a_cs_degree_but_im_not_the_best/hk9cj13/",
+          "text": "Do you think I should take a computer programming class right now? I'm in community college right now as I want to get all my core requirement out of the way and then transfer to a university for the more specific CS classes. I chose to take biology 1 this spring semester as my potential transfer university requires bio/chem/physics but would I be better off taking programming in its place? I know this is more an opinion question but I really am not sure as I have only taken basic classes so far (English 1 and 2, Algebra and stats, psychology, etc) and have not taken any coding related classes. I've only been learning it through using online courses such as freecodecamp. So basically what I'm asking, will a big university accept a community college course in basic programming or should I save that for later?",
+          "author": "jackalynnnm",
+          "created": 1636669727,
+          "upvotes": 1,
+          "replies": {
+            "hk9e09m": {
+              "link": "/r/college/comments/qr5vws/i_want_to_pursue_a_cs_degree_but_im_not_the_best/hk9e09m/",
+              "text": "Well, it all depends on transfer credits your university will accept. From my knowledge, not all community college credits will transfer. So I would definitely give that university a call, and maybe talk to a few different people because 1 person can say one thing, while it may not be true or they may not truly know. \n\nIf you are in your freshman year and doing pre requisites right now, finish those first. I didn\u2019t start taking CS courses until my second semester of my freshman year because I had pre reqs I needed like the math classes. How my college works is you need college algebra to take the intro to CS class, and then I had to take a placement test for CS to get in to computer science principles. So honestly it just depends on the university. \n\nYou should not feel like you need to be in a rush taking CS courses. What Im doing is spacing them out and I don\u2019t really mind if I have to take an extra semester or even a whole year to complete my CS degree. College isn\u2019t a race (even though it may seem like you should be done in 4 years).\n\nSo a short answer from me would be to wait and take that class until you\u2019re done with pre reqs. Keep using online resources and touch on some popular languages like Java or Python. First and foremost call the university or talk to your advisor at your CC to see about the transfer credits.\n\nCollege is a marathon, not a race!",
+              "author": "Traditional-Agent776",
+              "created": 1636670379,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

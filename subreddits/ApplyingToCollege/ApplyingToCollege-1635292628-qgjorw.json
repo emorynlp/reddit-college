@@ -5,7 +5,7 @@
   "text": "Title. \ud83d\ude42",
   "author": "tables_04",
   "created": 1635292628,
-  "updated": 1636151817,
+  "updated": 1637357997,
   "over_18": false,
   "upvotes": 53,
   "upvote_ratio": 0.96,
@@ -2866,7 +2866,25 @@
           "author": "starish69",
           "created": 1635360422,
           "upvotes": 3,
-          "replies": {}
+          "replies": {
+            "hkckee7": {
+              "link": "/r/ApplyingToCollege/comments/qgjorw/what_is_a_petty_reason_youve_taken_a_college_off/hkckee7/",
+              "text": "Scholarships hinge on grades? the fuck?",
+              "author": "thecoolan",
+              "created": 1636734535,
+              "upvotes": 1,
+              "replies": {
+                "hkfw9c3": {
+                  "link": "/r/ApplyingToCollege/comments/qgjorw/what_is_a_petty_reason_youve_taken_a_college_off/hkfw9c3/",
+                  "text": "I am not sure how it works but most merit scholarships do depend on that. And some unis don't have THAT many scholarship options but most of them have merit based ones. So let's see lol",
+                  "author": "starish69",
+                  "created": 1636796381,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     },
