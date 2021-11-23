@@ -1,0 +1,30 @@
+{
+  "sid": "qzpgyd",
+  "link": "/r/GradSchool/comments/qzpgyd/cs_conference_aamas_how_likely_can_you_flip_a_220/",
+  "title:": "CS Conference (AAMAS): How likely can you flip a (-2,-2,0) during rebuttal period?",
+  "text": "Hi all,\n\nI have just received review comments for my paper for AAMAS'22. Reviews scores are weak reject (-2), weak reject(-2), and borderline(0).  Some of the reviews seem to be asking for clarifications on the design methods and algorithm, and others are pointing to missing related work.\n\nI can probably clarify what they are asking though I need to put some effort and time. I have other things in my plate currently.  How likely I can turn this into acceptance? If it is med to high, then I will probably put the effort; otherwise, not worth it.\n\nThanks!",
+  "author": "saimed",
+  "created": 1637598948,
+  "updated": 1637689783,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "hlo01w9": {
+      "link": "/r/GradSchool/comments/qzpgyd/cs_conference_aamas_how_likely_can_you_flip_a_220/hlo01w9/",
+      "text": "This will depend on how specific the feedback is. Very specific feedback like missing related work or more details can easily be flipped and with that you have a solid argument towards the scientific editor if reviewers are stubborn. However if there are reviewers trying to argue on semantics or research design, discussions may get quite long winded and nitpicky to the point where there is ultimately no accept offered.",
+      "author": "SlashSero",
+      "created": 1637604827,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hlolmr3": {
+      "link": "/r/GradSchool/comments/qzpgyd/cs_conference_aamas_how_likely_can_you_flip_a_220/hlolmr3/",
+      "text": "Wait, aren't the scores supposed to be in the range of -3 to 3? If so, what is -1 supposed to mean?",
+      "author": "excise1",
+      "created": 1637613482,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

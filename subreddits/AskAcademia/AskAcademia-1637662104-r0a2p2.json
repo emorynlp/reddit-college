@@ -1,0 +1,98 @@
+{
+  "sid": "r0a2p2",
+  "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/",
+  "title:": "Software for diagrams",
+  "text": "Hey science people! I\u2019ve been putting together some diagrams and flowcharts all this time myself in MS Word or PowerPoint, but I\u2019ve started wondering what are the other people using? Share your thoughts and experiences!",
+  "author": "erin59",
+  "created": 1637662104,
+  "updated": 1637688568,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hlrd7q0": {
+      "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlrd7q0/",
+      "text": "I use Adobe Illustrator. I learned Illustrator really early on (I studied both art and biology in undergrad) so it's been my go-to for diagrams, figures, illustrations, etc.   \n\nI've tried out some other programs that are more focused on flow chart functionality, but I've only used them for organizing information as a part of the design process rather than developing a final result. For example, something like [app.diagrams.net](https://app.diagrams.net/) or [yED](https://www.yworks.com/yed-live/) will resize/reorient connecting arrows/lines when you move an node, so it makes mind-mapping a lot easier. Even though this feature is nice, when I want to make a diagram for display/visual communication, I go back to Illustrator because it has more tools/features for design (and lots of capabilities to manipulate specific elements).",
+      "author": "katabolite",
+      "created": 1637670096,
+      "upvotes": 5,
+      "replies": {
+        "hlrdk3l": {
+          "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlrdk3l/",
+          "text": "Thought about that as well, but then I\u2019ll need to dig up my buried skills in Illustrator :)",
+          "author": "erin59",
+          "created": 1637670324,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hlr81on": {
+      "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlr81on/",
+      "text": "Excel seems like the most natural next stage in your diagrams journey.",
+      "author": "molobodd",
+      "created": 1637666296,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hlr6qg1": {
+      "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlr6qg1/",
+      "text": "biorender is quite good, althoug not free. tikz is a bit tedious and there is anothe online (free) option that i cant rember the name right now",
+      "author": "agata_fuego",
+      "created": 1637665221,
+      "upvotes": 2,
+      "replies": {
+        "hlrda1f": {
+          "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlrda1f/",
+          "text": "Interesting, haven\u2019t heard of either, will check it out! Thanks!",
+          "author": "erin59",
+          "created": 1637670138,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hlr8obh": {
+      "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlr8obh/",
+      "text": "Excel is most likely good enough for your diagrams. For more advanced applications I personally prefer the R package ggplot2. But be aware this will be much more complicated than Excel.",
+      "author": "Greenstrawberrypower",
+      "created": 1637666797,
+      "upvotes": 2,
+      "replies": {
+        "hlrdeqc": {
+          "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlrdeqc/",
+          "text": "I was thinking more not of plotting, but of things like hierarchy diagrams, flowcharts, icons with arrows and stuff. Also, probably should have mentioned that I\u2019m in computer science which makes R a bit less intimidating :)",
+          "author": "erin59",
+          "created": 1637670224,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hlrchqw": {
+      "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlrchqw/",
+      "text": "Canva (free, online program) when I'm feeling extra creative",
+      "author": "proper-peony",
+      "created": 1637669610,
+      "upvotes": 2,
+      "replies": {
+        "hlrdh1i": {
+          "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlrdh1i/",
+          "text": "I used that one actually for my CV :) but it seemed a bit inflexible to me, can\u2019t go much outside the templates, no?",
+          "author": "erin59",
+          "created": 1637670267,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hlrmgho": {
+      "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlrmgho/",
+      "text": "I've never had to do anything really complicated, but I've occasionaly used Microsoft Visio which is literally designed for this and works well.",
+      "author": "JHT230",
+      "created": 1637675418,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

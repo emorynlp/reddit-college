@@ -1,0 +1,39 @@
+{
+  "sid": "r0hw98",
+  "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/",
+  "title:": "PhD student pressuring me to do more and more work?",
+  "text": "Context - I have 4 years of work experience and I'm currently doing an MSCS at a reputed college. I'm currently taking a research project consisting of 2 projects worth 3 credits each. The projects are spread out across two-semester (3 credits each semester). Me and my friend are currently working at a lab under a Ph.D. student (1st year) and are trying to publish a paper.\n\nWe started this project in August and the initial months we tinkered around with various tools until we settled into a framework that we were going to use to implement the algorithm. This was in September and it became very clear to me that the Ph.D. student had little to no idea how to use the frameworks and I explained to him patiently since I had used it quite often when I was working previously. Looking back, I should've seen that as a huge red flag.\n\nCome November, the professor we were meeting with informed us that there was a submission that we could target in early December and he asked us to contribute a \"little more\" to the project. I thought the early submission date was unreasonable and something smelt funny so I looked up the actual conference and the submission date for last year was Jan 1st week. I talked to my friend about this and he said they were messing around with us because the grade would have to be submitted for our project by mid-December so they were trying to get as much work as possible from us.\n\nMe and my friend started going into the lab from November once a week to work with the Ph.D. student and made progress implementing our setup as well as the algorithm. Soon, he started asking us to come in twice a week which bothered me because I knew he would just keep pushing us further and further until we came in every single day. I pushed back and told him we had assignments (I have 3 other courses and also doing interviews) so I wouldn't be able to come in that week.\n\nI went in the following week (he wanted me to make up for missing the last week). This is when the Ph.D. student laid all his cards on the table. He told me that the deadline is quickly approaching and we don't have much implemented. Hence, we'd have to come in every single day until the end of December to get as much work done. I told him that we had projects, and exams in the other courses and I would be busy. He started negotiating the number of days I'd need off for that. I asked for 3 and he said no \"2 would be enough\" (really ticked me off that he was asking me to compromise my other courses). He asked me to work until the end of December which bothered me because he was asking me to give up my Christmas break.\n\nAt this point, I told him that what he was doing was not okay and I was not fine with any of this. Technically speaking, we are only supposed to work until the end of this semester (mid-December) and start again in the next semester (end of January). He started arguing saying that we didn't do any significant work in the last month and kept asking me what me and my friend (the other Master's student) had done in the last few weeks. This again, ticked me off since I knew for a fact the professor was happy with our work and I told this to the Ph.D. student. Anyway, he \"compromised\" and told me to work continuously until the end of this semester and then pick it up starting from the first week of January.\n\nHe asked me why I was leaving even though I knew there was a paper submission and told him that the professor had told us (the two master's students) that the deadline was Mid-December. He sheepishly told me that the deadline was the end of January and it'll be hard to submit if we don't \"work hard\".\n\nOverall, I feel very insulted that the Ph.D. student is talking to me this way. It's pretty clear to me that he has no idea how to implement his algorithm and is trying to blame us for it now. I even bought up issues with his implementation (things that weren't available in the framework) and his smiling response was \"Just do it somehow\". When I was leaving, he came running after me and told me that \"he didn't mean to sound like I wasn't doing work\".\n\nHow should I react to this situation? Should I bring this up with the professor himself mentioning everything that has happened? Should I speak with the student AND the professor and firmly set expectations? Me and the other student are very unhappy with the current situation because we both know if we work with him through January, he will either throw us under the bus for not being able to publish or keep giving us more and more work.\n\nEdit - I've heard from other Master's students working with him that he offers limited help from his side and threatens them with low grades unless they work more than 15 hours a week.",
+  "author": "RainmaKer770",
+  "created": 1637687221,
+  "updated": 1637689751,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 0.71,
+  "comments": {
+    "hlsjsj0": {
+      "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlsjsj0/",
+      "text": "Try and communicate this directly to the professor because ultimately his opinion of you matters much more than this PhD student's. Talk about what you've accomplished and concerns about the feasibility of implementation that the PhD student is insisting on. If your fellow Masters student joins this meeting that'd also help show that this problem isn't just a disagreement between you and the PhD student.",
+      "author": "saturnineoranje",
+      "created": 1637689421,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hlsk2vn": {
+      "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlsk2vn/",
+      "text": "So I guess I could be getting master's students to do half of the work for me?\n That sounds pretty cool. I do everything myself.",
+      "author": "nbgblue24",
+      "created": 1637689531,
+      "upvotes": 1,
+      "replies": {
+        "hlskdx7": {
+          "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlskdx7/",
+          "text": "It's very frustrating. Last semester I worked with a Ph.D. student who was well versed with the frameworks and assigned us specific modules to work on. We ended up publishing a paper as well. Compared with this semester where the Ph.D. student can't progress without us and is holding us culpable for the outcome of his paper.",
+          "author": "RainmaKer770",
+          "created": 1637689647,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "sid": "qzgmuh",
+  "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/",
+  "title:": "University's internal, password protected \"anonymous\" discussion forums \u2014 are they truly ANONYMOUS?",
+  "text": "Here I ask just about a [university's **internal password protected** discussion boards](https://www.opencolleges.edu.au/informed/other/students-more-likely-to-post-to-discussion-boards-if-anonymous/), just for [university students and instructors](https://www.researchgate.net/publication/258340306_I%27d_be_so_much_more_comfortable_posting_anonymously_Identified_versus_anonymous_participation_in_student_discussion_boards). \n\nBecause you must log in with your university details and password, can't \"anonymous\" posts be traced and deanonymized, if the university had legal grounds? With the university's permission, PhD's in cybersecurity must know how to unmask the identities of these *\"anonymous\"* posters.",
+  "author": "0germ",
+  "created": 1637569008,
+  "updated": 1637688576,
+  "over_18": false,
+  "upvotes": 37,
+  "upvote_ratio": 0.92,
+  "comments": {
+    "hlmkq79": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlmkq79/",
+      "text": "There are levels of \"anonymity\". If a student writes something that pisses me off in a course evaluation, can I find out who it was? No. If someone commits a federal crime, threatens to shoot up the school or something, is it technically possible to identify the account? Yes.",
+      "author": "molobodd",
+      "created": 1637579735,
+      "upvotes": 64,
+      "replies": {
+        "hlmutw2": {
+          "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlmutw2/",
+          "text": "Can you as faculty discover the owner of a post, no. Can the administration discover the owner of a post critical of the university, hell yes.",
+          "author": "davesoverhere",
+          "created": 1637586720,
+          "upvotes": 31,
+          "replies": {}
+        }
+      }
+    },
+    "hlmslel": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlmslel/",
+      "text": "I've always found it prudent to assume that anything done on university computer resources (servers, workstations, networks, whatever) isn't anonymous...\n\nThat said, it doesn't mean that the professor in the office next door, or your computer security officer, is reading your mail... But given sufficient motivation, skill, and resources, they could.\n\n*Full disclosure: Retired Associate Professor, [Accessdata Certified Examiner](https://training.accessdata.com/exams), CISSP, CEH...*",
+      "author": "UnoKitty",
+      "created": 1637585365,
+      "upvotes": 40,
+      "replies": {}
+    },
+    "hlmaov9": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlmaov9/",
+      "text": "As a rule of thumb, no matter how anonymous you think a survey like this is, never say anything that you wouldn't directly say to your boss or someone in charge of you.\n\nThere's a bazillion ways that they could work out who said what or just track it through logins like you say, so just never give them any of that rope",
+      "author": "Altorode",
+      "created": 1637570933,
+      "upvotes": 20,
+      "replies": {}
+    },
+    "hln43xo": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hln43xo/",
+      "text": "Most stuff in the world are never truly anonymous. They're pseudo-anonymous in reality and can be traced back given the right money, time, and legal apparatus. Or even illegal depending on the people. As you hinted upon, open-source intelligence (OSINT) methodologies can be used to unmask identifies. \n\nIt's just... having to explain true anonymity versus pseudo-anonymity is boring to the averages person, takes time, messes up user experience, and some people/organisation's self interest means they don't want to explain it.",
+      "author": "MFA_Nay",
+      "created": 1637591603,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hlm8oz4": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlm8oz4/",
+      "text": "This doesn\u2019t seem sketchy at all.",
+      "author": "Eigengrad",
+      "created": 1637569218,
+      "upvotes": 22,
+      "replies": {}
+    },
+    "hln20b7": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hln20b7/",
+      "text": "It's really hard to tell.  There are likely multiple systems involved with different levels of users and admins.\n\n* Regular users: students who only see and post to the anonymous discussion.  Maybe they can report issues.\n* Power users: faculty who can do the above and probably also delete problematic posts.  Maybe they get a record of who was active during a given day/week, so that they can give participation credit.\n* Admins: system admins can see the raw database and log files.\n\nWhat's in the database and log files?  It depends entirely on how the system was written.  Each post could be tagged in the database with a userID (which is just not sent to regular and power users).  Maybe logins are logged, which could be cross-referenced to posts if only one person is active at a time.  Or it could be a truly unlogged system that doesn't record anything.  But this is unlikely.",
+      "author": "ImpatientProf",
+      "created": 1637590580,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hlnsz59": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlnsz59/",
+      "text": "As a general rule, nothing on a computer is truly anonymous. If you're logged in it isn't anonymous to the system since you had to provide login credentials.  \n\nThis article is referencing the built in \"anonymous\" options in discussion boards which likely means it is just hiding the person's name. I'd be curious to see how awareness of tracking options affects perceived anonymity. Do students with information security backgrounds feel the same level of anonymity using the system's anonymous option as the psychology students studied for the paper?",
+      "author": "WhoopingWillow",
+      "created": 1637602059,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hlo5rvv": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlo5rvv/",
+      "text": "Nothing you do online is really anonymous; it all just depends on who wants to know.",
+      "author": "Weaselpanties",
+      "created": 1637607093,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hlma07j": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlma07j/",
+      "text": "Negative, ghostrider",
+      "author": "Sad-Dot9620",
+      "created": 1637570343,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hlmqh5z": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlmqh5z/",
+      "text": "Probably they can log the IP address.  But also, I can often tell who wrote a thing based on their written voice and word choices, even when anonymous.",
+      "author": "FawltyPython",
+      "created": 1637584004,
+      "upvotes": 3,
+      "replies": {
+        "hlpf2b6": {
+          "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlpf2b6/",
+          "text": ">I can often tell who wrote a thing based on their written voice and word choices, even when anonymous.\n\nThis, we often fail to use a pseudo-persona for anything we try to post \"anonymously\"",
+          "author": "lafut_ka_bacchan",
+          "created": 1637626086,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hlm94p1": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hlm94p1/",
+      "text": "Technically they can make it so you can log in with those credentials and still be anonymous but I highly doubt that's the case.",
+      "author": "thebluntdogman",
+      "created": 1637569589,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hln6jz3": {
+      "link": "/r/AskAcademia/comments/qzgmuh/universitys_internal_password_protected_anonymous/hln6jz3/",
+      "text": "On both sides of this:\n\n* On the student's side, when I get your evaluations back next semester I won't have a way to know which responses are yours.  For the \"rate strongly disagree to strongly agree\" questions, I only get aggregate data.  The number of \"strongly agree\" responses, the number of \"slightly agree\" responses,....  I do not have the raw data.  For the comments, unless *you* write something identifiable I have no way to discover who wrote what.  Used to be that I got scans of hand-written responses, which I could attempt to correlate to your handwriting, but I haven't gotten that in almost a decade.  If you complain that I wouldn't let you make up a test because your grandmother died, your cat ran away, your car caught on fire, and your boyfriend left you all in one weekend, I can probably figure out who you are.\n* On the faculty side, we get surveys as well.  The last one I got had my email address encoded in the URL and after I completed it I got a little \"gift\" in my mailbox thanking me for completing the survey.  Maybe the survey company strips out identifying information and only includes the fact that I completed the survey in the data they return to the school.  Maybe my email address appearing in the URL is just so that I can't complete the survey ten times.  But I don't do surveys anymore.",
+      "author": "shellexyz",
+      "created": 1637592734,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

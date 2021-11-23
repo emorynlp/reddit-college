@@ -1,0 +1,63 @@
+{
+  "sid": "qzmuuw",
+  "link": "/r/AskAcademia/comments/qzmuuw/advice_on_how_to_include_or_document_code_into_a/",
+  "title:": "Advice on how to include or document code into a dissertation",
+  "text": "Hi, the core of my dissertation is not coding. However to do all the studies I had to write a series of scripts to handle the data for either visualizations or any sort of analysis. For the niche group of researchers in this topic, we consider these pieces of code could be useful. So, besides including a github repository with mys scripts, could anyone share tips on how to include this type of work? Is it an appendix the best alternative? Or is this worth a chapter?",
+  "author": "vikmaychib",
+  "created": 1637591960,
+  "updated": 1637688574,
+  "over_18": false,
+  "upvotes": 17,
+  "upvote_ratio": 0.91,
+  "comments": {
+    "hlo5v2y": {
+      "link": "/r/AskAcademia/comments/qzmuuw/advice_on_how_to_include_or_document_code_into_a/hlo5v2y/",
+      "text": "Apart from the appendix, which is a good idea, you can also create project for your dissertation on Open science foundation or Zonedo and link your GitHub repo, to make it more visible for researchers.",
+      "author": "3ducklings",
+      "created": 1637607130,
+      "upvotes": 15,
+      "replies": {
+        "hlofhvn": {
+          "link": "/r/AskAcademia/comments/qzmuuw/advice_on_how_to_include_or_document_code_into_a/hlofhvn/",
+          "text": "This is a great idea, if you want people to actually use it the appendix is not a great place for it",
+          "author": "mlcyo",
+          "created": 1637611004,
+          "upvotes": 7,
+          "replies": {}
+        }
+      }
+    },
+    "hlnr13y": {
+      "link": "/r/AskAcademia/comments/qzmuuw/advice_on_how_to_include_or_document_code_into_a/hlnr13y/",
+      "text": "If you are using latex, \"minted\" package is an excellent way to include codes. Check it out.",
+      "author": "anton919",
+      "created": 1637601276,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "hlniupb": {
+      "link": "/r/AskAcademia/comments/qzmuuw/advice_on_how_to_include_or_document_code_into_a/hlniupb/",
+      "text": "Appendix.",
+      "author": "HSDropoutJK",
+      "created": 1637597980,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hlomc0h": {
+      "link": "/r/AskAcademia/comments/qzmuuw/advice_on_how_to_include_or_document_code_into_a/hlomc0h/",
+      "text": "If you want to include it as a chapter, take the time to package your scripts up into something more formal, such as an open-source software package or addon to whatever program you're using. Then you can write a paper on your package and submit it for publication, fully documenting everything and advertising it in a space where someone might be able to find it and make use of it.",
+      "author": "dr-graph",
+      "created": 1637613769,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hlo16hm": {
+      "link": "/r/AskAcademia/comments/qzmuuw/advice_on_how_to_include_or_document_code_into_a/hlo16hm/",
+      "text": "Appendix",
+      "author": "bigrottentuna",
+      "created": 1637605274,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

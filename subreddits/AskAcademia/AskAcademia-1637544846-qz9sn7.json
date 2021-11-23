@@ -1,0 +1,54 @@
+{
+  "sid": "qz9sn7",
+  "link": "/r/AskAcademia/comments/qz9sn7/what_is_the_best_website_to_find_research_papers/",
+  "title:": "What is the best website to find research papers?",
+  "text": "I'm new to academia.\n\n  \nI've come across so many engines that has variety of papers and then there is Google Scholar which seems to aggregate all.\n\nWhat is the best website to find research papers? Specifically, programming or math. Is there a single engine that has it all or are they divided by area of research?  Are all published papers on these engines can be 100% trusted? How can you scope if a paper is trust-worthy in research, coming from well-known source, and what other metrics do you look for?\n\nThanks",
+  "author": "tmlildude",
+  "created": 1637544846,
+  "updated": 1637688586,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "hll7npj": {
+      "link": "/r/AskAcademia/comments/qz9sn7/what_is_the_best_website_to_find_research_papers/hll7npj/",
+      "text": "If you're attached to a university, see what research tools and specialist databases your library subscribes to-- IEEE Xplore, ProQuest, ScienceDirect, etc.\n\nYou may be able to connect your Google Scholar account to your library to maximize its usefulness. Scholar indexes an odd mix of stuff-- not all of it \"scholarly\"- and generally lacks useful limiters, but is a worthwhile place to search.\n\nArxiv.org is a great pre-print archive.",
+      "author": "crunchingair",
+      "created": 1637547206,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hll7xpd": {
+      "link": "/r/AskAcademia/comments/qz9sn7/what_is_the_best_website_to_find_research_papers/hll7xpd/",
+      "text": "It depends on your field and the specific area within that field. Ask your supervisor, peers and librarians which databases are available at your university. These databases are usually grouped by subject. For example, you mentioned programming and math. So you can search databases in Computer Science and Mathematics. I guess that ACM, MathSciNet and ScienceDirect would be some that intersperse these areas.",
+      "author": "CrazyTrain36",
+      "created": 1637547335,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hll401o": {
+      "link": "/r/AskAcademia/comments/qz9sn7/what_is_the_best_website_to_find_research_papers/hll401o/",
+      "text": "Google Scholar, plus whatever search engines are tied to the major publishers. E.g. Science Direct is Elseveir's internal engine.",
+      "author": "r3dl3g",
+      "created": 1637545510,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hllxoux": {
+      "link": "/r/AskAcademia/comments/qz9sn7/what_is_the_best_website_to_find_research_papers/hllxoux/",
+      "text": "For determining research quality, that usually comes from several factors including the quality of the publication (e.g. is it a peer reviewed journal?), the quality of the research methodology (e.g. in clinical research was it a randomized controlled trial?), and your own quality assessment/critical appraisal of other factors through reading the paper (e.g. did they fully describe their limitations?). I'm not very familiar with math and cs research papers so I agree that looking at library resources and asking peers/advisor would be beneficial. Also i imagine it is likely that you should have to take some kind of research methods course in your program so this is a topic that should be covered there too.",
+      "author": "seaside1508",
+      "created": 1637560999,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hlly8q2": {
+      "link": "/r/AskAcademia/comments/qz9sn7/what_is_the_best_website_to_find_research_papers/hlly8q2/",
+      "text": "Arxiv.org has a lot of math and science preprints, and the site is completely free. I use it to find papers for physics, but they do have a math and CS section as well.",
+      "author": "Sneakylinker1",
+      "created": 1637561375,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

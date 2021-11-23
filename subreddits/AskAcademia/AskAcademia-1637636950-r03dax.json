@@ -1,0 +1,48 @@
+{
+  "sid": "r03dax",
+  "link": "/r/AskAcademia/comments/r03dax/image_management_software/",
+  "title:": "Image management software?",
+  "text": "So I use Zotero for all my reference management (and I love it), but I have found it is really clunky when it comes to managing images (I'm an art history PhD student). I'm looking for recommendations on alternatives - what do you use? TIA",
+  "author": "-bishopandwarlord-",
+  "created": 1637636950,
+  "updated": 1637688565,
+  "over_18": false,
+  "upvotes": 6,
+  "upvote_ratio": 0.88,
+  "comments": {
+    "hlq5ek4": {
+      "link": "/r/AskAcademia/comments/r03dax/image_management_software/hlq5ek4/",
+      "text": "Have you tried Digikam?  Not exactly Zotero like, but it can manage images with Metadata. You could also try Tropy and ARIES. These two are open-source.\n\nI would highly recommend Tropy. [https://tropy.org/](https://tropy.org/)\n\nARIES is a little old school. [https://artimageexplorationspace.com/](https://artimageexplorationspace.com/)",
+      "author": "JediDP",
+      "created": 1637638531,
+      "upvotes": 2,
+      "replies": {
+        "hlqwe3y": {
+          "link": "/r/AskAcademia/comments/r03dax/image_management_software/hlqwe3y/",
+          "text": "Thank you! I'll check them out",
+          "author": "-bishopandwarlord-",
+          "created": 1637656084,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hlqebkg": {
+      "link": "/r/AskAcademia/comments/r03dax/image_management_software/hlqebkg/",
+      "text": "Try MDID: https://www.mdid.org/ an open source digital asset management system created for art historians.",
+      "author": "Alicazam79",
+      "created": 1637643279,
+      "upvotes": 1,
+      "replies": {
+        "hlqwewp": {
+          "link": "/r/AskAcademia/comments/r03dax/image_management_software/hlqwewp/",
+          "text": "Oo thank you for this! I'll have a look",
+          "author": "-bishopandwarlord-",
+          "created": 1637656104,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

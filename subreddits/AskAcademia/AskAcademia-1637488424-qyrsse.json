@@ -1,0 +1,222 @@
+{
+  "sid": "qyrsse",
+  "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/",
+  "title:": "What are some well know problems in academia and research?",
+  "text": "I want to understand the main challenges that folks in academia face since one of my goals as a software developer is to leverage technology to build tools for people working in this space.",
+  "author": "human_jpg",
+  "created": 1637488424,
+  "updated": 1637688592,
+  "over_18": false,
+  "upvotes": 13,
+  "upvote_ratio": 0.74,
+  "comments": {
+    "hlhshoi": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hlhshoi/",
+      "text": "Teaching: Unmotivated students.\n\nResearch: Applying for grants instead of doing research.\n\nIf you can invent software that fixes those, hit me up.",
+      "author": "molobodd",
+      "created": 1637489125,
+      "upvotes": 84,
+      "replies": {
+        "hli49rv": {
+          "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hli49rv/",
+          "text": "Please let me know too!",
+          "author": "Purpleprint24",
+          "created": 1637498002,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "hlju3yi": {
+          "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hlju3yi/",
+          "text": "This.",
+          "author": "carloserm",
+          "created": 1637525466,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hlhsyn1": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hlhsyn1/",
+      "text": "Not sure your business model , but I would love for an open source equivalent of Nvivo or Atlas. There is nothing even remotely comparible to them for qualitative coding in the open source space.",
+      "author": "zukerblerg",
+      "created": 1637489489,
+      "upvotes": 20,
+      "replies": {
+        "hlhwzb2": {
+          "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hlhwzb2/",
+          "text": "I never got the hang of Nvivo. Everything I did, I had to stop and google if I was doing something wrong because it seemed unnecessarily convoluted and required so many clicks for things that should have been automated. Is Atlas any different?",
+          "author": "molobodd",
+          "created": 1637492651,
+          "upvotes": 5,
+          "replies": {
+            "hli0fon": {
+              "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hli0fon/",
+              "text": "Well I only tried Nvivo for a short period and it didn't seem intuitive. I switched to atlas after that (I was kind weighing up the two ) and actually seems to be pretty straightforward. It was certainly quicker to dive into.  But I never mastered Nvivo fully so it's hard to give a proper comparison. \n\nThe function for making complex code searches seems  a bit uncecessarily complex (reverse polish notation rather than Boolean search ), but I presume it's just a bit more powerful, and I can more or less do what I want with it. \n\nThere are something things that could be more streamlined with less clicks (like choosing a code )  but nothing too terrible ! In a way both tools  kind of reminds me of SPSS , where to be honest the UI just isn't a well thought out as more popular software like Photoshop or word. To some extent I wonder if this is just what happens with niche software where there isn't as much development time invested. \n\nWhat I'd really like is an open source  tool that just does the basics and does them really well.  Seems like qualitative coding software development focuses a lot on adding complex features.  But I don't have much need for these. I just want to code and then run basic  queries - I'd love something that did that in the most streamlined way possible.",
+              "author": "zukerblerg",
+              "created": 1637495265,
+              "upvotes": 2,
+              "replies": {
+                "hli1ay4": {
+                  "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hli1ay4/",
+                  "text": "Thanks! I and a colleague tried and failed with NVivo last year. First of all, we couldn't make sense of the UI, and on top of that either she or I had the program freeze when we were working together in the same room, so we had these 10 minutes restarts of our computers in the middle of things over and over.\n\nWe returned back to paper and pen + Word and Excel because it just wasn't worth the time suck.\n\nWe are now in the process of applying for a new grant, and we need to include the estimated cost for software. I will definitely look into alternatives like Atlas. (I just thought NVivo was the only go-to, like the qualitative version of SPSS/SAS.)",
+                  "author": "molobodd",
+                  "created": 1637495915,
+                  "upvotes": 2,
+                  "replies": {
+                    "hli5uga": {
+                      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hli5uga/",
+                      "text": "Well they are certainly of the same general quality. I might be wrong but I think atlas offer a 30 day free trial. \n\nI've never had stability issues with atlas, and it recovers from system crashes pretty well. I've not worked on multi-coder projects though , but it seems to have a feature set for that. \n\nI learnt to uses it with my thesis , so it's hard to seperate the experience of learning to code from the experience of learning atlas. But it honestly didn't feel like a time suck to learn.  It's one of those prices of software where you really don't have to understand all the features to use it. There's definately bits I still don't understand , but these are things I don't really seem to have a need for, and not knowing them doesn't get in the way of the bits I do use.",
+                      "author": "zukerblerg",
+                      "created": 1637499037,
+                      "upvotes": 3,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hliaaw8": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hliaaw8/",
+      "text": "Career progression: it is not uncommon that you're stuck in a postdoc position for 10 or more years (in the UK), on 1-3 year fixed term contracts. From what I've seen, it is actually most likely. I've see brilliant people (excellent teachers and simultaneously genius scientists) being kept as postdocs for over 10 years and then they gave up and went to industry. Striving for a permanent research-related position in academia is like striving to be an astronaut. Theoretically it is doable, practically, very unlikely.",
+      "author": "GreyLaser",
+      "created": 1637501749,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "hljdvjl": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hljdvjl/",
+      "text": "Research: the oligopoly of Elsevier and other publishers that act as middlemen between researchers, survive on volunteer work, and then proceed to charge insane sums of money for providing what are otherwise very basic services.",
+      "author": "ardula99",
+      "created": 1637519113,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hlhso0j": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hlhso0j/",
+      "text": "Lacking the funds to purchase software that would help me solve problems",
+      "author": "Sant_Darshan",
+      "created": 1637489259,
+      "upvotes": 17,
+      "replies": {
+        "hli50cb": {
+          "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hli50cb/",
+          "text": "Absolutely, I get that. One of my best friends is a researcher and I'm appalled to see the financial challenges she struggles with due to lack of funding. \n\nIs there any software that comes to mind that you're unable to afford but that would help you?",
+          "author": "human_jpg",
+          "created": 1637498496,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hlirc3h": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hlirc3h/",
+      "text": "This great article on the market failures in science could spark some ideas: \n\nhttps://milan.cvitkovic.net/writing/market_failures_in_science/",
+      "author": "21ozHydroFlask",
+      "created": 1637509899,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hljjhk8": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hljjhk8/",
+      "text": "To do research after all of the bureaucratic bullshit and politics.",
+      "author": "optimization_ml",
+      "created": 1637521272,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hlklgyk": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hlklgyk/",
+      "text": "- There is no \"common app\" for graduate programs and I think it would be just swell if there were.\n- There really is no good citation manager, IMO\n- Adobe. Adobe is the worst and we all need it for something or another. Better competitors are needed so at the very least, Adobe can't justify its insane prices that aren't covered by all institutions.\n- Good lab notebook software would help me. I like OneNote but it has a lot of issues, particularly with saving the whole notebook. \n- An alternative to Twitter for online networking\n\nEditing as I think of more:\n- put this one at the top: for those of us in life sciences, the NIH is stupidly hard to navigate online and so many hours are wasted by so many people just trying to figure out how to assemble a NIH grant application. Instructions should be clear and accessible.",
+      "author": "genius-swan",
+      "created": 1637536955,
+      "upvotes": 5,
+      "replies": {
+        "hlkx7zc": {
+          "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hlkx7zc/",
+          "text": "I love zotero as a citation manager. It\u2019s free and extremely straightforward",
+          "author": "UnexpectedGeneticist",
+          "created": 1637542297,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hllqpg0": {
+          "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hllqpg0/",
+          "text": "+1 on no really good citation/paper managers (Mendeley went from buggy but promising you garbage after Elsevier bought it, don't like Zotero, EndNote is not open source and I don't like it, either...)\n\nI'd really like to see someone do some brainstorming with people from different disciplines on what does and doesn't work in a reference manager, features they've always wanted, etc.",
+          "author": "threecuttlefish",
+          "created": 1637556660,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hliagb4": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hliagb4/",
+      "text": "classism, racism, sexism, discrimination against people from developing countries, precarity, abuse, neoliberalization",
+      "author": "doornroosje",
+      "created": 1637501832,
+      "upvotes": 17,
+      "replies": {}
+    },
+    "hlj06ga": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hlj06ga/",
+      "text": "Something like the New Green Book app in Dear White People but for sociopathic PI's to avoid, that'd be great if you could around the libel issues.",
+      "author": "waterless2",
+      "created": 1637513536,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hlk2jh2": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hlk2jh2/",
+      "text": "saying \"in academia\" is even broader than saying\"in software engineering.\" It's an unanswerable question -- maybe narrow the focus a bit?",
+      "author": "iugameprof",
+      "created": 1637528830,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hli3oct": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hli3oct/",
+      "text": "1) some sort of program that will parse emails for keywords and sort them into categories (e.g. grade grubber, plagiarism, committee, etc.). Outlook Rules and folders are not enough when you get 200+ emails a day. Even better, a third-party app through the LMS that will auto-answer emails with links to the syllabus or provide a brief FAQ then invite students with content or grade questions rather than \u201cwhere can I find\u201d or \u201cwhat happens if\u201d or \u201chow do I do\u201d questions to reply with their question.\n\n2) Some sort of plug-in that auto tracks research submissions: which project, to which journal, on what date, first response time, R&R time with expected re-submission, etc.",
+      "author": "biglybiglytremendous",
+      "created": 1637497597,
+      "upvotes": 3,
+      "replies": {
+        "hljosxv": {
+          "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hljosxv/",
+          "text": ">Even better, a third-party app through the LMS that will auto-answer emails\n\nI've always wanted to make an automod in r/travel that simply Googles the title and then responds with whatever the Google suggestion is. Ideally it would appear as a regular commenter, not as an automod.",
+          "author": "CheeseWheels38",
+          "created": 1637523331,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hljxp92": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hljxp92/",
+      "text": "From a psychology perspective, it\u2019s that it is from a Western perspective of scientific methods. Don\u2019t get me wrong, I\u2019m all for it but that\u2019s also a problem I feel. We ONLY consider the Western perspective and we do not consider other perspectives to be valid as well. For instance, in Canada, Indigenous knowledge is so vast and informative but we do not validate it because according to Western scientific standards, it is immeasurable. And I am Indigenous myself so it is difficult to find this type of knowledge and practices in mainstream research that comes from an Indigenous lens and not Western practices. Just my experience :)",
+      "author": "Babeeboo123",
+      "created": 1637526918,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hljy63r": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hljy63r/",
+      "text": "Peacocking",
+      "author": "BigNasty819",
+      "created": 1637527110,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hls8a1e": {
+      "link": "/r/AskAcademia/comments/qyrsse/what_are_some_well_know_problems_in_academia_and/hls8a1e/",
+      "text": "Are you looking for something that will help academics or something that will make you money?\n\nOne example I can think of is a reference management system that works well. I currently use Mendeley, but I don't think Elsevier updates it. It constantly crashes and the features are outdated. There are some open source ref management softwares (eg. Zotero), but it doesn't seem like people have put in the time to make it really great. For example, I would appreciate a feature that mitigates the \"curve of forgetting\". I read so many journal articles that I tend to forget some of them. It would be great to have something like a macro that emails me the annotations and notes that I made on the journal articles that I read in the last week to refresh some of the key points of the articles I read recently.",
+      "author": "bandicooters",
+      "created": 1637684966,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

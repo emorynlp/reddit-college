@@ -1,0 +1,444 @@
+{
+  "sid": "qxzgrw",
+  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/",
+  "title:": "Sooo... turns out I don't have security clearance to present at a conference tomorrow. Plan B?",
+  "text": "My funding comes from the government, and while the work I'm doing involves a publically available dataset with publically available methods, I need security clearance to give my talk. This is despite having already attained clearance for our publically available paper that the talk is about.\n\nSo, yeah. I'm going to a conference where I probably can't discuss our work. Any ideas? I may cut out all discussion of our paper and instead talk about the papers related to the data set and the method.",
+  "author": "ParticularTomatillo3",
+  "created": 1637389032,
+  "updated": 1637688594,
+  "over_18": false,
+  "upvotes": 107,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "hld37ct": {
+      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hld37ct/",
+      "text": "Wow, that sucks! I\u2019m sorry that happened. Had a lab mate have a similar issue with DOE data - approved for the publication but found out days before that somehow the approval doesn\u2019t transfer to talks and he needed an entirely different form... no time to get it of course. what he did was present (he had a talk) the motivation, then future work on an upcoming dataset (so basically the intro and \u201cfuture directions\u201d of his original talk). It was not ideal but the talk was only 10 min so it was okay. Do you have a talk or poster?",
+      "author": "AdmirableLow7",
+      "created": 1637394613,
+      "upvotes": 76,
+      "replies": {
+        "hld5kfe": {
+          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hld5kfe/",
+          "text": "It's a 10 min talk at a pretty big conference. I'm fairly new to the conference circuit and was looking forward to finally getting some work out there, but so it goes. I may do something similar to your lab mate. \n\nMaybe if I wave my hands around forcefully enough, they'll like the presentation.",
+          "author": "ParticularTomatillo3",
+          "created": 1637396591,
+          "upvotes": 55,
+          "replies": {
+            "hld6j4g": {
+              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hld6j4g/",
+              "text": "I think it will be fine! No one will know what your talk \u201cshould have\u201d been, and ten min talks are short enough what you describe won\u2019t feel overly stretched out. Best of luck.",
+              "author": "AdmirableLow7",
+              "created": 1637397420,
+              "upvotes": 31,
+              "replies": {}
+            }
+          }
+        },
+        "hldyf1a": {
+          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hldyf1a/",
+          "text": "I mean, you need to be *exceptionally* careful with this; knowingly sharing information without having it cleared, even if there's no actual spillage, is an *immense* red flag and if it came up in an investigation it'd seriously harm your ability to get or maintain a security clearance.\n\nThis is doubly true for DoE and DoD related projects.",
+          "author": "r3dl3g",
+          "created": 1637418172,
+          "upvotes": 22,
+          "replies": {}
+        },
+        "hldx896": {
+          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hldx896/",
+          "text": ">what he did was present (he had a talk) the motivation, then future work on an upcoming dataset (so basically the intro and \u201cfuture directions\u201d of his original talk). It was not ideal but the talk was only 10 min so it was okay.\n\nCareful here. Classification can be weird about what information is classified, and what is not. In fact having a situation where 'A' is unclassified, and 'B' is unclassified, but 'A+B' *is* classified is not unheard of. Given that they've been cleared to publish, but not present, I would wager OP is in a situation like this. They're paper has likely been reviewed for any possible data spills, but there may be concerns that depending on what they actually say in their presentation, what questions get asked, and how any questions get answered, a data spill *could* occur (govt. is very risk-averse). \n\nWhile doing a partial presentation is a very good thought, u/ParticularTomatillo3 should double check with whomever is in charge of information security in this case (the person who told them 'no' to the presentation) to find out what what - if anything - can be presented in a partial format.",
+          "author": "McFlyParadox",
+          "created": 1637417544,
+          "upvotes": 29,
+          "replies": {
+            "hlenwei": {
+              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlenwei/",
+              "text": ">Given that they've been cleared to publish, but not present, I would wager OP is in a situation like this.\n\nIt's actually much simpler than that; from the perspective of the Federal Government, the paper and the presentation are two separate documents, and each document needs to undergo declassification procedures. The Feds do this entirely because any system where classification might be \"inherited\" from a prior document can get confusing and ambiguous, and leads to spillage; instead, they simply mandate that *all* documents that enter into the public domain be treated in this manner.\n\nFrom the sounds of it, OP got the paper cleared and either they (or someone they were working under) assumed that the clearance would transfer to the presentation. In reality, it doesn't work that way, and it *hasn't* worked that way for decades.",
+              "author": "r3dl3g",
+              "created": 1637429562,
+              "upvotes": 12,
+              "replies": {
+                "hlery60": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlery60/",
+                  "text": "That is also a distinct possibility as well. I was assuming OP had the whole 'kit' reviewed and got told 'unclassified' for the paper and 'classified' for the presentation. But if they only checked the paper, that explains things even more cleanly.",
+                  "author": "McFlyParadox",
+                  "created": 1637431253,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hldm8ke": {
+      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hldm8ke/",
+      "text": "Assuming DoE process is the same as DoD; you're supposed to send your presentation to your supervisor/mentor/whoever your contact is within the government, who themselves send it to the classification people. They'll then either clear it for public release or tell you what needs to be redacted.\n\nYou don't strictly need a \"clearance,\" and even those of us with security clearances still need our presentations and papers declassified and sanitized prior to public release.\n\nThis is also something that should have been made *utterly* clear to you at the beginning of this process, so it sounds like somebody fucked up.",
+      "author": "r3dl3g",
+      "created": 1637410706,
+      "upvotes": 29,
+      "replies": {}
+    },
+    "hldr1r9": {
+      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hldr1r9/",
+      "text": "I don\u2019t have a clearance personally, but I know a *lot*of people that do. Idk what your personal situation is, and this sounds a lot like DoE work rather than DoD work which is what I\u2019m used to. So with what I\u2019m about to say, YMMV.\n\nI don\u2019t think you should do anything, give any kind of talk around your current work. I would email the organizers and the panelists and be very clear and honest. \u201cMy clearance for speaking didn\u2019t come through in time, I\u2019m really sorry but I have to back out.\u201d These kinds of agencies take classification extremely seriously. I wouldn\u2019t say word one unless you are 110% sure youre allow to say what you\u2019re saying. Even if *you* think the information is basic or publicly available. \n\nClearances are like gold if you keep them. They open all kinds of doors, and will always be the greatest advantage you have in future funding applications. If the Govt. doesn\u2019t have to vet you twice, or to the same extent, you\u2019ll have an advantage over someone who does. Losing your clearance would be the death knell for any future work like that. A lost clearance is like a black mark that will follow you for life. That\u2019s before we even get to any of the sanctions that could be imposed if you accidentally reveal actually sensitive information. It\u2019s not worth it to give a 10 min talk, you already have the job and the government grant. \n\nPersonally I wouldn\u2019t go to the talk, but maybe I\u2019m militant. If you do go, just don\u2019t talk about your paper or your current work. Talk about something else you find might be interesting. If people ask just tell them your speaking clearance didn\u2019t go through and so you can\u2019t. They\u2019ll understand, or they won\u2019t. But importantly you won\u2019t lose your funding or your clearance over that. \n\nBut maybe the DoE is the Wild West of secrets idk. With the DoD is not a joke and the trainings arnt there to check a compliance box. You have to follow the rules or you\u2019ll be, at best, removed from the project.",
+      "author": "BeondTheGrave",
+      "created": 1637413969,
+      "upvotes": 19,
+      "replies": {
+        "hlelrv5": {
+          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlelrv5/",
+          "text": "Yeah, classification and clearance issues are not things to just guess about. OP should definitely talk to the organizers if possible.",
+          "author": "set_phrases_to_stun",
+          "created": 1637428675,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "hlfnie2": {
+          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlfnie2/",
+          "text": ">But maybe the DoE is the Wild West of secrets idk. \n\nDoE takes it about as seriously as the DoD. Neither agency fucks around with security clearances and dissemination of CUI.",
+          "author": "r3dl3g",
+          "created": 1637445104,
+          "upvotes": 3,
+          "replies": {
+            "hlfpg7t": {
+              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlfpg7t/",
+              "text": "Yeah I figured that was probably the case. Given what the DoE is responsible for I can only imagine what kind of projects OP is working on. And if its in any of the really exciting research fields, they make even normal DoD security processes look easy. And as I\u2019ve heard, the fun stuff has a one drop rule to it. Say the wrong word once and the whole thing jumps up in grade.",
+              "author": "BeondTheGrave",
+              "created": 1637445976,
+              "upvotes": 1,
+              "replies": {
+                "hlfpvmm": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlfpvmm/",
+                  "text": "Eh, they're not even necessarily involved in anything that spooky; they'd still be covered by information sharing protocols governing CUI.",
+                  "author": "r3dl3g",
+                  "created": 1637446173,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hlepz8l": {
+          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlepz8l/",
+          "text": ">  \u201cMy clearance for speaking didn\u2019t come through in time, I\u2019m really sorry but I have to back out.\u201d\n\nThis is the right move.  Don't mess around.  In the grand scheme of things, one presentation will not make any difference to your career.  You said you have already published this, and that is what counts on your CV.",
+          "author": "manova",
+          "created": 1637430443,
+          "upvotes": 6,
+          "replies": {
+            "hlfdx3g": {
+              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlfdx3g/",
+              "text": "I mean, in this case one presentation absolutely *can* make a difference in their career. It'd utterly *prevent* them from having a career.",
+              "author": "r3dl3g",
+              "created": 1637440778,
+              "upvotes": 4,
+              "replies": {
+                "hlfop4g": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlfop4g/",
+                  "text": "[deleted]",
+                  "author": null,
+                  "created": 1637445630,
+                  "upvotes": 1,
+                  "replies": {
+                    "hlfoxbv": {
+                      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlfoxbv/",
+                      "text": "You've missed my point.\n\nI'm not saying OP should give the talk; I'm saying that, if they do so without getting some kind of go-ahead from the DoE, it'll make an immense difference in their career...because it'll **destroy** their career.\n\nSkipping the talk costs them nothing. *Giving* the talk is what has the potential to obliterate their career.",
+                      "author": "r3dl3g",
+                      "created": 1637445735,
+                      "upvotes": 3,
+                      "replies": {
+                        "hlfp0v2": {
+                          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlfp0v2/",
+                          "text": "I did and deleted my comment. That was my mistake, sorry.",
+                          "author": "BeondTheGrave",
+                          "created": 1637445781,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "hlg3r4y": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlg3r4y/",
+                  "text": "Very good point!",
+                  "author": "manova",
+                  "created": 1637452545,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hlddmii": {
+      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlddmii/",
+      "text": "Ask the conference organizers or your contact for your funding agency. I'm sure it's happened to them before and they might be able to be specific about what you can and can't say, and if nothing else, they won't be surprised when your actual presentation comes around and you don't talk about your work.\n\nI had to give a talk at a (non-public) conference for my government funding agency, but the contact at our university wanted the slides 2 weeks ahead of time so they could be checked for what we could and couldn't include. My work was more or less fine but a few other people I know had their talks cut down quite a bit, so they presented more background as well as more on the instrumentation and theory that \"could apply\" to their work. As long as you are confident and practice beforehand it won't seem unnatural that you are missing the main part of your actual work.",
+      "author": "JHT230",
+      "created": 1637403703,
+      "upvotes": 18,
+      "replies": {
+        "hler1p7": {
+          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hler1p7/",
+          "text": ">Ask the conference organizers or your contact for your funding agency.\n\nThe conference organizers have ***zero*** authority on this issue unless they magically happen to be the same people responsible for clearing DoE documents for public release.",
+          "author": "r3dl3g",
+          "created": 1637430879,
+          "upvotes": 2,
+          "replies": {
+            "hlfm8yf": {
+              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlfm8yf/",
+              "text": "You aren't asking them for authority to be able to present your work.\n\nYou are asking them what you should present instead of your work. It also helps avoid grey areas of what's too closely related and what isn't.",
+              "author": "JHT230",
+              "created": 1637444541,
+              "upvotes": -1,
+              "replies": {
+                "hlfmv66": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlfmv66/",
+                  "text": "And what you're missing is that the organizers aren't in a position to tell you.\n\nThis isn't a case of make your best judgement and do your best; this is a case of OP *does not* have the US government's permission to share CUI.\n\nThe conference organizers cannot legally make that determination; their input is useless.",
+                  "author": "r3dl3g",
+                  "created": 1637444818,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hlh5k1q": {
+      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlh5k1q/",
+      "text": "Do you have any side projects you could talk about instead? Otherwise I'd withdraw. It's not worth messing with the clearance and your funding.",
+      "author": "mediocre-spice",
+      "created": 1637472186,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hldqjqz": {
+      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hldqjqz/",
+      "text": "I don't understand---you're presenting content from a paper that's already been cleared for public availability, and presumably not introducing anything new. What specifically are they claiming you're not allowed to do?",
+      "author": "respeckKnuckles",
+      "created": 1637413656,
+      "upvotes": 5,
+      "replies": {
+        "hldul86": {
+          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hldul86/",
+          "text": "Generally documents are cleared for release, not \u201cprojects,\u201d or \u201ctopics.\u201d It sounds like OP got the paper reviewed, but not their presentation. This is standard.",
+          "author": "ouemt",
+          "created": 1637416087,
+          "upvotes": 13,
+          "replies": {
+            "hli7lyh": {
+              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hli7lyh/",
+              "text": "But why isn't giving the presentation just considered an instance of discussing something that has already been cleared? Would they need approval to discuss the already-cleared paper with a colleague?",
+              "author": "respeckKnuckles",
+              "created": 1637500137,
+              "upvotes": 2,
+              "replies": {
+                "hlii74g": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlii74g/",
+                  "text": "Because the presentation is paired with a powerpoint file, and that file must be treated as a separate document, meaning it must go through a separate sanitization.",
+                  "author": "r3dl3g",
+                  "created": 1637505894,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "hlie9i7": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlie9i7/",
+                  "text": "The .docx file of the paper has (presumably) been cleared for release. It can be shared with anyone. The .pptx file for the presentation has not and must be cleared before it can be shared outside the lab/investigation team. \n\nThey can talk about the paper all they want. They cannot make a new file and share it with others.\n\nThis will make more sense if you assume that part of the project could be export controlled or something. The difference between something being an export or not can be just a few words. Paraphrasing cleared text can get you in trouble when you\u2019re already on the edge. That\u2019s why every **document** gets checked individually.",
+                  "author": "ouemt",
+                  "created": 1637503913,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "hlofjdj": {
+              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlofjdj/",
+              "text": "It is just of historical interest that the decision to localize declassification in _documents_ rather than projects, topics, etc., was first adopted by the Manhattan Project in 1946 on the recommendation of several top-scientists who were charged with coming up with a declassification policy from scratch, as they realized that the latter could be very nebulous, whereas a document could be just checked and re-checked and was very straightforward by comparison. The Atomic Energy Commission inherited this system in 1947, and the modern-day DOE inherited it from them.",
+              "author": "restricteddata",
+              "created": 1637611021,
+              "upvotes": 2,
+              "replies": {
+                "hloi7pk": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hloi7pk/",
+                  "text": "Hah, thanks! I\u2019m actually reading your book on the topic now.",
+                  "author": "ouemt",
+                  "created": 1637612102,
+                  "upvotes": 2,
+                  "replies": {
+                    "hlp2ple": {
+                      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlp2ple/",
+                      "text": "!!!",
+                      "author": "restricteddata",
+                      "created": 1637620535,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hldxz31": {
+          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hldxz31/",
+          "text": ">I don't understand---you're presenting content from a paper that's already been cleared for public availability, and presumably not introducing anything new.\n\nFrom the US government's perspective, the presentation is a separate document from the paper, and thus needs it's own clearing and sanitization.\n\nIt's also a good idea as even if you don't think the presentation contains anything new, sometimes things slip through.",
+          "author": "r3dl3g",
+          "created": 1637417939,
+          "upvotes": 9,
+          "replies": {
+            "hli7pvj": {
+              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hli7pvj/",
+              "text": "What if they want to discuss the paper with a colleague? Two colleagues? Three colleagues while at a conference?",
+              "author": "respeckKnuckles",
+              "created": 1637500204,
+              "upvotes": 2,
+              "replies": {
+                "hlii0fn": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlii0fn/",
+                  "text": "They absolutely could, but at the same time; this isn't something to idly mess around with.\n\nOP may very well be in a career path where their DoE security clearance is a must-have, meaning that *losing* that clearance is genuinely a career-ender.",
+                  "author": "r3dl3g",
+                  "created": 1637505803,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "hlioxyk": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlioxyk/",
+                  "text": "They can still be liable if info gets out.  The best operating principle is to not talk about it. \n\nIt's shitty from a personal experience perspective, I get it.  You want to talk shop with colleagues and learn, but this comes with the territory.",
+                  "author": "The_Infinite_Cool",
+                  "created": 1637508904,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hldki03": {
+      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hldki03/",
+      "text": "I've done work in the past that was on the classified / unclass border where we would ask for review before presenting. My question: are you sure you can't give the talk? If it's not recorded etc, if the abstract is already published, and if each fig or whatever has already been cleared ... I don't see the problem. When we did this work, asking was technically a courtesy.\n\n\nAnd if you're talking about APS-DFD, see you there!",
+      "author": "blue_pez",
+      "created": 1637409376,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hldzmly": {
+      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hldzmly/",
+      "text": "Can you request to broadcast in/record in advance and be on call/phone for q+a?",
+      "author": "messyredemptions",
+      "created": 1637418807,
+      "upvotes": -4,
+      "replies": {
+        "hle76ki": {
+          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hle76ki/",
+          "text": "The problem is the content not the physical presence",
+          "author": "guttata",
+          "created": 1637422395,
+          "upvotes": 5,
+          "replies": {
+            "hle9s5g": {
+              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hle9s5g/",
+              "text": "Op states the content is publicly available and already published though? Usually clearance hang ups are on the people for background checks etc.\n\nIs one of us not reading the post the same way? even the methods and data were publicly available.",
+              "author": "messyredemptions",
+              "created": 1637423538,
+              "upvotes": -3,
+              "replies": {
+                "hlenfc9": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlenfc9/",
+                  "text": "The US Government doesn't classify topics, it classifies ***documents***. The presentation and the paper are two separate documents, and thus will each need to go through sanitization individually. OP got the paper cleared, but not the presentation.\n\nThis has been standard practice for research involving DoD and DoE IP for a *long* time now, and OP should have known about it, meaning somebody involved in this project fucked up *big time*.",
+                  "author": "r3dl3g",
+                  "created": 1637429366,
+                  "upvotes": 5,
+                  "replies": {
+                    "hleoigw": {
+                      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hleoigw/",
+                      "text": "Right, and what I'm wondering additionally is still about the people--to work in certain communities personal clearance is often a requirement as well for access to such things. Government contractors, military, state department etc. often require personally clearances for the people themselves as well. \n\nA lot of the protocols went to shit for the previous presidential administration and nepotism and the government isn't necessarily on top of it's game so maybe things are different but on the whole the actual person customarily undergoes various background checks and such in advance of being allowed.",
+                      "author": "messyredemptions",
+                      "created": 1637429821,
+                      "upvotes": 1,
+                      "replies": {
+                        "hlep6a3": {
+                          "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlep6a3/",
+                          "text": "OP's also misspeaking; a security clearance isn't actually the problem. Even someone *with* a security clearance will need to go through this same process in order to publish, present, or disseminate any sort of technical documents to the public.\n\nWhat OP needs is to get their *documents* cleared by whatever office handles the DoE equivalent of DoD OPSEC.\n\nNone of this should be news to OP, meaning either they didn't pay attention to the details, or their DoE mentor didn't fill them in on the specifics.\n\n>A lot of the protocols went to shit for the previous presidential administration and nepotism and the government isn't necessarily on top of it's game so maybe things are different but on the whole the actual person customarily undergoes various background checks and such in advance of being allowed.\n\nDoD and DoE classification protocols did not, in point of fact, \"go to shit.\" They've been basically unchanged for decades, with the only recent changes being Obama unifying the various unclassified systems into a single set of designations across all agencies.",
+                          "author": "r3dl3g",
+                          "created": 1637430105,
+                          "upvotes": 5,
+                          "replies": {
+                            "hlhgq5g": {
+                              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlhgq5g/",
+                              "text": "> None of this should be news to OP, meaning either they didn't pay attention to the details, or their DoE mentor didn't fill them in on the specifics.\n\nIt's not news to me. Indeed, I misused the jargon. The clearance for the presentation *was* submitted... it just unfortunately won't be turning around in time. The talk can't be about classified material, so I'll either withdraw or use the time slot to discuss something outside the scope. I ain't that dumb.\n\nI'm mostly peeved and venting, given how utterly trivial I know the contents are to sec matters. The abstract is out there, and any interested parties can find our paper. Thanks for your replies.",
+                              "author": "ParticularTomatillo3",
+                              "created": 1637479968,
+                              "upvotes": 2,
+                              "replies": {}
+                            },
+                            "hlepzho": {
+                              "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlepzho/",
+                              "text": "Thank you for the clarification, that makes sense now. I could have been more specific in terms of how the process was bypassed by the family.\n\nhttps://www.nbcnews.com/politics/donald-trump/officials-rejected-jared-kushner-top-secret-security-clearance-were-overruled-n962221\n\nhttps://www.rollingstone.com/politics/politics-news/trump-security-clearance-713838/\n\nhttps://www.foxnews.com/us/official-trump-team-overruled-25-security-clearance-denials",
+                              "author": "messyredemptions",
+                              "created": 1637430446,
+                              "upvotes": 1,
+                              "replies": {
+                                "hleqp2h": {
+                                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hleqp2h/",
+                                  "text": "That's largely irrelevant, though, because again; we're talking about two completely separate things. A security clearance doesn't give you the power to freely disseminate classified or unclassified government material, it only concerns **obtaining** that material. Trump doing sleazy things concerning getting his family members a security clearance has **zero** bearing on the actual process of getting information properly sanitized and cleared for public release.\n\nFurthermore; while the Trump administration overruled some protocols, they didn't fundamentally break any hard-and-fast rules concerning clearances, entirely because the POTUS (by definition) is the ultimate authority on who gets a clearance.",
+                                  "author": "r3dl3g",
+                                  "created": 1637430733,
+                                  "upvotes": 1,
+                                  "replies": {
+                                    "hlerpwa": {
+                                      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlerpwa/",
+                                      "text": "You're over explaining. I understood and conceded the point of error for the sake of transparency in our conversation already. Thank you.",
+                                      "author": "messyredemptions",
+                                      "created": 1637431158,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "hlennah": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hlennah/",
+                  "text": "The issue here is that the government clears individual documents for release. They don't trust anyone to not accidently say or write something g they shouldn't have said or written even if it is very similar to something else that was fine. So each document, the paper and the talk, need separate approvals for public release. For instance, that data and project might be fine to talk about, but OP could accidently say something related to the governments research resources they didn't want to publish. So each new document created is treated as controlled information until it has been through a review and approval process. Not all government funding requires this, but some does.",
+                  "author": "morePhys",
+                  "created": 1637429458,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "hled69y": {
+                  "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hled69y/",
+                  "text": "Yeah, you, because I read the whole post:\n\n> I need security clearance to give my talk. This is **despite having already attained clearance for our publically available paper** that the talk is about.\n\n> **So, yeah. I'm going to a conference** where I probably can't discuss our work.",
+                  "author": "guttata",
+                  "created": 1637425037,
+                  "upvotes": 1,
+                  "replies": {
+                    "hleiwm2": {
+                      "link": "/r/AskAcademia/comments/qxzgrw/sooo_turns_out_i_dont_have_security_clearance_to/hleiwm2/",
+                      "text": "Not sure why you're trying to attack me for my questions, please use your advanced education and try projecting your ego somewhere else.\n\n>This is despite having already attained clearance for our publically available paper\n\nThat says to me the person/whom they'd be interacting with is the issue, not the paper/it's contents. So maybe they can't take and answer questions but the information is already out there and approved.",
+                      "author": "messyredemptions",
+                      "created": 1637427468,
+                      "upvotes": -4,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

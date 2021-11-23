@@ -1,0 +1,48 @@
+{
+  "sid": "qzlt7t",
+  "link": "/r/college/comments/qzlt7t/syllabus/",
+  "title:": "Syllabus",
+  "text": "Is there a syllabus website or app to organize syllabus and sync to calendar?",
+  "author": "AccordingSky1277",
+  "created": 1637588948,
+  "updated": 1637689076,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hln0vdg": {
+      "link": "/r/college/comments/qzlt7t/syllabus/hln0vdg/",
+      "text": "I recommend Microsoft excel. It doesn\u2019t sync with calendar as far as I know, but it is very nice.",
+      "author": "iliad2",
+      "created": 1637590012,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hlnal1m": {
+      "link": "/r/college/comments/qzlt7t/syllabus/hlnal1m/",
+      "text": "Can you elaborate a bit more on your question?  Are you asking as a student or faculty?",
+      "author": "MisplacedLonghorn",
+      "created": 1637594527,
+      "upvotes": 1,
+      "replies": {
+        "hlnax88": {
+          "link": "/r/college/comments/qzlt7t/syllabus/hlnax88/",
+          "text": "I am asking as a student. During the begining of the semester, I was wondering if there was a way to autopopulate my class exam date and assignments in to a calender. I know there is something like PERRLA app that helps with that, I was wondering if there are anymore websites/ or apps like that.",
+          "author": "AccordingSky1277",
+          "created": 1637594674,
+          "upvotes": 2,
+          "replies": {
+            "hlnbe26": {
+              "link": "/r/college/comments/qzlt7t/syllabus/hlnbe26/",
+              "text": "If this is an online class using Canvas or Blackboard, these may already be there in a calendar page for your course.\n\nIf this is a face-to-face course, maybe something *like* this: [https://www.mystudylife.com](https://www.mystudylife.com). Note: I just Googled the term \"student online calendar\" and did some quick scanning.  Not a recommendation, per se.",
+              "author": "MisplacedLonghorn",
+              "created": 1637594878,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}
