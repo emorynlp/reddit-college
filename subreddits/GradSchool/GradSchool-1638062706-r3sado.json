@@ -1,0 +1,48 @@
+{
+  "sid": "r3sado",
+  "link": "/r/GradSchool/comments/r3sado/did_my_prof_mess_up_my_thesis_formatting/",
+  "title:": "Did my prof mess up my thesis formatting?",
+  "text": "I am finally working to finish final loose ends on my M.A. thesis thanks to the excellent feedback I got on this sub.  \n\nBut now I am starting to wonder whether one of my examiners messed up my thesis formatting. \n\nWhen I got my thesis back (in word with track changes having been used), I didn't think twice about using the document from the examiner to address her comments.  \n\nI soon noticed that there were a few rogue section breaks in the document.  \n\nI should have stopped at that point and taken a look at the entire document.  As I am working on her comments page by page, turns out the section breaks are everywhere in the middle of paragraphs just strewn about as many as two per page in a 140 page document.  And it's actually not that easy to delete them.  \n\nThese section breaks also interfere with footnotes and TOC formatting.  \n\nHas that ever happened to anyone that you got a document returned from a supervisor or examiner whose formatting was really different from what you handed in?",
+  "author": "ExactEmu7443",
+  "created": 1638062706,
+  "updated": 1638207977,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.5,
+  "comments": {
+    "hmd4kt4": {
+      "link": "/r/GradSchool/comments/r3sado/did_my_prof_mess_up_my_thesis_formatting/hmd4kt4/",
+      "text": "When Microsoft Word documents are saved back and forth between different software other than just Word, sometimes the formatting breaks. This is largely a consequence of Microsoft's extremely complex and not necessarily well implemented XML and style sheets.\n\nSo blame Microsoft. lol",
+      "author": "raistlin65",
+      "created": 1638074946,
+      "upvotes": 2,
+      "replies": {
+        "hmdr4ch": {
+          "link": "/r/GradSchool/comments/r3sado/did_my_prof_mess_up_my_thesis_formatting/hmdr4ch/",
+          "text": "True, just wanted to add that even different versions of Word will mess up the document.\n\nHeck, even the same version of Word with different settings might.\n\nDon't use doc/docx for long documents.",
+          "author": "Single_Blueberry",
+          "created": 1638090200,
+          "upvotes": 4,
+          "replies": {
+            "hmegykn": {
+              "link": "/r/GradSchool/comments/r3sado/did_my_prof_mess_up_my_thesis_formatting/hmegykn/",
+              "text": "This is the last time, I will have used word for a long document.  Thanks.",
+              "author": "ExactEmu7443",
+              "created": 1638108683,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hmegwrb": {
+          "link": "/r/GradSchool/comments/r3sado/did_my_prof_mess_up_my_thesis_formatting/hmegwrb/",
+          "text": "I am happy to blame Microsoft.  Thanks for clearing this up.",
+          "author": "ExactEmu7443",
+          "created": 1638108656,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

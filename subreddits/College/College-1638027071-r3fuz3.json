@@ -1,0 +1,47 @@
+{
+  "sid": "r3fuz3",
+  "link": "/r/college/comments/r3fuz3/lost_data_for_the_lab_i_dont_know_how_to_confront/",
+  "title:": "Lost data for the Lab. I don't know how to confront the professor...",
+  "text": "Hi,\n\nI'm in a psychology lab and I just lost the participant's data from connecting the data hard drive to my MacBook.\n\nWe use a Seagate hard drive and it has not been connected to my MacBook before so I had to go through a process called \"Erase\" without knowing it would delete data from the hard drive.\n\nI have unplugged the hard drive as soon as I knew the process was going to erase the data ( so like 15-20 seconds after knowing what \"Erase\" would do) and now I don't know what to do.\n\nHonestly, I am anxious about how to tell this to the professor. My heart is beating so fast and I just feel so stupid.\n\n&#x200B;\n\nDoes anyone know how I can solve this? - How to connect the hard drive without losing data?\n\nAnd emotional support would be thankful too... I don't know... I feel so stupid.\n\n&#x200B;\n\n[Now it looks like this. The data is \\\\\"Not Mounted\\\\\" does this means the data is erased?](https://preview.redd.it/75dyo6daq5281.png?width=1910&format=png&auto=webp&s=3b2bb350239f6cadd342a7383f9e4099fdd2fc78)",
+  "author": "ColdNoodlesKR",
+  "created": 1638027071,
+  "updated": 1638206875,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.33,
+  "comments": {
+    "hma70y1": {
+      "link": "/r/college/comments/r3fuz3/lost_data_for_the_lab_i_dont_know_how_to_confront/hma70y1/",
+      "text": "Be honest, provide whatever evidence you can, and suggest a solution (more time? redo?) \n\nTo be very clear, you're not looking to \"confront\" your professor. A confrontation suggests conflict. You're basically begging for help. Go in polite and with the attitude that you're grateful for any consideration your professor may offer.",
+      "author": "Galactica13x",
+      "created": 1638027315,
+      "upvotes": 8,
+      "replies": {
+        "hma8axy": {
+          "link": "/r/college/comments/r3fuz3/lost_data_for_the_lab_i_dont_know_how_to_confront/hma8axy/",
+          "text": "Thank you!\nHope I can change the title from \u2018confront\u2019 to \u2018tell\u2019. English is not my first language so I wasn\u2019t sure of what connotations it has.\n\nI don\u2019t know what solutions I can offer alone. The data analysis already have involved other lab members too as it was heavy data\u2026\n\nI also have a poster submission due tomorrow and now that I can\u2019t analyze those data, I can\u2019t think how can I make that up. Fortunately, that poster is only for a school symposium so not attending it wouldn\u2019t be a problem.",
+          "author": "ColdNoodlesKR",
+          "created": 1638027897,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hmaft8d": {
+      "link": "/r/college/comments/r3fuz3/lost_data_for_the_lab_i_dont_know_how_to_confront/hmaft8d/",
+      "text": "I do not think you should feel stupid. Personally, I am 23, have done a lot of research in college and after and have never been asked to work with an external hard drive and transfer data. If it was that important they wouldn't leave the task to someone who is unfamiliar with it.\n\nOne time in a biology lab my group had an issue with collecting data when one of our group members did not show up at her assigned time to collect the data and then did not tell anyone about it. It made everything worse that she did not report her mistake ASAP. In the end, I think we were basically allowed to just fake the data because it's just a college course science lab and it really does not matter. Just email your professor and tell him what you think happened (maybe it's not even erased like you think it is) and I don't think the professor will be mad at you or even doc points.",
+      "author": "LowElectrical9168",
+      "created": 1638031294,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmaukcr": {
+      "link": "/r/college/comments/r3fuz3/lost_data_for_the_lab_i_dont_know_how_to_confront/hmaukcr/",
+      "text": "Okay some tips from a Computer Science Student from Germany \ud83d\ude05: Apple to my knowledge on its normal formatting/erasing of hard drives does not overwrite the data, just \u201cforgets\u201d which block on the drive the data is stored in. Think of it that way. How do you make a city disappear? I mean you could just destroy and level every house -> Overwriting or you can just throw away the phone Book telling you who lives where and erase the city from the map -> what you have probably done. It\u2019s all probably still there (although the quick unplugging was more likely to corrupt data but don\u2019t worry) There are free Programs like Piriforms \u201cRecuva\u201d which go through every block of the hard drive and try to reconstruct the data. I would guess your IT department knows that, but IF you want to try it yourself (I would not recommend it to you as I don\u2019t think, no offence, that you have the knowledge for that stuff) First of all Clone all the data with something like \u201cCarbon Copy Cloner\u201d and then on the Backup you just made run Recuva and see if it finds something. It is of paramount importance that you now DONT DELETE ANYTHING ELSE. Also I guess, if your Mac said that you have to delete the drive first, then the format of the drive was not recognisable sooooo that was not your problem to begin with (rather than your supervisors) so if you are clever, you can also blame it on them \ud83d\ude1d\ud83d\ude09\nHope I could help a little. If you have any more questions, just ask me",
+      "author": "nost_algia_kid",
+      "created": 1638037546,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

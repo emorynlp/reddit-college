@@ -1,0 +1,125 @@
+{
+  "sid": "r0jkzr",
+  "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/",
+  "title:": "What citation style is this?",
+  "text": "I'm preparing an invited article for a small international publication that provides only these guidelines for citation:\n\n>List the references with the respective numbers in square brackets and in the order in which they appear in the text, at the end of the manuscript. References must information as shown in the following example:  \n>  \n>\\[1\\] Author 1, Author 2, et al., article title, publication title, volume, publication year, pages and DOI\n\nI'm left unclear about a lot of details. Do I list the author's entire first name, or just the initial(s)? Do I list last names first like in most styles, or first names first? Does the citation number in the main text go in brackets or superscript?\n\nI will probably ask the journal editor but first I wanted to make sure I'm not missing something that's very obvious to the international scholar community (I'm American and used to APA style, and I'm a bit of a disaster at implementing other styles.",
+  "author": "Iron_Rod_Stewart",
+  "created": 1637691790,
+  "updated": 1638206352,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hlsqc99": {
+      "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hlsqc99/",
+      "text": "Could you not check other papers published in this journal to see how others have done it?",
+      "author": "DeepSeaDarkness",
+      "created": 1637691963,
+      "upvotes": 10,
+      "replies": {
+        "hlswsbs": {
+          "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hlswsbs/",
+          "text": "It's for an edited book, and I haven't been able to access any past issues online yet.",
+          "author": "Iron_Rod_Stewart",
+          "created": 1637694450,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "hlstk7h": {
+      "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hlstk7h/",
+      "text": "I'm not certain, but check out \"#5 Elsevier\" on this page[https://www.bibguru.com/blog/citation-styles-numbers-in-brackets/](https://www.bibguru.com/blog/citation-styles-numbers-in-brackets/)\n\nIn the official Elsevier style guidelines (linked on that page), it seems pretty close to what you are describing.\n\n\\---\n\nEdit: Sometimes journals come up with their own BS version/tweak of some accepted standard.",
+      "author": "molobodd",
+      "created": 1637693198,
+      "upvotes": 7,
+      "replies": {
+        "hlswvsj": {
+          "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hlswvsj/",
+          "text": "Seems very likely that it's this one. Thank you!!",
+          "author": "Iron_Rod_Stewart",
+          "created": 1637694488,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hlsrwko": {
+      "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hlsrwko/",
+      "text": "IEEE citation style\n\nUse a citation manager, it\u2019ll make transitioning between citation styles easier.",
+      "author": "FunctionalSpinalUnit",
+      "created": 1637692566,
+      "upvotes": 4,
+      "replies": {
+        "hlstaa4": {
+          "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hlstaa4/",
+          "text": "IEEE would have the year at the very end, after the pages, wouldn't it?",
+          "author": "molobodd",
+          "created": 1637693092,
+          "upvotes": 5,
+          "replies": {
+            "hlsu7r2": {
+              "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hlsu7r2/",
+              "text": "Ah that\u2019s correct for journal articles. I was thinking of hardcover citation, where date is before page.",
+              "author": "FunctionalSpinalUnit",
+              "created": 1637693450,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hluvgol": {
+      "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hluvgol/",
+      "text": "This reminds me of Chinese citation style for humanities and literature. I don\u2019t know if I\u2019m right, but if it is for Chinese publication I might be able to give you some examples",
+      "author": "randomgadfly",
+      "created": 1637725103,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hluvlaj": {
+      "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hluvlaj/",
+      "text": "It actually seems like standard apa",
+      "author": "Elsbethe",
+      "created": 1637725166,
+      "upvotes": 0,
+      "replies": {
+        "hluw9xw": {
+          "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hluw9xw/",
+          "text": "Nope",
+          "author": "Iron_Rod_Stewart",
+          "created": 1637725502,
+          "upvotes": 2,
+          "replies": {
+            "hluwgh7": {
+              "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hluwgh7/",
+              "text": "OK I've been publishing for years and it looks just like APA to me",
+              "author": "Elsbethe",
+              "created": 1637725592,
+              "upvotes": -1,
+              "replies": {}
+            }
+          }
+        },
+        "hluw9zw": {
+          "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hluw9zw/",
+          "text": "APA doesn\u2019t use numerical in-text citation and the year follows the authors in the reference",
+          "author": "beetix",
+          "created": 1637725503,
+          "upvotes": 2,
+          "replies": {
+            "hluwnm0": {
+              "link": "/r/AskAcademia/comments/r0jkzr/what_citation_style_is_this/hluwnm0/",
+              "text": "You are correct I did not read carefully",
+              "author": "Elsbethe",
+              "created": 1637725694,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "sid": "r1gaq2",
+  "link": "/r/GradSchool/comments/r1gaq2/colleague_published_a_paper_containing_my_work/",
+  "title:": "Colleague published a paper containing my work behind my back",
+  "text": "To explain the situation, a lab abroad asked our lab for a pilot measurement of their materials on our quite unique imaging system. Student A (more senior PhD than me) did the measurement itself (not that demanding, you basically just stick the sample in and wait), I did the data analysis. I was told to basically do whatever I feel like to make the results nice, with the prospect of further cooperation with the institute. So I devised the analysis myself, spent a considerable chunk of time implementing the image analysis procedure and created the figures and graphs. I turned the results over to A, who communicated with the outside lab. Then I haven't heard about the project for a while, until I by a chance stumbled across a paper, where A is the co-author and my work makes one section of the paper, competely unchanged. A did not make any other contribution besides the measurement and (inaccurately) describing the methodology I devised. I am not even acknowledged.\n\nOn one hand, I am happy the cooperating institute liked my work and included it in their paper. It was even published in a high-quality journal. On the other hand, it sucks to not be acknowledged as the author of the analysis. Our supervisor most likely knows about the situation and still they went behind my back with the submission. I honestly feel pretty sick about the whole thing and it seems pretty shitty from both A and my supervisor, as my contribution to the paper is much stronger than A's.\n\nIs this something that happens a lot? Should I just suck it up, or is there something I can do?",
+  "author": "idonotneedthisacc",
+  "created": 1637791019,
+  "updated": 1638208023,
+  "over_18": false,
+  "upvotes": 6,
+  "upvote_ratio": 0.81,
+  "comments": {
+    "hlyhhsh": {
+      "link": "/r/GradSchool/comments/r1gaq2/colleague_published_a_paper_containing_my_work/hlyhhsh/",
+      "text": "This is a very unfortunate situation. I would talk to your supervisor but not involve student A.\n\nThe most realistic situation, in my opinion, is this: advisor/supervisor is probably completely unaware of what happened, the collaborator asked student A for the data and student A gave them the data, and the advisor has no idea you were involved. So it may not necessarily reflect poorly on your supervisor.\n\nThe exact requirements for authorship differ everywhere. For example: in my lab we often score slides for one another so the analysis is blind. Collecting and processing the tissue (i.e. doing the experiment) is about equally time consuming to actually scoring the resultant slides. It is a standing rule, therefore, that someone who scores slides is considered as a contributor (author) to the outcome of that experiment, because the scoring process requires skill/expertise. I know, personally, of a very similar lab who strictly does *not* include people as authors for scoring slides.\n\nEither way, it seems like you have a good attitude about the whole situation and at the very worst it's a learning experience to delineate how much authorial right you have before working on a project.",
+      "author": "gradthrow59",
+      "created": 1637792086,
+      "upvotes": 7,
+      "replies": {
+        "hlylwzz": {
+          "link": "/r/GradSchool/comments/r1gaq2/colleague_published_a_paper_containing_my_work/hlylwzz/",
+          "text": "Thanks for the comment. I think that my supervisor is aware. This wasn't even supposed to be an analysis for a paper, it was more of a \"here's what we can do for you\" kind of thing. I will definitely keep an eye for things like this in the future, so I don't get burned again. I feel more betrayed by A, because I felt there's atleast some common decency among students in our lab, but apparently not.",
+          "author": "idonotneedthisacc",
+          "created": 1637793906,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hlyit56": {
+      "link": "/r/GradSchool/comments/r1gaq2/colleague_published_a_paper_containing_my_work/hlyit56/",
+      "text": "Do you have any supporting evidence that you did the analysis, and not Student A? Any original data files on your computer, notes in your notebook of your analysis, etc? This is academic misconduct, since you contributed a significant amount of work for the paper and were not acknowledged in any way, shape, or form.  I would talk to your Research Integrity Officer at your institution to see if they could verify that academic misconduct took place and take appropriate action. \n\nAs an aside, if the protocols for your lab's portion is inaccurate, it could make it hard for other researchers to reproduce the results reported in the paper, which could spell trouble for the author's from the other institution your lab collaborated with, depending on how severe the inaccuracies are. I think it would be best to report this, given the information you have given us.",
+      "author": "CrazyWashu",
+      "created": 1637792608,
+      "upvotes": 4,
+      "replies": {
+        "hlymyfc": {
+          "link": "/r/GradSchool/comments/r1gaq2/colleague_published_a_paper_containing_my_work/hlymyfc/",
+          "text": "Yeah, I do have all the files. Even when I know this is most likely academic misconduct, I think that if I tried to escalate, things would get quite difficult for me in the lab. It's just frustrating for me. I am willing to let one co-authorship slide, and even though I sort of expected something like this would happen during my PhD, it still shook me pretty hard, especially coming from a fellow student.",
+          "author": "idonotneedthisacc",
+          "created": 1637794352,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hlzzolx": {
+      "link": "/r/GradSchool/comments/r1gaq2/colleague_published_a_paper_containing_my_work/hlzzolx/",
+      "text": "You\u2019re in a difficult situation in the sense that you need to carefully evaluate the short term benefits with long term consequences.  I think it is more a question of how you address the situation rather than whether you address the situation.  Whether malfeasance was involved or not what your describing is academic misconduct. \n\nYes, there is variability in how these things are done but from the sounds of it you made a meaningful contribution to the project.  Possibly a more meaningful contribution than student A who was listed as an author.  This is why it is essential to make sure there is a mutual understanding of authorship when collaborating with someone.  There is wide variability in practices and you want to be sure that no one is making poor assumptions about what will come out of the collaboration. \n\nYes, you could report it to research misconduct but I think they would expect you to speak to the supervisor first.  And I really do think that whether or not you expect to get anything out of it, talking to your supervisor about the situation is the most appropriate course of action.  You\u2019re impulse to stick up for yourself is well grounded.   I think it\u2019s a meaningful conversation to have in terms of being able to anticipate future situations.  In other words, have the conversation with the intent of clarifying future collaborations.  \n\nTBH, based on what you\u2019ve said you could escalate it to the point the primary author is compelled to contact the journal to correct the oversight by including you as an author.  Is that the best course of action? Probably not but, at the very least, you want to safeguard yourself against future situations.",
+      "author": "DicaxErsatz",
+      "created": 1637817070,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

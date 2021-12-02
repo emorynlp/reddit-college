@@ -1,0 +1,71 @@
+{
+  "sid": "r24rib",
+  "link": "/r/AskAcademia/comments/r24rib/plagiarism_question_paying_someone_to_help_me/",
+  "title:": "Plagiarism Question: Paying Someone To Help Me Program",
+  "text": "Hello everyone,\n\nI am an MA student in a social sciences major, and I intend on writing a thesis that will include some quantitative analysis of data sourced from the Internet. Now, this data is hard to get without using Python to scrape it. I've been trying to learn enough Python to write the scraping program myself but I simply don't have the time. So, I have been considering paying someone to write the program for me. It's one of those things where for a programmer, it is a simple program, but for me, it is a complex endeavor.\n\nObviously, I am wondering if this counts as plagiarism or not. Now, before you pass judgement, a few things: the program would return raw data to me, I would do all the data cleaning and processing myself. I would do all the analysis myself. Also, I have no problems about stating in my thesis that I didn't build the program myself, I have no intentions of acting as if I am a competent Python programmer; it just so happens that I need the data and I need a Python program for that. I'm also not being graded or assessed on my programming abilities, obviously, my degree otherwise has nothing to do with Python outside of my need to get this data.\n\nLet me know what you think. Should I avoid doing this? Or go about it in a different manner? Is there an academic protocol for saying \"hey, I didn't build this thing but I'm using it\"? Throwaway because reasons.",
+  "author": "AssBlast6969",
+  "created": 1637869619,
+  "updated": 1638206327,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.6,
+  "comments": {
+    "hm2l7oa": {
+      "link": "/r/AskAcademia/comments/r24rib/plagiarism_question_paying_someone_to_help_me/hm2l7oa/",
+      "text": "So long as this is done above board (meaning you clearly credit the programmer) your likely fine. Unless programming would be part of the expectations of your program/degree.",
+      "author": "CerebralBypass",
+      "created": 1637870152,
+      "upvotes": 25,
+      "replies": {
+        "hm3dobd": {
+          "link": "/r/AskAcademia/comments/r24rib/plagiarism_question_paying_someone_to_help_me/hm3dobd/",
+          "text": "Second",
+          "author": "octaviousearl",
+          "created": 1637883670,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hm2ub1f": {
+      "link": "/r/AskAcademia/comments/r24rib/plagiarism_question_paying_someone_to_help_me/hm2ub1f/",
+      "text": "Since it\u2019s for a thesis, clear it with your advisor first.\n\nIt sounds like you\u2019re paying someone for a menial task, but doing the research part and the writing yourself, so it shouldn\u2019t be a problem for your thesis.  As long as you\u2019re clear about which parts you did and did not do yourself, I don\u2019t see any academic integrity issues either.\n\nIf any peer-reviewed publications result from the work, then they probably also deserve an acknowledgement or co-authorship, depending on their level of involvement.  (Unless they get much more involved later on, though, this sounds more like a minor acknowledgement and not any co-authorship.)",
+      "author": "ComputerSystemsProf",
+      "created": 1637874227,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "hm47k0w": {
+      "link": "/r/AskAcademia/comments/r24rib/plagiarism_question_paying_someone_to_help_me/hm47k0w/",
+      "text": "Plagiarism is using someone else\u2019s words or ideas without proper citation.\n\nIt\u2019s not plagiarism if you fully credit whoever develops the code.",
+      "author": "bigrottentuna",
+      "created": 1637899456,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hm4kzz0": {
+      "link": "/r/AskAcademia/comments/r24rib/plagiarism_question_paying_someone_to_help_me/hm4kzz0/",
+      "text": "One of the things I try to pass on to my students is that you can do pretty much anything - so long as it is clearly documented (reported/acknowledged etc). \n\nThere is a small point about this being part of a thesis, so I would run it pass your supervisor before going that route.  Who knows, they may either know someone who can help, or even, if we are reaching for the moon, -pay for it out of a grant.",
+      "author": "Life_time_learner",
+      "created": 1637907697,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hm2v3bz": {
+      "link": "/r/AskAcademia/comments/r24rib/plagiarism_question_paying_someone_to_help_me/hm2v3bz/",
+      "text": "Don't worry OP this is fine to do as long you are clear in your thesis about what you did and what the programmer did.",
+      "author": "Horatio_the_hat",
+      "created": 1637874601,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hm5fp0e": {
+      "link": "/r/AskAcademia/comments/r24rib/plagiarism_question_paying_someone_to_help_me/hm5fp0e/",
+      "text": "Could you not just ask another acedemia member, specifically someone with the knowledge to write the program and give them authorship. Might be able to get it done for free that way.",
+      "author": "burntpeaches",
+      "created": 1637931970,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

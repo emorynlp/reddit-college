@@ -1,0 +1,81 @@
+{
+  "sid": "r0lqpo",
+  "link": "/r/college/comments/r0lqpo/how_to_predict_your_grades/",
+  "title:": "How to Predict Your Grades",
+  "text": "I just had a friend admit that she has no idea how grades are calculated, and judging from some of the rants I've seen on r/Professors, it sounds like this is a fairly common problem amongst students. As such, I thought I'd give you a quick tutorial on how I predict my grades. \n\nFirstly, you should look at the course breakdown in your syllabus. Here's an example - Quizzes - 15%, Exam 1 - 20%, Exam 2 - 20%, Paper 20%, Final Exam 25%. Next, check the grading scale. The one at my college is  93-100 A, 90-92.9 A\u0002-, 87-89.9 B+, 83-86.9 B,  80-82.9 B\u0002-, 77-79.9 C+, 73-76.9 C, 70-72.9 C\u0002-, 67-69.9 D+,  63-66.9 D,  60-62.9 D-, <60 F. Yours may look different if your college doesn't use +/- grades, but that's not terribly important here. What matters is that you understand that your grade will be the percentage of points that you accumulate throughout the semester. \n\nThis will probably be more helpful with an example. Suppose you are averaging 75% on your quizzes, you got an 83% on your first exam, 88% on your second exam, and 92% on the paper. What grade do you need on the final for a B in the class? \n\nStart by multiplying the percentages that your assignments are worth by the percentages your earned in them. \n\nQuizzes - .15 x .75 = .1125\n\nExam 1 - .20 x .83 = .166\n\nExam 2 - .20 x .88 = .176\n\nPaper - .20 x .92 = .184\n\nEach of these resulting fractions are the percentages of your final grade that is in the bag. Add these together (.1125 + .166 + .176 + .184 = .6355), and you will see that 63.55% of your grade is solid, and now you have a potential 25% to earn in the form of your final exam. This means that the highest grade you can get is an 88.55% or a B+ (63.55+25 = 88.55). \n\nNow you have covered 75% percent of the weight of your course, and earned 63.55% of it. If you subtract 63.55 from 75, you will find that you have lost 11.45% of your final grade. There is no getting that back, and so your chances of getting an A are nil, unless you were to beg for extra credit (not that I recommend this). \n\nNow, the lowest threshold for a B is 83, meaning that you can lose as much as 17% and still get a B. However, since you've already lost 11.45%, you don't want to push it, and can only lose 5.55% more of your final score and still make your goal. 25 - 5.55 = 19.45, which is the percentage of your final grade you need at minimum to make your goal. 19.45/25 = 77.8%, which is the minimum grade you need on your final exam to get this goal. \n\nHowever, you've already been improving throughout the semester, seeing as you went from a 83 to an 88 in exam scores. If you take the average of those two scores (85.5) and apply that to your final score (.855 x .25 = .21375), you will see that you have earned 21.375% of your final grade and only lost 3.625% of your final score in this test. If you add 21.375% to 63.55%, you will see that you have earned a total of 84.925%, which is well within your limits to earn a B. \n\nSo there you have it. Now you know how to both calculate the minimum score and a more realistic score for your final grade. Of course, circumstances can change and you could either do far better or far worse than you thought on your tests. I hope this helps some people.",
+  "author": "Paesana",
+  "created": 1637697501,
+  "updated": 1638207365,
+  "over_18": false,
+  "upvotes": 36,
+  "upvote_ratio": 0.9,
+  "comments": {
+    "hlu5tgi": {
+      "link": "/r/college/comments/r0lqpo/how_to_predict_your_grades/hlu5tgi/",
+      "text": "Bruh if you can\u2019t figure this out college might not be for you",
+      "author": "Pale-Beginning",
+      "created": 1637712983,
+      "upvotes": 58,
+      "replies": {
+        "hluacn1": {
+          "link": "/r/college/comments/r0lqpo/how_to_predict_your_grades/hluacn1/",
+          "text": "You'd be surprised - I've been doing this since probably 9th grade, but I know too many people that haven't grasped this yet.",
+          "author": "Paesana",
+          "created": 1637715096,
+          "upvotes": 18,
+          "replies": {
+            "hlumbuq": {
+              "link": "/r/college/comments/r0lqpo/how_to_predict_your_grades/hlumbuq/",
+              "text": "and those people need to take remedial high school math.",
+              "author": "wobbletelescope",
+              "created": 1637720733,
+              "upvotes": 6,
+              "replies": {}
+            }
+          }
+        },
+        "hlvce1m": {
+          "link": "/r/college/comments/r0lqpo/how_to_predict_your_grades/hlvce1m/",
+          "text": "Was surprised when someone asked on this subreddit how the point grading system worked. For example, I have 650 points from the 800 possible points.",
+          "author": "ImportantGreen",
+          "created": 1637734463,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hlwcrg2": {
+          "link": "/r/college/comments/r0lqpo/how_to_predict_your_grades/hlwcrg2/",
+          "text": "Considering that Googling \"weighted grade calculator\" would also solve this problem, I'm 100% on board with your statement. \n\nIt goes further too. There are kids in my Engineering courses who can't read schematics. I feel like the majority of them haven't built a single thing in their life. About half the people in my 100 level course are definitely not engineer material. I imagine with time, I won't have to see them much.",
+          "author": "Awkward_Mail_2786",
+          "created": 1637760817,
+          "upvotes": 1,
+          "replies": {
+            "hlxla89": {
+              "link": "/r/college/comments/r0lqpo/how_to_predict_your_grades/hlxla89/",
+              "text": "Well yeah not having built anything is understandable but not knowing basic math is a problem",
+              "author": "Pale-Beginning",
+              "created": 1637779354,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hlv81t6": {
+      "link": "/r/college/comments/r0lqpo/how_to_predict_your_grades/hlv81t6/",
+      "text": "I can always predict im gonna fail, its not that difficult",
+      "author": "Cup-of-chai",
+      "created": 1637731839,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hlxmr1w": {
+      "link": "/r/college/comments/r0lqpo/how_to_predict_your_grades/hlxmr1w/",
+      "text": "or just go to benegg and input your grades and what they\u2019re worth lmao",
+      "author": "loslobow",
+      "created": 1637779919,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

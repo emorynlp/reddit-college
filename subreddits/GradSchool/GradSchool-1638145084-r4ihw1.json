@@ -1,0 +1,83 @@
+{
+  "sid": "r4ihw1",
+  "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/",
+  "title:": "Psssttt - you guys want a quick stats primer? Here's a simple guide with the R - from a friend",
+  "text": "If you all need some simple stats here's a go-to. Hope it helps.\n\nThis was presented to graduate students in the Faculty of Forestry at the University of Toronto.\n\n[https://www.youtube.com/watch?v=GDrEwz8r8Xc](https://www.youtube.com/watch?v=GDrEwz8r8Xc)\n\nFirst, a general introduction to probability, assumptions of inference, and hypothesis testing. The second requirement is to perform the analyses, including managing the data using some statistical software.\n\nAt the vanguard of such software is the R statistical software [https://www.r-project.org/;](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWVHOVNHcG95V1ZFcWF5SDdsdXVFUFgwVk9YZ3xBQ3Jtc0ttYUZYVmQzQ1E4MkRaNTFqN2NjNXE4TXNqMW5UZ1BuZGhmZUk3SjUwQ3RFT24tLW5IZkdpczJ6T0t5dWdlU1FaOFJDVngxVUlrYWRnOVREZVhXaHNQaXk0VWN1dHVXWTRRWFBxS1ZKY0RvNTRyTjRlWQ&q=https%3A%2F%2Fwww.r-project.org%2F%3B)\u200b and its integrative environment Rstudio [https://www.rstudio.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazB0NjQtTlZvRlp4cDZudWM0dzJfOTQyaEViQXxBQ3Jtc0tsY201bG5pbGltSWhWOVl2YUlvQlNQbk9Delg2bWVHRlluOGNQNUFqUlhqeEVBUEtwcHFNMDRjR2ZsZGV4YzVac0pzV050TzVGbElPdEN3MThyTGFLODFiRlJMOWdESkc5R0NOdW53SGZuMDAtRHBwaw&q=https%3A%2F%2Fwww.rstudio.com%2F)\u200b. Few programs constitute the virtues of open-sources highly integrated and powerful programs as the R statistical software - taught to the modern student in most institutions.\n\nThe following video comprises the time-stamped functions and analyses:\n\n1. Intro to data management, probability, and data presentation ([0:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=0s)\u200b-[13:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=780s)\u200b min)\n2. Intro to producing graphs with R studio ([13:15](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=795s)\u200b - [17:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=1020s)\u200b min)\n3. Subsetting the data ([23:20](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=1400s)\u200b)\n4. 'attach' function in R ([23:47](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=1427s)\u200b min)\n5. 'summarySE' ([24:45](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=1485s)\u200b min)\n6. Using the plot function ([28:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=1680s)\u200b - [34:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2040s)\u200b min)\n7. Package 'sciplot' for bar graphs 'bargraph.CI' function ([34:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2040s)\u200b - [36:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2160s)\u200b min)\n8. Analysis of Variance including Tukey HSD (ANOVA) ([36:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2160s)\u200b - [40:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2400s)\u200b min)\n9. Creating Line Plots and Scatter plot ( [42:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2520s)\u200b-[45:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2700s)\u200b min)\n10. Regression analyses via 'lm' function - linear - ([45:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2700s)\u200b - [48:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2880s)\u200b mins)\n11. Correlation analysis ([48:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2880s)\u200b -[51:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=3060s)\u200b mins)\n\nThe video finishes with a summation of what we've learned. If you like this material, then please like and subscribe to this channel.",
+  "author": "In_Robarts_We_Stand",
+  "created": 1638145084,
+  "updated": 1638207924,
+  "over_18": false,
+  "upvotes": 179,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "hmgzs6x": {
+      "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmgzs6x/",
+      "text": "Haven't watched this yet, but from the time stamps it looks fantastic. Great job :) I'll watch this and if it looks like it'll help my lab, I'll send it to them as well.",
+      "author": "killakidz7",
+      "created": 1638147067,
+      "upvotes": 9,
+      "replies": {
+        "hmh6tak": {
+          "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmh6tak/",
+          "text": "Hey Killakidz7 - thanks for the comment and the kind words. I know it's a slog to get through; take it in stride. To be honest, all I knowledge acquired is via: looking up code for R, much troubleshooting, a lot of coffee, more error message than lines of script. haha. Let me know if you have questions :)",
+          "author": "In_Robarts_We_Stand",
+          "created": 1638150292,
+          "upvotes": 2,
+          "replies": {
+            "hmh744w": {
+              "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmh744w/",
+              "text": "Oh I have plenty of experience with R. My RAs however do not, and I'd like them to learn how in addition to using SPSS. Definitely relate to more error messages than script, especially when you're first starting.",
+              "author": "killakidz7",
+              "created": 1638150429,
+              "upvotes": 2,
+              "replies": {
+                "hmh8ann": {
+                  "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmh8ann/",
+                  "text": "Ah, excellent. Made the transition from SPSS to R. \n\nPraise <- Scripture()\n\nCheers",
+                  "author": "In_Robarts_We_Stand",
+                  "created": 1638150963,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hmhgwqd": {
+      "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmhgwqd/",
+      "text": "Bookmarking this! \n\nWould have loved this as a study guide for my statistics class!!! Better late than never I suppose, could use a brush up.",
+      "author": "KryptumOne",
+      "created": 1638154844,
+      "upvotes": 3,
+      "replies": {
+        "hmhht3m": {
+          "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmhht3m/",
+          "text": "What if I made it for my own guide? Jk - it was for the students in the tutorial, agree fulsome with your sentiment though. Really glad it's useful. Thanks for the interest. Happy coding.",
+          "author": "In_Robarts_We_Stand",
+          "created": 1638155263,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hmhplik": {
+      "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmhplik/",
+      "text": "Thank you SO much for this, I will definitely check it out. Just getting into R and I have very little experience coding so this is extremely helpful",
+      "author": "nostalgiaisunfair",
+      "created": 1638158903,
+      "upvotes": 3,
+      "replies": {
+        "hmhurc4": {
+          "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmhurc4/",
+          "text": "It's my sincere pleasure, nostalgiasunfair, this is precisely how I got started. Glad you are finding it helpful!",
+          "author": "In_Robarts_We_Stand",
+          "created": 1638161522,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

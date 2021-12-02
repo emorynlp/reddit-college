@@ -1,0 +1,349 @@
+{
+  "sid": "r1uinr",
+  "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/",
+  "title:": "Looking for degrees at the intersection of Computer Science and Humanities with a focus on tech",
+  "text": "I've got a bachelor's degree in computer science and I've had a programming career of around a decade.\n\nNow I feel like my interests have changed and I'd like to pivot towards the humanities side of things if possible.\n\nI've always been interested in how tech intersects with society and I was wondering if there are degrees that would help me learn more and explore this topic. So maybe things like history of computing or say algorithmic fairness or questions involving our life online or our interactions with machines.\n\nI know that this seems like a wide stretch but I wanted to contrast what I do NOT want - something like digital humanities, which involves using computing to augment the study of humanities.\n\nAre there degrees like this? Am I searching for the wrong keywords? I'm still trying to figure out what I want, so any help/ideas would be great.\n\nThanks for your time! :)",
+  "author": "jmanjmanjmanjman",
+  "created": 1637839506,
+  "updated": 1638206326,
+  "over_18": false,
+  "upvotes": 10,
+  "upvote_ratio": 0.78,
+  "comments": {
+    "hm0w0h4": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm0w0h4/",
+      "text": "> history of computing \n\nThat speaks more to history of science, or information studies with a historical slant. \n\n> algorithmic fairness or questions involving our life online or our interactions with machines.\n\nThat more sounds like computer science with the subdiscipline of computer science interaction (HCI). Though you also have sociologists and a variety of other social science disciplines who cross over into \"algorithmic fairness\" work. The jargon phrase to look up would be \"computational social science\" for the latter social sciences. That is if they haven't rebranded the marketing spiel to data science yet.",
+      "author": "MFA_Nay",
+      "created": 1637840225,
+      "upvotes": 12,
+      "replies": {
+        "hm1iern": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm1iern/",
+          "text": "There are also degrees in Human-Centered Computing (HCC) that are similar to HCI but come at it more from the social side than the technical side (their undergrad degrees will mostly *not* be CS).  These degrees are less common, but there are several of them offered out there at least.",
+          "author": "ComputerSystemsProf",
+          "created": 1637853501,
+          "upvotes": 6,
+          "replies": {
+            "hm1lwcv": {
+              "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm1lwcv/",
+              "text": "That sound interesting, not heard of those before. Are there any particular colleges you can recommend, for a cheeky look at their format?",
+              "author": "MFA_Nay",
+              "created": 1637855093,
+              "upvotes": 2,
+              "replies": {
+                "hm1n98i": {
+                  "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm1n98i/",
+                  "text": "I know Georgia Tech has one.  I\u2019m not positive, but I think CMU might as well.  There are probably others, but I\u2019m not sure where\u2026",
+                  "author": "ComputerSystemsProf",
+                  "created": 1637855699,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hm0w8nc": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm0w8nc/",
+          "text": "Thank you so much! I'll check these out!",
+          "author": "jmanjmanjmanjman",
+          "created": 1637840407,
+          "upvotes": 1,
+          "replies": {
+            "hm14ogg": {
+              "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm14ogg/",
+              "text": "Sounds like you would like sociology of science (it includes technology) or science and technology studies (STS). My masters had a strong element of these and I loved it.",
+              "author": "ACatGod",
+              "created": 1637846307,
+              "upvotes": 4,
+              "replies": {
+                "hm18m35": {
+                  "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm18m35/",
+                  "text": "I'll check that out!",
+                  "author": "jmanjmanjmanjman",
+                  "created": 1637848578,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "hm0wtp9": {
+              "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm0wtp9/",
+              "text": "Some good HCI schools / faculty i\u2019ve found are at the following schools; UIUC, Temple, Northwestern, RIT, UofUtah, NCSU",
+              "author": "mrt1416",
+              "created": 1637840862,
+              "upvotes": 2,
+              "replies": {
+                "hm1i24j": {
+                  "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm1i24j/",
+                  "text": "I\u2019m not an expert in HCI area, but I think CMU and Georgia Tech would be good additions to that list.",
+                  "author": "ComputerSystemsProf",
+                  "created": 1637853335,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hm14bvf": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm14bvf/",
+      "text": "You've got some good answers but as I work in this area, I'll throw out a few more for you. Basically, you can look at the subdiscipline of Computer Science that goes down this path -- human-computer interaction. Maybe Computer Science education, which critically examines how CS is taught. Or, you can look at disciplines within the humanities or social sciences that tend computational, including media studies or certain liberal arts programs. Information schools (ischools) are another one that tends to include this focus.\n\nSince this is an interdisciplinary area of study, you'll find a lot of cumbersome names for the departments or programs involved. You might do well to find faculty that write things you're interested in, then find out where they're working.",
+      "author": "Frelaras",
+      "created": 1637846084,
+      "upvotes": 5,
+      "replies": {
+        "hm14zpc": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm14zpc/",
+          "text": "Thank you so much for sharing your knowledge! This looks like a good trail to research.",
+          "author": "jmanjmanjmanjman",
+          "created": 1637846496,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hm1b7ja": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm1b7ja/",
+      "text": "Look at Information Systems!  It\u2019s exactly what you\u2019re describing (though the other answers you\u2019ve gotten are also at this intersection).\n\nIS departments are often in business schools or Information Schools.",
+      "author": "Decisionsota",
+      "created": 1637849972,
+      "upvotes": 6,
+      "replies": {
+        "hm1h5t6": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm1h5t6/",
+          "text": "Ooh! Thanks for the suggestion!",
+          "author": "jmanjmanjmanjman",
+          "created": 1637852910,
+          "upvotes": 1,
+          "replies": {
+            "hm264eb": {
+              "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm264eb/",
+              "text": "Yup.  This is my field\u2026I love it.  Check out the research of Lauren Rhue or Anjana Susarla.  Might be along the lines of what you\u2019re interested in.",
+              "author": "Decisionsota",
+              "created": 1637863705,
+              "upvotes": 2,
+              "replies": {
+                "hm5qq19": {
+                  "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm5qq19/",
+                  "text": "Thanks again!",
+                  "author": "jmanjmanjmanjman",
+                  "created": 1637938263,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hm147og": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm147og/",
+      "text": "I would look at History and Philosophy of Science or Science and Technology Studies departments. There's also a small bunch of anthropologists working on this topic, but I'm not sure if they're in anthro departments proper or interdisciplinary programs. \n\nThe Society for the Social Study of Science (4S) likely has some resources that could be helpful for you. At least as of their most recent professional meeting (October), these were definitely hot topics.",
+      "author": "parsleybutter",
+      "created": 1637846010,
+      "upvotes": 5,
+      "replies": {
+        "hm14qei": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm14qei/",
+          "text": "Thank you!",
+          "author": "jmanjmanjmanjman",
+          "created": 1637846340,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hm1np5s": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm1np5s/",
+      "text": "Social Data Science at a Oxford",
+      "author": "wildblue2",
+      "created": 1637855897,
+      "upvotes": 3,
+      "replies": {
+        "hme4k1o": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hme4k1o/",
+          "text": "Thanks",
+          "author": "jmanjmanjmanjman",
+          "created": 1638100918,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hm0ykg3": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm0ykg3/",
+      "text": "The Texts and Technology PhD at the University of Central Florida in Orlando, FL may be worth exploring. It does have a digital humanities track, so don\u2019t let that scare you off. However, the program is *extremely* flexible and can be molded to fit your interests and needs. It\u2019s almost like a liberal arts degree for doctoral students. Perhaps this might fit the bill for you. Good luck finding a program!",
+      "author": "biglybiglytremendous",
+      "created": 1637842196,
+      "upvotes": 2,
+      "replies": {
+        "hm11o06": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm11o06/",
+          "text": "Thank you!",
+          "author": "jmanjmanjmanjman",
+          "created": 1637844377,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hm1qt6c": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm1qt6c/",
+      "text": "My university has a lot of classes on ethics and computers, AI, etc. It\u2019s definitely a whole sub field in philosophy, and I\u2019m sure many universities offer degrees focusing on it!",
+      "author": "sniknejmail",
+      "created": 1637857266,
+      "upvotes": 2,
+      "replies": {
+        "hme5w3b": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hme5w3b/",
+          "text": "Thanks!",
+          "author": "jmanjmanjmanjman",
+          "created": 1638101943,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hm29xsv": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm29xsv/",
+      "text": "Cognitive science could work well for you!",
+      "author": "sophi529",
+      "created": 1637865323,
+      "upvotes": 2,
+      "replies": {
+        "hme4l44": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hme4l44/",
+          "text": "I'll take a look!",
+          "author": "jmanjmanjmanjman",
+          "created": 1638100942,
+          "upvotes": 1,
+          "replies": {
+            "hmf8681": {
+              "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hmf8681/",
+              "text": "Do ittttt it\u2019s amazing seriously",
+              "author": "sophi529",
+              "created": 1638121019,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hm2wuds": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm2wuds/",
+      "text": "Well, how dependant are you on Lokation? In Germany there is a Discipline called Digital Methods/Digitale Methoden (Johannes-Gutenberg-Universit\u00e4t, Mainz). It's a Masters program.\n\nMight be for you.",
+      "author": "paranEngel",
+      "created": 1637875434,
+      "upvotes": 2,
+      "replies": {
+        "hme4nm1": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hme4nm1/",
+          "text": "Will look at it! I'm not sure if I can pick up German easily. But will look into it!",
+          "author": "jmanjmanjmanjman",
+          "created": 1638100999,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hm3266s": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm3266s/",
+      "text": "Digital sociology?",
+      "author": "TheSeaSociety",
+      "created": 1637877972,
+      "upvotes": 2,
+      "replies": {
+        "hme4nzn": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hme4nzn/",
+          "text": "Thanks!",
+          "author": "jmanjmanjmanjman",
+          "created": 1638101008,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hm3snhj": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm3snhj/",
+      "text": "ASU has a PhD called Human dimensions of science and technology. Might be worth a look.",
+      "author": "Specialist_Fish8023",
+      "created": 1637891498,
+      "upvotes": 2,
+      "replies": {
+        "hme4hor": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hme4hor/",
+          "text": "Thank you!",
+          "author": "jmanjmanjmanjman",
+          "created": 1638100866,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hme4kh3": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hme4kh3/",
+          "text": "Thank you!",
+          "author": "jmanjmanjmanjman",
+          "created": 1638100928,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hm0vs6r": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm0vs6r/",
+      "text": "Have you thought about computational neuroscience ? You can do different things like : designing brain chips or prostheses, modeling the brain or neural networks, working on brain interface machines, etc\u2026",
+      "author": "ProfessionnalCamper",
+      "created": 1637840040,
+      "upvotes": 2,
+      "replies": {
+        "hm0w5dl": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm0w5dl/",
+          "text": "I've not but this sounds interesting! It does seem beyond my capabilities as it seems like it might require expertise in biology?",
+          "author": "jmanjmanjmanjman",
+          "created": 1637840334,
+          "upvotes": 2,
+          "replies": {
+            "hm16ned": {
+              "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm16ned/",
+              "text": "No, you don\u2019t need any expertise in biology, you just need to be a strong team player since you will work in tight collaboration with neuroscientists. You will learn more about the biology side of your project day after day.",
+              "author": "ProfessionnalCamper",
+              "created": 1637847481,
+              "upvotes": 2,
+              "replies": {
+                "hm19vpm": {
+                  "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm19vpm/",
+                  "text": "Interesting!",
+                  "author": "jmanjmanjmanjman",
+                  "created": 1637849282,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hm14ak1": {
+      "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm14ak1/",
+      "text": "Hey there! I\u2019m sort of in the same boat as you. Mind you, my boat is a bit smaller as I started a tech program but will not be finishing it. Next year I\u2019m switching to a college program that focuses on working with and helping folks with disabilities. I plan to take the tech knowledge I\u2019ve gained and combine it with this degree and hope to one day work with assistive technologies. Whether that\u2019s helping design, program, consult with businesses/schools/individuals\u2026 I\u2019m not sure yet. Just need to finish the dang program first \ud83d\ude05",
+      "author": "thanks_champagne",
+      "created": 1637846062,
+      "upvotes": 1,
+      "replies": {
+        "hm14t3b": {
+          "link": "/r/AskAcademia/comments/r1uinr/looking_for_degrees_at_the_intersection_of/hm14t3b/",
+          "text": "That sounds amazing! You definitely rock!!",
+          "author": "jmanjmanjmanjman",
+          "created": 1637846387,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

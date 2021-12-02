@@ -1,0 +1,38 @@
+{
+  "sid": "r0ru5u",
+  "link": "/r/GradSchool/comments/r0ru5u/what_does_a_gpa_of_36_equal_to_in_a_10_scale_grade/",
+  "title:": "What does a gpa of 3.6 equal to in a 10 scale grade?",
+  "text": "In my country, the grades go from 1 to 10, so I was wondering what was the equivalence of a 3.6 gpa. And does someone know what gpa is usually required to be accepted in a good European grad school like HEC or ESSEC?",
+  "author": "asdfvbmm987",
+  "created": 1637714348,
+  "updated": 1638208049,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hlv1f9l": {
+      "link": "/r/GradSchool/comments/r0ru5u/what_does_a_gpa_of_36_equal_to_in_a_10_scale_grade/hlv1f9l/",
+      "text": "In Canada they have a website (google Omsas gpa converter) which will show the equivalencies between different scales. It doesn't appear to be proportional - like a 3.60 would land between a B+ (7) and an A- (8),  which makes sense for typical grad school GPA cut offs. Could be slightly different where you're from and in Europe but it may help get a better idea",
+      "author": "cowlover1414",
+      "created": 1637728145,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hlvxtmb": {
+      "link": "/r/GradSchool/comments/r0ru5u/what_does_a_gpa_of_36_equal_to_in_a_10_scale_grade/hlvxtmb/",
+      "text": "That's an unsolved problem. For a somewhat fair conversion, you'd need to know the distribution of grades on both scales, so you can use the percentile you're in as an intermediate, bias-free metric.\n\nBut those distributions are usually not known (and you'd still have to decide who you should compare to)",
+      "author": "Single_Blueberry",
+      "created": 1637750898,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hlueu1g": {
+      "link": "/r/GradSchool/comments/r0ru5u/what_does_a_gpa_of_36_equal_to_in_a_10_scale_grade/hlueu1g/",
+      "text": "Assuming it's proportional:\n\n3.6/4.0=X/10\n\nX=9\n\nNo idea about European schools though",
+      "author": "yoinksdontlikethat",
+      "created": 1637717205,
+      "upvotes": 4,
+      "replies": {}
+    }
+  }
+}

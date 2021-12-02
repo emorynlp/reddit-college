@@ -1,0 +1,73 @@
+{
+  "sid": "r0smi1",
+  "link": "/r/college/comments/r0smi1/help_with_grade_calculation/",
+  "title:": "Help with grade calculation!",
+  "text": "Hi!\n\nI'm currently enrolled in an Introductory Chemistry course (CHM 101). I've been doing relatively well in the class; my current grade is an 89.41%. My 'Lab Grade' (97.33%) will be added after my final so I was wondering what my overall grade for the course would be if I was to score an 80% on the final exam?\n\nHere's the weighting scale:\n\nAssignments 0%\n\nHomework 5%\n\nResearch Project 5%\n\nExams 30%\n\nOnline Quizzes 10%\n\nVideo Quizzes 3%\n\nAttendance 2%\n\n**Final Exam 20%**\n\n**Lab Grade 25%**\n\nThank you so much in advance!",
+  "author": "Hannuhs",
+  "created": 1637716658,
+  "updated": 1638207415,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.5,
+  "comments": {
+    "hlufzdz": {
+      "link": "/r/college/comments/r0smi1/help_with_grade_calculation/hlufzdz/",
+      "text": "If I'm not dumb. And I don't think I am. You would get roughly an 89.5% with an 80 on the final. Assuming your 89.41 does not include the lab grade.\n\nUsing the formula (w1g1 +w2g2 + w3g3)/(w1 + W2 + w3)\n\n((0.55)(89.41) + (0.2)(80) + (0.25)(97.33))/1 you end up with roughly an 89.5",
+      "author": "AceAttornie",
+      "created": 1637717747,
+      "upvotes": 3,
+      "replies": {
+        "hlui5pz": {
+          "link": "/r/college/comments/r0smi1/help_with_grade_calculation/hlui5pz/",
+          "text": "Thank you so much! I really appreciate it",
+          "author": "Hannuhs",
+          "created": 1637718761,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hlue4ly": {
+      "link": "/r/college/comments/r0smi1/help_with_grade_calculation/hlue4ly/",
+      "text": "Wtf is the point of a 0% weight for \"assignments\"",
+      "author": "elkfn2",
+      "created": 1637716869,
+      "upvotes": 1,
+      "replies": {
+        "hlufxrf": {
+          "link": "/r/college/comments/r0smi1/help_with_grade_calculation/hlufxrf/",
+          "text": "No clue lol",
+          "author": "Hannuhs",
+          "created": 1637717726,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hluskri": {
+          "link": "/r/college/comments/r0smi1/help_with_grade_calculation/hluskri/",
+          "text": "Probably just ungraded in class work and handouts",
+          "author": "GoldRequest",
+          "created": 1637723693,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hlvzyap": {
+      "link": "/r/college/comments/r0smi1/help_with_grade_calculation/hlvzyap/",
+      "text": "Do you use canvas? You can do a simulation there. \nJust click on where the grades would be and type the number you want to see the final score. It has to be done on browser/desktop tho.",
+      "author": "skyleft4",
+      "created": 1637752578,
+      "upvotes": 1,
+      "replies": {
+        "hlw4zyn": {
+          "link": "/r/college/comments/r0smi1/help_with_grade_calculation/hlw4zyn/",
+          "text": "I do use Canvas but I unfortunately can\u2019t do that until the professor unlocks(?) or logs the exam. The exam and lab grade haven\u2019t been logged into the grade book so I can\u2019t do the \u2018What-If\u2019 grade calculations yet",
+          "author": "Hannuhs",
+          "created": 1637756193,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

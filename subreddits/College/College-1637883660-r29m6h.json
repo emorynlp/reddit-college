@@ -1,0 +1,117 @@
+{
+  "sid": "r29m6h",
+  "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/",
+  "title:": "College study strategies for CS and Engineering.",
+  "text": "Hi, I will be going for my first semester for Computer Science classes in the Spring semester and wanted to truly dedicate myself on proper study strategies for preventing burnout and being able to balance some social time, while still getting the most amount of sleep as possible. If need be, I'll forgo more social time for sleep. (Can't really function as a zombie lol)  \n\n\nFor those in engineering and Computer science, how do you study/do projects?   \nSince I was a biology major before, my main methods have been:  \n1. Full Readthrough of material once to absorb main concepts. Try not to reread any material unless necessary, or try to reference material I don't understand. Reading is said to not be *as active* learning as doing active recall.\n\n2. Active Recall- Using Flashcards/Anki, answering practice questions to test and apply knowledge. If I don't know something, I look it up, make a flashcard and add it.\n\n2. Spaced Repetition-If I'm doing something like Chemistry or Anatomy or math- I will typically have a daily goal of doing a certain amount of practice questions on the material covered, either everyday or every other day. So that I'm familiar with the material. \n\n3. Study everyday with small breaks- Depending on the day and how busy it is, I give myself time to go over all the subjects I need to, fully focusing on the material for say about 25-45 minutes, then giving myself 5-10 minutes to decompress, then continue studying. If I have alot of free time, I will commit 8-10 hours studying or doing projects.  \n\n\nSo for those in engineering, and or computer science right now, how do you study to make the best use of your time and avoid burn out and/or sleepless nights? Do you ever give yourself one day completely off to not study and relax? And Do you believe with proper organization do you avoid sleepless nights?",
+  "author": "DBag444",
+  "created": 1637883660,
+  "updated": 1638206934,
+  "over_18": false,
+  "upvotes": 10,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hm3x3sb": {
+      "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm3x3sb/",
+      "text": "For me personally, I do not study at all in CS since I just naturally love CS, and program in my spare time. In CS, best way to learn it is just to constantly write programs. Due to the fact that you can see what the computer is thinking with a output statement.",
+      "author": "HowlSpice",
+      "created": 1637893867,
+      "upvotes": 4,
+      "replies": {
+        "hm3xpnd": {
+          "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm3xpnd/",
+          "text": "So constant practice is what you recommend? That I actually don't mind at all doing. Would you say you apply the same principle to say other courses like operating systems?",
+          "author": "DBag444",
+          "created": 1637894184,
+          "upvotes": 1,
+          "replies": {
+            "hm3yrfl": {
+              "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm3yrfl/",
+              "text": "Yeah, CS is literally like drawing, where practicing it makes you better at it. \n\nI have not done Operating System since it require 4 semester worth of prerequisite, but if it is like Discrete Structure then the normal way of studying will apply.",
+              "author": "HowlSpice",
+              "created": 1637894741,
+              "upvotes": 2,
+              "replies": {
+                "hm40n9o": {
+                  "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm40n9o/",
+                  "text": "Got it, thanks for the tips!",
+                  "author": "DBag444",
+                  "created": 1637895732,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hm3lb5h": {
+      "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm3lb5h/",
+      "text": "Your strategy for bio wont be that much different from CS/Eng imo. I would say its more practice problems less memory, but thats about it. For me I just run though any problems that we have for practice because the test is bound to be on the same principles, they just change like the givens or scenario around a bit from the practice.",
+      "author": "NinjaLorian",
+      "created": 1637887647,
+      "upvotes": 2,
+      "replies": {
+        "hm3os8u": {
+          "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm3os8u/",
+          "text": "Sounds about right. Just making sure if I need to refine what I do to. Thanks!",
+          "author": "DBag444",
+          "created": 1637889487,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hm6pncw": {
+          "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm6pncw/",
+          "text": "I'm mechanical engineering and this works for most of my courses. There still are some that are informational based, and in those cases I use flashcards.",
+          "author": "Awkward_Mail_2786",
+          "created": 1637954147,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hm4divq": {
+      "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm4divq/",
+      "text": "Hi so im a person who went from a biochem major to a neuroscience major with a CS minor (didnt want to loose too many years of college)\n\nI know several people said the habits dont change, but I do study for CS very differently from all my biology classes.\n\nYes you still want repetition, but its easier to just do random projects that pertain to what you're studying. \n\nExample: studying loops in python. Rather than looking over notes over and over why not look up projects online that pertain to loops in python and look over the concepts and see if you can recreate the project. Still repetition, still gets it in your head, but allows for more practice which is important in CS. Practice",
+      "author": "BMOEevee",
+      "created": 1637902943,
+      "upvotes": 1,
+      "replies": {
+        "hm6f6s9": {
+          "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm6f6s9/",
+          "text": "Got it. So along with the regime I have. Add some time for a few side projects/coding repetition. Thanks!",
+          "author": "DBag444",
+          "created": 1637949393,
+          "upvotes": 2,
+          "replies": {
+            "hm6xoao": {
+              "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm6xoao/",
+              "text": "No problem! Good luck!",
+              "author": "BMOEevee",
+              "created": 1637957935,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hm6pxdr": {
+      "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm6pxdr/",
+      "text": "computer science and engineering is alot more different than biology. Biology involves a ton of rote memorization, while CS/Engineering is basically applied math, and involves alot more problem solving. You should be dedicating your studying to practice problems instead of flashcards, since you won't be learning much, if any, vocabulary.",
+      "author": "desertfox_JY",
+      "created": 1637954279,
+      "upvotes": 1,
+      "replies": {
+        "hm6xulv": {
+          "link": "/r/college/comments/r29m6h/college_study_strategies_for_cs_and_engineering/hm6xulv/",
+          "text": "Thank you I appreciate this very much!",
+          "author": "DBag444",
+          "created": 1637958019,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

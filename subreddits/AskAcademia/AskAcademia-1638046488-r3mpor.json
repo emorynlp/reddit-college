@@ -1,0 +1,343 @@
+{
+  "sid": "r3mpor",
+  "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/",
+  "title:": "What is the common practice of reviewing in your fields?",
+  "text": "(I work in mathematics,  and its applications - in particular  in Deep Learning.)\n\nThis is the first post of a series I have in mind about the review process.\n\nI advocate for open review: authors know who the reviewers of their papers are, and they are automatically given the whole reports, and also automatically the right to reply to the objections by the reviewers. -> Why? If a reviewer reveals their name, then they will be hesitant to say wrong things or things they are unsure. The objections by the reviewers can be right or wrong, don't treat them as they are gold standards.\n\nHowever, that is far from standard in the fields I have written papers on. There could be review reports like \"We don't think that this method has any advantage\", without any reason, and the authors are not allowed to reply. Also, we don't know who the reviewers are, and whether they are fair or competent. And often, there are many cries of unfairness. However, there have been not much improvements.\n\nI know websites like openreview\n\n[https://openreview.net/group?id=ICLR.cc/2021/Conference](https://openreview.net/group?id=ICLR.cc/2021/Conference)\n\nwhich is a better model: the whole public knows about the content of the review. They also allow authors to reply to objections. The public could more easily decide who is right and who is wrong, if there is dispute. So this is almost what I want, except we don't know who the reviewers are (but one committee which has the authority could easily find out who are behind).\n\nSo I have a couple of questions:\n\n1. What is the common practice of reviewing in your field? -> I wrote.\n2. What would you like it to be? -> At least as the openreview. However, I like something more than that. See point 3 below.\n3. How do you think it could become what you would like it could be? In my case, an initial thought  I have is that a concerted effort from all institutes in the whole world can resolve the problem in the field. In particular, there should be an independent committee having the right to audit journals and conferences and so on, should there be evidences of irregularities.\n\nEditors/reviewers who show a tendency of doing bad jobs, should get consequences. Same for journals which have the tendency of doing bad jobs. Papers which were unfairly treated should be reconsidered. Authors, with solid evidences of unfairness from the journals/editors/reviewers should have the right to appeal to the independent committee.\n\nAddendum 1 (28 November):\n\nFrom the responses, many agree that reviewers should be anonymous to authors. I have no  objections with that, except how to keep reviewers to be fair and hold them in account if they too often do bad jobs (for or not for their own benefits).\n\nThe field climate/environmental science seems to have a very nice reviewing environment.\n\n&#x200B;\n\nAlso, it is suggested a website where people review the review process:\n\n&#x200B;\n\n[https://scirev.org](https://scirev.org)\n\nLooking into some of the journals there, I think that the website is very informative and useful. (On the other hand, for each journal just about a few reviews submitted, and usually not as detailed as on openreview website.) However, how can we use the information to ACTUALLY improve the reviewing process?\n\n&#x200B;\n\nAddendum 2 (28 November 2021): Is there any way to design a relatively fair system of reviewing?\n\nSome ideas I have:\n\n\\- Have a standard process that decisions must follow by specific reasons.\n\n\\- Give authors the right to respond to the criticism by editors/reviewers.\n\n\\- Don't use the reasons \"too technical\", \"not up to the level\". Instead comparing with recent papers published there (probably within 5-10 years, depending on how many papers that journal publishes a year).\n\n\\- The important issue: how to have the ideas we have actually implemented? -> this will be the topic of another post.\n\n&#x200B;\n\n&#x200B;\n\n&#x200B;\n\n&#x200B;",
+  "author": "tuyenttoslo",
+  "created": 1638046488,
+  "updated": 1638206304,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 0.6,
+  "comments": {
+    "hmcog8t": {
+      "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmcog8t/",
+      "text": "> \"We don't think that this method has any advantage\", without any reason, and the authors are not allowed to reply.\n\nIn what context does this happen? In my field (quite related to deep learning), the authors always get to have a rebuttal unless the paper is outright rejected, or it's for a conference (however, our conferences are not as highly regarded as in ML). If I got this comment in a paper, I would write a paragraph or two pointing out the vagueness of the statement and then maybe throw in a numerical comparison with other standard methods. This is almost always enough to get past the reviewer, and the editor usually steps in if the reviewer claims are unjustified.\n\nPersonally, I don't like the idea of reviewers being known. No one in my field would ever reject papers that need to be rejected if their name was attached to the rejection. Most of the papers I reject are conference papers that have been thrown together at the last minute, probably by a graduate student at the behest of their advisor. It would be super awkward for a new student to get such a rejection with a name attached to it, especially if that student then meets that reviewer in person at a conference. The anxiety this would induce, imo, would be more detrimental to new people, especially ones who don't get the guidance they need early career when they start submitting papers for the first time. Imagine getting a scathing (or even just a politely negative) review from, I don't know, Yann LeCunn or one of the other big names on your first paper. It would be terrible!",
+      "author": "notadoctor123",
+      "created": 1638066700,
+      "upvotes": 8,
+      "replies": {
+        "hmedw3d": {
+          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmedw3d/",
+          "text": "> If I got this comment in a paper, I would write a paragraph or two pointing out the vagueness of the statement and then maybe throw in a numerical comparison with other standard methods. This is almost always enough to get past the reviewer, and the editor usually steps in if the reviewer claims are unjustified.\n\nAre you always successful with this? Did the editors encourage you to reply, or you did yourself? I also had some papers in optimization submitted to some journals, and the editors did not allow me to reply to such claims from referees.",
+          "author": "tuyenttoslo",
+          "created": 1638106997,
+          "upvotes": 1,
+          "replies": {
+            "hmgr62c": {
+              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmgr62c/",
+              "text": ">  I also had some papers in optimization submitted to some journals, and the editors did not allow me to reply to such claims from referees.\n\nDo you mean that the paper was rejected outright? Otherwise, I would find it odd that the editor would tell you not to reply to a specific referee.\n\nOverall, I've had pretty good success. I've never had a paper (knock on wood) rejected after a resubmission, I've only had papers rejected outright with no possibility of resubmission.",
+              "author": "notadoctor123",
+              "created": 1638143302,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hmcvsew": {
+      "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmcvsew/",
+      "text": "As a person who has both reviewed and been reviewed, but in a field where you can respond to reviewer comments, I strongly disagree that authors should know the names of their reviewers. There's way too much politics in science for open reviews to be as truthful as closed reviews. Everyone would be pissed at everyone, or reviewers wouldn't hold authors to account. Especially think this is true for young faculty who are reviewing and who want to make sure not to burn any bridges anywhere in case they one day need a collaborator...\n\nIt's the editor's job to suss out if a reviewer's comments are reasonable. Getting multiple reviews is the best way to deal with that.",
+      "author": "queue517",
+      "created": 1638070336,
+      "upvotes": 8,
+      "replies": {
+        "hmcvx3y": {
+          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmcvx3y/",
+          "text": "People like to complain about reviews and reviewers, but it's been my experience that most reviews / reviewers make papers better! Even if your initial response is some serious eye rolling and ranting.",
+          "author": "queue517",
+          "created": 1638070402,
+          "upvotes": 3,
+          "replies": {
+            "hmee47t": {
+              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmee47t/",
+              "text": "\"People like to complain about reviews and reviewers, but it's been my experience that most reviews / reviewers make papers better! Even if your initial response is some serious eye rolling and ranting.\" -> Well, this is not my usual experience. Can you tell us what is your field? \n\n\"Everyone would be pissed at everyone, or reviewers wouldn't hold authors to account.\" -> But then how can one hold reviewers/editors to account?",
+              "author": "tuyenttoslo",
+              "created": 1638107127,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hmee8yk": {
+          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmee8yk/",
+          "text": ">It's the editor's job to suss out if a reviewer's comments are reasonable. Getting multiple reviews is the best way to deal with that.\n\n\\-> Well, in many cases, I see that the editors just blindly use the reviewers' comments, don't care if they are reasonable or not.",
+          "author": "tuyenttoslo",
+          "created": 1638107202,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hmc2tlb": {
+      "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmc2tlb/",
+      "text": "Process in my field (climate/environmental science) is:\n\n* Submit paper\n* Editor (who's name you can see) assigns 2-3 reviewers (who are anonymous).\n* The reviewers can typically see the author's names (no double blind).\n* They complete their reviews, making a recommendation to the editor for publication or not\n* Reviews are either sent privately to the authors or for some journals (especially [https://publications.copernicus.org/](https://publications.copernicus.org/)) are posted publicly\n* Author's respond to reviews and editor either decides or sends it back (typically same reviewers) if further review is needed\n* Any unhelp review comments I'd dismiss as an author and rebut them in my response",
+      "author": "Broric",
+      "created": 1638056569,
+      "upvotes": 4,
+      "replies": {
+        "hmeefm7": {
+          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmeefm7/",
+          "text": "Well, then in your field at least it is very good formally. Are you satisfied so far with this practice?",
+          "author": "tuyenttoslo",
+          "created": 1638107304,
+          "upvotes": 1,
+          "replies": {
+            "hmefaan": {
+              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmefaan/",
+              "text": "I mean, the main issues I have with peer review relates to the exploitation of scientists by profit-making journals. I think the process itself (under those constraints) is probably as good as it can be but you always get issues with specific reviewers or editors.\n\nOne interesting observation though. I've recently collaborated with a FAANG company on a machine learning paper and we submitted to a machine learning conference. That process, although peer-reviewed, was VERY different. The quality of the peer review was poor (comments like \"This isn't useful\" with no elaboration or suggestion for improvement). It also turns out there's no iteration with the editor/reviewers. We got comments which in my field I'd consider fell into the \"publish with minor corrections\" category which would mean convincing the editor that we'd satisfied the reviewers, but with this paper it's basically up to us to change the paper how we want and it'll get published either way with no further checks. We have fixed a few of the identified issues and the paper is now better thanks to the peer review but we could have ignored all the comments and been fine.",
+              "author": "Broric",
+              "created": 1638107766,
+              "upvotes": 2,
+              "replies": {
+                "hmg9wnq": {
+                  "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmg9wnq/",
+                  "text": "> I think the process itself (under those constraints) is probably as good as it can be but you always get issues with specific reviewers or editors.\n\n\\-> Yes, this is true, there are reviewers who are good and reviewers who are bad, but what is the percentage? Also, there are editors who are too passive following reviewers' comments,  and in that way becoming bad. \n\nAs I wrote, the reviewing environment in your field is too good, but that does not extrapolate to other fields.",
+                  "author": "tuyenttoslo",
+                  "created": 1638136060,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hmcwrjo": {
+      "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmcwrjo/",
+      "text": "Anonymous review is critical. It allows a reviewer to be fully open and honest, even towards authors that have a lot of power in a field. People get frustrated and angry when their paper is not accepted, even when those criticisms are warranted. Most people aren't going to risk angering a chaired prof from Harvard or a National Academy member, especially if you are an early career researcher. I mean, why take that risk?",
+      "author": "Carb-ivore",
+      "created": 1638070829,
+      "upvotes": 4,
+      "replies": {
+        "hmeeodn": {
+          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmeeodn/",
+          "text": "Yes, you are right generally. However, if nothing keeps the reviewers accountable, they can keep doing bad/bias jobs for their (largely understood) benefits. Do you have any thoughts to have the reviewers/editors doing better/fair jobs?",
+          "author": "tuyenttoslo",
+          "created": 1638107435,
+          "upvotes": 1,
+          "replies": {
+            "hmeuyrx": {
+              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmeuyrx/",
+              "text": "I think it should be the Editors job to be a check on the reviewers. They have the power to remove comments or instruct authors to disregard parts of a review. Also, they have the power to decide if a certain reviewer should be asked to review again by that journal. I think they should keep track of problematic or biased reviewers so that none of the editors use them again. I doubt they would share info w other publishers, but they could share it among families of journals, such as the Cell Press family or Nature family.",
+              "author": "Carb-ivore",
+              "created": 1638115446,
+              "upvotes": 2,
+              "replies": {
+                "hmgaaqq": {
+                  "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmgaaqq/",
+                  "text": ">I think it should be the Editors job to be a check on the reviewers. \n\nMany cases, editors just use literally what reviewers wrote, and even if there are very elementary errors therein. Not sure what was the case: proudness or laziness or something else.",
+                  "author": "tuyenttoslo",
+                  "created": 1638136216,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hmcx2c0": {
+      "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmcx2c0/",
+      "text": "In mine (across two journals and a conference, so admittedly small sample size), it\u2019s double-blind. When I get a manuscript, I have no idea who wrote it, nor their institution. The author also knows nothing about the person providing these comments. However, the journal editor knows the identities of both, and has an eye on communications. The editor mediates when (rare) disputes occur, and makes any final determinations. \n\nIn my field (terrorism), I find it a good model. Many scholars and reviewers have warranted anonymity concerns: some have sensitive jobs, and some live in countries where their government won\u2019t look well on their academic research. Meanwhile, the subjects of many articles didn\u2019t wind up in their topic by accident\u2026",
+      "author": "Starshapedsand",
+      "created": 1638070976,
+      "upvotes": 3,
+      "replies": {
+        "hmef8k4": {
+          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmef8k4/",
+          "text": "This is interesting. My post was intended for academic research which is civil in nature. \n\nIs there any benefit in your field to write/publish papers (like salary, promotion)? In your field, is having grants very important? Or people just publish papers out of own interest?",
+          "author": "tuyenttoslo",
+          "created": 1638107740,
+          "upvotes": 2,
+          "replies": {
+            "hmel3hj": {
+              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmel3hj/",
+              "text": "This is academic research. Also civil in nature, ideally\u2026 only dealing with a subject that certainly isn\u2019t, which we critically need to understand in greater depth. \n\nNo particular benefit to the field: for academics under welcoming governments, publications are as important as usual, as are grants. Both carry some sway for those in other careers as well. (Across most, though, it\u2019s well worth noting that specific grants can jeopardize one\u2019s ability to speak to groups of interest. Researchers usually won\u2019t even pursue those.)  \n\nPer any field, researchers don\u2019t wind up pursuing the subject without a substantial level of personal interest. As usual, it\u2019s not like publications are paid, or as though you could pay to publish. \n\nNo outright, expected benefit to salary/promotion, unless you\u2019re in a properly academic career, as I suspect the majority of our authors are. There, same as usual.",
+              "author": "Starshapedsand",
+              "created": 1638110856,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hmgkza5": {
+          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmgkza5/",
+          "text": "> it\u2019s double-blind.\n\nAre there cases where reviewers/editors steal the ideas of papers submitted? What did people do then?  Is there a way to prevent this to happen?",
+          "author": "tuyenttoslo",
+          "created": 1638140649,
+          "upvotes": 2,
+          "replies": {
+            "hminqf9": {
+              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hminqf9/",
+              "text": "It\u2019s not blind to the senior editor, or journal staff. As far as I\u2019m aware, it\u2019s never occurred.",
+              "author": "Starshapedsand",
+              "created": 1638182981,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hmd0tzq": {
+      "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmd0tzq/",
+      "text": "Like several other commenters here, I strongly disagree about revealing the reviewers' identities. It will just lead to everyone kissing each other's asses and scared to say anything too negative, making peer review completely pointless.\n\nI don't have any fundamental problems with the peer review process, but I wish that academics were directly paid for the time spent on it. As it stands, we do free work for extremely profitable journals, and the only thing we have to show for it is a single line on our CV that nobody even looks at. Recently I find myself declining to review quite often, just because my schedule is already packed and I find no justification to add additional unpaid work on top of it.\n\nI would also like authors to be more open about their experiences with peer review. Bad editors can ruin the whole process, and I wish that it was easier to identify journals where the editors make bad referee choices or make a poor effort to judge the paper objectively. I am quite fond of the website [scirev.org](https://scirev.org/) where people review the peer review process, but I think it would require a more widespread adoption to be useful.",
+      "author": "sure_complement",
+      "created": 1638072918,
+      "upvotes": 3,
+      "replies": {
+        "hmefxie": {
+          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmefxie/",
+          "text": "So in your view, bad decisions are solely because of the editors, and not reviewers? \n\nIn an ideal world, if reviewers are extremely honest and unbiased, then I agree with your points. However, bad reviewers can exploit the system to silence alternative approaches and promote their own approach or their own people. So while reviewing is not paid, it is not without beneficial. How can we deal with that? \n\nI have no objection with reviewing to be paid. However, with that, more obligations are expected from the reviewers. \n\n&#x200B;\n\n[Scirev.org](https://Scirev.org) is interesting. Thanks. How can we make it to be more known, and more influential to decision making?",
+          "author": "tuyenttoslo",
+          "created": 1638108130,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hmf2evo": {
+      "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmf2evo/",
+      "text": "I think we need a fundamental restructuring of publication. It would require transforming peer review, but that transformation isn\u2019t sufficient on its own. Get rid of middle-man journals, eradicate publication fees and paywalls, and make publication an extension of standard reporting. Eliminate authorship as a measure of academic success. Get rid of the perverse incentives driven by the false economy of academic publishing and put the focus back on the science and scholarship where it belongs.",
+      "author": "brett_hoover_wx",
+      "created": 1638118632,
+      "upvotes": 2,
+      "replies": {
+        "hmgbgoj": {
+          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmgbgoj/",
+          "text": ">Get rid of middle-man journals, eradicate publication fees and paywalls, and make publication an extension of standard reporting.\n\nThis I think nowadays is no problem, with the ease of writing papers and putting them online or printing them physically.\n\nThere are many journals which are owned by non-profit organisations (like universities, academies, societies), but the reviewing process is the same as the journals owned by commercial companies. \n\n\"Eliminate authorship as a measure of academic success.\" -> What do you have to replace? How do you then encourage people to do research, or decide who to give funds to do research? At the least, need fund to hire some people to help carry out the ideas, one person does not have time to do all the good ideas they could have. In fields requiring machines,... to do research, a researcher literally cannot do anything if there is no fund.",
+          "author": "tuyenttoslo",
+          "created": 1638136681,
+          "upvotes": 1,
+          "replies": {
+            "hmgkrmz": {
+              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmgkrmz/",
+              "text": "I\u2019m not saying we stop publicizing research, I\u2019m saying we publish all research as an extension of standard reporting. There shouldn\u2019t be research that disappears because results were negative or some Reviewer 2 decided it wasn\u2019t novel enough - make publication a requirement of doing the job and put it all out there without journals acting as gatekeepers. If we can\u2019t find a suitable replacement for authorship as a measure of success, it\u2019s time to pack it up and turn the lights off on the entirety of academia.  \n  \nWhat even is the point of publishing in its current form? If it\u2019s for reporting research results, it sucks at that, it does a better job of burying research so nobody ever finds it. Is it for deciding where funding goes? Then why write a proposal - isn\u2019t that what the proposal is for? Is it an incentive for researchers to do the work? God, I hope not - it\u2019s slow, frustrating, expensive, and a tremendous time-sink. What\u2019s left?  \n  \nMaybe we approach from the other direction - what is publishing *good* at? It\u2019s tremendously good at being weaponized by people who want to review-tank other people\u2019s papers to protect their turf. It\u2019s great at distorting scientific reporting through positive outcome bias and non-replicability. It\u2019s fertile ground for fraud. It is a useful tool for amplifying institutional bias.  \n  \nI\u2019m sure the best minds of the modern world can come up with a way to properly communicate scientific research and accolades for good work without relying on this outdated system of publication. I can\u2019t see any reason to retain it, other than for the sake of people who can currently abuse it to their advantage.",
+              "author": "brett_hoover_wx",
+              "created": 1638140557,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hmbgfcn": {
+      "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmbgfcn/",
+      "text": "This sounds like an administrative nightmare that is going to massively delay the whole PRJ process.",
+      "author": "EconomistPunter",
+      "created": 1638046635,
+      "upvotes": 3,
+      "replies": {
+        "hmbjcj1": {
+          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmbjcj1/",
+          "text": ">EconomistPunter\n\nNot sure what your point is. Can you expand? Also, what is PRJ?",
+          "author": "tuyenttoslo",
+          "created": 1638047895,
+          "upvotes": 1,
+          "replies": {
+            "hmbjhdm": {
+              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmbjhdm/",
+              "text": "Peer reviewed journal process. \ud83e\udd26\u200d\u2642\ufe0f",
+              "author": "EconomistPunter",
+              "created": 1638047955,
+              "upvotes": 1,
+              "replies": {
+                "hmbke4c": {
+                  "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmbke4c/",
+                  "text": "Well, if mathematics and science are to be sound, then decisions should go with sound reasons and allow appeals. \n\nWhen you apply anything to the police and so on, you are always given detailed reasons why or why not you are granted, and you are given a chance to appeal. Why not for journals and conferences and so on: they get profits, and they play too big a factor in determining someone's career. Academic journals are not the same as things like BBC.",
+                  "author": "tuyenttoslo",
+                  "created": 1638048362,
+                  "upvotes": -1,
+                  "replies": {
+                    "hmbkndh": {
+                      "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmbkndh/",
+                      "text": "[deleted]",
+                      "author": null,
+                      "created": 1638048475,
+                      "upvotes": -7,
+                      "replies": {
+                        "hmc1vw0": {
+                          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmc1vw0/",
+                          "text": "I've published quite a lot of papers and I've never heard that acronym used as a term **ever**.",
+                          "author": "Broric",
+                          "created": 1638056154,
+                          "upvotes": 5,
+                          "replies": {
+                            "hmc4ayx": {
+                              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmc4ayx/",
+                              "text": "It also doesn\u2019t make a lot of sense the way it was used. The journal is the product, peer review is the process. \u201cPRJ process\u201d is clunky.",
+                              "author": "brett_hoover_wx",
+                              "created": 1638057239,
+                              "upvotes": 3,
+                              "replies": {
+                                "hmc55qs": {
+                                  "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmc55qs/",
+                                  "text": "Yeah, it's almost nonsensical in the way they used it and the attitude that went with it was just the icing on the cake.",
+                                  "author": "Broric",
+                                  "created": 1638057622,
+                                  "upvotes": 3,
+                                  "replies": {}
+                                }
+                              }
+                            },
+                            "hmcko3n": {
+                              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmcko3n/",
+                              "text": "I was being a dick and had a bad day. That's on me. \n\nMy apologies, OP.",
+                              "author": "EconomistPunter",
+                              "created": 1638064862,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        },
+                        "hmbpi37": {
+                          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmbpi37/",
+                          "text": "The silliness of this objection is making OP\u2019s point for him.",
+                          "author": "brett_hoover_wx",
+                          "created": 1638050606,
+                          "upvotes": 5,
+                          "replies": {
+                            "hmbpn1g": {
+                              "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmbpn1g/",
+                              "text": "No. It really doesn\u2019t. Thanks for playing, though.",
+                              "author": "EconomistPunter",
+                              "created": 1638050667,
+                              "upvotes": -4,
+                              "replies": {
+                                "hmbptda": {
+                                  "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmbptda/",
+                                  "text": "This one too.",
+                                  "author": "brett_hoover_wx",
+                                  "created": 1638050743,
+                                  "upvotes": 4,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "hmbktbw": {
+                          "link": "/r/AskAcademia/comments/r3mpor/what_is_the_common_practice_of_reviewing_in_your/hmbktbw/",
+                          "text": "Hi, why do I need to know about your acronym to be able to discuss what I want to discuss and I have experience in? That's strange attitude.",
+                          "author": "tuyenttoslo",
+                          "created": 1638048547,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
