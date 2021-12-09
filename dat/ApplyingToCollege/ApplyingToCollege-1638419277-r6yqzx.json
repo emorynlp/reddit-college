@@ -1,0 +1,47 @@
+{
+  "sid": "r6yqzx",
+  "link": "/r/ApplyingToCollege/comments/r6yqzx/common_app_workaround/",
+  "title:": "Common App Workaround!",
+  "text": "If you\u2019re like 99% of people submitting the common app last second you know it won\u2019t load the PDF and let you finish submitting. Here\u2019s the steps I took.\n\n1. Press review and submit. You should get the screen asking you to review the PDF, but have a big loading symbol blocking you from being great.\n2. Right click on the loading symbol and press Inspect\n3. The line you need to delete should already be highlighted, but it starts off like <div _ngcontent-emx and so on. Right click and press Delete Element.\n4. Now you can check off that you\u2019ve reviewed the PDF. Submit payment and complete your application. You might get an error after doing it, but i just kept spamming until it stopped letting me submit. \n\nGood luck to all of you!\n\nEdit: Common app should be working again",
+  "author": "uncledrewwasalie",
+  "created": 1638419277,
+  "updated": 1638478022,
+  "over_18": false,
+  "upvotes": 11,
+  "upvote_ratio": 0.92,
+  "comments": {
+    "hmw5trp": {
+      "link": "/r/ApplyingToCollege/comments/r6yqzx/common_app_workaround/hmw5trp/",
+      "text": "Thank you! I\u2019m gonna link to this in the mega thread we just made!",
+      "author": "admissionsmom",
+      "created": 1638419392,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmw72x8": {
+      "link": "/r/ApplyingToCollege/comments/r6yqzx/common_app_workaround/hmw72x8/",
+      "text": "Mines saying I didn\u2019t do the testing section for whatever reason",
+      "author": "Exciting_Owl_2143",
+      "created": 1638420042,
+      "upvotes": 2,
+      "replies": {
+        "hmwa3iw": {
+          "link": "/r/ApplyingToCollege/comments/r6yqzx/common_app_workaround/hmwa3iw/",
+          "text": "Did u find a fix",
+          "author": "Intelligent_Ad_2041",
+          "created": 1638421669,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hmxtjhs": {
+      "link": "/r/ApplyingToCollege/comments/r6yqzx/common_app_workaround/hmxtjhs/",
+      "text": "Does the Commonapp site crash all the time or only when we submit on the last day?",
+      "author": "uhbububub",
+      "created": 1638457910,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

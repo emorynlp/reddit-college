@@ -1,0 +1,73 @@
+{
+  "sid": "r56zre",
+  "link": "/r/AskAcademia/comments/r56zre/is_there_a_good_reddit_community_for_stats/",
+  "title:": "Is there a good reddit community for stats questions or R?",
+  "text": "I realize this is a bit off-topic, but academic Twitter only gets you so far. I have some genuine concerns about how to run some of my stats through R and I want to find some (non-Stack Exchange) place to get some feedback without it turning into a collaboration that warrants discussing co-authorship, lol.",
+  "author": "Whatifim80lol",
+  "created": 1638223579,
+  "updated": 1638479848,
+  "over_18": false,
+  "upvotes": 24,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "hml5jhl": {
+      "link": "/r/AskAcademia/comments/r56zre/is_there_a_good_reddit_community_for_stats/hml5jhl/",
+      "text": "You haven\u2019t been able to find what you need on StackExchange? I feel like no matter how obscure my question is, I can almost always find someone who\u2019s asked something relevant with a couple minutes on there. \n\nOr is it just that you want to bounce ideas back and forth?",
+      "author": "EconGuy82",
+      "created": 1638224625,
+      "upvotes": 20,
+      "replies": {
+        "hmld0wu": {
+          "link": "/r/AskAcademia/comments/r56zre/is_there_a_good_reddit_community_for_stats/hmld0wu/",
+          "text": "Obscurity of the questions isn't really the problem, it's more of the \"is this broad idea even plausible\" issue. I'm not yet to the point of getting stuck making it work in R because I'm not sure other statisticians would consider my proposed methods sound. See what I mean?",
+          "author": "Whatifim80lol",
+          "created": 1638227823,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "hml7ebt": {
+      "link": "/r/AskAcademia/comments/r56zre/is_there_a_good_reddit_community_for_stats/hml7ebt/",
+      "text": "r/rstats and r/Rlanguage are the place to go.",
+      "author": "Kiss_It_Goodbyeee",
+      "created": 1638225410,
+      "upvotes": 15,
+      "replies": {
+        "hmlfptc": {
+          "link": "/r/AskAcademia/comments/r56zre/is_there_a_good_reddit_community_for_stats/hmlfptc/",
+          "text": "I'll check them out, thanks!",
+          "author": "Whatifim80lol",
+          "created": 1638229019,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hmn40is": {
+      "link": "/r/AskAcademia/comments/r56zre/is_there_a_good_reddit_community_for_stats/hmn40is/",
+      "text": "Maybe you could look at [R for Data Scientists](https://r4ds.had.co.nz/)?",
+      "author": "startittays",
+      "created": 1638261172,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hml54vb": {
+      "link": "/r/AskAcademia/comments/r56zre/is_there_a_good_reddit_community_for_stats/hml54vb/",
+      "text": "r/dataisbeautiful",
+      "author": "DeCondorcet",
+      "created": 1638224454,
+      "upvotes": -6,
+      "replies": {
+        "hml59tl": {
+          "link": "/r/AskAcademia/comments/r56zre/is_there_a_good_reddit_community_for_stats/hml59tl/",
+          "text": "I think that's just for people who are already good at running their stats, lol. No Q&A there as far as I know.",
+          "author": "Whatifim80lol",
+          "created": 1638224511,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

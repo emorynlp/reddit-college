@@ -1,0 +1,522 @@
+{
+  "sid": "r54yae",
+  "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/",
+  "title:": "Is it weird to have a website as a PhD student?",
+  "text": "I'm a 2nd year PhD student in an ecology/evolution program. I made myself a website but now I'm worried it's a bit of a weird and self-aggrandizing thing to do this early on in my career. The website isn't live yet and I might just save it for later on down the road. Anyone have good or bad takes on having your own website as a PhD student?",
+  "author": "oxopop",
+  "created": 1638218024,
+  "updated": 1638481158,
+  "over_18": false,
+  "upvotes": 112,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "hmksa1j": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmksa1j/",
+      "text": "Never bad to start getting a web presence early.",
+      "author": "Eigengrad",
+      "created": 1638219263,
+      "upvotes": 173,
+      "replies": {}
+    },
+    "hmkwkfp": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmkwkfp/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1638220959,
+      "upvotes": 135,
+      "replies": {
+        "hmn5wl1": {
+          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn5wl1/",
+          "text": "Cloudflare Page is free. Google Chepest VPS is free, InfinitelyFree is free....",
+          "author": "BenL90",
+          "created": 1638262811,
+          "upvotes": 6,
+          "replies": {
+            "hmn5xdz": {
+              "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn5xdz/",
+              "text": "Digital ocean page is free",
+              "author": "BenL90",
+              "created": 1638262829,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hmkxcy7": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmkxcy7/",
+      "text": "As a science communicator I'd say go for it! Just make sure you have a particular audience in mind. Mh experience is that the number one mistake most do when setting up a website, is having no intended audience, leading to a website that is really only interesting to the author. \n\nA website is a great place to showcase your published work, conference contributions, and perhaps even write popular dissemination texts about your articles, or perhaps you can have a nerdy blog which would be useful for certain audiences. It's also a great place to make yourself visible to a broader audience.\n\nHowever, if your university has a good interface for its staff, ie bio-pages etc, I'd encourage you to utilize that as well. A university website would for instance appear higher up on Google than your private wordpress site. Also, it's benefitial to be associated with established institutions. We have a lot of researchers where I work who go off and create their own website, because they don't like the design of the university site, or for whatever reason. It's really stupid, because being associated with a large institution beats fancy fonts or whether the captions are in italics or whatever... \n\nA Wikipedia site is also a good idea if your area of expertise is something for example journalists would be interested in.\n\nI'm happy to advice if you have any questions!",
+      "author": "Naivemlyn",
+      "created": 1638221276,
+      "upvotes": 57,
+      "replies": {
+        "hmloqey": {
+          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmloqey/",
+          "text": ">  if your university has a good interface for its staff, ie bio-pages etc, I'd encourage you to utilize that as well. A university website would for instance appear higher up on Google than your private wordpress site. Also, it's benefitial to be associated with established institutions.\n\nDitto this. I don't use my own website, but still have several dozen media hits thanks to an up-to-date bio and CV on our department's website and active social media profile (some might say *too* active...). When folks come looking for expertise, they're not gonna know your name to Google - they're gonna look through established institutions' list of people, or they go through people they already know who can point them your way and use your bio to verify. Obviously you can have your own website as well that you can link to through your institution profile, but the latter should come first.",
+          "author": "Timmyc62",
+          "created": 1638233138,
+          "upvotes": 12,
+          "replies": {}
+        },
+        "hmn65fp": {
+          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn65fp/",
+          "text": "\"have a particular audience in mind\"\n\nI've heard this advice a lot, but I find it hard to follow. If I'm a professional blogger, I can spend time to find a particular \"niche\" and then write tailored articles trying to maximize views and income. \n\nBut I'm not. I just want to site/blog where I can compile all my thoughts. I have been writing long articles on Facebook on my travels, my views on different things, book/film reviews...etc over the past several years. I then started a blog in blogger and wrote one page each about my tech projects, and linked them in my CV. \n\nI recently migrated my blog to github pages, and decided to include by travels and thoughts as well. As one site that defines me. I'm pretty sure the audience interested in computer architecture, backpacking and stories and book reviews is almost none. But I really don't have the time to manage three blogs.\n\nWhat do you think?",
+          "author": "uncle-iroh-11",
+          "created": 1638263024,
+          "upvotes": 8,
+          "replies": {
+            "hmn765m": {
+              "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn765m/",
+              "text": "I will have a look! \nThere is nothing wrong as such with having a personal website with different themes - think of newspapers, they target readers interested in sports, finance, etc.\nHowever if the main reason for having a website is professional promotion, networking, etc, you communicate much more effectively if you target your \"dream audience\" both in terms of what you write about, how you write (important!) and how you present your content.\nIt just always falls into place once you position yourself in the mind of the target reader, instead of seeing it from your perspective. \nIt's like writing an academic article, I guess. Sometimes you have to kill your darlings or move them to another document for the sake of clarity and a read thread in the text. \nFor a young scientist whose main motivation for having a website is to get noticed for their knowledge and research, I would prioritise this way of thinking about the website. \nThere is nothing wrong, however, by adding a category for non-research related issues. It can be fun to \"get to know\" the person behind the research. Also, if you're an excellent writer, showing that off by writing about other things than research related issues, could be benefitial if you want to get into popular dissemination. \nHowever having a target audience in mind for the main content is rule number 1 for effective communication. \nIt really depends who and what the website is for. If it is primarily for yourself, and not that serious in terms of network building or \"personal branding\" (I hate that term, but I'll use it), then have fun and it won't hurt. \nBut if you're serious about using it for professional purposes, it makes sense to think the way I've tried to describe it!",
+              "author": "Naivemlyn",
+              "created": 1638263941,
+              "upvotes": 4,
+              "replies": {}
+            },
+            "hmn7yfq": {
+              "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn7yfq/",
+              "text": "I had a quick look! I'm meant to be writing a paper, so I didn't take time to read, so you know this is not very thourugh! Firstly: How nice to see a blog full of content! It looks really nice visually. I know what you mean, it's quite varied. And I don't think I'm the target audience, as I didn't even understand the first headline \ud83d\ude02. My first thought is that I miss a context. The website doesn't say anything about who you are or what your expertise is in? Or perhaps it does, but I couldn't find it!\nI would recommend making it very clear to the reader who this is coming from and your credentials. I assume you have more expertise in some areas than in others, which should be clear to me as a reader.\nI don't mind the varied set up. It clearly is a personal blog. I assume you would use the blog as a \"database\" of sorts - like you can send links to your blogs regarding certain topics in whatever context (\"I have written about this here:...\") which is handy.\nBut if I were, say, a journalist or an industry person looking to hire somebody to have a presentation in whatever field your expertise is in, I would look for the \"about me\"-information. A text on the frontpage presenting who you are and what on the blog is professional / research and what is just \"stuff I write about for fun\" would be helpful!\nAlso, I find the headlines a bit hard to grasp - if you want people outside of your area of expertise to read those articles, I would make the headlines more descriptive. Also, this could be helpful for the above mentioned journalist / industry person etc. \nIt looks nice, though, and the fact that there's a lot lf content and nice photographs gives the impression of you being engaged, effective and active. That's a good thing.",
+              "author": "Naivemlyn",
+              "created": 1638264640,
+              "upvotes": 3,
+              "replies": {
+                "hmn8w7z": {
+                  "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn8w7z/",
+                  "text": "Thanks a lot for taking a time and giving this much feedback amidst your work! I'm so grateful!\n\nYou got it. I haven't published the about me page yet. As you said, I'm currently using this as a database: linking to the technical articles and tags in my SOP (I'm applying for PhD these days). Once I'm done with that, I'll finalize the About Me page. \n\nBasically, I'm planning to say about my research interests (computer architecture, hardware acceleration, silicon implementation), my passion for teaching those, and then about my travels and thoughts. I'll add links to my CV and my google scholar there as well.",
+                  "author": "uncle-iroh-11",
+                  "created": 1638265477,
+                  "upvotes": 2,
+                  "replies": {
+                    "hmn91fj": {
+                      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn91fj/",
+                      "text": "Sounds like a great idea. It will be useful, judging by the other stories in this thread!\n\nNo problem. I love my real job more than I love studying, so this was just a fun break! \n\nGood luck!",
+                      "author": "Naivemlyn",
+                      "created": 1638265607,
+                      "upvotes": 2,
+                      "replies": {
+                        "hmn9czr": {
+                          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn9czr/",
+                          "text": "Oh and btw, you should look for other blogs or outlets in your area. I run a blog for my research institution. We often have \"guest bloggers\" in the same area from other institutions. Our reach is pretty big, we have 25 000 practicioners (mainly) following us on Facebook (I live in a small country, so that's actually quite a lot). Sometimes a researcher has written about something that's relevant for our audiences on their personal/professional blog. I get to copy the text (of course with a link to their blog) and publish it on our platforms. It's a win-win - we get good content, they get free promotion and exploit the work they've already done.",
+                          "author": "Naivemlyn",
+                          "created": 1638265890,
+                          "upvotes": 2,
+                          "replies": {
+                            "hmn9wbx": {
+                              "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn9wbx/",
+                              "text": "Ah yes. There's a great blog called ZipCPU. It's all about his work in that area and is a great resource full of tutorials, tips and tricks. \n\nI once thought of starting such a blog. But i don't have the patience to write about every little thing i do. I mostly follow tutorials online to do my own stuff, so i don't think it's worthwhile to start a seperate blog like that. I know it doesn't matter and i can always write, but that's too much work i guess.",
+                              "author": "uncle-iroh-11",
+                              "created": 1638266356,
+                              "upvotes": 2,
+                              "replies": {
+                                "hmn9zkq": {
+                                  "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn9zkq/",
+                                  "text": "I meant that you can ask others if they are interested in publishing your content! :)",
+                                  "author": "Naivemlyn",
+                                  "created": 1638266433,
+                                  "upvotes": 2,
+                                  "replies": {
+                                    "hmnybph": {
+                                      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmnybph/",
+                                      "text": "Ah yes, that's true! I'll do it when I write something original. Thank you!",
+                                      "author": "uncle-iroh-11",
+                                      "created": 1638282311,
+                                      "upvotes": 1,
+                                      "replies": {}
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hmnk4ap": {
+          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmnk4ap/",
+          "text": "> However, if your university has a good interface for its staff, ie bio-pages etc, I'd encourage you to utilize that as well. A university website would for instance appear higher up on Google than your private wordpress site. Also, it's benefitial to be associated with established institutions. We have a lot of researchers where I work who go off and create their own website, because they don't like the design of the university site, or for whatever reason. It's really stupid, because being associated with a large institution beats fancy fonts or whether the captions are in italics or whatever...\n> \n> \n\nThis is a good point, but also keep in mind ECR/post docs might be moving around a lot. Having a personal website helps retain information in-case it's scrubbed when you move.",
+          "author": "MFA_Nay",
+          "created": 1638274487,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "hmo42xr": {
+          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmo42xr/",
+          "text": "I\u2019ve been meaning to overhaul my blog to be a more professional website and this is super helpful, thanks!\n\nBtw I\u2019m in rhetoric and teach public speaking so the audience thing rings 100000% true for me!",
+          "author": "coyotesandcrickets",
+          "created": 1638284933,
+          "upvotes": 3,
+          "replies": {
+            "hmo7weg": {
+              "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmo7weg/",
+              "text": "Yay! Glad to be of help!",
+              "author": "Naivemlyn",
+              "created": 1638286559,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hmm2c3t": {
+          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmm2c3t/",
+          "text": ">A Wikipedia site is also a good idea if your area of expertise is something for example journalists would be interested in.\n\nDo you mean a Wikipedia article about yourself?\n\nMaybe I misunderstood, but basically no PhD students will meet the [notability guidelines](https://en.wikipedia.org/wiki/Wikipedia:Notability_(academics)) to warrant having their own Wikipedia article.",
+          "author": "jdfoote",
+          "created": 1638239318,
+          "upvotes": 6,
+          "replies": {
+            "hmmpn9u": {
+              "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmmpn9u/",
+              "text": "He probably meant a MediaWiki site, which is the FOSS CRM that Wikipedia is built on. MediaWiki is pretty easy to install and use, and anyone that has ever edited Wikipedia knows how to use it.",
+              "author": "tokekcowboy",
+              "created": 1638250809,
+              "upvotes": 3,
+              "replies": {
+                "hmmsh6y": {
+                  "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmmsh6y/",
+                  "text": "She :)\nAh, I didn't know. I know professors who have Wikipedia sites, and benefit from it, that's why I thought of it. I don't know the guidelines.\nSave that idea for later!",
+                  "author": "Naivemlyn",
+                  "created": 1638252583,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hmm2cdo": {
+          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmm2cdo/",
+          "text": "Most of my schools bio pages also include links to personal websites so doing both would be beneficial!",
+          "author": "nostalgiaisunfair",
+          "created": 1638239322,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hml91fk": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hml91fk/",
+      "text": "I've had a website for years; it actually was something my current PhD advisor complimented me on when I started my current program. Definitely never too early to start establishing a digital identity.",
+      "author": "Kimanaio",
+      "created": 1638226106,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "hmkw75w": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmkw75w/",
+      "text": "You should 100% have a website as a PhD student. Put your affiliations, contact info, and CV up there. If/when you have publications, be sure to list those there as well. It doesn't have to be much, just think of it as a business card.",
+      "author": "wise_garden_hermit",
+      "created": 1638220815,
+      "upvotes": 63,
+      "replies": {
+        "hmn1r7t": {
+          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn1r7t/",
+          "text": "And definitely include the url or a qr to it on your physical business card as well!",
+          "author": "PityUpvote",
+          "created": 1638259311,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "hms352g": {
+          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hms352g/",
+          "text": "100% is a stretch. Not everyone is trying to get into academia",
+          "author": "doyouevenIift",
+          "created": 1638353192,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hmkyqmf": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmkyqmf/",
+      "text": "It can be a great idea for you to get a space online and stand out. However, it can also be a terrible idea if you use it to procrastinate and end up just working on materials to post, but never do because you don't think it is good enough. Go for it. Don't be afraid to be judged.",
+      "author": "jefgab",
+      "created": 1638221832,
+      "upvotes": 12,
+      "replies": {}
+    },
+    "hmky2v3": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmky2v3/",
+      "text": "I don't think it's weird. A few of my classmates who are into more applied research have their own sites, some also have blogs where they talk about topics related to their research. \n\nI don't think there are really any disadvantages to having a website, assuming it's something you actually use.",
+      "author": "False-Guess",
+      "created": 1638221566,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "hmlqs4s": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmlqs4s/",
+      "text": "A bunch of my undergrads have websites. So do both of my kids, one of which is in college. It's a great/cheap way to brand yourself and to share your work/interests.\n\nTons of grad students are active on Twitter establishing themselves in professional networks. How is having a web site any different?",
+      "author": "SnowblindAlbino",
+      "created": 1638234066,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hml9nzy": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hml9nzy/",
+      "text": "I have my own website too, definitely not weird. Github pages is free so why not?",
+      "author": "coffee24",
+      "created": 1638226368,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hmlqlz4": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmlqlz4/",
+      "text": "My advisor told me that nobody will ever ask me to review papers if I don\u2019t have a website because they will never know who I am.",
+      "author": "thehipriestess",
+      "created": 1638233991,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hmm6jgt": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmm6jgt/",
+      "text": "Depends on the website and career\u2026but it\u2019s never too early start a website to help with search engine optimization.",
+      "author": "Be_quiet_Im_thinking",
+      "created": 1638241191,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hmmvzrq": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmmvzrq/",
+      "text": "It's weirder not to have one tbh (but maybe I'm biased because I'm in CS).",
+      "author": "WorkingVersusLiving",
+      "created": 1638254958,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hmn4ao6": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn4ao6/",
+      "text": "Not at all. I had a website since my 1st year. It actually became a source of achievement that got me through grad school. \n\nThe turning point was when I made it into a blog and shared bits and pieces of my knowledge that would otherwise never see the light of day. For example, I had spent a nontrivial amount of time figuring out how to analyze some data with a new technique. Unfortunately the result wasn't good. I still wanted to show the world that I knew how to do this and turns out a personal blog is a great way to keep a record of what you've learned and these kinds of posts help others too. \n\nBy my third year when I was presenting at conferences, I noticed that people began to look me up. It's kinda nice to keep track of these kinda stuff too. Make sure you have a tracker like Google analytics or Statcounter installed on your website. Just remember though that it takes some time for things to pick up. Nobody visited my website during the first two years. Now I get about 30+ visitors every day. Nothing crazy and not like I'm famous or anything but I think it's worth it.",
+      "author": "real_sage",
+      "created": 1638261410,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hmmmpd5": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmmmpd5/",
+      "text": "For my graduate school, they **required** us to create our own PhD. website and publish it in the department's website as part of completing an introductory course for CS Research with some specific rules that we have to abide to when creating it such as a picture, publications, extracurricular activities...etc",
+      "author": "Shebaro",
+      "created": 1638249079,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmmq9p2": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmmq9p2/",
+      "text": "Never to early to start marketing yourself as a professional. Well unless you are like 5 or something.",
+      "author": "Diver808",
+      "created": 1638251194,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmnb8sf": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmnb8sf/",
+      "text": "I made my website when I was in the second year of undergrad. My best friend made his when he was in high-school. Do it, you'll be glad you did :)",
+      "author": "TheOneWhoPunchesFish",
+      "created": 1638267547,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmo2kdu": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmo2kdu/",
+      "text": " just do it. good for you for being prepared early",
+      "author": "maroonhaze",
+      "created": 1638284268,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmls6tf": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmls6tf/",
+      "text": "Clearly an unpopular opinion but I think it can be weird depending on what you put on it. I\u2019m applying to PhD programs rn and there was a potential advisor who had a pane on his website about hiking and traveling and all I could think was \u201chow vain do you have to be to advertise your travel experiences on a professional website and think people are going to care\u201d",
+      "author": "greens_giga_chad",
+      "created": 1638234707,
+      "upvotes": -7,
+      "replies": {
+        "hmmgeno": {
+          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmmgeno/",
+          "text": ">\u201chow vain do you have to be to advertise your travel experiences on a professional website and think people are going to care\u201d\n\nAh yes, sharing something humanizing about oneself. How terrible.\n\n[Undoubtedly, your time has been better spent making memes about applying to grad school](https://www.reddit.com/user/greens_giga_chad/submitted/).\n\nI can only speak for myself: mentioning a few interests on my website has resulted in people that share those interests commenting when making contact. It helps a stranger break the ice when they can say they share some common interest when first contacting me. If you liked hiking and you got an interview with this person, you could talk about hiking and instantly build rapport.",
+          "author": "andero",
+          "created": 1638245766,
+          "upvotes": 8,
+          "replies": {
+            "hmnwze9": {
+              "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmnwze9/",
+              "text": "I like hiking a lot, it\u2019s just not relevant in my opinion. Like why tf the tabs on your website \u201cResearch\u201d \u201cPeople\u201d \u201cContact\u201d and \u201cHiking\u201d.\n\nAlso, I make memes for fun but I wouldn\u2019t put them on my resume. Idk why you felt the need to snoop my profile and diminish how I spend my time tho just cause I disagreed with the gOoD tHiNk opinion on a reddit thread.",
+              "author": "greens_giga_chad",
+              "created": 1638281669,
+              "upvotes": 0,
+              "replies": {
+                "hmps8m3": {
+                  "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmps8m3/",
+                  "text": ">I like hiking a lot, it\u2019s just not relevant in my opinion.\n\nI hear you. \n\nYou are right that hiking almost certainly isn't relevant for their research.\n\nWhat you're wrong about is that it is \"vain\" to put hiking on their website. It isn't vain at all. If you still think it is, try to explain how it is vain. It isn't relevant for their research, but that doesn't make it vain, right?\n\nI gave an example of how it can be helpful to share some personal details: since you like hiking, you can break the ice by talking about hiking when you contact them. This person you are applying to work under **is a person**, not just a job-title. They are a person, so they shared something about being a person that goes beyond work, and that opens the door for you to be able to connect with them on a human level. If you hike, and you don't ask about hiking, you're missing an opportunity to make a connection with this person over something you both enjoy. That's a failing on your part since you need every edge you can get for grad school. Grad school isn't just like taking courses; you work with a supervisor and it is best when you can get along well, and having shared interests helps a lot with that!\n\n>just cause I disagreed with the gOoD tHiNk opinion on a reddit thread.\n\nYou totally missed the point. This isn't about \"gOoD tHiNk opinion\". \n\nI put the example about how it is actually useful. I didn't just shit on you; I shared a reason why it actually makes sense to post that they enjoy hiking. There is something for you to learn here; you don't have to be butthurt over this. You can swallow your pride and rethink the situation a bit. Yes, it isn't relevant, but it isn't detrimental, either, and there are some cases where it is actually quite useful to a thoughtful student trying to make a connection.\n\nI called attention to your memery because you were shitting on a random person that you don't know for what they do with their time. Calling you out was a small taste of your own medicine. Indeed, I didn't even call you names or shit on you directly; I just highlighted what you do with your time and the judgment was left to the reader. Hiking, making memes, reddit commenting, whatever, we're all allowed to spend time however we want. Apparently you didn't like getting called out for it, so maybe your judgment of the person that goes hiking doesn't add up.\n\nYou're allowed to have unpopular opinions. Still, when someone highlights some alternative, it's good to think it through. You don't have to hold fast to your opinion just because you had it; you can update your views with new information and ideas and form entirely new opinions. You don't have to have the same opinion as me, just think it through. Hell, I would not want to see a whole deck of vacation photos, but then again, the entire platform of Instagram seems to be about sharing inane photos so I guess a lot of people are into that shit, so having that on your website isn't a \"bad\" thing. \n\nHonestly, maybe your negative take speaks to the fact that you're kinda embarrassed about your hobby of making memes. This person isn't embarrassed about hiking. You don't have to be embarrassed about making memes. Could have a portfolio of memes and if they were funny, I'd look favourably on that since it would communicate that you have a good sense of humour (and maybe some Photoshop skills).",
+                  "author": "andero",
+                  "created": 1638308945,
+                  "upvotes": 1,
+                  "replies": {
+                    "hmq2dyz": {
+                      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmq2dyz/",
+                      "text": "Too long didn\u2019t read",
+                      "author": "greens_giga_chad",
+                      "created": 1638313159,
+                      "upvotes": 1,
+                      "replies": {
+                        "hmq3epl": {
+                          "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmq3epl/",
+                          "text": "That was too long?\n\nGood luck with grad school lol",
+                          "author": "andero",
+                          "created": 1638313595,
+                          "upvotes": 0,
+                          "replies": {
+                            "hmq3hbv": {
+                              "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmq3hbv/",
+                              "text": ">cognitive neuroscience\n\nThanks \ud83d\ude01",
+                              "author": "greens_giga_chad",
+                              "created": 1638313626,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hmlkl6u": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmlkl6u/",
+      "text": "I wish I had made mine earlier. I'm too busy to now! (Not really, but ... I certainly have a hard time prioritizing it when I could be doing other research!)",
+      "author": "hausdorffparty",
+      "created": 1638231219,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmlrnrc": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmlrnrc/",
+      "text": "You will eventually need it, 1st step to build a good website is building a shitty website, doing that in early years means you get time to refine later on. Besides worse comes to worse no one would care about it, but at cost of coffee, it isnt much a loss either.",
+      "author": "NeuroticKnight",
+      "created": 1638234465,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmm22iu": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmm22iu/",
+      "text": "My advisor made me make myself one my first year.",
+      "author": "DonHedger",
+      "created": 1638239202,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmm7gly": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmm7gly/",
+      "text": "I'm not yet studying for a PhD, but I think it's great to have that not only for networking and showcasing your past work but also for any students if you're a lecturer for any classes. Knowing the background of a lecturer can help the student ask better questions and feel more comfortable asking in the first place.",
+      "author": "shivurs",
+      "created": 1638241602,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmme4o1": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmme4o1/",
+      "text": "No, it's never weird to have a website.",
+      "author": "titlit_vv",
+      "created": 1638244675,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmme719": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmme719/",
+      "text": "I just use LinkedIn, but if you want to use it to market yourself or promote your research it isn't a bad idea.",
+      "author": "Do_Not_Go_In_There",
+      "created": 1638244708,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmmfx94": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmmfx94/",
+      "text": "I used my website as a working portfolio and record of things I was proud of. Also, when you apply for jobs one day it's a nice thing to have pop up if the company decides to quickly Google your name and you can also put Google analytics on it to see where people are looking at your site from.",
+      "author": "mathingDayandNight",
+      "created": 1638245528,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmmn4p9": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmmn4p9/",
+      "text": "I've been wanting to make one, but have been too lazy to figure it out. My department lets us host on their stuff and we can have a link from our department directory. Maybe about 1/4 of the PhD student in my department have one.",
+      "author": "PurpleMermaid16",
+      "created": 1638249321,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmmrqxf": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmmrqxf/",
+      "text": "It depends. Do you research enzymes? If so, please make a website. The world needs more people researching enzymes. Otherwise, it's ultimately a judgement call.",
+      "author": "schnebly5",
+      "created": 1638252118,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmms1wu": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmms1wu/",
+      "text": "You\u2019re pretty much a professional at this point I don\u2019t see how this would be detrimental in the least. If anything it\u2019s perfect cause it\u2019ll probably take you the rest of your phd to build a decent following",
+      "author": "Glenncinho",
+      "created": 1638252314,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmmtq87": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmmtq87/",
+      "text": "I had one in my Masters already. Definitely encourage you to make it.",
+      "author": "Moderatecat",
+      "created": 1638253407,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmn0oxw": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn0oxw/",
+      "text": "Tell Alexandra that. She has a hub.\nr/scihub",
+      "author": "kilterwind",
+      "created": 1638258460,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmn3b2n": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmn3b2n/",
+      "text": "I had one in year 3 of my PhD. It eventually helped me land my current postdoc position early this year, because my (now boss) found it when they Googled me and saw my CV. They decided to recruit me directly.",
+      "author": "RBGVelvet",
+      "created": 1638260580,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmo72pn": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmo72pn/",
+      "text": "Nope not at all. Every person now needs their own personal brand. That you control. So it\u2019s great to do it now.",
+      "author": "LordRichteroftheMyst",
+      "created": 1638286216,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmoaqnt": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmoaqnt/",
+      "text": "Lol I made a GitHub website as a master\u2019s student. It\u2019s not weird and I know plenty of people who have one.",
+      "author": "phantomixie",
+      "created": 1638287718,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmov3ch": {
+      "link": "/r/GradSchool/comments/r54yae/is_it_weird_to_have_a_website_as_a_phd_student/hmov3ch/",
+      "text": "It\u2019s super good \u2014 easy way to keep track of your stuff, and for other people to find you :D",
+      "author": "realFoobanana",
+      "created": 1638295703,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

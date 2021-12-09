@@ -1,0 +1,78 @@
+{
+  "sid": "r5yh16",
+  "link": "/r/GradSchool/comments/r5yh16/good_citation_machine/",
+  "title:": "Good Citation Machine",
+  "text": "Trying to finish up a paper and don't want to manually do the citations. The site im using is broken and messes the citations up.",
+  "author": "constantlycurious3",
+  "created": 1638309197,
+  "updated": 1638481148,
+  "over_18": false,
+  "upvotes": 9,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hmqatym": {
+      "link": "/r/GradSchool/comments/r5yh16/good_citation_machine/hmqatym/",
+      "text": "Organize stuff on Zotero, create citations and bibliography with the format you like. If you're working from MS Word or LibreOffice you can do it through the Zotero plugin.",
+      "author": "ShrinivasaPrabhu",
+      "created": 1638316861,
+      "upvotes": 16,
+      "replies": {}
+    },
+    "hmqng2y": {
+      "link": "/r/GradSchool/comments/r5yh16/good_citation_machine/hmqng2y/",
+      "text": "Zotero is free and very effective. Download it, create your items by dragging and dropping the PDFs of the papers, or by using the Zotero button in Google Chrome (very useful for citing webpages), or by looking up the paper in Zotero with the magic wand button and some identifier like the ISBN or DOI. Once you have your citable items, you can generate citations from them in any style you need.",
+      "author": "myristicae",
+      "created": 1638322537,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hmq81e1": {
+      "link": "/r/GradSchool/comments/r5yh16/good_citation_machine/hmq81e1/",
+      "text": "If you're using a reference manager, it probably has an option to generate a bibliography (in Zotero, right-click on the collection and then choose \"create bibliography from collection\").",
+      "author": "TheSqrtOfNegative1",
+      "created": 1638315619,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hmpvvuf": {
+      "link": "/r/GradSchool/comments/r5yh16/good_citation_machine/hmpvvuf/",
+      "text": "If it weren't late in the process, I'd shill LaTeX. But redoing the paper seems excessive, and your field might not have easy listings of bibtex formatted citations on its papers?",
+      "author": "UmbralRaptor",
+      "created": 1638310435,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hmrpx3k": {
+      "link": "/r/GradSchool/comments/r5yh16/good_citation_machine/hmrpx3k/",
+      "text": "I use the Mendeley web extension for grabbing papers and the desktop program for organizing them by subject. If you are writing in Microsoft Word you can connect your Mendeley account to it and directly import citations, and it will automatically create an alphabetized reference list for you :)",
+      "author": "pdfhoarder",
+      "created": 1638342414,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmqzv8u": {
+      "link": "/r/GradSchool/comments/r5yh16/good_citation_machine/hmqzv8u/",
+      "text": "My schools library website has a citation generator. It\u2019s works okay, but I have to double check it.",
+      "author": "Hazelstone37",
+      "created": 1638328097,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmrlsqp": {
+      "link": "/r/GradSchool/comments/r5yh16/good_citation_machine/hmrlsqp/",
+      "text": "I adore Endnote. My university pays so we can have it. Endnote can organize your citations and list them in whatever format that you prefer using different citation styles that they either have in their library or that you can get directly from the publisher that you will need. And it will also update your citation values for your in-text citations as it needs to be updated to have them be in that chronological format that most scientific writing to use. You can also change your physical reference list to use any abbreviations that you might need, you can create groupings of citations and make notes and download the abstracts, and you can use it for footnotes and any other citation features that you might require. I would highly recommend the use of end note, it has vastly improved my citation experience when it comes to any of my writing.",
+      "author": "Zandria8033",
+      "created": 1638339623,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmptbdu": {
+      "link": "/r/GradSchool/comments/r5yh16/good_citation_machine/hmptbdu/",
+      "text": "Hate to break it to ya but a good citation machine doesn\u2019t exist",
+      "author": "RenaissanceScientist",
+      "created": 1638309382,
+      "upvotes": -2,
+      "replies": {}
+    }
+  }
+}

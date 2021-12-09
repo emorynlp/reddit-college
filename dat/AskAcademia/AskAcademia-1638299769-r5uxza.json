@@ -1,0 +1,38 @@
+{
+  "sid": "r5uxza",
+  "link": "/r/AskAcademia/comments/r5uxza/need_ethics_advice_on_helping_a_researcher_as_a/",
+  "title:": "Need ethics advice on helping a researcher as a freelancer",
+  "text": "So I recently finished my PhD and have plans for a postdoc that due to unforeseen circumstances got delayed by a few months. During this wait time, parallel to wrapping up my PhD projects, I decided to do freelancing to get to know what the industry requirements are and earn some money now that I don't get a paycheck.\n\nI came across a project which to my understanding is posted by a postdoctoral student not well-versed in coding/working with data. He's an expert in his domain and wrote down the pseudocode for what needs to be done and the mathematical model of the process. He just can't do the coding and/or doesn't have time for it, that's why he posted the job on a freelance platform.\n\nI'm quite experienced doing the type of tasks he posted, so I submitted a proposal and got the job offer. By the way, I found out about the client's academic background in the process of working with him.\n\nSo here's the ethical question that's bugging me. Should I be asking for some kind of acknowledgement from this person in his (potentially) upcoming publication? The domain is very far from what I work on, so asking for a co-authorship isn't an option, especially since I cannot vouch for the quality of his paper, but can only guarantee the quality of my work. Or should I instead ask to mention my name in the Acknowledgements section? What would be the ethical thing to do?\n\nHaving worked at the interface of theory and experiment, I know that it's a common practice to have university facilities do jobs for the research for money. And given the fact that this guy really knows the subject and will be writing the paper himself, I'm not worried of classical plagiarism issues.\n\nAny input on this situation is much appreciated!",
+  "author": "tourmentedSoul",
+  "created": 1638299769,
+  "updated": 1638479837,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hmp6kb4": {
+      "link": "/r/AskAcademia/comments/r5uxza/need_ethics_advice_on_helping_a_researcher_as_a/hmp6kb4/",
+      "text": "Just because you're paid to do the work doesn't mean you can't be an author, if you so wish. Acknowledgement should be a given. How else will they be able to describe the methodology?",
+      "author": "Kiss_It_Goodbyeee",
+      "created": 1638300260,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hmrh14f": {
+      "link": "/r/AskAcademia/comments/r5uxza/need_ethics_advice_on_helping_a_researcher_as_a/hmrh14f/",
+      "text": "Numerical methodology is still methodology. If your work affects the research output, that work should be attributed to you. Authorship is also about who is accountable for the work.\n\nIf they publish this without acknowledging or including you, the postdoc is being unethical.\n\n(Unless it's unrelated to the work like, \"I need you to truncate 1000 data files of the weird row of letters someone accidentally included.\")",
+      "author": "botanicalbuddy",
+      "created": 1638336703,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmpq3wq": {
+      "link": "/r/AskAcademia/comments/r5uxza/need_ethics_advice_on_helping_a_researcher_as_a/hmpq3wq/",
+      "text": "I don't think you have to take responsibility for everything in the paper, just your contribution if you are an author - especially in this kind of situation. You probably want to be sure it's not a total lemon so you're not tainted by association if it turns out to be an absolute scandal. \n\nI think ideally you should be either an author or acknowledged. You should look up the credit taxonomy. It's very helpful for helping identify contributions and decide authorships.",
+      "author": "ACatGod",
+      "created": 1638308083,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

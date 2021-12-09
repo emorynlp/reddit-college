@@ -1,0 +1,31 @@
+{
+  "sid": "r7e09n",
+  "link": "/r/ApplyingToCollege/comments/r7e09n/college_admissions_dataset/",
+  "title:": "College Admissions Dataset",
+  "text": "Hey y'all - I'm in the middle of coding a college admissions simulation game and need a dataset (like in a CSV) that includes admissions stats (acceptance rate, test score percentiles, etc.) for most to all major institutions in the US. Does anyone know of such a thing? Would be awesome if I could get that.",
+  "author": "interloper100",
+  "created": 1638470211,
+  "updated": 1638478002,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hmyqw1c": {
+      "link": "/r/ApplyingToCollege/comments/r7e09n/college_admissions_dataset/hmyqw1c/",
+      "text": "Sounds like you're looking for common data sets and https://nces.ed.gov/collegenavigator/",
+      "author": "freeport_aidan",
+      "created": 1638470955,
+      "upvotes": 2,
+      "replies": {
+        "hmyt7rc": {
+          "link": "/r/ApplyingToCollege/comments/r7e09n/college_admissions_dataset/hmyt7rc/",
+          "text": "This helped a lot, thank you so much!",
+          "author": "interloper100",
+          "created": 1638471849,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

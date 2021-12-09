@@ -1,0 +1,188 @@
+{
+  "sid": "r65ktl",
+  "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/",
+  "title:": "Anyone else make stupid mistakes and beat yourself up because you should know better as a grad student but you simply forgot basic things?",
+  "text": "I\u2019m a first year grad student and had to write a ten page paper for a class. It was the first time I\u2019ve written an academic paper since I graduated undergrad around 4 years ago. I spent weeks and long hours reading papers and writing what I thought was a really good paper and making sure every thing that needed to be was backed up by citations and references. After I turned it in I realized I some how combined APA and AMA citation styles (alphabetical numbered APA references in the bibliography but numeric in-text citations???) I talked to professor and will probably just get a grade ding since I did throughly reference all my sources but smh we learned how to cite in what? Middle school? I\u2019m dumb.",
+  "author": "cicadagirl8897",
+  "created": 1638330402,
+  "updated": 1638481122,
+  "over_18": false,
+  "upvotes": 114,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "hmrxuap": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmrxuap/",
+      "text": "Wait, why would you get a grade ding over something like this? Its a mistake yeah, but hardly something that critically affects your scholarship. For that matter, why can't your prof just let you resubmit this after fixing it. Or just... acknowledge the error was noted, and move on? I make a million silly mistakes all the time in my writing. Especially since writing for grad school courses involves doing fairly complex work under significantly shorter timeframes. Its not like this sort of mistake is unfixable in any real world academic situation. If a publisher noticed it, you'd just cure it before publication and that would be the end of it. So why is your professor penalizing you for this?\n\nI routinely make idiotic mistakes. It happens. There's minor casual errors all the time, especially with large writing projects that you construct over multiple sittings, and so have dissonances due to the interrupted trains of thought. And I have friends who are much deeper into their careers, and they routinely make mistakes too. Its part of being human.",
+      "author": "boringhistoryfan",
+      "created": 1638348588,
+      "upvotes": 35,
+      "replies": {
+        "hmtg5v8": {
+          "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmtg5v8/",
+          "text": "I loathe being graded during a grad program. I think it\u2019s just redundant and I agree getting a grade ding because of a format error would frustrate me to no end!",
+          "author": "Femmeforever",
+          "created": 1638379031,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "hmtin3q": {
+          "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmtin3q/",
+          "text": "I do agree with you. In their defense, the rubric did say at least 10 \u201cproperly cited\u201d sources \ud83d\ude02",
+          "author": "cicadagirl8897",
+          "created": 1638380004,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hmu4kng": {
+          "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmu4kng/",
+          "text": "Indeed, this feels strange to me as well. Citations are important, but for the sake of grading something like this should be very unimportant. Moreover, if the paper is meant to be published in a journal, the citations will likely have to be re-done anyway so the entire issue is pointless from the get-go.  \n\nI can't think of a single professor I've had who has said anything other than \"make sure the citations and neat and orderly - other than that I don't really care.\"",
+          "author": "HoboWithAGlock",
+          "created": 1638388464,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hmsix4v": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmsix4v/",
+      "text": "In grad school you learn you are pretty dumb even though you get a Ph.D.",
+      "author": "rthomas10",
+      "created": 1638364454,
+      "upvotes": 33,
+      "replies": {
+        "hmsvf19": {
+          "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmsvf19/",
+          "text": "Yup! In some ways I'm very smart, in others my brain is a giant turd sitting in my head.",
+          "author": "Two-HeadedBolognaGod",
+          "created": 1638370564,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "hmra9an": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmra9an/",
+      "text": "I am in math grad school and wrote \u201cthe least common multiple of 4 and 2 is 8\u201d on an abstract algebra exam (a third grader would inform you it is 4). I make stupid mistakes like this on tests constantly this semester and feel like I lost my testing mojo from when I was in undergrad 4 years ago.",
+      "author": "anonymousbutterfly20",
+      "created": 1638333104,
+      "upvotes": 41,
+      "replies": {
+        "hmrpjok": {
+          "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmrpjok/",
+          "text": "I was solving a PDE for a take home test and after getting separation of variables working I sat their thinking how the hell do I integrate this.",
+          "author": "suckuma",
+          "created": 1638342150,
+          "upvotes": 6,
+          "replies": {
+            "hmuk0dn": {
+              "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmuk0dn/",
+              "text": "Ahhhh my favorite, using complicated grad-level math to reduce something to an undergrad-level problem, followed by needing to google to remember how to do undergrad-level math.",
+              "author": "Driftover",
+              "created": 1638394264,
+              "upvotes": 5,
+              "replies": {
+                "hmusrgv": {
+                  "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmusrgv/",
+                  "text": "It was a difficult one. Ended up solving it using matlab. Couldn't use the int function normally since it was integrating to infinity so I added a symbolic end value and took the limit as it goes to infinity.",
+                  "author": "suckuma",
+                  "created": 1638397649,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hmrflgp": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmrflgp/",
+      "text": "I have to two sets of the same cells for an experiment. \n\nOver a couple weeks I was propagating one line fine and just. forgot. the other. \n\nA two week  delay in my project that I couldn;t fully find time to fill with other obligations.",
+      "author": "coffeeismydoc",
+      "created": 1638335913,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "hmrn94p": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmrn94p/",
+      "text": "I have fabricated hundreds of nano devices using the same procedure. I always follow my checklist for the steps and double-check temperatures because the one time I didn\u2019t thinking \u201coh, I\u2019ve got this\u201d I messed up the fabrication.",
+      "author": "Funkybeatzzz",
+      "created": 1638340565,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hmr6j4q": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmr6j4q/",
+      "text": "Can relate. I started working as an assistant editor my a professional magazine for my professor. I work from home and correspond with her through email. It's my first year in grad school and doing a job like this so I make a lot of mistakes and I email her all the time because of my questions, but I feel like I'm annoying her even though I'm trying my best do everything right and stay optimistic. I just don't want her to think I'm an incompetent idiot. \ud83d\ude14",
+      "author": "Jaythelostboy10",
+      "created": 1638331247,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hmssy4p": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmssy4p/",
+      "text": "\"Is anyone else human?\"",
+      "author": "RipVanWinter",
+      "created": 1638369470,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hmstyw4": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmstyw4/",
+      "text": "Eh, that's not a big deal. I do freelance editing of journal articles pre-submission, and lots of people have consistency issues in their citations. And they're probably more experienced than you so I wouldn't sweat it.",
+      "author": "TheLarix",
+      "created": 1638369938,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmsx3ce": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmsx3ce/",
+      "text": "I do this frequently. Beating one's self up is probably not a great idea, as it is has never managed to get me to help me stop making mistakes. I think part of it is just learning to accept making mistakes rather than endlessly pursuing perfectionism. Easier said than done.",
+      "author": "GandalfDoesScience",
+      "created": 1638371295,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmsyakw": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmsyakw/",
+      "text": "If it makes you feel any better I noticed after the fact that I used four different citation methods in one of my thesis papers. So there's that. Thankfully no one on my committee noticed but also at that point unless they're mining for info they weren't gonna check lol.",
+      "author": "msmomona",
+      "created": 1638371811,
+      "upvotes": 2,
+      "replies": {
+        "hmtirny": {
+          "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmtirny/",
+          "text": "Honestly this does make me feel better",
+          "author": "cicadagirl8897",
+          "created": 1638380054,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hmszpp6": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmszpp6/",
+      "text": "I hope you all don't think that ever ends in your life. I have multiple graduate degrees, including a PhD, involving a wide variety of subjects, and I am fully capable of forgetting the basic things in every single one of those subjects.",
+      "author": "wizardyourlifeforce",
+      "created": 1638372414,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmt172m": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmt172m/",
+      "text": "My opinion on grad school is that it is set up to be stupidly difficult and just a constant stream of failure so that when you get to the real world, everything is easy and you have gone through all the trial and error you needed to succeed.\n\nDon\u2019t beat yourself up - it was a stupid mistake and that shit happens.\n\nI\u2019m out of grad school now, but last night I was studying some music I\u2019m learning, and was trying to analyze my part - and I just couldn\u2019t find my part on the music and I was so confused. Ten mins later I realized I was just listening to the wrong symphony the entire time and that\u2019s why I couldn\u2019t find my part. \n\nStupid shit still happens after grad school - but now I just laugh at myself for being a dumb dumb.",
+      "author": "Astrnougat",
+      "created": 1638373033,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmu1o4j": {
+      "link": "/r/GradSchool/comments/r65ktl/anyone_else_make_stupid_mistakes_and_beat/hmu1o4j/",
+      "text": "Mistakes happen, learn that now so you don't have added, unnecessary stress on top of you. \n\nYou owned it, you talked to your professor, now you'll just be more careful next time.",
+      "author": "ARTXMSOK",
+      "created": 1638387339,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

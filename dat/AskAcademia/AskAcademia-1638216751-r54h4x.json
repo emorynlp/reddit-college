@@ -1,0 +1,570 @@
+{
+  "sid": "r54h4x",
+  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/",
+  "title:": "What's stopping Open Access journals",
+  "text": "Can someone explain to me why publishing research papers can't just be like submitting code to Github? Why do you have to go to a publisher when you have to pay them and they put your paper behind a paywall?",
+  "author": "Aidantheaids",
+  "created": 1638216751,
+  "updated": 1638479844,
+  "over_18": false,
+  "upvotes": 55,
+  "upvote_ratio": 0.92,
+  "comments": {
+    "hmmuic0": {
+      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmmuic0/",
+      "text": "This is mysterious. In math we have any number high quality free-to-publish, free-to-read journals. But people in the sciences (see other comments here) often talk as if it's impossible to do this. Well, obviously, it's possible.\n\nMy guess: it's all about the money supply. Running a journal can be pretty darned cheap, as long as it's online only. But there are some costs -- small, but they do exist. In math, where lots of people don't have grants, you can't realistically charge authors. So journals find ways to cover the costs. In the sciences, where everyone has a grant, you just charge authors.\n\nThis situation looks like it will perpetuate itself. In math, we are developing a culture of high quality journals that are free for everyone. In the sciences, they don't have even a hint of such a culture, so free-for-everyone journals are regarded with suspicion. So then even journals that can figure out how to cover the costs don't get high quality submissions. So they don't become leading journals. And the cycle continues ....",
+      "author": "ggchappell",
+      "created": 1638253936,
+      "upvotes": 18,
+      "replies": {
+        "hmn72gj": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn72gj/",
+          "text": "I'm always annoyed by people who claim \"we don't do it so it can't be done, obviously\" but can't look past their own field to other fields where it is done successfully. In linguistics we have *some* very good open access journals, and the move is in this direction with most new journals being green open access, usually funded by a university. And yes, their costs are very low because they don't have print versions.",
+          "author": "cat-head",
+          "created": 1638263848,
+          "upvotes": 8,
+          "replies": {
+            "hmnblrv": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmnblrv/",
+              "text": ">  In linguistics we have some very good open access journals, and the move is in this direction with most new journals being green open access, usually funded by a university.\n\nCould I bother you for some reccomendations on these?",
+              "author": "wetcogbag",
+              "created": 1638267853,
+              "upvotes": 3,
+              "replies": {
+                "hmndadi": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmndadi/",
+                  "text": "[Journal of Language Modelling](https://jlm.ipipan.waw.pl/index.php/JLM), [Glossa](https://www.glossa-journal.org/), [Semantics and Pragmatics](https://semprag.org/index.php/sp/about), [Linguistica Uralica](https://kirj.ee/lu/?v=3a52f3c22ed6)\n\nWe are nowhere near where we should be, but the trend is in the right direction.",
+                  "author": "cat-head",
+                  "created": 1638269318,
+                  "upvotes": 4,
+                  "replies": {
+                    "hmndg5b": {
+                      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmndg5b/",
+                      "text": "I always try to keep up with open source journals but it's hard to find quality ones so thank you",
+                      "author": "wetcogbag",
+                      "created": 1638269454,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hmknocq": {
+      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmknocq/",
+      "text": "Who coordinates peer review? Who pays for web hosting space and ensures that all articles will be available online forever?\n\nThere are lots of open access journals, but they require publishing fees to cover the costs of publishing, even online.",
+      "author": "Eigengrad",
+      "created": 1638217426,
+      "upvotes": 77,
+      "replies": {
+        "hmn4gut": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn4gut/",
+          "text": "This is not universally true. Within Earth Sciences ther ehas been a big movement to try and establish diamond open access journals run by the community. It started with Volcanica http://www.jvolcanica.org/ojs/index.php/volcanica\n\nAnd has recently expanded to Tektonika and Seismica\nhttp://www.tektonika.online/index.php/home\nhttp://www.seismica.org/\n\nBack end hosting is provided by the University of Strasbourg, but all of the editorial load is taken on by volunteers from the community.",
+          "author": "OrbitalPete",
+          "created": 1638261557,
+          "upvotes": 10,
+          "replies": {}
+        },
+        "hmkoxp9": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmkoxp9/",
+          "text": "Hypothetically, do you think there is the possibility of a free and open access journal run by volunteers and ads?",
+          "author": "Aidantheaids",
+          "created": 1638217930,
+          "upvotes": 12,
+          "replies": {
+            "hmkqw7s": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmkqw7s/",
+              "text": "I don\u2019t think a large organization like a journal can be entirely run by volunteers, but there is no reason why we can\u2019t have non-profit journals where the publishing costs reflect the true costs to run the journal. PLOS is a great example. PLOS and some other open access journals are moving toward having agreements with institutions to cover publication costs, much like for profit journals have agreements with institutions for access to journal archives and databases. This seems like a more sustainable model for open science.",
+              "author": "adjective-study",
+              "created": 1638218716,
+              "upvotes": 49,
+              "replies": {}
+            },
+            "hmkrpwi": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmkrpwi/",
+              "text": "No. Because who is ensuring what is published there is *always* accessible?\n\nWho would risk putting their research somewhere that may or may not be around in 20 years?",
+              "author": "Eigengrad",
+              "created": 1638219044,
+              "upvotes": 19,
+              "replies": {
+                "hmmypny": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmmypny/",
+                  "text": "Now that so many journals are online only, I don't think that can be guaranteed by any publisher, unless someone is archiving hard copies somewhere. Yeah, a lot of stuff gets aggregated in databases and researchers keep their own copies, but it's inherently more possible for ejournal archives to not be around in 20 years.\n\nWhich is not to say that paper journals don't have enormous downsides of their own. But having physical copies distributed around the world on a fairly durable material that doesn't rely on software to read is a bigger factor in longevity than the publisher of a specific journal, I think. (But I also generally think all-volunteer organizations have a strong tendency to burn out or implode and would run screaming if someone asked me to do professional-level publishing work as a volunteer, yikes.)",
+                  "author": "threecuttlefish",
+                  "created": 1638256924,
+                  "upvotes": 8,
+                  "replies": {
+                    "hmo6f9q": {
+                      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmo6f9q/",
+                      "text": "Interesting. No journal in my field is online only.",
+                      "author": "Eigengrad",
+                      "created": 1638285940,
+                      "upvotes": 2,
+                      "replies": {
+                        "hmohuaz": {
+                          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmohuaz/",
+                          "text": "I'm surprised to hear that - it's increasingly common in natural and biomedical sciences. Even a lot of very respectable long-standing society journals have dropped their print editions in recent years (I'm guessing libraries no longer wanted to subscribe to print editions, and the finances didn't work out, plus digital simplifies a few things - no color figure charges, for example).\n\nI strongly suspect print editions are going to become less and less common going forward, for better or worse.",
+                          "author": "threecuttlefish",
+                          "created": 1638290539,
+                          "upvotes": 4,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "hml2a1t": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hml2a1t/",
+                  "text": "I think Sci-Hub is doing that now lol",
+                  "author": "someth1ng_au",
+                  "created": 1638223266,
+                  "upvotes": 10,
+                  "replies": {
+                    "hmlvaqx": {
+                      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmlvaqx/",
+                      "text": "Sci-hub doesn't host all the papers, it just helps users bypass firewalls to access them.\n\nThey've lost parts of their repository over the years, and rely heavily on LibGen for other parts of it.",
+                      "author": "Eigengrad",
+                      "created": 1638236128,
+                      "upvotes": 11,
+                      "replies": {
+                        "hmlvpp7": {
+                          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmlvpp7/",
+                          "text": "No, Sci-Hub genuinely stores all the articles, which is why some articles which were searched really early will stay as the pre-edited version. They don't download a fresh copy every time.",
+                          "author": "someth1ng_au",
+                          "created": 1638236317,
+                          "upvotes": 12,
+                          "replies": {
+                            "hmm3ks1": {
+                              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmm3ks1/",
+                              "text": "But they don't download something until someone requests it, and they've lost significant chunks of their collection over time.",
+                              "author": "Eigengrad",
+                              "created": 1638239859,
+                              "upvotes": 8,
+                              "replies": {
+                                "hmnjm7n": {
+                                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmnjm7n/",
+                                  "text": "Yeah, that's true and a good point. It doesn't technically mean it's impossible for them (given enough resources).",
+                                  "author": "someth1ng_au",
+                                  "created": 1638274148,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "hmm113q": {
+                          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmm113q/",
+                          "text": "DHT torrents enable distributed hosting as well.",
+                          "author": "MrRGnome",
+                          "created": 1638238742,
+                          "upvotes": 3,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                },
+                "hmn28ro": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn28ro/",
+                  "text": "> No. Because who is ensuring what is published there is always accessible?\n> \n> Who would risk putting their research somewhere that may or may not be around in 20 years?\n\nIf the paper is open access and truly public domain or with a permissive enough CC license, then it could be shared around online in a decentralized way (which is the best for long term preservation, as if any one service or institution shuts down copies will still exist and float around online), or uploaded to places like the Wikimedia, Archive.org, etc.",
+                  "author": "jabberwockxeno",
+                  "created": 1638259704,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            },
+            "hmmep4x": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmmep4x/",
+              "text": "There are some, they just don't get much publicity so nobody knows about them or publishes in them.",
+              "author": "UndendingGloom",
+              "created": 1638244948,
+              "upvotes": 3,
+              "replies": {}
+            },
+            "hmneoun": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmneoun/",
+              "text": "I think there already are some vaguely like this, however, publishing is a very resource intensive industry. Volunteers alone isn't scalable. You need dedicated staff with a lot of different skills to have even a small journals. Volunteers will get you a micro-journal. \n\nOrganisations like Wellcome and elife are creating different publishing models that are significantly lower cost to publish in and still give you a peer reviewed, citable article at the end of it, but they both require significant amounts of money beyond the revenue brought in from authors. Wellcome obviously has deep pockets and eLife I suspect has a diverse range of income streams.",
+              "author": "ACatGod",
+              "created": 1638270467,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hml37x6": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hml37x6/",
+          "text": "Not [all of them](https://scipost.org/SciPostPhys).",
+          "author": "Hapankaali",
+          "created": 1638223652,
+          "upvotes": 2,
+          "replies": {
+            "hmluula": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmluula/",
+              "text": "SciPost is entirely reliant on donations to subsidize it's existence. I'm skeptical it will survive long-term.\n\nAlso, it's not that different than charging publication costs: they reach out to every institution that publishes and ask for donations that are larger than the equivalent publishing cost. Whether my university is paying a \"donation\" or a \"publishing fee\" to an open access journal is semantics.\n\nThey even calculate the donations relative to publication cost, and have a whole system for doing so, so they can send a \"suggested donation\" bill to authors institutions.\n\nhttps://scipost.org/finances/business_model/",
+              "author": "Eigengrad",
+              "created": 1638235921,
+              "upvotes": 4,
+              "replies": {
+                "hmorzm0": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmorzm0/",
+                  "text": "All fair points, but still they do not directly charge authors or readers for publishing and reading, as opposed to what you suggested.\n\nSciPost Physics has a means of guaranteeing long-term availability, though I can't assess to what degree that will hold true in a couple of decades.",
+                  "author": "Hapankaali",
+                  "created": 1638294488,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hmn1q6d": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn1q6d/",
+          "text": "Publishing fees are way, way lower than the cost of what you describe. The fact is that the scientific publishing industry is a greedy money machine.",
+          "author": "crazyGauss42",
+          "created": 1638259289,
+          "upvotes": 3,
+          "replies": {
+            "hmo68z8": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmo68z8/",
+              "text": "Ah yes. The greedy, greedy PlosOne.",
+              "author": "Eigengrad",
+              "created": 1638285867,
+              "upvotes": 0,
+              "replies": {}
+            }
+          }
+        },
+        "hmn766v": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn766v/",
+          "text": "> Who coordinates peer review? \n\nAn editor.\n\n> Who pays for web hosting space and ensures that all articles will be available online forever?\n\nA university.\n\n> There are lots of open access journals, but they require publishing fees to cover the costs of publishing, even online.\n\nMany don't.",
+          "author": "cat-head",
+          "created": 1638263942,
+          "upvotes": 1,
+          "replies": {
+            "hmo63iy": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmo63iy/",
+              "text": "So... basically the same way journals and open access publishing fees currently work? The university (authors and readers) pays for the hosting one way or another.",
+              "author": "Eigengrad",
+              "created": 1638285802,
+              "upvotes": 1,
+              "replies": {
+                "hmo6ygk": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmo6ygk/",
+                  "text": "No. In the current system there is a huge profit for the publishers, which is essentially a waste of money which could go to actual research. I am talking about journals own by academics for academics. I already gave several examples of this in my field. I don't know how chemistry works.",
+                  "author": "cat-head",
+                  "created": 1638286166,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hmldurm": {
+      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmldurm/",
+      "text": "You're not wrong in questioning this - there's a huge debate about academic publishing and how it's not \\*really\\* serving science all that well, but rather the absolutely massive profits of the publishers. But as mentioned by others, high impact journals are tied up with prestige markers in the current system so it's all mixed with issues with funding and career incentives, so it's hard to get out of. One way countries/universities/funders have fought back is by demanding at least the accepted version of papers (i.e., before it's nicely formatted) is made publicly available on university repositories.\n\nThere also exist what I've seen called \"Platinum\" Open Access journals, that are free to read by anyone and also don't have author fees (or really affordable ones, like hundreds of dollars rather than thousands), so no perverse incentives like with the more obviously predatory type of Open Access journals. They get their funding from the state or some kind of society etc, they keep costs low and you can tell to be honest, but for instance I've seen them address concerns with persistence of the record using academic libariries' archiving systems (CLOCKSS), if I recall correctly. Those still have solid peer review like traditional journals ideally have, but since they tend not to be for-profit they're less interested in selecting based ultimately on a business model that asks \"what will boost our impact factor\".",
+      "author": "waterless2",
+      "created": 1638228187,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hmkpm1f": {
+      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmkpm1f/",
+      "text": "You don't have to. You're free to put your papers up on arxiv or github or wherever you want to share them. But people probably aren't going to take you seriously if you're just a rando posting unreviewed papers online. Peer review is required to ensure a minimal academic standard, and that's the main function that journals serve. Also, if editors can maintain a high standard and build a reputation, that helps readers know what papers are more likely to be higher quality. There's a reason authors try to get their work into journals like Nature and there's a reason readers subscribe to journals like Nature, even if it's more expensive for everyone than other publishers. The publishing model in academia can be pretty predatory, and publishing costs and paywalls are a detriment to science, but eliminating the whole idea of journals altogether isn't a solution",
+      "author": "010011100000",
+      "created": 1638218205,
+      "upvotes": 34,
+      "replies": {
+        "hmkpw91": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmkpw91/",
+          "text": "I see! Thank you.",
+          "author": "Aidantheaids",
+          "created": 1638218318,
+          "upvotes": 6,
+          "replies": {}
+        },
+        "hmly5nd": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmly5nd/",
+          "text": "Journal reputation is definitely a part of the reason there is a lag behind journals such as https://joss.theoj.org, but peer-review specifically is not the problem. Peer review is already built upon free labor by volunteering researchers, and as an academic you can establish a new peer-reviewed, open source, developer friendly journal tomorrow. The Journal of Open Source software is one of them, and I have seen others crop up at conferences recently. Reputation would be the reason those do not easily gain traction, though I hope to see a shift as this becomes a more widely recognized issue.",
+          "author": "catch_me_coding",
+          "created": 1638237449,
+          "upvotes": 6,
+          "replies": {
+            "hmn71pf": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn71pf/",
+              "text": "Is there anything preventing senior faculty members from publishing and citing more open source work? Maybe not exclusively open source, but at least more than zero? Doing that might give OSJ a decent credibility boost. \n\nAnd how did fields where open source is welcomed (CS, math) do it? Could anything be applied to the growth of open source in other fields?",
+              "author": "batukhanofficial",
+              "created": 1638263829,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hmky5su": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmky5su/",
+          "text": "While it is presumed that peer review will do what you wrote, in practice they don't. How many papers on well known journals like Science and Nature which are wrong and have to be retracted? \n\nBy the way,  I started some days ago a topic on peer review process, which is relevant to what you are saying: \n\n&#x200B;\n\nhttps://www.reddit.com/r/AskAcademia/comments/r3mpor/what\\_is\\_the\\_common\\_practice\\_of\\_reviewing\\_in\\_your/",
+          "author": "tuyenttoslo",
+          "created": 1638221599,
+          "upvotes": 9,
+          "replies": {
+            "hmls1xo": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmls1xo/",
+              "text": "> How many papers in well known journals like Science and Nature [...] retracted?\n\nFewer than you're implying. It's about 4 per 10,000, and a small subset of repeat offenders are responsible for most misconduct retractions. \n\nhttps://www.science.org/content/article/what-massive-database-retracted-papers-reveals-about-science-publishing-s-death-penalty\n\nIn Nature, 114 papers have ever been retracted. Science: 130. NEJM: 38. Cell: 54. Some are non-malicious errors, just mistakes.",
+              "author": "IAmAQuailBiologist",
+              "created": 1638234645,
+              "upvotes": 20,
+              "replies": {
+                "hmpes4g": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmpes4g/",
+                  "text": "You are right, in terms of retractions, maybe. I asked two questions: how many are wrong, and how many are retracted. In terms of replication crisis, it is different. If a paper cannot be replicated, what do you think would be the cause?  You may want to read this article:\n\n[https://www.theguardian.com/science/2021/may/21/research-findings-that-are-probably-wrong-cited-far-more-than-robust-ones-study-finds](https://www.theguardian.com/science/2021/may/21/research-findings-that-are-probably-wrong-cited-far-more-than-robust-ones-study-finds)",
+                  "author": "tuyenttoslo",
+                  "created": 1638303555,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "hmloca8": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmloca8/",
+              "text": "Having some baseline number of papers that get retracted or corrected is inevitable, whether through honest mistake or intentional deceit. Whether it's Science, Nature, some other big or small journal, the number of bad papers is at least minimized by the peer review process.",
+              "author": "JHT230",
+              "created": 1638232958,
+              "upvotes": 6,
+              "replies": {
+                "hmphe20": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmphe20/",
+                  "text": ">Whether it's Science, Nature, some other big or small journal, the number of bad papers is at least minimized by the peer review process.\n\nSince peer review cannot guarantee correctness, I am not sure what you mean by \"bad papers\" in this sentence. Can you expand?",
+                  "author": "tuyenttoslo",
+                  "created": 1638304595,
+                  "upvotes": 0,
+                  "replies": {
+                    "hmpua09": {
+                      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmpua09/",
+                      "text": "I do mean correctness, although mainly applying to intentional fraud or problems rather than honest mistakes.\n\nOf course peer review cannot guarantee correctness. No process can.\n\nBut the peer review process is pretty good at catching those papers. Retractions or major corrections attract a lot of attention but overall they are very rare.",
+                      "author": "JHT230",
+                      "created": 1638309770,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "hmlh4ox": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmlh4ox/",
+              "text": "So your point here is very true and valid. Plus peer review is far too subjective (as someone who has both given and gotten peer review on both ends of this process). Problem is unless peer review happens most faculty will not be able to count the submission as much more than a commentary for their promotions review boards (e.g., tenure). This, even though peer review is largely artificial in some ways and has lots of problems it\u2019s necessary for it to occur so people can get tenure and what not. I have some peer reviewed and no peer reviewed publications. Ones that are not peer reviewed basically are considered to just be brief commentaries even if they are not (though this depends on the field).",
+              "author": "stormchanger12",
+              "created": 1638229653,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "hmn7ykk": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn7ykk/",
+              "text": ">How many papers on well known journals like Science and Nature which are wrong and have to be retracted? \n\nFewer than if they didn't use peer review and just published all comers!",
+              "author": "blueb0g",
+              "created": 1638264644,
+              "upvotes": 1,
+              "replies": {
+                "hmpi4od": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmpi4od/",
+                  "text": "A published paper usually is reviewed by only 1-3 reviewers. And in many cases the purpose of those reviewers are not to check the correctness but something else. So they are not doing better than if you send your paper to a couple of trusted colleagues for comments. Which is relevant to the OP's question.",
+                  "author": "tuyenttoslo",
+                  "created": 1638304890,
+                  "upvotes": -1,
+                  "replies": {
+                    "hmpjope": {
+                      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmpjope/",
+                      "text": "> A published paper usually is reviewed by only 1-3 reviewers\n\n2-3 for a decent journal, but yes, 2-3 reviewers who have a good idea of the material being discussed. \n\n>  And in many cases the purpose of those reviewers are not to check the correctness but something else\n\nWhat is the something else? \n\n> So they are not doing better than if you send your paper to a couple of trusted colleagues for comments\n\nExcept anonymous reviewers are likely to give much more candid feedback, and may well know more about the material than your colleagues\n\nPeer review is important, even if it has problems. So are editorial decisions. The quality of published material in a traditional journal, having gone through the hands of editors, peer reviewers, and copy editors - often more than one version - is absolutely miles ahead of some material posed on an open-source platform with no gatekeeping, and you're deluding yourself if you disagree",
+                      "author": "blueb0g",
+                      "created": 1638305516,
+                      "upvotes": 2,
+                      "replies": {
+                        "hmpklz8": {
+                          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmpklz8/",
+                          "text": "Hi, please see the link about the discussion on peer review I have. It's better you give your input there. \n\nWhat you are writing here is what ideally peer review should be, but it is not in reality.",
+                          "author": "tuyenttoslo",
+                          "created": 1638305883,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hmn2czf": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn2czf/",
+          "text": "To lean into OP's github comparison, github allows public comments and people to create forks, which is essentially a code-version of a peer review process, is it not?\n\nCould a similar system be applicable to papers?",
+          "author": "jabberwockxeno",
+          "created": 1638259799,
+          "upvotes": 1,
+          "replies": {
+            "hmn3wp7": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn3wp7/",
+              "text": "I think the problem there is that science is way too specialized for open peer review like gitbhub There are fields where there's only a handful of people in the world qualified to review your paper. The journal doesn't just make sure someone reviews your paper, they make sure someone that actually understands your paper reviews it",
+              "author": "010011100000",
+              "created": 1638261082,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hmmjb4b": {
+      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmmjb4b/",
+      "text": "The bottom line is that the work required to set up and maintain a peer-reviewed journal is so fucking tedious that no one wants to do it for free.",
+      "author": "imaginary_character",
+      "created": 1638247221,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmn20ep": {
+      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn20ep/",
+      "text": "One of the main reasons you publish somewhere is for the reputation that publication bring. Of course the reputation for your publication have to be earned through peer review process and strict standards kept by the journal/conference. Open access journals are new and have no reputation backing them, why would I want to publish there?\n\nAlso, ArXiv is a thing BTW. But no one puts their work there unless it's already been accepted at a good venue and they just want to get their work out there before the loooooong publication process runs it's course.",
+      "author": "doctorlight01",
+      "created": 1638259513,
+      "upvotes": 2,
+      "replies": {
+        "hmnfm64": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmnfm64/",
+          "text": "This right here. This is why open access is not blowing up. New PhDs would flock to open access if they were equally weighted as other journals when it comes to being hired for positions.",
+          "author": "knightmare9zulu",
+          "created": 1638271208,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hmla292": {
+      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmla292/",
+      "text": "You don't. Just look at the sheer scale of papers published in medRxiv and bioRxiv in the last couple years discussing cutting-edge COVID-19 science.",
+      "author": "Kiss_It_Goodbyeee",
+      "created": 1638226534,
+      "upvotes": 0,
+      "replies": {
+        "hmlvmmv": {
+          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmlvmmv/",
+          "text": "Yes, a lot of them with really flawed science that never would have passed peer review.",
+          "author": "Eigengrad",
+          "created": 1638236278,
+          "upvotes": 11,
+          "replies": {
+            "hmn19gn": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn19gn/",
+              "text": "Moreso than peer reviewed papers? The number of awful published papers is frightening and the retraction rate in the \"prestige\" journals is nothing to be proud of. \n\nThe role of preprints during the pandemic has arguably been a net positive despite the dodgy submissions.",
+              "author": "Kiss_It_Goodbyeee",
+              "created": 1638258914,
+              "upvotes": -2,
+              "replies": {
+                "hmo6c47": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmo6c47/",
+                  "text": "Yes. Moreso than peer reviewed. Especially COVID related shit.",
+                  "author": "Eigengrad",
+                  "created": 1638285903,
+                  "upvotes": 4,
+                  "replies": {
+                    "hmp7b12": {
+                      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmp7b12/",
+                      "text": "Obviously there were many flawed studies which was simply a function of the huge influx of papers. Got any evidence that it's significantly worse?",
+                      "author": "Kiss_It_Goodbyeee",
+                      "created": 1638300559,
+                      "upvotes": 1,
+                      "replies": {
+                        "hmpgdj3": {
+                          "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmpgdj3/",
+                          "text": "Do you have any evidence that it's not?\n\nI can just say that comparing the papers that have and have not gotten published following pre-prints, it's really obvious that there were major flaws in a lot of the pre-prints. You can even see a number that have been corrected in the final publication with significant extra work based off of peer-review comments. \n\nDo I have anything quantitative comparing it? No, but qualitatively it's been a huge display of both how much peer review increases the quality of the science and how much the availability of bad science publications (vaccines don't work, masks don't work, masks are dangerous) readily and publicly available can be damaging.",
+                          "author": "Eigengrad",
+                          "created": 1638304186,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hmo2kwn": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmo2kwn/",
+              "text": "Someone is naively optimistic about the quality of peer review.",
+              "author": "calamityXmary",
+              "created": 1638284275,
+              "upvotes": -1,
+              "replies": {}
+            },
+            "hmo30ay": {
+              "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmo30ay/",
+              "text": "It can't cost that much to have unpaid editors email people soliciting them to provide free labor as unpaid reviewers. Look at scientific publishing company profit margins. It's a scam.\n\nPublishers take content produced by publicly funded researchers, curate it via unpaid editors and reviewers, do some copy-editing, post the content online, and then charge the public 40.00 per article (or charge the authors 5000.00 to make it open access to the public that funded it). It's an obvious scam that gets obscured by \"prestige\" and \"reputation\". Everyone in science low-key knows that  journal peer review is a dice roll that primarily serves to select for novelty/interest rather than rigor and quality.",
+              "author": "calamityXmary",
+              "created": 1638284462,
+              "upvotes": 0,
+              "replies": {
+                "hmo5vyf": {
+                  "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmo5vyf/",
+                  "text": "For someone not in academia you have a lot of strong opinions about it. \n\nIt\u2019s not hard to look at the finances it takes to keep non-profit OA journals like Plos running and use that as a baseline.",
+                  "author": "Eigengrad",
+                  "created": 1638285712,
+                  "upvotes": 1,
+                  "replies": {
+                    "hmo6wrc": {
+                      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmo6wrc/",
+                      "text": "Let's be real - do you a priori trust an article in PLoS any more than a biorxiv preprint? I don't, so I don't think their publication costs are buying me anything.",
+                      "author": "calamityXmary",
+                      "created": 1638286145,
+                      "upvotes": -1,
+                      "replies": {}
+                    },
+                    "hmo6fsr": {
+                      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmo6fsr/",
+                      "text": "I was in academia until a few months ago. I have a STEM PhD, have authored nearly 20 peer reviewed articles, and have peer reviewed around 30 articles. Disillusionment about how academic science is done, including publishing practices, drove me to leave.",
+                      "author": "calamityXmary",
+                      "created": 1638285946,
+                      "upvotes": 0,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hmn6rda": {
+      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmn6rda/",
+      "text": "Some interesting links on this subject, in no particular order\n\nhttps://www-cs-faculty.stanford.edu/~knuth/joalet.pdf\n\nhttps://gowers.wordpress.com/2012/01/21/elsevier-my-part-in-its-downfall/\n\nhttps://igorpak.wordpress.com/2019/03/18/the-status-quo-of-math-publishing/\n\nhttps://discreteanalysisjournal.com/about\n\nhttps://freejournals.org/",
+      "author": "l_lecrup",
+      "created": 1638263572,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmp8fh8": {
+      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmp8fh8/",
+      "text": "A lot of the people in the fields have access through institutional level subscriptions at their research libraries. I used to work at MD Anderson Cancer Center and rarely had problems downloading journals for free (free to me anyway). Also, a lot of the journals do allow free downloads after a certain time period. I\u2019ve noticed it seems to be a year or two in a lot of cases.",
+      "author": "Ganymede25",
+      "created": 1638301009,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmsciuf": {
+      "link": "/r/AskAcademia/comments/r54h4x/whats_stopping_open_access_journals/hmsciuf/",
+      "text": "Because viXra is what you get when \"publishing research papers is just like submitting code to Github\"",
+      "author": "rockelephant",
+      "created": 1638360552,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

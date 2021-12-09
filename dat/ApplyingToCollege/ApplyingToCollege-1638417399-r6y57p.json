@@ -1,0 +1,97 @@
+{
+  "sid": "r6y57p",
+  "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/",
+  "title:": "I got my BU application past Common App\u2019s broken website\ud83d\ude2d\ud83d\ude2d",
+  "text": "When I pressed review and submit it wouldn\u2019t load the pdf so it\u2019d be stuck loading and I couldn\u2019t check off the application. Suddenly i thought of going inspect element and removing the loading symbol just to see if it\u2019d work. You bet your *** it worked. I finally got to submit until i got hit with another error. I kept doing the same thing over and over again until it told me I couldn\u2019t submit because the questions were unfinished. Defeated and about to deep throat a cactus, I went back to the home page and saw that my application now said submitted. Dog bless",
+  "author": "uncledrewwasalie",
+  "created": 1638417399,
+  "updated": 1638477954,
+  "over_18": false,
+  "upvotes": 32,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hmw2t59": {
+      "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/hmw2t59/",
+      "text": "Can you make a new post titled Common App submission work around and explain how to do it step by step please",
+      "author": "admissionsmom",
+      "created": 1638417866,
+      "upvotes": 15,
+      "replies": {
+        "hmw4zwr": {
+          "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/hmw4zwr/",
+          "text": "Ok i will \ud83d\udc4d",
+          "author": "uncledrewwasalie",
+          "created": 1638418966,
+          "upvotes": 4,
+          "replies": {
+            "hmw515l": {
+              "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/hmw515l/",
+              "text": "Thank you!",
+              "author": "admissionsmom",
+              "created": 1638418985,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hmw2i3i": {
+      "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/hmw2i3i/",
+      "text": "this actually works!!!!!",
+      "author": "Lucawesome888888",
+      "created": 1638417715,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hmw38mg": {
+      "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/hmw38mg/",
+      "text": "Could you explain it to me like I\u2019m a very dumb non-compsci major? Thank you loads in advance",
+      "author": "exhausted-caprid",
+      "created": 1638418077,
+      "upvotes": 4,
+      "replies": {
+        "hmw4szq": {
+          "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/hmw4szq/",
+          "text": "When you press review and submit and you get the screen asking you to review the pdf you\u2019re gonna see the loading symbol covering it. Right click on the loading symbol and press inspect element. Hover over the line that highlights the box in blue and right click and press delete element. You should be able to press the check now and continue to payment",
+          "author": "uncledrewwasalie",
+          "created": 1638418868,
+          "upvotes": 9,
+          "replies": {}
+        }
+      }
+    },
+    "hmw4hg6": {
+      "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/hmw4hg6/",
+      "text": "IT WORKS IT WORKS",
+      "author": "thepianogirl_",
+      "created": 1638418705,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hmw2231": {
+      "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/hmw2231/",
+      "text": "Oh my goodness!!!!",
+      "author": "SupermarketWild3834",
+      "created": 1638417500,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hmw2sw9": {
+      "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/hmw2sw9/",
+      "text": "does that rlly work?",
+      "author": "JDogTohko999",
+      "created": 1638417863,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hmw605j": {
+      "link": "/r/ApplyingToCollege/comments/r6y57p/i_got_my_bu_application_past_common_apps_broken/hmw605j/",
+      "text": "oh my god thank you it worked",
+      "author": "haveaniceday624",
+      "created": 1638419484,
+      "upvotes": 3,
+      "replies": {}
+    }
+  }
+}
