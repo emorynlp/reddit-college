@@ -1,0 +1,22 @@
+{
+  "sid": "revq2j",
+  "link": "/r/AskAcademia/comments/revq2j/how_do_you_organize_your_notes_on_papers_is_there/",
+  "title:": "How do you organize your notes on papers? Is there a paper organizer that presents notes in a spreadsheet mode, a way to get to longer notes, and a citation manager?",
+  "text": "Every time I start writing, I feel upset at the way I've organized my notes on papers. I have a Google spreadsheet where each row is a paper, with **brief** notes in specific columns (e.g. paper topic, what this paper showed that is novel, which part of the paper I've used). I like the spreadsheet because I can easily compare/contrast papers and group papers by moving rows. Supplementing this, I have **longer** notes on individual papers in Obsidian, with links to other notes on papers. It kind of sounds like a computerized version of the library dewey decimal card system to find a book -- although I've never actually even used those cards before.\n\nI use Mendeley as a citation manager. It's easy to cite as I write based on author/title, but not based on my notes in any way. I usually manually tag which section the paper is in on the spreadsheet and then cite in the paper.\n\nHowever, I would love to be able to rearrange stuff while comparing/contrasting and then **just click on** something to get me to my longer notes. I've seen this in [wikipedia articles with tables.](https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)) I feel like someone has already figured this out, and I'm just not finding it.\n\n**TLDR:** How do I integrate my notes into my citations in a way that I can still compare/contrast easily? ",
+  "author": "Far_Future_Feature",
+  "created": 1639335797,
+  "updated": 1639515502,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hoa6313": {
+      "link": "/r/AskAcademia/comments/revq2j/how_do_you_organize_your_notes_on_papers_is_there/hoa6313/",
+      "text": "zotero lets you take long multiple notes, and also tag. scrivener has a notecard feature that lets you move stuff around.",
+      "author": "--ikindahatereddit--",
+      "created": 1639336490,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

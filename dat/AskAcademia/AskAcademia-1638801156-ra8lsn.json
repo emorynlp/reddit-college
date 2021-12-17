@@ -1,0 +1,572 @@
+{
+  "sid": "ra8lsn",
+  "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/",
+  "title:": "Any good Mendeley alternatives?",
+  "text": "Can you suggest any good Mendeley alternatives? After the new reference manager update, I am fed up with it. No more automatic citation keys, no settings whatsoever, no nothing.\n\nIs there anything else?",
+  "author": "dShado",
+  "created": 1638801156,
+  "updated": 1639515573,
+  "over_18": false,
+  "upvotes": 97,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "hngpsqb": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hngpsqb/",
+      "text": "Zotero",
+      "author": "abogza",
+      "created": 1638802345,
+      "upvotes": 227,
+      "replies": {
+        "hnim82b": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnim82b/",
+          "text": "Seconding Zotero. Been using it for almost a decade now and have zero complaints except that the Microsoft Word integration is very slightly clunky (but functions and updates beautifully).",
+          "author": "corgibutt19",
+          "created": 1638829431,
+          "upvotes": 9,
+          "replies": {}
+        },
+        "hnhne5i": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhne5i/",
+          "text": "Does zotero autosync bib libraries across devices automatically or does one need to use an external service like Google drive or One drive?",
+          "author": "Advanced-Hedgehog-95",
+          "created": 1638815837,
+          "upvotes": 15,
+          "replies": {
+            "hnhvgch": {
+              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhvgch/",
+              "text": "Syncing library entries (but not files) is free. 300MB of attached files can be synced with Zotero's built-in sync for free. If you have a larger library and any external service, you can sync your Zotero library with Zotfile.",
+              "author": "quadroplegic",
+              "created": 1638819002,
+              "upvotes": 29,
+              "replies": {
+                "hnhyo29": {
+                  "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhyo29/",
+                  "text": "Thanks, might just switch from Mendeley",
+                  "author": "Advanced-Hedgehog-95",
+                  "created": 1638820261,
+                  "upvotes": 2,
+                  "replies": {}
+                },
+                "hnim5ti": {
+                  "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnim5ti/",
+                  "text": "Does it work on mobile? Based on the description, it seems like it can sync the files, but just as regular PDFs within regular folders.",
+                  "author": "foradil",
+                  "created": 1638829406,
+                  "upvotes": 1,
+                  "replies": {
+                    "hniuffq": {
+                      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hniuffq/",
+                      "text": "Yes; there is a beta iOS app",
+                      "author": "Luis_McLovin",
+                      "created": 1638832866,
+                      "upvotes": 4,
+                      "replies": {}
+                    },
+                    "hnir8v5": {
+                      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnir8v5/",
+                      "text": "It syncs the PDFs within regular folders. It doesn't work really well with the mobile app. I only read a few papers at a time using LiquidText on my iPad, so that limitation doesn't bother me. Your use case may well be different!",
+                      "author": "quadroplegic",
+                      "created": 1638831514,
+                      "upvotes": 0,
+                      "replies": {
+                        "hnj995l": {
+                          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnj995l/",
+                          "text": "They have a big update coming I believe.  PDF viewer with annotations will be included.\n\nI was hoping to grab an iOS beta invite but so far no luck.\n\nBeta for the pc/Mac client is open though",
+                          "author": "Monsoon_Storm",
+                          "created": 1638839495,
+                          "upvotes": 4,
+                          "replies": {
+                            "hnjf8oa": {
+                              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnjf8oa/",
+                              "text": "I've been on the iOS testflight. It's really good!\n\nBut [LiquidText](https://www.youtube.com/watch?v=Dp_ErMnQTd8) is *amazing*.",
+                              "author": "quadroplegic",
+                              "created": 1638842080,
+                              "upvotes": 2,
+                              "replies": {}
+                            },
+                            "hnjfsj8": {
+                              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnjfsj8/",
+                              "text": "Who has a big update? Zotero or LiquidText?",
+                              "author": "foradil",
+                              "created": 1638842317,
+                              "upvotes": 1,
+                              "replies": {
+                                "hnkqrsd": {
+                                  "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnkqrsd/",
+                                  "text": "Zotero",
+                                  "author": "Monsoon_Storm",
+                                  "created": 1638870102,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hnhxdaj": {
+              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhxdaj/",
+              "text": "No one has to pay for the storage unless they really want to. \n\nThere's an add on called zotfile. Basically it watches a folder and whenever you want to add a pdf to your library it will pick up the newest pdf in that folder, rename it according to the reference in the library, and then move it to another folder (which can be your drive/icloud/one drive/custom solution).\n\nThis approach works perfectly for me across several machines and is much more intuitive than other solutions I have tried and has the advantage of not propping up some evil corporation.",
+              "author": "AntDogFan",
+              "created": 1638819753,
+              "upvotes": 10,
+              "replies": {}
+            },
+            "hnhpvtn": {
+              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhpvtn/",
+              "text": "You can sync across devices. You get 300 MB for free. After that you have to pay - I'm on the $20/year plan for 2GB.\n\nBut it's a bargain - I'm very happy to support such great software.",
+              "author": "jdfoote",
+              "created": 1638816806,
+              "upvotes": 14,
+              "replies": {}
+            },
+            "hnieogm": {
+              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnieogm/",
+              "text": "Either one! I put rough instructions on how to setup your own cloud-based directory via Zotfile [here](https://old.reddit.com/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnidw7z/). A big pro for this method is that the files and, if desired, subdirectories are all then in human-readable formats.",
+              "author": "LionSuneater",
+              "created": 1638826457,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        },
+        "hnldthx": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnldthx/",
+          "text": "Yup. Zotero is awesome.",
+          "author": "RedBeans-n-Ricely",
+          "created": 1638885656,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hnh6k3g": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnh6k3g/",
+      "text": "The only real answer is Zotero. I recently made the switch. You'll likely want the BetterBibtex extension too.",
+      "author": "Broric",
+      "created": 1638809267,
+      "upvotes": 70,
+      "replies": {
+        "hnhdjnl": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhdjnl/",
+          "text": "+1 for zotero and better bibtex. I have stopped using mendeley as soon as they have made exporting databases a nightmare. Zotero has much better bibtex support with better bibtex plug-in.",
+          "author": "BatFlashy",
+          "created": 1638811992,
+          "upvotes": 18,
+          "replies": {}
+        },
+        "hnhal2a": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhal2a/",
+          "text": ">BetterBibtex\n\nWhat other extensions improve Zotero greatly?",
+          "author": "tasteface",
+          "created": 1638810840,
+          "upvotes": 9,
+          "replies": {
+            "hnhfu8g": {
+              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhfu8g/",
+              "text": "ZotFile! Great for sending and retrieving files across devices, renaming files, and extracting annotations.",
+              "author": "Euax",
+              "created": 1638812888,
+              "upvotes": 22,
+              "replies": {}
+            }
+          }
+        },
+        "hnhckx8": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhckx8/",
+          "text": "I've never heard of this - what's the deal?",
+          "author": "Pr0gr3s",
+          "created": 1638811616,
+          "upvotes": 4,
+          "replies": {
+            "hnhlsbh": {
+              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhlsbh/",
+              "text": "Unlike Mendeley they're not ever gonna sell out to big publishing.",
+              "author": "TurnsOutImAScientist",
+              "created": 1638815208,
+              "upvotes": 7,
+              "replies": {
+                "hnhslbb": {
+                  "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhslbb/",
+                  "text": "I was asking about the betterbibtext thing. I'm already a zotero man.",
+                  "author": "Pr0gr3s",
+                  "created": 1638817872,
+                  "upvotes": 4,
+                  "replies": {
+                    "hnhvlw3": {
+                      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhvlw3/",
+                      "text": "It lets you generate dramatically better citekeys. If you don't use Bib/LaTeX, you don't need it.",
+                      "author": "quadroplegic",
+                      "created": 1638819062,
+                      "upvotes": 6,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hnhcwt3": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhcwt3/",
+      "text": "I've always been happy with zotero. Mendeley being owned by Elsivier gives them motivations that may not align with my own in terms of software design. The zotero people just want their ref manager to work well. \n\nAnd since Mendeley is built off zotero I can use any formatting made for Mendeley. Helpful when Mendeley did their APA7 update before zotero.",
+      "author": "Pr0gr3s",
+      "created": 1638811744,
+      "upvotes": 22,
+      "replies": {}
+    },
+    "hnhlmhw": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhlmhw/",
+      "text": "Paperpile is also excellent",
+      "author": "coolduder",
+      "created": 1638815145,
+      "upvotes": 14,
+      "replies": {
+        "hnj3ba2": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnj3ba2/",
+          "text": "Paper pile is excellent for several reasons : \n\n1. It is web based. Easily accessible from anywhere\n2. You can share bibliographies\n3. It is very well integrated with Chrome to get new papers: it will add a small Add to Paperpile icon when it recognizes an article\n4. It exports in several formats. \n5. It works with GoogleDocs which is great for writing grants with collaborators",
+          "author": "papparmane",
+          "created": 1638836807,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "hnj6o37": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnj6o37/",
+          "text": "I\u2019m obsessed with Paperpile. Obsessed.",
+          "author": "4littlebitobsessed",
+          "created": 1638838326,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hnhkcry": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhkcry/",
+      "text": "Zotero really can't be beat here. Simple, lightweight, and effective.",
+      "author": "ecnad",
+      "created": 1638814651,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "hnin14h": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnin14h/",
+      "text": "Wait so how do I transfer my massive Mendeley database over to Zotero?!?",
+      "author": "2legit2whit",
+      "created": 1638829761,
+      "upvotes": 11,
+      "replies": {
+        "hnjuh56": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnjuh56/",
+          "text": "Not sure which format will get you the best result, but I'm pretty sure Zotero supports importing any of the three formats Mendeley can export: https://www.mendeley.com/guides/mendeley-reference-manager/08.-exporting-references",
+          "author": "dowcet",
+          "created": 1638848715,
+          "upvotes": 3,
+          "replies": {
+            "hnk0446": {
+              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnk0446/",
+              "text": "I just tried and because I have the updated (evil) version of Mendeley the import file is ENCRYPTED\u2026. So I have to drag thousands of pdfs and citations from the local Mendeley folder into Zotero.",
+              "author": "2legit2whit",
+              "created": 1638851382,
+              "upvotes": 3,
+              "replies": {
+                "hnlu9oi": {
+                  "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnlu9oi/",
+                  "text": "Evil indeed\n\nEDIT: a complex workaround is described here https://eighty-twenty.org/2018/06/13/mendeley-encrypted-db",
+                  "author": "dowcet",
+                  "created": 1638893036,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            },
+            "hnr96n9": {
+              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnr96n9/",
+              "text": "Ask a librarian, we are always making guides to help you.  \nWhen googling your question include \"library guide\" or \"libguide\"  \n\n\n\"How to export Mendeley to Zotero library guide\"  \nhttps://guides.library.msstate.edu/c.php?g=578251&p=3987642",
+              "author": "Senior_Divide1123",
+              "created": 1638992401,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hnjpbya": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnjpbya/",
+          "text": "Following, also curious.",
+          "author": "carefree_elf",
+          "created": 1638846453,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hngzykv": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hngzykv/",
+      "text": "I'm probably an odd duck, but I like EndNote.\n\nWhatever version you purchase doesn't expire, so they bring out new versions your old one still works.\n\nI can download PDFs and index them to the citation so I can always read pdfs on my computer if I don't have internet.\n\nI have my endnote library saved on my Box folder so it is updated on the cloud across devices.\n\nThe browser extension Endnote locker is super helpful on what I have browsed lately. It saves all the pdfs to the locker and I can search within it. I can download the citation and PDF to my desktop version of endnote.\n\nI organize my endnote library by topic. That means when I download a citation, I can put the citation in multiple topic folders. Later when I want to look through a topic I can find the papers that are related to that.",
+      "author": "egg_parm",
+      "created": 1638806638,
+      "upvotes": 28,
+      "replies": {
+        "hnh5vnj": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnh5vnj/",
+          "text": "I\u2019m also a dyed in the wool EndNote user (and recently updated from several-versions-old to the newest version and it was super easy.)",
+          "author": "Neon-Anonymous",
+          "created": 1638808997,
+          "upvotes": 6,
+          "replies": {
+            "hnhlzqe": {
+              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhlzqe/",
+              "text": "I've used endnote since **1994** \n\nThey keep on charging for **mandatory** updates; \n\nWHICH\n\nI\n\nDON'T \n\nNEED\n\nAn update required every 5 years? Fine. Every couple of years these days for a hundred bucks, for something that I simply want to do what I've **always** done - manage references for paper writing?\n\nFuck right off.\n\n**Don't use endnote if you can avoid it.\n**",
+              "author": "lalochezia1",
+              "created": 1638815288,
+              "upvotes": 11,
+              "replies": {}
+            },
+            "hnjdvek": {
+              "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnjdvek/",
+              "text": "Mostly love Endnote but disappointed that X20 seems to have taken away the Case change feature for editing article or journal titles.  The layout view option also is more limited.",
+              "author": "Medianmean",
+              "created": 1638841507,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hnidw7z": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnidw7z/",
+      "text": "Zotero is the best.\n\nYou can sync with their services, but only the first 300 Mb are free. I preferred to set up my own system to sync with my cloud services anyway. You can do this with Zotfile, which also allows you to rename the files to human-readable forms.\n\n- Get the Zotfile add-on.\n- Create a directory that's synced to your cloud service.\n- Zotero preferences -> Advanced -> Files and Folders -> Base directory (set your desired directory for files)\n- Zotfile preferences -> General Settings -> Location of Files -> Custom Location (set to the same directory)\n- Zotfile preferences -> Renaming Rules -> (create desired renaming rules... mine is {%a_}{%y_}{%t} with replace blanks and truncate title)\n\nNow I think this should automatically rename and move new files upon addition. For some reason my setup doesn't do this automatically, so the additional steps I take when I add a new file is to 1) make sure it has a parent item, and 2) right-click Manage-Attachments->Rename. It then automatically renames and sends to my file directory.",
+      "author": "LionSuneater",
+      "created": 1638826149,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hnhpewa": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhpewa/",
+      "text": "The two features keeping me moving from Mendeley to Zotero are:\n\n1. If I drag+drop a PDF into Mendeley, it will search the DOI and autofill the correct info 99% of the time.\n2. Cross-device syncing (including PDFs) is super easy on Mendeley. This was even true on my iPad before they stopped mobile support.\n\nHave these things improved in Zotero? When I tried a few years ago they seemed *doable* but a huge pain to setup. Maybe just user error.",
+      "author": "Fuzzygrunt",
+      "created": 1638816624,
+      "upvotes": 13,
+      "replies": {
+        "hnhrq6d": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhrq6d/",
+          "text": "I have no issue with these on Zotero",
+          "author": "TourmalineTart",
+          "created": 1638817531,
+          "upvotes": 10,
+          "replies": {}
+        },
+        "hni6b3p": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hni6b3p/",
+          "text": "Both work with no extra setup required. I synch between my home PC and work laptop all the time. I don't use it a ton on mobile devices (don't own a tablet) but I use Zoo for Zotero on my Android phone. I think they have an official iOS App in beta currently. In the free version, PDF synching is capped at some point but the paid version is pretty cheap. You can also use Zotfile which is apparently pretty easy.\n\nEdit: In the free version you can synch up to 300 MB of PDFs.",
+          "author": "leSchaf",
+          "created": 1638823228,
+          "upvotes": 4,
+          "replies": {}
+        },
+        "hniuozb": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hniuozb/",
+          "text": "Zotero does those both. Zotero has an iOS app.",
+          "author": "Luis_McLovin",
+          "created": 1638832979,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hnhmapw": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhmapw/",
+      "text": "Zotero",
+      "author": "CrankyReviewerTwo",
+      "created": 1638815406,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hnhmxz9": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhmxz9/",
+      "text": "I'm right there with you, their new web-based bullshit is busted as fuck. Will probably start playing with Zotero.",
+      "author": "guttata",
+      "created": 1638815663,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hnhiygk": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhiygk/",
+      "text": "Another vote for Zotero. I use the Zotfile (for pdf management), pubpeer and scite.ai plugins with it. BetterBibtex is also useful.",
+      "author": "Kiss_It_Goodbyeee",
+      "created": 1638814100,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hnhisxe": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhisxe/",
+      "text": "If you're a Mac user I'm very happy with Bookends.",
+      "author": "rauhaal",
+      "created": 1638814040,
+      "upvotes": 5,
+      "replies": {
+        "hnjanhh": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnjanhh/",
+          "text": "I second Bookends. It\u2019s extremely powerful and, if you like to code, it supports AppleScript. Been using it for 3-4 years now, can\u2019t ever go back.\n\nIt also has an iPad app that allows you to take notes with your Apple Pencil very easily. \n\nNone of this comes cheap though, it sorta sucks on a grad student budget.",
+          "author": "TheEvenfall",
+          "created": 1638840122,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hnhrtud": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhrtud/",
+      "text": "I really like Zotero.",
+      "author": "Weaselpanties",
+      "created": 1638817571,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnicddm": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnicddm/",
+      "text": "like others i use zotero. here is a list of other alternatives though: https://alternativeto.net/software/mendeley/",
+      "author": "jccalhoun",
+      "created": 1638825561,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hniffym": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hniffym/",
+      "text": "Can you revert the update?",
+      "author": "mosquito90",
+      "created": 1638826749,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnipbhu": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnipbhu/",
+      "text": "I like Sciwheel. I LOVE its chrome extension. No desktop version though.",
+      "author": "LeftBrainWriteBrain",
+      "created": 1638830705,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnjashv": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnjashv/",
+      "text": "Saving this thread to check it later\n\nI have no idea why Mendeley decided to fix what wasn't broken with that godawful new citation system in word documents. I have to begin my thesis, no way I am doing references with that horrible word extension.\n\nI think I might end up using both: Mendeley for reading and annotations (I'm not re-doing all my highlights and notes of 6 years) and Zotero for citations.",
+      "author": "math_chem",
+      "created": 1638840183,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnjdsbz": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnjdsbz/",
+      "text": "I just use Notion. No direct citations, but I do it once, then I just copy and paste it, notes and pdf editing is easy and auto syncs. No price on use and notion give us full program with a uni email account. You can create data bases, cross link and reference into different areas and across lectures topics etc. It's pretty easy to use and set up too. Lots of personalization, and I can add tags to find things. I have my classes split into classes, and I sepeate space for my thesis, and I just cross reference class readings with my thesis notes and needed, upload all my papers, templates etc. Interesting topics, further reading lists, you can put Todo lists all over and also get a single list it's really effective place to put everything. And with the table option of the database , you can use asany elements as needed to  label your sources, be it last name, lecture, year, number, read or not, notes take, applicable, key words, authors, title etc. It's completely customary.",
+      "author": "vilekai",
+      "created": 1638841470,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnhqg3k": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnhqg3k/",
+      "text": "Paperpile is the best. Thank me later.",
+      "author": "amends_through_love",
+      "created": 1638817027,
+      "upvotes": 2,
+      "replies": {
+        "hnifw8k": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnifw8k/",
+          "text": "You're gonna have to sell me a bit better than that",
+          "author": "teacherofderp",
+          "created": 1638826925,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hnid5as": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnid5as/",
+      "text": "I\u2019ve only ever used EndNote, but it\u2019s pretty straightforward. I\u2019ve never had issues with it. Integrates easily with Word and does what I need.",
+      "author": "runthroughthewall",
+      "created": 1638825859,
+      "upvotes": 1,
+      "replies": {
+        "hnkiitm": {
+          "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnkiitm/",
+          "text": "I have never found EndNote to be straightforward. Worst UI ever.",
+          "author": "queue517",
+          "created": 1638863144,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hnj6y39": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnj6y39/",
+      "text": "Seconding paperpile. When collaborating I like writing in Google docs and pulling into word for the final edits. I use Google Scholar for most of my searchers and it works really well.\n\nIf someone wants reference the share option is really easy.",
+      "author": "Zelamir",
+      "created": 1638838451,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnjqhjl": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnjqhjl/",
+      "text": "The worst part about mendeley is about every 6 months it replaces the citation information from every single one of my manual entry book references with information from articles reviewing those books. As far as I can tell it's completely unsolvable. 6hrs of work fixing my book citations, about twice a year",
+      "author": "herbertwillyworth",
+      "created": 1638846963,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnk7g8j": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnk7g8j/",
+      "text": "Zotero",
+      "author": "Tlthree",
+      "created": 1638855434,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnkhelx": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnkhelx/",
+      "text": "I made the switch but I keep an old version of mendeley on one computer for older manuscripts.",
+      "author": "Pikaus",
+      "created": 1638862252,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnkilmk": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnkilmk/",
+      "text": "I like Papers (formerly ReadCube).",
+      "author": "queue517",
+      "created": 1638863208,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnksmcm": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnksmcm/",
+      "text": "The safest - Endnote\n\nIt's bulky but the most relaible",
+      "author": "CryptoOtakoo",
+      "created": 1638871717,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnl9k2u": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnl9k2u/",
+      "text": "Sciwheel!!!",
+      "author": "chiturtle",
+      "created": 1638883474,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnijmfp": {
+      "link": "/r/AskAcademia/comments/ra8lsn/any_good_mendeley_alternatives/hnijmfp/",
+      "text": "The funny thing is, when writing my thesis, I preferred doing it manually over any reference managers that I tried. I had footnotes and just created a number and referenced it whenever it was needed again.",
+      "author": "someth1ng_au",
+      "created": 1638828381,
+      "upvotes": -1,
+      "replies": {}
+    }
+  }
+}

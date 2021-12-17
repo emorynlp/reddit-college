@@ -1,0 +1,22 @@
+{
+  "sid": "rcjx8g",
+  "link": "/r/GradSchool/comments/rcjx8g/suggestions/",
+  "title:": "Suggestions",
+  "text": "Hey guys, I\u2019m currently doing a research project on cashless payments impact of the economy of a country. So far I\u2019ve got okayish datasets for the two but to estimate the total cash transactions in a country what do you think I should do?  I was considering taking M1 total or Currency in circulations. I was getting results on the multiple linear regression but all of them have p values of 0.1-0.2 I feel a bit stuck now any suggestions would be helpful.",
+  "author": "botbobby",
+  "created": 1639063443,
+  "updated": 1639518564,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hnwg8vr": {
+      "link": "/r/GradSchool/comments/rcjx8g/suggestions/hnwg8vr/",
+      "text": "Ask your PI.",
+      "author": "ProprioCode",
+      "created": 1639084208,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

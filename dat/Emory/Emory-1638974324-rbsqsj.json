@@ -1,0 +1,141 @@
+{
+  "sid": "rbsqsj",
+  "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/",
+  "title:": "Is Algory Capital even legit?",
+  "text": "Graduated from Goizueta a bit ago but just seen a few people update their LinkedIn\u2019s to call themselves \u201cquantitative analysts\u201d and \u201calgorithmic traders\u201d at this b-school club. \n\nObviously props to them for getting involved and stuff but does anyone know if this club is for real? Like some of these are freshmen claiming that they are developing algorithms, and I just want to know exactly what kind of algorithms are being developed/if it\u2019s just copy pasting ML simulation code from someone\u2019s GitHub.\n\nAt least GIMG/Ascend used pretty mainstream methods of investment and didn\u2019t try to dress it up too much, but this seems to be another level. Does anyone know?",
+  "author": "plainbread11",
+  "created": 1638974324,
+  "updated": 1639518378,
+  "over_18": false,
+  "upvotes": 23,
+  "upvote_ratio": 0.93,
+  "comments": {
+    "hnq5mvr": {
+      "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnq5mvr/",
+      "text": "A little sus I must say",
+      "author": "ELON_MUSK_69420_",
+      "created": 1638977061,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "hns2vfw": {
+      "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hns2vfw/",
+      "text": "I have noticed that people who were rejected from the older b-school clubs (GIMG, Atlas, CYC,  EIIG...) are joining this one. Nice that it's accessible though, the b school needs more of that.",
+      "author": "decafoatmilklatte",
+      "created": 1639003915,
+      "upvotes": 6,
+      "replies": {
+        "hnvdpc8": {
+          "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnvdpc8/",
+          "text": "Don\u2019t really get what you mean by \u201caccessible\u201d. If b school clubs accepted everyone, the talent density will be severely diluted. Personally I always appreciated that while I sometimes thought decisions weren\u2019t fair, this was great preparation for the real world\u2014 not everyone gets a spot they want.",
+          "author": "plainbread11",
+          "created": 1639068952,
+          "upvotes": 2,
+          "replies": {
+            "hnvqika": {
+              "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnvqika/",
+              "text": "I agree with you - but only about 50-100 students get accepted into the \"top\" clubs every semester, especially given the crossover between them.  Students getting involved and joining clubs is an important part of feeling like they belong at this school, and I think a club like this one that accepts most applicants and teaches people something is a net positive.  \n\nFor reference, I'm in GIMG and Atlas.",
+              "author": "decafoatmilklatte",
+              "created": 1639073926,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hnr1ql5": {
+      "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnr1ql5/",
+      "text": "Nah I heard they had a meeting and after 5 minutes, they just got wasted",
+      "author": "fish2310",
+      "created": 1638989560,
+      "upvotes": 12,
+      "replies": {
+        "hnr1uqk": {
+          "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnr1uqk/",
+          "text": "Sounds like the investment club I was in. Typical.",
+          "author": "plainbread11",
+          "created": 1638989602,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "hnqhqm8": {
+      "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnqhqm8/",
+      "text": "I'm in it. Yes, it's a lot of fluff and hype right now but there ARE actually some smart people working on good stuff, mostly those with prior CS/math background. The impression I get is the founder cares enough about this to follow it thru and actually make something solid, but the club is barely 1.5 months old (and most of the new members joined in the last few weeks) so as with any new club, there's a lot of people trying to hop on the hype train.\n\nI think by the end of next semester it'll be more clear whether the hype is justified if we can produce something of substance. Like I said, I believe most people in it and especially the founder care enough about this to make that happen, though. But we'll see...",
+      "author": "jsh_",
+      "created": 1638981924,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hnrxzed": {
+      "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnrxzed/",
+      "text": "Took a look at the published papers they posted on LinkedIn, looks like they are learning the current popular algorithms and how they work. Don\u2019t see too much about application yet. At least the club is learning things. Highly doubt they would be creating algorithms as undergraduates.",
+      "author": "Worldlover67",
+      "created": 1639001914,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hnqwl00": {
+      "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnqwl00/",
+      "text": "Hi, so essentially Algory Capital was created to provide a community and opportunities for Emory students to explore the field of quantitative finance through the hands-on development of trading algorithms. All our quant traders are encouraged to have prior CS experience. [www.quantconnect.com](https://www.quantconnect.com) is the website that facilitates the entire operation of our quantitative trading division for now. First, our quant traders go through the 4 free QuantConnect boot camps (Equities, Forex, and Futures, and Python A-Z) which teach the traders basic algorithms such as pairs trading using EMA, stock selection filtering by fundamentals, and the general algorithmic framework of QuantConnect. Once the quant traders complete the boot camps, they will then work with other quant traders to focus on a specific project throughout the semester that they are interested in. Current projects we are interested in working on throughout the Spring Semester are ML for portfolio selection, PCA for pairs trading, volatility forecasting, sentiment analysis, and risk parity models. Quantconnect.com has an algorithm lab, a vast strategy library with step-by-step code, access to alternative data, and the ability to connect a brokerage account to our QuantConnect account. Once an algorithm has been developed, backtested, and live-deployed with paper money, then we will allocate our funds towards the algorithm. In the Spring we will be holding information sessions, a trading simulation competition with the Georgia Tech Trading Club (January 23rd), hosting discussions with people from UBS (recently hosted the CEO and President of Thomson Reuters), and likely working on projects with some companies. If you have any questions feel free to ask me! We are a very new club at Emory, but there are many other quantitative finance clubs at other colleges such as Maroon Capital, the quant club at UChicago, so I believe that we can learn from them and do better than them. I am super excited for the future of Algory Capital and our growth as an organization!",
+      "author": "evantap",
+      "created": 1638987599,
+      "upvotes": -6,
+      "replies": {
+        "hns9l3t": {
+          "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hns9l3t/",
+          "text": "Very cool, drop me a line on the support channel and we can sponsor your club free cloud infrastructure (I'm founder at QC).",
+          "author": "jaredbroad",
+          "created": 1639006805,
+          "upvotes": 3,
+          "replies": {
+            "hnsol2e": {
+              "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnsol2e/",
+              "text": "Thank you so much Jared!! I just dropped you a line through QuantConnect!\n\nEvan Tao",
+              "author": "evantap",
+              "created": 1639013539,
+              "upvotes": -2,
+              "replies": {}
+            }
+          }
+        },
+        "hnry655": {
+          "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnry655/",
+          "text": "Just want to say this is really awesome, and I wish this was a thing when I was still at Emory.",
+          "author": "Worldlover67",
+          "created": 1639001988,
+          "upvotes": 2,
+          "replies": {
+            "hnrzqbx": {
+              "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnrzqbx/",
+              "text": "Thanks! I appreciate it, Lowkey it can be hard sometimes to start something new lol but it has been very fulfilling.",
+              "author": "evantap",
+              "created": 1639002617,
+              "upvotes": -3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hnq3hht": {
+      "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnq3hht/",
+      "text": "I feel like the best way to find out would be to go to one of their presentations",
+      "author": "iapetus3141",
+      "created": 1638976147,
+      "upvotes": 1,
+      "replies": {
+        "hnq3jv7": {
+          "link": "/r/Emory/comments/rbsqsj/is_algory_capital_even_legit/hnq3jv7/",
+          "text": "Lol I graduated but am seeing this all over my LinkedIn and was curious",
+          "author": "plainbread11",
+          "created": 1638976176,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

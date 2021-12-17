@@ -1,0 +1,40 @@
+{
+  "sid": "rfm9mk",
+  "link": "/r/AskAcademia/comments/rfm9mk/seek_for_suggestions_on_response_letter/",
+  "title:": "Seek for suggestions on response letter",
+  "text": " \n\nHi guys,\n\nI got a major revision decision from IEEE TVT last month. Now I've almost finished the responses to the reviewers' comments. However, I've got confused about whether I also need to respond to the editor's comments. They're technically not comments but the editor summarised 4 points based on reviewers' comments. Details as below:\n\n>Based on the reviewers' comments, publication of the paper in its present form is not recommended.\u00a0 It is recommended that you resubmit your manuscript, WITHIN TWO MONTHS from the date of this email, as revised in accordance with the comments. If you fail to do so, your paper will be considered withdrawn from the review process.  \n  \n>  \n>The main reasons for this decision can be summarized as follows:  \n  \n>  \n>(i) There is the need to motivate better this paper, clarify the context, and provide concrete application examples;  \n  \n>  \n>(ii) The topic and the solution method should be better introduced in the first sections of the paper;  \n  \n>  \n>(iii) More comparisons with literature approaches are required in the simulation results;  \n  \n>  \n>(iv) Mobility aspects (models, motion prediction) are not addressed in the paper even if they are quite relevant to this study.  \n  \n>  \n>Please note that this recommendation of resubmission should not be treated as an implication of eventual acceptance of your paper. It only refers to a deferral of the editorial decision to see whether the reviewers' comments could be addressed.    \n \n\nIn the letter, the editor said \"It only refers to a deferral of the editorial decision to see whether the reviewers' comments could be addressed.\" So, this sounds like I should only focus on the reviewers' comments. Am I right?\n\nCould anyone give your opinion on this? Any suggestions are appreciated. Thank you in advance.",
+  "author": "Other_Coach_8808",
+  "created": 1639419633,
+  "updated": 1639515490,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hoeriza": {
+      "link": "/r/AskAcademia/comments/rfm9mk/seek_for_suggestions_on_response_letter/hoeriza/",
+      "text": "It wouldn\u2019t hurt to summarize your revisions addressing the four points the editor listed, in addition to a revision table that does a play by play on the reviewer\u2019s comments or whatever format the journal requires.",
+      "author": "Gremdelion",
+      "created": 1639420515,
+      "upvotes": 3,
+      "replies": {
+        "hoexti1": {
+          "link": "/r/AskAcademia/comments/rfm9mk/seek_for_suggestions_on_response_letter/hoexti1/",
+          "text": "Thanks for your advice. I agree with you that it wouldn't hurt to summerize. They don't look too difficult to address but I just don't want to paint the lily, in case I make any mistake.\n\nI have a table that lists the reviewer's comments and the pages in the paper where their corrsponding changes are. Perhaps you meant more by a \"play by play\" on the comments. There's no specific requirements of the journal as long as I can provide responses to reviewers' comments.",
+          "author": "Other_Coach_8808",
+          "created": 1639423020,
+          "upvotes": 2,
+          "replies": {
+            "hoggf0o": {
+              "link": "/r/AskAcademia/comments/rfm9mk/seek_for_suggestions_on_response_letter/hoggf0o/",
+              "text": "That sounds pretty standard response, yeah. In my field journals generally require a table in which you explain how and where you changed the paper. If you\u2019re numbering the changes, one approach could be just to list the #s that correspond to each category in the editor\u2019s meta review.",
+              "author": "Gremdelion",
+              "created": 1639446806,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

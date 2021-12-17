@@ -1,0 +1,47 @@
+{
+  "sid": "rahlsw",
+  "link": "/r/AskAcademia/comments/rahlsw/best_tools_for_tagging_document_annotationsnotes/",
+  "title:": "Best tools for tagging document annotations/notes",
+  "text": "Hi all, I have been looking for a simple tool that will allow me to:\n1. Make annotations (highlights, comments) on PDFs and/or word docs\n2. Tag those annotations with custom categories\n3. Be able to bring up all my annotations for a certain category across files\n4. Allow keyword searching within PDFs\n5. Allow document relationship mapping (aka document A contains information connecting to document K)\n\n\nNot sure if this exist. I used to use Tagnotate but it only allowed for #1-4, and it is no longer available in the App Store.",
+  "author": "PancakesForDinnerOK",
+  "created": 1638824430,
+  "updated": 1639515577,
+  "over_18": false,
+  "upvotes": 5,
+  "upvote_ratio": 0.86,
+  "comments": {
+    "hnj2l3d": {
+      "link": "/r/AskAcademia/comments/rahlsw/best_tools_for_tagging_document_annotationsnotes/hnj2l3d/",
+      "text": "Something like EndNote will do 1 - 4 for sure, plus organize and format all your references.\n\nI don't know about #5.",
+      "author": "winterneuro",
+      "created": 1638836475,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnjlxq9": {
+      "link": "/r/AskAcademia/comments/rahlsw/best_tools_for_tagging_document_annotationsnotes/hnjlxq9/",
+      "text": "Maybe something like Roam would be used for 5. I'm not sure it's exactly what you're looking for though",
+      "author": "CChilli",
+      "created": 1638844972,
+      "upvotes": 1,
+      "replies": {
+        "hnjmvo5": {
+          "link": "/r/AskAcademia/comments/rahlsw/best_tools_for_tagging_document_annotationsnotes/hnjmvo5/",
+          "text": "I\u2019ll check that out. Basically I need to be able to link documents together to create a document map. So \u201cI learned X from document A and C, but document A drew that information from document F.\u201d If that makes sense. Basically tracing information back through sources. \n\nIdeally I am hoping to find something that would allow me to type a note and be able to create a hyperlink to a specific page in another file. So for example I would make a note saying \u201cthe customer wants to add in a new dashboard display\u201d, then add a hyperlink for the source document where I found that information",
+          "author": "PancakesForDinnerOK",
+          "created": 1638845380,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hnkp6y7": {
+      "link": "/r/AskAcademia/comments/rahlsw/best_tools_for_tagging_document_annotationsnotes/hnkp6y7/",
+      "text": "You could try looking into Obsidian. I don\u2019t know if it\u2019s exactly what you need but you might be able to find a style of using it that works for you in this way. It definitely allows linking ideas together super easily as well as tagging etc.",
+      "author": "PantherModern14",
+      "created": 1638868721,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

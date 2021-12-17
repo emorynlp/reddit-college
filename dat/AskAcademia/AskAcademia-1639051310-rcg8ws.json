@@ -1,0 +1,47 @@
+{
+  "sid": "rcg8ws",
+  "link": "/r/AskAcademia/comments/rcg8ws/how_do_you_reference_data_from_a_published_study/",
+  "title:": "How do you reference data from a published study that was not published in the paper?",
+  "text": "I'm referencing a paper that carried out a certain analysis for all countries, but only presented results for a subset in the paper. I contacted the author directly and they sent me the full results. I have *only* used data points that were *not* explicitly given in that paper but now I'm not sure how to cite it. I don't know whether a regular citation of the paper is sufficient because the specific result I'm using was never published, but it was nevertheless generated from the analysis that was peer reviewed and published in that paper. Should I combine the regular citation with personal communications?",
+  "author": "Chlorophilia",
+  "created": 1639051310,
+  "updated": 1639515543,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hnuckml": {
+      "link": "/r/AskAcademia/comments/rcg8ws/how_do_you_reference_data_from_a_published_study/hnuckml/",
+      "text": "I would think to cite twice. Once for the publication and once for the interview.",
+      "author": "Global-Upstairs98",
+      "created": 1639051495,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hnusg1l": {
+      "link": "/r/AskAcademia/comments/rcg8ws/how_do_you_reference_data_from_a_published_study/hnusg1l/",
+      "text": "Purdue owl can give guidance on citing personal communications",
+      "author": "Mobile-Particular-22",
+      "created": 1639060234,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hnup40j": {
+      "link": "/r/AskAcademia/comments/rcg8ws/how_do_you_reference_data_from_a_published_study/hnup40j/",
+      "text": "Have you been in touch with the author who provided the data about this? They might be able to provide more information - maybe the data is available via a repository somewhere and could be cited directly? Including the original paper can't hurt either way, and if the data is central to your own paper, it would also be nice to give them a shout-out for sharing their data in the acknowledgements.\n\nFrom my own experience, most authors included some sort of information on how to cite the data in case it ends up in a paper when they first shared it with me.",
+      "author": "Lelislazuli",
+      "created": 1639058637,
+      "upvotes": 2,
+      "replies": {
+        "hnuxa1q": {
+          "link": "/r/AskAcademia/comments/rcg8ws/how_do_you_reference_data_from_a_published_study/hnuxa1q/",
+          "text": "The data is not available in a repository (that's why I had to contact them directly - hence the issue!) and the data is not central to my paper (it'll be a passing mention in the discussion).",
+          "author": "Chlorophilia",
+          "created": 1639062386,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

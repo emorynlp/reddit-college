@@ -1,0 +1,529 @@
+{
+  "sid": "r84xc7",
+  "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/",
+  "title:": "University won't accept my thesis file unless it's under 35 mb.",
+  "text": "This isn't a question, I just need someone to empathize with me. My university refuses to accept my thesis unless the file is under 35 mb. My research requires a lot of figures (I have about 70) and in order to get the file that small I have to compress them to all hell; some of them aren't even readable anymore. The university doesn't even keep paper copies anymore so this will be the only version of it out there. It just breaks my heart that I put so much time into it just to have any readers only see a crap version because of bureaucracy.",
+  "author": "PM_YOUR_PARASEQUENCE",
+  "created": 1638554119,
+  "updated": 1639518989,
+  "over_18": false,
+  "upvotes": 223,
+  "upvote_ratio": 0.97,
+  "comments": {
+    "hn3ekmi": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3ekmi/",
+      "text": "Maybe host it online somewhere, in the academic papers platform.",
+      "author": "--jh--",
+      "created": 1638554369,
+      "upvotes": 152,
+      "replies": {
+        "hn5hu1b": {
+          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn5hu1b/",
+          "text": "Second this. Even put it on figshare or zenodo at full resolution so it will look proper. Because that sucks if the images end up so cruddy.",
+          "author": "rflight79",
+          "created": 1638588235,
+          "upvotes": 25,
+          "replies": {}
+        }
+      }
+    },
+    "hn3zzvj": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3zzvj/",
+      "text": "Is there a dissertation coordinator or someone you could talk to for help on this? Not sure what the answer is but something seems off: I just checked my dissertation at 68 figures / 225 pages and the embedded pdf is 30.8 MB. We only used TIFF files for images, which should theoretically be bigger than PNGs.",
+      "author": "Knightfall31",
+      "created": 1638562991,
+      "upvotes": 49,
+      "replies": {
+        "hn44l0p": {
+          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn44l0p/",
+          "text": "I've been in talks with her for several weeks. She's not a technical person (she refers to megabytes as milligrams). The most recent exchange was where I gave her my 195mb document (she said the file limit was 200mb) and she said she would talk to \"her programmers\" to try to get it to work. A few days later and she said they had succeeded, but it turns out their idea of success was compressing it down to 35mb and making all my images tiny. I'm not really sure how competent the \"programmer\" is, because she said it took him a full day to shrink the file down but it only takes like 60 seconds to do that with Acrobat Pro's Advanced Optimization.",
+          "author": "PM_YOUR_PARASEQUENCE",
+          "created": 1638564858,
+          "upvotes": 61,
+          "replies": {
+            "hn4iqa5": {
+              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4iqa5/",
+              "text": ">(she refers to megabytes as milligrams).\n\nyikes",
+              "author": "RuthlessKittyKat",
+              "created": 1638571436,
+              "upvotes": 85,
+              "replies": {
+                "hn7d04d": {
+                  "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn7d04d/",
+                  "text": "Reminds me of my old intro professor. He's been around so long, they were the advisor to my current advisor.",
+                  "author": "Samarium149",
+                  "created": 1638632302,
+                  "upvotes": 9,
+                  "replies": {}
+                }
+              }
+            },
+            "hn498h2": {
+              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn498h2/",
+              "text": "Sounds like she's not the person to be talking with in that case, maybe your PI or DGS would have some other thoughts? As others have said it's hard to imagine image compression down to that size would make the pictures so bad on a standard page pdf or piece of paper. Understandably you probably have some very high-res images, but getting this down to 35 MB should be manageable. Maybe a different compression method is the answer.",
+              "author": "Knightfall31",
+              "created": 1638566771,
+              "upvotes": 24,
+              "replies": {}
+            },
+            "hn5ygyh": {
+              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn5ygyh/",
+              "text": "I am guessing \"programmer\" here means \"that one nephew who knows computers\", sadly...",
+              "author": "marxist_redneck",
+              "created": 1638597173,
+              "upvotes": 21,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hn3l4mx": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3l4mx/",
+      "text": "Is this a PDF? I'm pretty sure your thesis is MUCH bigger than it needs to be. To take an example, the IPBES report on the Americas is 660 full color pages with constant figures and maps and photos, and clocks in at about 17 mb:\n\n[https://ipbes.net/sites/default/files/2018\\_americas\\_full\\_report\\_book\\_v5\\_pages\\_0.pdf](https://ipbes.net/sites/default/files/2018_americas_full_report_book_v5_pages_0.pdf)\n\nI know you're not looking for advice, but it's possible that either there is a lot of unnecessary metadata there, or the figures or text are at unnecessarily high resolution.",
+      "author": "wizardyourlifeforce",
+      "created": 1638556976,
+      "upvotes": 132,
+      "replies": {
+        "hn3njmd": {
+          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3njmd/",
+          "text": "It looks like the vast majority of the images in the PDF you linked are low-polygon vector graphics, which would take up no more space than the text itself. The few actual images on there are 150ppi at most, which is about half what you want for print resolution. They probably have a separate copy of the file for printing with full-size images; and that would be fine for me if that was an option, but it's not.",
+          "author": "PM_YOUR_PARASEQUENCE",
+          "created": 1638557944,
+          "upvotes": 67,
+          "replies": {
+            "hn3ogv1": {
+              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3ogv1/",
+              "text": "What format are your graphics in? It is hard to imagine a figure printed on a standard A4 or 8.5x11\" sheet of paper, aimed at human eyes, being unreadable if compressed to be within the size limit you mention.",
+              "author": "wizardyourlifeforce",
+              "created": 1638558317,
+              "upvotes": 21,
+              "replies": {
+                "hn3pd10": {
+                  "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3pd10/",
+                  "text": "They're PNGs.",
+                  "author": "PM_YOUR_PARASEQUENCE",
+                  "created": 1638558681,
+                  "upvotes": 17,
+                  "replies": {
+                    "hn4iwc2": {
+                      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4iwc2/",
+                      "text": "They should take up less space if you convert them to JPGs. There are some websites online that does this and also help keep the quality.",
+                      "author": "boringwritingchic",
+                      "created": 1638571512,
+                      "upvotes": 60,
+                      "replies": {}
+                    },
+                    "hn5hrvo": {
+                      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn5hrvo/",
+                      "text": "It honestly sounds like you're using the wrong format for them. PNGs should be for computer-generated graphics, basically graphics with a lot of solid color and geometric shapes. And even then, SVG is usually better except for screenshots. For photos, you should be using JPEG2000 or at least JPEG.",
+                      "author": "dr-dead-inside",
+                      "created": 1638588205,
+                      "upvotes": 45,
+                      "replies": {
+                        "hn610lr": {
+                          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn610lr/",
+                          "text": "Yeah definitely svg for graphics. All my graphs are done in latex and exported in mto svgs.",
+                          "author": "suckuma",
+                          "created": 1638598813,
+                          "upvotes": 12,
+                          "replies": {}
+                        }
+                      }
+                    },
+                    "hn48lbv": {
+                      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn48lbv/",
+                      "text": "Is there a way to compress them. Excuse me for being a Luddite but back in the day you could compress image files in Word and PowerPoint to drastically bring down the file size. I don\u2019t know about PDFs.",
+                      "author": "cropguru357",
+                      "created": 1638566503,
+                      "upvotes": 4,
+                      "replies": {
+                        "hn4jn64": {
+                          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4jn64/",
+                          "text": "Isn\u2019t that exactly what OP is saying though? That by compressing the figures look so much quality that they\u2019re eyesores?",
+                          "author": "ThePhysicistIsIn",
+                          "created": 1638571842,
+                          "upvotes": 8,
+                          "replies": {
+                            "hn4mt0r": {
+                              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4mt0r/",
+                              "text": "I guess I missed if it were an automatic or manual compression?",
+                              "author": "cropguru357",
+                              "created": 1638573269,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    },
+                    "hn4awas": {
+                      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4awas/",
+                      "text": "Try .tiffs?",
+                      "author": "wrighthelp",
+                      "created": 1638567561,
+                      "upvotes": -7,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hn3k2x0": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3k2x0/",
+      "text": "I have a pdfshrink ghostshell script here that got me out of some pinches, it seems more effective than online compressing webpages... It does kill all hyperlinks, though. You can PM me, I'm willing to try and help you",
+      "author": "its_t94",
+      "created": 1638556556,
+      "upvotes": 21,
+      "replies": {}
+    },
+    "hn4endy": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4endy/",
+      "text": "So I ran into this a little bit when I sent my thesis to my committee. Adobe Acrobat has a feature where you can \u201coptimize\u201d PDF file sizes, it took my near 200mb thesis down to 43mb, and that wasn\u2019t the highest compression option. Didn\u2019t change any quality as far as I could tell. Might be an option for you.",
+      "author": "stefanduck",
+      "created": 1638569613,
+      "upvotes": 37,
+      "replies": {}
+    },
+    "hn4ehkw": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4ehkw/",
+      "text": "Your university sucks and this is stupid. Some areas of research and types of projects are very image heavy in order to be able to communicate the work.\n\n&#x200B;\n\nI empathize.\n\n&#x200B;\n\nI know you didn't ask for advice, and most people are giving technical advice.  For this I'd go up the chain and even contact the head of school or whatever you have at your university. Explain the limit and very briefly explain why your project relies on images. State your results with working with the dissertation coordinator. Also say that such a limit is not supportive of good research communication, and that this is a thesis.",
+      "author": "dammed",
+      "created": 1638569540,
+      "upvotes": 31,
+      "replies": {
+        "hn5hxvp": {
+          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn5hxvp/",
+          "text": "This needs to be higher. Someone in archives, library, etc has got to understand that this is a ridiculous limit.",
+          "author": "rflight79",
+          "created": 1638588288,
+          "upvotes": 11,
+          "replies": {}
+        }
+      }
+    },
+    "hn40xd0": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn40xd0/",
+      "text": "Use a university computer that has the expensive version of adobe pdf viewer. Open your file and then save it as a smaller size. \n\nAlso the university version does not have to be the version your faculty sees. Submit the file to  comply with the university but send your committee the file that is a higher quality.",
+      "author": "local_man_says",
+      "created": 1638563372,
+      "upvotes": 9,
+      "replies": {
+        "hn43uh5": {
+          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn43uh5/",
+          "text": "Yeah, that's how I've been doing the resizing.\n\nMy committee has already seen the higher-quality version, I'm just bummed because that's not the way the general public will be accessing my thesis. And yeah, I know probably 5 people will ever download it, but it's about the principle. I want my work to look good.",
+          "author": "PM_YOUR_PARASEQUENCE",
+          "created": 1638564563,
+          "upvotes": 12,
+          "replies": {
+            "hn4aomf": {
+              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4aomf/",
+              "text": "You can always put something in the Acknowledgments or the Dedication that tells folks where to get the copy that has the higher-quality images. Anyone who's really interested (or needs it to back up their own research) will contact you to ask.\n\nAnd while I do empathise, I also think that maybe you could talk to the IT folks at the uni to see if there's anything they can do with the tools the uni has access to.",
+              "author": "cattleprodlynn",
+              "created": 1638567383,
+              "upvotes": 18,
+              "replies": {}
+            },
+            "hn6e2p0": {
+              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn6e2p0/",
+              "text": "Upload the original version to arXiv or equivalent in your field. Then, put a link to it in the submitted thesis. The arXiv version may very likely exist much longer than your university storage anyway, and would more likely be seen by more people.",
+              "author": "blufox",
+              "created": 1638608821,
+              "upvotes": 3,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hn3f745": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3f745/",
+      "text": ">My research requires a lot of figures (I have about 70) and in order to get the file that small I have to compress them to all hell;\n\nWhat kind of figures are they? Photographs, graphs, tables? If graphs and tables, could they be grayscale?\n\nDid you shrink the resolution already? Or did you just put them in full res larger than they need to be?\n\nAnd what file formats did you save them in?",
+      "author": "raistlin65",
+      "created": 1638554614,
+      "upvotes": 21,
+      "replies": {
+        "hn3k4xj": {
+          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3k4xj/",
+          "text": "It's a PDF, they're very particular about the formatting. Most of the figures are maps and need to be full color. Charts and tables are greyscale. At the resolution I want it (print resolution) the file is just under 200mb. Scaling them down so the file is <35mb makes them look awful, but like 98% of the file data is from pictures so there's nothing else I can scale down to make the file that small.",
+          "author": "PM_YOUR_PARASEQUENCE",
+          "created": 1638556578,
+          "upvotes": 15,
+          "replies": {
+            "hn3ms74": {
+              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3ms74/",
+              "text": ">At the resolution I want it (print resolution) the file is just under 200mb.\n\nYou're going to have to give up on PDF print resolution generation. But you can certainly make things better. Just might take some work.\n\n>Scaling them down so the file is <35mb makes them look awful\n\nIf you're letting the program do it that's doing the PDF conversion, it may be applying a one size fits all solution. So you need to optimize each image before placing it in your document.\n\nYou also may need to set your PDF program not to adjust your images once they are well optimized for size. \n\n>Charts and tables are greyscale.\n\nWhat file format did you save them in before inserting them in your document? GIFs are only 8 bit, maximum of 256 colors.  They are lossless other than that, but generally have a small file size.\n\nSo with images that have very few colors, especially grayscale, converting them to GIFs before you put them in your document could greatly reduce their size.\n\n>Most of the figures are maps and need to be full color.\n\nMaps can also often be converted to GIF, as they use a small color set compared to photographs.\n\nJust take a couple of your map images and convert them. See what I mean?",
+              "author": "raistlin65",
+              "created": 1638557638,
+              "upvotes": 36,
+              "replies": {
+                "hn3nb3r": {
+                  "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3nb3r/",
+                  "text": "Adding on to this, I'd imagine if they're maps you created they could be saved as vector (line) graphics rather than pixel-based image files. That should significantly lower the size of the file.",
+                  "author": "Eigengrad",
+                  "created": 1638557848,
+                  "upvotes": 35,
+                  "replies": {
+                    "hn3o09x": {
+                      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3o09x/",
+                      "text": "this is the answer. Vectoriel figures >> all",
+                      "author": "GlamGlamGlam",
+                      "created": 1638558129,
+                      "upvotes": 15,
+                      "replies": {}
+                    }
+                  }
+                },
+                "hn79s92": {
+                  "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn79s92/",
+                  "text": "Agreed that each individual image needs to be adjusted before its placed. If you are placing an image that is 8x10 on your document, then make it 8x10 at 260 dpi (minimum) when you place it. Lots of people make this mistake, placing an image at its full size and then scaling it down. Depending on how you made this, most graphics programs will save all of the info of the original file, which you don\u2019t need.",
+                  "author": "print_isnt_dead",
+                  "created": 1638630772,
+                  "upvotes": 1,
+                  "replies": {
+                    "hn7al6a": {
+                      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn7al6a/",
+                      "text": ">your document, then make it 8x10 at 260 dpi (minimum)\n\nFor digital viewing, 72 DPI is often used to reduce file size on web pages. Certainly, a photograph viewed on a high PPI tablet or large computer screen could benefit from a higher DPI. But maps and charts still might look very good at 72 DPI.",
+                      "author": "raistlin65",
+                      "created": 1638631160,
+                      "upvotes": 2,
+                      "replies": {
+                        "hn7bv6y": {
+                          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn7bv6y/",
+                          "text": "Oh, I misread that the final usage would be for print. In this case, there\u2019s definitely something wrong with the setup of the file if the images are that bad on screen.",
+                          "author": "print_isnt_dead",
+                          "created": 1638631766,
+                          "upvotes": 1,
+                          "replies": {
+                            "hn7dvgn": {
+                              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn7dvgn/",
+                              "text": "Yeah, I think most of the time the intention of institutions is to put theses and dissertation in digital archives for downloading.\n\nWhen you decrease the size of a PDF using something like Acrobat, if I'm not mistaken, it will take all the images and use jpeg compression conversion by default. And so the more you have the PDF program reduce the file size, the more it's going to compress the images with lossy compression.\n\nSince these are not photographs, converting them all to GIF and making sure they are the correct resolution before being placed in the file probably will solve the problem. And if not, then dropping them to 72 DPI if the document still exceeds the maximum file size would take it the rest of the way.\n\nHard to know for sure. The OP hasn't replied to me. Probably discouraged by the hours of work it will take to convert 70 images. It will be a tedious process.",
+                              "author": "raistlin65",
+                              "created": 1638632702,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hn4djv7": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4djv7/",
+      "text": "Same thing happened to me in the final minute. Just look at the color plots where you have used interpolation. Those files are generally the largest. Try to reduce the resolutions of those figures if you want to reduce the size.",
+      "author": "anurag_iiserk",
+      "created": 1638569110,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hn4isah": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4isah/",
+      "text": "Ultimately, if you graduate, it doesn't matter. You can publish a better version on your own at a later time.",
+      "author": "stolid_agnostic",
+      "created": 1638571461,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hn4fw16": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4fw16/",
+      "text": "I'm sorry.  This sucks.  I struggled for like 48 hours with thesis formatting and stupid bullshit.  Ironically, after all of that, it finally got accepted on like the 3rd try with the word \"Inaugural\" misspelled in the title.  That was 10 years ago.  I'm still livid about it.  They double-checked every. god. damn. footnote.  But they missed the misspelling on the title page.",
+      "author": "Feistyfifi",
+      "created": 1638570168,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "hn6cgii": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn6cgii/",
+      "text": "I know you won't like this answer but if you have the option of rerendering some of your figures into vectors you will get the readability without the file size. SVG is my go-to format these days.",
+      "author": "NormalCriticism",
+      "created": 1638607462,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hn4f528": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4f528/",
+      "text": ">It just breaks my heart that I put so much time into it just to have any readers only see a crap version because of bureaucracy.\n\nNobody will read it though don't worry. Just use some online pdf compressor they work quite well",
+      "author": "Pharma_ham",
+      "created": 1638569833,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "hn3jnkz": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3jnkz/",
+      "text": "To be fair to the university, a 35 mb pdf is quite heavyweight. I would try to compress it down anyway.",
+      "author": "EnuffIsEnough",
+      "created": 1638556388,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "hn4eso7": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4eso7/",
+      "text": "I had to do something similar recently. What I found to work pretty well was not to decrease the resolution, but to decrease the 'quality'. At least you can do that with jpegs. So a jpeg with 300 dpi and quality at 60% will be much smaller than the original, and look pretty similar. I don't know about pngs, but there may be a similar thing. I just did it all through Preview on a Mac. Open original file, then export at 60% quality, still 300 dpi. Can use other image programs to to the same.",
+      "author": "Qr8rz",
+      "created": 1638569678,
+      "upvotes": 2,
+      "replies": {
+        "hn4hx1i": {
+          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4hx1i/",
+          "text": "Thanks for the tip, I'll try that and see if it helps.",
+          "author": "PM_YOUR_PARASEQUENCE",
+          "created": 1638571070,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hn5lhy5": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn5lhy5/",
+      "text": "Maybe it\u2019s the cynic in me, but realistically who is going to go back and go through your dissertation for relevant info? Ideally, all the meat of it should have been or will be published in individual papers where they will be accessible and useful to the community as a whole. Maybe that varies by field though?",
+      "author": "cman674",
+      "created": 1638590078,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hn3xvsk": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3xvsk/",
+      "text": "Convert to vector graphics.",
+      "author": "RipVanWinter",
+      "created": 1638562137,
+      "upvotes": 1,
+      "replies": {
+        "hn3z1je": {
+          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3z1je/",
+          "text": "It's satellite imagery, that's not going to help.\n\ne: if y'all want to tell me how you convert satellite images and interpolated gradients to vectors, be my guest.",
+          "author": "PM_YOUR_PARASEQUENCE",
+          "created": 1638562607,
+          "upvotes": -5,
+          "replies": {
+            "hn46743": {
+              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn46743/",
+              "text": "Any image can be converted. One thing that I ran into with Word (if that's where you're doing it), is that sometimes deleting things wouldn't make the file smaller. I'm not sure if it had something to do with the editing/track changes part of the program, but sometimes just copy/pasting text & images into a new file would drop the file size down by tens of MB. Something to try/think about.",
+              "author": "poopeebuttface",
+              "created": 1638565513,
+              "upvotes": 7,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hn3z3fx": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3z3fx/",
+      "text": "Try a zip file.",
+      "author": "orangeblackteal",
+      "created": 1638562629,
+      "upvotes": 1,
+      "replies": {
+        "hn3z8at": {
+          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn3z8at/",
+          "text": "They're very particular about the format, it has to be just a PDF.",
+          "author": "PM_YOUR_PARASEQUENCE",
+          "created": 1638562683,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hn5aobk": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn5aobk/",
+      "text": "Dude. Submit the text only file. Supplementary or appendix file attached with all figures.",
+      "author": "TheUncleverestDev",
+      "created": 1638584692,
+      "upvotes": 1,
+      "replies": {
+        "hn5b23t": {
+          "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn5b23t/",
+          "text": "It has to be one file.",
+          "author": "PM_YOUR_PARASEQUENCE",
+          "created": 1638584882,
+          "upvotes": 1,
+          "replies": {
+            "hn5b8xq": {
+              "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn5b8xq/",
+              "text": "They want shit quality images? They dumb then. Just submit and graduate.",
+              "author": "TheUncleverestDev",
+              "created": 1638584977,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hn4zpgz": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4zpgz/",
+      "text": "Is anyone going to realistically view it through the university database? I would just put the full format up elsewhere",
+      "author": "mediocre-spice",
+      "created": 1638579348,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn5e4n8": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn5e4n8/",
+      "text": "Use pdf squeezer to compress it. There will be no noticeable difference.",
+      "author": "TheForrester7k",
+      "created": 1638586398,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn5gw5w": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn5gw5w/",
+      "text": "Make references to an appendix posted to an online website.",
+      "author": "RageA333",
+      "created": 1638587764,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn614qj": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn614qj/",
+      "text": "I've found that a judicious choice of which PDF printer driver or converter to use can often crunch a document down substantially without sacrificing quality in any noticeable way. (Oddly, \"Save As PDF\" in Office 2k10+ seems to produce fairly reasonable results)\n\nhttps://superuser.com/questions/1151957/how-to-reduce-file-size-produced-by-microsoft-print-to-pdf\n\nGood luck!\n\n(and yeah, I have struggled with PDF file sizes at times, too. :O So I know that feel)",
+      "author": "alvarkresh",
+      "created": 1638598885,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn7e049": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn7e049/",
+      "text": "If you used MS Word, you can compress all images to 150ppi so it\u2019ll remove the excess data and lower your overall file size.",
+      "author": "4Mike",
+      "created": 1638632762,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn7sd5h": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn7sd5h/",
+      "text": "Put it into a pdf compressor after you finish and it\u2019ll reduce the file size by at least half with no noticeable difference",
+      "author": "moist_buckets",
+      "created": 1638638918,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn4h0bb": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn4h0bb/",
+      "text": "ahahahahahahahaha",
+      "author": "tchomptchomp",
+      "created": 1638570666,
+      "upvotes": -7,
+      "replies": {}
+    },
+    "hn7ztkx": {
+      "link": "/r/GradSchool/comments/r84xc7/university_wont_accept_my_thesis_file_unless_its/hn7ztkx/",
+      "text": "Use low quality figures",
+      "author": "krazyk1661",
+      "created": 1638641939,
+      "upvotes": 0,
+      "replies": {}
+    }
+  }
+}

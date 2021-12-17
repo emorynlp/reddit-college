@@ -1,0 +1,30 @@
+{
+  "sid": "r9gpol",
+  "link": "/r/AskAcademia/comments/r9gpol/how_do_you_organize_textual_quotations/",
+  "title:": "How do you organize textual quotations?",
+  "text": "Hey all, I'm doing some independent research projects for some topics I'm writing on, and am wondering if there are any programs or apps that can help organize the quotations I find in books or pdfs.\n\nI tried zotero and zotfile but was very disappointed by its functionality. The extract annotations function is excellent, but it puts all the quotes onto one note file, which makes the tagging feature a little useless since I may have 20+ quotes from a single book. It'd be great if there were a program that does annotation extraction but puts each annotation in a single note so I can tag them individually. \n\nPlease do let me know what works for you. And thank you so much!",
+  "author": "TheEconomicon",
+  "created": 1638714111,
+  "updated": 1639515598,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hncq53p": {
+      "link": "/r/AskAcademia/comments/r9gpol/how_do_you_organize_textual_quotations/hncq53p/",
+      "text": "I have a tiny bit of experience with [NVivo](https://alfasoft.com/en/products/statistics-and-analysis/nvivo.html), which is a great tool for qualitative analysis of text, audio, and video. It is just one of many [text mining software](https://en.wikipedia.org/wiki/List_of_text_mining_software) tools. I used it for analysis of interviews. It is easy to get started with and has a great workflow that keeps track of your sources.",
+      "author": "arthurdentdenmark",
+      "created": 1638729245,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnfy5g1": {
+      "link": "/r/AskAcademia/comments/r9gpol/how_do_you_organize_textual_quotations/hnfy5g1/",
+      "text": "You could use Endnote and save each quote as a separate reference. Then you would get Galwaygirl et al 2021a,  Galwaygirl et al 2021b and so on. It has a word plug in which works okay most of the time (occasional glitches). This is for when you are writing your report. For organising at the start of your project then NVivo might work, as the other poster suggested.",
+      "author": "GalwayGirlOnTheRun23",
+      "created": 1638784929,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

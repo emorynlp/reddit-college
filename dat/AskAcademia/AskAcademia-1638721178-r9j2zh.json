@@ -1,0 +1,31 @@
+{
+  "sid": "r9j2zh",
+  "link": "/r/AskAcademia/comments/r9j2zh/what_is_the_best_free_survey_platform/",
+  "title:": "What is the best free survey platform?",
+  "text": "I'd liko to conduct a survey-based investigation mainly using nominal and ordinal scales, I suspect there will be 30-40 questions divided into sections. I'm thinking of using google forms, is there a better platform anyone knows of? Would be a huge plus if there was a function for the person answering the survey to choose the language they prefer, but it's not necessary. Thank you!",
+  "author": "Zylute_",
+  "created": 1638721178,
+  "updated": 1639515595,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 0.83,
+  "comments": {
+    "hncy9ep": {
+      "link": "/r/AskAcademia/comments/r9j2zh/what_is_the_best_free_survey_platform/hncy9ep/",
+      "text": "You need to be careful using free survey platforms.for research. Firstly, they have limited features particularly survey logic, so that typically respondents have to answer every question rather than you being able to change what questions they are given based on their answers. You also often can't link answers through for each respondent. You just get the answers for each question independently of the others so you can't see trends and connections between answers. Secondly, and more critically you may need a subscription version of the platform in order to get ethics approval and/or comply with your university's IT policies. Free versions of survey platforms are not appropriate if you're gathering any identifiable information on your research participants - they don't have adequate security and the terms and conditions of use can be a bit iffy as to IP etc. \n\nIf you're doing a very basic anonymous survey, it's not ideal but should be fine. Anything else you should pay.\n\nI prefer survey monkey to Google forms but in the free version there's not a lot in it.",
+      "author": "ACatGod",
+      "created": 1638732198,
+      "upvotes": 4,
+      "replies": {
+        "hnd0iu6": {
+          "link": "/r/AskAcademia/comments/r9j2zh/what_is_the_best_free_survey_platform/hnd0iu6/",
+          "text": "Thank you so much! I didn't even think ethics would part of it, thanks for that insight. I'll check out survey monkey.",
+          "author": "Zylute_",
+          "created": 1638732977,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

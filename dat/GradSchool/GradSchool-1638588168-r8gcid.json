@@ -1,0 +1,30 @@
+{
+  "sid": "r8gcid",
+  "link": "/r/GradSchool/comments/r8gcid/graduate_advising/",
+  "title:": "Graduate Advising",
+  "text": "Hello,\n\nI recently applied to a PhD Statistics program at a university pretty close to where I live. I contacted their department via email and was given the names of two professors who work as grad advisors. I'm interested in this program and the particular fields of these professors (machine learning, big data). Someone once suggested to me that I should contact grad advisors even when I'm just an applicant. Why? And if so, what should I say to them?\n\nThanks",
+  "author": "Tannir48",
+  "created": 1638588168,
+  "updated": 1639519003,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hn5kvuc": {
+      "link": "/r/GradSchool/comments/r8gcid/graduate_advising/hn5kvuc/",
+      "text": "> Why?\n\nBecause the actual research work you'll do is mostly tied to your advisor, not your program, for one, so it's good to have some idea of what research group/advisor is willing to take you on and what you might be doing with them (though you can usually switch advisors after admission).  Presumably, based on what you said, you wouldn't want to end up working with someone working on kriging or whatever.  (I don't know what statistics researchers do.)\n\nI think it's also fairly normal that having an advisor who wants you in their group is a major leg up in admissions (or so I've always heard, and my advisor gave the impression that my admission was de-facto guaranteed because she'd already agreed to take me on).  My application had a field to request a specific advisor and I tailored my SOP to the specific research group I was going for.\n\nI have seen people in the same program have radically different experiences because of whom they're working with.  I know people in my program doing research that it would not be plausible for me to do and vice versa, and I've seen major differences in work/life balance, pay, etc--all due to who we work with.\n\n(I had worked with my advisor before applying, so I can't comment on the second question.)",
+      "author": "djp_hydro",
+      "created": 1638589768,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hn7fp2i": {
+      "link": "/r/GradSchool/comments/r8gcid/graduate_advising/hn7fp2i/",
+      "text": "So you'd want to contact advisors for a few reasons, even if you're just an applicant. The first would be, if you haven't applied to the particular program yet, is to see if these professors are actually able to take on new students. Sometimes, if you reach out showing interest, the professor will email back saying that they don't have space in their group, and if there are multiple professors who say this, it might not be the best place for you to apply, as there might not be research opportunities available to you once you get there. Although this is disappointing, it's better you find out that information before you apply.\n\nAnother reason, is for you to get a \"first impression\" of a potential advisor. With some people, you might get along with their personality right away, and others not so much. It's important for you and your advisor to have similar work habits, so you are on the same page when doing research, and their expectations for how much you accomplish in a semester. You can ask about their advising style, conferences/travel, collaborations, etc., and compare between the different potential advisors that you speak to. \n\nI'd check out this link for a list of questions that you can ask any potential advisors, current graduate students, other faculty members, etc: [Questions list](https://www.cs.columbia.edu/wp-content/uploads/2019/03/Get-Advisor.pdf). I hope this is helpful, and if you have any other questions feel free to pm me!",
+      "author": "physics_masochist",
+      "created": 1638633530,
+      "upvotes": 4,
+      "replies": {}
+    }
+  }
+}

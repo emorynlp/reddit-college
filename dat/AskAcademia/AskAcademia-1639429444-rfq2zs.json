@@ -1,0 +1,159 @@
+{
+  "sid": "rfq2zs",
+  "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/",
+  "title:": "Why is seemingly every ML/CS paper posted on Arxiv and published as a conference proceeding, whereas most biology papers are not on BiorXiv and are published in actual journals?",
+  "text": "I'm trying to understand the cultural/domain differences here. They seem like very different approaches to presenting research.",
+  "author": "diagana1",
+  "created": 1639429444,
+  "updated": 1639515479,
+  "over_18": false,
+  "upvotes": 19,
+  "upvote_ratio": 0.87,
+  "comments": {
+    "hoffdvh": {
+      "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hoffdvh/",
+      "text": "Machine Learning and Computer Science often view the highly selective conferences as the highest impact avenues for disseminating their work, more so than journal publications. arXiv also has a far more established presence in physics and mathematics, and ML/CS are much closer culturally to these fields than biology is.",
+      "author": "mleok",
+      "created": 1639430213,
+      "upvotes": 42,
+      "replies": {}
+    },
+    "hoff9nv": {
+      "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hoff9nv/",
+      "text": "Top tier conference proceedings in CS are considered archival but I guess in general it\u2019s just common to publish in proceedings since legitimate conferences are peer-reviewed, at least in my subfield.",
+      "author": "Gremdelion",
+      "created": 1639430165,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "hog0low": {
+      "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hog0low/",
+      "text": "In my field, our conferences don't have proceedings usually, so that's not an option. And since we need papers, there's less benefit to arXiv . Stuff will be released eventually. Myself, I'd rather let the reviewers have a go at it first before I make a paper public, but I know some folks who will post preprints. Not super common, because there's little benefit.",
+      "author": "Semantix",
+      "created": 1639439149,
+      "upvotes": 4,
+      "replies": {
+        "hog705i": {
+          "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hog705i/",
+          "text": "arXiv papers in math don't \"count\" either, but it is still common practice to post papers which have been submitted to these preprint servers, in part because the review process can take some time.",
+          "author": "mleok",
+          "created": 1639442494,
+          "upvotes": 3,
+          "replies": {
+            "hogawum": {
+              "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hogawum/",
+              "text": "Yeah that's a good point. I think younger researchers applying for jobs or tenure are more likely to post preprints because the slow review process can really hurt there. But otherwise, it might purely come down to culture and historical contingency. People don't do it, so people continue to not do it.",
+              "author": "Semantix",
+              "created": 1639444286,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "hogcgs1": {
+          "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hogcgs1/",
+          "text": "In my field, posting on pre-print servers has become pretty common even though we're all working toward the journal pub.  The journal process is really long in our field (typically 14mos-2yrs to acceptance if there are no hiccups, plus another 3-6 months until it's actually published). \n\nIt's hard to nail down the causal impact since there's a selection issue, but across many fields, papers posted to pre-print servers tend to also be cited more.",
+          "author": "Decisionsota",
+          "created": 1639444998,
+          "upvotes": 1,
+          "replies": {
+            "hogku3n": {
+              "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hogku3n/",
+              "text": "Wow, that's a crazy turnaround time for pubs. My longest was just under a year, with three rounds of revision. Definitely incentives putting out a preprint.",
+              "author": "Semantix",
+              "created": 1639448790,
+              "upvotes": 1,
+              "replies": {
+                "hogyzco": {
+                  "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hogyzco/",
+                  "text": "Yeah it can get bad.  I\u2019ve waited over 6 months before for reviews.  One time, got a scathing comment \u201cThe authors fail to cite [highly relevant paper published several months ago]\u201d Of course, that\u2019s because the paper wasn\u2019t published until several months after our submission and it hadn\u2019t been made available as a preprint.",
+                  "author": "Decisionsota",
+                  "created": 1639455341,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hofrulr": {
+      "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hofrulr/",
+      "text": "The CS field moves so fast nowadays that there is no time for journal publications and their timelines. Hence in that field, conferences are the 'journals'. They are more the exemption than the rule of scientific publications.",
+      "author": "argylx",
+      "created": 1639435390,
+      "upvotes": 12,
+      "replies": {
+        "hog62mh": {
+          "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hog62mh/",
+          "text": "the CS department at my school actually weight top paper publication higher than conference.. one needs to fulfil certain scores before graduating PhD.\n\nluckily, I'm in math... where thing moves rather... slowly, but surely. The only graduating criteria is \"you supervisor says so\"",
+          "author": "advanced-DnD",
+          "created": 1639442051,
+          "upvotes": 2,
+          "replies": {
+            "hog7o8g": {
+              "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hog7o8g/",
+              "text": "That math is so slow to publish comes as a surprise to my engineering colleagues. AMS put out a statement explaining this which Ive had to use in my interdisciplinary department as we experience academic culture shock.\n\nhttps://www.ams.org/about-us/governance/committees/Statement_ratesofpublication.pdf\n\nThis and my fight for damned chalkboards.",
+              "author": "yakiguriumai",
+              "created": 1639442802,
+              "upvotes": 4,
+              "replies": {
+                "hog8s6l": {
+                  "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hog8s6l/",
+                  "text": "> AMS \n\nYou see, the trick is to aim at a specialized journal within that very specialized field. It's always nice to publish at Acta, Inventiones etc.. but those are for geniuses who already have a working idea even before entering year 1.\n\nMortals like me do things strategically. First publication took 1 year; second article, which is better than the first, took 6 months. I got two papers in my pocket going to defence. \n\nI count myself lucky",
+                  "author": "advanced-DnD",
+                  "created": 1639443307,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hog9abt": {
+      "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hog9abt/",
+      "text": "In addition to what others have said ML/CS tend to be faster paced in many ways, driven somewhat by the large number of industry players in the research, so waiting for a traditional journal review, with can be 4-12 months long depending on the journal and reviewers is just too slow and you might be scooped. ArXiv on the other hand is nearly immediate and since journals aren't very popular conferences become the main publishing avenue. Also, most ML/CS conferences publish their proceedings better than in some other fields. In biology there isn't the same industry driven time schedule.",
+      "author": "morePhys",
+      "created": 1639443537,
+      "upvotes": 3,
+      "replies": {
+        "hogik4g": {
+          "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hogik4g/",
+          "text": "Conference proceedings that are published in ACM DL or IEEE Xplore (or even AISnet) will also get more visibility and citations than smaller obscure journals. \n\nInterestingly, some of the top conferences have moved into a pseudo-journal system where you have several submission windows per year, with the option to present in person at the conference. One of the motivations is to shorten the publication cycle.",
+          "author": "Gremdelion",
+          "created": 1639447773,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hoicnde": {
+      "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hoicnde/",
+      "text": "Let's face it, those \"prestigious\" are a relic of the past. The only reason they are still around is their historical significance, and they use all their influence to keep publications in those journals as the key performance indicator of a scientist's career, forcing everyone to still publish in them and pay their outrageous prices. So in older fields, those established journals still count. \n\nBut in young and new fields, an entirely different ecosystem can grow that is well adapted to the modern age. Findings can be published quickly, on open access platforms that do not cost a fortune.",
+      "author": "territrades",
+      "created": 1639489210,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hoh10ln": {
+      "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hoh10ln/",
+      "text": "There are two viable approaches to making all papers accessible to the general public:\n\n1. Everyone posts their works on the arXiv, and then it doesn't matter where the paper is published \u2014 everyone still has free access to it.\n\n2. Force authors to pay exorbitant fees for the leading open access journals.\n\nAnd for some reason which I genuinely cannot comprehend, the majority of researchers and funding bodies seem to support option 2.",
+      "author": "sure_complement",
+      "created": 1639456343,
+      "upvotes": 0,
+      "replies": {
+        "hoieyuw": {
+          "link": "/r/AskAcademia/comments/rfq2zs/why_is_seemingly_every_mlcs_paper_posted_on_arxiv/hoieyuw/",
+          "text": "If the entire scientific community just collectively stopped submitting papers to these journals, everyone but their shareholders would win. But if an individual researcher stops submitting, their career will suffer in comparison to the next researcher who still submits to them. So we collectively continue submitting, as we are in a competitive scenario and each fear individual disadvantages.  \n\n\nI wished the European Union had banned publishing tax-funded research in these journals outright, but instead they made a deal with them.",
+          "author": "territrades",
+          "created": 1639490359,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

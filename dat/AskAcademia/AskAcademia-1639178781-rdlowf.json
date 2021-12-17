@@ -1,0 +1,65 @@
+{
+  "sid": "rdlowf",
+  "link": "/r/AskAcademia/comments/rdlowf/grant_funding_for_retrospective_chart_reviews/",
+  "title:": "Grant funding for retrospective chart reviews?",
+  "text": "Hi r/AskAcademia! This seems like it would be an obvious question, but I am not finding answers elsewhere, and I'm not really sure how to ask it correctly to get helpful Google results. \n\nI am wondering about how much funding there is for retrospective chart review research using electronic medical records? And I mean for published research, not process improvement. I work in the psychiatry dept of a teaching hospital. I proposed a project, and so far all of the right people have been excited about it (deans of research, EMR administrators, privacy officer for med center, etc.) So that feels really encouraging! But this is really far away from our normal projects. Usually we propose something, a grant pays for RAs, the participants come in individually, protocols are administered, etc. But in this case, we wouldn't be collecting the data ourselves. Just a shit ton of effort for getting our hands on it, analyzing it, and partnering w data science team. \n\nIt is possible to get funding for that kind of thing? Or is there a sense of ... well, you didn't actually collect this yourselves, this is your own institution's data that they should already be using, etc.? Any health services or data science folks have thoughts on this? I am excited to be having these conversation with leadership at my institution and it seems like psych in particular could stand to be much more data driven...  it's just new turf and I'm not sure what is actually feasible. If there is no chance of getting such a project funded, then it seems like there is no point of fighting through all of the layers of bureaucracy involved.",
+  "author": "cqpa",
+  "created": 1639178781,
+  "updated": 1639515517,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "ho1xep7": {
+      "link": "/r/AskAcademia/comments/rdlowf/grant_funding_for_retrospective_chart_reviews/ho1xep7/",
+      "text": "Grants fund (/invest in) the results of your scholarship. That can include new data collection like you're used to or retrospective studies with new analyses over existing data like you're planning.\n\nWhichever funding body would be most interested in the question and results obtained would be your path to $. These types of studies are increasingly common, and - if done well - can be really valuable additions to the field.\n\nThere's no moral issues presented or thoughtful justification required to reuse data that you have approved access to or that has been deposited publicly. Funders in my field (genetics) love it, but will pay careful attention to your methods. If you receive or need substantive help with accessing, extracting, reviewing, or understanding these data, you may need to fund the time of whoever is helping you, and you may want to consider their contributions for authorship.",
+      "author": "IAmAQuailBiologist",
+      "created": 1639179874,
+      "upvotes": 2,
+      "replies": {
+        "ho2wxok": {
+          "link": "/r/AskAcademia/comments/rdlowf/grant_funding_for_retrospective_chart_reviews/ho2wxok/",
+          "text": "This is helpful! Thanks for writing. That's encouraging to hear that this type of research is common and has been successful in getting funded.\n\nWe have already been in conversations with possible data science collaborators for help with analysis for a version of this project where we collect the data the old fashioned way (i.e. individual visits with RAs). We would absolutely plan to fund their time for helping us with the project using traditional methods, and we would certainly do the same if they helped with an EMR project.  \n\nThings get murky for me when I start to think about how to fund the time of the people who help us access the data, though. Do you mean our funding own internal EMR administrative team? Or paying Epic?  Any thoughts about how the costs for accessing the data are calculated?  \n\nWhat makes it worse is that we would be looking at a relatively small group of patients with specific comorbidities. So it's possible that there wouldn't even be that much useable data! I guess I'm feeling torn between throwing my hands up and declaring that there is no hope for us against this bureaucratic machine vs saying that the project would be really valuable as a learning experience. It would be nice to have chart reviews as a tool in the toolkit for other research questions, even if this one doesn't work well.",
+          "author": "cqpa",
+          "created": 1639196147,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ho400oi": {
+      "link": "/r/AskAcademia/comments/rdlowf/grant_funding_for_retrospective_chart_reviews/ho400oi/",
+      "text": "Papers generally list the funding sources that paid for the work.  I assume you've already been reading papers that do similar/related analyses to what you're proposing, so I'd suggest you go back to them and look at where their funding came from.  If it's not listed in the paper directly, you can look up the PI's website or search for their name in the relevant funding databases for your country, assuming those exist, to get some pointers.",
+      "author": "polyphonal",
+      "created": 1639222970,
+      "upvotes": 1,
+      "replies": {
+        "ho9fy0h": {
+          "link": "/r/AskAcademia/comments/rdlowf/grant_funding_for_retrospective_chart_reviews/ho9fy0h/",
+          "text": "Ah, I wish I was reading lots of papers just like this. Like I said, we have always collected data using individual appts in the lab. To our knowledge, that's what everyone else is doing, too. This is a tiny niche field, and we don't know of anyone who has tried using a retrospective chart review to collect data. It is hard to know whether that is because working w the hospital on jumping through all of the hoops is an enormous headache (but could still yield interesting data), or whether there just genuinely are not enough records with X, Y, Z characteristic to justify the effort and expense of custom EMR reporting (in which case, it would still be a headache, but not even produce scientifically interesting data). \n\nFor doing things the traditional way (i.e. one participant at a time comes in for study protocols), I wouldn't be worried about feasibility, funding, etc since that's how all of our work has always been done",
+          "author": "cqpa",
+          "created": 1639326266,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ho7gz0x": {
+      "link": "/r/AskAcademia/comments/rdlowf/grant_funding_for_retrospective_chart_reviews/ho7gz0x/",
+      "text": "Yes, there are funding mechanisms for chart reviews or secondary data analysis, more generally.   While, yes, the data has already been collected presumably you are using it in a different way.  It\u2019s also perfectly legitimate to support RA time to compile the data. One of the challenges of this type of funding is that you need to demonstrate the feasibility (i.e., the data you need is actually there).  I say that because you mention there may be a small number of case.  That is, a funding agency (or more importantly reviewer) may be enthusiastic about your idea but if the data is not there or can\u2019t be compiled in the way that you need to be able to put it together to answer the question you have in mind.",
+      "author": "DicaxErsatz",
+      "created": 1639282058,
+      "upvotes": 1,
+      "replies": {
+        "ho9dxbt": {
+          "link": "/r/AskAcademia/comments/rdlowf/grant_funding_for_retrospective_chart_reviews/ho9dxbt/",
+          "text": "Yes!  Gah, exactly. This is one of my biggest concerns. It could be all this work and then there are like... 3 records that are useable. But it could also be like 50 or 200 or 1000 records, and we just have no idea. \n\nAny advice on how to figure out if the data exists? I wish there was a way to just... run a query to see how many records have X, Y, and Z characteristic before we go through some giant process about how to protect, store, analyze, etc. the data. I am meeting with one of the admins for the EMR system for the med center so I'm planning to ask about it but it would be helpful to know what is normally done when you don't have a good sense of how much data there will be",
+          "author": "cqpa",
+          "created": 1639325422,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sid": "rf5ye5",
+  "link": "/r/GradSchool/comments/rf5ye5/where_to_host_big_data_free/",
+  "title:": "Where to host big data free?",
+  "text": "Is there anywhere you can temporarily host big research data while working privately before publication without having to input your credit card into something like the Amazon free tier service?",
+  "author": "wizardsprite",
+  "created": 1639366058,
+  "updated": 1639518483,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.5,
+  "comments": {
+    "hocwvli": {
+      "link": "/r/GradSchool/comments/rf5ye5/where_to_host_big_data_free/hocwvli/",
+      "text": "How \"privately\" are we talking? \n\nAre you affiliated with a research group at your university? If so, then you should have access to storage through the group, or else funds to access more.\n\nMy recollection is that AWS Educate does not require credit card information (this may be outdated) and you can submit AWS research grants for credits.",
+      "author": "aggressive-teaspoon",
+      "created": 1639384831,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

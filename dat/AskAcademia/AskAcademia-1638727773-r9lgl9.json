@@ -1,0 +1,48 @@
+{
+  "sid": "r9lgl9",
+  "link": "/r/AskAcademia/comments/r9lgl9/margins_and_headers_question_on_formatting/",
+  "title:": "Margins and headers, question on formatting principles",
+  "text": "Hello, I would like to ask for clarification regarding an issue I've seen in many submission scenarios for academic documents.\n\nWhen there is an instruction along the lines of \"Top margin of the page must be at least an inch\", along with \"Include your name/page number at the top of each page\", would it mean if I include my name/page number in the page header area, would the header location still have to be at least an inch from the top? Or do margin requirements not apply to header content, and just mean space to the body text?\n\nIn text formatters, header/footer text always seems to go in the margin, so I thought header text is independent of the margin requirements. (Ie one can have 1 inch margin to the body text, and the header text can be anywhere inside that 1 inch and still be acceptable).\n\nApologies if this is a stupid question, this is a case I can't ask the person/program directly what exactly they require. I was wondering if there is a general consensus in academia on this formatting rule, as it doesn't seem to be discussed online.",
+  "author": "ThatNerdOverThere-",
+  "created": 1638727773,
+  "updated": 1639515593,
+  "over_18": false,
+  "upvotes": 4,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hncoajg": {
+      "link": "/r/AskAcademia/comments/r9lgl9/margins_and_headers_question_on_formatting/hncoajg/",
+      "text": "Hello, I would assume they want a one inch margin for your paper, but want you to include your name and page number within the header. So those items would be inside that one inch margin.",
+      "author": "SleepyProfessor98",
+      "created": 1638728616,
+      "upvotes": 6,
+      "replies": {
+        "hnd9j04": {
+          "link": "/r/AskAcademia/comments/r9lgl9/margins_and_headers_question_on_formatting/hnd9j04/",
+          "text": "Perfect! That's the part I was worried about, that the stuff in the header might make them think I'm violating the 1inch margin rule. (Was wondering if they'd expect the header content to be under the 1 inch of white space too).",
+          "author": "ThatNerdOverThere-",
+          "created": 1638736137,
+          "upvotes": 1,
+          "replies": {
+            "hndikyf": {
+              "link": "/r/AskAcademia/comments/r9lgl9/margins_and_headers_question_on_formatting/hndikyf/",
+              "text": "Nope header content should definitely be above!",
+              "author": "SleepyProfessor98",
+              "created": 1638739454,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hncoh7v": {
+      "link": "/r/AskAcademia/comments/r9lgl9/margins_and_headers_question_on_formatting/hncoh7v/",
+      "text": "Put your settings at \"normal\", i.e. 1 inch (2.54 cm) margins all around. Enter page number, name, etc., in the header.",
+      "author": "molobodd",
+      "created": 1638728680,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

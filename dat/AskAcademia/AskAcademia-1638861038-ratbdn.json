@@ -1,0 +1,30 @@
+{
+  "sid": "ratbdn",
+  "link": "/r/AskAcademia/comments/ratbdn/need_help_interpreting_a_journals_policy_on/",
+  "title:": "Need help interpreting a Journal's policy on pre-prints",
+  "text": "I'm working towards submitting a manuscript to the Sustainable Production and Consumption journal and am trying to see if they are fine with me hosting my manuscript on pre-print servers prior to submission. While Elsevier's policy on sharing allows hosting pre-prints on servers of my choosing, I'm confused by the following paragraph:  \n\n\n> **Submission declaration and verification**  \n>  \n>Submission of an article implies that the work described has not been published previously (except in the form of an abstract, a published lecture or academic thesis, see '[Multiple, redundant or concurrent publication](https://www.elsevier.com/about/policies/publishing-ethics#Authors)' for more information), that it is not under consideration for publication elsewhere, that its publication is approved by all authors and tacitly or explicitly by the responsible authorities where the work was carried out, and that, if accepted, it will not be published elsewhere in the same form, in English or in any other language, including electronically without the written consent of the copyright-holder. To verify originality, your article may be checked by the originality detection service [Crossref Similarity Check](https://www.elsevier.com/editors/perk/plagiarism-complaints/plagiarism-detection). \n\nSince they specify forms of publications allowed (abstract/lecture/thesis), I'm confused whether they'd be fine with pre-prints or not. **Would anyone be kind enough to help clear this up for me?**",
+  "author": "Top-Confection-7015",
+  "created": 1638861038,
+  "updated": 1639515574,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hnkicu8": {
+      "link": "/r/AskAcademia/comments/ratbdn/need_help_interpreting_a_journals_policy_on/hnkicu8/",
+      "text": "Hi,\n\nAccording to the sharing policies of Elsevier there should be no problem with pre-prints. It explicitly says: \"Authors can share their preprint anywhere at any time\". After acceptance and publications they want you to link your pre-print to your publication. \n\nhttps://www.elsevier.com/about/policies/sharing\n\nGood luck!",
+      "author": "Coffeepls0791",
+      "created": 1638863008,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnpawya": {
+      "link": "/r/AskAcademia/comments/ratbdn/need_help_interpreting_a_journals_policy_on/hnpawya/",
+      "text": "As noted, by policy, Elsevier allows preprints to be posted.  Note that there are NOT considered publications, hence the \"redundant publication\" thing is not germane.\n\nhttps://www.elsevier.com/about/policies/sharing\n\nHowever, preprints DO get index in the ithenticate plagiarism database and hence it can trigger an alert when you submit your manuscript.  An Editor who is on the ball will know not to worry about it, and Editor who is out of date/asleep at the wheel may reject because of it.  As always, policy and implementation are not always in agreement.\n\nlastly - this only applies to SOME journals (such as those published by Elsevier) - all bets are off with other journals, and you need to check specifically if you go elsewhere.",
+      "author": "Life_time_learner",
+      "created": 1638959184,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "sid": "r8ifgf",
+  "link": "/r/AskAcademia/comments/r8ifgf/guides_on_how_to_perform_good_research_skillsets/",
+  "title:": "Guides on how to perform good research? Skillsets needed?",
+  "text": "I've set the flair as STEM as that is kind of what I'm exploring, but I'm looking for answers that explore how to conduct good research. Some examples of the types of answers I'm looking for are (I'm just throwing random ideas out there):\n\n* develop a hypothesis, how do I know it's true vs false?\n* figure out what kind of data is needed, how to source it, how to make sure its reliable\n* clean the data (what to do with missing data, pre-processing?)\n* perform regression/analysis, what kinds of analytical operations should I perform and when?\n\nBooks? Any content that might explain this from a high level? I'm trying to conduct financial research as a non-academic person, just a guy from his bedroom. So what are some key concepts and skillsets you feel I should know/explore? Thanks!",
+  "author": "BreathAether",
+  "created": 1638595388,
+  "updated": 1639515713,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "hn690ub": {
+      "link": "/r/AskAcademia/comments/r8ifgf/guides_on_how_to_perform_good_research_skillsets/hn690ub/",
+      "text": "This skill set is learned over many years as a PhD student and postdoctoral researcher. It isn\u2019t something you can pick up quickly. However if you want to start with some books look for ones with Research Methods in the title. I\u2019ve just had a quick look on Amazon and there are several there for example [this one ](https://www.amazon.co.uk/Research-Methods-Business-Students-N-K-Saunders/dp/1292208783/ref=asc_df_1292208783_nodl/?tag=googshopuk-21&linkCode=df0&hvadid=427902758346&hvpos=&hvnetw=g&hvrand=13925173842535208535&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1007864&hvtargid=pla-766229948577&psc=1&th=1&psc=1&tag=&ref=&adgrpid=103526071910&hvpone=&hvptwo=&hvadid=427902758346&hvpos=&hvnetw=g&hvrand=13925173842535208535&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1007864&hvtargid=pla-766229948577) for Business students.  Another place to look is published research papers from your area of interest - lots are available on Google Scholar for free. You will see the process for the research project described along with the methods they used for analysis. From my experience the hardest thing to learn is the statistics part and even very experienced researchers often get help from a statistician. That\u2019s why you see research papers being written by teams - each person is often a specialist in one particular part of the project (data handling, statistics, planning, writing etc). Good luck with your project and I hope this helps a little.",
+      "author": "GalwayGirlOnTheRun23",
+      "created": 1638604674,
+      "upvotes": 3,
+      "replies": {
+        "hn6c3o8": {
+          "link": "/r/AskAcademia/comments/r8ifgf/guides_on_how_to_perform_good_research_skillsets/hn6c3o8/",
+          "text": "Thanks! There's obviously an emphasis on data and statistics. Briefly looking at the book, it seems like it may be up my alley. Cheers.",
+          "author": "BreathAether",
+          "created": 1638607163,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

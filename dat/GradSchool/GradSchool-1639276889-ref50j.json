@@ -1,0 +1,89 @@
+{
+  "sid": "ref50j",
+  "link": "/r/GradSchool/comments/ref50j/is_there_a_tool_for_automating_citations_from_a/",
+  "title:": "Is there a tool for automating citations from a published paper URL?",
+  "text": "Is there a tool for automating reference citations from a published paper URL? This would be of immense help.",
+  "author": "wizardsprite",
+  "created": 1639276889,
+  "updated": 1639518501,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "ho7ngh9": {
+      "link": "/r/GradSchool/comments/ref50j/is_there_a_tool_for_automating_citations_from_a/ho7ngh9/",
+      "text": "If I understand your question correctly, you want to get the reference of a paper in a certain style by copy pasting a URL into some program? You should consider a citation management tool instead. Don\u2019t build your bibliography manually one by one. \n\nZotero is my favorite citation management tool. It\u2019s also free in contrast to Endnote. Works with Overleaf, Word and google docs. You can use the URL of the paper to generate an entry in Zotero. You can then export the entry as well (if needed).\n\nI\u2019ve been a TA for a citation management class and students that used Zotero usually had the lowest number of mistakes in their bibliographies (when it comes to capitalization of the paper name and other things controlled by the program when it generates a citation entry).",
+      "author": "FionaBubblegum",
+      "created": 1639285533,
+      "upvotes": 8,
+      "replies": {
+        "ho8hklq": {
+          "link": "/r/GradSchool/comments/ref50j/is_there_a_tool_for_automating_citations_from_a/ho8hklq/",
+          "text": "Following the same line, Mendeley is also a great tool if one can not adapt to Zotero. Best things about Mendeley is that it is administrated by Elsevier, which publish most of the research papers nowadays.",
+          "author": "Apatons",
+          "created": 1639308120,
+          "upvotes": 5,
+          "replies": {
+            "ho8yr8q": {
+              "link": "/r/GradSchool/comments/ref50j/is_there_a_tool_for_automating_citations_from_a/ho8yr8q/",
+              "text": "Yes, Mendeley is also a great tool and free as well! :)\n\nIt\u2019s a little more difficult to set up shared libraries/groups with it though (very important for group projects/collaborations) and the metadata extraction from papers by adding PDFs to the library is cool, but unfortunately far from perfect (I had a lot of students with mistakes in their bibliographies and Mendeley entries due to this, but then they also didn\u2019t double check I guess). Feel free to correct me if I\u2019m wrong. I\u2019m sure Mendeley also has it\u2019s pros over Zotero.",
+              "author": "FionaBubblegum",
+              "created": 1639319082,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "ho7ulj2": {
+          "link": "/r/GradSchool/comments/ref50j/is_there_a_tool_for_automating_citations_from_a/ho7ulj2/",
+          "text": "I was going to suggest the same program.  Zotero is great, been using since I was an undergrad.",
+          "author": "jagpanzer12",
+          "created": 1639289690,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "ho77wdu": {
+      "link": "/r/GradSchool/comments/ref50j/is_there_a_tool_for_automating_citations_from_a/ho77wdu/",
+      "text": "Yes I use some that Google will pull up for you but just be sure to double check their accuracy. I think citation machine is one I like.",
+      "author": "Kitty_fluffybutt_23",
+      "created": 1639277481,
+      "upvotes": 3,
+      "replies": {
+        "ho7xwwv": {
+          "link": "/r/GradSchool/comments/ref50j/is_there_a_tool_for_automating_citations_from_a/ho7xwwv/",
+          "text": "> I think citation machine is one I like.\n\nYep! That's a go-to I've used for a number of years. Has some nice features now, like being able to search by DOI index. I've basically outsourced my ability to write an APA citation to it, at this point. \n\nIt's not 100% perfect, though -- still needs a bit of correction here and there on one field or another, but still takes care of 90% of the work in short order.",
+          "author": "Crimsonial",
+          "created": 1639291973,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "ho77fhj": {
+      "link": "/r/GradSchool/comments/ref50j/is_there_a_tool_for_automating_citations_from_a/ho77fhj/",
+      "text": "like for inserting references into a paper? look in to endnote and the free alternatives outnthere",
+      "author": "Ru-tris-bpy",
+      "created": 1639277249,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ho79doz": {
+      "link": "/r/GradSchool/comments/ref50j/is_there_a_tool_for_automating_citations_from_a/ho79doz/",
+      "text": "Easybib",
+      "author": "Impressive-Change-55",
+      "created": 1639278229,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "ho8i5lr": {
+      "link": "/r/GradSchool/comments/ref50j/is_there_a_tool_for_automating_citations_from_a/ho8i5lr/",
+      "text": "BibTeX is decent",
+      "author": "greens_giga_chad",
+      "created": 1639308600,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

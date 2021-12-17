@@ -1,0 +1,22 @@
+{
+  "sid": "rb53tn",
+  "link": "/r/AskAcademia/comments/rb53tn/do_you_keep_an_academic_journal/",
+  "title:": "Do you keep an academic journal?",
+  "text": "I recently started my PhD in computational mathematics. Since I came straight from undergraduate, I'm still in the process of finding a work style that maximize my productivity. I noticed how days seem to fly by and I can't remember what I did, so recently I start to write down what I do in a day (read such such theorem, wrote xyz lines of code etc). It seems helpful, but I'm still trying to figure out the best format. So I wanted to ask fellow academics, do you keep an academic journal, if so what is your media and format?",
+  "author": "a_random_small_child",
+  "created": 1638900577,
+  "updated": 1639515564,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.67,
+  "comments": {
+    "hnn5kt3": {
+      "link": "/r/AskAcademia/comments/rb53tn/do_you_keep_an_academic_journal/hnn5kt3/",
+      "text": "As someone with a STEM background I absolutely kept a lab book with a daily description of everything I did. It's an absolute cornerstone of research integrity and reproducibility. \n\nWhile I'm very aware computational sciences are very different, keeping some log of your work is essential, so that others can see what you did and how you did it. Your coding ideally should be submitted to somewhere like GitHub with a full description of what the code does and how to use it. Keeping notes is critical to ensuring your research is reproducible and replicable. It's concerning your PI isn't discussing this with you (it's a huge conversation at the institute where I work at the moment) and I'd recommend trying to have a discussion with others in your department about what best practice looks like.",
+      "author": "ACatGod",
+      "created": 1638913424,
+      "upvotes": 4,
+      "replies": {}
+    }
+  }
+}

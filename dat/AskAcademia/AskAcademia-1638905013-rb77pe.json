@@ -1,0 +1,38 @@
+{
+  "sid": "rb77pe",
+  "link": "/r/AskAcademia/comments/rb77pe/how_to_cite_authors_with_different_names_but_same/",
+  "title:": "How to cite authors with different names but same affiliations?",
+  "text": "If the first and second (or any rank) author have the same affiliations and I write the same number (eg; \"1\") in front of their names, would it change who the first author is?\n\nI mean, are the numbers besides each author's name only related to sharing affiliations, or it also shows the rank of the authors (eg; first author)?",
+  "author": "Ev5n",
+  "created": 1638905013,
+  "updated": 1639515561,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hnmp35z": {
+      "link": "/r/AskAcademia/comments/rb77pe/how_to_cite_authors_with_different_names_but_same/hnmp35z/",
+      "text": "These just denote affiliations! The order you list authors in determines who\u2019s first author.",
+      "author": "crazypenguinlady",
+      "created": 1638906496,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "hnmrlb0": {
+      "link": "/r/AskAcademia/comments/rb77pe/how_to_cite_authors_with_different_names_but_same/hnmrlb0/",
+      "text": "Possibly where the confusion came from: sometimes journals allow for co-first authorship and often denote this with a symbol like an asterisk, i.e. \"A Lastname*, B Otherlastname*\" and a footnote will say something like \"* denotes co-first authorship.\" The other rank-esque footnote would be the corresponding author (i.e. \"S Funder^\u03c0\" with a footnote along the lines of \"^\u03c0 denotes corresponding author\"). \n\nIn general though, as another commenter said, the order of the authors name is what denotes contribution level/\"rank\".",
+      "author": "Ford-Fulkerson",
+      "created": 1638907627,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hno17ua": {
+      "link": "/r/AskAcademia/comments/rb77pe/how_to_cite_authors_with_different_names_but_same/hno17ua/",
+      "text": "Journals vary in how they do this, so check the specific journal you are looking at.",
+      "author": "DrTonyTiger",
+      "created": 1638928212,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

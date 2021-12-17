@@ -1,0 +1,276 @@
+{
+  "sid": "ranz63",
+  "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/",
+  "title:": "Migrate from Mendeley to Zotero?",
+  "text": "I been using Mendeley for several years. I use it for reading and annotating PDF documents and also as reference manager in word. \n\nI am getting increasingly annoyed with Mendeley because the link to ms word regularly breaks and requires a restart of word and an uninstall+reinstall of the extension to work. \n\nI'm now reading that most people here recommend zotero and that Mendeley was built from zotero. So maybe I should bite the bullet and switch? How would I in that case go about moving my several gb database from Mendeley to zotero? Any advice here. \n\nThanks.",
+  "author": "rightnextto1",
+  "created": 1638842863,
+  "updated": 1639515562,
+  "over_18": false,
+  "upvotes": 72,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hnjk25o": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnjk25o/",
+      "text": "I moved to Zotero a few months ago and haven\u2019t looked back. It\u2019s relatively easy to switch and online forums are pretty helpful if you can\u2019t find something (i.e., I needed to repress the author and it\u2019s not intuitive as you have to click on the in-text citation to check the box to repress the author). \n\nI didn\u2019t have nearly as large of a database and only some of my articles were pertinent to my current research, so I just dragged over what I needed as I have my files saved in One Drive too. It may be a good excuse to purge your own database to see what you really need.",
+      "author": "2Black_Cats",
+      "created": 1638844163,
+      "upvotes": 39,
+      "replies": {
+        "hnjuezm": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnjuezm/",
+          "text": "Right, that is true. I may just doo that one rainy quiet day where nothing else is on, migration or not -  the purging is overdue...",
+          "author": "rightnextto1",
+          "created": 1638848688,
+          "upvotes": 5,
+          "replies": {
+            "hnjuqhv": {
+              "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnjuqhv/",
+              "text": "I honestly feel so much less overwhelmed with only having the stuff I need for my dissertation. I had stuff from my MSc (had a relatively large switch in research topics) and undergrad, along with random class projects throughout the years. It\u2019s nice to not see all the extra stuff.",
+              "author": "2Black_Cats",
+              "created": 1638848833,
+              "upvotes": 7,
+              "replies": {}
+            },
+            "hnktp49": {
+              "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnktp49/",
+              "text": "Managing it is a lot easier in Zotero. Look into zotfile. The documentation isn't great but it really eases the process of managing pdf files. Essentially it renames the pfs to match the citation (based on whatever format you prefer) and moves it from a downloads folder into another folder that you specify. This means you can set it up to automatically place the pdf into a cloud storage platform.",
+              "author": "AntDogFan",
+              "created": 1638872647,
+              "upvotes": 3,
+              "replies": {
+                "hnlabao": {
+                  "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnlabao/",
+                  "text": "Mendeley did that natively in the desktop app, beautifully. It\u2019s only their new one that sucks.",
+                  "author": "guttata",
+                  "created": 1638883876,
+                  "upvotes": 6,
+                  "replies": {
+                    "hnlalw5": {
+                      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnlalw5/",
+                      "text": "I haven't used it in a long time. I used to work in library support and used it for a while then but found it a bit cumbersome. I am sure it has improved. I avoid it now and recommend against it because its owned by Elsevier.",
+                      "author": "AntDogFan",
+                      "created": 1638884033,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "hnkhune": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnkhune/",
+          "text": "Yeah, I really need to get rid of loads of papers from my PhD zotero folder once my last paper is accepted. But even then, I still seem to have room and definitely haven\u2019t looked back either. It\u2019s been virtually seamless (although did have to change reference field codes on a couple of word docs in the transition).",
+          "author": "staringspace",
+          "created": 1638862598,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hnjk3kr": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnjk3kr/",
+      "text": "You can probably export the libraries from Mendeley and then import them into Zotero. Zotero accepts a lot of import formats. Or if you have PDFs of the papers, you can just drag and drop them into Zotero.",
+      "author": "myristicae",
+      "created": 1638844180,
+      "upvotes": 12,
+      "replies": {
+        "hnjugu0": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnjugu0/",
+          "text": "Ok thanks- sounds straightforward then",
+          "author": "rightnextto1",
+          "created": 1638848712,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hnkiesa": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnkiesa/",
+      "text": "I have considered the same thing but have resisted because I don't think the on-page markups can get exported out of Mendeley. I have made so many notes and comments on PDFs in the Mendeley interface and they don't actually get save to the PDFs themselves. In Zotero you can mark up directly on the PDFs and it gets saved to the native file, but that means I would lose 5+ years of markups I have already done. I think when I finish my PhD I will be less worried about losing those annotations, will do a bulk migration and start over with new markups on new docs in Zotero.",
+      "author": "ohsideSHOWbob",
+      "created": 1638863053,
+      "upvotes": 7,
+      "replies": {
+        "hnl4hd8": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnl4hd8/",
+          "text": "I have the exact same issue! And the longer I stay with mendeley, the worse the prospect of leaving becomes...",
+          "author": "cellardoorling",
+          "created": 1638880606,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "hnkojaz": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnkojaz/",
+          "text": "I\u2019m pretty sure there\u2019s an option for exporting files from mendeley with the annotations on.",
+          "author": "Confusion-Neat",
+          "created": 1638868143,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hnjp80g": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnjp80g/",
+      "text": "Zotero has a pretty decent online help community, and I\u2019m sure someone has maybe done that migration before? I don\u2019t know if you need an account to access it, but it\u2019s free anyway and you\u2019re thinking about switching.",
+      "author": "--ikindahatereddit--",
+      "created": 1638846408,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnkj4ye": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnkj4ye/",
+      "text": "https://www.zotero.org/support/kb/mendeley_import",
+      "author": "GrumpySimon",
+      "created": 1638863636,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hnk6s12": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnk6s12/",
+      "text": "I migrated from Papers to Zotero (about 2K pdf files) and have been using it for a couple of years. Stable and useful. Not quite as slick as papers was, but that was grinding like hell and the word processor integration is better with zotero. Recommended.",
+      "author": "ccots",
+      "created": 1638855041,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnkzs7c": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnkzs7c/",
+      "text": "Another good reason to switch: Mendeley's acquisition by Elsevier makes it part of the emerging \"surveillance publishing\" business model see: https://osf.io/preprints/socarxiv/j6ung/download",
+      "author": "l_lecrup",
+      "created": 1638877484,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnlsonl": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnlsonl/",
+      "text": "I just saw this post, and it made me think of deleting Mendeley. I am now using Zotero and will be using it in the future for our annotated bibliography for our thesis. I'll just put a heads-up once we are making annotated bibliography. I might recommend it to my thesis groupmates. We'll see.",
+      "author": "RichieOfTheSultanate",
+      "created": 1638892329,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnjka17": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnjka17/",
+      "text": "I started with mendeley, but wanted to try zotero as it was open source. My experience wasn\u2019t positive and I had difficulty integrating it with word. I eventually moved back to mendeley.",
+      "author": "FunctionalSpinalUnit",
+      "created": 1638844259,
+      "upvotes": 5,
+      "replies": {
+        "hnl9g8w": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnl9g8w/",
+          "text": "Never had a problem with Zotero and Word, nor Zotero and Google Docs, both very smooth.",
+          "author": "Bill_Nihilist",
+          "created": 1638883417,
+          "upvotes": 2,
+          "replies": {
+            "hnlhjnv": {
+              "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnlhjnv/",
+              "text": "My main gripe among many was that zotero did not properly generate a bibliography - when there were multiple journal articles by the same author, zotero treated them as different authors. Eventually I had to fix most of it manually and decided to migrate back to mendeley. I don\u2019t experience the problems op does with mendeley.",
+              "author": "FunctionalSpinalUnit",
+              "created": 1638887442,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hnju0uo": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnju0uo/",
+      "text": "Have you considered: Migrate from MS Word to LaTeX? :)",
+      "author": "jessexknight",
+      "created": 1638848521,
+      "upvotes": 2,
+      "replies": {
+        "hnjuncl": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnjuncl/",
+          "text": "No, until you used the word I had never come across LaTeX before. We use msWord in my office and also use Mendeley. I think I could probably get away with using a different reference manager but probably not a different text processor. Cheers.",
+          "author": "rightnextto1",
+          "created": 1638848794,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "hnjwjtz": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnjwjtz/",
+          "text": "LaTeX is a bloated dinosaur",
+          "author": "carlgorn",
+          "created": 1638849673,
+          "upvotes": 6,
+          "replies": {
+            "hnksl1g": {
+              "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnksl1g/",
+              "text": "I used Overleaf for writing my thesis with no prior exposure to LaTeX. There is a steep learning curve but it was worth it.\n\nBut without Overleaf I wouldn't have been able to use LaTeX.",
+              "author": "IrahX",
+              "created": 1638871685,
+              "upvotes": 4,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hnldfxq": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnldfxq/",
+      "text": "I don't know about the extension problem that you have but that's not why I moved to Zotero. I moved to Zotero because it frees up my annotations --- they are not locked within the software but on PDFs. If you do research, you know that you may have a lot of annotations. It was a pain to copy each one to a place I need it. \n\nI think that (and the multitude of extensions that Zotero offers) is why its worth moving. For your problem, I think there is an issue with word. I never had this issue when I was using Mendeley. \n\n&#x200B;\n\nI would just like to add that it is worth moving away from a MS word workflow altogether. Consider looking at Markdown editor or Overleaf.",
+      "author": "Practical-Smell-7679",
+      "created": 1638885468,
+      "upvotes": 1,
+      "replies": {
+        "hnlf58m": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnlf58m/",
+          "text": "Is something going on with word? Why move away from it?",
+          "author": "WinterSparklers",
+          "created": 1638886310,
+          "upvotes": 1,
+          "replies": {
+            "hnlh66p": {
+              "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnlh66p/",
+              "text": "I think OP has something going on with word. Word is frustrating to use, edit and format when you have a massive amount of pages (typically for writing a manuscript to publish in a journal).",
+              "author": "Practical-Smell-7679",
+              "created": 1638887269,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hnr2hki": {
+      "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnr2hki/",
+      "text": "Hi,\n\nI am a librarian at Syracuse University. I am curious, is the word plug-in issue with the latest version of Mendeley? I am working with Elsevier reps who own Mendeley and their engineers.  \nWe are having an issue where our IT does not allow the plug-in because it is not certified by Microsoft AppStore. This issue with the plug-in failing is new to me. My faculty/student have not reported any issues.  \nI am hoping to get more information to Elsevier that I can report.   \nAt this point, I will probably recommend new users to Zotero. It is becoming the reference management tool of choice.",
+      "author": "Senior_Divide1123",
+      "created": 1638989845,
+      "upvotes": 1,
+      "replies": {
+        "hnsknz5": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hnsknz5/",
+          "text": "Hi and thanks for this comment. I have had this plug-in issue for the last 2-3 years using of course Mendeley desktop version with Word 2016. It works but every so often (once per week) the plugin disappears in word. I then have to uninstall and reinstall it from Mendeley. This is quite inconvenient as it requires shutting down word. I am a researcher full time, so I have to keep various documents open every day and it is really a hassle then to reopen documents. I wish Mendeley would talk to MS Word people and fix this.",
+          "author": "rightnextto1",
+          "created": 1639011793,
+          "upvotes": 1,
+          "replies": {}
+        },
+        "hogf809": {
+          "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hogf809/",
+          "text": "The Microsoft store itself has been riddled with comments regarding the broken plugin. Nobody is able tto newly download the app. Those who already have it might have a chance though. Can you tell Elsevier thanks for ruining a perfectly awesome app? And that I hated them before this, but now it's personal.",
+          "author": "curlofheadcurls",
+          "created": 1639446260,
+          "upvotes": 1,
+          "replies": {
+            "hoilput": {
+              "link": "/r/AskAcademia/comments/ranz63/migrate_from_mendeley_to_zotero/hoilput/",
+              "text": "I have quite a few faculty that are annoyed with them as well. What is interesting is that the plug-in is being blocked by Universities that have a strict security policy. It is that same type of security that Elsevier expects them to implement.",
+              "author": "Senior_Divide1123",
+              "created": 1639493631,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

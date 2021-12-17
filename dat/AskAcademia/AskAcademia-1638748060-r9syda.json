@@ -1,0 +1,31 @@
+{
+  "sid": "r9syda",
+  "link": "/r/AskAcademia/comments/r9syda/endnote_x9_question/",
+  "title:": "Endnote X9 question",
+  "text": "Revisiting a manuscript after not using Endnote in some time and each time I insert a citation instead of just appearing as the reference number in-text (for example: (23)), it appears in curly brackets with the author and year ie  {Lau, 2021 #53}) and I cannot for the life of me figure out how to change this or convert the in-text citations to numbers. Please help if you know how to fix this issue!",
+  "author": "kungfupanda27",
+  "created": 1638748060,
+  "updated": 1639515596,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hne5mth": {
+      "link": "/r/AskAcademia/comments/r9syda/endnote_x9_question/hne5mth/",
+      "text": "I'm pretty sure that is happening because you have  the auto sync off. It won't change the final results. Whenever you turn sync on, the in text references will reformat.",
+      "author": "tiebow5",
+      "created": 1638748590,
+      "upvotes": 6,
+      "replies": {
+        "hne9fyz": {
+          "link": "/r/AskAcademia/comments/r9syda/endnote_x9_question/hne9fyz/",
+          "text": "thank-you! It is working now!",
+          "author": "kungfupanda27",
+          "created": 1638750202,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "sid": "r8jc05",
+  "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/",
+  "title:": "How can I, a computer science student, learn more about mathematics without grad school or doing another bachelors?",
+  "text": "I want to delve deeper into math, in particular into statistics, probability, optimization and operation's research, or in other words applied math.\n\nI don't really have the time to go and get another bachelor's, nobody in their right mind is going to allow me to get a master's in math or PhD with CS mathematics.\n\nSo, what could I realistically do in this scenario? I don't want to self-learn, I just can't do it with math, and I want to take whatever I learn in math into real life, particularly into building a business.\n\nI don't know what to do, but I definitely do not want to let go of learning math. It's just something I have to do, and I can't just move on from it.\n\nAlso, not that this is all that relevant, but this would be happening in a Canadian context. I figure that might make things different than the US. ",
+  "author": "Braxis980",
+  "created": 1638598727,
+  "updated": 1639515672,
+  "over_18": false,
+  "upvotes": 15,
+  "upvote_ratio": 0.94,
+  "comments": {
+    "hn61zyl": {
+      "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn61zyl/",
+      "text": "Are you still a student? You can probably just audit any interesting courses at your school.",
+      "author": "CheeseWheels38",
+      "created": 1638599462,
+      "upvotes": 14,
+      "replies": {
+        "hn62auh": {
+          "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn62auh/",
+          "text": "I am, but I'm in a master's program right now. If I just audited, I might not even understand what they're talking about in math grad courses. \n\nI may look into it, but I'm not sure whether my level is enough to get what they may start saying in math grad courses.",
+          "author": "Braxis980",
+          "created": 1638599670,
+          "upvotes": 1,
+          "replies": {
+            "hn62fbf": {
+              "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn62fbf/",
+              "text": "So audit undergrad classes?\n\nWhat's your current math/stats background?",
+              "author": "CheeseWheels38",
+              "created": 1638599754,
+              "upvotes": 20,
+              "replies": {
+                "hn62pd3": {
+                  "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn62pd3/",
+                  "text": ">So audit undergrad classes?\n\nYeah, I guess that's doable. My supervisors can't stop me from doing it anyway. \n\n>What's your current math/stats background?\n\nDiscrete Math, Calculus 1 and 2, Linear Algebra, Probability, Statistics and Operations' Research.\n\nThese are mostly first year courses for math undergrads. For the record, I did proof based math in all those classes, so I know about what that implies, but CS has weak math, too weak.",
+                  "author": "Braxis980",
+                  "created": 1638599947,
+                  "upvotes": 3,
+                  "replies": {
+                    "hn631ar": {
+                      "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn631ar/",
+                      "text": ">I'm not sure if that's allowed. \n\nI can't really see a professor telling you that you're not allowed to sit in on lectures. \n\nYou have a decent background already and you're currently a masters student. So you should also be able to be relatively productive at teaching yourself from a textbook as well. Sometimes people asking these questions have no math whatsoever, which makes it a lot harder.",
+                      "author": "CheeseWheels38",
+                      "created": 1638600179,
+                      "upvotes": 12,
+                      "replies": {
+                        "hn63hfn": {
+                          "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn63hfn/",
+                          "text": "I guess then that this might be a good way to do this. Thanks for the advice, I did not really consider this perspective. \n\nI have the time anyway, so I guess it's doable.",
+                          "author": "Braxis980",
+                          "created": 1638600499,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hn69fac": {
+      "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn69fac/",
+      "text": "Some OCWs or online lectures can be a decent material. Here are some resources that comes to my mind!\n\nConvex optimization (Boyd) is a classic textbook, and there is some (though old) video lectures. Although lectures are from 2008, book is kind enough to self study. Also, there are some lecture note slides available  online - which I always find slides helpful for their visualization. \n\nMIT OCW have some probability/ optimization lectures.  Depending on your background (and your amount of free time) 'Probability and Random variables' can be helpful. \n\nAnd always, auditing some undergrad courses can be a great option! Maybe for some topics, more applied pov might be your taste- in that case, consider auditing courses from stat, OR/IE, etc. In my case I found my school's stat dept having some good courses.",
+      "author": "gratus907",
+      "created": 1638604993,
+      "upvotes": 3,
+      "replies": {
+        "hn7g1wt": {
+          "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn7g1wt/",
+          "text": ">And always, auditing some undergrad courses can be a great option! Maybe for some topics, more applied pov might be your taste- in that case, consider auditing courses from stat, OR/IE, etc. In my case I found my school's stat dept having some good courses.\n\nSeems doable, and was suggested by someone else. I will look into it.",
+          "author": "Braxis980",
+          "created": 1638633692,
+          "upvotes": 1,
+          "replies": {
+            "hn7gnm3": {
+              "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn7gnm3/",
+              "text": "Yep another thing to consider is (and though I wasnt clear about, but I wanted to mention) to find some interesting courses about math, but out of math dept. I have no idea how it is in your school, but in mine, math dept doesn't have much applied math courses or it uses too much pure math to begin with. Maybe in these cases, senior courses (or beginning grad) in OR dept might be more in your taste. In short, search in wider range - consider that other depts than cs and math might also have some interesting courses.",
+              "author": "gratus907",
+              "created": 1638633963,
+              "upvotes": 1,
+              "replies": {
+                "hn7hd3w": {
+                  "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn7hd3w/",
+                  "text": "Economics has interesting math courses like econometrics and other stuff like that.",
+                  "author": "Braxis980",
+                  "created": 1638634281,
+                  "upvotes": 1,
+                  "replies": {
+                    "hn7n969": {
+                      "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn7n969/",
+                      "text": "Sounds cool :)",
+                      "author": "gratus907",
+                      "created": 1638636810,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hn6vg88": {
+      "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn6vg88/",
+      "text": "I like Schaum's outlines. Doing a lot of problems is a great way to get basic knowledge.",
+      "author": "Riko_7456",
+      "created": 1638622921,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hn6pjfr": {
+      "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn6pjfr/",
+      "text": "Maybe it's different in Canada, but in the US math and CS are so intricately related that a lot of CS programs are organized under the Math Departments. So I'd honestly expect the CS majors to be the most knowledgeable about math and statistics after only the Math majors themselves.\n\nBeyond that; you could also consider going for a CS graduate degree and using that as an opportunity to go deeper into mathematics.",
+      "author": "r3dl3g",
+      "created": 1638618671,
+      "upvotes": 4,
+      "replies": {
+        "hn7f1sr": {
+          "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn7f1sr/",
+          "text": ">Maybe it's different in Canada, but in the US math and CS are so intricately related that a lot of CS programs are organized under the Math Departments. So I'd honestly expect the CS majors to be the most knowledgeable about math and statistics after only the Math majors themselves.\n\nIt's not, all that stuff kind of falls into the same place. \n\n>Beyond that; you could also consider going for a CS graduate degree and using that as an opportunity to go deeper into mathematics.\n\nI did, it's not enough. They don't go too in-depth into optimization, multivariable statistics or operations research. I'm really mostly interested in stochastic processes like queues and markov chains. I like applied math. Pure math? Not so much.",
+          "author": "Braxis980",
+          "created": 1638633235,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hn86vu8": {
+      "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn86vu8/",
+      "text": "Honestly, you might check out great courses.  They have a wide range of materials including math and statistics.  I often use them to update my knowledge, brush up or learn something new. I am sure there are summer courses/institutes that are offered, at least in the states.",
+      "author": "DicaxErsatz",
+      "created": 1638644820,
+      "upvotes": 2,
+      "replies": {
+        "hn8ap0n": {
+          "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn8ap0n/",
+          "text": "Summer seems quite viable for me, I'll be done with my master's courses by then so it'd be great. I've also got a lighter next semester. I'm going to take an intro mathematics of economics. It's what interests me the most. \n\nIt deals with the stuff I need anyway, so I might as well do it. The other things I'd like to take are more courses in statistics and probability, stochastic processes and something optimization related. I'll be checking if those things are available in the ECON department at my uni.",
+          "author": "Braxis980",
+          "created": 1638646411,
+          "upvotes": 2,
+          "replies": {
+            "hnb6ne8": {
+              "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hnb6ne8/",
+              "text": "One of the major outcomes of grad school is the ability to teach yourself new subjects at an advanced level.  Auditing courses is a nice easy start, but you should be able to just pick up some textbooks (to start) or papers (as you get more advanced), find course syllabi and resources online, and get cracking on doing problems.  You don't need to wait for someone to teach you.",
+              "author": "polyphonal",
+              "created": 1638700357,
+              "upvotes": 1,
+              "replies": {
+                "hnbn1z8": {
+                  "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hnbn1z8/",
+                  "text": "One of my supervisors has said this as well. Well, you know I've already kind of done that before. I think that is part of why they accepted me. Most things I know, I learned by myself.\n\nI got a question though, say I wanted to get a second master's degree, in economics, perhaps. Do you think there is any value in that? I want it in the distant future, not necessarily because it will get me anything other than knowledge. I mean, it could potentially shift my career to certain sectors I would like to be involved in, but after my master's I want to go on a wild goose chase to try to start my own business.\n\nSuch goals may be incompatible.",
+                  "author": "Braxis980",
+                  "created": 1638712335,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hn8ujvh": {
+      "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn8ujvh/",
+      "text": "Machine learning post grad course?",
+      "author": "7ug0",
+      "created": 1638654976,
+      "upvotes": 2,
+      "replies": {
+        "hn8vjxq": {
+          "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn8vjxq/",
+          "text": "I guess, though I already kind of take all that stuff.",
+          "author": "Braxis980",
+          "created": 1638655410,
+          "upvotes": 1,
+          "replies": {
+            "hn8w58q": {
+              "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn8w58q/",
+              "text": "A phd in machine learning could allow you to delve pretty deep into every topic you mentioned. Maybe networks too",
+              "author": "7ug0",
+              "created": 1638655662,
+              "upvotes": 1,
+              "replies": {
+                "hn8xcw0": {
+                  "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn8xcw0/",
+                  "text": "I don't know if I want a PhD. I have aspirations to build my own business, and 4 more years of academia does not sound ideal to me. I don't want to close the doors, but I think the only way I'd get a PhD is if I do it in RL in a top university like Waterloo, McGill, UofT or UBC.\n\nI'm not quite sure if I want to put the money or time into that. So far I've not been a fan of research.",
+                  "author": "Braxis980",
+                  "created": 1638656180,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hn7lu8k": {
+      "link": "/r/AskAcademia/comments/r8jc05/how_can_i_a_computer_science_student_learn_more/hn7lu8k/",
+      "text": "Even though their 15 minutes of fame is over I\u2019m sure you can find an old MOOC out there especially for something like math.",
+      "author": "Bostonterrierpug",
+      "created": 1638636217,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

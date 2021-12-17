@@ -1,0 +1,161 @@
+{
+  "sid": "r7u1l0",
+  "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/",
+  "title:": "Am I doing really badly?",
+  "text": "I started my PhD remotely in Aug 2020 immediately after undergrad, working on a computational project. I did a bunch of exploratory analyses, but none of my results were definitive or solid enough to publish. I didn't even have anything to submit to a super low-stakes conference in my field at the end of my first semester (for reference, I managed to in undergrad for my final year project).\n\nI told myself that that was fine and that I'd learned a lot along the way, and that the next semester would be better. It wasn't. I was busy with coursework and TA duties and my research progress suffered. My projects never turned out the way I hoped and I hit several dead ends. Nonetheless, I'd completed the bulk of my required coursework and learnt several useful skills: programming in Python, using a Linux environment, using git, etc, so I wasn't too upset.\n\nAfter my first year, I finally moved to the university to attend in person. I had a lot of adjustment to do: having to juggle some finances, getting some administrative stuff done after moving to the country, and figuring out how to cook and live. And my progress has unfortunately been pretty much the same: after my third semester, I still have no results to publish.\n\nI had to get an extension for the submission of my first project (a course requirement, due at the end of my third semester).\n\nFor comparison, a fellow PhD student who joined with me submitted to the conference after her first semester, and another student who joined after me submitted in two semesters. They both have more experience than me, having joined the program after completing a Master's and working in related technical roles at companies, so it might be reasonable to assume that they'd do better than me.\n\nAnd yet, I still feel like I'm falling well behind what's expected of me. I'm an international student and I'm worried that I was just accepted for diversity criteria and that I'm not actually cut out for this. My advisor is incredibly kind and friendly and he's always said that this kind of computational work is hard to do and that it's common to fail often, but I think I'm still falling short of his expectations, and I'm afraid he's just too nice to tell me that. As someone who's generally been an overachiever, it sucks to suck.\n\nI'm trying quite hard to stay motivated but I'm afraid I'm just going to spiral and do worse. I spend so much time working on my projects (debugging my crappy code, refactoring it, etc.) that I can hardly keep up with the literature. I think I have some decent ideas but they never come to fruition. I'm stressed and I'm not sure if things will start looking up.\n\nMy friend suggested that I write off my first year as a COVID fluke (remote, new to program, heavy courseload) but I'm still quite upset at my lack of progress.\n\nIs this normal? What should I do? Any advice (or shared commiseration) would be much appreciated. :)",
+  "author": "ImperialAuditor",
+  "created": 1638518569,
+  "updated": 1639519004,
+  "over_18": false,
+  "upvotes": 51,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "hn1m5g3": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn1m5g3/",
+      "text": "I\u2019m halfway through my third year and just presented at my first conference this week and have my first paper under review. This is typical, especially considering COVID. You\u2019re all good!",
+      "author": "Funkybeatzzz",
+      "created": 1638518722,
+      "upvotes": 46,
+      "replies": {
+        "hn1wnck": {
+          "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn1wnck/",
+          "text": "I\u2019m in third year and am yet to write a paper or even submit to a conference (the only one has been cancelled again). And I graduate at the end of next year. \n\nBut then it\u2019s normal for some fields to not publish at all before graduation, and computation especially can take a bit longer, so there\u2019s no point being worried",
+          "author": "officially_anxious",
+          "created": 1638527483,
+          "upvotes": 11,
+          "replies": {}
+        },
+        "hn1midy": {
+          "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn1midy/",
+          "text": "Ahh thank you! It really helps to hear from someone else that it's normal. I'm planning to talk to senior students in the program about this soon, but just felt super anxious so I (obviously) posted it on Reddiy.",
+          "author": "ImperialAuditor",
+          "created": 1638519008,
+          "upvotes": 3,
+          "replies": {
+            "hn1n0w8": {
+              "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn1n0w8/",
+              "text": "Most grad students in my program don\u2019t get first author publications until their second or third year. The only place I\u2019ve heard where they expect it sooner is in China. Many of my Chinese grad student friends say how bad it is for students there.",
+              "author": "Funkybeatzzz",
+              "created": 1638519423,
+              "upvotes": 2,
+              "replies": {
+                "hn1narb": {
+                  "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn1narb/",
+                  "text": "Ah, I see! It is my second year and I hope I can publish something by the end at least. When I mentioned submitting to the conference, these are just abstracts, not full papers, so any interesting results can be shared.\n\nI'm in the US though. Just that everyone around me is so competent it's hard to fight impostor syndrome.",
+                  "author": "ImperialAuditor",
+                  "created": 1638519645,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hn2p4ee": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn2p4ee/",
+      "text": ">They both have more experience than me, having joined the program after completing a Master's and working in related technical roles at companies, so it might be reasonable to assume that they'd do better than me.\n\nOf course. Even without the technical work experience, someone with a masters is essentially 2 years ahead of someone who starts a PhD directly out of undergrad. So you can't compare yourself to them.",
+      "author": "raistlin65",
+      "created": 1638544228,
+      "upvotes": 15,
+      "replies": {}
+    },
+    "hn2wylw": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn2wylw/",
+      "text": "Just remember- experiments failing/not working out or not returning expected results is all part of the scientific process too and can still result in valuable knowledge gained.",
+      "author": "Contagin85",
+      "created": 1638547459,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hn2wyf4": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn2wyf4/",
+      "text": "Context: I'm not a ph.d, I just lurk here. In the proces of applying to grad school now\n\nI would write your year off due to covid. Also, the fact that it's your first year in a ph.d program/ grad program, I would write it off for both these reasons. You sound like you had major adjustments to make in general AND then corona made it worse. Don't be envious of your peers, they had a master's degree and are already in the \"grad school\" mindset. I'm sure they are envious of you who went directly to a ph.d SO DONT WORRY!\n\nFor me, I write my covid year off because I had no job. Got laid off and then ofc, no one was hiring for a solid year. \n\nFor my cousin who is in high school. His freshman year, he was close to a straight A student in a decently tough program. His sophomore year, he was basically straight D-F  and didn't get his homework done. Now, that he's back in school for his junior year, he's back to being an half A/half B student. \n\nAll in all, coronavirus was such an anomalous time that you should forgive yourself for not being as successful as you might have wanted. A lot of it wasn't due to our personal efforts but due to circumstances outside of our control",
+      "author": "slyfox1001",
+      "created": 1638547457,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hn3d2n3": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn3d2n3/",
+      "text": "Man, this feels like the post was written by me. I'm in the same boat my friend. And looking at the comment, I'd like to believe that we'll be just fine. :)",
+      "author": "rrrishabhhh",
+      "created": 1638553781,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hn2p8rs": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn2p8rs/",
+      "text": "it sounds like you're doing a great job. It's good that you have a supportive advisor as well. People come from different backgrounds so making comparisons are just pointless. If you have these thoughts often, I would recommend going to counseling if there are services available at your school. It has definitely helped me with similar thoughts during grad school!",
+      "author": "ok-kitty",
+      "created": 1638544279,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hn2vqfq": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn2vqfq/",
+      "text": "Your problem is time management. You need to adjust your priorities.  I see this a lot in new PhD students.  First, classes don't matter. Take the easiest classes you can find and do whatever you need to do to get a B and that's all.  Don't take extra classes. Same for your TA work. For a research degree at a research university, the only thing that matters is research.  At least 80% of your time and focus should be spent on research.  If it's not research, it's a waste of time.\n\nWhen you graduate, no one is going to look at your TA reviews or your GPA.  Employers are only going to look at your publication list.  I don't know what field you're in, but if you're in CS and you plan to be competitive in the academic job market, you need to get at least 1-2 papers out a year during your Ph.D. program.  If you're planning on working for a company, it matters less, unless you're looking for a research position, in which case the same thing applies.",
+      "author": "ProudPlatypus433",
+      "created": 1638546961,
+      "upvotes": -6,
+      "replies": {}
+    },
+    "hn1qqx6": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn1qqx6/",
+      "text": "Hey there! There are so many factors that can affect your progress. I  would say that what you are experiencing is totally normal to happen, pal. Head's up! Your PI seems to be very nice, according to your words. Looks like you are having a challenging project, it might take some time. It is even possible that you will see nothing till the very end. But in general, these projects will be published in high impact journals. Meanwhile, If it is bothering you, y talk to your PI and ask whether you can change the direction for the project, or can join side projects/collaborations with other students from your lab or other labs for faster publications. Good luck!",
+      "author": "cozy-scholar",
+      "created": 1638522479,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn3dhgl": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn3dhgl/",
+      "text": "Buddy you'll be alright. Third year PhD in Biology here, and let me tell you, we all have these feelings to a certain extent. Folks work and develop at different rates. The best thing you can do is listen to your advisor and express these feelings if you can. We in academia all feel imposter syndrome to some extent, and it really sucks. I hope your anxiety can subside a bit and you feel better soon. \n\nAlso, COVID slowed down several aspects of my research. It is a completely valid reason to have some slowdown. The mental strain of the last two years is extremely tough. Keep your head up friend.",
+      "author": "KeepItScruffy",
+      "created": 1638553940,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn3uajh": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn3uajh/",
+      "text": "Man, I understand that feeling. Covid has affected a lot of things in my research, from access to instrumentation, collaborations, and even funding. About halfway or so into my 4th year and just now getting around to being able to publish my first first author publication. This project has been rough, and hoping that the fact that I am submitting it to Science makes up for the fact I haven't published up until now. But that is something I really worry about, which contributes quite a bit to my imposter syndrome and question whether I'll be able to get a decent job when I graduate. I do have about 5 other coauthorships which could help and 1 1/2 years left here, maybe I can push one more first author out before applying to jobs. \n\nBut all in all, I feel like many of us can relate to this, and I wish you all the best.",
+      "author": "Sir_Chilliam",
+      "created": 1638560683,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn3v248": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn3v248/",
+      "text": "Yes, it\u2019s very normal. My first grad school pub came out just before my fourth year. I thought I was so far behind. Turns out, everyone in my cohort thought they were behind at some point because they were \u201cthe last\u201d to reach XYZ goal. Refuse to judge your progress against other people who who have different backgrounds, data, projects, goals, work styles, and (very importantly) advisors. Are you learning? Are you making steps toward your next milestone? That\u2019s what matters at your stage. Things tend to snowball over time and all of a sudden you have a pub, an R&R, and two manuscripts under review (I\u2019m in my 5th year and still aiming for this, hopefully by January!). Your achievements are already happening and more will come in time.",
+      "author": "lepa",
+      "created": 1638560994,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn4m01y": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn4m01y/",
+      "text": "I think I wrote this in my sleep .. you describe me exactly, word by word. The part where the advisor is too nice to tell you or being an overachiever or having some decent ideas that never come to fruition or moving internationally or even doing exploratory analyses lol. And there's always stuff related to your family back home.\n\nI don't have a solution to your problem but all I can say is you are not alone. And if you know there is at least one more person dealing with a similar problem, I usually can extend it and think it must be something other people are facing and I am not the crazy one. I also think it helps to talk to your advisor: have an informal chat over coffee and they love to understand and know you more. And I think that's the ultimate way to get some relief because MS or PhD positions revolve around expectations of your advisors a lot.\n\nBut, tbh, at this point, I feel like it's time to join a support group. Procrastination, or anxiety or depression whatever I call it has started to feel like an addiction.",
+      "author": "joni1104",
+      "created": 1638572905,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn54xck": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn54xck/",
+      "text": "Just wanted to address a few points here:\n> I didn't even have anything to submit to a super low-stakes conference in my field at the end of my first semester (for reference, I managed to in undergrad for my final year project).\n\nIn my experience, research postgrad students usually don\u2019t have much to show in the first semester because they\u2019re focused on transitioning into the program and getting their core courses out of the way. Not only is it normal for you to not have anything to submit at the beginning of your program, you\u2019re actually \u201cahead\u201d of many people in terms of participating in any conference, since you managed to present as an undergrad (not unheard of but very rare - give yourself some credit OP!)\n\nAlso, I\u2019m not sure if it\u2019s the same in your field, but in mine, conferences are a place for you to receive feedback, not just a place for you to share publishable results. If possible, you could figure out a way to share your current progress at a conference and see if anyone in your field might have insights as to what your problems could be caused by.\n\n> For comparison, a fellow PhD student who joined with me submitted to the conference after her first semester, and another student who joined after me submitted in two semesters. They both have more experience than me, *having joined the program after completing a Master's and working in related technical roles at companies*, so it might be reasonable to assume that they'd do better than me.\n\nYou\u2019re making a completely unfair comparison here. As you\u2019ve already pointed out, your colleagues have several additional years of experience compared to you. This doesn\u2019t necessarily mean they might be more efficient at research than you are, although they could be. It could also mean they had more time than you to work on their project, since the results they shared could be relevant to or a continuation of their past research. I will have 2 published first-author papers by the end on my first term at my PhD program, but it\u2019s not because I finished everything in the first 3 months I\u2019ve been at my program; rather, the papers were from 2 studies I started as an MPhil student. There are many reasons why your colleagues have results to show and you don\u2019t, none of which have to do with you being \u201cincompetent\u201d.\n\n> And yet, I still feel like I'm falling well behind what's expected of me. I'm an international student and I'm worried that I was just accepted for diversity criteria and that I'm not actually cut out for this. My advisor is incredibly kind and friendly and he's always said that this kind of computational work is hard to do and that it's common to fail often, but I think I'm still falling short of his expectations, and I'm afraid he's just too nice to tell me that. As someone who's *generally been an overachiever*, it sucks to suck.\n\nThere\u2019s your real problem - you\u2019re experiencing impostor syndrome caused by your own expectations to consistently overachieve. I see where you\u2019re coming from - I had very similar struggles that made it incredibly difficult for me to be productive for months on end during my MPhil program, and I\u2019ve broken down crying over it before - but you\u2019re reading way too much into your advisor\u2019s comments and drawing conclusions that aren\u2019t even there. If your advisor\u2019s saying it\u2019s common to fail, that\u2019s all there is to his comment. It has nothing to do with selecting you out of pity or to fill a quota. If anything, everything else you\u2019ve described about your background so far - your early involvement in a conference as an undergrad student, your efficient completion of your coursework requirements, your ability to immediately start on your research project, and your ability to juggle research with other responsibilities all suggest to me that you have what it takes to be a great researcher.\n\n> I'm trying quite hard to stay motivated but I'm afraid I'm just going to spiral and do worse. I spend so much time working on my projects (debugging my crappy code, refactoring it, etc.) that I can hardly keep up with the literature. I think I have some decent ideas but they never come to fruition. I'm stressed and I'm not sure if things will start looking up.\n\nIf your debugging isn\u2019t going anywhere, it might be helpful to switch gears and read literature - you might find what you need to get over this troubleshooting period. It\u2019s also necessary to get into the habit of reading literature - try to set aside time to read at least one paper a day (on average, and don\u2019t feel bad if you miss out on one or two days).\n\nHave you talked to your advisor, a uni counsellor, etc. about this problem? Your advisor could probably give you more concrete advice on how to overcome the research obstacles you\u2019re facing, whereas a counsellor could help you through your impostor syndrome and feelings of being \u201cbehind\u201d. Lastly, you could acknowledge the one good thing about impostor syndrome - that it\u2019s a sign you want to do better. I know this is easier said and done, but you could convert the energy you\u2019re using to worry about not doing better into working on concrete ways to make progress.\n\nMost importantly, take care of yourself, OP. You\u2019ve got this.",
+      "author": "vlyblvr",
+      "created": 1638581895,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn5eczz": {
+      "link": "/r/GradSchool/comments/r7u1l0/am_i_doing_really_badly/hn5eczz/",
+      "text": "I'm in humanities so it's a little different with regard the pace of the work, but we weren't expected to even apply for a conference paper until 2nd year and most people don't have that many publications even at the end.\n\nOne of my profs once said to me that as long as you're keeping afloat and abreast of your project, you're probably ok",
+      "author": "coyotesandcrickets",
+      "created": 1638586514,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

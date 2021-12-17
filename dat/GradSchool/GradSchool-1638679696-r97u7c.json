@@ -1,0 +1,40 @@
+{
+  "sid": "r97u7c",
+  "link": "/r/GradSchool/comments/r97u7c/are_there_a_lot_of_projects_in_machine_learning/",
+  "title:": "Are there a lot of projects in Machine Learning which do not allow international students to participate? I've heard projects that are funded by NSF/industry are usually fine but DoD or DoE related projects tend to require a security clearance.",
+  "text": " \n\nI've heard more than 70% of the projects in ML/CV/NLP are funded by NSF/industry and less than 30% of them are DoD or DoE related and thus international students can participate in most of the ML-related projects. Is this true? It seems international students can participate in NSF-funded projects but usually not in DoD or DoE funded projects.\n\n[https://www.nsf.gov/pubs/gpg/faqs.pdf](https://www.nsf.gov/pubs/gpg/faqs.pdf)\n\nIf an individual is not a U.S. citizen, can the individual apply for a grant? Can a permanent resident serve as a Principal Investigator at a U.S. institution?\n\nExcept for NSF fellowships, which by statute can be made only to citizens, nationals, or lawfully admitted permanent resident aliens of the United States, there generally are no nationality restrictions in any NSF program. A proposing institution in the US may designate as Principal Investigator anyone it believes to be capable of fulfilling the role.",
+  "author": "Correct_Train_5297",
+  "created": 1638679696,
+  "updated": 1639518983,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hnbo72g": {
+      "link": "/r/GradSchool/comments/r97u7c/are_there_a_lot_of_projects_in_machine_learning/hnbo72g/",
+      "text": "Yes this is generally true from what I have seen. Although a good amount of DoE projects are open to international students as well, it's mostly DoD that is closed off",
+      "author": "EuphoricBarracuda",
+      "created": 1638712968,
+      "upvotes": 2,
+      "replies": {
+        "hnc7a6r": {
+          "link": "/r/GradSchool/comments/r97u7c/are_there_a_lot_of_projects_in_machine_learning/hnc7a6r/",
+          "text": "Thank you for the reply! I am sorry to bother you but just to clarify, so international students without green card can still participate in more than 70% of the ML projects, right(although the exact number can vary from lab to lab)?",
+          "author": "Correct_Train_5297",
+          "created": 1638721837,
+          "upvotes": 1,
+          "replies": {
+            "hnc9t71": {
+              "link": "/r/GradSchool/comments/r97u7c/are_there_a_lot_of_projects_in_machine_learning/hnc9t71/",
+              "text": "I'm just a grad student so I don't know everything.\n\nBut what I can say is this: at my large engineering PhD program, roughly 70% of the PhD students are international students and the international student population is funded at roughly the same rate as the US student population. Specifically, 75-85% of admitted PhD students receive full funding in both the international student and US student population.",
+              "author": "EuphoricBarracuda",
+              "created": 1638722902,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
+}

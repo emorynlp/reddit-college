@@ -1,0 +1,64 @@
+{
+  "sid": "r98zyh",
+  "link": "/r/Emory/comments/r98zyh/cant_connect_to_wifi/",
+  "title:": "Can't connect to wifi",
+  "text": "I haven't been able to connect to the Emory wifi for the past few days, and I have no idea why. I disconnected and then reconnected from the Emoryunplugged wifi multiple times, but that didn't work, and I even changed my password. Is anyone else having this problem?",
+  "author": "ischlept",
+  "created": 1638683825,
+  "updated": 1639518386,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hnanqfq": {
+      "link": "/r/Emory/comments/r98zyh/cant_connect_to_wifi/hnanqfq/",
+      "text": "Was this on your phone?",
+      "author": "iapetus3141",
+      "created": 1638685812,
+      "upvotes": 3,
+      "replies": {
+        "hnfmvvh": {
+          "link": "/r/Emory/comments/r98zyh/cant_connect_to_wifi/hnfmvvh/",
+          "text": "Yeah on my phone",
+          "author": "ischlept",
+          "created": 1638775529,
+          "upvotes": 1,
+          "replies": {
+            "hngeba5": {
+              "link": "/r/Emory/comments/r98zyh/cant_connect_to_wifi/hngeba5/",
+              "text": "There are 2 possible issues. One is that the network might be detecting your phone as a laptop, for which you will have to go to tech support. The other one is that perhaps there's something wrong about your phone, for which you can reset Wi-Fi",
+              "author": "iapetus3141",
+              "created": 1638796655,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hncai09": {
+      "link": "/r/Emory/comments/r98zyh/cant_connect_to_wifi/hncai09/",
+      "text": "IT fixed it for me before, you can go ask them",
+      "author": "No-Puedo-Hacerlo",
+      "created": 1638723184,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnd08ts": {
+      "link": "/r/Emory/comments/r98zyh/cant_connect_to_wifi/hnd08ts/",
+      "text": "Go to student tech services on the first floor of the library for help or contact the IT department",
+      "author": "sthedragon",
+      "created": 1638732879,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnblvbi": {
+      "link": "/r/Emory/comments/r98zyh/cant_connect_to_wifi/hnblvbi/",
+      "text": "I haven\u2019t had any issues this week. Sometimes my phone decides it\u2019s not going to try reconnecting to EmoryUnplugged when I move between buildings, but my laptop never has trouble.",
+      "author": "mh996",
+      "created": 1638711650,
+      "upvotes": 2,
+      "replies": {}
+    }
+  }
+}

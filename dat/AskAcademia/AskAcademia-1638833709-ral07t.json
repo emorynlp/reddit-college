@@ -1,0 +1,99 @@
+{
+  "sid": "ral07t",
+  "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/",
+  "title:": "Is my dissertation qualitative or quantative?",
+  "text": "Doing my MA proposal at the moment, I plan to study whether there has been a link between terrorist attacks and support for right wing parties within a singular country (France) over a period from the 80s to present day\n\n&#x200B;\n\nEDIT: by analysing the occurence of terrorist attacks within the country, alongside electoral support for right wing parties which have been recorded by pollsters throughout the years.",
+  "author": "SMan1723",
+  "created": 1638833709,
+  "updated": 1639515582,
+  "over_18": false,
+  "upvotes": 0,
+  "upvote_ratio": 0.43,
+  "comments": {
+    "hniy6w0": {
+      "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/hniy6w0/",
+      "text": "Qualitative and quantitative are classes of methods. What method do you plan to use?",
+      "author": "dcgrey",
+      "created": 1638834506,
+      "upvotes": 20,
+      "replies": {
+        "hnj0beo": {
+          "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/hnj0beo/",
+          "text": "I know they are different methods, however in this case I thought maybe only one method is applicable. Very confused atm. In other words, based on what I have been described, which method is more suitable?",
+          "author": "SMan1723",
+          "created": 1638835444,
+          "upvotes": -6,
+          "replies": {
+            "hnj5yda": {
+              "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/hnj5yda/",
+              "text": "Another way to put it is, if your research question doesn't have a method implied, you should refine your question first, keeping in mind your own interests, skillset, training, resources, and advisor's background.\n\nRemember though to value what you _want_ to do. Do you want to interview past party supporters about their reaction to terrorist events? (Qualitative.) Do you want to run sentiment analysis software on archives of French-language newspapers? (Quantitative.) Do you want to use one attack and a subsequent party manifesto to do a deep reading case study? (Qualitative.) Do you want to conduct a controlled study to measure how support for a right-wing proposal varies based on whether a respondent was asker to read news about a terrorist attack first? (Quantitative.)\n\nAll of those are valid methods. None is better than the other. It depends on how you want to spend your time and what support you'll have. You might decide sentiment analysis is most suitable but have no background in statistics, no faculty who works with it, and no free access to an archival corpus...so you wouldn't use that method.",
+              "author": "dcgrey",
+              "created": 1638838005,
+              "upvotes": 10,
+              "replies": {
+                "hnj8zwg": {
+                  "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/hnj8zwg/",
+                  "text": "Thanks for the response. Basically I was planning to study party/electoral support for right-wing parties which has been recorded by pollsters in percentage terms, after the occurrence of such attacks. This is quantitative, correct?",
+                  "author": "SMan1723",
+                  "created": 1638839379,
+                  "upvotes": 0,
+                  "replies": {
+                    "hnjigz9": {
+                      "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/hnjigz9/",
+                      "text": "Yep, that would be quantitative! It's worth mentioning mixed methods as well. For example maybe you find the polling didn't ask the ideal questions that help you 100% confidently connect the terrorist act with the change in party support; you might then analyze something like editorials in Le Monde to see if their focus or tone shifted after the act to be more in line with right-wing focus or tone.\n\nThat kind of mixed-method approach leads to framing like this (I'm making this paragraph up since I don't know the topic well*): \"Polling showed a slight shift toward right-wing parties following the Tati bombing, but that coincided with a leadership scandal in the centrist coalition. Because the polling didn't ask why respondents changed their preferences, it wasn't possible to use polling to attribute the change solely to the bombing. So I reviewed Le Monde articles and news broadcast transcripts from the same week. Both sources showed the media's focus was entirely on the bombing. The leadership scandal did not result in a front page story and was covered only once in an evening broadcast. It's reasonable therefore to discount the scandal as a meaningful factor in the polling and indeed attribute it to the bombing. Moreover, broadcast word-choice changed from describing Hezbollah often as 'Lebanese nationalists' to exclusively as 'terrorists', the term in use by right-wing parties at the time.\"\n\n*But it got me to look up 80's bombings in France and holy crap there were a lot!",
+                      "author": "dcgrey",
+                      "created": 1638843483,
+                      "upvotes": 8,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hnkttze": {
+      "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/hnkttze/",
+      "text": "\"analyzing the occurrence\" sounds like numbers (no soul) rather than words.",
+      "author": "Independent-Method29",
+      "created": 1638872765,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnj4pkn": {
+      "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/hnj4pkn/",
+      "text": "you could consider mixed-methods, quoting interviews etc and survey data from vote shares in relation to attacks or something. i bet someone has done similar work. try googling some papers",
+      "author": "Anarchy_Lurker",
+      "created": 1638837438,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnj3tpc": {
+      "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/hnj3tpc/",
+      "text": "Quantitative. I\u2019m struggling to see how this could be qualitative, other than asking a bunch of right wing supporters why they support their party. Definitely think quantitative works better.",
+      "author": "DazzlingLink1740",
+      "created": 1638837038,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnix8wa": {
+      "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/hnix8wa/",
+      "text": "Quantitative",
+      "author": "hefty_load_o_shite",
+      "created": 1638834087,
+      "upvotes": -3,
+      "replies": {
+        "hnjrt3l": {
+          "link": "/r/AskAcademia/comments/ral07t/is_my_dissertation_qualitative_or_quantative/hnjrt3l/",
+          "text": "You should probably qualify that /s",
+          "author": "ImMrSneezyAchoo",
+          "created": 1638847537,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

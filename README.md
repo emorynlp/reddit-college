@@ -2,21 +2,21 @@
 
 Subreddits related to college.
 
-* Last update: 2021-12-02
+* Last update: 2021-12-14
 * Contact: [Jinho D. Choi](https://github.com/jdchoi77)
 
 
 ## Statistics
 
-* [ApplyingToCollege](dat/ApplyingToCollege): 13,778
-* [AskAcademia](dat/AskAcademia): 2,428
-* [College](dat/College): 7,489
+* [ApplyingToCollege](dat/ApplyingToCollege): 14,809
+* [AskAcademia](dat/AskAcademia): 2,583
+* [College](dat/College): 8,377
 * [CollegeAdvice](dat/CollegeAdvice): 818 (last update: 2021-10-12)
-* [CollegeMajors](dat/CollegeMajors): 1,237
-* [CollegeRant](dat/CollegeRant): 2,268
-* [Emory](dat/Emory): 1,531
-* [GradSchool](dat/GradSchool): 3,134
-* Total: 32,683
+* [CollegeMajors](dat/CollegeMajors): 1,267
+* [CollegeRant](dat/CollegeRant): 2,442
+* [Emory](dat/Emory): 1,579
+* [GradSchool](dat/GradSchool): 3i,426
+* Total: 34,483
 
 
 ## Format

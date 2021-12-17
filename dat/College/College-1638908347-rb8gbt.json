@@ -1,0 +1,63 @@
+{
+  "sid": "rb8gbt",
+  "link": "/r/college/comments/rb8gbt/canvas_dilemma/",
+  "title:": "Canvas dilemma",
+  "text": "Canvas down for you? Here\u2019s why: \n\nCanvas is hosted by AWS (Amazon Web Services) and since yesterday they have been having API and console issues with their us-east-1 (Virginia headquartered) servers. \n\nTo put it simply, the platforms hosted on AWS that usually route to this region are affected. \n\nWhat else MAY be affected?\n\nAmazon\nAmazon Prime Music\nLeague of Legends\nRing\nDisney+\nAmazon Alexa\nPrime Video\nInstacart\nVenmo\nRobinhood\n\n*Note: The outage are focused in the US-East-1 AWS region, so it\u2019s possible that not everyone is experiencing the issues outlined above.",
+  "author": "Relaxingdude",
+  "created": 1638908347,
+  "updated": 1639517263,
+  "over_18": false,
+  "upvotes": 18,
+  "upvote_ratio": 0.95,
+  "comments": {
+    "hnn4kp2": {
+      "link": "/r/college/comments/rb8gbt/canvas_dilemma/hnn4kp2/",
+      "text": "Wow during finals that sucks",
+      "author": "BlueOcean7987",
+      "created": 1638913007,
+      "upvotes": 6,
+      "replies": {
+        "hnn4spc": {
+          "link": "/r/college/comments/rb8gbt/canvas_dilemma/hnn4spc/",
+          "text": "Ikr",
+          "author": "Relaxingdude",
+          "created": 1638913098,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hnp0c9l": {
+          "link": "/r/college/comments/rb8gbt/canvas_dilemma/hnp0c9l/",
+          "text": "Yeah, like did this really have to happen during finals week? Lol",
+          "author": "ThoughtCenter87",
+          "created": 1638949805,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hnngk5i": {
+      "link": "/r/college/comments/rb8gbt/canvas_dilemma/hnngk5i/",
+      "text": "I\u2019m having issues as well glad it\u2019s not just me",
+      "author": "Loner216",
+      "created": 1638918262,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnnuh4k": {
+      "link": "/r/college/comments/rb8gbt/canvas_dilemma/hnnuh4k/",
+      "text": "California area was down too.",
+      "author": "Defrost_ThenStir",
+      "created": 1638924830,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnp0b06": {
+      "link": "/r/college/comments/rb8gbt/canvas_dilemma/hnp0b06/",
+      "text": "I'm on the west coast in Cali and I definitely experienced some issues with Canvas earlier. Sometimes it would refuse to load or would take a very long time to load before coming back. One of my online buddies at a different college in California experienced similar issues and other students at my college experienced it as well.",
+      "author": "ThoughtCenter87",
+      "created": 1638949777,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

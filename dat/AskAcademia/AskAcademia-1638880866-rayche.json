@@ -1,0 +1,323 @@
+{
+  "sid": "rayche",
+  "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/",
+  "title:": "What is the best scientific article you have ever read purely based on it\u2019s readability, taxonomic levels, structure and overall design?",
+  "text": "I\u2019m looking for some good inspiration on how to structure my own article.",
+  "author": "victornielsendane",
+  "created": 1638880866,
+  "updated": 1639515554,
+  "over_18": false,
+  "upvotes": 186,
+  "upvote_ratio": 0.96,
+  "comments": {
+    "hnltmiy": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnltmiy/",
+      "text": "Miller's 1956 classic on working memory capacity [\"The Magic Number Seven, Plus or Minus Two\"](http://psychclassics.yorku.ca/Miller/) is one of my favorites (although just a heads up, our understanding of working memory has advanced a bit since then).",
+      "author": "tongmengjia",
+      "created": 1638892747,
+      "upvotes": 30,
+      "replies": {
+        "hnluicf": {
+          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnluicf/",
+          "text": "This strong believe of keeping, for instance, options presented to human decision makers around five to seven alternatives still holds through in some branches of operations research. Many still cite Miller's work in this regard. Should this practice be questioned?",
+          "author": "notyoyu",
+          "created": 1638893143,
+          "upvotes": 4,
+          "replies": {
+            "hnlyzbt": {
+              "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnlyzbt/",
+              "text": "I'm not sure how this would impact decision making processes, but no one in cog psych cites Miller's 1956 estimate of 7 +/- 1 anymore (they still cite the article for other conceptual developments, though). More recent research estimates that people can hold approximately 4 +/- 1 chunks of information at a given time (e.g., [Cowan, 2001](https://www.researchgate.net/publication/11830840_The_Magical_Number_4_in_Short-Term_Memory_A_Reconsideration_of_Mental_Storage_Capacity)). Some people reject the entire concept of working memory in favor of \"activated long term memory\" (e.g., [Cowan, 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6650160/)).\n\nI'm not a cognitive psychologist but I get the impression we really don't have a great understanding of cognitive architecture, and the models we have are constantly evolving along with our understanding of cognitive phenomena.",
+              "author": "tongmengjia",
+              "created": 1638895138,
+              "upvotes": 8,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hnmeedx": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnmeedx/",
+      "text": "Hutchinson's [Homage to Santa Rosalia, or Why Are There So Many Kinds of Animals?](https://www.journals.uchicago.edu/doi/10.1086/282070)\n\nIt's like prose.",
+      "author": "the_bio",
+      "created": 1638901889,
+      "upvotes": 16,
+      "replies": {}
+    },
+    "hnl5bc7": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnl5bc7/",
+      "text": "https://www.nature.com/articles/s42256-019-0048-x\n\nThis article promoting interpretable machine learning by Cynthia Rudin is fantastic!",
+      "author": "notyoyu",
+      "created": 1638881104,
+      "upvotes": 69,
+      "replies": {
+        "hnm0lj4": {
+          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnm0lj4/",
+          "text": "That's a very nice paper but it's a Perspective, not a research report.  It's harder to nail both precision and clarity when presenting original research.",
+          "author": "abstrusiosity",
+          "created": 1638895860,
+          "upvotes": 31,
+          "replies": {}
+        },
+        "hnlpr6a": {
+          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnlpr6a/",
+          "text": "Oh my goodness, look at how simple the language is in the abstract alone.",
+          "author": "valryuu",
+          "created": 1638891041,
+          "upvotes": 13,
+          "replies": {
+            "hnlxpa5": {
+              "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnlxpa5/",
+              "text": "The best abstract is by far this one of a paper in theoretical physics, titled: \"Can apparent superluminal neutrino speeds be explained as a quantum weak measurement?\"\n\n[https://iopscience.iop.org/article/10.1088/1751-8113/44/49/492001/pdf](https://iopscience.iop.org/article/10.1088/1751-8113/44/49/492001/pdf)",
+              "author": "Seber",
+              "created": 1638894569,
+              "upvotes": 30,
+              "replies": {}
+            }
+          }
+        },
+        "hnl5zm5": {
+          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnl5zm5/",
+          "text": "I like the small headlines being very clear",
+          "author": "victornielsendane",
+          "created": 1638881495,
+          "upvotes": 12,
+          "replies": {}
+        }
+      }
+    },
+    "hnmw8ol": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnmw8ol/",
+      "text": "[The paper for the Girvan Newman algorithm](https://www.pnas.org/content/99/12/7821), which for a time was the state-of-the-art algorithm for finding clusters in networks (for example, close groups of friends on Facebook).",
+      "author": "diagana1",
+      "created": 1638909570,
+      "upvotes": 8,
+      "replies": {}
+    },
+    "hnmpsve": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnmpsve/",
+      "text": "I think for rigour and pure intellectual stimulation you can't go past the teaspoon study.\n\nhttps://www.bmj.com/content/331/7531/1498",
+      "author": "imbeingrepressed",
+      "created": 1638906817,
+      "upvotes": 14,
+      "replies": {
+        "hnnzb42": {
+          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnnzb42/",
+          "text": "This is a beautiful study, and as an inveterate absent-minded teaspoon thief, I feel both delighted and chastened (I need a study explaining what happens to my table knives, though. Perhaps the universe is trying to balance out my spoon theft?).",
+          "author": "threecuttlefish",
+          "created": 1638927255,
+          "upvotes": 3,
+          "replies": {}
+        },
+        "hno96t8": {
+          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hno96t8/",
+          "text": "This. Is. Amazing.",
+          "author": "swtster",
+          "created": 1638932231,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hnm7m8v": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnm7m8v/",
+      "text": "> good inspiration on how to structure my own article\n\nCan you tell us a little more about what you're writing? \n\nYou would want to structure a review differently to a research paper, and there would be an obvious difference in readability and structure between them too. It's far easier to be readable and well structured in a review since you're speaking more generally and synthesizing and summarizing material in a way that is understandable rather than creating it anew.",
+      "author": "Chand_laBing",
+      "created": 1638898971,
+      "upvotes": 7,
+      "replies": {
+        "hnm9jky": {
+          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnm9jky/",
+          "text": "It\u2019s a research article. But yes I was just looking for some inspiration. So I\u2019m happy to see examples that don\u2019t specifically match what I\u2019m doing.",
+          "author": "victornielsendane",
+          "created": 1638899806,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "hnmlmxl": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnmlmxl/",
+      "text": "Functions of Nogo proteins and their receptors in the nervous system is by far the best (and of the most challenging papers) I have read to date. This paper was authored by Martin E. Schwab and published 3 Nov 2010. What makes the paper includes the authors extensive knowledge and his consolidation of this knowledge in a manner that is both concise and inspiring. The figures make the paper intelligible and far more accessible than would be otherwise. Many authors could do well to learn from him and focus on creating figures to illustrate clear points to the readers. When I say his knowledge is extensive, I can elaborate by pointing out he sets a great example for us, modeling how beneficial it can be to investigate genetic lineage of a trait. In sum, I feel the author actually read many, if not all, the papers he cited. 1) knowing your content 2) be an outstanding teacher (deeply care and be experienced conveying this appropriately; seek to inspire) 3) have top-of-line images (and avoid consolidating multiple topics in one image if do do so impairs clarity or forces you to leave critical elements out of the image).",
+      "author": "gorilaagua",
+      "created": 1638904967,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hnmu3g3": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnmu3g3/",
+      "text": "Obviously there are some technical terms relating to anatomical direction and embryo structures. But I really liked this recent article in nature. It is very simple a rare glimpse of the activities of individual cells the early human embryo. The figures are super simple, and gradually build to make some basic points. 1. What they did. 2. What they found and how it compares to mouse (A common proxy for human development). 3. New cell sub-types found.  4. Details of how a rare cell type develops in humans. That is it. Here it is: https://www.nature.com/articles/s41586-021-04158-y",
+      "author": "CaptainHindsight92",
+      "created": 1638908666,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnncwp9": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnncwp9/",
+      "text": "Hardy, G. H., 1908 Mendelian proportions in a mixed population. Science 28: 49\u201350\n\nI don't think this is an apt template for most research papers, but it's a great reminder that sometimes less is more. Why use many word when few word do trick?",
+      "author": "CommentSense",
+      "created": 1638916605,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnnbspm": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnnbspm/",
+      "text": "The old style Scientific American had 4-5 articles per issue and they were all written for a 10th grade reading level. I loved the format. Then they changed to be more \"Discover\" like and I stopped my subscription. mumble mumble, Damn lowest common denominator mumble mumble.",
+      "author": "centstwo",
+      "created": 1638916099,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hnnzxca": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnnzxca/",
+      "text": "I don't think this is my favourite paper, it is not groundbreaking, but it is excellent scientific writing and follows a well-constructed logical progression.  It is the only paper I can think of that regardless of my interest in its core questions made me want to just point to its excellent writing: https://pubmed.ncbi.nlm.nih.gov/29445145/",
+      "author": "willbell",
+      "created": 1638927565,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hno8bcz": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hno8bcz/",
+      "text": "Consider reading Stylish Academic Writing by Helen Sword. She polled academics on a variation of your same question, then analyzed their nominated papers for common elements. She then used that resultant framework to analyze a sample of a lot (100 or more?) papers from a bunch of different fields to see just how (un)common and yet effective stylish academic writing can be. The book goes through the framework as part findings from her work, part handbook. It\u2019s excellent and has made me a better writer.",
+      "author": "depenguinate",
+      "created": 1638931781,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hno8fo4": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hno8fo4/",
+      "text": "This paper from Australian Geographer. I won't spoil it by sharing the title.\n\nhttps://eprints.utas.edu.au/15881/1/2012_Janssen_AusGeog_journal_version.pdf\n\nExtremely enjoyable due to it presentation of content and it's ability to apply a methodology suitable in numerous other cases to a humorous end.\n\nEven if it's not in your field of expertise I highly recommend it.",
+      "author": "SPECTRE-Agent-No-13",
+      "created": 1638931842,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnmk7s3": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnmk7s3/",
+      "text": "Perhaps I've just become cynical, but keep in mind that what the ivy league elite are allowed to publish is not necessarily what *you're* allowed to publish. Peer review works very differently for the high prestige scholars; if you used simple language it might get rejected for not showing sufficient sophistication. But when a big name does it, it's celebrated as a show of clarity.",
+      "author": "link0007",
+      "created": 1638904350,
+      "upvotes": 2,
+      "replies": {
+        "hnmpkzn": {
+          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnmpkzn/",
+          "text": "This is a bad sentiment. Sounds like you're giving yourself an excuse. Do good science and write well. Do you believe yourself to be better than the big name scientists? If so, then prove it. If not, learn what you can from them and grow your skills.",
+          "author": "IHTFPhD",
+          "created": 1638906719,
+          "upvotes": 16,
+          "replies": {
+            "hnnv3lo": {
+              "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnnv3lo/",
+              "text": "From my experiences in small vs rockstar labs, the editorial and review process difference is like day and night. Famous PIs have a huuuge advantage and can get away with a lot of speculation and poorly backed up big claims, for which small PIs would get challenged by reviewers and shut down by editors in shiny journals. The budgets available are also a massive difference. Becoming a famous PI needs some skill clearly as a prerequisite, but many people would have the level, so even more than that it's just being at the right place at the right time. Like getting trained from a famous PI in the first place (something one does not realize when enrolling in a PhD), and inheriting a project that turns out to be something important for the field with lots of follow ups, rather than a dead end. Or making an incredibly lucky discovery out of nowhere, happens but quite rare.",
+              "author": "Thog78",
+              "created": 1638925143,
+              "upvotes": 2,
+              "replies": {
+                "hnqs6k2": {
+                  "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnqs6k2/",
+                  "text": "Listen I get it and I agree. It's just the way the comment was written: \n\n>what the ivy league elite are allowed to publish is not necessarily what *you're* allowed to publish\n\nDo you believe that comment? That what they're *allowed to publish* is different? I think that's horseshit. And it sounds victimized; like there's nothing you can do, you don't have the privilege to publish in those journals. \n\nI came from a big famous lab and we had papers rejected from the top journals all the time. When they're rejected we address the issues, make more good science, and work our asses off to get the papers published. From the outside it looks like wow that group gets 30 papers + 5 big-impact papers each year. What they don't see is that each paper is a struggle and a mountain to surmount. The mountain never gets smaller; the big name labs have just gotten better and more used to climbing the mountain.",
+                  "author": "IHTFPhD",
+                  "created": 1638985920,
+                  "upvotes": 1,
+                  "replies": {
+                    "hns6r29": {
+                      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hns6r29/",
+                      "text": "Yeah I mean I agree with that, also a lot of efforts working in a big lab to climb the mountain, deal with years of review and rejections, make it look real nice and wrap the story well. Good to not self-pity and work on oneself. But my experience in a small lab before was that by doing the same amount of work, polishing as much as you can, you can get to a midtier journal (say IF 8 to 12, sometimes up to 20 for smth really cool. IF 2-4 for smaller papers). From a big lab, you add 10 to these IF for the same papers at all levels: small papers end up in mid tier journals around IF 10, polished papers with hard work but not amazing results end up in a 20, and great papers actually make it in Nature/Cell/Science. I guess what I mean is one has to be conscious that technical skill is not all, and that political positioning is very important too.",
+                      "author": "Thog78",
+                      "created": 1639005563,
+                      "upvotes": 1,
+                      "replies": {
+                        "hny7swz": {
+                          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hny7swz/",
+                          "text": "Sorry but I don't believe it. And even if it were true I wouldn't let that affect how I approach writing or publishing.",
+                          "author": "IHTFPhD",
+                          "created": 1639112174,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hnlkzu5": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnlkzu5/",
+      "text": "!RemindMe 1 week",
+      "author": "ncsupb",
+      "created": 1638889001,
+      "upvotes": 2,
+      "replies": {
+        "hnll27f": {
+          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnll27f/",
+          "text": "I will be messaging you in 7 days on [**2021-12-14 14:56:41 UTC**](http://www.wolframalpha.com/input/?i=2021-12-14%2014:56:41%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnlkzu5/?context=3)\n\n[**24 OTHERS CLICKED THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FAskAcademia%2Fcomments%2Frayche%2Fwhat_is_the_best_scientific_article_you_have_ever%2Fhnlkzu5%2F%5D%0A%0ARemindMe%21%202021-12-14%2014%3A56%3A41%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20rayche)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "author": "RemindMeBot",
+          "created": 1638889030,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hnmnlsf": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnmnlsf/",
+      "text": "!Remindme 1 week",
+      "author": "Tr4kt_",
+      "created": 1638905833,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnmtqll": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnmtqll/",
+      "text": "!RemindMe 1 week",
+      "author": "MoneyForPeople",
+      "created": 1638908519,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnmz67c": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnmz67c/",
+      "text": "Remindme! 24 Dec",
+      "author": "BadMeditator",
+      "created": 1638910790,
+      "upvotes": 1,
+      "replies": {
+        "hnnpubi": {
+          "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnnpubi/",
+          "text": "Nice Christmas present",
+          "author": "victornielsendane",
+          "created": 1638922609,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hnn9uj6": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnn9uj6/",
+      "text": "!RemindMe 1 week",
+      "author": "_peeves",
+      "created": 1638915244,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnnsvbv": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnnsvbv/",
+      "text": "!RemindMe 2 weeks",
+      "author": "flippost",
+      "created": 1638924055,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnnydup": {
+      "link": "/r/AskAcademia/comments/rayche/what_is_the_best_scientific_article_you_have_ever/hnnydup/",
+      "text": "I'm not sure I can think offhand of a particular paper and structure is somewhat field-dependent and article-type-dependent, but the two things I wish authors (at least in STEM and social sciences - humanities are a different beast) would work on even more than using clear language are (i) figures and charts (the classic author on visual presentation of information is Edward Tufte) and (ii) using tables appropriately (where they are genuinely the best way to present information) and laying them out clearly and logically so it's easy for the reader to interpret them and pull out information. Tables and figures are often the part of the paper the reader relies on most to understand the key points, as well as what they might use for comparing to their own results or rerunning calculations\n\nI see SO, SO MANY terrible, confusing ones - misleading pie charts (I.e., when options are nonexclusive and therefore add up to more than 100%, although I admit to struggling to think of any good time to use a pie chart, personal prejudice), huge walls of unreadable bar charts that would be better as tables of numbers in supplemental material, diagrams that are really hard to follow or look really crude, multipart figures where it's not clear which panel letter goes with which panel, tables that are two totally disparate sets of data jammed together with misleading column heads....etc. etc. Making sure figures/charts can be interpreted in a black and white printout and by people with colorblindness (I.e., not red/green bars of approximately the same value with no other patterning to distinguish them) are also good practices that are too rarely followed.\n\nI wish I had a go-to source on table layout, but unfortunately I do not, just five years of editing frequently very messy tables to teach me what not to do. If anyone has a nice essay or book to recommend on displaying tabular data, please let me know!\n\nRe: clarity of writing, whether or not you can get away with relatively \"plain language\" depends on the journal and your status and the expectations of your field and how good you are at writing plainly while also demonstrating that you know what you're doing. You don't have to and shouldn't completely avoid the technical terms of your field - just think about when you need a technical term and when there is a simpler way to express the same idea.\n\nBut it IS generally possibly to avoid overuse of abbreviations (which can easily blur together for the reader if there are a lot of similar ones). I personally find it helpful as a reader when writers are very sparing with abbreviations, only using them when they are standard or very helpful for making the text more concise (e.g., long chemical names). If the paper is about Really Awesome Widgets, it's a lot easier to read and follow if \"really awesome widgets\" is spelled out in the text or called \"widgets\" instead of \"RAWs.\" \n\nIt's also often helpful to give a brief introduction of key concepts at first mention, unless the journal is very specialized and it's assumed everyone knows them (I do interdisciplinary work in an interdisciplinary fields and so far have published in broader-scope journals, so I always briefly define theories, all but very common methods, etc.).",
+      "author": "threecuttlefish",
+      "created": 1638926790,
+      "upvotes": -1,
+      "replies": {}
+    }
+  }
+}

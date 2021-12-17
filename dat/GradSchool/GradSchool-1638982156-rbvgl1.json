@@ -1,0 +1,173 @@
+{
+  "sid": "rbvgl1",
+  "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/",
+  "title:": "Embarrassed and Frustrated after meeting with PI",
+  "text": "So, I am working on a project with my PI and another grad student. I'm sick today (possibly with COVID) so asked for the meeting to be held over zoom.....it then proceeded to become a dumpster fire. \n\nFor the project we are working in GIS, a program that I'm familiar with but have never done anything as complex as we are currently doing in before. It is known for being fairly finicky and having a steep learning curve at times. On top of that, my PI has 20 years worth of files and no meta data explaining the difference between each one and what they contain. This has lead to a lot of confusion on my end. The other grad student (in their 7th year) is familiar with what these data sets are because they have worked with the data before. So rather than explain things to me, when I don't understand my PI just says things like \"Well X can do it, but they already have so much to do. You need to take the lead on this.\"\n\nI said that I wanted to understand the broad scope of the methods we are using. Have a meeting where we sit down and talk about the whole process and the end goal. She told me that I just need to watch some youtube tutorials (but didn't have suggestions for which ones.....just go find them).\n\nWhen I asked about creating the base layer for this project, she responded with \"well we talked about that last week\" and then just started at me. Because clearly if I am asking about it now I understood it last week /s.\n\nI want to do a good job. I want to learn the skills that we need for this project. But I feel like I'm being given no support to actually learn them and am being made to feel bad and incompetent for taking time to learn. I don't know what to do at this point. I'm sick and exhausted and it's the end of the semester and I know I could learn these things if someone would actually just take the time to even vaguely point me in a direction.",
+  "author": "Umbramy",
+  "created": 1638982156,
+  "updated": 1639518560,
+  "over_18": false,
+  "upvotes": 88,
+  "upvote_ratio": 0.98,
+  "comments": {
+    "hnqj3yk": {
+      "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnqj3yk/",
+      "text": "[deleted]",
+      "author": null,
+      "created": 1638982444,
+      "upvotes": 104,
+      "replies": {
+        "hnqkthv": {
+          "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnqkthv/",
+          "text": "Yeah.....the other grad student is 100% being kept from progressing because they are EXTREMELY knowledgable in GIS at this point and the lab basically can't function without them. It's a whole other thing.\n\nYeah, I roll my eyes hard when people talk about grad students being a \"trainee\". Expecially when it's used to justify low pay. Google and youtube has taught me more about GIS than my \"mentor\".",
+          "author": "Umbramy",
+          "created": 1638983097,
+          "upvotes": 67,
+          "replies": {}
+        },
+        "hnqlywj": {
+          "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnqlywj/",
+          "text": "I agree with this. My PI was the same. Her only advice to me has been \"go read something\". Thanks I guess.",
+          "author": "Normal_Kaleidoscope",
+          "created": 1638983542,
+          "upvotes": 15,
+          "replies": {}
+        },
+        "hnr6ocz": {
+          "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnr6ocz/",
+          "text": "I've tried to push back on some requests from my advisor because I've felt overloaded. He's like: just get this master's student to take care of these things for you. I try to explain to him that I am myself learning how to accomplish the things he's asking me to do, so I don't feel like I can just delegate that to someone else if I don't know how to do it.\n\nAnd I can see on his face that he's perplexed as to why I do not know how to do these things, and it's like, dude, you NEVER showed me how to do these things and I'm pretty sure it's because you are not that proficient in them. I've been learning all my shit by reading technical documentation and watching youtube videos.\n\nBut then I guess that's why he delegates things to me to delegate to someone else. And hopefully the master's student can just solve all our problems.",
+          "author": "AlbanySteamedHams",
+          "created": 1638991454,
+          "upvotes": 14,
+          "replies": {}
+        }
+      }
+    },
+    "hnqnpng": {
+      "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnqnpng/",
+      "text": "So I'm good with GIS too and here's my two cents:\n\n- layers without Metadata is poor management skills, that's not on you. \n\n- if your advisor isn't willing to share where they're getting their basemap, i can see why their other student is in their 7th year\n\n- Even after 2 solid courses in GIS (that targeted my field and weren't general GIS courses), it still took me a lot of start-up time to get things sorted out. That's the nature of this kind of system where everything changes for the project\n\n- your ally will be that other student, and you will be an ally for that other student (see if you can help them graduate because what you learn from them while you're helping may be invaluable)\n\n- see if you can take a course where your secret mission is that the professor helps you \"fix\" the data you have from your advisor. Don't tell them, but usually I use research data in class projects to help myself with research\n\n- when all else fails, forum users from ESRI (or QGIS or whatever) will be your new friend group for a while",
+      "author": "Planetary_Piggy",
+      "created": 1638984214,
+      "upvotes": 31,
+      "replies": {
+        "hnqsad2": {
+          "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnqsad2/",
+          "text": "Thank you, this made me feel a lot better. I've taken one GIS class that was just a general course, the rest has been me and the other grad student working together or looking up tutorials. Unfortunately, the professor that normally teaches a Landscape Ecology class (which would cover the type of analysis I want to do) has stopped teaching the class. So this will be an uphill battle, but at least I know it's not just me.",
+          "author": "Umbramy",
+          "created": 1638985961,
+          "upvotes": 9,
+          "replies": {
+            "hnqv09u": {
+              "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnqv09u/",
+              "text": "There's a book series by Packt on ArcGIS, I found their book on ArcPy to be useful if you have to make your own tools. Ask around the geology or geography departments if you have them, other grad students might be helpful too. Best of luck!",
+              "author": "Planetary_Piggy",
+              "created": 1638987000,
+              "upvotes": 5,
+              "replies": {}
+            }
+          }
+        },
+        "hnsm8rs": {
+          "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnsm8rs/",
+          "text": "As another GIS \"wizard,\" this is a great summary. I am mind-boggled at the base map thing. This project sounds exhausting...\n\nGIS Stackoverflow is your new best friend.",
+          "author": "nnomadic",
+          "created": 1639012501,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hnqn6uj": {
+      "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnqn6uj/",
+      "text": "I feel for you. Unfortunately there are too many PIs who have no involvement in the actual research process and don't know how to do any of the implementation themselves and expect students to figure it out on their own. It's not your fault if you struggle to learn it when you have zero guidance. \n\nI quit one lab after my first year, with a PI who was the same way. There were a lot of other issues too, but I had realized I hadn't learned a single thing from him in an entire year",
+      "author": "Unlikely-Name-4555",
+      "created": 1638984013,
+      "upvotes": 16,
+      "replies": {
+        "hnr8cvf": {
+          "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnr8cvf/",
+          "text": "I remember when I discovered that my advisor did his stats in excel and had no idea how to write basic code in any programming language.  I was dumbfounded thinking to myself: How are you here?",
+          "author": "AlbanySteamedHams",
+          "created": 1638992091,
+          "upvotes": 5,
+          "replies": {
+            "hnrqso7": {
+              "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnrqso7/",
+              "text": "Feeling slightly called out here as I also do stats in excel. Been trying to learn R so I can actually get a job when I finish but I don't have the spare mental energy.",
+              "author": "tabyrinth",
+              "created": 1638999089,
+              "upvotes": 4,
+              "replies": {
+                "hnsc0v6": {
+                  "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnsc0v6/",
+                  "text": "So I do stats in both- they are different tools for different things. Complex models? R is much better. Preliminary data analysis where you are just trying to figure out what you have? Throw that in a pivot table. The idea that it's either one or the other just isn't the reality for a lot of data analysis.\n\nAlso, knowing short cuts in Excel can make cleaning data before it goes into R *so much* easier.",
+                  "author": "Umbramy",
+                  "created": 1639007896,
+                  "upvotes": 7,
+                  "replies": {
+                    "hnsxc7q": {
+                      "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnsxc7q/",
+                      "text": "My stats use thus far has been pretty basic, but some spatial modelling got wedged into my thesis and I found myself trying to do information criteria in Excel this year. Not terribly fun haha.",
+                      "author": "tabyrinth",
+                      "created": 1639017396,
+                      "upvotes": 1,
+                      "replies": {}
+                    },
+                    "ho4xa8r": {
+                      "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/ho4xa8r/",
+                      "text": "It\u2019s funny that people will bash their heads against the wall for hours to make R do what Excel (in the case of data) or Photoshop/Word (in the case of editing and polishing figures/plots) can do in a fraction of the time. There\u2019s no bonus sexy code award for coding something you could\u2019ve just done with a user interface in a more user-friendly program. Everyone should just use the most efficient and effective tool for the issue at hand.",
+                      "author": "minicoopie",
+                      "created": 1639240445,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hnqxnqm": {
+      "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnqxnqm/",
+      "text": "Wow, it definitely looks like your PI wants independent students that figure it out somehow. Then, it is not surprising why the other grad is doing 7 years there. Honestly, I do not support that because PIs are paid for supervision! It is considered in their hours that they have to spend time and explain the research at least first year. Later, of course, they can rely on your own thinking and etc, BUT it is not good what your PI is doing. What I would do is to talk to PI in the way that I need her assistance - just to explain the topic and the methods, recommend papers (not youtube videos) where people are using those methods and techniques. And if your PI is super busy, well there should be a postdoc or senior scientist who can explain (also not another PhD student as they are super stressed and probably will be annoyed). It is your right to ask and request her supervision. If that will not work, I would contact grad school.",
+      "author": "cozy-scholar",
+      "created": 1638988008,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hnrqcc3": {
+      "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnrqcc3/",
+      "text": "When I started using GIS for my msc I also had no help except an overworked PhD student to show me the ropes, but my advisor was good enough to actually pay them to tutor me. \n\nI doubt your prof actually knows how to use the program or what really needs to be done. You've got to get the other PhD student to help you. Be kind, buy them beer (or any other suitable beverage/foodstuff), and when you have your head around the program offer to help out with some of their stuff.\n\nAlso seconding the ESRI forums\n\nGood luck, GIS is a bitch",
+      "author": "tabyrinth",
+      "created": 1638998915,
+      "upvotes": 6,
+      "replies": {}
+    },
+    "hnsjh2r": {
+      "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnsjh2r/",
+      "text": "PM me if you want to talk about GIS. It's my thing, and I am obsessed. You should immediately start recording yourself and your project via a git system to avoid this mess down the line. I have also worked in commercial remote sensing. I can help you find some appropriate resources depending on your needs and program. I can tell you about some good file management stuff I picked up from my last job.\n\nI had similar problems working under a prior PI. I know the struggle. You are doing a good job with the circumstances. The poster above had great advice too. :)",
+      "author": "nnomadic",
+      "created": 1639011250,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnrcqwp": {
+      "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnrcqwp/",
+      "text": "From my experience the likelihood of a faculty member actually helping navigate a project is small. You will just have to do your best attempt and document what you did. Try to automate as much of the work as you can because you will likely have to replicate portions because your advisor miscommunicated something.",
+      "author": "local_man_says",
+      "created": 1638993752,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hnukd8z": {
+      "link": "/r/GradSchool/comments/rbvgl1/embarrassed_and_frustrated_after_meeting_with_pi/hnukd8z/",
+      "text": "Yup, GIS sucks. And I knew it when it was ArcMap, not this new ArcPro stuff. My husband had to learn it and apparent ESRI has some fantastic tutorials. \n\nAlso, WTF is with the PI dropping the ball on metadata? How do they expect anyone else to use it and remotely know what they\u2019re doing?\n\nHonestly, GIS is valuable, but I eventually moved away from it and started getting more into R. That\u2019s my jam now. And it\u2019s wonderful.\n\nAre you happy with what you\u2019re doing now? If not, have you considered possibly switching advisors to someone who doesn\u2019t do GIS and does more stats stuff that you\u2019d enjoy more?",
+      "author": "torrentialwx",
+      "created": 1639056196,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

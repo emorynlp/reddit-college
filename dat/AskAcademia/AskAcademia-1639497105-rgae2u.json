@@ -1,0 +1,47 @@
+{
+  "sid": "rgae2u",
+  "link": "/r/AskAcademia/comments/rgae2u/scientific_poster_graphs_format_question/",
+  "title:": "Scientific poster graphs format question",
+  "text": "Hey all,\n\n&#x200B;\n\nI was wandering: What type of file (png, svg, emf, etc) do you use for your graphs in scientific posters? I am wondering if the resolution will be good enough if I use png and how large the graphs should be for a 70x100 vertical poster. Any ideas about how to test it before printing?\n\n&#x200B;\n\nThanks a lot",
+  "author": "GloomyCheck",
+  "created": 1639497105,
+  "updated": 1639515477,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hoiv355": {
+      "link": "/r/AskAcademia/comments/rgae2u/scientific_poster_graphs_format_question/hoiv355/",
+      "text": "Zoom to 100% in whatever software you're using and if it looks blurry, then up the resolution.",
+      "author": "Ford-Fulkerson",
+      "created": 1639497535,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hoivou6": {
+      "link": "/r/AskAcademia/comments/rgae2u/scientific_poster_graphs_format_question/hoivou6/",
+      "text": "If you're using raster images (tiff, png, jpg etc), standard minimum print resolution is 300 dpi. You can get away with 150 if it's really flat-colour with no text or detail. Top-quality would be 1200 ish. You need to build the image at or greater than the size it will be on the final page to preserve this resolution . Building it at 300 dpi at 10 cm wide then stretching the image to 20 cm wide will just give you a 75 dpi image which will look shit. Even if you then rescale the image it is just going to interpolate the extra pixels which will also look shit.\n\nBut the ideal solution is to build an import the image as a vector image (svg, ai, pdf, etc) usin Illustrator, Corel Draw, Inkscape or similar. Then you can scale the image all you like. Assuming you are laying the poster out in a programme which handles vector images properly, like Indesign or one of the aforementioned vector packages.\n\nIf you're not sure how big your images need to be go and find a whiteboard or blackboard or a bit of wall the right size, outline the size and shape of your poster, and draw or stick on items the appropriate size. Assume no one is stepping closer than 1 m to your poster.",
+      "author": "OrbitalPete",
+      "created": 1639497774,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hojb2j4": {
+      "link": "/r/AskAcademia/comments/rgae2u/scientific_poster_graphs_format_question/hojb2j4/",
+      "text": "For graphs you ideally want to use a vector graphics format. This will make your graphs of infinite resolution, so to speak, and then it will always look good when printed. Try to figure out how to output in such a format using your graphing software.",
+      "author": "Hapankaali",
+      "created": 1639503763,
+      "upvotes": 1,
+      "replies": {
+        "hojin3i": {
+          "link": "/r/AskAcademia/comments/rgae2u/scientific_poster_graphs_format_question/hojin3i/",
+          "text": "Yes, agree. Thanks a lot",
+          "author": "GloomyCheck",
+          "created": 1639506718,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

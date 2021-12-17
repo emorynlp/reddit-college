@@ -1,0 +1,63 @@
+{
+  "sid": "rbxmec",
+  "link": "/r/AskAcademia/comments/rbxmec/citation_managers_and_latex/",
+  "title:": "Citation managers and LaTeX",
+  "text": "What exactly do citation managers do and how are they different from BibTex? Is it useful to use Mendeley or Zotero in addition to Bibtex? Are either of these integrated with Bibtex?\n\nBibtex works like this. You store a text file with a long list of citations. The citations are in a programmatic format which you can easily copy/paste from the journal's website or wherever. You can search through your list using various keywords. You give each entry a name like \"authorYear\". Then you cite it as \"\\\\cite{authorYear}\" in your papers. Bibtex does the rest of the work to automatically generate the references and the bibliography.\n\nForgive me for choosing the \"STEM\" tag...\n\n&#x200B;\n\nEdit: Thanks everyone!",
+  "author": "temp-refinance",
+  "created": 1638987978,
+  "updated": 1639515550,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hnr3607": {
+      "link": "/r/AskAcademia/comments/rbxmec/citation_managers_and_latex/hnr3607/",
+      "text": "Citation managers like Mendeley or Zotero are handy tools for reviewing (read, highlight, take notes) and organizing your sources. For example, I usually maintain multiple folders/labels for each survey or sub-topic I am researching. Then I have a folder for the references I am using in my paper. You can place a document in multiple folders/labels. \n\nThey also have the ability to import and export Bibtex and other formats of citation, so you don't need to edit the Bibtex files manually.",
+      "author": "CrazyTrain36",
+      "created": 1638990107,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hnrdd51": {
+      "link": "/r/AskAcademia/comments/rbxmec/citation_managers_and_latex/hnrdd51/",
+      "text": "Citation managers like Mendeley and Zotero are more for managing the references themselves, ie the actual articles. You can save and organize them, search through them, annotate them, etc. When you need to actually cite them, they can also export citations into formats like bibtex for citing in LaTeX or plug into editors like Word to make citing easier",
+      "author": "010011100000",
+      "created": 1638993990,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnr379u": {
+      "link": "/r/AskAcademia/comments/rbxmec/citation_managers_and_latex/hnr379u/",
+      "text": "You can export your database in zotero to BibTex",
+      "author": "kohopfch",
+      "created": 1638990120,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hnrs5jd": {
+      "link": "/r/AskAcademia/comments/rbxmec/citation_managers_and_latex/hnrs5jd/",
+      "text": "I use Zotero, so can't speak to Mendeley, but one of the features I use most often is its citation / full-text retrieval tool. Given a DOI or ISBN it will download the citation info and full text (if available). There's also a browser plugin that does the same if you're reading a paper on a journal's website. I don't think I've manually entered a citation entry in a few years now.",
+      "author": "sbpqd",
+      "created": 1638999617,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hnr0s4r": {
+      "link": "/r/AskAcademia/comments/rbxmec/citation_managers_and_latex/hnr0s4r/",
+      "text": "I don't have experience with Mendeley or Zotero, but as I understand those citation managers are for non-LaTeX formats, while BibTeX is only for LaTeX. If you're only using LaTeX (as is the standard in some fields), then you don't need anything other than BibTeX.",
+      "author": "Hapankaali",
+      "created": 1638989200,
+      "upvotes": 1,
+      "replies": {
+        "hnucq5d": {
+          "link": "/r/AskAcademia/comments/rbxmec/citation_managers_and_latex/hnucq5d/",
+          "text": "Second this, to my understanding Zotero/Mendeley are more useful for Word users.",
+          "author": "bahasasastra",
+          "created": 1639051597,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}
