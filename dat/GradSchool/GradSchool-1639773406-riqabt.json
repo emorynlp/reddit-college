@@ -1,0 +1,31 @@
+{
+  "sid": "riqabt",
+  "link": "/r/GradSchool/comments/riqabt/picking_between_boston_university_and/",
+  "title:": "Picking between Boston University and Northeastern University for Data Science",
+  "text": "Hi all,\n\nSo I just got accepted to Boston Uni for Master of Science in Applied Data Analytics\u00a0program , and I have two weeks to reply to them whether I want in or not. The program begins on January 20th next year. But I am also applying for Northeastern University Master in Data Science for Fall Quarter 2022, and so far I receive no reply yet from Northeastern. I am really debating whether to accept Boston Uni's offer or wait for NEU. Some pros and cons I can think of\n\n\\-NEU is cheaper at about 1700 per credit while BU cost about 1900.\n\n\\-NEU has a Coop program where you are guaranteed works and internships after graduation. BU does not have the same program\n\n\\-BU program is shorter, about 16 months, while NEU's program is 2-2.5 years. BU also begins this January while I will have to wait until next September for NEU if I go to NEU. I want to finish the program early and get onto the job market sooner before the job market is filled with those having a degree similar to mine.\n\n\\-BU has a better reputation in my home country and in my home country school brand is everything. Since the US job market is terrible, I plan to go back to my home country if thing goes South and I cannot find a job here\n\nSo, should I pick BU ? Or should I wait for NEU ?",
+  "author": "redditnamesucks",
+  "created": 1639773406,
+  "updated": 1639788479,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.75,
+  "comments": {
+    "hoz0qa9": {
+      "link": "/r/GradSchool/comments/riqabt/picking_between_boston_university_and/hoz0qa9/",
+      "text": "As someone who does Data Science and Analytics for a living, and have interviewed a significant amount of candidates coming out of school, experience is everything to getting your first job. \n\nMost candidates I've met coming out of DS programs can talk algorithms really well and tell me why they used X model vs Y model for their school projects yada yada. It's really all textbook stuff. Candidates like these are a dime a dozen. I've seen so many of them go thru their resume then tell me about a school project.\n\nI imagine there's a fair amount of parity in terms of what you learn in courses from BU and NEU. \n\nSince NEU offers co-ops, it's a really good opportunity to get real world experience. This is good in two ways: learning to develop business sense and getting experience not working with toy or clean data sets you would get at school. As an interviewer, I've typically cared alot more about applying the skills you learned in something practical and not academic.\n\nI would err on the side of NEU but that really depends if they accept you right? I guess it also really depend on your own personal timeline.\n\nAt the end of the day, there has been a huge proliferation of MS Data Science programs and so many candidates in the job market that it's hard to get noticed as an entry level candidate.\n\nI will say though, there are no shortage of analytics or DS roles really, there's just alot of candidates competing for those jobs. I don't forsee the job market disappearing anytime soon, at least here in the US.\n\nIn any case happy to talk more about it if you want. If it matters I'm also in Boston, working for a Boston based company.",
+      "author": "tatinthehat",
+      "created": 1639777507,
+      "upvotes": 6,
+      "replies": {
+        "hoz466b": {
+          "link": "/r/GradSchool/comments/riqabt/picking_between_boston_university_and/hoz466b/",
+          "text": "Honestly at one point I was thinking about going into Data Science as a field/secondary degree.   But then again I erred against it as I already do applied data science (for the entire PhD, R, optimization, ML/AI, etc.) and the specific algorithms I can refer back to the textbooks.  \n\nAnyways also in Mass!  Cheers!",
+          "author": "HalfEatenPie",
+          "created": 1639778921,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    }
+  }
+}

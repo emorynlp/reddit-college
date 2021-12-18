@@ -1,0 +1,84 @@
+{
+  "sid": "rgl3qe",
+  "link": "/r/college/comments/rgl3qe/is_it_possible_to_get_a_39_gpa/",
+  "title:": "Is it possible to get a 3.9 gpa?",
+  "text": "I\u2019m a sophomore and my cumulative gpa is 3.81. Unfortunately, I had a lot of difficult classes this semester, one of them being a 5 credit course which really sunk my gpa. My grading system is on a 4.0 scale and only does letter grades, like only As or Bs, no A+. I can\u2019t figure out the math, but is it still possible to graduate with a 3.9 gpa?",
+  "author": "Medical-Rip7800",
+  "created": 1639526511,
+  "updated": 1639787949,
+  "over_18": false,
+  "upvotes": 2,
+  "upvote_ratio": 0.59,
+  "comments": {
+    "hokyy1r": {
+      "link": "/r/college/comments/rgl3qe/is_it_possible_to_get_a_39_gpa/hokyy1r/",
+      "text": "Of course, but you can only get A's for most of your classes in order to do so",
+      "author": "GoldRequest",
+      "created": 1639528374,
+      "upvotes": 9,
+      "replies": {}
+    },
+    "holpkwn": {
+      "link": "/r/college/comments/rgl3qe/is_it_possible_to_get_a_39_gpa/holpkwn/",
+      "text": "Assuming you have taken 45 credit hours thus far and have a current 3.81, the best you can do if you get straight As for the rest of your 75 hours is a 3.93.",
+      "author": "patrdesch",
+      "created": 1639540596,
+      "upvotes": 1,
+      "replies": {
+        "holptah": {
+          "link": "/r/college/comments/rgl3qe/is_it_possible_to_get_a_39_gpa/holptah/",
+          "text": "Ooh, I forgot to specify but I\u2019m at 57 credits \u2026",
+          "author": "Medical-Rip7800",
+          "created": 1639540715,
+          "upvotes": 1,
+          "replies": {
+            "holq9ch": {
+              "link": "/r/college/comments/rgl3qe/is_it_possible_to_get_a_39_gpa/holq9ch/",
+              "text": "In that case you will have a 3.91 if you get straight As in the rest of your 63 hours. A single B will put you at a 3.88.",
+              "author": "patrdesch",
+              "created": 1639540940,
+              "upvotes": 2,
+              "replies": {
+                "holqibl": {
+                  "link": "/r/college/comments/rgl3qe/is_it_possible_to_get_a_39_gpa/holqibl/",
+                  "text": "Thank you!",
+                  "author": "Medical-Rip7800",
+                  "created": 1639541063,
+                  "upvotes": 1,
+                  "replies": {
+                    "holrhuo": {
+                      "link": "/r/college/comments/rgl3qe/is_it_possible_to_get_a_39_gpa/holrhuo/",
+                      "text": "For future reference, I am doing these calculations in excel, and the formulas are as follows:\n\n&#x200B;\n\n|GPA|\\# Credit Hours|Quality Points|\n|:-|:-|:-|\n|Current GPA (B1)|Current Hours Taken (B2)|B1\\*B2 (B3)|\n|Future GPA(C1)|Degree Hours-Current Hours Taken (C2)|C1\\*C2 (C3)|\n|D3/D2 (D1)|Degree Hours (D2)|SUM(B3:C3) (D3)|\n\nC1: The GPA you are aiming for for the remainder of your semesters.\n\nD1: The GPA you will have if you achieve C1.\n\nYou can also insert additional rows between C and D, if you project different GPAs each semester.",
+                      "author": "patrdesch",
+                      "created": 1639541562,
+                      "upvotes": 1,
+                      "replies": {
+                        "holyh0d": {
+                          "link": "/r/college/comments/rgl3qe/is_it_possible_to_get_a_39_gpa/holyh0d/",
+                          "text": "Thank you so much! This is very helpful! Also, another question since I\u2019m still trying to get the logistics of college. What happens if I go over 120 credits in terms of GPA? How would that be calculated? Is it possible to graduate with over 120 credits?",
+                          "author": "Medical-Rip7800",
+                          "created": 1639545347,
+                          "upvotes": 1,
+                          "replies": {
+                            "holyzsr": {
+                              "link": "/r/college/comments/rgl3qe/is_it_possible_to_get_a_39_gpa/holyzsr/",
+                              "text": "Yes, it is possible to go over 120 credits, because you can finish the credit hour requirement before you finish your major course requirements.\n\nIn the case that you do... Um... I think you would just change the total number of hours you are expecting from 120 to whatever you think you will end up with. So remaining hours might be 130-57 rather than 120-57. You would also divide your total estimated quality points by this new higher number.\n\nSo yes, taking more classes can mean having more chances to raise your GPA, but you still need to pay for them, and at some point you will need to actually graduate and start getting return on your investment.",
+                              "author": "patrdesch",
+                              "created": 1639545640,
+                              "upvotes": 2,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

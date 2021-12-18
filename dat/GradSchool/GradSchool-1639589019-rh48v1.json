@@ -1,0 +1,46 @@
+{
+  "sid": "rh48v1",
+  "link": "/r/GradSchool/comments/rh48v1/looking_for_a_good_textbook_for_bayesian/",
+  "title:": "Looking for a good textbook for Bayesian statistics.",
+  "text": "My program does not require us to take a course on Bayesian statistics, there fore my advisor doesn't want me to take one.  That being said, I want to teach myself over the winter break.  Any recommendations?",
+  "author": "james-macavoy",
+  "created": 1639589019,
+  "updated": 1639788538,
+  "over_18": false,
+  "upvotes": 3,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "hoo1vw4": {
+      "link": "/r/GradSchool/comments/rh48v1/looking_for_a_good_textbook_for_bayesian/hoo1vw4/",
+      "text": "Depends on your prior knowledge (hah), but with no statistics experience I took [MIT 6.041](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) and learned quite a lot. The textbook takes a practical approach with practice problems, so it\u2019s more applied, which worked for what I needed.",
+      "author": "Invischeddar",
+      "created": 1639589255,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hoos51a": {
+      "link": "/r/GradSchool/comments/rh48v1/looking_for_a_good_textbook_for_bayesian/hoos51a/",
+      "text": "How theoretical vs applied are you interested in? How strong is your statistics foundation to begin with?",
+      "author": "aggressive-teaspoon",
+      "created": 1639599353,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hos9lrn": {
+      "link": "/r/GradSchool/comments/rh48v1/looking_for_a_good_textbook_for_bayesian/hos9lrn/",
+      "text": "I\u2019ve heard good things about Data Analysis: A Bayesian Tutorial by D S Sivia. I haven\u2019t read it myself.",
+      "author": "groplittle",
+      "created": 1639665759,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hot5klv": {
+      "link": "/r/GradSchool/comments/rh48v1/looking_for_a_good_textbook_for_bayesian/hot5klv/",
+      "text": "Bayesian Data Analysis by Andrew Gelman - aka the Bayesian Bible",
+      "author": "NoOutlandishness9892",
+      "created": 1639678416,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

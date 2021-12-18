@@ -1,0 +1,22 @@
+{
+  "sid": "rgogl1",
+  "link": "/r/college/comments/rgogl1/electrical_engineering_student_looking_for_higher/",
+  "title:": "Electrical Engineering student looking for higher level math classes",
+  "text": "Heya folks!\n\nI'm in my 3rd year of undergrad studying electrical engineering in the United States, and I'm thinking of pursuing a minor in math and/or taking several upper level  math classes.  I feel like I've always enjoyed math well enough, but since I finished calc 3 I haven't been as good at it as I wanted to be.  I completed multi-variable calc, linear algebra, and diff-eq, but my  grades weren't great because I often struggled on the tests and felt  like we were moving through content way too fast.  However, I still I  enjoyed the content of the classes and I often wondered where I could  use those concepts in the real world.\n\nAfter  completing those engineering pre-req math classes, I got into my  school's electrical engineering program and I really enjoy it so far.  I've taken courses on continuous/discrete signal processing as well as  electromagnetics.  I had fun with these courses, so I want to focus on  signal processing and communications, which I know are pretty math  heavy.  But because these are engineering courses, we aren't really  expected to know a whole lot about why the math works (I'm specifically  referring to complex numbers, Fourier series, harmonics, etc.).  We're  mostly just told how to use them.  Same goes for all of the circuit  analysis and EM stuff.  I'm generally pretty good at going through a  circuit and understanding it using all the techniques you learn in an EE  class (KVL, KCL, Laplace Transform), but I have forgotten everything  about differential equations, which are the underlying basis of the  system.\n\nI also took an intro to  quantum mechanics class for my own interest, and the amount of linear  algebra in there was crazy, even if it was greatly simplified.  Besides the necessary physics classes the  only pre-req was the basic linear algebra course every physicist and engineer takes, but there were so many times they were talking about  \"abstract Hilbert(?) spaces\", and \"Hermitians\", and \"basis-es\" that I really wished I had a solid background in linear algebra.  At the end of the day a good chunk of the math went over my head but that class made me want to learn more about QM regardless.\n\nI  guess my point is, there is so much absolutely fascinating stuff out  there that involves a high level understanding of math, and knowing  where that math comes from and why it works the way it does is really appealing to me.  As a result, I am considering a minor in math + maybe  taking some extra classes on top.  Besides all the math I've already done, the math minor at my university only requires a class on set theory and then 4 extra classes that are at the 300/400 level.\n\n**TLDR:**   What higher-level (300/400 level) math content/classes do you folks think are the most useful, especially for the fields of signal processing/communications, EM, or quantum  mechanics?  Additionally, outside of the classroom, where are the best places (online or otherwise) to learn higher level mathematics?  I'm sorry if it sounds like I don't have a particular interest; I still don't exactly know what I want to do in the EE domain, since I kind of find everything interesting!\n\nThanks you!",
+  "author": "smugmamale",
+  "created": 1639536348,
+  "updated": 1639787960,
+  "over_18": false,
+  "upvotes": 1,
+  "upvote_ratio": 1.0,
+  "comments": {
+    "holovtx": {
+      "link": "/r/college/comments/rgogl1/electrical_engineering_student_looking_for_higher/holovtx/",
+      "text": "Maybe try grad school? I get a lot those vibes from the way you write. Given you wrote 4 paragraphs to ask what could have been asked in one question. \n\nYour curriculum should have an advanced math course you are required to take. If you take an advanced engineering math, expect a lot more plug and chugging. Therefore you might want to try advanced calculus 1. \n\nI would argue that no one really understands what a Fourier series is or how a convolution affects the time domain. I don\u2019t think you will even gain a better grasp of the application until doctoral research.",
+      "author": "cssimps12",
+      "created": 1639540252,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

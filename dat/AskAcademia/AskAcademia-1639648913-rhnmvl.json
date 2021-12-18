@@ -1,0 +1,411 @@
+{
+  "sid": "rhnmvl",
+  "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/",
+  "title:": "Very Questionable Scientific Paper in \u201cPredatory\u201d Journal",
+  "text": "tl;drGrad student in CFD lab, read an extremely questionable (and supposedly peer-reviewed) paper in an [MDPI journal](https://en.wikipedia.org/wiki/MDPI) (MPDI publisher seems to be controversial and linked to the topic of \"[predatory open access publishing](https://en.wikipedia.org/wiki/Predatory_open_access_publishing)\"). My supervisor agrees with the assessment. How should I proceed? Should I even bother with a letter to the editor. I've only published one paper so far, so rather inexperienced with the day-to-day nature and politics of academia.\n\nHello everyone,I'm a grad student in mechanical engineering, doing research in a CFD / Fluids lab.\n\nA few days ago, I've read a paper on my research topic and was very excited by the content of their work. They applied a very novel technique / idea to the problem I am currently working on, and after skipping over the abstract and conclusion, I was left a little underwhelmed. It had seemingly no real content. But when reading scientific work as a student, my first intuition is always that *I* have to read it more carefully and probably am not understanding everything.\n\nSo I completely worked through the paper, and with every additional page it got worse. The paper was written very nicely, good figures \u2013 at a first glance it is not obvious that this might be a low quality publication. But the content was full of mistakes I would expect my undergraduate students to make in their first CFD semester. Some bizarre decisions such as applying incompressible CFD solver to highly compressible flow cases etc.\n\nAfter working through it and making notes on everything that seemed out of place to me, I talked with my supervisor about it, and he fully agrees with my assessment. The paper is not only full of (for ease of writing I call the mistakes now..) mistakes, but also just \u2013 in my mind \u2013 bad scientific style. There are lots of words seemingly describing the methodology, but basically not real content behind those words.\n\nSo, long story short, my advisor and I basically get a few chuckles out of but didn't really discuss anything further. But now I got the feeling \"to do something about it\", hence I talked to my supervisor again, and he said, if I wanted, he'd support me in writing a letter to the editor.\n\nThen I looked up the journal, which is part of the [MDPI family of journals](https://en.wikipedia.org/wiki/MDPI), and stumbled upon their Wikipedia article.. Puuh, half the Wikipedia page is about controversies concerning journals published by the MDPI publisher, with the phrase \"[predatory open access publishing](https://en.wikipedia.org/wiki/Predatory_open_access_publishing)\" in the third paragraph.\n\nTo be honest, I am a bit unsure how to pursue this and was looking for some input from more experienced people in the field of academia. Do I even bother to write such a letter? This might sound a bit weird, but I don't want to but my hand in a bee's nest.. But it bothers me that such blatantly problematic research was (supposedly peer-reviewed) and published. What if they don't care at all?\n\nI won't name the researchers, paper or even specific journal at this point in time. This is not about blaming someone or creating drama. I hope some of you have a few insights to help me make my mind up about what to do.\n\nThank you & cheers!\n\n&#x200B;\n\nSmall addition: I looked up the authors, first author seems to be a student with no other publications. So no red flag so far. But the second (and final) author has never published anything in the field of fluid dynamics. Some \"meta\" and broad-engineering papers, mostly methods and strategies paper tangent to engineering. But no previous work in CFD or fluid dynamics.\n\nEdits: Spelling mistake, English is not my mother tongue, sorry!",
+  "author": "bitdotben",
+  "created": 1639648913,
+  "updated": 1639787255,
+  "over_18": false,
+  "upvotes": 108,
+  "upvote_ratio": 0.96,
+  "comments": {
+    "horlqi0": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horlqi0/",
+      "text": "So... MDPI is a really *weird* publisher. Some journals do publish very respected papers and have high IF. But their publishing methods are \"borderline\" to say the least. \n\nThere a bunch of threads on this sub which are worth reading. It's not clearcut \"predatory\", but definitely not even \"good\". \n\nIMO If the journal is one of the respectable ones, with high IF, do write  the editor!",
+      "author": "lucaxx85",
+      "created": 1639652165,
+      "upvotes": 112,
+      "replies": {
+        "hos2xhe": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hos2xhe/",
+          "text": "I've noticed I'm asked to review all kinds of bullshit after I agreed to review one paper from an MDPI journal.\n\nThe quality is, yeah. I should make my own post on it.",
+          "author": "ThePhysicistIsIn",
+          "created": 1639662672,
+          "upvotes": 20,
+          "replies": {}
+        },
+        "horn23o": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horn23o/",
+          "text": "Could you give some assessment on \"high IF\". The journal has an impact factor of \\~3 with the being a Q2 or even Q1 journal over the last few years. That seems kinda alright to me, hence I would write to the editor. What do you think about these values?",
+          "author": "bitdotben",
+          "created": 1639653203,
+          "upvotes": 7,
+          "replies": {
+            "hornk7f": {
+              "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hornk7f/",
+              "text": "Yeah, given a 3 IF, which is high for your field, this is a journal that definitely aims at being recognized as \"serious\". So I'd totally write the editor.",
+              "author": "lucaxx85",
+              "created": 1639653577,
+              "upvotes": 27,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "horlm75": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horlm75/",
+      "text": "It'd be a full time job (and life works) to go through and flag all the rubbish that MPDI allow to be published. Let it go. \n\nThe ONLY way I'd ever consider putting any effort into doing something here would be to write your own paper on the subject and to do it properly. Otherwise you get nothing out of pursuing this.",
+      "author": "Broric",
+      "created": 1639652071,
+      "upvotes": 69,
+      "replies": {
+        "horncgk": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horncgk/",
+          "text": "We are definitely on that. But I guess it will take some time to publish. \n\nIs it OK then to reference another work and politely pointing out its possible mistakes and refuting them with our own research? I mean like actively pointing it out to the reader, or that frowned upon?",
+          "author": "bitdotben",
+          "created": 1639653419,
+          "upvotes": 16,
+          "replies": {
+            "hornf8q": {
+              "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hornf8q/",
+              "text": "Definitely. You probably should be careful to phrase it the right way but any reader will know exactly what you mean.",
+              "author": "Broric",
+              "created": 1639653477,
+              "upvotes": 14,
+              "replies": {
+                "hornlbl": {
+                  "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hornlbl/",
+                  "text": "Got it. Thanks!",
+                  "author": "bitdotben",
+                  "created": 1639653600,
+                  "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        },
+        "hos753m": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hos753m/",
+          "text": "Totally agree. Don't waste time on flag MDPI papers. If reviewers can't reject papers under review, how do a reader ask the editor to take it down? I suggest you just publish your paper and use that paper to against with (but you will increase the IF of that journal). Your graduation worth more than this kind of stuff.",
+          "author": "Metalpen22",
+          "created": 1639664657,
+          "upvotes": 10,
+          "replies": {
+            "hotxuje": {
+              "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hotxuje/",
+              "text": ">If reviewers can't reject papers under review,\n\nExactly. I stopped reviewing for MDPI when they ignored my recommendation to outright reject a paper that was totally off topic for the journal.  The paper's topic was a homonym for the journal topic. Like if there was a Journal of Sealing Research about rubber seals, and someone wrote a paper about the marine animal.",
+              "author": "rlrl",
+              "created": 1639689488,
+              "upvotes": 5,
+              "replies": {}
+            },
+            "hotzvbi": {
+              "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hotzvbi/",
+              "text": ">If reviewers can't reject papers under review, how do a reader ask the editor to take it down? \n\nYou realize reviewers do it for free and are only human? It's nearly impossible to catch everything in a review process.",
+              "author": "cyberonic",
+              "created": 1639690277,
+              "upvotes": -2,
+              "replies": {
+                "hoxjd90": {
+                  "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hoxjd90/",
+                  "text": "What I mentioned here is the nature of MDPI universe. Two of my colleagues said they tried to reject two papers from MDPI for out of scope reasons but in vain. So you should know the benefit of submitting to MDPI is the high accepted rate.\n\nTherefore I don't recommend to play around with MDPI.\n\nAlso I highly against the idea of free reviewer. People should not do work without being paid. Otherwise why should people paid 2000 Euro for publishing a paper? I'd rather post on [blogspot.com](https://blogspot.com) and get reviewed with real person with real name. At least they won't ask you to cite their quantum paper for my Ocean biology topic (example).",
+                  "author": "Metalpen22",
+                  "created": 1639756680,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hosrpri": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hosrpri/",
+      "text": "I think a lot of folks here might be assuming you want to write a direct message to the editor to point out/flag the paper given issues you have detected with this work, rather than a \u201cLetter to the editor\u201d style of publication (for example, [this](https://www.mdpi.com/1999-4915/11/3/230/htm). The former is likely a waste of your time for you and the editor, as many others have pointed out, unless there\u2019s clear evidence of fraud. The second kind (which I believe is the one you\u2019re thinking about, right?) is enriching for research and these \u201cLetters to the editor\u201d are very common in some fields. They are basically a publishable extended academic comment/argument that the authors can respond/reply to. Sort of a [post publication review](https://en.wikipedia.org/wiki/Letter_to_the_editor).\n\nI am not sure if this particular journal offers this kind of publications and if they charge fees for them (some journals don\u2019t, but given MDPI history and dubious perception, I wouldn\u2019t be surprised).\n\nWith that in mind and given your supervisor will support you, working on this \u201cLetter to the editor\u201d publication could be a nice addition to your publication history and help others (including the authors) to continue to (re)evaluate their work.\n\nEdit: thank you anonymous kind redditor for the award.",
+      "author": "jucamilomd",
+      "created": 1639673094,
+      "upvotes": 11,
+      "replies": {
+        "hostnja": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hostnja/",
+          "text": "Yeah I think this is what my supervisor meant. He said he would support me in writing \u201ea letter to the editor\u201c, which seem to get published sometimes. So I think we are talking about the same thing. \n\nA few paragraphs / pages pointing out some of the strong issues and submit them to \u201ethe editor\u201c.",
+          "author": "bitdotben",
+          "created": 1639673834,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hosis85": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hosis85/",
+      "text": "Paolo Crosetto wrote a detailed [blog post](https://paolocrosetto.wordpress.com/2021/04/12/is-mdpi-a-predatory-publisher/) on MDPI journals. His verdict is that MDPI is somewhat borderline, and that the situation varies depending on the specific journal. I was tempted to submit something because they're fast and I'm early career, but: they have a 1500 Swiss Francs publication fee. Even after explaining that I am an adjunct professor, that I have no funding and all that they still said I should have to pay 450 Swiss Francs. I gave it up. I don't earn enough to afford such a fee. Also, I was cited in one of their journals and my name was spelled wrong. The paper was fine, but I wonder: what are these 1500 Francs for if they can't even check whether people's names in the reference list were spelled correctly? \ud83e\udd37\ud83c\udffb\u200d\u2640\ufe0f",
+      "author": "Normal_Kaleidoscope",
+      "created": 1639669576,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "horl3wj": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horl3wj/",
+      "text": "Eh.. This happens sometimes, in all fields. Bullshit journals are all over the place. But unlike mainstream media, which is aimed at your average Joe, academic journals have a very different audience, professionals, experts, and highly critical minds. This is why it matters a lot if we have fake news and shit like mis and disinformation in the media, but in academic journals, any scientist worth their salt or worth anything at all, would spot BS from a mile away. So people publishing BS won't get far in life, at least not just based on these publications. If they approach any positions with real impact, they'd be exposed before they even interview. \n\nThat's one point, the other point is that nothing will change if you contact the editor. And even if they aren't in on it, one paper is retracted, ten come in its place.\n\nOf course this is still not good in general, because sometimes BS academic pubs make their way to the general public, like with the anti vax crap. But something like mechanical engineering.. Eh, worst thing that'll happen is people start believing in a conspiracy like Newton never existed. I say just let it go and drop a coin in a fountain that Thanos pays us a visit at some point.",
+      "author": "ahmadove",
+      "created": 1639651674,
+      "upvotes": 21,
+      "replies": {
+        "horlsaz": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horlsaz/",
+          "text": "Okay. Thanks for your assessment! Unfortunately, this paper has already been quoted a few times, and once even in an otherwise highly reputable publication. Maybe contact the authors of that paper? Don't wanna get on anyone's nerves, but it kinda stings.\n\nSo you say I shouldn't really \"waste\" any time writing a letter to the editor? Would there be any negative impact doing it?",
+          "author": "bitdotben",
+          "created": 1639652205,
+          "upvotes": 5,
+          "replies": {}
+        },
+        "horm17i": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horm17i/",
+          "text": "This - if the work is terrible then the authors will not trick anyone, and the paper will fade into obscurity. One of the reasons citations/h-index are still a decent metric for someone\u2019s scientific rigor is because it filters out crap like this. The only victims of bad papers will be future employers who don\u2019t look this information up before hiring and think more papers means more success. I am hoping that viewpoint disappears as awareness of predatory journals becomes more widely understood and focus instead shifts to publication quality rather than quantity (but maybe I am dreaming)",
+          "author": "diagana1",
+          "created": 1639652402,
+          "upvotes": 0,
+          "replies": {
+            "hormfel": {
+              "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hormfel/",
+              "text": "I see what you mean. I hope the paper quickly fades. Unfortunately, at least one other paper has cited that work. (And not in a disproving way.)",
+              "author": "bitdotben",
+              "created": 1639652706,
+              "upvotes": 3,
+              "replies": {
+                "hos039h": {
+                  "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hos039h/",
+                  "text": "Are any of the authors of the second paper potentially connected to those of the first paper? Because if so, that'd mean this hasn't yet been cited by any independent third parties, it's just an internal citation. Internal citations or citations from friends/colleagues doesn't mean the scientific community at-large is taking this paper seriously or has been \"duped\"",
+                  "author": "officially_anxious",
+                  "created": 1639661249,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "horlk3e": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horlk3e/",
+      "text": "Write the letter, don't feel bad about it. Make sure, though, to link your concerns to specific examples in the text. Right now your criticism seems undefined. \n\nAlso, don't be surprised when the next ten MDPI papers have the same problems. They are a terrible company, though admittedly they only can exist because science in general is broken.",
+      "author": "Tahh",
+      "created": 1639652025,
+      "upvotes": 14,
+      "replies": {
+        "horm815": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horm815/",
+          "text": "Yeah I'm thinking about it. Of course, it would be a lot specific, I just didn't want to talk about specifics to not identify the paper too clearly right now. I've worked out a list of pretty clear issues, which aren't really debatable. Thanks for your input!",
+          "author": "bitdotben",
+          "created": 1639652547,
+          "upvotes": 3,
+          "replies": {
+            "horww4s": {
+              "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horww4s/",
+              "text": "Also, as someone who has shamelessly published with MDPI a few times (my last job required up to 4 publications a year, on soft money, what can you do), rest assured that the authors are getting punished with countless spam from whoever the company gives their email to.",
+              "author": "Tahh",
+              "created": 1639659522,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hos7jls": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hos7jls/",
+      "text": "Just move on. Good lord 90% of published work is some variety of crap. You just have to work on being in the 10% of not crap.",
+      "author": "__x0x__",
+      "created": 1639664841,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "horlvzg": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horlvzg/",
+      "text": "If I were you I would not write to the editor. There is no point wasting your time doing that. It's even possible that it will go nowhere. MDPI is a questionable publisher with notoriously bad journals. Everyone knows that. Every expert in the field who will read this paper will understand that it is bad and ignore it. In the end, there is a natural selection process in research and this paper will be forgotten.\n\nNote that I could recommend to write such a letter when 1) the journal is top-tier or 2) the paper is already heavily cited. This case does not match any of those criteria.",
+      "author": "ko_nuts",
+      "created": 1639652287,
+      "upvotes": 11,
+      "replies": {}
+    },
+    "horqoq8": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horqoq8/",
+      "text": "My advisor and I (in fluid dynamics field) considered a journal from the MDPI family because of an irrelevant emergency situations since their response time is very short. We stumbled upon this journal because I saw a very respected, well-known member of the fluid dynamics community just published a paper there. \n\nI checked the journal and the MDPI family in general a bit and it seems they *are not* exactly predatory, although I would never publish anything there.  I actually don't know why this person published something there, anyway. \n\nIf I were you, tbh, I wouldn't give a shit. But I'm curious, can you share the journal's name?",
+      "author": "atrlrgn_",
+      "created": 1639655785,
+      "upvotes": 4,
+      "replies": {
+        "hou0zd7": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hou0zd7/",
+          "text": ">I checked the journal and the MDPI family in general a bit and it seems they bare not exactly predatory, although I would never publish anything there.  I actually don't know why this person published something there, anyway.\n\nEveryone has better research and mediocre research. Sometimes you need something published quickly for a grant proposal or similar. If it's mediocre, go for MDPI. (Only if their journals in your field are okayish).\n\nFor example, I published a Covid-situation related paper (review/opinion piece, no original research), which received great impact in my community **because** it was published quickly. It wouldn't have helped anyone 2 years later.",
+          "author": "cyberonic",
+          "created": 1639690720,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hovee6c": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hovee6c/",
+      "text": "A lot of people here suggesting go ahead and write a letter, but IMO, I\u2019d check a bit to find out if the first author is either a graduate student or very early career. Might change how you choose to respond. It\u2019s one thing to point out flaws in someone\u2019s methodology, it\u2019s another thing to do so in a way that damages a young scientist\u2019s career. Imperfect methodologies are common.",
+      "author": "GPSBach",
+      "created": 1639712408,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "horwri1": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horwri1/",
+      "text": "Out of curiosity have you looked the article up on pubpeer? I am curious if anyone else has noted problems with the paper and pubpeer is a common place to go to document such issues",
+      "author": "NellieDuck1",
+      "created": 1639659449,
+      "upvotes": 2,
+      "replies": {
+        "horxqzf": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horxqzf/",
+          "text": "I\u2019ve done so right now. No comments so far. \n\nInteresting platform btw! Good to know for future reference.",
+          "author": "bitdotben",
+          "created": 1639659994,
+          "upvotes": 6,
+          "replies": {}
+        }
+      }
+    },
+    "hos1tr6": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hos1tr6/",
+      "text": "Honestly, ignore it and move on. It's a common thing amongst people early in their career that when they see a problem they think they have to fix it. But you, talented PhD student that you are, cannot fix the broken publishing industry and it's not your job to. \n\nYou don't need to fix every problem that you see, and actually trying to is a problem behaviour (been there, did that, tanked a relationship with a boss as a result, learned my lesson). It's important to learn when you need to act and when you need to step back. This is for many reasons, firstly you'll save your mental health A LOT. Secondly, you're being paid to do X, spending your time fixing a, b and c is going to damage your work and your reputation. Thirdly, there's often a lot more to a problem than you realise and you wading in isn't helping. Lastly, managing someone who always needs to fix things rapidly stops being charming and starts being exhausting. \n\nI know you see the injustice here but so does everyone else. Fix the problem by being an advocate for alternative publishing models that will make the market far less attractive to predatory publishing, get involved in iniatives to improve how peer reviewers are treated, support things like PlanS, DORA and pre-print archives, anything to disrupt the publishing industry. That's how you fix this. Slowly, incrementally and painfully.",
+      "author": "ACatGod",
+      "created": 1639662128,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "horyvty": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horyvty/",
+      "text": "It's MDPI. Just let it go and move on. Like you said they are borderline predatory. And the quality of the papers are generally very low. I don't know anyone who would willingly publish at MDPI if they know their research/results are solid.",
+      "author": "SubcooledBoiling",
+      "created": 1639660614,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hos4cud": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hos4cud/",
+      "text": "I will never peer review for an MDPI journal again. They sent me a manuscript that had already been formatted as a near-final proof - major red flag. (Check my history, I submitted a post to this sub about it but got no responses.) The paper was easily one of the worst I\u2019ve ever reviewed. Terrible experimental design and presentation. I wrote a detailed, numbered summary of everything wrong and recommended rejection. In my comments to the editor I said it was highly unusual to get a manuscript that has already been made ready for publication. \n\nAmazingly, I got it back for a second round and was very disappointed to see that the other reviewers had recommended major and minor revision, respectively. Major I can understand, but minor revision was a ridiculous recommendation; that reviewer was clearly not a content expert at all. And the authors\u2019 responses to my comments were not what they actually revised in the paper! I flat out told the editor this was not a well-designed study, the authors were deceptive in their response to me, and it shouldn\u2019t be published. A couple weeks later I got an email saying it had been published.  Total farce.",
+      "author": "tamelotus",
+      "created": 1639663369,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hos81mg": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hos81mg/",
+      "text": "If you look at the service called \u201cscite\u201d you will see whether the paper has been supported or refuted by other papers. This is the scholarly discourse-it takes time but it is important to walk through the defined path rather than try to cut your own back to the editors-?they really have very little power to do something unless someone shows clear fraud.",
+      "author": "avamomrr",
+      "created": 1639665068,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "horpiv7": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horpiv7/",
+      "text": "If you know they lied on the publication then you can email the editor. If they told the truth about what they did--even if you don't like it--then there's nothing wrong with the paper. You can disagree with the methods but there was no dishonesty there.",
+      "author": "Winesday_addams",
+      "created": 1639654992,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "hosb02z": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hosb02z/",
+      "text": "I doubt much would be achieved with this letter... unlikely to make any difference or result in any change unless there's a crystal clear, unequivocal error (not just different call than you'd make, but like data fraud or incorrect math). Writing a take-down paper, if it is indeed a terrible paper, is much more useful for you long term.",
+      "author": "kennedon",
+      "created": 1639666369,
+      "upvotes": 0,
+      "replies": {
+        "hosepby": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hosepby/",
+          "text": "Well, it's not incorrect maths but \u201cincorrect\u201d physics. In the sense that they used equations which were not applicable at all to the regime and conditions in questions.\n\nLike assuming Newtonian physics when travelling at 0.99 speed of light. You can technically get results, and there are no errors within that approach, but the approach is super wrong.\n\nBut I'm probably not gonna bother..",
+          "author": "bitdotben",
+          "created": 1639667926,
+          "upvotes": 1,
+          "replies": {
+            "hoshfn1": {
+              "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hoshfn1/",
+              "text": "This will make any engagement with the editor tricky.\n\nIn general, most editors think it's not their job to resolve scientific questions; that's the role of peer review. If you did the math wrong, that would warrant a correction or retraction. But, if you think they used the wrong method, but the peer reviewers think they used the right one... well, the editor is not likely to care much about your dispute.\n\n(This largely makes sense, because what's 'right' and 'wrong' can be fairly subjective. For instance, imagine that you wrote an article using example X, but then some reader thought that was an unrepresentative example and you should have used example Y. You wouldn't be keen if an editor pulled the article, especially after your peer reviewers agreed that example X was valid.)\n\nThis is where writing the critique paper will make more sense. You can make the argument that example X is unrepresentative and that example Y is more representative.",
+              "author": "kennedon",
+              "created": 1639669039,
+              "upvotes": 1,
+              "replies": {
+                "hosiiib": {
+                  "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hosiiib/",
+                  "text": "Yeah, I see your point. I believe it is more blatant than you might think, but that's not the point, of course. \n\nI think I will follow your (and many others') recommendation to just pursue our own work and notice that paper and add some context. It's probably the best we can do.",
+                  "author": "bitdotben",
+                  "created": 1639669469,
+                  "upvotes": 1,
+                  "replies": {
+                    "hoskktw": {
+                      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hoskktw/",
+                      "text": "Yeah. The main point I'm trying to make is that - having been in your shoes! - 'blatant' is in the eye of the beholder, and editors will tend to be /very/ conservative in that judgement.",
+                      "author": "kennedon",
+                      "created": 1639670292,
+                      "upvotes": 1,
+                      "replies": {
+                        "hosqegz": {
+                          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hosqegz/",
+                          "text": "True.. yeah, you are right! Thanks for your insight!",
+                          "author": "bitdotben",
+                          "created": 1639672588,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "horomkx": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horomkx/",
+      "text": "RemindMe! 5 days",
+      "author": "Sri_Man_420",
+      "created": 1639654348,
+      "upvotes": 1,
+      "replies": {
+        "horoopm": {
+          "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horoopm/",
+          "text": "I will be messaging you in 5 days on [**2021-12-21 11:32:28 UTC**](http://www.wolframalpha.com/input/?i=2021-12-21%2011:32:28%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/horomkx/?context=3)\n\n[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2FAskAcademia%2Fcomments%2Frhnmvl%2Fvery_questionable_scientific_paper_in_predatory%2Fhoromkx%2F%5D%0A%0ARemindMe%21%202021-12-21%2011%3A32%3A28%20UTC) to send a PM to also be reminded and to reduce spam.\n\n^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Delete%20Comment&message=Delete%21%20rhnmvl)\n\n*****\n\n|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=List%20Of%20Reminders&message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&subject=RemindMeBot%20Feedback)|\n|-|-|-|-|",
+          "author": "RemindMeBot",
+          "created": 1639654389,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
+    },
+    "hotaety": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hotaety/",
+      "text": "Predatory journals are like the trolls of the internet, they are too many, it's spam basically. If you really want to you should write the letter. But you will find this forever in your career and it's impossible to stop them all. You can contribute by not citing and not supporting those authors and this is a good post as well. In some areas there are fraud investigators that you can also support. In my field of medical image analysis there is a woman that has found more than 300 papers with fake images and data. She was so good at finding them that the authors threatened  with lawyers and what not, but they don't have a case because they are fraudulent anyways. I would focus more on producing my own good research and sending only to good and journals or to an arxiv or an openreview. Good luck!",
+      "author": "lesolorzanova",
+      "created": 1639680313,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hotvdiv": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hotvdiv/",
+      "text": "Put them on blast",
+      "author": "Sad-Dot9620",
+      "created": 1639688525,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hov5qnm": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hov5qnm/",
+      "text": "Consider commenting on pubpeer",
+      "author": "Solid_449",
+      "created": 1639708515,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hov72r2": {
+      "link": "/r/AskAcademia/comments/rhnmvl/very_questionable_scientific_paper_in_predatory/hov72r2/",
+      "text": "Pretty sure MDPI do not publish Letters to the Editor.  Nearest they have is an \"Opinion\", which you could maybe adapt to fit your need.\n\n[https://www.mdpi.com/about/article\\_types](https://www.mdpi.com/about/article_types)\n\nPersonally, would put a few pertinent comments on Pubpeer, and mentally consign the paper to the trash bin.  Anything else is likely to be pretty futile.",
+      "author": "Life_time_learner",
+      "created": 1639709112,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

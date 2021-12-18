@@ -1,0 +1,119 @@
+{
+  "sid": "rinvip",
+  "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/",
+  "title:": "Any point in submitting an applied math paper to a journal if it uses \"simple\" math?",
+  "text": "I'm a high school student and I wrote a paper about a working method for modeling one-dimensional heat transfer into an egg. It is an applied math paper, and the most complex thing I have done is deploy parametric equations and some simple multivariate calculus. \n\nDespite using relatively simple math, I feel that my work answered a question that has been largely ignored by the literature on this topic, which is accurately modeling the surface area of an egg. I worked on this as a passion project, but I feel that maybe it's worth publishing. At the same time, I feel like anyone who is experienced in mathematics would scoff at its lack of complexity and immediately dismiss it as amateurish. Should I still submit my paper to my regional journal?",
+  "author": "nNutritious",
+  "created": 1639766382,
+  "updated": 1639787244,
+  "over_18": false,
+  "upvotes": 27,
+  "upvote_ratio": 0.93,
+  "comments": {
+    "hoy91mv": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoy91mv/",
+      "text": "You should look for undergraduate or regional journals as potential outlets.",
+      "author": "CerebralBypass",
+      "created": 1639766481,
+      "upvotes": 49,
+      "replies": {}
+    },
+    "hoy95s3": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoy95s3/",
+      "text": "Beware that it may not be the math if it gets rejected.\n\nProcess of publication often involves multiple iterations of a paper before it even gets published. Between getting rejected at journals, going to conferences and getting feedback, and getting feedback from your mentors and peers, you are likely to miss several of these steps.\n\nI don\u2019t want to discourage you from working on this. It\u2019s cool that you have this interest. Just beware of the entire process\n\nEdit: simply because something is simple does not disqualify it. Simple and elegant is better than complex and obtuse.",
+      "author": "EconomistPunter",
+      "created": 1639766524,
+      "upvotes": 37,
+      "replies": {}
+    },
+    "hoyr1gd": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoyr1gd/",
+      "text": "I think this is a useful endeavor. A journal for high school or even undergrad students would probably accept it. \n\nIf this is relevant to your future college major you might want to think about where you might want to go to school, look into who does related work, and reach out to a professor and ask for feedback. You could start to build a working relationship and it might help you get your foot in the door. Also most journals charge a publishing fees so having a more senior mentor comes in handy for that as well.",
+      "author": "MercuriousPhantasm",
+      "created": 1639773589,
+      "upvotes": 10,
+      "replies": {}
+    },
+    "hoymdu8": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoymdu8/",
+      "text": ">I feel that my work answered a question that has been largely ignored by the literature on this topic, which is accurately modeling the surface area of an egg.\n\nDoes it? How are you sure? Have you compared your model to simulations or experiments? Not trying to be a jerk, those are just the first questions any reviewer will ask. \n\nWho did your write it with?",
+      "author": "CheeseWheels38",
+      "created": 1639771710,
+      "upvotes": 22,
+      "replies": {}
+    },
+    "hoylhqt": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoylhqt/",
+      "text": "It is great that a young student is already working on trying to publish. However, the attitude of the reviewers will be reflected in questions like:\n\nWho is interested in heat transfer to the surface of an egg? Why would someone be interested in this topic. Just because you are passionate about this, does not mean that it is a worthwhile topic. Are there other problems that can be solved using the same technique? Has this technique been already been applied to other topics?",
+      "author": "karanfil_kokusu",
+      "created": 1639771352,
+      "upvotes": 14,
+      "replies": {
+        "hoz81mm": {
+          "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoz81mm/",
+          "text": "I image this could be interesting for applications in farming or biology studying embryonic development. I wonder if journals within these fields would have some interest.",
+          "author": "PeaceAndPrajna",
+          "created": 1639780537,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hoyvcrb": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoyvcrb/",
+      "text": "Do you have a faculty or teacher advisor who has helped with this? You might be interested in looking at journals published by professional societies for educators. I'm in physics and in our field the American Association of Physics Teachers publishes both *The Physics Teacher* and *American Journal of Physics*. The former is mainly aimed at lower division/high school physics and the latter at university level and physics education research. If there is something similar in applied math that might be a good place to publish saying that because of the relatively   \n\"simple\" level of math needed this project would make a good approach for students.",
+      "author": "troixetoiles",
+      "created": 1639775320,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hoz3yv7": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoz3yv7/",
+      "text": "I think you should submit it to an undergrad journal because 1) you never know and 2) even the process of getting rejected is a very educational experience. A good reviewer will provide you with a lot of papers/research to learn and think about. You shouldn't worry about them responding with anything mean: I've had plenty of rejected papers, and the reviewers have always been respectful. It's just part of the process of peer review.\n\nHowever, for a paper to be accepted, it needs to have a novel contribution. From what you've described, it sounds like you applied an existing method to a specific problem. So unfortunately, I think you should go into it knowing that it's likely it'll be rejected.\n\nSome tips for getting this paper accepted:\n\n1. Can your approach be generalized to more than just an egg? If so, that's worth discussing. If not, how can it be made more general?\n2. Are you absolutely, totally, 100% sure that nobody has explored this space before? Make sure you're looking in academic journals/conferences, not google. Your local university will have access to a lot of these papers for free (you just need to be on the wifi). They'll also have library staff that will probably be willing to help you in your literature search.\n3. With those first two points in mind, how can you frame this as a novel contribution? Is it a novel contribution? If not, what do you need to do to make it novel?\n\nBest of luck!",
+      "author": "secretlizardperson",
+      "created": 1639778838,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hozd10o": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hozd10o/",
+      "text": "A paper is worthy of publication if you are providing new science. The quality of the journal really depends on the impact of that science.\n\nIf you honestly think that you have answered a question in a research gap, then that's great! Although I would honestly recommend trying to find a senior academic to support it.\n\nI'm sure the work you've done is great, but unless it's something you spend a considerable amount of time on (i.e. 40+ hours a week doing a PhD, postdoc etc.) then there's a reasonable chance that you might have missed something. There are lots of papers out there.\n\nIf you're doing multivariate calculus as a high school student, you have a bright future either way",
+      "author": "Sainsbo",
+      "created": 1639782634,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hoykudw": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoykudw/",
+      "text": "If your paper is of potential interest for people who raise chickens, then you can approach them to see if they are interested in making it into a commercial product.\n\nI am serious here. Google, for example started with a good method to rank things.\n\nBefore submitting to a journal or so on, try to put on an online repository such as arXiv, to keep your copyright.  \n\nOf course you can try to submit to journals as well. However, journals are not everything. There are many ways to do and use  research, nowadays.",
+      "author": "tuyenttoslo",
+      "created": 1639771087,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hoyq0dn": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoyq0dn/",
+      "text": "Awesome!\n\nHow great for you!\n\nAs another mentioned, the journal process can be difficult for anyone unless you're known as THE person in your field, and even that doesn't guarantee anything.\n\nIt CAN be done in HS; Natalie Portman published ... neuro, iirc.\n\nYou might see if you can find another academic to look it over, which could allow you a co-sponsor. Math Dude, PhD or Ag Dude, PhD from YourStateUniversity might be a decent ally. Choose wisely, though.\n\nJust my two cents.",
+      "author": "gobucks314",
+      "created": 1639773175,
+      "upvotes": 0,
+      "replies": {}
+    },
+    "hoz9vti": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoz9vti/",
+      "text": "Publications aside, I'm just happy for you!\n\n\\>90% of the things that we need to solve in real life does not need sophisticated math. I'm glad that you've put your math in good use. \n\nI think that you should submit. I tried to submit something to a math publisher when I was 10 because I was an snot nosed idiot with time, an envelop and a stamp. The editor wrote back very nicely and gave me a book, it was in life changing in a gentle and small way. Now I mentor high school kids sometimes too and love to see things they show me, they're always smarter and more resourceful than I'd have imagined. It really cheers me up. \n\nRegardless the outcome, it is a good thing for you to do. So what ever your decision is, good luck! \n\n&#x200B;\n\nP.S.: If you DO decide to major in math, please choose a minor that will bring home the dough. I learned it the hard way. computer science is an easy and fruitful choice.",
+      "author": "cuddle_cuddle",
+      "created": 1639781310,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hozbjkf": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hozbjkf/",
+      "text": "You should get in touch with a relevant prof (or postdoc or even senior grad student) at your local research university. Ask them to take a look and to help you post your work to ArXiv (you need someone who has posted before in the relevant category to approve your first post). After you've posted it to ArXiv, you can think about journals but that is less important. ArXiv is the standard way that most physicists and mathematicians share their work with each other before submitting it to journals.",
+      "author": "DevFRus",
+      "created": 1639782009,
+      "upvotes": 1,
+      "replies": {}
+    }
+  }
+}

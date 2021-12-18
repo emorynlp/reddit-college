@@ -8,15 +8,15 @@ Subreddits related to college.
 
 ## Statistics
 
-* [ApplyingToCollege](dat/ApplyingToCollege): 14,809
-* [AskAcademia](dat/AskAcademia): 2,583
-* [College](dat/College): 8,377
+* [ApplyingToCollege](dat/ApplyingToCollege): 15,815
+* [AskAcademia](dat/AskAcademia): 2,616
+* [College](dat/College): 8,753
 * [CollegeAdvice](dat/CollegeAdvice): 818 (last update: 2021-10-12)
-* [CollegeMajors](dat/CollegeMajors): 1,267
-* [CollegeRant](dat/CollegeRant): 2,442
-* [Emory](dat/Emory): 1,579
-* [GradSchool](dat/GradSchool): 3i,426
-* Total: 34,483
+* [CollegeMajors](dat/CollegeMajors): 1,274
+* [CollegeRant](dat/CollegeRant): 2,480
+* [Emory](dat/Emory): 1,591
+* [GradSchool](dat/GradSchool): 3,515
+* Total: 36,044
 
 
 ## Format

@@ -1,0 +1,172 @@
+{
+  "sid": "ri6z0u",
+  "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/",
+  "title:": "Huge mistake in Bachelor Thesis. Will i loose my degree?",
+  "text": "\nA few months ago I submitted my thesis and graduated. The results where promising and my supervisor wrote a paper on it but it's mostly the same thing just way shorter. The paper got reviewed and has good chances of getting accepted soon, however the reviewers asked to clarify some more things if it gets accepted.\n\nMy supervisor contacted me and asked me if I could gather some more data to help him with that, however when I started I noticed that certain results were a bit off from what I wrote in the thesis I submitted. I double checked and found out that during the thesis I mistakenly took the wrong dataset for the evaluation.\n\nBasically I created a dataset that i used to generate some indicators, and I was supposed to evaluate the indicators on another dataset. Probably because of the lack of sleep, stress and tiredness I copy/pasted the first one to the folder for the evaluation and evaluated the indicators on the same dataset that created them...\nThe conclusion and discussion don't change much as the results are a bit worse but still promising.\n\nHowever right now I'm panicking because tomorrow i will call the supervisor to tell him about the mistake, also in order to not publish the wrong data, but I'm really afraid I will lose my degree because of this. Do any of you have any experience with something similar?\n\n\nEDIT: Thank you so much for the support and the comments. It really helped me to calm down and see this from an objective point of view. I spoke with the supervisor and no, I won't lose my degree. He mentioned that the evaluation was just a minimal part of the work (given as a proof-of-concept) and that the contribution as a whole was still solid. The results also showed that, while being  ~10-15% worse in two particular cases, hold true for the purpose of the work and for the most important case where there is no difference even when the indicators were overfitting the wrong dataset and therefore there is no need for a revision (although I disagree on this last point, however I'll see what I can do after the Christmas holidays).\n\nTo reply to the comment about the paper authorship: I got help during the thesis and I won't be continuing my studies, therefore for me it's indifferent whose name is the first. About the \"accusation\" of plagiarism, since he supervised the thesis I don't believe this is the case. He also asked me if I agreed to him writing a paper about this and I was ok with that.",
+  "author": "ForbiddenException",
+  "created": 1639708764,
+  "updated": 1639787248,
+  "over_18": false,
+  "upvotes": 80,
+  "upvote_ratio": 0.88,
+  "comments": {
+    "hov90hg": {
+      "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hov90hg/",
+      "text": "No, a degree would never be removed for this type of mistake. Only gross misconduct would result in your university garnishing a degree, which you clearly didn\u2019t engage in. \n\nThe results still look promising, so you can simply print a retraction or revision (depending on the severity) and both you and your supervisor will be fine. \n\nAs another comment mentioned, ensure you\u2019re getting first author on the paper if it is your work condensed and rewritten by your supervisor.",
+      "author": "AydenClay",
+      "created": 1639709972,
+      "upvotes": 139,
+      "replies": {}
+    },
+    "hov849a": {
+      "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hov849a/",
+      "text": "1. You won't lose your degree.\n2. Why is your supervisor snatching up your work? You should be publishing it instead in your name.",
+      "author": "fireguyV2",
+      "created": 1639709562,
+      "upvotes": 98,
+      "replies": {
+        "hovc6vq": {
+          "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hovc6vq/",
+          "text": "Where I\u2019m from it\u2019s common for supervisors to be on the paper with the student. And at that level OP\u2019s data likely is just part of a larger paper which might explain why they aren\u2019t writing it themselves. However if it is just OP\u2019s data I hope you had the opportunity to write it yourself and be first author!",
+          "author": "katlal",
+          "created": 1639711420,
+          "upvotes": 30,
+          "replies": {}
+        }
+      }
+    },
+    "hovhbvt": {
+      "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hovhbvt/",
+      "text": "Thank you very much for the replies. \n\nThe paper is just a condensed version of my thesis, but I'm not the first author because the supervisor contacted me about that just a week before submitting it and I missed that e-mail...\n\nI'll contact him tomorrow to see what I can do, but I feel better about it now and a bit less panicky, although I don't think I'll manage to sleep tonight.",
+      "author": "ForbiddenException",
+      "created": 1639713716,
+      "upvotes": 23,
+      "replies": {
+        "hovp76x": {
+          "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hovp76x/",
+          "text": "You should discuss authorship! This happened to me, and I regret it.",
+          "author": "mlcyo",
+          "created": 1639717636,
+          "upvotes": 32,
+          "replies": {}
+        },
+        "howgywu": {
+          "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/howgywu/",
+          "text": "Authorship isn't determined by who answers an email. If the bulk of this paper is based on your work, you should be first author. \n\nThink you should have a chat with him.",
+          "author": "ACatGod",
+          "created": 1639736885,
+          "upvotes": 26,
+          "replies": {}
+        },
+        "hovub9w": {
+          "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hovub9w/",
+          "text": "What author number are you? Person that did the work should be first and supervisor should be last (aka \"paid for the work\")",
+          "author": "godelski",
+          "created": 1639720556,
+          "upvotes": 8,
+          "replies": {}
+        },
+        "howfme3": {
+          "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/howfme3/",
+          "text": "So your supervisor submitted your work without your consent? That's weird and questionable.",
+          "author": "reddituser_123",
+          "created": 1639735845,
+          "upvotes": 12,
+          "replies": {
+            "howgni3": {
+              "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/howgni3/",
+              "text": "Yes, could even qualify as plagiarism.",
+              "author": "meanmissusmustard86",
+              "created": 1639736639,
+              "upvotes": 4,
+              "replies": {
+                "howx4bm": {
+                  "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/howx4bm/",
+                  "text": "Most likely it is plagiarism. A clear breach of ethics. I can\u2019t believe all the stuff I read here, would never happen at my institute!",
+                  "author": "Fuzzy-Dragonfruit589",
+                  "created": 1639747059,
+                  "upvotes": 5,
+                  "replies": {
+                    "hox0cpi": {
+                      "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hox0cpi/",
+                      "text": "Same!",
+                      "author": "meanmissusmustard86",
+                      "created": 1639748634,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "hoxulm2": {
+              "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hoxulm2/",
+              "text": "Well not really. He asked me if I was ok if they tried to publish a paper on the topic and asked me if I wanted to be mentioned in the authors, but for that I needed to help with the process, but in the end he never called me.  The final submission was done more per necessity without me looking at the paper, since it was near the deadline. I just would have liked if he told me sooner that he was already working on it. Regarding the order of the authors, speaking with some friends I thought this was pretty common (not being the first as a BA or MA student).",
+              "author": "ForbiddenException",
+              "created": 1639760942,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        },
+        "howx0cl": {
+          "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/howx0cl/",
+          "text": "You should be the first author, anything else is just unethical IMO.\n\nAnd yes, let the supervisor know of the mistake. You\u2019ll keep your degree and that\u2019s how science is supposed to be done. Mistakes are made, but they must be corrected. Good luck!",
+          "author": "Fuzzy-Dragonfruit589",
+          "created": 1639747004,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "howf5zg": {
+      "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/howf5zg/",
+      "text": "Don't worry, mistakes like this happen. It is good that you are concerned about it, that you want to correct the mistake.\n\nIn the future, think about how you can prevent something like this from happen again. In a good scientific workflow, data sets have unique identifiers, and the programs you use for data processing should log and archive all steps. I know that is currently not the case in many fields, but funding agencies are increasingly demanding this level of documentation - also in light of making more research data open access in the future.",
+      "author": "territrades",
+      "created": 1639735488,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "howbq6f": {
+      "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/howbq6f/",
+      "text": "oh you mean the thing i do on every project",
+      "author": "uotsca",
+      "created": 1639732779,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hoxop09": {
+      "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hoxop09/",
+      "text": "Wow, I feel this. Same story. Some nights, I still\nbreak out in sweats worrying if someone might catch something wrong in my data analysis.",
+      "author": "alchemicalchemist",
+      "created": 1639758715,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hox5l3y": {
+      "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hox5l3y/",
+      "text": "It anything, it\u2019ll tighten it up a bit.",
+      "author": "bandrail",
+      "created": 1639751034,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hox1ys1": {
+      "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hox1ys1/",
+      "text": "I think u might just by the misuse of lose and loose...smh",
+      "author": "fukkifiknow",
+      "created": 1639749393,
+      "upvotes": -8,
+      "replies": {
+        "hoxp5aw": {
+          "link": "/r/AskAcademia/comments/ri6z0u/huge_mistake_in_bachelor_thesis_will_i_loose_my/hoxp5aw/",
+          "text": "Before replying, ask yourself if your comment holds any meaning and contributes to the post. If not, don\u2019t write it.",
+          "author": "alchemicalchemist",
+          "created": 1639758888,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    }
+  }
+}
