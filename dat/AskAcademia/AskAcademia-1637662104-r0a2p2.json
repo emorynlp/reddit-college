@@ -5,7 +5,7 @@
   "text": "Hey science people! I\u2019ve been putting together some diagrams and flowcharts all this time myself in MS Word or PowerPoint, but I\u2019ve started wondering what are the other people using? Share your thoughts and experiences!",
   "author": "erin59",
   "created": 1637662104,
-  "updated": 1637688568,
+  "updated": 1639838922,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -82,7 +82,16 @@
           "author": "erin59",
           "created": 1637670267,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hlsvdqe": {
+              "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlsvdqe/",
+              "text": "I often times start with a template but delete/add/ungroup elements to make it more customizable",
+              "author": "proper-peony",
+              "created": 1637693901,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
         }
       }
     },
@@ -91,6 +100,23 @@
       "text": "I've never had to do anything really complicated, but I've occasionaly used Microsoft Visio which is literally designed for this and works well.",
       "author": "JHT230",
       "created": 1637675418,
+      "upvotes": 1,
+      "replies": {
+        "hltymd5": {
+          "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hltymd5/",
+          "text": "I can second that, if you\u2019re used to office products Visio seems the logical solution",
+          "author": "Ntec0215",
+          "created": 1637709707,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hlu33ce": {
+      "link": "/r/AskAcademia/comments/r0a2p2/software_for_diagrams/hlu33ce/",
+      "text": "I\u2019m surprised nobody mentioned PGF/TIkZ.",
+      "author": "tpolakov1",
+      "created": 1637711719,
       "upvotes": 1,
       "replies": {}
     }

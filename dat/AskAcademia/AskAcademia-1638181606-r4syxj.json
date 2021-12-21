@@ -5,7 +5,7 @@
   "text": "Note: I know you can not give me a perfect answer because this is largely a legal issue, and it depends on many tiny details. But any ideas or thoughts are highly appreciated.\n\nOkay, so here is the situation.\n\nThe lab I work in is in close collaboration with a massive corporation. But recently the milestones the corporation set were not met (the topic was waaay overhyped). On top of that one of the postdocs in the project was found to be tweaking the data in the way they definitely should not. That was inexcusable. Nonetheless, I have no reason to believe that anyone except for that one person was doing anything malicious or inappropriate. And I am 100% sure that no one who is affected now was involved in that - almost everyone started working in this lab only after the related paper was published. Understandably, this led to a PR s**tstorm, paper retraction etc. This sucks for us, but I get it. Tough luck, someone screwed up and there is nothing we can do about it.\n\n(Edit/clarification: none of the directly affected people were involved in the wrong treatment of the data. The people involved should be subject to appropriate investigation. Me and my colleagues who were most affected had joined the group in the period after misconduct and before it was revealed.)\n\nRecently the copro part of the project is a complete mess. I don't understand exactly, but they have some issues between the managers, senior researchers, and I guess they worry about PR.\n\nIn the agreement with corpo and the uni, the uni promised to send the papers and public presentations for IP review, before they are submitted. Annoying, but makes sense. We get money, they want to patent stuff, fair enough. They have certain deadlines to give us a thumb up or flag the submission.\n\nAnd here is where the problem lies. There is no clause for what can be the reason for flagging the submission, and there is no clause for what happens if they don't meet the deadline. There is only a clause that we cant submit without permission.\n\nBut what they started doing is this. on some occasions they do not meet the deadline and just keep us waiting. On other occasions they say: your submission is approved provided that you remove J. Doe (employee of the corpo) from the author list. A far as I can tell, this is against policies of all publishers, and in breach of contract. And I know a bunch of people whose careers start suffering, because they are not able to publish their work. But if we submit the publications, then we are in breach of contract. Even though the contract states that the intention is to publish all our work.\n\nI do my best to push the representatives of the uni to resolve this, but there is no date by which there will be any decision. Any day now, my publication will also get stuck in the limbo...\n\nWTF can I do? Just publish after the official deadline? Because otherwise my scientific output starts taking a hit. Sit quiet and hope that the problem will solve itself? Because then the corpo may go legally after the uni.",
   "author": "Oficjalny_Krwiopijca",
   "created": 1638181606,
-  "updated": 1638206269,
+  "updated": 1639843552,
   "over_18": false,
   "upvotes": 8,
   "upvote_ratio": 1.0,
@@ -167,7 +167,16 @@
                                   "author": "Oficjalny_Krwiopijca",
                                   "created": 1638198687,
                                   "upvotes": 1,
-                                  "replies": {}
+                                  "replies": {
+                                    "hmk0v0b": {
+                                      "link": "/r/AskAcademia/comments/r4syxj/the_corporation_with_whom_we_are_collaborating/hmk0v0b/",
+                                      "text": "The reaction honestly seems pretty normal for a research collaborator working with a lab that has had tainted research come out of it.  It doesn't matter that your work is on something different; it matters that you are working in a research environment that has quite publicly been proven to have inappropriate leadership, operating practices, and publishing practices to have detected and dealt with fraud before it was published.  A collaborator's concern isn't just going to be \"what did that one bad guy do\", it's \"what is the lab culture and ethical culture like at this lab that it was ever allowed to get as far as it did\"?  Everything your lab does is under a cloud now whether or not it's directly related to what that other person did. That sucks, but it's not something unusual this one company is doing to your lab.  It's just how these situations work.\n\nIt sounds like the company is doing appropriate due diligence in ths situation. The problem is only that they aren't doing it in the specified time frame and you can work on lighting a fire under their feet about that, or that you have a bad contract that never specified a time frame, in which case maybe you can talk with your contracting folks about trying to negotiate a contract amendment to handle this in the future.",
+                                      "author": "Amaranthesque",
+                                      "created": 1638208292,
+                                      "upvotes": 2,
+                                      "replies": {}
+                                    }
+                                  }
                                 }
                               }
                             }
@@ -182,6 +191,22 @@
                           "replies": {}
                         }
                       }
+                    },
+                    "hmknh3g": {
+                      "link": "/r/AskAcademia/comments/r4syxj/the_corporation_with_whom_we_are_collaborating/hmknh3g/",
+                      "text": "You are still kind of tangentially associated with this whole data falsification issue. This is a huge deal in industry. It also just adds to the amount of skepticism that everyone in industry has about academic research given how much of it cannot be reproduced. This company would be stupid to proceed without an excess of caution.",
+                      "author": "kirby726",
+                      "created": 1638217344,
+                      "upvotes": 1,
+                      "replies": {}
+                    },
+                    "hmlys6n": {
+                      "link": "/r/AskAcademia/comments/r4syxj/the_corporation_with_whom_we_are_collaborating/hmlys6n/",
+                      "text": "It sounds like this happened in your PI's lab at your institution though, by a postdoc under his/her supervision?\n\nThe contract is not with you as a grad student, even if you've done all the work and know your work is sound. The contract is with the institution/PI of the group. If they're tainted, you're affected.",
+                      "author": "IAmAQuailBiologist",
+                      "created": 1638237732,
+                      "upvotes": 1,
+                      "replies": {}
                     }
                   }
                 }
@@ -190,6 +215,14 @@
           }
         }
       }
+    },
+    "hmm4diu": {
+      "link": "/r/AskAcademia/comments/r4syxj/the_corporation_with_whom_we_are_collaborating/hmm4diu/",
+      "text": "Authorship criteria are GUIDELINES.  Contracts and IP are the LAW.\n\nVery big difference.  Be careful you do not get on the wrong side of this. Massive corporations tend to have large legal departments.  \n\nPersonally, I would cover myself and get a letter from the disputed author saying that they agree not to be included as an author (just to cover myself).  And would wait until I had a green light to publish.",
+      "author": "Life_time_learner",
+      "created": 1638240212,
+      "upvotes": 1,
+      "replies": {}
     }
   }
 }

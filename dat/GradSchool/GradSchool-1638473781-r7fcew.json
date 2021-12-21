@@ -5,7 +5,7 @@
   "text": "Hi everyone. I'm a 1st-year PhD student in Psychology.\n\nHonestly, I'm not that busy. Some days, I just have nothing to do. I am getting two studies going, but the only way to collect data for them is by bringing kids into the lab, and the RAs take care of recruitment. We really only get participants to come in on the weekends, maybe one on a weekday. So it's slow.\n\nI just feel like there's pretty much nothing I could be doing right now to speed up my studies. I'm still piloting so can't even report back to my PIs with data. I could read papers and do lit reviews but I already did those for my studies, and my PIs don't want me to start anything new until these two studies are well underway. Classes are done, but honestly even those didn't keep me terribly busy.\n\nI just feel so guilty because 1) I'm a super hard worker and in my previous lab I was a lab manager and just so busy and going to collect data at museums any chance I could get, or recruiting preschools, checking on RAs, etc. 2) My boyfriend is a chemistry PhD student who is in the lab like 9-5 everyday. He always has so much to share about his day and I'm just kinda like...I read some papers?\n\nFeels very boring and sometimes I even feel guilty for getting paid to do very little. Especially with my siblings working 9-5 jobs and kind of seeing me as an eternal student.",
   "author": "millystelescope96",
   "created": 1638473781,
-  "updated": 1638481092,
+  "updated": 1639881531,
   "over_18": false,
   "upvotes": 4,
   "upvote_ratio": 0.84,
@@ -38,10 +38,77 @@
                   "created": 1638480372,
                   "upvotes": 2,
                   "replies": {}
+                },
+                "hmzzpo1": {
+                  "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hmzzpo1/",
+                  "text": "This book is a great resource for learning R.\n\nWickham, H., & Grolemund, G. (2016).\u00a0R for data science: import, tidy, transform, visualize, and model data. \" O'Reilly Media, Inc.\".",
+                  "author": "warwick607",
+                  "created": 1638488574,
+                  "upvotes": 7,
+                  "replies": {
+                    "hn02a0i": {
+                      "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hn02a0i/",
+                      "text": "And it's free! That's also where I got started in tidyverse.",
+                      "author": "BezoomyChellovek",
+                      "created": 1638489700,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            },
+            "hn2iloe": {
+              "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hn2iloe/",
+              "text": "See the comment by u/jbobbenson27 if you haven\u2019t yet. Knowing R or another statistical analysis package will do nothing but help you in the long run.",
+              "author": "AStruggling8",
+              "created": 1638541353,
+              "upvotes": 1,
+              "replies": {}
+            },
+            "hn4qm49": {
+              "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hn4qm49/",
+              "text": "Knowing how to code and analyze data will improve your chances. Plus, I have never heard a single person say they regret spending time learning to code. It makes everything you do easier in the long run.",
+              "author": "You_Stole_My_Hot_Dog",
+              "created": 1638575018,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        },
+        "hn03j03": {
+          "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hn03j03/",
+          "text": "New-ish psychology PhD - not learning R is my biggest regret. I'm doing it now as a new Prof, but wish I'd done it sooner.",
+          "author": "jbobbenson27",
+          "created": 1638490263,
+          "upvotes": 15,
+          "replies": {
+            "hn2qw1e": {
+              "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hn2qw1e/",
+              "text": "Do you have any good resources for learning R?",
+              "author": "mrt1416",
+              "created": 1638544974,
+              "upvotes": 2,
+              "replies": {
+                "hn2whpx": {
+                  "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hn2whpx/",
+                  "text": "Th free book \"R for Data Science\" by Hadley Wickham is a great intro. From there though you'll learn the most just by writing R code. Either for fun projects or your actual data analysis.",
+                  "author": "BezoomyChellovek",
+                  "created": 1638547269,
+                  "upvotes": 2,
+                  "replies": {}
                 }
               }
             }
           }
+        },
+        "hn2idwd": {
+          "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hn2idwd/",
+          "text": "This is great advice. If you\u2019re doing any kind of science PhD, learning a scientific programming language like R or Python (or MATLAB which I use but it\u2019s not free) will help you in the long run. It\u2019s honestly kinda crazy at this point that undergrad science degrees (at least at my school) don\u2019t do a basic course in Python given the state of science and research today.",
+          "author": "AStruggling8",
+          "created": 1638541254,
+          "upvotes": 3,
+          "replies": {}
         }
       }
     },
@@ -58,6 +125,63 @@
       "text": "Solidarity, OP.  I'm in the first year of my program as well and I'm actually pretty shocked at how much free time I manage to build into my schedule.",
       "author": "Femmeforever",
       "created": 1638479807,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmzkmhg": {
+      "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hmzkmhg/",
+      "text": "I get it, but let yourself have this time. I promise your business will increase each year - do you want to look back and think \u201cI\u2019m glad I took advantage of that extra leisure time to relax\u201d or \u201cWhy did I give myself unnecessary work when I had the chance to chill\u201d? \n\nBusy days will come. Take advantage of this freer time period in whatever way is meaningful to you.",
+      "author": "Jwalla83",
+      "created": 1638482332,
+      "upvotes": 23,
+      "replies": {
+        "hn0c1tu": {
+          "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hn0c1tu/",
+          "text": "Yes, this. I was complaining to my therapist about a slow time in research and she basically said that that\u2019s how research is\u2013 cyclical. There\u2019s busy times and there\u2019s slow times. \n\nAnd then she said the words that will replay in my head sometimes: \u201cI hope you can enjoy this.\u201d This time is a gift!",
+          "author": "quintessentialquince",
+          "created": 1638494141,
+          "upvotes": 7,
+          "replies": {}
+        },
+        "hn146pa": {
+          "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hn146pa/",
+          "text": "This! Go to the gym, read a book for fun, call your parents. Enjoy the free time while you have it.",
+          "author": "arl1286",
+          "created": 1638506941,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
+    },
+    "hn02p7m": {
+      "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hn02p7m/",
+      "text": "Can you do a mini paper? Short communications, mini review, technical notes, etc. Publish as quickly as possible",
+      "author": "electropop999",
+      "created": 1638489889,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hmzjljt": {
+      "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hmzjljt/",
+      "text": "First year assistantships come with the assumption that you will need extra time for schoolwork.  It is sort of built in that you may only work 10 hours/week on a 20 hour/week contract as a first year but in your fifth year you may work 25 hours/week in a similar role. \n\nYou should not feel guilty and use that time to study. Once you progress in your program,  you will learn how to fill those gaps in time. For example, you could be writing up the code to analyze the results or writing the procedures while you wait.",
+      "author": "local_man_says",
+      "created": 1638481936,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmzy6wm": {
+      "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hmzy6wm/",
+      "text": "You could use the time to create a sports betting algorithm that spots value in opening lines. Please let me know when you finish.",
+      "author": "TheScathingQueef",
+      "created": 1638487910,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmzz32j": {
+      "link": "/r/GradSchool/comments/r7fcew/im_really_not_that_busy_and_i_feel_bad_about_it/hmzz32j/",
+      "text": "This happens in psych. I like to read when I have a slow period, or do coding stuff like others have mentioned.",
+      "author": "-QuietStorm-",
+      "created": 1638488299,
       "upvotes": 1,
       "replies": {}
     }

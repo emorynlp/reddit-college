@@ -5,7 +5,7 @@
   "text": "If you all need some simple stats here's a go-to. Hope it helps.\n\nThis was presented to graduate students in the Faculty of Forestry at the University of Toronto.\n\n[https://www.youtube.com/watch?v=GDrEwz8r8Xc](https://www.youtube.com/watch?v=GDrEwz8r8Xc)\n\nFirst, a general introduction to probability, assumptions of inference, and hypothesis testing. The second requirement is to perform the analyses, including managing the data using some statistical software.\n\nAt the vanguard of such software is the R statistical software [https://www.r-project.org/;](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWVHOVNHcG95V1ZFcWF5SDdsdXVFUFgwVk9YZ3xBQ3Jtc0ttYUZYVmQzQ1E4MkRaNTFqN2NjNXE4TXNqMW5UZ1BuZGhmZUk3SjUwQ3RFT24tLW5IZkdpczJ6T0t5dWdlU1FaOFJDVngxVUlrYWRnOVREZVhXaHNQaXk0VWN1dHVXWTRRWFBxS1ZKY0RvNTRyTjRlWQ&q=https%3A%2F%2Fwww.r-project.org%2F%3B)\u200b and its integrative environment Rstudio [https://www.rstudio.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazB0NjQtTlZvRlp4cDZudWM0dzJfOTQyaEViQXxBQ3Jtc0tsY201bG5pbGltSWhWOVl2YUlvQlNQbk9Delg2bWVHRlluOGNQNUFqUlhqeEVBUEtwcHFNMDRjR2ZsZGV4YzVac0pzV050TzVGbElPdEN3MThyTGFLODFiRlJMOWdESkc5R0NOdW53SGZuMDAtRHBwaw&q=https%3A%2F%2Fwww.rstudio.com%2F)\u200b. Few programs constitute the virtues of open-sources highly integrated and powerful programs as the R statistical software - taught to the modern student in most institutions.\n\nThe following video comprises the time-stamped functions and analyses:\n\n1. Intro to data management, probability, and data presentation ([0:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=0s)\u200b-[13:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=780s)\u200b min)\n2. Intro to producing graphs with R studio ([13:15](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=795s)\u200b - [17:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=1020s)\u200b min)\n3. Subsetting the data ([23:20](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=1400s)\u200b)\n4. 'attach' function in R ([23:47](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=1427s)\u200b min)\n5. 'summarySE' ([24:45](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=1485s)\u200b min)\n6. Using the plot function ([28:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=1680s)\u200b - [34:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2040s)\u200b min)\n7. Package 'sciplot' for bar graphs 'bargraph.CI' function ([34:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2040s)\u200b - [36:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2160s)\u200b min)\n8. Analysis of Variance including Tukey HSD (ANOVA) ([36:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2160s)\u200b - [40:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2400s)\u200b min)\n9. Creating Line Plots and Scatter plot ( [42:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2520s)\u200b-[45:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2700s)\u200b min)\n10. Regression analyses via 'lm' function - linear - ([45:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2700s)\u200b - [48:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2880s)\u200b mins)\n11. Correlation analysis ([48:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=2880s)\u200b -[51:00](https://www.youtube.com/watch?v=GDrEwz8r8Xc&t=3060s)\u200b mins)\n\nThe video finishes with a summation of what we've learned. If you like this material, then please like and subscribe to this channel.",
   "author": "In_Robarts_We_Stand",
   "created": 1638145084,
-  "updated": 1638207924,
+  "updated": 1639877141,
   "over_18": false,
   "upvotes": 179,
   "upvote_ratio": 0.97,
@@ -76,6 +76,50 @@
           "created": 1638161522,
           "upvotes": 1,
           "replies": {}
+        }
+      }
+    },
+    "hmkp3tg": {
+      "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmkp3tg/",
+      "text": "Can't believe the forestry department is the one to come up with a good stats primer \ud83d\ude2d",
+      "author": "extra-plus-ordinary",
+      "created": 1638217998,
+      "upvotes": 1,
+      "replies": {
+        "hmlbd9r": {
+          "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmlbd9r/",
+          "text": "[removed]",
+          "author": null,
+          "created": 1638227099,
+          "upvotes": 1,
+          "replies": {
+            "hmo8tn3": {
+              "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmo8tn3/",
+              "text": "I'm actually from UofT, and I'm surprised only because our statistics department is well known for being confusing and bad at teaching; many lifesci students struggle with the mandatory stats course. If only we took this book instead....",
+              "author": "extra-plus-ordinary",
+              "created": 1638286936,
+              "upvotes": 1,
+              "replies": {
+                "hmte45j": {
+                  "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmte45j/",
+                  "text": "[removed]",
+                  "author": null,
+                  "created": 1638378212,
+                  "upvotes": 1,
+                  "replies": {
+                    "hmudpg8": {
+                      "link": "/r/GradSchool/comments/r4ihw1/psssttt_you_guys_want_a_quick_stats_primer_heres/hmudpg8/",
+                      "text": "As I am applying for graduate school, I think this would be quite useful, so I will reach out in the winter semester. Thank you for sharing!",
+                      "author": "extra-plus-ordinary",
+                      "created": 1638391897,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }

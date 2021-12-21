@@ -5,7 +5,7 @@
   "text": "Parents? Work? Loans?",
   "author": "Present-Express",
   "created": 1636958060,
-  "updated": 1637181564,
+  "updated": 1639856985,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -65,6 +65,23 @@
       "created": 1637017695,
       "upvotes": 1,
       "replies": {}
+    },
+    "hml327g": {
+      "link": "/r/college/comments/qua3od/how_are_you_paying_for_housing_and_tuition/hml327g/",
+      "text": "Scholarships, loans, broken dreams. Like almost every other student.",
+      "author": "Red234234",
+      "created": 1638223587,
+      "upvotes": 2,
+      "replies": {
+        "hml5jky": {
+          "link": "/r/college/comments/qua3od/how_are_you_paying_for_housing_and_tuition/hml5jky/",
+          "text": "NOT THE BROKEN DREAMMMSS",
+          "author": "Present-Express",
+          "created": 1638224626,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

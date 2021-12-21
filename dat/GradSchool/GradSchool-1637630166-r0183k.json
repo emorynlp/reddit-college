@@ -5,7 +5,7 @@
   "text": "Guess who broke their computer? This klutz. I guess I really WILL take a break for Thanksgiving. I am wildly thankful that I have everything backed up in the cloud, but I won't be doing much on just my phone until my computer is repaired... Go back your research up. Your future self will thank you.",
   "author": "public_health_nerd",
   "created": 1637630166,
-  "updated": 1637689750,
+  "updated": 1639878514,
   "over_18": false,
   "upvotes": 205,
   "upvote_ratio": 1.0,
@@ -37,6 +37,23 @@
                   "author": "whycantusonicwood",
                   "created": 1637663816,
                   "upvotes": 3,
+                  "replies": {}
+                }
+              }
+            },
+            "hlsqsvo": {
+              "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hlsqsvo/",
+              "text": "You can use google docs without wifi, there is a local app for chrome.",
+              "author": "NeuroticKnight",
+              "created": 1637692143,
+              "upvotes": 1,
+              "replies": {
+                "hlt4idz": {
+                  "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hlt4idz/",
+                  "text": "Yes, but it's been buggy for me. It will be like, 'sorry, no wifi, can't save.' I'm like, 'Save it to the computer!' There must be a disconnect somewhere.",
+                  "author": "4-8Newday",
+                  "created": 1637697494,
+                  "upvotes": 1,
                   "replies": {}
                 }
               }
@@ -81,7 +98,25 @@
               "author": "jlpulice",
               "created": 1637656170,
               "upvotes": 0,
-              "replies": {}
+              "replies": {
+                "hlulv1r": {
+                  "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hlulv1r/",
+                  "text": "Good that you have multiple places! Don\u2019t know why people are downvoting you??",
+                  "author": "Mycrawft",
+                  "created": 1637720509,
+                  "upvotes": 2,
+                  "replies": {
+                    "hlysms3": {
+                      "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hlysms3/",
+                      "text": "Because people assume their own ignorance means that my system can\u2019t be right. Lol.",
+                      "author": "jlpulice",
+                      "created": 1637796900,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
             }
           }
         },
@@ -109,6 +144,14 @@
               "replies": {}
             }
           }
+        },
+        "hlty9mw": {
+          "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hlty9mw/",
+          "text": "Be careful with University managed cloud systems . I used to use my universities unlimited Google Drive as well until I tried logging into the system using my computer, then my phone, which was still connected to a VPN (I had done some online purchasing). They thought I had been hacked and locked me out of absolutely everything (email, Drive, Canvas, etc). Of course, IT was trying to correspond with my school email, which I couldn't access. I had at least 7 days where I  couldn't access anything. From then on I pay for my own Google Drive account, and use the university managed OneDrive as a constant backup (only for school related files), save all my files (school and personal) in Drive, and use Github to manage working between several computers, and back up to 2 different hard disk locations each night.",
+          "author": "Beanmachine314",
+          "created": 1637709554,
+          "upvotes": 2,
+          "replies": {}
         }
       }
     },
@@ -175,7 +218,25 @@
               "author": "mathcymro",
               "created": 1637688891,
               "upvotes": 1,
-              "replies": {}
+              "replies": {
+                "hlst0rf": {
+                  "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hlst0rf/",
+                  "text": "Well it's worth checking out the pro version because it does sync everything to and fro your GitHub repository. Plus it's nice to edit on any lab PC as long as you can log into overleaf from the browser. Plus, edits are synced up to overleaf's storage.",
+                  "author": "Unlifer",
+                  "created": 1637692991,
+                  "upvotes": 2,
+                  "replies": {
+                    "hltcov4": {
+                      "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hltcov4/",
+                      "text": "I find Overleaf compiling extremely slow for larger documents to a point where it times out on the server. Locally it is usually much faster for me. How is your experience with that?",
+                      "author": "LivelyLizzard",
+                      "created": 1637700710,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
             }
           }
         },
@@ -192,7 +253,34 @@
               "author": "mathcymro",
               "created": 1637688717,
               "upvotes": 1,
-              "replies": {}
+              "replies": {
+                "hlsm56h": {
+                  "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hlsm56h/",
+                  "text": "Yea, that's what I figured. I need to find a solution where I can do git and still use my Zotero... Maybe I can automate a solution a solution where I can export some plain text from word or libreoffice so that I can have a readable diff on the text, but still be able to use Zotero. I will play with it once I start a new project",
+                  "author": "marxist_redneck",
+                  "created": 1637690316,
+                  "upvotes": 1,
+                  "replies": {
+                    "hltxvkc": {
+                      "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hltxvkc/",
+                      "text": "[deleted]",
+                      "author": null,
+                      "created": 1637709377,
+                      "upvotes": 1,
+                      "replies": {
+                        "hlv8hkh": {
+                          "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hlv8hkh/",
+                          "text": "Git is a fundamentally different type of things to a cloud storage system like Google docs. Google docs copies changes to every connected device. So if you delete something accidentally or a file become corrupted that unwanted change is pushed everywhere and you aren't protected from that in any way. \n\nIt's better than just storing documents locally on one machine. But it's not actually a \"backup\", at least not against all forms of data loss. It's a backup against one machine being physically destroyed or wiped. But not against some types of user mistakes.",
+                          "author": "InfanticideAquifer",
+                          "created": 1637732092,
+                          "upvotes": 0,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
             }
           }
         }
@@ -444,6 +532,22 @@
       "author": "CurvyBadger",
       "created": 1637685870,
       "upvotes": 1,
+      "replies": {}
+    },
+    "hlucekk": {
+      "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hlucekk/",
+      "text": "rsync is a godsend.",
+      "author": "FlyingQuokka",
+      "created": 1637716052,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hlsodhy": {
+      "link": "/r/GradSchool/comments/r0183k/thankful_i_backed_up_my_data_now_go_do_yours/hlsodhy/",
+      "text": "Omg! I\u2019m in my first semester so I don\u2019t have much data but I was working on a huge paper when my computer malfunctioned this weekend! All my backups failed and I was at the Apple store for hours!\n\nThey recovered my files, I have a new backup system! I cannot imagine what this would\u2019ve been like if I had lost data!",
+      "author": "bethisbitter",
+      "created": 1637691187,
+      "upvotes": 0,
       "replies": {}
     }
   }

@@ -5,7 +5,7 @@
   "text": "I know this topic has been all chewed up, but I'm interested in hearing from folks who've found an alternative both to Mendeley and Zotero for \\*organizing\\* their files. \n\nI've used Mendeley for ever, but the new lack of mobile access is the final straw - I need to be able to save articles via mobile devices. I've looked at Zotero, but honestly, it looks like a pain. (Is it worth it? I'm still happy to reconsider.) \n\nI'm just dying here for a solution that:\n\n\\- offers a folder nesting structure for files\n\n\\- that can sync (over iCloud, Dropbox, whatever)\n\n\\- and that you can add files to over mobile (iOS) devices.\n\nI've been using the Highlights app for highlights and notes, so don't necessarily need that to be part of the package. Exporting citations would be a nice benefit, but really, i'm open to workarounds. I just need a simple way to organize and add new files, across devices.",
   "author": "Prgrph",
   "created": 1623181374,
-  "updated": 1634081899,
+  "updated": 1639842488,
   "over_18": false,
   "upvotes": 102,
   "upvote_ratio": 0.97,
@@ -537,6 +537,14 @@
           "replies": {}
         }
       }
+    },
+    "hnwkkq6": {
+      "link": "/r/AskAcademia/comments/nvciox/life_wo_either_mendeley_or_zotero_file/hnwkkq6/",
+      "text": "This is a very late response, but I had this exact same problem and I found a fix: I use Zotero and Zotfile to rename papers, but then just store them in a normal folder structure on Dropbox.  Any files I add on iOS go into a 'Transfer' folder, and every month or so I use Zotero and Zotfile to automagically rename the PDFs (and then *delete* the entries from Zotero).  \n\nGuide here:\n\nhttps://criticalscience.medium.com/how-to-automagically-rename-pdfs-4e84347014fb",
+      "author": "sciencecritical",
+      "created": 1639085965,
+      "upvotes": 1,
+      "replies": {}
     }
   }
 }

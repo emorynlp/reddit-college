@@ -5,7 +5,7 @@
   "text": "One of the programs I am considering applying to has a requirement of College Algebra or higher as a prerequisite. I have only taken Elementary Statistical Methods.",
   "author": "baldemen",
   "created": 1637276513,
-  "updated": 1637353026,
+  "updated": 1639805353,
   "over_18": false,
   "upvotes": 5,
   "upvote_ratio": 0.78,
@@ -16,7 +16,34 @@
       "author": "Stq1616",
       "created": 1637291148,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hlru1x3": {
+          "link": "/r/ApplyingToCollege/comments/qx222g/is_elementary_statistical_methods_a_higher_math/hlru1x3/",
+          "text": "I've only taken statistics. I finished my associates degree.",
+          "author": "baldemen",
+          "created": 1637679025,
+          "upvotes": 1,
+          "replies": {
+            "hlsc3p4": {
+              "link": "/r/ApplyingToCollege/comments/qx222g/is_elementary_statistical_methods_a_higher_math/hlsc3p4/",
+              "text": "They're different courses. You have taken college algebra if one of the following applies, and have not if neither does:\n\n* You took Algebra II (or its equivalent) in high school \n* Your specific Elementary Statistical Methods course has a stated prerequisite of College Algebra",
+              "author": "Stq1616",
+              "created": 1637686476,
+              "upvotes": 1,
+              "replies": {
+                "hlsdnd1": {
+                  "link": "/r/ApplyingToCollege/comments/qx222g/is_elementary_statistical_methods_a_higher_math/hlsdnd1/",
+                  "text": "Oh ok that makes sense. I did take algebra 2 in high school and passed the sat for the math portion so maybe that's why.",
+                  "author": "baldemen",
+                  "created": 1637687078,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }

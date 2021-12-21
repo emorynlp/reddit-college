@@ -5,7 +5,7 @@
   "text": "I'm a high school student and I wrote a paper about a working method for modeling one-dimensional heat transfer into an egg. It is an applied math paper, and the most complex thing I have done is deploy parametric equations and some simple multivariate calculus. \n\nDespite using relatively simple math, I feel that my work answered a question that has been largely ignored by the literature on this topic, which is accurately modeling the surface area of an egg. I worked on this as a passion project, but I feel that maybe it's worth publishing. At the same time, I feel like anyone who is experienced in mathematics would scoff at its lack of complexity and immediately dismiss it as amateurish. Should I still submit my paper to my regional journal?",
   "author": "nNutritious",
   "created": 1639766382,
-  "updated": 1639787244,
+  "updated": 1639840171,
   "over_18": false,
   "upvotes": 27,
   "upvote_ratio": 0.93,
@@ -40,7 +40,16 @@
       "author": "CheeseWheels38",
       "created": 1639771710,
       "upvotes": 22,
-      "replies": {}
+      "replies": {
+        "hp0oq68": {
+          "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hp0oq68/",
+          "text": "These are important questions that OP should consider.\n\nOne of the most common moves for early-stage academics is to assert that there's a gap in literature/knowledge that their work is trying to help fill (or at least illuminate).\n\nOften, it's legit! But it can also be a gambit if you're not _totally sure_ that this gap exists, because few moves undercut your argument than saying \"no one's studied <thing>\" and a reviewer or editor responding with citations about studying <thing>.",
+          "author": "herennius",
+          "created": 1639806799,
+          "upvotes": 8,
+          "replies": {}
+        }
+      }
     },
     "hoylhqt": {
       "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hoylhqt/",
@@ -113,6 +122,14 @@
       "author": "DevFRus",
       "created": 1639782009,
       "upvotes": 1,
+      "replies": {}
+    },
+    "hp06c3z": {
+      "link": "/r/AskAcademia/comments/rinvip/any_point_in_submitting_an_applied_math_paper_to/hp06c3z/",
+      "text": "I\u2019d approach someone at a university in the maths department and ask them for help on getting it published. Worse case scenario is they say it\u2019s not appropriate for publication but they\u2019ll probably give you another project to work on! :)",
+      "author": "stippy_tape_it",
+      "created": 1639796312,
+      "upvotes": 2,
       "replies": {}
     }
   }

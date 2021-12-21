@@ -5,7 +5,7 @@
   "text": "I got deferred and I now know what heart break is like.",
   "author": "thisismetrying-__-",
   "created": 1639700452,
-  "updated": 1639785929,
+  "updated": 1639829360,
   "over_18": false,
   "upvotes": 15,
   "upvote_ratio": 0.79,
@@ -56,7 +56,34 @@
           "author": "cereal240",
           "created": 1639709350,
           "upvotes": -1,
-          "replies": {}
+          "replies": {
+            "hp03eju": {
+              "link": "/r/ApplyingToCollege/comments/ri4979/make_me_despise_brown/hp03eju/",
+              "text": "I\u2019m south Asian and essentially the color of poop so it\u2019s cool",
+              "author": "thisismetrying-__-",
+              "created": 1639794798,
+              "upvotes": 1,
+              "replies": {
+                "hp06fgh": {
+                  "link": "/r/ApplyingToCollege/comments/ri4979/make_me_despise_brown/hp06fgh/",
+                  "text": "I\u2019m also south asian",
+                  "author": "cereal240",
+                  "created": 1639796361,
+                  "upvotes": 1,
+                  "replies": {
+                    "hp0ep2b": {
+                      "link": "/r/ApplyingToCollege/comments/ri4979/make_me_despise_brown/hp0ep2b/",
+                      "text": "Congratulations",
+                      "author": "iwillstealyourcat",
+                      "created": 1639800786,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -83,6 +110,23 @@
       "created": 1639726525,
       "upvotes": 1,
       "replies": {}
+    },
+    "hozns7z": {
+      "link": "/r/ApplyingToCollege/comments/ri4979/make_me_despise_brown/hozns7z/",
+      "text": "i got deferred too\ud83d\udc94but apparently the dorms are atrocious, providence has bad weather, and the school is full of pretentious rich art kids",
+      "author": "fake_plastic_trees_",
+      "created": 1639787471,
+      "upvotes": 2,
+      "replies": {
+        "hozqi2b": {
+          "link": "/r/ApplyingToCollege/comments/ri4979/make_me_despise_brown/hozqi2b/",
+          "text": "The dorms are horrible, I did a program there and it quite literally looks like the dorms haven\u2019t been updated/ fixed since it\u2019s initial build",
+          "author": "thisismetrying-__-",
+          "created": 1639788705,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

@@ -5,7 +5,7 @@
   "text": "I am exploring some post-doc opportunities and want to explore the possibility of working fully remotely (possibly from outside the US). My work is purely computational so I don't need to be in lab.   \n\nWas wondering if PIs at top universities are even willing to consider such an arrangement post-covid and if it would be wise to bring this up in my post-doc interview? \n\nThanks",
   "author": "attackseek",
   "created": 1638427470,
-  "updated": 1638479813,
+  "updated": 1639841274,
   "over_18": false,
   "upvotes": 14,
   "upvote_ratio": 1.0,
@@ -75,7 +75,25 @@
       "author": "ACatGod",
       "created": 1638452304,
       "upvotes": 4,
-      "replies": {}
+      "replies": {
+        "hmzn6ij": {
+          "link": "/r/AskAcademia/comments/r717ji/anyone_here_has_experience_of_doing_a_fully/hmzn6ij/",
+          "text": "How do they monitor this? If the employee were to simply move to another country, would the company know somehow?",
+          "author": "gvkcps",
+          "created": 1638483341,
+          "upvotes": 1,
+          "replies": {
+            "hn1npq5": {
+              "link": "/r/AskAcademia/comments/r717ji/anyone_here_has_experience_of_doing_a_fully/hn1npq5/",
+              "text": "You generally have to provide an address to your employer, even in this day and age certain documents have to be mailed. Moving country without telling them would probably be against policy and could ultimately result in you being fired, especially if refused to move back.",
+              "author": "ACatGod",
+              "created": 1638519979,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     },
     "hmwkq6s": {
       "link": "/r/AskAcademia/comments/r717ji/anyone_here_has_experience_of_doing_a_fully/hmwkq6s/",
@@ -148,6 +166,22 @@
       "text": "This would not be allowed at my university (Top 10), because you may not work for pay in another country. In fact, you can only do remote work from like 10 states other than the one the university is in.\n\nAnother issue is you would need to be a citizen/PR in the country you are going to work in, as typically you cannot perform work on a tourist Visa. If it is your home country and you are on a US visa then this is less of a problem.",
       "author": "namenamename0",
       "created": 1638478297,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hn02827": {
+      "link": "/r/AskAcademia/comments/r717ji/anyone_here_has_experience_of_doing_a_fully/hn02827/",
+      "text": "Are you hoping to get the same as you would an in-person postdoc experience? I feel that you'd be treated more as a collaborator and while it might be scientifically fruitful would it be beneficial to your career development? \n\nIf you intend to apply to US based jobs or universities for TT you would be better off on the ground to be able to network. \n\nAs a PI I had a few students stuck or delayed from entering the country last year due to covid and expect that to continue to happen for the near future. I know a number of profs are open to finding solutions that can be mutually beneficially, and have had to for the past 18ish months, but this can be a real burden and often a mountain of paperwork on a gamble that you aren't actively looking for an in-person position where you are currently located.",
+      "author": "Boogers_my_dad",
+      "created": 1638489676,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hmzr2lk": {
+      "link": "/r/AskAcademia/comments/r717ji/anyone_here_has_experience_of_doing_a_fully/hmzr2lk/",
+      "text": "Yes - I'm currently advising a remote postdoc. We're both based in the US, but across the country from each other. She was in residence for about a month during the summer to collect samples and some data, then went back to her home lab to continue running samples and working up data. It's possible she'll be back in residence for a bit in a few months but we haven't decided yet. I think a lot of the issues other folks are mentioning are lessened for us because we're both in the same country, so things like taxes and having a US-based bank to deposit salary to is easy.\n\nSome issues we've faced:\n\n* Health insurance. She has to pay for the most expensive possible plan to get coverage outside of my state. (I do realize this is a US-specific issue though with our messed up health care system.)\n* Living expenses. She lives in a really expensive area while our university is in a more moderately priced area of the country. We can't really pay her enough to survive in her city; she has a partner who helps with living expenses.\n* Travel expenses - if you're going to visit your home lab at all, discuss clearly who pays for what. We had an issue because the postdoc expected us to pay per diem while she was here, and we hadn't budgeted for it (and even if we had, technically she is not in \"travel status\" when she was at our home university, so there was a big mess with getting anything paid for).\n\nWe were willing to consider hiring her remotely because she had a very specific, niche set of skills that we very much wanted for our project. And for the most part it's working out really well. She was upfront that she needed to be remote from the beginning and that was also very important. I'd definitely advise to be upfront about it; you might lose some interviews but those folks were unlikely to work with you anyway.",
+      "author": "boilerlashes",
+      "created": 1638484910,
       "upvotes": 1,
       "replies": {}
     }

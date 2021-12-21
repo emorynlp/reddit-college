@@ -5,7 +5,7 @@
   "text": "I'm wondering whether COVID has created a large backlog and therefore more applicants per job, or if it has had the opposite effect where more PhDs have turned to industry, gov, k-12, etc.",
   "author": "gggggggggggfff",
   "created": 1638468625,
-  "updated": 1638479806,
+  "updated": 1639842309,
   "over_18": false,
   "upvotes": 30,
   "upvote_ratio": 0.98,
@@ -30,7 +30,25 @@
               "author": "Ruby_Ruth",
               "created": 1638476911,
               "upvotes": 9,
-              "replies": {}
+              "replies": {
+                "hn0qgo2": {
+                  "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn0qgo2/",
+                  "text": "Can you go into why the first two weren't recommended?",
+                  "author": "queer_artsy_kid",
+                  "created": 1638500477,
+                  "upvotes": 7,
+                  "replies": {
+                    "hn288tv": {
+                      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn288tv/",
+                      "text": "No, I think that would compromise the confidentiality of the search process.",
+                      "author": "Ruby_Ruth",
+                      "created": 1638535940,
+                      "upvotes": 14,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
             },
             "hmz8k51": {
               "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmz8k51/",
@@ -38,6 +56,92 @@
               "author": "SnowblindAlbino",
               "created": 1638477780,
               "upvotes": 6,
+              "replies": {
+                "hmzmv6m": {
+                  "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmzmv6m/",
+                  "text": "Are the ones that you cut earlier totally unsuitable? Or do you have some rule about reaching back into those candidates?\n\nIt seems possible that the fourth or fifth person might still be available in such a situation, and it's easy to imagine a year where you have to drop a few candidates out of necessity than due to unsuitability.",
+                  "author": "my_stupidquestions",
+                  "created": 1638483220,
+                  "upvotes": 12,
+                  "replies": {
+                    "hmzpje3": {
+                      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmzpje3/",
+                      "text": "I'd say typically of the ten we do a preliminary interview with we'd have 5-6 that would be considered viable candidates by the committee. So yes, *sometimes* we could go back to the pool...when the first round of a search falters that's usually the next conversation for the committee: \"Do we go back to the pool or fail the search?\" If enough agree that the next tier of candidates on the also-ran list is acceptable we would probably invite them to campus one at a time. In my experience, though, that's often not the case; there can be enough objection to #6 or #7 that the committee votes to fail the search. Or more likely, by the time we are ready to call up #4 or #5 to invite them to campus they've already received an offer elsewhere.\n\nThe politics of this have become more complicated in recent years though, at least at tuition-driven schools like mine. Now failing a search could well mean your department will lose the tenure line, as admins may want to reallocate it somewhere else. So there's more pressure to go back to the pool than there would have been a decade or more ago in my experience. I've seen a few searches bring in six or even seven candidates before declaring a fail in recent years...it remains a competitive market for the best candidates despite the overall surplus of Ph.D.s in most fields. All too often it seems the top candidates are getting offers from more prestigious institutions or closer to their families or in better climates or whatever so committees are facing these tough decisions weighing the option of going deeper into a pool against the risks of a failed search.",
+                      "author": "SnowblindAlbino",
+                      "created": 1638484281,
+                      "upvotes": 21,
+                      "replies": {
+                        "hmzr1yt": {
+                          "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmzr1yt/",
+                          "text": "Out of curiosity, what is it about the large chunk of people that aren't even in the top 10/top 20 that disqualifies them early on?\n\nI'd imagine you might get dozens, if not hundreds of applicants at a time. Typically, who are the people that are written off very early in the selection process?",
+                          "author": "Lapidarist",
+                          "created": 1638484903,
+                          "upvotes": 18,
+                          "replies": {
+                            "hn04w9g": {
+                              "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn04w9g/",
+                              "text": "In my (now too long) experience from a pool of say 250 applicants we'll immediately reject 50 who are simply unqualified-- lack the required degree, have no experience, are shotgunning applications from abroad to any opening in the US, are in another semi-adjacent field, or are just absolute whack jobs. Of the remaining 200 we pretty quickly cull those who aren't cut out for our type of institution; I'm at an SLAC so we require teaching experience, demonstrated knowledge of pedagogy, and at least the pretense of wanting to teach more than focus on research. That might get us to 100.\n\nFrom those 100 we'll cut to 20 that are actually gone through in detail (pros/cons of each) by the entire working committee together. That subset of 20 is actually produced by all the committee members working in isolation first; then everyone will make their case for their personal top 20, there's some give and take, and we ultimately vote on a list that goes forward in the process. What never fails to surprise me is that there's often near total agreement on those top 20 from the outset-- before anyone has discussed them --which suggests committee members are looking for the same qualities and are following the process appropriately (i.e. using the job description and qualification rubrics to evaluate the full pool).\n\nUltimately, of course, the cuts that come after the basic qualifications are applied are mostly about experience and fit. When you have a job description targeting specific skills, courses, and areas of research it's fairly simple to look at 100 candidates and determine which have the experience to step right into that role vs. those who have only (at best) tangentially-related experience. But I'd say that it's usually likely that anyone in the top 20 or so *could* do the job-- but we want the *best* person we can get, not just someone who is adequate. And as with most (all?) academic hires, we also want someone we think we will like having around-- a TT hire is likely to outlast everyone on the hiring committee, could become chair some day, and will need to work with the entire department. So even someone who looks really good on paper might be cut because they turned out to be unpleasant in person or revealed that they really hated college students or some other immediately disqualifying thing.",
+                              "author": "SnowblindAlbino",
+                              "created": 1638490888,
+                              "upvotes": 40,
+                              "replies": {}
+                            }
+                          }
+                        },
+                        "hn3k7vg": {
+                          "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn3k7vg/",
+                          "text": "Yeah, all of that makes sense.\n\nIt's disheartening to hear that political considerations are infecting the process, although I guess it's a boon on the candidate side.",
+                          "author": "my_stupidquestions",
+                          "created": 1638556610,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "hn0jybu": {
+              "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn0jybu/",
+              "text": "We were hiring for a Director position and it required tenure. The Dean considered the first search failed because she didn't like the candidates (we did). \n\nSearch two had some amazing candidates. However, nobody thought to talk to the departments about this position. We selected a candidate with a J.D. The legal studies department didn't approve her tenure. Our 2nd pick was offered more $$ at her institution.\n\nTo avoid a third search, the Dean told the committee to interview one person who could get tenure. He wasn't a top candidate, fairly low on the list. Guess who got the job? He did! \n\nHe doesn't know what he's doing most of the time. Delegates tasks that need to be done at his level. Most of us reminisce about the good ol days when we had a amazing leadership. \n\nOh and the Dean got caught in a scandal a few years later and was asked to step down.\n\nHigher Ed is wild.",
+              "author": "theamester85",
+              "created": 1638497622,
+              "upvotes": 11,
+              "replies": {
+                "hn25y7r": {
+                  "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn25y7r/",
+                  "text": "Only way I can imagine moving at this point in m life is with tenure. Which narrows it down to about zero jobs that I'm suited for. I think I may just learn how to bake.",
+                  "author": "AerosolHubris",
+                  "created": 1638534495,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            },
+            "hmzl4mm": {
+              "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmzl4mm/",
+              "text": "You receive hundreds of applications, but most of them are rejected early on, and once that's done, you can't necessarily go back to them six months later. If you only do on-campus interviews with your top five, and all five of them turn you down, you don't get to hire anyone that year. The 300 other people were rejected six months ago and you missed your opportunity to hire them.",
+              "author": "deong",
+              "created": 1638482530,
+              "upvotes": 10,
+              "replies": {}
+            }
+          }
+        },
+        "hn106jg": {
+          "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn106jg/",
+          "text": "For context, what was the search for? Just PhDs, or professor level positions as well?",
+          "author": "clockworkgalaxy_",
+          "created": 1638504948,
+          "upvotes": -1,
+          "replies": {
+            "hn29ixv": {
+              "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn29ixv/",
+              "text": "Tenure-track position.",
+              "author": "Ruby_Ruth",
+              "created": 1638536694,
+              "upvotes": 4,
               "replies": {}
             }
           }
@@ -50,7 +154,16 @@
       "author": "set_null",
       "created": 1638474385,
       "upvotes": 7,
-      "replies": {}
+      "replies": {
+        "hmziepx": {
+          "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmziepx/",
+          "text": "My department is not giving an extra year of funding yet every single person I've spoken to is taking an extra year anyways and is just going to be working on the side a lot.",
+          "author": "Wulibo",
+          "created": 1638481487,
+          "upvotes": 5,
+          "replies": {}
+        }
+      }
     },
     "hmz68q2": {
       "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmz68q2/",
@@ -66,6 +179,171 @@
       "author": "poniesgirl",
       "created": 1638478265,
       "upvotes": 1,
+      "replies": {}
+    },
+    "hmzeg39": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmzeg39/",
+      "text": "Way, way fewer. Just failed a search over it.",
+      "author": "guttata",
+      "created": 1638479991,
+      "upvotes": 19,
+      "replies": {}
+    },
+    "hn00ow5": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn00ow5/",
+      "text": "Far, far, less applicants. We had a very successful search last year. There were around 25 applicants and, quite frankly, too many good ones. This year we only have eight, and not many that look promising.",
+      "author": "BLB99",
+      "created": 1638488997,
+      "upvotes": 14,
+      "replies": {}
+    },
+    "hn0ma40": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn0ma40/",
+      "text": "Oh my god, it's like a desert out here. The last position we posted got *3* applicants- total. Our entire division received no work-study applicants. We just can't compete with industry or bigger schools when it comes to salary.",
+      "author": "jangma",
+      "created": 1638498651,
+      "upvotes": 9,
+      "replies": {
+        "hn3ht1v": {
+          "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn3ht1v/",
+          "text": ">Our entire division received no work-study applicants. \n\nThis is purely a wage issue on my campus: work-study students are paid something like $9.85/hr while the local McDonald's is *starting* at $16. Our business office folks can't seem to grasp why nobody is willing to work in food service, grounds, or even office jobs for half what they can make off campus.\n\nI suspect the same game is starting to impact faculty searches, at least at schools (like mine) were wages have been frozen for two years and barely kept up with inflation over the last decade. High school teachers will make 80% of what we offer (with a master's) and are not expected to work for free in summers.",
+          "author": "SnowblindAlbino",
+          "created": 1638555658,
+          "upvotes": 3,
+          "replies": {}
+        }
+      }
+    },
+    "hn1du46": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn1du46/",
+      "text": "My department is in a position where certain funding came in and we have to hire someone.\n\nThe candidates are... Not what we wanted. We will likely end up hiring someone who is just worse at what they do in the same field as someone we have because we couldn't attract who we actually wanted from the fields we really needed.\n\nIt's a mindfuck. But kind of bullish for PhD students in a way.",
+      "author": "drunkinmidget",
+      "created": 1638512625,
+      "upvotes": 7,
+      "replies": {}
+    },
+    "hn0mk2b": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn0mk2b/",
+      "text": "less than half as many applicants this year as for searches last year.",
+      "author": "RollWave_",
+      "created": 1638498772,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hn1ctyj": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn1ctyj/",
+      "text": "Honestly, I\u2019m happy to see that the top comments report fewer applicants. Obviously people are wising up and getting out of this shit show. Maybe the deans/provosts will take note and make better offers.",
+      "author": "mglalala8",
+      "created": 1638511981,
+      "upvotes": 13,
+      "replies": {}
+    },
+    "hmzfc9h": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmzfc9h/",
+      "text": "More applicants and also more failed searches - for a variety of reasons.",
+      "author": "octaviousearl",
+      "created": 1638480327,
+      "upvotes": 11,
+      "replies": {
+        "hmzn70j": {
+          "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmzn70j/",
+          "text": "What were/are the reasons?",
+          "author": "gggggggggggfff",
+          "created": 1638483346,
+          "upvotes": 10,
+          "replies": {
+            "hn0k8ph": {
+              "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn0k8ph/",
+              "text": "Few different reasons:\n1) folks seem to be applying in greater numbers, partially bc its easier to do so if its a zoom-only application process (though that is beginning to change where I\u2019m at) and also bc the larger turnover trends we\u2019re seeing in the workforce more broadly. \n\n2) some of those applicants are non-academia folks applying to staff positions, which I\u2019m def seeing more of than pre-covid times. \n\n3) folks are making it through, interviewing well, and then backing out. When this occurs, I see two possibilities: \nA) maybe they are leveraging an external offer for more pay, or\nB) they are seeing that the grass is not in fact greener organizationally and/or professionally.\n\n4) I have heard from some applicants explicitly, but not sure re magnitude, that a lot of adult workers don\u2019t want to work with college students bc of the various stereotypes and narratives in the media - in the others, college students are either too woke/left/illiberal, or they\u2019re too Trumpy/MAGA/white supremacist.  \n\n5) I am not seeing bidding wars happen over a candidate with multiple offers. Not sure what to make of that yet, if anything. \n\n6) there has been a lot of folks leaving where I am, so lots of searches have been underway. Given that public opinion of higher ed, at least in the US, is continuing to wane, I am not surprised folks are not exactly flocking to this sector\u2026.",
+              "author": "octaviousearl",
+              "created": 1638497751,
+              "upvotes": 10,
+              "replies": {
+                "hn10var": {
+                  "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn10var/",
+                  "text": "Regarding your second point, are applications from non-academia people generally frowned upon? \n\nAlso when you said the application process is beginning to change, did you mean that zoom interviews are being phased out or that zoom interviews are being made more difficult?",
+                  "author": "clockworkgalaxy_",
+                  "created": 1638505272,
+                  "upvotes": 1,
+                  "replies": {
+                    "hn1yi0s": {
+                      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn1yi0s/",
+                      "text": "Re zoom interviews - I meant that we\u2019re doing 2nd rounds in person, which is helping us determine who is serious vs window-shopping. I\u2019ve heard a number of institutions, including my own, also beginning to conduct dark searches, which I am not all a fan of. I get the pros of the move, but to me the cons far outweigh them. Transparency people. We need more of it.\n\nWrt to non-academia folks - not frowned upon at all, just seeing more folks from industry and the non-profit sector. I like the fresh perspective, though the folks that treat others like their some big wig and initiate a lot of change in a short amount of time tend not to last too long\u2026. \ud83e\udd37\u200d\u2642\ufe0f",
+                      "author": "octaviousearl",
+                      "created": 1638529019,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "hmzujqz": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmzujqz/",
+      "text": "Less",
+      "author": "Ok-Refrigerator-2432",
+      "created": 1638486352,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hn05n3i": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn05n3i/",
+      "text": "Less applicants",
+      "author": "swinglinestaplerface",
+      "created": 1638491229,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hn155yl": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn155yl/",
+      "text": "I was thinking this very thing today. We had a failed bio search last year and there\u2019s been an uptick in qualified candidates comparatively. We just had the short list meeting today and it was hard to narrow down to a reasonable number to zoom with prior to selecting campus visit candidates.",
+      "author": "ccots",
+      "created": 1638507467,
+      "upvotes": 4,
+      "replies": {}
+    },
+    "hn26crx": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn26crx/",
+      "text": "We\u2019ve got a TT job for a fairly desirable position (but in what many people consider a bad location) and have only gotten 11 applications so far. I am terrified the search will fail, and that the administration will cut the line.",
+      "author": "BelaTarrd",
+      "created": 1638534760,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hmzkn33": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hmzkn33/",
+      "text": "Same number of applications as last year, which were more than the year before, which were more than the year before...and onward.",
+      "author": "gamecat89",
+      "created": 1638482338,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hn17mg7": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn17mg7/",
+      "text": "Far fewer",
+      "author": "DicaxErsatz",
+      "created": 1638508836,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hn21gv3": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn21gv3/",
+      "text": "fewer",
+      "author": "sesquiup",
+      "created": 1638531350,
+      "upvotes": 2,
+      "replies": {}
+    },
+    "hn24uf4": {
+      "link": "/r/AskAcademia/comments/r7deyp/for_those_of_you_on_search_committees_are_you/hn24uf4/",
+      "text": "Less.  14 applcants when we usually have 50.   This mightbe a failed search too.",
+      "author": "ghphd",
+      "created": 1638533759,
+      "upvotes": 2,
       "replies": {}
     }
   }

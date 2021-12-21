@@ -1343,7 +1343,16 @@
               "author": "disgruntledmuppett",
               "created": 1626993623,
               "upvotes": 1,
-              "replies": {}
+              "replies": {
+                "hmwad4d": {
+                  "link": "/r/GradSchool/comments/op1ul6/any_advice_my_advisor_told_me_to_quit_because_i/hmwad4d/",
+                  "text": "This is my theory as well.",
+                  "author": "missadechoco",
+                  "created": 1638421817,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
             }
           }
         },
@@ -1374,5 +1383,5 @@
       }
     }
   },
-  "updated": 1634066918
+  "updated": 1639879231
 }

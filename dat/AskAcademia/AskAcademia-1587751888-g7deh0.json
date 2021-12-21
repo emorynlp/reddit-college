@@ -5,7 +5,7 @@
   "text": "Researchers have been using Reddit to recruit participants for a while now.\n\nRecently, given the current circumstances that are pushing people to recruit participants and conduct experiments online, this source is becoming more useful than ever.\n\nBecause of this, I wanted to share [a relevant paper]( https://journals.sagepub.com/doi/abs/10.1177/0894439316650163) that I published a while back, which discusses the use of Reddit in research. I remembered it after getting an email from my university about switching to running experiments online, which made me realize that this paper could be helpful to some people here.\n\nAbstract:\n\n> Recruiting participants is a necessary step in many studies. With the advent of online research techniques, scientists are looking for new places where participants can be recruited online, in order to overcome the limitations of current sources and avoid the issues associated with sample overuse. The social media website \u201cReddit\u201d is a potential source for recruitment, as it allows for free and rapid data collection from large samples, while enabling researchers to target specific populations when needed. The ability to recruit for free is especially important because it enables students and early career researchers, for whom even low recruitment costs can be prohibitive, to benefit from the opportunity of conducting research that they otherwise would not be able to. The current article therefore aims to bring this prospective, untapped resource to the attention of the research community. The article discusses current online recruitment sources and their limitations, provides an overview of Reddit, validates its use for research purposes, examines participation data from previous studies which recruited through Reddit, highlights its advantages and limitations as a participant pool, and suggests guidelines that can improve recruitment and retention rates for scientists looking to use Reddit for their research.\n\nThe paper can be found here: https://journals.sagepub.com/doi/abs/10.1177/0894439316650163 (non-paywalled versions available via Google Scholar: https://scholar.google.com/scholar?cluster=11355958646191061289)\n\nAlso, here\u2019s a selection of some of the articles that have referenced this paper when discussing their use of Reddit to recruit participants:\n\n* [Passive and Active Social Media Use and Depressive Symptoms Among United States Adults](https://www.liebertpub.com/doi/full/10.1089/cyber.2017.0668)\n* [Are Daily Stand-up Meetings Valuable? A Survey of Developers in Software Teams](https://link.springer.com/chapter/10.1007/978-3-319-57633-6_20)\n* [Political orientation and physical health: The role of personal responsibility](https://www.sciencedirect.com/science/article/abs/pii/S0191886919300054)\n* [Game-like personality testing: An emerging mode of personality assessment](https://www.sciencedirect.com/science/article/abs/pii/S0191886919301266)\n* [The Love of Large Numbers Revisited: A Coherence Model of the Popularity Bias](https://www.sciencedirect.com/science/article/pii/S0010027719302422)\n\nWhat are your thoughts on using Reddit this way? Any previous experience with it that you'd like to share, or insights/tips that you think could benefit others?",
   "author": "randomusefulbits",
   "created": 1587751888,
-  "updated": 1634081748,
+  "updated": 1639842385,
   "over_18": false,
   "upvotes": 121,
   "upvote_ratio": 0.99,
@@ -100,7 +100,16 @@
       "author": "w0rkingmem0ry",
       "created": 1587916676,
       "upvotes": 3,
-      "replies": {}
+      "replies": {
+        "hmiumyj": {
+          "link": "/r/AskAcademia/comments/g7deh0/using_reddit_to_recruit_research_participants/hmiumyj/",
+          "text": "Could you elaborate a bit on how you convinced these participants to partake in your study? \n\nFor me it is value for value, I post about a topic of interest, community members engage then the ones that show they are knowledgeable about the topic are the ones I reach out to by dm, if I have built enough rapport them, they may be interested in participating in the research study.",
+          "author": "PrepxI",
+          "created": 1638188226,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

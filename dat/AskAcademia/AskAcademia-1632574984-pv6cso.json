@@ -5,7 +5,7 @@
   "text": "Hello! My coauthor and I submitted a paper to one of Springer's journals at the end of August. The main status says *under review*. The timeline went from *Editor invited* (is *editor* a subject or a direct object?) on September 2 to *reviews received* (not *reviewers received*) on September 12 (see pic [here](https://c.gmx.com/@712334740899763441/PSxxEB7SSc6znr_RZpWxmg)). I find it strange that reviewers have already been selected and that reviews have already been submitted in one week or so. So what is *reviews received* supposed to mean?\n\nThanks in advance!",
   "author": "Normal_Kaleidoscope",
   "created": 1632574984,
-  "updated": 1634078852,
+  "updated": 1639843073,
   "over_18": false,
   "upvotes": 5,
   "upvote_ratio": 0.7,
@@ -42,6 +42,23 @@
               }
             }
           }
+        }
+      }
+    },
+    "hodlfdr": {
+      "link": "/r/AskAcademia/comments/pv6cso/reviews_received_not_reviewers_received_on/hodlfdr/",
+      "text": "Hi! Has anything changed, yet? I just found your post and I have the same issue...",
+      "author": "doppelterbulin",
+      "created": 1639402793,
+      "upvotes": 2,
+      "replies": {
+        "hoe5m9d": {
+          "link": "/r/AskAcademia/comments/pv6cso/reviews_received_not_reviewers_received_on/hoe5m9d/",
+          "text": "hello! so, basically... Research Square is a platform for preprints which is connected to the journal's editorial manager. I don't know why this platform shows a status for my paper, since I haven't submitted a pre-print, but a regular paper. At first, I thought that research square was the editorial manager platform, so that's why I was checking it. Now I just look at the editorial manager platform. The status for the paper on both platforms is the same, though, 'under review'. I'm confused much",
+          "author": "Normal_Kaleidoscope",
+          "created": 1639411844,
+          "upvotes": 1,
+          "replies": {}
         }
       }
     }

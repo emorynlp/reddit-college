@@ -5,7 +5,7 @@
   "text": "I have an abstract for a large conference due tomorrow (or so I thought), but a fellow researcher interpreted the deadline of December 15th as 'submit on 14th at the latest'. I'm slightly panicking now, how would you interpret this deadline? Twice on the site it says 'deadline: December 15th', once it says 'until December 15th' and once it says submission is open 'between Oktober 1st and December 15th'. \n\nMy field is linguistics and the conference is in Germany, if that helps.",
   "author": "cellardoorling",
   "created": 1639507506,
-  "updated": 1639515472,
+  "updated": 1639843355,
   "over_18": false,
   "upvotes": 3,
   "upvote_ratio": 1.0,
@@ -24,6 +24,14 @@
           "created": 1639509941,
           "upvotes": 8,
           "replies": {}
+        },
+        "hokbgew": {
+          "link": "/r/AskAcademia/comments/rge7k1/if_the_deadline_for_abstract_submission_is/hokbgew/",
+          "text": "Thank god haha, thanks for the info!",
+          "author": "cellardoorling",
+          "created": 1639518155,
+          "upvotes": 5,
+          "replies": {}
         }
       }
     },
@@ -33,7 +41,67 @@
       "author": "PhotoJim99",
       "created": 1639514285,
       "upvotes": 1,
+      "replies": {
+        "hokbhl2": {
+          "link": "/r/AskAcademia/comments/rge7k1/if_the_deadline_for_abstract_submission_is/hokbhl2/",
+          "text": "Thanks, that's a relief!",
+          "author": "cellardoorling",
+          "created": 1639518168,
+          "upvotes": 3,
+          "replies": {
+            "honlrrq": {
+              "link": "/r/AskAcademia/comments/rge7k1/if_the_deadline_for_abstract_submission_is/honlrrq/",
+              "text": "Just be careful and look for time zones specified. I\u2019ve applied to conferences where the time zone was different than the location for a conference. For instance, it was 11:59 west coast time but the conference is in Lisbon",
+              "author": "Stereoisomer",
+              "created": 1639582953,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
+    },
+    "hoknrqz": {
+      "link": "/r/AskAcademia/comments/rge7k1/if_the_deadline_for_abstract_submission_is/hoknrqz/",
+      "text": "Sometimes the websites can get bogged down with last minute submissions, or there's more to the submission process than you realize. I'd recommend not waiting until the last minute to submit",
+      "author": "aledaml",
+      "created": 1639523335,
+      "upvotes": 7,
+      "replies": {
+        "hokpl0d": {
+          "link": "/r/AskAcademia/comments/rge7k1/if_the_deadline_for_abstract_submission_is/hokpl0d/",
+          "text": "That is a good tip! I already walked through the entire form just in case, so right now I'm just waiting for a few final comments from my supervisor and I'll probably be able to hand it in first thing in the morning.",
+          "author": "cellardoorling",
+          "created": 1639524133,
+          "upvotes": 4,
+          "replies": {}
+        }
+      }
+    },
+    "hokhyib": {
+      "link": "/r/AskAcademia/comments/rge7k1/if_the_deadline_for_abstract_submission_is/hokhyib/",
+      "text": "It's inclusive but they'll likely give a time too.\n\nI had an interesting one recently, we submitted to a machine learning conference (not our field normally) and the deadline was \"noon on Monday anywhere in the world\" which for us meant the deadline was actually noon on Tuesday (as Tuesday for us was still Monday in some Pacific Islands or wherever).",
+      "author": "Broric",
+      "created": 1639520853,
+      "upvotes": 3,
       "replies": {}
+    },
+    "hom1tgx": {
+      "link": "/r/AskAcademia/comments/rge7k1/if_the_deadline_for_abstract_submission_is/hom1tgx/",
+      "text": "Also, don\u2019t wait until a day before the deadline. It\u2019s an abstract. It doesn\u2019t have to be perfect. Write, submit, done.",
+      "author": "smallthingsrock",
+      "created": 1639547284,
+      "upvotes": 3,
+      "replies": {
+        "honajdn": {
+          "link": "/r/AskAcademia/comments/rge7k1/if_the_deadline_for_abstract_submission_is/honajdn/",
+          "text": "Seconding this as someone relatively new to selecting presenters for a conference section. \n\nMe, my first year doing that, a week before the deadlines: Ahh, we have no submissions except something barely comprehensible that shows zero awareness of the field. I'm clearly a terrible person who can't write an attractive call for papers. Or maybe my subsubfield is just even more boring than my parents think it is. Maybe my field is actually dying. Why did I choose this career?\n\nMe, my first year doing that, a day after the deadline: Oh, wow, so many amazing proposals. How do I pick the best few?",
+          "author": "CruxAveSpesUnica",
+          "created": 1639578143,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
     }
   }
 }

@@ -5,7 +5,7 @@
   "text": "STEM = Science Technology Engineering Math\n\nI will absolutely agree that: (1) Engineering and Technology, (2) Health Care (sub sector of \u201cScience\u201d) and (3) Statistics/Data Science (subsector of\u201cMath\u201d..?) are in high demand and are usually well paid. Going into any of these specific fields directly is healthy. \n\nHOWEVER basic scientists like biologists and chemists are not paid all that great and are certainly not in demand. It\u2019s not quite as bad as being a Art History major but I see many similarities on these Reddit threads between science grad students and humanities grad students. It\u2019s not unusual for grads with M.S. in life sciences to apply for many jobs with hopes of making just $45-50k. Meanwhile their business and engineering counterparts start out at $80k with a just B.S. \n\nOk. So what? Why is this a problem? Well because many naive students believe their hard work, years of late night studying, 45 page thesis, lab work, etc. in life sciences will translate to a good paying job easily. I mean it is \u201cSTEM\u201d right? But that\u2019s just not the case. It\u2019s a problem because budding science undergrads should be warned with a flashing red light that if they don\u2019t go into health care directly, their degree will require several more years of study for a job that will probably be underpaid.\n\n(Steps off of soap box...)",
   "author": "vols1992",
   "created": 1551566789,
-  "updated": 1634080096,
+  "updated": 1639841765,
   "over_18": false,
   "upvotes": 409,
   "upvote_ratio": 0.96,
@@ -685,6 +685,32 @@
                       "replies": {}
                     }
                   }
+                }
+              }
+            }
+          }
+        },
+        "how95ir": {
+          "link": "/r/AskAcademia/comments/awnegi/can_we_talk_about_how_strictly_stem_doesnt_really/how95ir/",
+          "text": "i know this comment is from 2 years ago, but would you happen to still have that document?",
+          "author": "armadilloes",
+          "created": 1639730747,
+          "upvotes": 1,
+          "replies": {
+            "hoxo39a": {
+              "link": "/r/AskAcademia/comments/awnegi/can_we_talk_about_how_strictly_stem_doesnt_really/hoxo39a/",
+              "text": "Feel free to ignore what isn't helpful. I had to write this up for something but kept the text. All the best, Brandt\n\nYou expressed an interest in what bioinformatics was like for a career but weren't getting a whole lot of responses. I had written up a narrative of my career path for something else but thought you might benefit from it as it talks through some of the steps involved in training and what I do on a daily basis. It's below:\n\nMy career started when I began working in a cancer wet lab during college. After graduating, I worked for a few years for biotech companies doing research and development of molecular diagnostics technologies. I spent the next couple years after that doing drug development with preclinical animal models. After being out of school for about five years, I decided I needed a PhD to progress in my career so I did a PhD in molecular genetics and microbiology where I studied human genes necessary for dengue virus to replicate in cells. while doing this, next generation sequencing first appeared and I tested to see what happens to the viruses genome without the human gene and found cool perturbations in the swarm of viral quasispecies. I thought this kind of technology, bioinformatics in particular, was a much cooler thing to do than perform experiments in tissue culture or with model organisms and decided to pursue this direction. I took on a project in molecular epidemiology trying to figure out how the genetics of malaria parasites is impacted by geospatial and ecological factors in an effort to predict drug resistance emergence in malaria. Finally, I finished the PhD and found I wasn't competitive for the jobs I wanted and was being offered jobs I didn't want\n\nI spent six months taking classes from a community college in SQL, python, R, database stuff, statistics and so on. I also found that there were tons of free classes online to help add to my programming skills. While doing these classes, reading programming textbooks and completing hobby programming projects, I found a local python/tableau user group and started attending the meetings.\n\nAt this point I found I was competitive for genetics data scientist jobs. I applied and interviewed for jobs with companies using next gen sequencing for newborn genetic screening, illumina preparing analytical pipelines for researchers, agricultural seed genetics companies, biotech genetic therapy drug development companies and so on.\n\nUltimately, I took a position with a population institute within UNC where I serve as a genetics expert for a study that has tracked tens of thousands of of people from adolescence over the last 40 years. Now that these folks are hitting middle age and showing signs of chronic disease, they were very interested in finding out what sort of genetic variants, epigenetics markers, gene expression profiles, microbial Flora and so on, predict, and maybe contribute to disease. I've begun studies in each of these areas as I am getting sequencing, transcriptomics, proteomics, metagenomics and epigenetics data from the participants. I'm using machine learning, statistical models and existing bioinformatics tools to drive that understanding. I collaborate with a cardiologist for cardiovascular disease, genetic epidemiology researchers for gwas, sociologists and statisticians for behavioral phenotypes, and IT folks for research computing needs. Over the next few years , I anticipate expanding my role to something more along the lines of a genetics core for the whole institute to provide these kinds of opportunities to other studies beyond the life course one I described. I'm speaking to a data scientist Masters group next month about day to day stuff and taking one or two as interns in hopes of hiring folks to work on these projects.\n\nThe most important lesson I have drawn from my path and would hopefully benefit you as well, is that you need to be constantly learning and growing! That means taking classes, reading blogs, talking with people about their work, following the fields literature, attending seminars and talks, being part of interest groups. This is how I learned what I needed to complete each of my projects. Further, gaining a reputation as someone who is curious and engaged makes you more attractive for jobs. I think that that is the most useful thing you can do to enhance your career",
+              "author": "belevitt",
+              "created": 1639758485,
+              "upvotes": 1,
+              "replies": {
+                "hp0l4gx": {
+                  "link": "/r/AskAcademia/comments/awnegi/can_we_talk_about_how_strictly_stem_doesnt_really/hp0l4gx/",
+                  "text": "thank you so much, this was so helpful!!",
+                  "author": "armadilloes",
+                  "created": 1639804523,
+                  "upvotes": 1,
+                  "replies": {}
                 }
               }
             }

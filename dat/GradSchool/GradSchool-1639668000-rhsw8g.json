@@ -5,7 +5,7 @@
   "text": "I graduated with a Neurobiology B.S from a top state school (gpa 3.5). But my last 2 semesters I had to withdraw due to health reasons. I have since taken some public health classes and math classes online (diff eq, linear algebra). Got A\u2019s in everything so far and I think it shows I am improving academically. I plan on taking probability, a statistics course and a modeling course next year. I have no research experience and I currently have a job that uses SQL from time to time. I am not sure where I stand as a candidate for a Biostats MS. How can I make myself more competitive?",
   "author": "GreySheep123",
   "created": 1639668000,
-  "updated": 1639788517,
+  "updated": 1639879435,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 0.67,
@@ -59,7 +59,25 @@
       "author": "sovietxrobot",
       "created": 1639706033,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hp0zscg": {
+          "link": "/r/GradSchool/comments/rhsw8g/how_can_i_be_more_competitive_for_biostat_ms/hp0zscg/",
+          "text": "Thanks for the information! I plan on learning some R and Python on my own or through online classes before I apply. How skilled in R do you have to be before you start a masters?",
+          "author": "GreySheep123",
+          "created": 1639815236,
+          "upvotes": 1,
+          "replies": {
+            "hp18dpm": {
+              "link": "/r/GradSchool/comments/rhsw8g/how_can_i_be_more_competitive_for_biostat_ms/hp18dpm/",
+              "text": "You should check with the programs you are applying to if they use mostly R or SAS. The two languages are pretty different. My current program is entirely in SAS- I do everything in R regardless but I did run into some issues with replicating SAS results.\n\nYou want to be familiar with the basic tests and how R handles regression modeling. Manipulating data frames and matrices is key as well. A key skill is understanding how to create figures. The basic tools are pretty straightforward, but for advanced figures you will want to use the ggplot package, which has a bit of a learning curve.",
+              "author": "sovietxrobot",
+              "created": 1639822590,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

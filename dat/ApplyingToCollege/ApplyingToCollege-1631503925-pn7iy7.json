@@ -5,7 +5,7 @@
   "text": "This [guy](https://reddit.com/user/me)",
   "author": "TakeTheWs",
   "created": 1631503925,
-  "updated": 1634575774,
+  "updated": 1639813779,
   "over_18": false,
   "upvotes": 1563,
   "upvote_ratio": 0.99,
@@ -1070,6 +1070,32 @@
       "created": 1634443658,
       "upvotes": 1,
       "replies": {}
+    },
+    "hmb0zg3": {
+      "link": "/r/ApplyingToCollege/comments/pn7iy7/this_guy_has_a_perfect_application_and_wont_get/hmb0zg3/",
+      "text": "I almost puked",
+      "author": "ItsEggTime_113",
+      "created": 1638040260,
+      "upvotes": 1,
+      "replies": {
+        "hmb41yk": {
+          "link": "/r/ApplyingToCollege/comments/pn7iy7/this_guy_has_a_perfect_application_and_wont_get/hmb41yk/",
+          "text": "This is three months old... how did you find this LMAO",
+          "author": "TakeTheWs",
+          "created": 1638041525,
+          "upvotes": 1,
+          "replies": {
+            "hmb44z1": {
+              "link": "/r/ApplyingToCollege/comments/pn7iy7/this_guy_has_a_perfect_application_and_wont_get/hmb44z1/",
+              "text": "I searched up rejection in the keyword bar to emotionally prepare myself for what\u2019s going to happen  in 20 days :)",
+              "author": "ItsEggTime_113",
+              "created": 1638041559,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

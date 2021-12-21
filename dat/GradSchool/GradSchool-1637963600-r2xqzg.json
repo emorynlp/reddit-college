@@ -5,7 +5,7 @@
   "text": "I\u2019m a chemistry PhD student, and some of the students in my first year gen chem classes have never been exposed to excel. Is this normal? I started using excel as early as middle school, maybe even elementary. However, I was lucky enough that my mom taught me (she wanted me to have a strong stem foundation) so I don\u2019t really remember when/if I learned before college. Thoughts?",
   "author": "basic-chem-student",
   "created": 1637963600,
-  "updated": 1638207987,
+  "updated": 1639882760,
   "over_18": false,
   "upvotes": 30,
   "upvote_ratio": 0.89,
@@ -311,6 +311,14 @@
           }
         }
       }
+    },
+    "hntf6it": {
+      "link": "/r/GradSchool/comments/r2xqzg/when_did_you_learn_how_to_use_excel/hntf6it/",
+      "text": "I kinda just skipped over it and now fully use python pandas/R. Never needed to look back",
+      "author": "satin_worshipper",
+      "created": 1639026216,
+      "upvotes": 1,
+      "replies": {}
     }
   }
 }

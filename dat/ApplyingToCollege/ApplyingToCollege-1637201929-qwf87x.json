@@ -5,7 +5,7 @@
   "text": "Title",
   "author": "grdgree",
   "created": 1637201929,
-  "updated": 1637353088,
+  "updated": 1639832759,
   "over_18": false,
   "upvotes": 82,
   "upvote_ratio": 0.98,
@@ -170,7 +170,16 @@
                           "author": "murpalim",
                           "created": 1637261063,
                           "upvotes": 1,
-                          "replies": {}
+                          "replies": {
+                            "hlm5ace": {
+                              "link": "/r/ApplyingToCollege/comments/qwf87x/do_i_need_to_wear_a_suit_to_a_bsmd_interview/hlm5ace/",
+                              "text": "auto-admit",
+                              "author": "South_Extension69",
+                              "created": 1637566491,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
                         }
                       }
                     }

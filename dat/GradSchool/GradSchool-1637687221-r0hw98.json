@@ -5,7 +5,7 @@
   "text": "Context - I have 4 years of work experience and I'm currently doing an MSCS at a reputed college. I'm currently taking a research project consisting of 2 projects worth 3 credits each. The projects are spread out across two-semester (3 credits each semester). Me and my friend are currently working at a lab under a Ph.D. student (1st year) and are trying to publish a paper.\n\nWe started this project in August and the initial months we tinkered around with various tools until we settled into a framework that we were going to use to implement the algorithm. This was in September and it became very clear to me that the Ph.D. student had little to no idea how to use the frameworks and I explained to him patiently since I had used it quite often when I was working previously. Looking back, I should've seen that as a huge red flag.\n\nCome November, the professor we were meeting with informed us that there was a submission that we could target in early December and he asked us to contribute a \"little more\" to the project. I thought the early submission date was unreasonable and something smelt funny so I looked up the actual conference and the submission date for last year was Jan 1st week. I talked to my friend about this and he said they were messing around with us because the grade would have to be submitted for our project by mid-December so they were trying to get as much work as possible from us.\n\nMe and my friend started going into the lab from November once a week to work with the Ph.D. student and made progress implementing our setup as well as the algorithm. Soon, he started asking us to come in twice a week which bothered me because I knew he would just keep pushing us further and further until we came in every single day. I pushed back and told him we had assignments (I have 3 other courses and also doing interviews) so I wouldn't be able to come in that week.\n\nI went in the following week (he wanted me to make up for missing the last week). This is when the Ph.D. student laid all his cards on the table. He told me that the deadline is quickly approaching and we don't have much implemented. Hence, we'd have to come in every single day until the end of December to get as much work done. I told him that we had projects, and exams in the other courses and I would be busy. He started negotiating the number of days I'd need off for that. I asked for 3 and he said no \"2 would be enough\" (really ticked me off that he was asking me to compromise my other courses). He asked me to work until the end of December which bothered me because he was asking me to give up my Christmas break.\n\nAt this point, I told him that what he was doing was not okay and I was not fine with any of this. Technically speaking, we are only supposed to work until the end of this semester (mid-December) and start again in the next semester (end of January). He started arguing saying that we didn't do any significant work in the last month and kept asking me what me and my friend (the other Master's student) had done in the last few weeks. This again, ticked me off since I knew for a fact the professor was happy with our work and I told this to the Ph.D. student. Anyway, he \"compromised\" and told me to work continuously until the end of this semester and then pick it up starting from the first week of January.\n\nHe asked me why I was leaving even though I knew there was a paper submission and told him that the professor had told us (the two master's students) that the deadline was Mid-December. He sheepishly told me that the deadline was the end of January and it'll be hard to submit if we don't \"work hard\".\n\nOverall, I feel very insulted that the Ph.D. student is talking to me this way. It's pretty clear to me that he has no idea how to implement his algorithm and is trying to blame us for it now. I even bought up issues with his implementation (things that weren't available in the framework) and his smiling response was \"Just do it somehow\". When I was leaving, he came running after me and told me that \"he didn't mean to sound like I wasn't doing work\".\n\nHow should I react to this situation? Should I bring this up with the professor himself mentioning everything that has happened? Should I speak with the student AND the professor and firmly set expectations? Me and the other student are very unhappy with the current situation because we both know if we work with him through January, he will either throw us under the bus for not being able to publish or keep giving us more and more work.\n\nEdit - I've heard from other Master's students working with him that he offers limited help from his side and threatens them with low grades unless they work more than 15 hours a week.",
   "author": "RainmaKer770",
   "created": 1637687221,
-  "updated": 1637689751,
+  "updated": 1639882627,
   "over_18": false,
   "upvotes": 3,
   "upvote_ratio": 0.71,
@@ -32,8 +32,73 @@
           "created": 1637689647,
           "upvotes": 1,
           "replies": {}
+        },
+        "hlun9wc": {
+          "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlun9wc/",
+          "text": "Seems better than trying to get undergrads to do everything. Now I'm pissed my Uni. doesn't offer a master's in my program.",
+          "author": "Pr0gr3s",
+          "created": 1637721181,
+          "upvotes": 0,
+          "replies": {}
         }
       }
+    },
+    "hlsrbu1": {
+      "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlsrbu1/",
+      "text": "Email the professor and the PI (set it up as a clarification) as we reach the end of the semester, and our work period ends on ( ), I just wanted to summarize what we have done and what we are expected to do: \n\n(summary of hours work, hours expected to work, goals, etc.)    Set it up as a starting point for your work in January, coming from the both of you (as it should of course). \n\nOr send it to the PI and cc the Professor.     \n\n\nThat way the PI, if they wish to unreasonable, would be put in a position to do so in writing.",
+      "author": "minilibrarian",
+      "created": 1637692346,
+      "upvotes": 5,
+      "replies": {}
+    },
+    "hlt6rpc": {
+      "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlt6rpc/",
+      "text": "This is a tricky situation because your labor is for academic credit rather than pay. As an employee, you tend to have a contract and some rights to control your hours (especially with a union behind you). As a student, you are at the mercy of the person grading you, which can lead to a conflict of interest when your \"coursework\" is also labor that your boss benefits from. (The same issue comes up in mandatory for-credit teaching assistantships.) \n\nHowever, it sounds like the unrealistic expectations are coming mostly from the PhD student, and I assume the professor is the one making final decisions about your grade. I would talk to the professor directly and ask exactly what you need to do this semester to earn an A. If the PhD student asks for more than that, say no. It sounds like the PhD student may be trying to pass their own work off on you; I wonder if the professor is aware of exactly what you've been doing (and what the PhD student perhaps *hasn't* been doing.) \n\nIf the professor's expectations are also unreasonable (much more hours per week than is typical for the number of credit hours) you could try going above them, perhaps to an academic dean or graduate program director. This carries the risk of retaliation and I would definitely try to have alternatives open for your spring semester. I would also suggest keeping a log where you document the time you're spending each week and exactly what was asked of you when and by whom (e.g., \"Thursday 11/18, 2 pm meeting, student X requested that I work full time daily through the semester and break, we compromised to 3 days per week to the end of the semester and starting in January before the semester starts\").",
+      "author": "myristicae",
+      "created": 1637698380,
+      "upvotes": 5,
+      "replies": {
+        "hlt9va2": {
+          "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlt9va2/",
+          "text": "Thank you, this is very helpful.",
+          "author": "RainmaKer770",
+          "created": 1637699607,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
+    },
+    "hlsqhg0": {
+      "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlsqhg0/",
+      "text": "OP, I am a PhD student and have multiple masters students working with me on deadline driven projects. It\u2019s unacceptable to be treated like a slave. But depending on the lab culture you cannot complain about being over worked but you can in a polite way inform the professor of the way the PhD student is behaving. Understand that PhD student is important to the lab compared to the masters student. Also document everything. Write a plan, inform the professor of upcoming finals etc. I always check with masters students and we come up with a plan which works for everyone. Is the professor paying you for your work?",
+      "author": "casperbunny",
+      "created": 1637692020,
+      "upvotes": 3,
+      "replies": {}
+    },
+    "hlstqts": {
+      "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlstqts/",
+      "text": "Quit the project?",
+      "author": "Glarkin42",
+      "created": 1637693269,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hlsws0p": {
+      "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlsws0p/",
+      "text": "Most definitely contact the professor about this behaviour",
+      "author": "fjkfjldsls",
+      "created": 1637694447,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hlub94o": {
+      "link": "/r/GradSchool/comments/r0hw98/phd_student_pressuring_me_to_do_more_and_more_work/hlub94o/",
+      "text": "> Should I speak with the student AND the professor and firmly set expectations?\n\nYes. You need to get everyone on the same page about the deadline and the priorities, which means face-to-face everyone in the same room so there are no miscommunications. \n\nBe wary about assuming he's trying to pass off your work as his own, because you actually haven't mentioned any evidence of that. His timeline mismatch was odd, but it's his first year, he could have just been mistaken and overly confident. First-year PhD students are like that. \n\nTo avoid future conflicts like this, try to bring up these issues as soon as you notice them, rather than guessing or assuming what's going on. In this case that would have meant saying, back in November, \"Hey PhD student, you said the deadline is in early December, but last year this conference was due in early January. Where are you reading that this year the deadline will be so early?\"",
+      "author": "pb-pretzels",
+      "created": 1637715521,
+      "upvotes": 1,
+      "replies": {}
     }
   }
 }

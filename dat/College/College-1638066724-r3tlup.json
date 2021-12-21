@@ -5,7 +5,7 @@
   "text": "So, i'm working towards my degree at a community college. Would i be able to find a good job with an associates degree or should i just pursue a bachelor's degree.",
   "author": "garrett2116",
   "created": 1638066724,
-  "updated": 1638206790,
+  "updated": 1639850836,
   "over_18": false,
   "upvotes": 33,
   "upvote_ratio": 0.96,
@@ -120,7 +120,25 @@
                   "author": "garrett2116",
                   "created": 1638145812,
                   "upvotes": 1,
-                  "replies": {}
+                  "replies": {
+                    "hmmz9kn": {
+                      "link": "/r/college/comments/r3tlup/computer_science_degree/hmmz9kn/",
+                      "text": "Most job that makes good $ has math. Calculus one of them.",
+                      "author": "CarSuperFast",
+                      "created": 1638257340,
+                      "upvotes": 1,
+                      "replies": {
+                        "hmqf3zs": {
+                          "link": "/r/college/comments/r3tlup/computer_science_degree/hmqf3zs/",
+                          "text": "Ya the cyber degree requires algebra which i'm taking next semester.",
+                          "author": "garrett2116",
+                          "created": 1638318793,
+                          "upvotes": 1,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }

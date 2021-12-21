@@ -5,7 +5,7 @@
   "text": "\n\nIs Mount Mary a good school for Media/Art students? What does it feel like when u studying in a Catholic uni?  Thank u!",
   "author": "Lilvutra",
   "created": 1639759560,
-  "updated": 1639785591,
+  "updated": 1639806503,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -16,7 +16,25 @@
       "author": "Strict-Special3607",
       "created": 1639772605,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hozmref": {
+          "link": "/r/ApplyingToCollege/comments/rilha4/college_informationadvice_needed_for_mount_mary/hozmref/",
+          "text": "Mount Mary university",
+          "author": "Lilvutra",
+          "created": 1639787003,
+          "upvotes": 1,
+          "replies": {
+            "hozu0g9": {
+              "link": "/r/ApplyingToCollege/comments/rilha4/college_informationadvice_needed_for_mount_mary/hozu0g9/",
+              "text": "Mount St Mary\u2019s University, MD?  \n\n\nMount St. Mary\u2018s University, CA?\n\nMount St Mary\u2019s College, NY?\n\nMarymount College, NY?\n\nMarymount College, VA?\n\nLoyola Marymount, CA?",
+              "author": "Strict-Special3607",
+              "created": 1639790342,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }

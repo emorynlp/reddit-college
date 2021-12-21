@@ -5,7 +5,7 @@
   "text": "If you\u2019re like 99% of people submitting the common app last second you know it won\u2019t load the PDF and let you finish submitting. Here\u2019s the steps I took.\n\n1. Press review and submit. You should get the screen asking you to review the PDF, but have a big loading symbol blocking you from being great.\n2. Right click on the loading symbol and press Inspect\n3. The line you need to delete should already be highlighted, but it starts off like <div _ngcontent-emx and so on. Right click and press Delete Element.\n4. Now you can check off that you\u2019ve reviewed the PDF. Submit payment and complete your application. You might get an error after doing it, but i just kept spamming until it stopped letting me submit. \n\nGood luck to all of you!\n\nEdit: Common app should be working again",
   "author": "uncledrewwasalie",
   "created": 1638419277,
-  "updated": 1638478022,
+  "updated": 1639832152,
   "over_18": false,
   "upvotes": 11,
   "upvote_ratio": 0.92,
@@ -31,7 +31,16 @@
           "author": "Intelligent_Ad_2041",
           "created": 1638421669,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hn2fkoc": {
+              "link": "/r/ApplyingToCollege/comments/r6yqzx/common_app_workaround/hn2fkoc/",
+              "text": "No did you?",
+              "author": "Exciting_Owl_2143",
+              "created": 1638539908,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
         }
       }
     },

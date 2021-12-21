@@ -5,7 +5,7 @@
   "text": "I just received my bachelor's degree in electrical engineering, and I'm thinking about going back to pursue a PhD at some point.\n\nI'm curious to hear from you: what are the most exciting areas of research in your field right now, and what technologies could it enable in the future? How could someone learn more about this research if they were interested?\n\nThanks!",
   "author": "alphadax",
   "created": 1615739442,
-  "updated": 1634081252,
+  "updated": 1639840046,
   "over_18": false,
   "upvotes": 147,
   "upvote_ratio": 0.96,
@@ -227,7 +227,16 @@
           "author": "calfungo",
           "created": 1615801433,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hnzm2no": {
+              "link": "/r/AskAcademia/comments/m4ydc7/stem_whats_the_most_exciting_research_being_done/hnzm2no/",
+              "text": "It is widely believed that quantum computing is not even NP complete, so on that level of granularity, no, quantum computers don't seem to give anything beyond what a regular Turing machine can do given enough time.",
+              "author": "johnie102",
+              "created": 1639145886,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
         }
       }
     },

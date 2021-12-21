@@ -5,7 +5,7 @@
   "text": "How many applied? ED ? compared to previous years",
   "author": "svday",
   "created": 1639441773,
-  "updated": 1639513359,
+  "updated": 1639815956,
   "over_18": false,
   "upvotes": 545,
   "upvote_ratio": 0.99,
@@ -37,7 +37,25 @@
                   "author": "tripletim",
                   "created": 1639454218,
                   "upvotes": 3,
-                  "replies": {}
+                  "replies": {
+                    "hok11mk": {
+                      "link": "/r/ApplyingToCollege/comments/rfuivk/anyone_know_the_stats_from_cornell/hok11mk/",
+                      "text": "You say \u201c:)\u201d but your snoo says \u201c:(\u201c",
+                      "author": "Pattywackist",
+                      "created": 1639513920,
+                      "upvotes": 3,
+                      "replies": {
+                        "hokcieu": {
+                          "link": "/r/ApplyingToCollege/comments/rfuivk/anyone_know_the_stats_from_cornell/hokcieu/",
+                          "text": "blending in with the cornellians \ud83d\ude0e",
+                          "author": "tripletim",
+                          "created": 1639518583,
+                          "upvotes": 2,
+                          "replies": {}
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }
@@ -1117,6 +1135,23 @@
       "created": 1639508870,
       "upvotes": 1,
       "replies": {}
+    },
+    "hom48ea": {
+      "link": "/r/ApplyingToCollege/comments/rfuivk/anyone_know_the_stats_from_cornell/hom48ea/",
+      "text": "accepted into cornell engineering :) so happy",
+      "author": "goattissethybulle",
+      "created": 1639548788,
+      "upvotes": 3,
+      "replies": {
+        "hop9lq2": {
+          "link": "/r/ApplyingToCollege/comments/rfuivk/anyone_know_the_stats_from_cornell/hop9lq2/",
+          "text": "Great job!",
+          "author": "HappyDragonBoy",
+          "created": 1639606137,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

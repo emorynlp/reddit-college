@@ -5,7 +5,7 @@
   "text": "Hey y'all - I'm in the middle of coding a college admissions simulation game and need a dataset (like in a CSV) that includes admissions stats (acceptance rate, test score percentiles, etc.) for most to all major institutions in the US. Does anyone know of such a thing? Would be awesome if I could get that.",
   "author": "interloper100",
   "created": 1638470211,
-  "updated": 1638478002,
+  "updated": 1639807105,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -26,6 +26,14 @@
           "replies": {}
         }
       }
+    },
+    "hmzr331": {
+      "link": "/r/ApplyingToCollege/comments/r7e09n/college_admissions_dataset/hmzr331/",
+      "text": "IPEDS - \u201cYour primary source for information on U.S. colleges, universities, and technical and vocational institutions.\u201d\n\n[https://nces.ed.gov/ipeds/](https://nces.ed.gov/ipeds/)",
+      "author": "RichInPitt",
+      "created": 1638484915,
+      "upvotes": 1,
+      "replies": {}
     }
   }
 }

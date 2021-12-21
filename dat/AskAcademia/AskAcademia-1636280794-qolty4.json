@@ -5,7 +5,7 @@
   "text": "Hi all. I\u2019ve been using Mendeley to cite references while writing my paper which has been accepted for publication.  \nIt requires some revision and adding/ deleting some references.\nThe numbers are not syncing correcting. Say I deleted reference no. 20; references no. 21 still stays as reference no. 21 and not 20. How do I fix this ? This is very frustrating and I am finding Mendeley Cite extremely slow.\nI am not keen to remove formatting to change this manually in case I need to do more revisions.\nI am using word 365 on MacOS Big Sur if that helps. \nPlease help! It is with switching to Zotero ?!",
   "author": "baciperugina",
   "created": 1636280794,
-  "updated": 1636654684,
+  "updated": 1639839517,
   "over_18": false,
   "upvotes": 6,
   "upvote_ratio": 0.87,
@@ -83,6 +83,14 @@
       "text": "Thanks all for ur input. I decided to switch to Zotero and re do all the references . Seems far less buggy than Mendeley and a lot faster!",
       "author": "baciperugina",
       "created": 1636395709,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hoyeaov": {
+      "link": "/r/AskAcademia/comments/qolty4/publication_issues_with_order_of_citations_in/hoyeaov/",
+      "text": "A bit of a late reply to this but you can also try [Citasion.com](https://Citasion.com) or [Paperpile.com](https://Paperpile.com). There are different platforms supported for each so worth checking out if you are planning to move away from the standard Zotero or Mendeley model.",
+      "author": "micdhack",
+      "created": 1639768501,
       "upvotes": 1,
       "replies": {}
     }

@@ -5,7 +5,7 @@
   "text": "hey i need some help because i\u2019m set on majoring in business but only UCB and UCD offer courses related to business however there is a program called business economics in UCLA and UCSD. Could someone please explain to me what that is and whether it would be useful for me if i want to do finance in the future because I love the UCSD campus and there would be no point in me applying there if the major i want is not offered :/",
   "author": "Icy_Mathematician423",
   "created": 1638162503,
-  "updated": 1638204446,
+  "updated": 1639824979,
   "over_18": false,
   "upvotes": 3,
   "upvote_ratio": 1.0,
@@ -122,7 +122,25 @@
                           "author": "Icy_Mathematician423",
                           "created": 1638200847,
                           "upvotes": 1,
-                          "replies": {}
+                          "replies": {
+                            "hmjsbly": {
+                              "link": "/r/ApplyingToCollege/comments/r4o49j/uc_app/hmjsbly/",
+                              "text": "Well... I'm not sure what you mean by \"investment banking\" since the Volcker Rule largely killed off what once were investment banks in the US. If you are like most people, you use the term to either mean trading or banking/M&A/VC/PE.\n\nFor trading, most risk-bearing capacity now resides at trading shops and hedge funds with large asset managers bridging the gap to longer-term holdings (investing vs trading). Honestly, the number of places trading that are not at least using some quant infrastructure is small. Many also have their investment decisions guided by some analysis, so you have to be incredibly smart (and keep learning) to go far after a few years with just a BS.\n\nBanking/M&A has become decently quantitative as well with some banks now teaching Python in orientation, so a masters would be useful there as well. VC and PE are the slow kids of the bunch, but that is changing as places like SignalFire, Google, and others runs rings around their competition using quant models to augment their assessments.\n\nSo do you have to do a masters? No, a solid grounding in econometrics (like you'd get at UCSD or UCB) will help you go farther without a masters. However, after a few years of working you will probably find (like 90% or more of my students) that a masters is a good idea and quickly pays for itself.",
+                              "author": "minimuminfeasibility",
+                              "created": 1638204848,
+                              "upvotes": 2,
+                              "replies": {
+                                "hmjssct": {
+                                  "link": "/r/ApplyingToCollege/comments/r4o49j/uc_app/hmjssct/",
+                                  "text": "thank you !\noh i didn\u2019t know that as i\u2019m an international student and we call it investment banking over here",
+                                  "author": "Icy_Mathematician423",
+                                  "created": 1638205034,
+                                  "upvotes": 1,
+                                  "replies": {}
+                                }
+                              }
+                            }
+                          }
                         }
                       }
                     }

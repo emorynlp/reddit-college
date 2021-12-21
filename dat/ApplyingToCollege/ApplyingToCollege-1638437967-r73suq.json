@@ -5,7 +5,7 @@
   "text": "I just want to increase my chances ,I applied for cs .",
   "author": "okgreat123",
   "created": 1638437967,
-  "updated": 1638478121,
+  "updated": 1639828026,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -23,7 +23,25 @@
           "author": "Arnavsmayan",
           "created": 1638452906,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hn5yuj4": {
+              "link": "/r/ApplyingToCollege/comments/r73suq/so_i_applied_early_action_to_purdue_however_i_did/hn5yuj4/",
+              "text": "They probably won\u2019t give u cs if you don\u2019t get ds \ud83d\ude02.",
+              "author": "joshuajy03",
+              "created": 1638597416,
+              "upvotes": 1,
+              "replies": {
+                "hn6o17h": {
+                  "link": "/r/ApplyingToCollege/comments/r73suq/so_i_applied_early_action_to_purdue_however_i_did/hn6o17h/",
+                  "text": "\ud83d\ude02\ud83d\ude02",
+                  "author": "Arnavsmayan",
+                  "created": 1638617449,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     },

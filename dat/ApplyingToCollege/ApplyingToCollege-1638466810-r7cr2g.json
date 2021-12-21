@@ -5,7 +5,7 @@
   "text": "So confused rn",
   "author": "theveryfirstpage",
   "created": 1638466810,
-  "updated": 1638478013,
+  "updated": 1639813798,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 1.0,
@@ -30,9 +30,52 @@
               "author": "pupuphlatter",
               "created": 1638469229,
               "upvotes": 1,
-              "replies": {}
+              "replies": {
+                "hn0wktl": {
+                  "link": "/r/ApplyingToCollege/comments/r7cr2g/if_i_already_did_the_css_profile_do_i_still_have/hn0wktl/",
+                  "text": "Thank you!",
+                  "author": "theveryfirstpage",
+                  "created": 1638503248,
+                  "upvotes": 1,
+                  "replies": {
+                    "hn0yhtj": {
+                      "link": "/r/ApplyingToCollege/comments/r7cr2g/if_i_already_did_the_css_profile_do_i_still_have/hn0yhtj/",
+                      "text": "Np. Good luck!",
+                      "author": "pupuphlatter",
+                      "created": 1638504148,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
             }
           }
+        }
+      }
+    },
+    "hmzgsl5": {
+      "link": "/r/ApplyingToCollege/comments/r7cr2g/if_i_already_did_the_css_profile_do_i_still_have/hmzgsl5/",
+      "text": "yes, if your schools require it",
+      "author": "tteasis",
+      "created": 1638480871,
+      "upvotes": 1,
+      "replies": {}
+    },
+    "hmzs0qd": {
+      "link": "/r/ApplyingToCollege/comments/r7cr2g/if_i_already_did_the_css_profile_do_i_still_have/hmzs0qd/",
+      "text": "Look at your CSS application and see if any schools are awaiting documents.\n\nSome schools want hard copies of tax forms to support the entered data, some don\u2019t.\n\nIf any do, then yes, you need to submit them via IDOC.",
+      "author": "RichInPitt",
+      "created": 1638485301,
+      "upvotes": 1,
+      "replies": {
+        "hn0wk7e": {
+          "link": "/r/ApplyingToCollege/comments/r7cr2g/if_i_already_did_the_css_profile_do_i_still_have/hn0wk7e/",
+          "text": "Thanks!",
+          "author": "theveryfirstpage",
+          "created": 1638503241,
+          "upvotes": 1,
+          "replies": {}
         }
       }
     }

@@ -5,9 +5,36 @@
   "text": "Question for German academics: what is the \"Promotionssemester\" good for? Is it required at all German universities? I have been writing my dissertation at a German university for 6 years as a fully funded and employed research scientist. I have never been officially registered as a Ph.D. student, and it was never required. Now to hand in my thesis I need to register (\"immatrikulieren\") as a Promotionsstudent (PhD student), produce a heap of documentation about my Bachelor's (!) and Master's degree, and pay a (small) registration sum. Essentially, I need to register as a normal student at the university. This is \\*on top\\* of the normal formal requirements for handing in a Ph.D. thesis, which already include a \"polizeiliches F\u00fchrungszeugnis\", documentation of my Master's degree and other stuff. I personally cannot see any benefit for requiring people to register formally as a Ph.D. student for handing in their theses, so what is this good for? Why does it exist? It just seems to pointlessly add to the already huge amount of administrative hoops you need to jump through to hand in a thesis.",
   "author": "jhinboy",
   "created": 1638192988,
-  "updated": 1638206274,
+  "updated": 1639840087,
   "over_18": false,
   "upvotes": 1,
   "upvote_ratio": 0.67,
-  "comments": {}
+  "comments": {
+    "hmp280r": {
+      "link": "/r/AskAcademia/comments/r4vzua/promotionssemester/hmp280r/",
+      "text": "So I am in German Switzerland and thus can\u2019t answer since our system is similar but not identical, but from an administration perspective it makes perfect sense. PhDs are only granted to registered doctoral students. End of story. In fact I would wonder if there is any school on Earth that has regulations which allow the granting of doctorates to people who are not registered at the school.\n\nYeah it\u2019s annoying. Yes it may seem excessive. But honestly\u2026it makes sense.",
+      "author": "TheLogicalConclusion",
+      "created": 1638298529,
+      "upvotes": 3,
+      "replies": {
+        "hms4u7o": {
+          "link": "/r/AskAcademia/comments/r4vzua/promotionssemester/hms4u7o/",
+          "text": "Thanks for your reply! This is probably a stupid question, but in which way does it make sense to require people to register? Like, what is that actually good for? I understand the need for some documentation that I have the necessary prior degrees etc., but as I said, I need to provide that documentation anyway when handing in, independent of the registration as a doctoral student.",
+          "author": "jhinboy",
+          "created": 1638354652,
+          "upvotes": 1,
+          "replies": {
+            "hms6li5": {
+              "link": "/r/AskAcademia/comments/r4vzua/promotionssemester/hms6li5/",
+              "text": "Honestly my bet is it\u2019s just institutional. Like if someone asks \u201cwhere do I find info about the PhDs we granted?\u201d The answer is always \u201cin the phd student database. You see in progress and granted and dropped out degrees\u201d. The whole system is engineered tk make as little extra work as possible (as it should be), but that optimization was done for the school. So they want you in the phd student system because that is where people getting PhDs go. And if anything ever comes up later that is where they will find your info. If in a decade someone wants to verify your degree your school knows which internal database and system to do that though. \n\nIdk when I worked on large corporations systems like this were meant to reduce errors and provide legal cover. I think it\u2019s daily clear how a standardized system (even if it complicates a rate edge case) does that at scale.\n\nEdit: I mean imagine you run a lab and everyone stores their data in a shared drive (something few academic labs do but honestly is the absolute minimum of responsible data handling). One student says \u201cmy project isn\u2019t shared with anyone so I will use my own storage method and file formats\u201d. You say \u201cbut if I need your data later I want it where I know all data is, and in the format we agreed as a lab to use and which I can open\u201d. You are creating slightly more work for the student but the gain is if you ever need to question that data again, it\u2019s where all data is. And it is in the same format as all the other data. It isn\u2019t good enough for the student to hand you the data spread across emails and in random zip archives, even though in both cases you technically have the data. \n\nSame thing with your PhD records and being in the student database, in the same format as every other person who got a PhD from that school.",
+              "author": "TheLogicalConclusion",
+              "created": 1638356109,
+              "upvotes": 1,
+              "replies": {}
+            }
+          }
+        }
+      }
+    }
+  }
 }

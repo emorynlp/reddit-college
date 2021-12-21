@@ -5,7 +5,7 @@
   "text": "help me make the rejection sting less!!!1!1!!",
   "author": "katx_x",
   "created": 1636959590,
-  "updated": 1637180024,
+  "updated": 1639814533,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
@@ -33,7 +33,25 @@
       "author": "starconifer",
       "created": 1636997631,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hmql1au": {
+          "link": "/r/ApplyingToCollege/comments/quahc9/why_not_oregon_state_university/hmql1au/",
+          "text": "wait what's wrong with corvallis? i am unfamiliar with the town",
+          "author": "Delta280",
+          "created": 1638321456,
+          "upvotes": 1,
+          "replies": {
+            "hmt337c": {
+              "link": "/r/ApplyingToCollege/comments/quahc9/why_not_oregon_state_university/hmt337c/",
+              "text": "Oh nothing too bad! It\u2019s just very white town next to a very white major city. Plus the Pacific Northwest weather is a recipe for seasonal depression. Other than that it\u2019s a pretty place.",
+              "author": "starconifer",
+              "created": 1638373821,
+              "upvotes": 2,
+              "replies": {}
+            }
+          }
+        }
+      }
     }
   }
 }
