@@ -5,7 +5,7 @@
   "text": "Title.",
   "author": "The_Ideological_Bean",
   "created": 1639782903,
-  "updated": 1639785364,
+  "updated": 1645834062,
   "over_18": false,
   "upvotes": 4,
   "upvote_ratio": 1.0,
@@ -32,7 +32,16 @@
       "author": "MrBulldog25",
       "created": 1639784257,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hp7wgcf": {
+          "link": "/r/ApplyingToCollege/comments/rith7s/uchicago_defer_rate_rd_acceptance_rate_after/hp7wgcf/",
+          "text": "Do you know EDII acceptance rate for deferred EAs? I bet it's very very low.",
+          "author": "ElaineBenesFan",
+          "created": 1639950870,
+          "upvotes": 1,
+          "replies": {}
+        }
+      }
     }
   }
 }

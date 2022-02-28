@@ -5,7 +5,7 @@
   "text": "Title. Thanks!!",
   "author": "Mysterious_Lemon8408",
   "created": 1639430943,
-  "updated": 1639514175,
+  "updated": 1645850634,
   "over_18": false,
   "upvotes": 3,
   "upvote_ratio": 1.0,
@@ -129,7 +129,43 @@
       "author": "Mysterious_Lemon8408",
       "created": 1639432790,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hq4edfw": {
+          "link": "/r/ApplyingToCollege/comments/rfqny4/does_anyone_know_how_to_withdraw_ut_austin/hq4edfw/",
+          "text": "Hey,  I tried doing that but I keep returning to same page. Any idea what I might be doing wrong?",
+          "author": "LordDefaultus",
+          "created": 1640589158,
+          "upvotes": 1,
+          "replies": {
+            "hq6103c": {
+              "link": "/r/ApplyingToCollege/comments/rfqny4/does_anyone_know_how_to_withdraw_ut_austin/hq6103c/",
+              "text": "Wdym? It should have a \u201ccancel application\u201d button after you click on admissions app",
+              "author": "Mysterious_Lemon8408",
+              "created": 1640625535,
+              "upvotes": 1,
+              "replies": {
+                "hq98m4n": {
+                  "link": "/r/ApplyingToCollege/comments/rfqny4/does_anyone_know_how_to_withdraw_ut_austin/hq98m4n/",
+                  "text": "[https://imgur.com/a/x7u3Eu2](https://imgur.com/a/x7u3Eu2)\n\nThis is what I get",
+                  "author": "LordDefaultus",
+                  "created": 1640680191,
+                  "upvotes": 1,
+                  "replies": {
+                    "hqap801": {
+                      "link": "/r/ApplyingToCollege/comments/rfqny4/does_anyone_know_how_to_withdraw_ut_austin/hqap801/",
+                      "text": "hmmm that\u2019s weird.",
+                      "author": "Mysterious_Lemon8408",
+                      "created": 1640710981,
+                      "upvotes": 1,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }

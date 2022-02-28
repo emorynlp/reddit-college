@@ -5,7 +5,7 @@
   "text": "I thought it was only if you were waitlisted",
   "author": "Hour-Direction-5535",
   "created": 1639769579,
-  "updated": 1639785448,
+  "updated": 1645859780,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
@@ -23,7 +23,25 @@
           "author": "_MyCircusMyMonkeys",
           "created": 1639774533,
           "upvotes": 2,
-          "replies": {}
+          "replies": {
+            "hq6kdqz": {
+              "link": "/r/ApplyingToCollege/comments/riozmg/i_got_deferred_from_my_early_school_should_i_send/hq6kdqz/",
+              "text": "Do AOs actually give extra points to deferred applicants who submitted LOCI? Or subtract points from those who didn't?",
+              "author": "ElaineBenesFan",
+              "created": 1640633411,
+              "upvotes": 1,
+              "replies": {
+                "hq6lfk1": {
+                  "link": "/r/ApplyingToCollege/comments/riozmg/i_got_deferred_from_my_early_school_should_i_send/hq6lfk1/",
+                  "text": "\"Points\" isn't quite right. Most admissions offices don't use \"points,\" especially those that use a holistic review.\n\nLOCIs are a bigger deal often for waitlisted students than ED deferred students, but especially if the school is asking for one, it's a good idea to submit one.",
+                  "author": "_MyCircusMyMonkeys",
+                  "created": 1640633845,
+                  "upvotes": 2,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     },

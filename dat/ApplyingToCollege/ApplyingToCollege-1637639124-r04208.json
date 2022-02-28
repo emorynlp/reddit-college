@@ -5,7 +5,7 @@
   "text": "Title",
   "author": "sonnydogx",
   "created": 1637639124,
-  "updated": 1639834001,
+  "updated": 1645860425,
   "over_18": false,
   "upvotes": 150,
   "upvote_ratio": 0.99,
@@ -261,6 +261,14 @@
                                       "replies": {}
                                     }
                                   }
+                                },
+                                "hqg9zgu": {
+                                  "link": "/r/ApplyingToCollege/comments/r04208/do_you_think_acceptance_rates_will_be_lower_this/hqg9zgu/",
+                                  "text": "You can be a horrible test taker and still be smart and an amazing student. A bad score on a standardized test doesn't mean you are less \"qualified\" or less likely to succeed than a student with a near perfect score.",
+                                  "author": "evil_genius_2",
+                                  "created": 1640808486,
+                                  "upvotes": 1,
+                                  "replies": {}
                                 }
                               }
                             },
@@ -281,6 +289,14 @@
                               "replies": {}
                             }
                           }
+                        },
+                        "hqg9rln": {
+                          "link": "/r/ApplyingToCollege/comments/r04208/do_you_think_acceptance_rates_will_be_lower_this/hqg9rln/",
+                          "text": "I know people that have gotten into HYPSM and other T20s with test scores way below the 25th percentile.",
+                          "author": "evil_genius_2",
+                          "created": 1640808401,
+                          "upvotes": 1,
+                          "replies": {}
                         }
                       }
                     },
@@ -421,6 +437,41 @@
                   "created": 1637681200,
                   "upvotes": 2,
                   "replies": {}
+                },
+                "hrw02h0": {
+                  "link": "/r/ApplyingToCollege/comments/r04208/do_you_think_acceptance_rates_will_be_lower_this/hrw02h0/",
+                  "text": "how do you see on naviance how many ppl form your school applied to a school?",
+                  "author": "michellewwu",
+                  "created": 1641714006,
+                  "upvotes": 2,
+                  "replies": {
+                    "hrxivwm": {
+                      "link": "/r/ApplyingToCollege/comments/r04208/do_you_think_acceptance_rates_will_be_lower_this/hrxivwm/",
+                      "text": "Only some schools use Naviance. If your school does use it:\n\n1. Log into Naviance\n2. Type in the college name in the search bar\n3. Click on it when it pops up\n4. Under \"Acceptance Rate,\" click \"Check out Scattergrams to see how this relates to you.\"\n5. There, you'll see a scattergram with stats as well as how many applied and were accepted. Know that Naviance data is self-reported so it's not 100% accurate. :)",
+                      "author": "toyota2003",
+                      "created": 1641746027,
+                      "upvotes": 1,
+                      "replies": {
+                        "hrzspzf": {
+                          "link": "/r/ApplyingToCollege/comments/r04208/do_you_think_acceptance_rates_will_be_lower_this/hrzspzf/",
+                          "text": "thank you! i see data from previous years, but where does it show 2022 applications (people who are also applying to that school in my year)",
+                          "author": "michellewwu",
+                          "created": 1641775707,
+                          "upvotes": 2,
+                          "replies": {
+                            "hrzusfq": {
+                              "link": "/r/ApplyingToCollege/comments/r04208/do_you_think_acceptance_rates_will_be_lower_this/hrzusfq/",
+                              "text": "It's probably not going to show that until like May, unfortunately.\n\nI think some schools have a privacy setting where they don't show the year's data until the year is over. My school doesn't give a shit about privacy so it shows the data for this year LOL\n\nHope this helps :)",
+                              "author": "toyota2003",
+                              "created": 1641776530,
+                              "upvotes": 1,
+                              "replies": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
                 }
               }
             }

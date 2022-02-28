@@ -5,7 +5,7 @@
   "text": "I should have typed \u201cJohn Smith\u201d but mistakenly entered \u201cSuresh Yamamoto\u201d. I proofread my application but must have missed it.\n\nIs this a problem?",
   "author": "RichInPitt",
   "created": 1637183419,
-  "updated": 1637353060,
+  "updated": 1645843583,
   "over_18": false,
   "upvotes": 344,
   "upvote_ratio": 0.98,
@@ -47,7 +47,34 @@
           "author": "whoisapotato",
           "created": 1637207949,
           "upvotes": 12,
-          "replies": {}
+          "replies": {
+            "hx5idkw": {
+              "link": "/r/ApplyingToCollege/comments/qw91zf/i_got_my_name_wrong_will_i_be_rejected/hx5idkw/",
+              "text": "What was the joke?",
+              "author": "Far-Statistician8281",
+              "created": 1645003068,
+              "upvotes": 2,
+              "replies": {
+                "hx5q0zj": {
+                  "link": "/r/ApplyingToCollege/comments/qw91zf/i_got_my_name_wrong_will_i_be_rejected/hx5q0zj/",
+                  "text": "I think they created an account called Suresh Yamamoto, lol.",
+                  "author": "whoisapotato",
+                  "created": 1645009237,
+                  "upvotes": 2,
+                  "replies": {
+                    "hx5r0ju": {
+                      "link": "/r/ApplyingToCollege/comments/qw91zf/i_got_my_name_wrong_will_i_be_rejected/hx5r0ju/",
+                      "text": "Lmao. \ud83d\ude02\ud83d\ude02",
+                      "author": "Far-Statistician8281",
+                      "created": 1645009973,
+                      "upvotes": 2,
+                      "replies": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },

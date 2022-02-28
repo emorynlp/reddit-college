@@ -5,7 +5,7 @@
   "text": "Title",
   "author": "riiptemp",
   "created": 1639443609,
-  "updated": 1639513732,
+  "updated": 1645850335,
   "over_18": false,
   "upvotes": 9,
   "upvote_ratio": 0.91,
@@ -81,7 +81,16 @@
       "author": "Thunderbird23",
       "created": 1639458475,
       "upvotes": 1,
-      "replies": {}
+      "replies": {
+        "hpg0yqf": {
+          "link": "/r/ApplyingToCollege/comments/rfv413/make_a_case_for_case_western/hpg0yqf/",
+          "text": "This is half the reason I like it",
+          "author": "1234_Person_1234",
+          "created": 1640106567,
+          "upvotes": 2,
+          "replies": {}
+        }
+      }
     }
   }
 }

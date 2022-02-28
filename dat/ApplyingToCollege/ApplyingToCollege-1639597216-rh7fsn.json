@@ -5,7 +5,7 @@
   "text": "UC Irvine portal, haven\u2019t Recieved until now ; should I be worried ?",
   "author": "EasternResult7606",
   "created": 1639597216,
-  "updated": 1639787237,
+  "updated": 1645835212,
   "over_18": false,
   "upvotes": 2,
   "upvote_ratio": 1.0,
@@ -23,7 +23,25 @@
           "author": "EasternResult7606",
           "created": 1639625409,
           "upvotes": 1,
-          "replies": {}
+          "replies": {
+            "hq9gc4z": {
+              "link": "/r/ApplyingToCollege/comments/rh7fsn/uc_irvine_portal_havent_recieved_until_now_should/hq9gc4z/",
+              "text": "have you received it yet?",
+              "author": "effective_storm_832",
+              "created": 1640686572,
+              "upvotes": 1,
+              "replies": {
+                "hq9ge18": {
+                  "link": "/r/ApplyingToCollege/comments/rh7fsn/uc_irvine_portal_havent_recieved_until_now_should/hq9ge18/",
+                  "text": "Yup I did now!",
+                  "author": "EasternResult7606",
+                  "created": 1640686617,
+                  "upvotes": 1,
+                  "replies": {}
+                }
+              }
+            }
+          }
         }
       }
     }
